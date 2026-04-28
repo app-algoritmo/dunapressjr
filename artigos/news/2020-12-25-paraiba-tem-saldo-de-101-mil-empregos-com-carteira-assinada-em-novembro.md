@@ -1,11 +1,12 @@
 ---
-title: "Paraíba tem saldo de 10,1 mil empregos com carteira assinada em novembro"
+title: Paraíba tem saldo de 10,1 mil empregos com carteira assinada em novembro
 date: 2020-12-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com o resultado fica registrado a maior alta no índice relativo do País.
 

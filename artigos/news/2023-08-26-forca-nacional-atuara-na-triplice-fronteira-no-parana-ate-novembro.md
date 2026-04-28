@@ -1,11 +1,12 @@
 ---
-title: "Força Nacional atuará na tríplice fronteira no Paraná até novembro"
+title: Força Nacional atuará na tríplice fronteira no Paraná até novembro
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Permanência foi autorizada pelo Ministério da Justiça.
 

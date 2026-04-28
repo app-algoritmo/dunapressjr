@@ -1,11 +1,12 @@
 ---
-title: "Sobre nossas cicatrizes"
+title: Sobre nossas cicatrizes
 date: 2019-07-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 As pessoas possuem cicatrizes. 
 Em todos os tipos de lugares inesperados. Como mapas secretos de suas historias pessoais. 

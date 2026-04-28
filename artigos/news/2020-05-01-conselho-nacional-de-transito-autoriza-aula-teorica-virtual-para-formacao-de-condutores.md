@@ -1,11 +1,13 @@
 ---
-title: "Conselho Nacional de Trânsito autoriza aula teórica virtual para formação de condutores"
+title: Conselho Nacional de Trânsito autoriza aula teórica virtual para formação de
+  condutores
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Nacional de Trânsito (Contran) publicou, na quarta-feira (29), a [deliberação nº 189](https://www.infraestrutura.gov.br/images/Deliberacao1892020.pdf), que autoriza a realização de aulas técnico-teóricas para formação de condutores na modalidade de ensino remoto enquanto durar a emergência de saúde pública decorrente da epidemia da Covid-19. A ação faz parte do pacote de medidas do Governo Federal, através do Departamento Nacional de Trânsito (Denatran), para garantir a segurança da população no enfrentamento da crise no setor de trânsito.
 

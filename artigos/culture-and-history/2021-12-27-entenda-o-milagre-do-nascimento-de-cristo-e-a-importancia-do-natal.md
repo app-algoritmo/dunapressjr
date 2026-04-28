@@ -1,13 +1,14 @@
 ---
-title: "Entenda o milagre do nascimento de Cristo e a importância do Natal"
+title: Entenda o milagre do nascimento de Cristo e a importância do Natal
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Events
-  - History
+- Culture and History
+- Events
+- History
 ---
+
 
 -À medida que o Natal se aproxima, devemos levar algum tempo para considerar o milagre do nascimento de Cristo, sem dúvida o evento mais importante da história humana. Um milagre é um fenômeno extraordinário que a mente humana não consegue explicar. Por exemplo, uma pessoa cega de repente ganha visão sem qualquer intervenção médica. Sem uma explicação humana, tal evento seria um milagre. A Natividade celebra a encarnação milagrosa de nosso Senhor e Salvador Jesus Cristo, o Filho unigênito de Deus. Os cristãos ortodoxos passam quarenta dias se preparando para esta festa maravilhosa e a celebram por duas semanas inteiras!
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,17 com incertezas sobre equipe econômica"
+title: Dólar sobe para R$ 5,17 com incertezas sobre equipe econômica
 date: 2022-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa cai 2,38% e volta aos 115 mil pontos.
 

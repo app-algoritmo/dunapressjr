@@ -1,12 +1,13 @@
 ---
-title: "Construção sustentável: necessidade iminente e desafio possível"
+title: 'Construção sustentável: necessidade iminente e desafio possível'
 date: 2023-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
-  - Lifestyle
+- Business and Economy
+- Lifestyle
 ---
+
 
 Encontrar um edifício, seja residencial, comercial ou industrial, inteiramente sustentável - do projeto ao uso - é condição rara no Brasil. Estão em voga algumas soluções ecológicas na construção civil e arquitetura, como os "green buildings", que são edificações planejadas para causar pouco impacto ao meio ambiente. Essas obras ambientais e responsáveis são pensadas para causar o mínimo impacto, desde o desenho do projeto até depois de sua finalização, oportunizando qualidade de vida nas cidades. 
 

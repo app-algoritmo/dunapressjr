@@ -1,11 +1,13 @@
 ---
-title: "Gastos com pessoal do Governo Estadual representam 74% da despesa total de 2020, relata TCE-PB"
+title: Gastos com pessoal do Governo Estadual representam 74% da despesa total de
+  2020, relata TCE-PB
 date: 2020-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os números se referem ao período entre janeiro e agosto do ano corrente, e já demonstram um crescimento de 13% nos gastos com pessoal em relação ao mesmo período de 2019.
 

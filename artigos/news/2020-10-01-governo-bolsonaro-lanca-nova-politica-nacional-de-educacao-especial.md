@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança Nova Política Nacional de Educação Especial"
+title: Governo Bolsonaro lança Nova Política Nacional de Educação Especial
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A expectativa é ampliar o atendimento educacional especializado a mais de 1,3 milhão de estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação. Nova PNEE foi ampliada trazendo uma perspectiva equitativa ao longo da vida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ação em Itajaí faz parte de mobilização global promovida pela ONU"
+title: Ação em Itajaí faz parte de mobilização global promovida pela ONU
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Campanha pelo fim da violência contra as mulheres terá 16 dias de ativismo online.
 

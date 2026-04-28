@@ -1,11 +1,13 @@
 ---
-title: "Observadores eleitorais acusam Donald Trump de abusar grosseiramente de sua posição como presidente"
+title: Observadores eleitorais acusam Donald Trump de abusar grosseiramente de sua
+  posição como presidente
 date: 2020-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O grupo de observadores eleitorais nos Estados Unidos da Organização para a Segurança e a Cooperação na Europa (OSCE) acusa Donald Trump de abusar grosseiramente de sua posição como presidente. O pano de fundo são as declarações de Trump para interromper a contagem de votos em vários estados e alegações infundadas de fraude e votos inválidos. Segundo a OSCE, Trump semeia dúvidas sobre o resultado da eleição. "Ninguém - nenhum político, nenhum representante eleito - deve restringir o direito das pessoas de votar", [comunicado](https://www.osce.org/odihr/elections/usa/469437).
 

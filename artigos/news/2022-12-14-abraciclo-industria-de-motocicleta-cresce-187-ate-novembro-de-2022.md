@@ -1,11 +1,12 @@
 ---
-title: "Abraciclo: indústria de motocicleta cresce 18,7% até novembro de 2022"
+title: 'Abraciclo: indústria de motocicleta cresce 18,7% até novembro de 2022'
 date: 2022-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do ano foram fabricadas 1.328.105 unidades.
 

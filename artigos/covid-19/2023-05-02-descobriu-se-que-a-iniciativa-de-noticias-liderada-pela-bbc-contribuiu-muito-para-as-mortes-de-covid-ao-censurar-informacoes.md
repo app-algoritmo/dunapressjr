@@ -1,11 +1,13 @@
 ---
-title: "Descobriu-se que a iniciativa de notícias liderada pela BBC contribuiu muito para as mortes de COVID ao censurar informações"
+title: Descobriu-se que a iniciativa de notícias liderada pela BBC contribuiu muito
+  para as mortes de COVID ao censurar informações
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O chamado 'Ministério da Verdade' foi estabelecido pelo governo britânico em 2019, com a [British Broadcasting Corporation (BBC) no comando](https://expose-news.com/2023/04/13/bbc-trusted-news-initiative-2m-excess-deaths-c19-jabs/) em um movimento que foi iniciado para combater a disseminação desenfreada de notícias falsas e desinformação online.
 

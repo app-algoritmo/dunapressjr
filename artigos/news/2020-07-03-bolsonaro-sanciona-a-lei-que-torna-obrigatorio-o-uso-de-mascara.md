@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro sanciona a lei que torna obrigatório o uso de máscara"
+title: Bolsonaro sanciona a lei que torna obrigatório o uso de máscara
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, sancionou a lei que torna obrigatório o uso de máscaras de proteção individual em espaços públicos e privados durante a pandemia do novo coronavírus. A [Lei nº 14.019/2020](http://www.in.gov.br/en/web/dou/-/lei-n-14.019-de-2-de-julho-de-2020-264918074) foi publicada nesta sexta-feira (3) no Diário Oficial da União.
 

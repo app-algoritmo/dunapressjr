@@ -1,11 +1,13 @@
 ---
-title: "Liberdade econômica do empreendedor brasileiro  fechada para vendas no comércio eletrônico externo"
+title: Liberdade econômica do empreendedor brasileiro  fechada para vendas no comércio
+  eletrônico externo
 date: 2022-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## -A relevância da dimensão cultural visando o mercado brasileiro por meio de estratégias de marca digital.
 

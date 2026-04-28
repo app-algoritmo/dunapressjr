@@ -1,11 +1,12 @@
 ---
-title: "Apoio emergencial do BNDES a empresas na pandemia alcança R$ 105 bi"
+title: Apoio emergencial do BNDES a empresas na pandemia alcança R$ 105 bi
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Gustavo Montezano fala sobre contribuições sociais durante a pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Dra. Dulci ganha ouro e conquista terceiro pódio seguido no Circuito OAB de Corrida do Pará"
+title: Dra. Dulci ganha ouro e conquista terceiro pódio seguido no Circuito OAB de
+  Corrida do Pará
 date: 2023-10-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Advogada de Belém venceu na categoria Advocacia - 50 a 59 anos na etapa de Paragominas, realizada neste domingo (1º), com a presença de 380 corredores.
 

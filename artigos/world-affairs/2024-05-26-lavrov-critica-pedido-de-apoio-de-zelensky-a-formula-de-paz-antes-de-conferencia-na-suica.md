@@ -1,11 +1,13 @@
 ---
-title: "Lavrov Critica Pedido de Apoio de Zelensky à Fórmula de Paz Antes de Conferência na Suíça"
+title: Lavrov Critica Pedido de Apoio de Zelensky à Fórmula de Paz Antes de Conferência
+  na Suíça
 date: 2024-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministro das Relações Exteriores da Rússia, Sergei Lavrov, criticou o presidente ucraniano Volodymyr Zelensky por seu pedido de apoio à sua "fórmula de paz" durante conversações com diplomatas estrangeiros em Kiev, em preparação para a próxima "conferência de paz" na Suíça.
 

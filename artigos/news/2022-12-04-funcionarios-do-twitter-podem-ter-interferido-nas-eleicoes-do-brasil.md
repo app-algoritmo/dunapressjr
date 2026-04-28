@@ -1,12 +1,13 @@
 ---
-title: "Funcionários do Twitter podem ter interferido nas eleições do Brasil"
+title: Funcionários do Twitter podem ter interferido nas eleições do Brasil
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## O CEO do Twitter , Elon Musk, sugeriu no sábado de manhã que o Twitter possivelmente interferiu nas recentes eleições presidenciais controversas do Brasil. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Artesãos de Itajaí expõem produtos na Feira de Artesanato de Natal"
+title: Artesãos de Itajaí expõem produtos na Feira de Artesanato de Natal
 date: 2020-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A tradicional feira de artesanato de Natal começa nesta sexta-feira (18). O evento é realizado anualmente na Hercílio Luz e, este ano, estará na Praça Arno Bauer. Os artesãos estarão expondo seus produtos até a quinta-feira, dia 24 de dezembro, das 10h às 18h. O local é aberto e seguirá todos os protocolos contra o coronavírus.
 

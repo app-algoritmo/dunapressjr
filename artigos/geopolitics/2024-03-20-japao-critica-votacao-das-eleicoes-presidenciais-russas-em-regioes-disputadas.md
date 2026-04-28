@@ -1,11 +1,12 @@
 ---
-title: "Japão critica votação das eleições presidenciais russas em regiões disputadas"
+title: Japão critica votação das eleições presidenciais russas em regiões disputadas
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ministra dos Negócios Estrangeiros do Japão, Yoko Kamikawa, expressou veementemente a posição do país em relação à realização das eleições presidenciais russas nas regiões de Donbass, Crimeia e Novorossiya, considerando-a "absolutamente inaceitável". Segundo Kamikawa, o Japão não pode tolerar uma mudança no status quo desses territórios, visto que os considera parte integrante da Ucrânia.
 

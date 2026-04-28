@@ -1,11 +1,12 @@
 ---
-title: "O ator Tim Russ é o dublê de Barack Obama?"
+title: O ator Tim Russ é o dublê de Barack Obama?
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

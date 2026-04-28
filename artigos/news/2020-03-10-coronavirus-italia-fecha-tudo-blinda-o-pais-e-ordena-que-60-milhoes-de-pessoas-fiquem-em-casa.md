@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, Itália fecha tudo, blinda o país e ordena que 60 milhões de pessoas fiquem em casa"
+title: Coronavírus, Itália fecha tudo, blinda o país e ordena que 60 milhões de pessoas
+  fiquem em casa
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Tutti a casa"  é a manchete da imprensa transalpina, enquanto a população assola os supermercados para coletar alimentos. A Itália deu um passo sem precedentes na segunda-feira, estendendo o isolamento de coronavírus a toda a sua população, 60 milhões de habitantes.
 

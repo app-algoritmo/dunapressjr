@@ -1,11 +1,12 @@
 ---
-title: "Rainhas na História: Luísa de Mecklemburgo-Strelitz, Rainha da Prússia"
+title: 'Rainhas na História: Luísa de Mecklemburgo-Strelitz, Rainha da Prússia'
 date: 2020-05-24
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 A Rainha Luísa da Prússia foi a famosa esposa de Frederico Guilherme III, rei da Prússia, e reinou entre os anos de 1797 a 1810. Foi conhecida principalmente pela famosa reunião pessoal com Napoleão Bonaparte que acabou por despertar grande atração pública a sua pessoa.
 

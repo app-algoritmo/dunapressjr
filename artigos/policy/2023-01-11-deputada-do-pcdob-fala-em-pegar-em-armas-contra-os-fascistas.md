@@ -1,11 +1,12 @@
 ---
-title: "Deputada do PCdoB fala em 'pegar em armas contra os fascistas'"
+title: Deputada do PCdoB fala em 'pegar em armas contra os fascistas'
 date: 2023-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Durante uma manifestação de esquerda na Cinelândia, no centro do Rio de Janeiro, a deputada estadual **Rejane de Almeida (PCdoB-RJ)** fez um discurso inflamado. Em determinado momento, a parlamentar falou em “pegar em armas contra os fascistas”. O ato ocorreu na segunda-feira 9, um dia depois dos protestos contra o presidente Lula, em Brasília, que registraram vandalismo.
 

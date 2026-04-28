@@ -1,11 +1,12 @@
 ---
-title: "EcoRodovias vence leilão rodoviário Rio – Governador Valadares"
+title: EcoRodovias vence leilão rodoviário Rio – Governador Valadares
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A empresa ofereceu desconto de 3,11%.
 

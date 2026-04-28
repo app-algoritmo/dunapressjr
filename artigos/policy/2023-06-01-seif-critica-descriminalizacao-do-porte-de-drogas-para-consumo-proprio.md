@@ -1,11 +1,12 @@
 ---
-title: "Seif critica descriminalização do porte de drogas para consumo próprio"
+title: Seif critica descriminalização do porte de drogas para consumo próprio
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) criticou em pronunciamento na terça-feira (30) a possibilidade da retomada de julgamento do Supremo Tribunal Federal (STF) sobre a constitucionalidade do crime de porte de drogas ilícitas para consumo próprio. O parlamentar disse ser contra a descriminalização e questionou quanto ao lugar em que as pessoas comprariam as drogas para consumir.
 

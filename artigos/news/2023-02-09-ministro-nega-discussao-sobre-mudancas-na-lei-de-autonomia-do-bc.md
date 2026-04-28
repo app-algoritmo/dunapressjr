@@ -1,11 +1,12 @@
 ---
-title: "Ministro nega discussão sobre mudanças na lei de autonomia do BC"
+title: Ministro nega discussão sobre mudanças na lei de autonomia do BC
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Debate sobre condições para reduzir taxa de juros é admitido.
 

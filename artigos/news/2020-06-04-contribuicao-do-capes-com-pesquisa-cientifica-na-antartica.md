@@ -1,11 +1,12 @@
 ---
-title: "Contribuição do Capes com pesquisa científica na Antártica"
+title: Contribuição do Capes com pesquisa científica na Antártica
 date: 2020-06-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsistas destacam importância do ambiente para o desenvolvimento de suas pesquisas.
 

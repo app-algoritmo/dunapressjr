@@ -1,11 +1,12 @@
 ---
-title: "Mobilidade compartilhada é fundamental para cidades inteligentes e sustentáveis"
+title: Mobilidade compartilhada é fundamental para cidades inteligentes e sustentáveis
 date: 2023-11-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Cidades congestionadas e habitantes engalfinhados diariamente em trânsitos de dimensões quilométricas tornaram-se rotina para os brasileiros. Não é para menos: dados do IBGE apontam que quase metade dos domicílios brasileiros possui carros e, ainda, 25% optam por motocicletas. Em termos numéricos, são 36,9 milhões de casas com carros na garagem, um aumento de 5,8% em comparação com 2019. Ainda, a Organização das Nações Unidas (ONU) informa que 55% da população mundial vive em áreas urbanas, e a previsão é de que esse número alcance 70% até 2050. Antevemos um verdadeiro nó nas cidades? A preocupação com a mobilidade urbana é cada vez maior ao redor do mundo, e no Brasil, algumas cidades procuram soluções para diminuir a emissão de gases do efeito estufa. Todavia, o país ainda esbarra em desafios para avançar na adoção de conceitos como *carsharing *(compartilhamento de veículos),  valorização do uso ao invés da posse, políticas públicas e escassez de planejamento urbano que serão fundamentais para desenvolver cidades com sistemas de mobilidade de melhor rendimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova Marco Legal das Garantias de Empréstimos"
+title: Senado aprova Marco Legal das Garantias de Empréstimos
 date: 2023-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Projeto segue para a Câmara dos Deputados após votação no Senado; discussão sobre desjudicialização será incluída em outro projeto de lei.
 

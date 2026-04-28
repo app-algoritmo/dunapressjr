@@ -1,11 +1,12 @@
 ---
-title: "Invista em tráfego pago: mas saiba a importância do tráfego orgânico"
+title: 'Invista em tráfego pago: mas saiba a importância do tráfego orgânico'
 date: 2022-12-14
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Technology
+- Technology
 ---
+
 
 Tanto o tráfego orgânico quanto o pago são importantes para um site de sucesso. No entanto, é importante lembrar que você não pode negligenciar um em favor do outro. 
 

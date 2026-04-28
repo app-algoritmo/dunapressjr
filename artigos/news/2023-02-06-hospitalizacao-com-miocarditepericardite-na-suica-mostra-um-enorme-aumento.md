@@ -1,11 +1,12 @@
 ---
-title: "Hospitalização com miocardite/pericardite na Suíça mostra um enorme aumento"
+title: Hospitalização com miocardite/pericardite na Suíça mostra um enorme aumento
 date: 2023-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 - A queda acentuada nos atendimentos hospitalares em 2020 é sinal de falta de assistência?
 

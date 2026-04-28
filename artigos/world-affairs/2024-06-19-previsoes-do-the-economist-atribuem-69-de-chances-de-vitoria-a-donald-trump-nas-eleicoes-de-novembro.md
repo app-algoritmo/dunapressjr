@@ -1,11 +1,13 @@
 ---
-title: "Previsões do The Economist Atribuem 69% de Chances de Vitória a Donald Trump nas Eleições de Novembro"
+title: Previsões do The Economist Atribuem 69% de Chances de Vitória a Donald Trump
+  nas Eleições de Novembro
 date: 2024-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A mais recente previsão do jornal britânico The Economist indica que o ex-presidente Donald Trump tem uma probabilidade de 69% de vencer as eleições presidenciais de novembro, em comparação com 31% para o atual presidente Joe Biden. Este modelo de previsão, atualizado diariamente, reflete o maior aumento nas chances de Trump desde o início de março.
 

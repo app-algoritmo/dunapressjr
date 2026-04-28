@@ -1,11 +1,12 @@
 ---
-title: "Petrobras lança site com informação sobre preços de combustíveis"
+title: Petrobras lança site com informação sobre preços de combustíveis
 date: 2022-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ferramenta permite filtrar preços pela média nacional ou por estados.
 

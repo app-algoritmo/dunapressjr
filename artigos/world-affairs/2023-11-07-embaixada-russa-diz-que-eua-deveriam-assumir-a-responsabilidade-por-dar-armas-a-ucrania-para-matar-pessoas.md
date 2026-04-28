@@ -1,11 +1,13 @@
 ---
-title: "Embaixada russa diz que EUA deveriam assumir a responsabilidade por dar armas à Ucrânia para matar pessoas"
+title: Embaixada russa diz que EUA deveriam assumir a responsabilidade por dar armas
+  à Ucrânia para matar pessoas
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com a declaração, os políticos dos EUA precisam de compreender que “para parar o derramamento de sangue, devem primeiro parar de canalizar de forma imprudente fornecimentos militares multibilionários para o regime de Kiev”.
 

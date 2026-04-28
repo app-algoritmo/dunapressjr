@@ -1,11 +1,12 @@
 ---
-title: "Imposto de renda devido pode ser direcionado para hospitais 100% SUS"
+title: Imposto de renda devido pode ser direcionado para hospitais 100% SUS
 date: 2023-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pessoas físicas podem destinar parte do Imposto de Renda (IR) devido para entidades filantrópicas e descontar do valor que será recolhido à Receita Federal. Os recursos vindos dessas doações são fundamentais para instituições como o Hospital Universitário Cajuru, em Curitiba (PR), que atua 100% no Sistema Único de Saúde (SUS) e depende da distribuição do IR para compensar o déficit causado pela concentração dos atendimentos de grande parte dos traumas da capital e região metropolitana. Em 2023, o prazo para a entrega da declaração do Imposto de Renda termina no dia 31 de maio.
 

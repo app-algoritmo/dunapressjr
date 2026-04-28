@@ -1,12 +1,13 @@
 ---
-title: "Passo a passo para quem sonha em trabalhar na Espanha"
+title: Passo a passo para quem sonha em trabalhar na Espanha
 date: 2022-06-15
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Education
-  - Tourism and Gastronomy
+- Education
+- Tourism and Gastronomy
 ---
+
 
 Para conseguir uma vaga de trabalho na Espanha, é preciso se adequar às exigências como conseguir visto de trabalho, possuir proficiência em espanhol e manter o currículo atualizado. Segundo levantamento do LinkedIn, realizado em 2022, os 20 empregos que mais cresceram nos últimos cinco anos na Espanha, para os quais faltam profissionais, estão em áreas como Tecnologia, Saúde, Engenharia e Sustentabilidade. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Cinco motivos para contratar um idoso"
+title: Cinco motivos para contratar um idoso
 date: 2021-10-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mercado de trabalho abre, cada vez mais, as portas para a terceira idade. Mais do que incentivada, a contratação de idosos passa a ser necessária. De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), cerca de 30 milhões de brasileiros têm 60 anos ou mais. Além disso, a OMS (Organização Mundial de Saúde) garante que, em 2025, o Brasil será o sexto país do mundo com o maior número de idosos. “O preconceito que se tinha com relação às pessoas mais maduras no mercado de trabalho, aos poucos, vai ficando de lado, já que muitas empresas perceberam que esse segmento oferece vantagens aos negócios”, afirma o doutor em Administração e professor de Pós-Graduação da Universidade Positivo (UP), Fábio Vizeu.
 

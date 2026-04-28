@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda Brasileiro Propõe Taxação Global Mínima sobre a Riqueza no G20"
+title: Ministro da Fazenda Brasileiro Propõe Taxação Global Mínima sobre a Riqueza
+  no G20
 date: 2024-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O ministro da Fazenda brasileiro, Fernando Haddad, fez um apelo durante a reunião do G20, composto pelas maiores economias do mundo, realizada de forma virtual na cidade de São Paulo, para discutir a implementação de uma taxação global mínima sobre a riqueza. Haddad, que participou remotamente após ser diagnosticado com COVID-19, enfatizou que essa medida poderia ser o terceiro pilar para a cooperação tributária internacional.
 

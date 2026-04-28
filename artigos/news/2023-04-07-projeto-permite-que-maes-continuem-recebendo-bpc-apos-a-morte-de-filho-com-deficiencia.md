@@ -1,11 +1,13 @@
 ---
-title: "Projeto permite que mães continuem recebendo BPC após a morte de filho com deficiência"
+title: Projeto permite que mães continuem recebendo BPC após a morte de filho com
+  deficiência
 date: 2023-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 1605/23 autoriza a mãe de filho com deficiência a continuar recebendo o Benefício de Prestação Continuada (BPC) em caso de falecimento do dependente. O texto altera a Lei Orgânica da Assistência Social (Loas - Lei 8.742/93) e está sendo analisado pela Câmara dos Deputados.
 

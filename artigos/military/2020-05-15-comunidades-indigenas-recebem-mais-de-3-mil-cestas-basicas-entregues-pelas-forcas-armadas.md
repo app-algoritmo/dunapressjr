@@ -1,11 +1,13 @@
 ---
-title: "Comunidades indígenas recebem mais de 3 mil cestas básicas entregues pelas Forças Armadas"
+title: Comunidades indígenas recebem mais de 3 mil cestas básicas entregues pelas
+  Forças Armadas
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os povos indígenas são mais vulneráveis a viroses e as doenças respiratórias são a principal causa de mortalidade infantil nessas comunidades, informa a Secretaria Especial de Saúde Indígena (Sesai). Neste contexto, o apoio das Forças Armadas é imprescindível para resguardar o bem-estar dessas comunidades durante a pandemia provocada pelo novo coronavírus.
 

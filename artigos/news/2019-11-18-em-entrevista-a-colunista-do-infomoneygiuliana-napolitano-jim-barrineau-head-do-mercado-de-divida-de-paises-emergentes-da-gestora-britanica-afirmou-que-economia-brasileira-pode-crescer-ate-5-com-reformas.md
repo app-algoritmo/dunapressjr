@@ -1,11 +1,14 @@
 ---
-title: "Em entrevista a colunista do Infomoney,Giuliana Napolitano, Jim Barrineau, head do mercado de dívida de países emergentes da gestora britânica, afirmou que economia brasileira pode crescer até 5% com reformas"
+title: Em entrevista a colunista do Infomoney,Giuliana Napolitano, Jim Barrineau,
+  head do mercado de dívida de países emergentes da gestora britânica, afirmou que
+  economia brasileira pode crescer até 5% com reformas
 date: 2019-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 -  (Divulgação) Jim Barrineau 
 

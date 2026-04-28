@@ -1,11 +1,13 @@
 ---
-title: "Medida Provisória destina R$ 408 milhões para o MJSP reforçar ações contra o novo coronavírus"
+title: Medida Provisória destina R$ 408 milhões para o MJSP reforçar ações contra
+  o novo coronavírus
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medida Provisória (MP 965/2020)  publicada no Diário Oficial da União, nesta quinta-feira (14), abre crédito extraordinário de R$ 408,8 milhões em favor do Ministério da Justiça e Segurança Pública (MJSP). O valor será destinado ao enfrentamento da emergência de saúde pública em razão do novo coronavírus, como aquisição de testes rápidos,  equipamentos de proteção individual, barreiras sanitárias, materiais para hospitais, além de atendimento às comunidades indígenas e à população carcerária. 
 

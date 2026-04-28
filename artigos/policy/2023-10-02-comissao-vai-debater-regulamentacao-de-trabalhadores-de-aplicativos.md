@@ -1,11 +1,12 @@
 ---
-title: "Comissão vai debater regulamentação de trabalhadores de aplicativos"
+title: Comissão vai debater regulamentação de trabalhadores de aplicativos
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Trabalho da Câmara dos Deputados vai realizar audiência pública  na quarta-feira (4) para debater a regulamentação da atividade dos trabalhadores de aplicativos.
 

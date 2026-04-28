@@ -1,11 +1,13 @@
 ---
-title: "Tenista Marcelo Melo viaja para a Argentina nesta quinta-feira (2) e joga pela primeira vez o ATP 250 de Córdoba"
+title: Tenista Marcelo Melo viaja para a Argentina nesta quinta-feira (2) e joga pela
+  primeira vez o ATP 250 de Córdoba
 date: 2023-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O ATP 250 de Córdoba será o próximo torneio de Marcelo Melo na temporada. O mineiro viaja nesta quinta-feira (2) à noite para a Argentina, para disputar pela primeira vez o ATP 250 na cidade e formará dupla com o português João Sousa. Os jogos estão programados para as quadras do Polo Deportivo Kempes.
 

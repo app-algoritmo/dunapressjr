@@ -1,11 +1,12 @@
 ---
-title: "NORAD Intercepta Balão Sobre Utah: Sem Ameaça à Segurança Nacional"
+title: 'NORAD Intercepta Balão Sobre Utah: Sem Ameaça à Segurança Nacional'
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Comando de Defesa Aeroespacial da América do Norte (NORAD) entrou em ação recentemente ao interceptar um balão sobre o estado de Utah, conforme relatado pelo canal de televisão Fox News. A operação, realizada em estreita colaboração com a Administração Federal de Aviação (FAA), foi conduzida após a detecção do objeto a uma altitude variando entre 43.000-45.000 pés (13.100-13.700 metros). Os Combatentes do NORAD sobrevoaram a região e concluíram que o balão não era manobrável e não representava uma ameaça à segurança nacional.
 

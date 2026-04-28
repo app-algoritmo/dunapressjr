@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Economia fala sobre oportunidades brasileiras diante de novos cenários"
+title: Ministro da Economia fala sobre oportunidades brasileiras diante de novos cenários
 date: 2022-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes participou da abertura do 30º Congresso & ExpoFenabrave, em São Paulo.
 

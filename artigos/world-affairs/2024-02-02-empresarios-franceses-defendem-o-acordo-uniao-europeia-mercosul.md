@@ -1,11 +1,12 @@
 ---
-title: "Empresários franceses defendem o acordo União Europeia-Mercosul"
+title: Empresários franceses defendem o acordo União Europeia-Mercosul
 date: 2024-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da associação patronal francesa Medef (Movimento Empresarial Francês), Patrick Martin, declarou-se esta quinta-feira a favor do acordo comercial entre a União Europeia e o bloco sul-americano do Mercosul, apesar da oposição dos agricultores em França.
 

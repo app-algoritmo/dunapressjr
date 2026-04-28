@@ -1,11 +1,13 @@
 ---
-title: "Para Chico Rodrigues, Brasil deve estreitar relações comerciais bilaterais com China"
+title: Para Chico Rodrigues, Brasil deve estreitar relações comerciais bilaterais
+  com China
 date: 2019-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador
 Chico Rodrigues (DEM-RR) defendeu, nesta quinta-feira (3), em Plenário, que o

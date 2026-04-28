@@ -1,11 +1,12 @@
 ---
-title: "Brasil pode ter 20 mil espécies desconhecidas"
+title: Brasil pode ter 20 mil espécies desconhecidas
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma pesquisa inédita conduzida pelo cientista Mário Moura, doutor em ecologia e professor visitante do Departamento de Ciências Biológicas da Universidade Federal da Paraíba (UFPB), acaba de revelar que o Brasil lidera a lista de países com maior potencial para descoberta de novas espécies de animais vertebrados terrestres. Publicado na Revista *[Nature](https://www.nature.com/) Ecology and Evolution*, em 22 de março, o artigo *[Shortfalls and opportunities in terrestrial vertebrate species discovery](https://dx.doi.org/10.1038/s41559-021-01411-5) *, foi produzido junto com Walter Jetz, do Departamento de Ecologia e Biologia Evolutiva da Universidade de Yale (EUA).
 

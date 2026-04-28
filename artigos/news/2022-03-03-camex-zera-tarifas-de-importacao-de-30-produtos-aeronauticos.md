@@ -1,11 +1,12 @@
 ---
-title: "Camex zera tarifas de importação de 30 produtos aeronáuticos"
+title: Camex zera tarifas de importação de 30 produtos aeronáuticos
 date: 2022-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida alinha alíquotas com acordo da OMC.
 

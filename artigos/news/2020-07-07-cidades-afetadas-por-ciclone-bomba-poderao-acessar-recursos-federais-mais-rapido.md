@@ -1,11 +1,13 @@
 ---
-title: "Cidades afetadas por Ciclone Bomba, poderão acessar recursos federais mais rápido"
+title: Cidades afetadas por Ciclone Bomba, poderão acessar recursos federais mais
+  rápido
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Defesa Civil Nacional vai criar um canal de comunicação direto entre os governos federal e local. 
 

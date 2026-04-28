@@ -1,11 +1,13 @@
 ---
-title: "Nota Conjunta do MD e do MS: Defesa apoia Saúde na distribuição de produtos de combate à Covid-19"
+title: 'Nota Conjunta do MD e do MS: Defesa apoia Saúde na distribuição de produtos
+  de combate à Covid-19'
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma aeronave C-130 (Hércules), da Força Aérea Brasileira, decola, nesta quarta-feira (1/4), às 12h, do Aeroporto de Guarulhos-SP, com destino a três capitais brasileiras. O voo faz escala em Recife, São Luis e Belém, a fim de transportar cerca de 14 toneladas de Equipamentos de Proteção Individual (EPIs), álcool em gel e medicamentos.
 

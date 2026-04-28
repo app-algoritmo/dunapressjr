@@ -1,11 +1,13 @@
 ---
-title: "Referência em traumas e transplantes, hospital SUS é retrato do avanço da medicina em seis décadas e meia"
+title: Referência em traumas e transplantes, hospital SUS é retrato do avanço da medicina
+  em seis décadas e meia
 date: 2023-09-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Com atendimento 100% pelo Sistema Único de Saúde, Hospital Universitário Cajuru vê sua área triplicar em 65 anos e acolher histórias de profissionais e pacientes.
 

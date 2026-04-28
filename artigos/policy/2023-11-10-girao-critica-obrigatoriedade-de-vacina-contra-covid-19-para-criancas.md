@@ -1,11 +1,12 @@
 ---
-title: "Girão critica obrigatoriedade de vacina contra covid-19 para crianças"
+title: Girão critica obrigatoriedade de vacina contra covid-19 para crianças
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento no Plenário nessa quarta-feira (8), criticou a discussão, em audiência na Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados, sobre a obrigatoriedade da vacina contra a covid-19 para crianças de seis meses a cinco anos.
 

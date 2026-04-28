@@ -1,11 +1,12 @@
 ---
-title: "Abras: consumo nos lares acumula alta de 2,84% de janeiro a setembro"
+title: 'Abras: consumo nos lares acumula alta de 2,84% de janeiro a setembro'
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Produtos da cesta básica tiveram queda de 2,26% em outubro.
 

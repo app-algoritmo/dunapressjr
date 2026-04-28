@@ -1,11 +1,13 @@
 ---
-title: "Primeira negra latina a chegar ao topo do Everest, Aretha Duarte lança biografia, em Salvador, nesta quinta (8)"
+title: Primeira negra latina a chegar ao topo do Everest, Aretha Duarte lança biografia,
+  em Salvador, nesta quinta (8)
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Se "no tabuleiro da baiana tem: Vatapá, Caruru, Mungunzá, Umbu, pra Ioiô", conforme escreveu João Gilberto na famosa canção, no livro de Aretha Duarte tem desafio, emoção, superação e uma história inspiradora de vida. É isso que a montanhista apresenta aos baianos nesta quinta-feira (8), no lançamento de sua biografia: **"Da Sucata ao Everest - a saga de Aretha Duarte"**. O evento será na loja da Decathlon no Shopping Salvador, a partir das 18h, com entrada grátis.
 

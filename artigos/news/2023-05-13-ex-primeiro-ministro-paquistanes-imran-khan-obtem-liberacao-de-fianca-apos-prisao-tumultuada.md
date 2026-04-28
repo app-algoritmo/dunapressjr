@@ -1,11 +1,13 @@
 ---
-title: "Ex-primeiro-ministro paquistanês Imran Khan obtém liberação de fiança após prisão tumultuada"
+title: Ex-primeiro-ministro paquistanês Imran Khan obtém liberação de fiança após
+  prisão tumultuada
 date: 2023-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão judicial alivia tensões e gera controvérsias políticas no país
 

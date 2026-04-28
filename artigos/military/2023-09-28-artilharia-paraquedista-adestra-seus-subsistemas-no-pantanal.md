@@ -1,11 +1,12 @@
 ---
-title: "Artilharia Paraquedista adestra seus subsistemas no Pantanal"
+title: Artilharia Paraquedista adestra seus subsistemas no Pantanal
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Neste mês de setembro de 2023, a Artilharia Paraquedista participou da Operação Fronteira/2023 no Pantanal Matogrossense. A Operação foi composta do Estágio de Adaptação ao Pantanal e do Exercício de Artilharia no Campo de Instrução de Betione, no estado de Mato Grosso do Sul.
 

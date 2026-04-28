@@ -1,11 +1,13 @@
 ---
-title: "Turquia começa a enviar batalhão de operações especiais para Kosovo a pedido da OTAN"
+title: Turquia começa a enviar batalhão de operações especiais para Kosovo a pedido
+  da OTAN
 date: 2023-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Ministério da Defesa da República anunciou o destacamento de um batalhão de comandos da 65ª Brigada de Infantaria Mecanizada nesta região.
 

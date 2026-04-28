@@ -1,11 +1,12 @@
 ---
-title: "A Guerra Fria está voltando com força total? Ele nunca realmente terminou"
+title: A Guerra Fria está voltando com força total? Ele nunca realmente terminou
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## *A Guerra Fria continuará enquanto o sistema ocidental belicista sobreviver.*
 

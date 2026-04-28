@@ -1,12 +1,13 @@
 ---
-title: "Reação da política internacional ao atentado contra Trump"
+title: Reação da política internacional ao atentado contra Trump
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 O mundo ficou chocado neste domingo quando foi noticiado um atentado contra o ex-presidente dos Estados Unidos, Donald Trump, durante um comício na Pensilvânia. O ataque, que deixou um assistente morto e dois feridos graves, provocou uma série de reações de líderes mundiais que condenaram a violência e expressaram seu apoio aos valores democráticos.
 

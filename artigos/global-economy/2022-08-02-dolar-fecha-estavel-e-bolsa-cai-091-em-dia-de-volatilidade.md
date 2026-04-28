@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável e bolsa cai 0,91% em dia de volatilidade"
+title: Dólar fecha estável e bolsa cai 0,91% em dia de volatilidade
 date: 2022-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa retornou aos 102 mil pontos influenciada por exterior.
 

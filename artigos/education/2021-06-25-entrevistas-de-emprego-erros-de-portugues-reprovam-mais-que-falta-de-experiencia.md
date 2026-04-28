@@ -1,11 +1,12 @@
 ---
-title: "Entrevistas de emprego: erros de português reprovam mais que falta de experiência"
+title: 'Entrevistas de emprego: erros de português reprovam mais que falta de experiência'
 date: 2021-06-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A língua portuguesa é a sexta mais falada no mundo considerando falantes nativos, com 221 milhões de pessoas. Com várias peculiaridades, o idioma é um dos mais ricos do mundo e, certamente, um dos mais complexos também. Um levantamento realizado pelo Núcleo Brasileiro de Estágios (NUBE) mostrou que 50,3% dos participantes à procura de um emprego não seriam aprovados por conta de erros de português. Em outra pesquisa feita pela empresa de recrutamento on-line Catho, os equívocos na língua nativa são o principal motivo para desclassificação dos candidatos para 34% dos recrutadores - até mesmo mais do que a experiência. 
 

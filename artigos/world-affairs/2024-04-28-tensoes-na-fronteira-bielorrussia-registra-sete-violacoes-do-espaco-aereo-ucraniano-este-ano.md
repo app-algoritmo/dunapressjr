@@ -1,11 +1,13 @@
 ---
-title: "Tensões na Fronteira: Bielorrússia Registra Sete Violações do Espaço Aéreo Ucraniano Este Ano"
+title: 'Tensões na Fronteira: Bielorrússia Registra Sete Violações do Espaço Aéreo
+  Ucraniano Este Ano'
 date: 2024-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As tensões na fronteira entre Bielorrússia e Ucrânia continuam a crescer, com a Bielorrússia relatando sete violações do seu espaço aéreo por aeronaves ucranianas desde o início do ano. O presidente do Comité Estatal de Fronteiras da Bielorrússia, Konstantin Molostov, expressou preocupação com as "provocações na fronteira" causadas por veículos e pessoas armadas que cruzam ilegalmente para o território bielorrusso.
 

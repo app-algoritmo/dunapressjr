@@ -1,11 +1,13 @@
 ---
-title: "O Sistema Judiciário Brasileiro e a Adoção de Métodos da Stasi: Uma Análise Crítica"
+title: 'O Sistema Judiciário Brasileiro e a Adoção de Métodos da Stasi: Uma Análise
+  Crítica'
 date: 2024-03-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nos últimos anos, observa-se um fenômeno preocupante no Brasil, onde o sistema judiciário, em conluio com certos partidos e políticos de inclinação extrema à esquerda, tem sido acusado de empregar táticas reminiscentes das utilizadas pela temida Stasi na Alemanha Oriental (RDA). A Stasi, ou Ministerium für Staatssicherheit, foi a agência de inteligência e segurança do Partido Comunista na Alemanha Oriental, responsável por uma vasta rede de vigilância, repressão e perseguição política.
 

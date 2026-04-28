@@ -1,11 +1,12 @@
 ---
-title: "Com o mundo cada vez mais informatizado, como um Curso de Excel te ajudaria?"
+title: Com o mundo cada vez mais informatizado, como um Curso de Excel te ajudaria?
 date: 2022-08-26
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Destacamos que o Excel vem sendo uma das ferramentas mais versáteis que a Microsoft já criou. 
 

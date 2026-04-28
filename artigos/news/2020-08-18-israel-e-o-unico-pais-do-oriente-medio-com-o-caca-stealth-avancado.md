@@ -1,11 +1,12 @@
 ---
-title: "Israel é o único país do Oriente Médio com o caça Stealth avançado"
+title: Israel é o único país do Oriente Médio com o caça Stealth avançado
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O acordo para formalizar as relações entre Israel e os Emirados Árabes Unidos não inclui permitir que estes comprem caças F-35, disse o gabinete do primeiro-ministro Benjamin Netanyahu na terça-feira, após relatos em contrário.
 

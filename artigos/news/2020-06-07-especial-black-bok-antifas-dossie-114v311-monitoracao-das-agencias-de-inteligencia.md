@@ -1,11 +1,13 @@
 ---
-title: "Especial Black Bok - Antifas: Dossiê 114v3.11 monitoração das agências de inteligência"
+title: 'Especial Black Bok - Antifas: Dossiê 114v3.11 monitoração das agências de
+  inteligência'
 date: 2020-06-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Matar policiais, assassinar e agredir indefesos, depredar,  disseminar o ódio, subverter, destruir e enganar, são apenas umas das poucas características dos grupos comunio-ultra socialistas promovedores do terror existentes em algumas sociedades, entre elas a do Brasil.
 

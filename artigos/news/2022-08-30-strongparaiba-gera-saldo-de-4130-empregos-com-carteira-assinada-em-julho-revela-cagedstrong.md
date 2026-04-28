@@ -1,11 +1,13 @@
 ---
-title: "<strong>Paraíba gera saldo de 4.130 empregos com carteira assinada em julho, revela Caged</strong>"
+title: <strong>Paraíba gera saldo de 4.130 empregos com carteira assinada em julho,
+  revela Caged</strong>
 date: 2022-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A região Nordeste apresentou o segundo saldo positivo de julho.
 

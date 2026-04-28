@@ -1,11 +1,12 @@
 ---
-title: "CNI: manutenção da Selic ajuda na recuperação da economia"
+title: 'CNI: manutenção da Selic ajuda na recuperação da economia'
 date: 2020-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidade defende manutenção do teto e reformas para 2021.
 

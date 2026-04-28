@@ -1,11 +1,12 @@
 ---
-title: "Governo prepara retomada do crescimento socioeconômico"
+title: Governo prepara retomada do crescimento socioeconômico
 date: 2020-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Programa Pró-Brasil tem o objetivo de integrar ações estratégicas para recuperação em resposta aos impactos causados pelo novo coronavírus
 

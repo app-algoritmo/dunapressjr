@@ -1,11 +1,12 @@
 ---
-title: "Indústrias crescem 2,9% em dezembro e fecham ano com alta de 3,9%"
+title: Indústrias crescem 2,9% em dezembro e fecham ano com alta de 3,9%
 date: 2022-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2019, acumulado do ano foi de -1,1% e, em 2020, de -4,5%.
 

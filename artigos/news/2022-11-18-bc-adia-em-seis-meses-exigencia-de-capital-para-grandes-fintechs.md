@@ -1,11 +1,12 @@
 ---
-title: "BC adia em seis meses exigência de capital para grandes fintechs"
+title: BC adia em seis meses exigência de capital para grandes fintechs
 date: 2022-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mudanças, que entrariam em vigor em janeiro, passam para julho.
 

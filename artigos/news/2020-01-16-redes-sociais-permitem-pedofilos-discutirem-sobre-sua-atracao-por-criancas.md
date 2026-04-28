@@ -1,11 +1,12 @@
 ---
-title: "Redes Sociais permitem pedófilos discutirem sobre sua atração por crianças"
+title: Redes Sociais permitem pedófilos discutirem sobre sua atração por crianças
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em março do ano passado, o [Twitter](https://www.tecmundo.com.br/Twitter) alterou suas normas de conduta na rede, o que outras plataformas, como [Instagram](https://www.tecmundo.com.br/Instagram), [Facebook](https://www.tecmundo.com.br/Facebook) e [Flickr](https://www.tecmundo.com.br/Flickr), já fazem esporadicamente. A mudança aconteceu sem alarde, e é possível ver por quê.
 

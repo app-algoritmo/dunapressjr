@@ -1,11 +1,12 @@
 ---
-title: "Bolsa tem forte alta e fecha no segundo melhor nível do ano"
+title: Bolsa tem forte alta e fecha no segundo melhor nível do ano
 date: 2021-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar iniciou semana em queda, mas permanece acima de R$ 5,30.
 

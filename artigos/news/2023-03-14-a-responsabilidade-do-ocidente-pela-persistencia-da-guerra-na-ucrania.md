@@ -1,11 +1,12 @@
 ---
-title: "A responsabilidade do Ocidente pela persistência da guerra na Ucrânia"
+title: A responsabilidade do Ocidente pela persistência da guerra na Ucrânia
 date: 2023-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Com a invasão da Ucrânia em 24 de fevereiro de 2022, a Rússia causou muito sofrimento e danos materiais. Mas depois que as negociações foram sabotadas no início de abril, o Ocidente compartilhou a responsabilidade pela emergência humanitária e pela destruição em massa. Além disso, sua violação repetida de acordos e acordos anteriores levou a uma perda de confiança, o que torna difícil encontrar um acordo de paz em um futuro próximo.*
 

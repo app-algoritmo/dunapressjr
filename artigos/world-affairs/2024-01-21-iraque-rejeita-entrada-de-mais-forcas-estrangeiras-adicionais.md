@@ -1,11 +1,12 @@
 ---
-title: "Iraque rejeita entrada de mais forças estrangeiras adicionais"
+title: Iraque rejeita entrada de mais forças estrangeiras adicionais
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Major General Yahya Rasoul, porta-voz do Comandante-em-Chefe dos soldados armados iraquianos, disse que os relatórios que falavam sobre a entrada de forças estrangeiras adicionais no Iraque não são verdadeiros.
 

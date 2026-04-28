@@ -1,11 +1,12 @@
 ---
-title: "Prévia do IBGE registra deflação de 0,37% em setembro"
+title: Prévia do IBGE registra deflação de 0,37% em setembro
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A maior influência no resultado foi o preço dos combustíveis.
 

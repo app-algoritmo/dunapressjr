@@ -1,11 +1,12 @@
 ---
-title: "Reunião internacional discute garantia de liberdade religiosa durante a pandemia"
+title: Reunião internacional discute garantia de liberdade religiosa durante a pandemia
 date: 2020-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A garantia da liberdade religiosa aos cidadãos durante a pandemia do novo coronavírus (Covid-19) foi o tema da reunião da Aliança Internacional pela Liberdade Religiosa. A aliança que conta com a participação de 27 países, incluindo o Brasil, trabalha para a redução da perseguição religiosa em todo o mundo.
 

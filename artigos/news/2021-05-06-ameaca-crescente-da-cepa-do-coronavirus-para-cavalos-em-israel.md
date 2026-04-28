@@ -1,11 +1,12 @@
 ---
-title: "Ameaça crescente da cepa do coronavírus para cavalos em Israel"
+title: Ameaça crescente da cepa do coronavírus para cavalos em Israel
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## No estudo, cerca de 58,6% dos cavalos no centro de Israel foram considerados positivos com ECoV, enquanto 41 cavalos (12,3%) também apresentaram anticorpos anti-ECoV.
 

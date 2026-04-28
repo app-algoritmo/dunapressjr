@@ -1,11 +1,12 @@
 ---
-title: "As novas regras da ONU para o futuro governo mundial"
+title: As novas regras da ONU para o futuro governo mundial
 date: 2023-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O que defende o secretário-geral das Nações Unidas, António Guterres?
 

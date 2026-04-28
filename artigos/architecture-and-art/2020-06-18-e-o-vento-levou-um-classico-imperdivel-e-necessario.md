@@ -1,11 +1,12 @@
 ---
-title: "E o Vento Levou: Um clássico imperdível e necessário"
+title: 'E o Vento Levou: Um clássico imperdível e necessário'
 date: 2020-06-18
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 “Houve uma terra de cavaleiros e campos de algodão denominada 'O Velho Sul’. Neste mundo, o galanteio fez sua última mesura. Aqui foram vistos pela última vez: cavaleiros e suas damas… Senhores e escravos. Procure-os apenas nos livros, pois não passam de um sonho a ser relembrado. Uma civilização que o vento levou”. (frase de abertura do filme)
 

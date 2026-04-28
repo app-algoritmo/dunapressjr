@@ -1,11 +1,12 @@
 ---
-title: "O que é Tesouro Direto e como investir nele?"
+title: O que é Tesouro Direto e como investir nele?
 date: 2021-12-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Venha saber na matéria de hoje o que é Tesouro Direto** **e aprenda tudo sobre essa modalidade de investimento que caiu no gosto dos brasileiros. 
 

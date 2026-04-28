@@ -1,11 +1,12 @@
 ---
-title: "Começa hoje a Cúpula de Ação Climática em Nova York"
+title: Começa hoje a Cúpula de Ação Climática em Nova York
 date: 2019-09-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **Diante do agravamento da crise climática, a Cúpula da ONU oferece novos caminhos e ações práticas.**
 

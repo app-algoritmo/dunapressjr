@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança da Indústria (ICI) cai em julho"
+title: Índice de Confiança da Indústria (ICI) cai em julho
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado do FGV IBRE mostra queda significativa da confiança industrial e acende alerta para o cenário econômico.
 

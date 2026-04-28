@@ -1,11 +1,12 @@
 ---
-title: "Estreitar relações com escola pode ser decisivo para processo de aprendizagem"
+title: Estreitar relações com escola pode ser decisivo para processo de aprendizagem
 date: 2023-08-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Famílias que se mantém próximas de professores e equipe pedagógica contribuem para melhorar desempenho de crianças e adolescentes nos estudos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal libera o maior repasse de recursos da história para financiamento em telecomunicações"
+title: Governo Federal libera o maior repasse de recursos da história para financiamento
+  em telecomunicações
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério das Comunicações comemorou os 20 anos do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel) com um aumento de 390% em relação à média anual entre 2001 e 2018. O montante de R$ 409 milhões representa o maior repasse de recursos desde a criação do fundo. Os investimentos permitirão o desenvolvimento e a ampliação da utilização de tecnologias de Internet das Coisas em sistemas agrícolas, de transporte, saúde, segurança e soluções para a internet 5G.
 

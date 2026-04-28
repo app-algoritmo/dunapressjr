@@ -1,11 +1,13 @@
 ---
-title: "Papa Francisco critica 'hipocrisia' das críticas à bênção de homossexuais pelo Vaticano"
+title: Papa Francisco critica 'hipocrisia' das críticas à bênção de homossexuais pelo
+  Vaticano
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco denunciou veementemente as críticas ao documento do Vaticano que apoia a bênção dos homossexuais, classificando tais reações como "hipocrisia". Em uma entrevista à revista católica Credere, o pontífice destacou a falta de escândalo quando a bênção é concedida a um empresário que possa explorar pessoas, contrastando com as objeções levantadas quando se trata de indivíduos LGBTQ+.
 

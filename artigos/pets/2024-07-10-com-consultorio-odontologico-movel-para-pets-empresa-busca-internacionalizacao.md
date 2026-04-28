@@ -1,11 +1,12 @@
 ---
-title: "Com consultório odontológico móvel para pets, empresa busca internacionalização"
+title: Com consultório odontológico móvel para pets, empresa busca internacionalização
 date: 2024-07-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Indústria localizada em parque tecnológico recebe mentorias gratuitas de especialistas para expandir sua presença no mercado.
 

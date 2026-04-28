@@ -1,11 +1,13 @@
 ---
-title: "Orbán Critica Envolvimento da Europa no Conflito na Ucrânia e Alerta para Riscos de Terceira Guerra Mundial"
+title: Orbán Critica Envolvimento da Europa no Conflito na Ucrânia e Alerta para Riscos
+  de Terceira Guerra Mundial
 date: 2024-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Primeiro-ministro Húngaro Questiona Irresponsabilidade Europeia e Propostas de Serviço Militar Obrigatório na UE.
 

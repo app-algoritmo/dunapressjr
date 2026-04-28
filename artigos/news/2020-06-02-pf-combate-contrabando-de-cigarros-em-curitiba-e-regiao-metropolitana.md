@@ -1,11 +1,12 @@
 ---
-title: "PF combate contrabando de cigarros em Curitiba e região metropolitana"
+title: PF combate contrabando de cigarros em Curitiba e região metropolitana
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ponta Grossa/PR – A Polícia Federal desencadeou nesta terça-feira, 2/6, a Operação Neblina, visando desarticular distribuição de cigarros estrangeiros na região. Foram cumpridos seis mandados de busca e apreensão em Curitiba e região metropolitana.
 

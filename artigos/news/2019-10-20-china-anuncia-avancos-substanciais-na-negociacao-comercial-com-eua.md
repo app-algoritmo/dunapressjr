@@ -1,11 +1,12 @@
 ---
-title: "China anuncia avanços substanciais na negociação comercial com EUA"
+title: China anuncia avanços substanciais na negociação comercial com EUA
 date: 2019-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pequim e Washington conseguiram "avanços
 substanciais" para um acordo comercial parcial, afirmou Liu He,

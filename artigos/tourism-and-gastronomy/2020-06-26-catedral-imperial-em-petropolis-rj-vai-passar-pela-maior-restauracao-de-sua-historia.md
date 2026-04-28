@@ -1,11 +1,13 @@
 ---
-title: "Catedral Imperial, em Petrópolis (RJ), vai passar pela maior restauração de sua história"
+title: Catedral Imperial, em Petrópolis (RJ), vai passar pela maior restauração de
+  sua história
 date: 2020-06-26
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Iphan, autarquia vinculada ao MTur, aprovou o projeto de intervenções proposto pela Mitra Diocesana da cidade.
 

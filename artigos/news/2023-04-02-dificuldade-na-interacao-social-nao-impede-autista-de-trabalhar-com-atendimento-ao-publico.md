@@ -1,11 +1,13 @@
 ---
-title: "Dificuldade na interação social não impede autista de trabalhar com atendimento ao público"
+title: Dificuldade na interação social não impede autista de trabalhar com atendimento
+  ao público
 date: 2023-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Direito ao diagnóstico precoce e tratamento; ao acesso à educação e proteção social; e ao trabalho e à igualdade de oportunidades.” São esses os direitos que a Lei da Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista garante desde 2012, no Brasil. Mas, infelizmente, ainda não é o que as pessoas com Transtorno do Espectro Autista (TEA) vivenciam diariamente. Celebrado no dia 2 de abril, o Dia Mundial de Conscientização do Autismo foi criado justamente para dar voz aos indivíduos com TEA na busca por respeito, igualdade e inclusão. Neste ano, a campanha traz o tema: “Mais informação, menos preconceito”. 
 

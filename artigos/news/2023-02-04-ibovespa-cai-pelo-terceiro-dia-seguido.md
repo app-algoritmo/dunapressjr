@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai pelo terceiro dia seguido"
+title: Ibovespa cai pelo terceiro dia seguido
 date: 2023-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar sobe e termina esta sexta-feira vendido a R$5,14.
 

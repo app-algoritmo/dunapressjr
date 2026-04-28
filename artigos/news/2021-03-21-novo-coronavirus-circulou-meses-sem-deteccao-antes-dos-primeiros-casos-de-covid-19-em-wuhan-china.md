@@ -1,11 +1,13 @@
 ---
-title: "Novo coronavírus circulou meses sem detecção antes dos primeiros casos de COVID-19 em Wuhan, China"
+title: Novo coronavírus circulou meses sem detecção antes dos primeiros casos de COVID-19
+  em Wuhan, China
 date: 2021-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo das datas de surgimento já em outubro de 2019; Simulações sugerem que, na maioria dos casos, os vírus zoonóticos morrem naturalmente antes de causar uma pandemia
 

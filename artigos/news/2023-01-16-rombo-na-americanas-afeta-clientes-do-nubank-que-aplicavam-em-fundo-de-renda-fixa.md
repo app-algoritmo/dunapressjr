@@ -1,11 +1,13 @@
 ---
-title: "Rombo na Americanas afeta clientes do Nubank que aplicavam em fundo de renda fixa"
+title: Rombo na Americanas afeta clientes do Nubank que aplicavam em fundo de renda
+  fixa
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A derrocada dos papéis das Lojas Americanas na Bolsa de Valores não afetou apenas quem investe na companhia. A queda histórica no valor da empresa prejudicou, por tabela, os investidores de um dos fundos mais conservadores do Nubank, que registrou perdas nos últimos dias. Fundos de outras gestoras que tinham recursos aplicados nas Americanas e seus investidores também tiveram perdas.
 

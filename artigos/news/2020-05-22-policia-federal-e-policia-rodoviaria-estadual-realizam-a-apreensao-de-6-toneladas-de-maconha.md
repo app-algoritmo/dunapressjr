@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal e Polícia Rodoviária Estadual realizam a apreensão de 6 toneladas de maconha"
+title: Polícia Federal e Polícia Rodoviária Estadual realizam a apreensão de 6 toneladas
+  de maconha
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naviraí/MS – Na quinta-feira, 21/5, em mais um trabalho conjunto realizado no bojo da Operação Hórus/Programa Vigia, a Polícia Federal e a Polícia Rodoviária Estadual apreenderam aproximadamente seis toneladas de maconha e uma carreta, além de efetuarem a prisão de um indivíduo.
 

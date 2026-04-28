@@ -1,11 +1,12 @@
 ---
-title: "Girão elogia advogado por questionar STF em julgamento de réu do 8 de janeiro"
+title: Girão elogia advogado por questionar STF em julgamento de réu do 8 de janeiro
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) parabenizou, em pronunciamento nesta quinta-feira (14), o desembargador aposentado Sebastião Reis Coelho, por suas manifestações diante do Supremo Tribunal Federal (STF). Advogado de Aécio Lúcio Costa Pereira, primeiro réu pelos atos de 8 de janeiro a ser julgado no Supremo, Coelho afirmou durante o julgamento que os ministros são as pessoas mais odiadas do país.
 

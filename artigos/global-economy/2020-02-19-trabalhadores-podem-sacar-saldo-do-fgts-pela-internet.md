@@ -1,11 +1,12 @@
 ---
-title: "Trabalhadores podem sacar saldo do FGTS pela internet"
+title: Trabalhadores podem sacar saldo do FGTS pela internet
 date: 2020-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Modalidade reduz demanda por atendimento presencial nas agências e facilita acesso às modalidades de saque*
 

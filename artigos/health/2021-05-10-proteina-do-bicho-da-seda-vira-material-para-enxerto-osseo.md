@@ -1,11 +1,12 @@
 ---
-title: "Proteína do bicho-da-seda vira material para enxerto ósseo"
+title: Proteína do bicho-da-seda vira material para enxerto ósseo
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Engenheira de Materiais formada pela Universidade Estadual Paulista (Unesp), Daniela Vieira é mestre em Bioengenharia pela Universidade de São Paulo (USP), onde desenvolveu o enxerto ósseo feito a partir de uma proteína encontrada no casulo do bicho-da-seda.
 

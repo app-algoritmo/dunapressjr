@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BC cita previsões de que PIB pode crescer de 1% a 2%"
+title: Presidente do BC cita previsões de que PIB pode crescer de 1% a 2%
 date: 2022-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em audiência, Campos Neto fala sobre juros, desemprego e inflação.
 

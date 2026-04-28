@@ -1,11 +1,12 @@
 ---
-title: "Árabes e judeus entram em confronto em Jerusalém, vários incidentes relatados"
+title: Árabes e judeus entram em confronto em Jerusalém, vários incidentes relatados
 date: 2021-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As tensões foram altas durante a noite na capital.
 

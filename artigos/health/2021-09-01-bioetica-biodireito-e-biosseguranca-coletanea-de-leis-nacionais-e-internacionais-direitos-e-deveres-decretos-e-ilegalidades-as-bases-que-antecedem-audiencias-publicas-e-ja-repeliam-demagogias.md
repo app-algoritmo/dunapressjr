@@ -1,11 +1,14 @@
 ---
-title: "Bioética, Biodireito e Biossegurança - Coletânea de Leis, nacionais e internacionais – Direitos e Deveres – Decretos e (i)Legalidades | As bases que antecedem audiências públicas e já repeliam demagogias"
+title: Bioética, Biodireito e Biossegurança - Coletânea de Leis, nacionais e internacionais
+  – Direitos e Deveres – Decretos e (i)Legalidades | As bases que antecedem audiências
+  públicas e já repeliam demagogias
 date: 2021-09-01
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **Da série *LegisKonsultum® ***| ***Examinando as linhas antes das entrelinhas, os textos antes das opiniões***.
 

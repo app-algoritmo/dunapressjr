@@ -1,11 +1,13 @@
 ---
-title: "Caminhos que se cruzam: jovem tem vida salva por técnica de enfermagem que passava por local de acidente de trânsito"
+title: 'Caminhos que se cruzam: jovem tem vida salva por técnica de enfermagem que
+  passava por local de acidente de trânsito'
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Não lembro de muita coisa do acidente, apenas que paramos no posto para abastecer, segurei no meu parceiro e veio a freada brusca. Recordo que fui arremessada e depois arrastada. Senti muita dor, e a sensação era horrível. Pessoas gritavam para não deixar o motorista fugir e, no meio desse tumulto, surgiu uma voz suave perguntando se eu precisava de alguma coisa. Nessa hora, eu não conseguia ver nada, apenas ouvir a voz doce da Lu. Ela me disse que trabalhava no Hospital Marcelino Champagnat e que eu não poderia me mexer até o Siate chegar. Não me deixou um minuto sozinha, me manteve calma e imóvel”, recorda Fernanda de Oliveira Franco, 20 anos, que estava indo trabalhar na garupa de uma moto, quando foi atingida por um carro.
 

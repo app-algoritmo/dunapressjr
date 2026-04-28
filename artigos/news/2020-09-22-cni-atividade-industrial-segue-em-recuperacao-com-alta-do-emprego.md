@@ -1,11 +1,12 @@
 ---
-title: "CNI: atividade industrial segue em recuperação com alta do emprego"
+title: 'CNI: atividade industrial segue em recuperação com alta do emprego'
 date: 2020-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sondagem indica que atividade já se encontra no patamar pré-crise.
 

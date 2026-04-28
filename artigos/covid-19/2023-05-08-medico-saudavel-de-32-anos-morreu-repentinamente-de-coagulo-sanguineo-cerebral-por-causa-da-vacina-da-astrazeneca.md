@@ -1,11 +1,13 @@
 ---
-title: "Médico saudável de 32 anos morreu repentinamente de coágulo sanguíneo cerebral por causa da vacina da AstraZeneca"
+title: Médico saudável de 32 anos morreu repentinamente de coágulo sanguíneo cerebral
+  por causa da vacina da AstraZeneca
 date: 2023-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Apenas 10 dias depois de receber a injeção de dose única da “vacina” do coronavírus Wuhan (Covid-19) da AstraZeneca em janeiro de 2021, o Dr. Stephen Wright, de 32 anos, um jovem médico anteriormente saudável, caiu morto. E o legista que examinou o corpo de Wright [determinou que](https://www.thegatewaypundit.com/2023/04/coroner-finds-healthy-32-year-old-doctor-died-from-cerebral-blood-clot-caused-by-covid-vaccine-wife-now-suing-astrazeneca/) o jovem, de fato, morreu por causa do jab.
 

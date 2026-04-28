@@ -1,11 +1,13 @@
 ---
-title: "Vendas do varejo da Paraíba crescem o dobro da média nacional em janeiro, revela IBGE"
+title: Vendas do varejo da Paraíba crescem o dobro da média nacional em janeiro, revela
+  IBGE
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No varejo ampliado a Paraíba registrou uma expansão de dezembro para janeiro, enquanto o Brasil registrou um recuo.
 

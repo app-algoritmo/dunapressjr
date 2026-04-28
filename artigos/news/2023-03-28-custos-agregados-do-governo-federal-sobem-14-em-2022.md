@@ -1,11 +1,12 @@
 ---
-title: "Custos agregados do Governo Federal sobem 14% em 2022"
+title: Custos agregados do Governo Federal sobem 14% em 2022
 date: 2023-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento de custos financeiros (26,9%) e com sentenças judiciais (83,3%) explicam a variação, acima do IPCA médio do período.
 

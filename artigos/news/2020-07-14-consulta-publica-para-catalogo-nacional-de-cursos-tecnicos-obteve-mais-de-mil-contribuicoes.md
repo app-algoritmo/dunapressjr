@@ -1,11 +1,13 @@
 ---
-title: "Consulta pública para Catálogo Nacional de Cursos Técnicos obteve mais de mil contribuições"
+title: Consulta pública para Catálogo Nacional de Cursos Técnicos obteve mais de mil
+  contribuições
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Consulta pública da versão preliminar do Catálogo Nacional de Cursos Técnicos (CNCT), realizada entre os dias 6 e 10 de julho, registrou 12,7 mil acessos e resultou em 1.197 contribuições.
 

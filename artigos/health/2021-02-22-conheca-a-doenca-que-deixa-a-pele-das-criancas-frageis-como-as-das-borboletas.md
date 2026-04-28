@@ -1,11 +1,12 @@
 ---
-title: "Conheça a doença que deixa a pele das crianças frágeis como as das borboletas"
+title: Conheça a doença que deixa a pele das crianças frágeis como as das borboletas
 date: 2021-02-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Feridas muito doloridas que podem ser comparadas com queimaduras de segundo grau, aparecimento de bolhas e descolamento da pele especialmente nas áreas de maior atrito. Estamos falando da doença rara Epidermólise Bolhosa, uma doença de pele, genética e hereditária, que tem mais de trinta tipos.
 

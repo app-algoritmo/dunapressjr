@@ -1,11 +1,12 @@
 ---
-title: "Bitcoin cai 5% para US$ 54 mil com início dos pagamentos da Mt. Gox"
+title: Bitcoin cai 5% para US$ 54 mil com início dos pagamentos da Mt. Gox
 date: 2024-07-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 O preço do Bitcoin chegou a atingir US$ 53.898 após uma carteira da Mt. Gox transferir US$ 2,7 bilhões.
 

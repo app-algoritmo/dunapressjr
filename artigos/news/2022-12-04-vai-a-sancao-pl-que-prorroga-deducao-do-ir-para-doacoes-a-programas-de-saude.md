@@ -1,11 +1,12 @@
 ---
-title: "Vai a sanção PL que prorroga dedução do IR para doações a programas de saúde"
+title: Vai a sanção PL que prorroga dedução do IR para doações a programas de saúde
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados [aprovou](http://www.camara.leg.br/noticias/924306-camara-aprova-proposta-que-prorroga-deducao-do-ir-para-doacoes-a-programas-de-saude), nessa quinta-feira (1º), o projeto que prorroga a possibilidade de deduzir do Imposto de Renda (IR) as doações feitas a dois programas de assistência a pacientes com câncer e pessoas com deficiência ([PL 5.307/2020](http://www25.senado.leg.br/web/atividade/materias/-/materia/145619)). O projeto é de autoria da senadora Mara Gabrilli (PSDB-SP) e já havia sido [aprovado no Senado](https://www12.senado.leg.br/noticias/materias/2021/02/23/aprovada-deducao-do-ir-por-doacoes-a-programas-de-saude-ate-2025), em fevereiro do ano passado, sob relatoria da senadora Zenaide Maia (Pros-RN). O texto agora segue para sanção presidencial.
 

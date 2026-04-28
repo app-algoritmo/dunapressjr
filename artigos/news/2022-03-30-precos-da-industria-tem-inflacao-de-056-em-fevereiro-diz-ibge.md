@@ -1,11 +1,12 @@
 ---
-title: "Preços da indústria têm inflação de 0,56% em fevereiro, diz IBGE"
+title: Preços da indústria têm inflação de 0,56% em fevereiro, diz IBGE
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador acumula taxas de 1,77% no ano e de 20,05% em 12 meses.
 

@@ -1,11 +1,12 @@
 ---
-title: "PGR diz que imunidade parlamentar protege declarações de Nikolas"
+title: PGR diz que imunidade parlamentar protege declarações de Nikolas
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputados acusaram o colega de transfobia por fala no Dia da Mulher.
 

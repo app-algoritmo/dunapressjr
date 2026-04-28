@@ -1,11 +1,13 @@
 ---
-title: "Operação Hórus apreende caminhão com carregamento ilícito de cerca de 600 caixas de cigarros paraguaios"
+title: Operação Hórus apreende caminhão com carregamento ilícito de cerca de 600 caixas
+  de cigarros paraguaios
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 erra Roxa/PR – Na madrugada desta segunda-feira (6/7), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COE/BOPE e COBRA/BPFRON da PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

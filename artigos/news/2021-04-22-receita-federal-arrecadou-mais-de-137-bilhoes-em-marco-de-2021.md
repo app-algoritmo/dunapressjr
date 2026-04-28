@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal arrecadou mais de 137 bilhões em março de 2021"
+title: Receita Federal arrecadou mais de 137 bilhões em março de 2021
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor representa acréscimo (IPCA) de 18,49% em relação ao mesmo período de 2020.
 

@@ -1,11 +1,13 @@
 ---
-title: "China Relembra Bombardeio em Belgrado e Envia Mensagem Forte aos EUA Durante Visita de Blinken"
+title: China Relembra Bombardeio em Belgrado e Envia Mensagem Forte aos EUA Durante
+  Visita de Blinken
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ### China Comemora 25º Aniversário do Bombardeio em Belgrado e Envia Mensagem Firme aos EUA.
 

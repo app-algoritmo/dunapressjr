@@ -1,11 +1,12 @@
 ---
-title: "Cartões lideraram forma de pagamento em 2021 com participação de 51%"
+title: Cartões lideraram forma de pagamento em 2021 com participação de 51%
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Uso do Pix ficou em segundo lugar, com 16,2% de uso no ano passado.
 

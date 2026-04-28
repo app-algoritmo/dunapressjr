@@ -1,11 +1,12 @@
 ---
-title: "Zenaide alerta para riscos do comércio de sangue e plasma humano"
+title: Zenaide alerta para riscos do comércio de sangue e plasma humano
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Zenaide Maia (PSD-RN), em pronunciamento no Plenário nesta terça-feira (3), criticou a proposta de emenda à Constituição que autoriza a comercialização de sangue e seus derivados por empresas privadas no Brasil ([PEC 10/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/152715)). A parlamentar alertou sobre as implicações éticas e os riscos para a saúde dos brasileiros, como o impacto negativo nos bancos de sangue públicos.
 

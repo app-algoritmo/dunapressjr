@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária e indicação de Zanin movimentam semana no Congresso"
+title: Reforma tributária e indicação de Zanin movimentam semana no Congresso
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Feriado de Corpus Christi adiará votação de marco fiscal pelo Senado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como e o que diplomatas da Rússia e países ocidentais discutem na ONU"
+title: Como e o que diplomatas da Rússia e países ocidentais discutem na ONU
 date: 2022-03-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Conselho de Segurança da ONU continua sendo o principal campo de batalha para diplomatas russos e ocidentais. Por dois dias seguidos, houve debates sobre a "operação militar especial" na Ucrânia. O Representante Permanente da Rússia na ONU, Vasily Nebenzya, e diplomatas ocidentais trocaram acusações de hipocrisia, cinismo e produção de falsificações em escala industrial. Eles também discutiram ativamente sobre qual dos dois projetos de resolução do Conselho de Segurança - russo ou franco-mexicano - realmente se preocupa com a situação humanitária na Ucrânia.
 

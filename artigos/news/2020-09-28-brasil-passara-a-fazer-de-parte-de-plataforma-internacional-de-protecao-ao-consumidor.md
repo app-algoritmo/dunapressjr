@@ -1,11 +1,13 @@
 ---
-title: "Brasil passará a fazer de parte de plataforma internacional de proteção ao consumidor"
+title: Brasil passará a fazer de parte de plataforma internacional de proteção ao
+  consumidor
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para garantir mais proteção aos consumidores brasileiros, o Governo Federal aderiu à plataforma internacional de denúncias de fraudes e golpes relacionados ao comércio eletrônico, a Econsumer. O acordo foi firmado, nesta sexta-feira (25), em uma cerimônia virtual, entre a Secretaria Nacional do Consumidor (Senacon), vinculada ao Ministério da Justiça e Segurança Pública; e a Comissão Federal de Comércio dos Estados Unidos (Federal Trade Comission).
 

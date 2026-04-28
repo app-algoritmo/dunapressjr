@@ -1,11 +1,12 @@
 ---
-title: "Introdução a Mulher da Grécia Antiga: O Mito de Pandora"
+title: 'Introdução a Mulher da Grécia Antiga: O Mito de Pandora'
 date: 2020-05-10
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 É para alguns já conhecido os diversos papeis que uma mulher, seja ela de alta ou baixa estirpe, teve no período Grego antigo. Talvez um pouco mais conhecido seja a sua representação na rica fauna mitológica Grega, com inumeráveis personagens que usufruíam de grande influência para tanto os mortais, como aos imortais, influência está por vezes negativa, outras positivas. Tudo isso dentro de um contexto místico, distribuído de forma didática e imponente, mostrando características tanto humanas como sobre-humanas em relatos épicos, trágicos e por vezes até cômicos.
 

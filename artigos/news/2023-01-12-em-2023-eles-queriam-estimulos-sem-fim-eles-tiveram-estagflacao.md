@@ -1,11 +1,12 @@
 ---
-title: "Em 2023: Eles queriam estímulos sem fim, eles tiveram estagflação"
+title: 'Em 2023: Eles queriam estímulos sem fim, eles tiveram estagflação'
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Depois de mais de US$ 20 trilhões em pacotes de estímulo desde 2020, a economia está estagnada com alta inflação. Os governos mundiais anunciaram mais de US$ 12 trilhões em medidas de estímulo apenas em 2020, e os bancos centrais inflaram seus balanços em US$ 8 trilhões.
 

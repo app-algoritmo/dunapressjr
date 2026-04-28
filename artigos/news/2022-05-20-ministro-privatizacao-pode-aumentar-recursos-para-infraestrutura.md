@@ -1,11 +1,12 @@
 ---
-title: "Ministro: privatização pode aumentar recursos para infraestrutura"
+title: 'Ministro: privatização pode aumentar recursos para infraestrutura'
 date: 2022-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes participou de evento da plataforma Arko Advice e Traders Club.
 

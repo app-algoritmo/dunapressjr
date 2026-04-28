@@ -1,11 +1,13 @@
 ---
-title: "PISA: Não podemos ser ultrapassados por mais ninguém, porque já estamos no último lugar, PR Jair Bolsonaro"
+title: 'PISA: Não podemos ser ultrapassados por mais ninguém, porque já estamos no
+  último lugar, PR Jair Bolsonaro'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Presidente Jair Bolsonaro discursou no Lançamento da Pedra Fundamental do Colégio Militar de São Paulo na Presença de Regina Duarte, Abraham Weintraub, Augusto Heleno e demais autoridades.
 

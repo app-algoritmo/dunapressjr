@@ -1,11 +1,12 @@
 ---
-title: "The House Of The Dragon - Derivamarca 1x7"
+title: The House Of The Dragon - Derivamarca 1x7
 date: 2022-10-17
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 O episódio testou a paciência do espectador em muitos aspectos, pois teve cenas em completa escuridão o que deixou quase impossível ver o que se passava. Tive de apagar a luz da sala para poder ver o que acontecia. – Tirando isso foi um episódio muito bom em muitos aspectos. E com muita história e me deixou com medo de estarem apressando a narrativa para caber tudo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão Europeia propõe taxa única de imposto para multinacionais"
+title: Comissão Europeia propõe taxa única de imposto para multinacionais
 date: 2021-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta é cobrar 15% sobre lucros nas operações feitas no bloco.
 

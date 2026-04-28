@@ -1,11 +1,12 @@
 ---
-title: "Chips biônicos para substituir os testes em animais?"
+title: Chips biônicos para substituir os testes em animais?
 date: 2021-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Pesquisadores da Universidade Hebraica desenvolvem chips biônicos para criar drogas de combate ao câncer sem testes em animais.
 

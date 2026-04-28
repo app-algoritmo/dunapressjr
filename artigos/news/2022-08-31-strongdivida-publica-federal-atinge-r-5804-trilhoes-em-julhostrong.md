@@ -1,11 +1,12 @@
 ---
-title: "<strong>Dívida Pública Federal atinge R$ 5,804 trilhões em julho</strong>"
+title: <strong>Dívida Pública Federal atinge R$ 5,804 trilhões em julho</strong>
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em termos nominais, houve queda de 0,70% (R$ 41,15 bilhões) em relação a junho.
 

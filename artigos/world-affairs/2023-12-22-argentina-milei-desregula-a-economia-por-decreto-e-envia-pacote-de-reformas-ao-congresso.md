@@ -1,11 +1,13 @@
 ---
-title: "Argentina: Milei desregula a economia por decreto e envia pacote de reformas ao Congresso"
+title: 'Argentina: Milei desregula a economia por decreto e envia pacote de reformas
+  ao Congresso'
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente argentino, Javier Milei, anunciou nesta quarta-feira um novo pacote de medidas para desregulamentar a economia do país, promover exportações e investimentos. As medidas procuram abrir as portas à privatização de empresas públicas com o objetivo de resolver a crise na segunda maior economia da América do Sul.
 

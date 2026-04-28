@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal implanta 'Projeto DELAS' para mulheres em situação de violência"
+title: Governo Federal implanta 'Projeto DELAS' para mulheres em situação de violência
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto DELAS visa à implantação de núcleos de lutas e artes marciais para o atendimento de mulheres, prioritariamente àquelas que se encontram em situação de vulnerabilidade social e expostas à violência, bem como a promoção e o desenvolvimento de debates sobre os diversos tipos de violência contra a mulher a fim de contribuir com o empoderamento feminino, o reconhecimento de iguais e a prevenção de violação de direitos das mulheres que se encontram em situação de risco social. 
 

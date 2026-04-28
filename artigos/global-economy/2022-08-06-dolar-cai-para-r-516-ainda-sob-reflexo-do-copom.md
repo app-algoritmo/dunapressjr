@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,16 ainda sob reflexo do Copom"
+title: Dólar cai para R$ 5,16 ainda sob reflexo do Copom
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores sobe 0,55% e ultrapassa os 106 mil pontos.
 

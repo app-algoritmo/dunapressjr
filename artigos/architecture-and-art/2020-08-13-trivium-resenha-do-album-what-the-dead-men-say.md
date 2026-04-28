@@ -1,11 +1,12 @@
 ---
-title: "Trivium: Resenha do álbum What The Dead Men Say"
+title: 'Trivium: Resenha do álbum What The Dead Men Say'
 date: 2020-08-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **Dica de música boa para quem curte Heavy Metal e Metalcore **
 

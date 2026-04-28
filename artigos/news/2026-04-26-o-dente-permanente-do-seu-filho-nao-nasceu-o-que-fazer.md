@@ -1,11 +1,12 @@
 ---
-title: "O dente permanente do seu filho não nasceu: O que fazer?"
+title: 'O dente permanente do seu filho não nasceu: O que fazer?'
 date: 2026-04-26
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Todas as pessoas passam pelo mesmo processo de crescimento e amadurecimento dos dentes. Primeiro, vem os dentes de leite, temporários e que irão cair. A troca de dentes, faz nascer a arcada com **dente permanente**, que permanecerá na boca durante toda a vida.
 

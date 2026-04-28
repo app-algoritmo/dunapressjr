@@ -1,11 +1,12 @@
 ---
-title: "Pequenas e médias empresas poderão ter incentivo por meio da redução de royalties"
+title: Pequenas e médias empresas poderão ter incentivo por meio da redução de royalties
 date: 2020-07-03
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução do Conselho Nacional de Política Energética abarca concessionárias de campos de petróleo com objetivo de preservar empregos e gerar desenvolvimento.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministérios da Defesa e da Economia se unem para facilitar a entrada de jovens no mercado de trabalho"
+title: Ministérios da Defesa e da Economia se unem para facilitar a entrada de jovens
+  no mercado de trabalho
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os Ministérios da Defesa e da Economia assinaram Acordo de Cooperação Técnica na data de hoje, com o objetivo de aproximar as ações do Programa “Emprega Mais” e do Projeto “Soldado Cidadão”. 
 

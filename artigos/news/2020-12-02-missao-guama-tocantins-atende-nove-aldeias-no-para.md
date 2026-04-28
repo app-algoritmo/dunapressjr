@@ -1,11 +1,12 @@
 ---
-title: "Missão Guamá Tocantins atende nove aldeias no Pará"
+title: Missão Guamá Tocantins atende nove aldeias no Pará
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os 21 profissionais de Saúde das Forças Armadas concluíram as ações na Missão Guamá Tocantins. A equipe médica e veterinária esteve em nove aldeias assistidas no noroeste do Pará. Em parceria com a Secretaria de Saúde Indígena (Sesai), do Ministério da Saúde, a missão transportou 31 mil itens de Saúde, entre equipamentos de proteção individual e insumos.
 

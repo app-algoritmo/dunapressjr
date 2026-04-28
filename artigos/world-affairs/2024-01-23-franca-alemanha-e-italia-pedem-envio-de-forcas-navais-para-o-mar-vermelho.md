@@ -1,11 +1,12 @@
 ---
-title: "França, Alemanha e Itália pedem envio de forças navais para o Mar Vermelho"
+title: França, Alemanha e Itália pedem envio de forças navais para o Mar Vermelho
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 França, Alemanha e Itália apelaram à União Europeia (UE), num comunicado conjunto, para o envio de forças navais para o Mar Vermelho e salientaram que tudo deve ser enquadrado na missão já implantada naquela região para não provocar reações negativas .
 

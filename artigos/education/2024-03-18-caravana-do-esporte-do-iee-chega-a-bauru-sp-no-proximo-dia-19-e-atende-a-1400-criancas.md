@@ -1,12 +1,14 @@
 ---
-title: "Caravana do Esporte, do IEE, chega a Bauru (SP) no próximo dia 19 e atende a 1.400 crianças"
+title: Caravana do Esporte, do IEE, chega a Bauru (SP) no próximo dia 19 e atende
+  a 1.400 crianças
 date: 2024-03-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Atividades na cidade do interior paulista seguem até o dia 21 e projeto contará com a presença do atleta Victor Ramos, do salto em distância.
 

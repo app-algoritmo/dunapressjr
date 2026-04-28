@@ -1,11 +1,12 @@
 ---
-title: "Lula e Maduro conversam sobre eleições na Venezuela"
+title: Lula e Maduro conversam sobre eleições na Venezuela
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidentes também dialogaram a respeito de questões bilaterais.
 

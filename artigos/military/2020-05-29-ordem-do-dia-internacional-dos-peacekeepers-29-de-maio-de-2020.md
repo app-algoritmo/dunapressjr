@@ -1,11 +1,12 @@
 ---
-title: "Ordem do Dia Internacional dos Peacekeepers - 29 de maio de 2020"
+title: Ordem do Dia Internacional dos Peacekeepers - 29 de maio de 2020
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Brasil possui longo histórico de contribuição para a paz mundial. Há 73 anos, no início de 1947, o País enviava, pela primeira vez, três observadores militares para os Balcãs, a serviço das Nações Unidas. Um ano mais tarde, nossa bandeira estaria novamente presente, monitorando o acordo de cessar-fogo árabe-israelense, naquela que se consagrou como a primeira missão de paz das Nações Unidas, motivando a escolha do dia 29 de maio como o Dia Internacional dos Peacekeepers, os “Capacetes Azuis”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Primárias democratas: 'Super Terça' consolida luta entre Biden e Sanders"
+title: 'Primárias democratas: ''Super Terça'' consolida luta entre Biden e Sanders'
 date: 2020-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Joe Biden venceu primárias em 9 de 14 estados; Bernie Sanders em 3
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa investiga tempo de duração de vírus e anticorpos"
+title: Pesquisa investiga tempo de duração de vírus e anticorpos
 date: 2021-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo da Faculdade de Enfermagem da UFG integra Programa da CAPES de Combate a Epidemias.
 

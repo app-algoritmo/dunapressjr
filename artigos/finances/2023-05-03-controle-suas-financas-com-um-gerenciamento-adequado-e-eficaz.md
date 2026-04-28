@@ -1,12 +1,13 @@
 ---
-title: "Controle suas finanças com um gerenciamento adequado e eficaz"
+title: Controle suas finanças com um gerenciamento adequado e eficaz
 date: 2023-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 O gerenciamento financeiro é essencial para manter sua vida financeira saudável.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estudo interessante sobre adrenocromo"
+title: Estudo interessante sobre adrenocromo
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *O adrenocromo é um subproduto químico da oxidação da adrenalina. Teve algum significado no contexto científico para a investigação da esquizofrenia e outras condições, no entanto não há provas científicas de que tenha as propriedades reivindicadas em várias teorias da conspiração. Em particular, não há provas científicas de que o adrenocromo sirva como uma espécie de “elixir” para prolongar a esperança de vida ou melhorar a saúde.*
 

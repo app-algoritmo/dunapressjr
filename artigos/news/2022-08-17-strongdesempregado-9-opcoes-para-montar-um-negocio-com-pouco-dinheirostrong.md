@@ -1,11 +1,12 @@
 ---
-title: "<strong>Desempregado? 9 Opções para montar um negócio com pouco dinheiro</strong>"
+title: <strong>Desempregado? 9 Opções para montar um negócio com pouco dinheiro</strong>
 date: 2022-08-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Está desempregado e precisa pagar as contas que não param de chegar? Descubra **como montar um negócio com pouco dinheiro** e muita força de vontade. 
 

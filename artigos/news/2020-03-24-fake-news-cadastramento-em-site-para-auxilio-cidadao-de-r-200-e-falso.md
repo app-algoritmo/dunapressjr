@@ -1,11 +1,12 @@
 ---
-title: "Fake News: cadastramento em site para Auxílio Cidadão de R$ 200 é falso"
+title: 'Fake News: cadastramento em site para Auxílio Cidadão de R$ 200 é falso'
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em meio a tantas fake News em circulação no País, o Governo Federal alerta sobre a falsa notícia sobre a existência de cadastramento para que pessoas recebam o “Auxílio Cidadão”. A mensagem informa sobre uma ajuda mensal de R$ 200 para trabalhadores autônomos e pessoas de baixa renda para combater a pandemia do novo coronavírus.
 

@@ -1,11 +1,12 @@
 ---
-title: "Imposto de Renda: conheça as mudanças e saiba como fazer"
+title: 'Imposto de Renda: conheça as mudanças e saiba como fazer'
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Receita Federal espera que mais de 34 milhões de contribuintes enviem a declaração. Uma das mudanças deste ano é a disponibilidade da declaração pré-preenchida para todas as plataformas. Antes, a facilidade era limitada a quem tinha certificado digital. Confira as principais novidades e dicas para enfrentar o leão.
 

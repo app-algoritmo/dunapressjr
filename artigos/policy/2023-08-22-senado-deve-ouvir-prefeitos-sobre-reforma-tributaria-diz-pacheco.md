@@ -1,11 +1,12 @@
 ---
-title: "Senado deve ouvir prefeitos sobre reforma tributária, diz Pacheco"
+title: Senado deve ouvir prefeitos sobre reforma tributária, diz Pacheco
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Senado deve realizar reunião temática com prefeitos para ouvir suas impressões sobre a reforma tributária (Proposta de Emenda à Constituição — [PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)), disse o presidente do Senado, Rodrigo Pacheco, em entrevista coletiva nesta segunda-feira (21). Pacheco participou do seminário "Reflexões sobre a Reforma Tributária", promovido pela Fundação Getúlio Vargas (FGV).
 

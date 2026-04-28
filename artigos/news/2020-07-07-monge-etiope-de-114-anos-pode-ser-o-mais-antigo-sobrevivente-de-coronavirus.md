@@ -1,11 +1,12 @@
 ---
-title: "Monge etíope de 114 anos pode ser o mais antigo sobrevivente de coronavírus"
+title: Monge etíope de 114 anos pode ser o mais antigo sobrevivente de coronavírus
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sua idade o coloca em um pequeno grupo de pessoas que sobreviveram ao COVID-19 e à pandemia de gripe espanhola há um século.
 

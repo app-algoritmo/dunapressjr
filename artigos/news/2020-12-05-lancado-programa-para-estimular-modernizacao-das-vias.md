@@ -1,11 +1,12 @@
 ---
-title: "Lançado programa para estimular modernização das vias"
+title: Lançado programa para estimular modernização das vias
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Infraestrutura, por meio da Secretaria Nacional de Transportes Terrestres (SNTT), lançou o Inov@BR, programa de estímulo à modernização das principais rodovias federais, para promover o aumento da segurança e da eficiência logística do país.
 

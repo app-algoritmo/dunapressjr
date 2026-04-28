@@ -1,11 +1,12 @@
 ---
-title: "Pedra na vesícula: cálculos que causam dor na região abdominal"
+title: 'Pedra na vesícula: cálculos que causam dor na região abdominal'
 date: 2021-02-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A vesícula é um órgão que se assemelha ao formato de uma bolsa, componente importante do sistema digestório humano. Exerce a função de reservar e concentrar a bile produzida pelo fígado a ser liberada no intestino delgado. A bile tem a função de emulsificar as gorduras dos alimentos a serem digeridos e ajudar na absorção de importantes nutrientes como as vitaminas A,D,E e K.
 

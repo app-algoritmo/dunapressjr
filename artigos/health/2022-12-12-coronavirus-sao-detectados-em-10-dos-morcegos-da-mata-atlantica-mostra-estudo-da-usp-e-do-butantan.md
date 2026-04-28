@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus são detectados em 10% dos morcegos da Mata Atlântica, mostra estudo da USP e do Butantan"
+title: Coronavírus são detectados em 10% dos morcegos da Mata Atlântica, mostra estudo
+  da USP e do Butantan
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um estudo realizado pela Universidade de São Paulo (USP) identificou uma alta diversidade de coronavírus em cerca de 10% dos morcegos que habitam a Mata Atlântica, sendo todos do gênero *Alfacoronavirus*. Não foram detectados vírus do gênero *Betacoronavirus*, ao qual pertence o SARS-CoV-2, causador da Covid-19. O artigo foi [publicado na revista Transboundary and Emerging Diseases](https://onlinelibrary.wiley.com/doi/10.1111/tbed.14636) e teve participação de pesquisadores do Instituto Butantan, da Universidade Federal Rural de Pernambuco, da Universidade Federal do Agreste de Pernambuco, da Universidade do Vale do Itajaí e da Universidade Estadual de Campinas.
 

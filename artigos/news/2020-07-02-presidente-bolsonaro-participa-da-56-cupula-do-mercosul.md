@@ -1,11 +1,12 @@
 ---
-title: "Presidente Bolsonaro participa da 56ª Cúpula do Mercosul"
+title: Presidente Bolsonaro participa da 56ª Cúpula do Mercosul
 date: 2020-07-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 presidente Jair Bolsonaro participou, na manhã desta quinta-feira (2), da 56ª cúpula de chefes de Estado do Mercosul e Estados Associados. Em razão da pandemia do novo Coronavírus, o encontro foi realizado por videoconferência.
 

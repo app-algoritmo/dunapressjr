@@ -1,11 +1,12 @@
 ---
-title: "O Globalismo se reinventa a todo instante"
+title: O Globalismo se reinventa a todo instante
 date: 2020-04-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *A renda básica universal e a tecnologia - Os globalistas tentam de todas as formas dominar tudo e todos*.
 

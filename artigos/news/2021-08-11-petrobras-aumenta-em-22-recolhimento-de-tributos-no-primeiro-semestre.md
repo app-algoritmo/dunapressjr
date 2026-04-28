@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aumenta em 22% recolhimento de tributos no primeiro semestre"
+title: Petrobras aumenta em 22% recolhimento de tributos no primeiro semestre
 date: 2021-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa figura entre os maiores pagadores de impostos no Brasil.
 

@@ -1,12 +1,13 @@
 ---
-title: "Irã: 11 de Fevereiro, assinala-se o 45º aniversário da derrubada da monarquia"
+title: 'Irã: 11 de Fevereiro, assinala-se o 45º aniversário da derrubada da monarquia'
 date: 2024-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
-  - Policy
+- History
+- Policy
 ---
+
 
 No dia 11 de fevereiro, marca-se o 45º aniversário de um evento que mudou o curso da história do Irã - a derrubada da monarquia pelos islamistas. Este marco histórico não apenas trouxe mudanças políticas e sociais profundas para a nação, mas também marcou o fim de uma era de esplendor cultural e prosperidade que o país experimentava.
 

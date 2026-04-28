@@ -1,11 +1,12 @@
 ---
-title: "Hábito de cozinhar influencia na alimentação dos pequenos"
+title: Hábito de cozinhar influencia na alimentação dos pequenos
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 A alimentação infantil é sempre um ponto de atenção para os pais, principalmente porque as refeições com doces e *salgadinhos *parecem ser sempre mais palatáveis para os pequenos, visto que esses produtos recebem corantes, gorduras, sal e açúcares para mudar o sabor. Uma pesquisa guiada pela Universidade Federal do Rio de Janeiro (UFRJ) aponta que 80% das crianças de até cinco anos já consomem biscoitos, farinhas instantâneas, refrigerantes e bebidas açucaradas. Surpreendentemente, a ingestão é comum entre bebês menores de dois anos, o que pode trazer consequências a longo prazo, como obesidade, diabetes e problemas cardiovasculares. Para contornar as guloseimas e ultraprocessados, apresentar o ambiente culinário, os grupos alimentares e as infinitas possibilidades de preparos são excelentes alternativas para estimular uma relação saudável com a comida.
 

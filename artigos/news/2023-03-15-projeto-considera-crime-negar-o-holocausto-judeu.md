@@ -1,11 +1,12 @@
 ---
-title: "Projeto considera crime negar o holocausto judeu"
+title: Projeto considera crime negar o holocausto judeu
 date: 2023-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 145/23 criminaliza a negação do holocausto judeu, com pena de reclusão de dois a cinco anos e multa.
 

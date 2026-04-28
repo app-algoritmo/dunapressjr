@@ -1,11 +1,12 @@
 ---
-title: "Presidente negocia PEC para zerar impostos sobre combustíveis"
+title: Presidente negocia PEC para zerar impostos sobre combustíveis
 date: 2022-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida prevê fim da cobrança da PIS/Pasep e Cofins nestes produtos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Conservadores Europeus Preveem Censura em Massa e Planejam Alternativas para Alcançar Eleitores"
+title: Conservadores Europeus Preveem Censura em Massa e Planejam Alternativas para
+  Alcançar Eleitores
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Numa entrevista exclusiva à Remix News, Gerolf Annemans, eurodeputado do Vlaams Belang e presidente do Grupo Europeu para a Identidade e a Democracia, alerta para uma censura ainda maior por parte dos conservadores e diz aos grupos de direita o que precisam de fazer para garantir que a sua mensagem continua a ser ouvida.
 

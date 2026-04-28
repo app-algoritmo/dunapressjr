@@ -1,11 +1,13 @@
 ---
-title: "Comissão Judiciária da Câmara dos Deputados dos EUA Requisita Documentos de Censura ao Twitter no Brasil"
+title: Comissão Judiciária da Câmara dos Deputados dos EUA Requisita Documentos de
+  Censura ao Twitter no Brasil
 date: 2024-04-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão Judiciária da Câmara de Deputados dos Estados Unidos, liderada pelo deputado Jim Jordan, fez uma requisição ao Twitter, solicitando a divulgação integral dos pedidos de censura provenientes do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) do Brasil. A informação foi reportada pelo jornal Gazeta do Povo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil analisa fim do acordo ortográfico de língua portuguesa que já terá apoio de Bolsonaro"
+title: Brasil analisa fim do acordo ortográfico de língua portuguesa que já terá apoio
+  de Bolsonaro
 date: 2019-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Depois de dois adiamentos, o requerimento que pede a revogação do acordo assinado há 10 anos com os países de língua portuguesa chega hoje à Câmara baixa do Parlamento brasileiro
 

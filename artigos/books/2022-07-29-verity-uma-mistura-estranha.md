@@ -1,12 +1,13 @@
 ---
-title: "Verity - Uma Mistura Estranha"
+title: Verity - Uma Mistura Estranha
 date: 2022-07-29
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Autora, Colleen Hoover
 

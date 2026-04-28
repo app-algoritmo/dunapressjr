@@ -1,11 +1,12 @@
 ---
-title: "Brexit: acordo temporário entre o Reino da Noruega e o Reino Unido"
+title: 'Brexit: acordo temporário entre o Reino da Noruega e o Reino Unido'
 date: 2019-08-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A [NHO](https://www.nho.no/en/), Confederação da Empresa Norueguesa, pede um acordo norueguês. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo publica MP com medidas para buscar déficit zero em 2024&nbsp;"
+title: Governo publica MP com medidas para buscar déficit zero em 2024&nbsp;
 date: 2023-12-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## MP tem validade imediata; alguns pontos entram em vigor em 90 dias.
 

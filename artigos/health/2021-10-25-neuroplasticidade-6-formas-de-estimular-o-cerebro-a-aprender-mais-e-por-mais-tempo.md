@@ -1,11 +1,13 @@
 ---
-title: "Neuroplasticidade: 6 formas de estimular o cérebro a aprender mais e por mais tempo"
+title: 'Neuroplasticidade: 6 formas de estimular o cérebro a aprender mais e por mais
+  tempo'
 date: 2021-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As crianças têm uma capacidade imensa de aprender novos conhecimentos graças ao que chamamos de neuroplasticidade. Também conhecida como plasticidade neural ou maleabilidade cerebral, é a habilidade do cérebro de se reorganizar para aprender algo novo. No entanto, à medida que as crianças vão se tornando adultas, essa capacidade tende a diminuir, principalmente por conta da falta de estímulo. "Existe a possibilidade do cérebro criar novos circuitos e conexões neurais ao longo da nossa vida como resposta a determinados estímulos que recebemos, resultando em mudanças funcionais no comportamento do próprio cérebro", explica a psicóloga educacional do Colégio Positivo - Jardim Ambiental, em Curitiba (PR), Lianna Calderari Oliveira.
 

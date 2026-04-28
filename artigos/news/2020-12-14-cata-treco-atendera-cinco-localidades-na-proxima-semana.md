@@ -1,11 +1,12 @@
 ---
-title: "Cata Treco atenderá cinco localidades na próxima semana"
+title: Cata Treco atenderá cinco localidades na próxima semana
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Cata Treco, programa da Secretaria Municipal de Obras, atenderá cinco localidades na próxima semana. Os atendimentos iniciam na segunda-feira (14) pelo bairro Fazenda e seguem pelo Centro, Cabeçudas, Praia Brava e Cidade Nova. O caminhão estará nas ruas até sexta-feira (18), das 7h30 às 11h30 e das 13h30 às 17h30.
 

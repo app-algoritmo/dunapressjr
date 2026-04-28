@@ -1,11 +1,12 @@
 ---
-title: "<strong>Intenção de consumo alcança maior nível desde abril de 2020</strong>"
+title: <strong>Intenção de consumo alcança maior nível desde abril de 2020</strong>
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inflação mais moderada nos últimos meses ajuda na intenção de consumo.
 

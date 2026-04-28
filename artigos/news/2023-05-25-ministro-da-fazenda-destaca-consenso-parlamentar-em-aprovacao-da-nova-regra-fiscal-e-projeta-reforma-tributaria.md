@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda destaca consenso parlamentar em aprovação da Nova Regra Fiscal e projeta Reforma Tributária"
+title: Ministro da Fazenda destaca consenso parlamentar em aprovação da Nova Regra
+  Fiscal e projeta Reforma Tributária
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad ressalta importância do diálogo e busca por equilíbrio na busca por crescimento econômico sustentável do país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Oito erros que as empresas cometem ao lidar com informações"
+title: Oito erros que as empresas cometem ao lidar com informações
 date: 2021-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Do endereço ao CPF, da data de nascimento aos hábitos financeiros, os dados pessoais estão hoje nos registros das mais diversas empresas. Para além dos serviços e/ou produtos que as companhias comercializam, essas informações são também ativos muito valiosos. Por isso, os dados são tão visados por criminosos e é papel da empresa que os coleta garantir que eles não sejam roubados ou adulterados. Um projeto de segurança sólido precisa atuar em duas frentes: proteger o usuário de ameaças, garantindo integridade e confidencialidade e, ao mesmo tempo, maximizar o retorno de investimentos e gerar novas oportunidades.
 

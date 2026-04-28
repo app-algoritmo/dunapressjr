@@ -1,11 +1,12 @@
 ---
-title: "Centenas de pessoas vão ao Kotel rezar  pelo fim do coronavírus neste domingo"
+title: Centenas de pessoas vão ao Kotel rezar  pelo fim do coronavírus neste domingo
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Após a oração diária da tarde, uma série de Salmos e orações tradicionais para a cura foram recitadas.
 *

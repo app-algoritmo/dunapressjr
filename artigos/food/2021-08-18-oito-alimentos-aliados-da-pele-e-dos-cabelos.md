@@ -1,11 +1,12 @@
 ---
-title: "Oito alimentos aliados da pele e dos cabelos"
+title: Oito alimentos aliados da pele e dos cabelos
 date: 2021-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Para ver os efeitos estéticos, é necessário o consumo diário adequado de nutrientes essenciais para a produção, manutenção e a proteção dos componentes que fazem parte dos tecidos cutâneo e capilar.
 

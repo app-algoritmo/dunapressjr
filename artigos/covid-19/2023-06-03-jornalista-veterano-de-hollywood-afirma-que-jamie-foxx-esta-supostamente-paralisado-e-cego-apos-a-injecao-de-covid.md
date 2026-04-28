@@ -1,11 +1,13 @@
 ---
-title: "Jornalista veterano de Hollywood afirma que Jamie Foxx está supostamente paralisado e cego após a injeção de Covid"
+title: Jornalista veterano de Hollywood afirma que Jamie Foxx está supostamente paralisado
+  e cego após a injeção de Covid
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Nos últimos dias, tem havido crescente especulação sobre a saúde do conhecido ator e cantor de Hollywood Jamie Foxx. 
 

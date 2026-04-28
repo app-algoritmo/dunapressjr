@@ -1,11 +1,13 @@
 ---
-title: "<strong>Bolsonaro não desiste: o plano seria enfrentar Lula com um 'gabinete paralelo'</strong>"
+title: '<strong>Bolsonaro não desiste: o plano seria enfrentar Lula com um ''gabinete
+  paralelo''</strong>'
 date: 2022-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### A formação de um “gabinete paralelo” para Bolsonaro a partir de 2023 é uma proposta que um grupo de seus assessores estaria avaliando.
 

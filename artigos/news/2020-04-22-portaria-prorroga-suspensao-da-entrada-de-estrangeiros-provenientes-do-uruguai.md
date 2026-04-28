@@ -1,11 +1,12 @@
 ---
-title: "Portaria prorroga suspensão da entrada de estrangeiros provenientes do Uruguai"
+title: Portaria prorroga suspensão da entrada de estrangeiros provenientes do Uruguai
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 22/04/2020 -**  Foi prorrogada, por trinta dias, a restrição excepcional e temporária de entrada no país, por via terrestre, de estrangeiros provenientes do Uruguai. A Portaria nº 195 foi publicada no Diário Oficial da União na sexta-feira (20).
 

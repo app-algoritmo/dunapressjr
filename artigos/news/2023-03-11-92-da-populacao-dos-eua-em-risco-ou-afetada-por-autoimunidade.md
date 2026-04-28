@@ -1,11 +1,12 @@
 ---
-title: "92% da população dos EUA em risco ou afetada por autoimunidade"
+title: 92% da população dos EUA em risco ou afetada por autoimunidade
 date: 2023-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *A autoimunidade é um resultado direto de vacinas genéticas mal projetadas*
 

@@ -1,11 +1,13 @@
 ---
-title: "Senacon notifica instituições de ensino superior para ingressarem na plataforma Consumidor.gov.br"
+title: Senacon notifica instituições de ensino superior para ingressarem na plataforma
+  Consumidor.gov.br
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública, por meio do Departamento de Proteção e Defesa do Consumidor (DPDC) notificou instituições de ensino superior para ingressarem na plataforma Consumidor.gov.br. A medida foi tomada devido ao aumento de reclamações geradas pelas ações de distanciamento social e fechamento dos estabelecimentos de ensino devido à pandemia de Covid-19.
 

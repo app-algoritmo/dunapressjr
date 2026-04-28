@@ -1,11 +1,12 @@
 ---
-title: "Autoridades iranianas anunciam prisões ligadas aos atentados de Kerman"
+title: Autoridades iranianas anunciam prisões ligadas aos atentados de Kerman
 date: 2024-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério da Inteligência iraniano anunciou em comunicado transmitido pela televisão estatal na sexta-feira que as forças de segurança prenderam 11 indivíduos suspeitos de envolvimento nos atentados bombistas em Kerman e apreenderam explosivos.
 

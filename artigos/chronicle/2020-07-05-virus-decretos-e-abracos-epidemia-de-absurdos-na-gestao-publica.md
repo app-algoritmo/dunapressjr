@@ -1,11 +1,12 @@
 ---
-title: "Vírus, decretos e abraços – epidemia de absurdos na gestão pública"
+title: Vírus, decretos e abraços – epidemia de absurdos na gestão pública
 date: 2020-07-05
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **ATUALIZAÇÃO DOS DESCALABROS**
 

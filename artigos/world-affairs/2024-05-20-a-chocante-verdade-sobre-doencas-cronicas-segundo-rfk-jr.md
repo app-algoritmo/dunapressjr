@@ -1,11 +1,12 @@
 ---
-title: "A chocante verdade sobre doenças crônicas segundo RFK Jr"
+title: A chocante verdade sobre doenças crônicas segundo RFK Jr
 date: 2024-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://www.youtube.com/watch?v=p2I2uudCLNA
 

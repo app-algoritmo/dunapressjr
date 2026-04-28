@@ -1,11 +1,12 @@
 ---
-title: "Israel enterra morto após a tragédia do Monte Meron"
+title: Israel enterra morto após a tragédia do Monte Meron
 date: 2021-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Nos bairros ultraortodoxos de Jerusalém e Bnei Brak, milhares de homens marcharam pelas ruas pouco antes do Shabat para o primeiro funeral. 
 

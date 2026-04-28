@@ -1,11 +1,13 @@
 ---
-title: "Desafios e desigualdades na empregabilidade dos jovens brasileiros: Um diagnóstico revelador"
+title: 'Desafios e desigualdades na empregabilidade dos jovens brasileiros: Um diagnóstico
+  revelador'
 date: 2023-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa inédita expõe a falta de conclusão do ensino médio, a informalidade e a necessidade de capacitação para garantir melhores oportunidades no mercado de trabalho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Para que serve o perdão?"
+title: Para que serve o perdão?
 date: 2019-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 O perdão oferece a possibilidade de conseguir liberdade e alívio.
 

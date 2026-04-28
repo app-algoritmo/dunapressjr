@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cai 0,15% em agosto, diz Banco Central"
+title: Atividade econômica cai 0,15% em agosto, diz Banco Central
 date: 2021-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, o indicador ficou positivo em 3,99%.
 

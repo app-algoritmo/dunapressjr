@@ -1,11 +1,12 @@
 ---
-title: "Covid-19 e o McDonald's"
+title: Covid-19 e o McDonald's
 date: 2023-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Uma porção de batata frita para arregaçar a manga para uma vacinação? Essa parceria financiada pelos contribuintes na “luta contra a COVID” é ofensiva e enganosa.
 

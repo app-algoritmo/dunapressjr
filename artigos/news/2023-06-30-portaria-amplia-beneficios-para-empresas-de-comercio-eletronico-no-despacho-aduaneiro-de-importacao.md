@@ -1,11 +1,13 @@
 ---
-title: "Portaria amplia benefícios para empresas de comércio eletrônico no despacho aduaneiro de importação"
+title: Portaria amplia benefícios para empresas de comércio eletrônico no despacho
+  aduaneiro de importação
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alterações na legislação trazem vantagens para empresas participantes do programa de conformidade da Receita Federal.
 

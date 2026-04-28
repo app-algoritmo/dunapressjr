@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em leve alta sustentado pela vale"
+title: Ibovespa fecha em leve alta sustentado pela vale
 date: 2023-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar registra desvalorização após recente valorização, e mercado brasileiro acumula ganhos.
 

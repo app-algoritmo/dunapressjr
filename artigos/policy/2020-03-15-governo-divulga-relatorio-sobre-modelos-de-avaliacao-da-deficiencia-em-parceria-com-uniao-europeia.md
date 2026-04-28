@@ -1,11 +1,13 @@
 ---
-title: "Governo divulga relatório sobre modelos de avaliação da deficiência, em parceria com União Europeia"
+title: Governo divulga relatório sobre modelos de avaliação da deficiência, em parceria
+  com União Europeia
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) divulgou, nesta quinta-feira (12), o documento “Experiências da União Europeia e Brasil na Construção de Sistemas de Avaliação da Deficiência”. Realizado em parceria com o Diálogos Setoriais — instrumento de cooperação entre o Brasil e a União Europeia —, o material traz um estudo comparativo dos modelos de avaliação da deficiência no Brasil, França e Espanha.
 

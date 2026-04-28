@@ -1,11 +1,13 @@
 ---
-title: "Vice-presidente diz que Governo deve atuar com indutor de desenvolvimento sustentável na Amazônia"
+title: Vice-presidente diz que Governo deve atuar com indutor de desenvolvimento sustentável
+  na Amazônia
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O vice-presidente da República, Hamilton Mourão afirmou, nesta quarta-feira (21), que é papel do Governo Federal atuar como facilitador para o desenvolvimento sustentável da Amazônia. Mourão, que é também presidente do Conselho Nacional da Amazônia Legal, participou de evento virtual da Semana BNDES Verde.
 

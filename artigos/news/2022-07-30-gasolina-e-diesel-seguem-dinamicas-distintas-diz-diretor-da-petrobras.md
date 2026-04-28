@@ -1,11 +1,12 @@
 ---
-title: "Gasolina e diesel seguem dinâmicas distintas, diz diretor da Petrobras"
+title: Gasolina e diesel seguem dinâmicas distintas, diz diretor da Petrobras
 date: 2022-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estatal atribui lucro do segundo trimestre à forte geração de caixa.
 

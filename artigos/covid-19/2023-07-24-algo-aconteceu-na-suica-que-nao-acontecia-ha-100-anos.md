@@ -1,11 +1,12 @@
 ---
-title: "Algo aconteceu na Suíça que não acontecia há 100 anos"
+title: Algo aconteceu na Suíça que não acontecia há 100 anos
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Como é possível que o número de nascimentos esteja caindo? Em alguns homens que receberam uma injeção, apenas a proteína spike é observada nos testículos.
 

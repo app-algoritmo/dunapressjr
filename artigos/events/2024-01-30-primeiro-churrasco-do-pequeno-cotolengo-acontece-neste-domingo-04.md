@@ -1,11 +1,12 @@
 ---
-title: "Primeiro churrasco do Pequeno Cotolengo acontece neste domingo, 04"
+title: Primeiro churrasco do Pequeno Cotolengo acontece neste domingo, 04
 date: 2024-01-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## São mais de 1,5 toneladas de carne preparadas para o evento, que é um apoio na arrecadação de verbas para manter o atendimento da Organização. 
 

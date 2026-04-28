@@ -1,11 +1,13 @@
 ---
-title: "Balcão da Cidadania de Itajaí, terá horário de atendimento reduzido até quarta-feira (9)"
+title: Balcão da Cidadania de Itajaí, terá horário de atendimento reduzido até quarta-feira
+  (9)
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nos dias 7, 8 e 9 de dezembro, o Balcão da Cidadania terá atendimento ao público apenas no período vespertino, das 13h às 18h. A mudança acontece em decorrência da suspeita de COVID-19 em servidores, que já foram afastados para os devidos cuidados e isolamento.
 

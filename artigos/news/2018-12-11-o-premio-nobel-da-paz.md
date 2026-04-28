@@ -1,11 +1,12 @@
 ---
-title: "O Prêmio Nobel da Paz"
+title: O Prêmio Nobel da Paz
 date: 2018-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Prêmio Nobel da Paz é entregue anualmente em Oslo, pelo Comitê Nobel Norueguês, cujos membros são nomeados pelo Parlamento norueguês.
 

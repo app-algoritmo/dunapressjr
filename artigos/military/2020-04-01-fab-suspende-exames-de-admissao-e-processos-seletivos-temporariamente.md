@@ -1,11 +1,12 @@
 ---
-title: "FAB suspende Exames de Admissão e Processos Seletivos temporariamente"
+title: FAB suspende Exames de Admissão e Processos Seletivos temporariamente
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) suspendeu, temporariamente, os Exames de Admissão e os Processos Seletivos em andamento, tendo em vista a importância de reforçar os cuidados preventivos e diminuir os riscos de contágio e estabelecer as medidas para enfrentamento da emergência de saúde pública internacional decorrente do novo Coronavírus (COVID-19).
 

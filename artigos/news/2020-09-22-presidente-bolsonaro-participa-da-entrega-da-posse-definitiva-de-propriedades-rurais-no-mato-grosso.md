@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro participa da entrega da posse definitiva de propriedades rurais no Mato Grosso"
+title: Presidente Bolsonaro participa da entrega da posse definitiva de propriedades
+  rurais no Mato Grosso
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A entrega de títulos definitivos, no município de Sorriso, é a maior feita de uma única vez pelo Governo do Presidente Jair Bolsonaro. 
 

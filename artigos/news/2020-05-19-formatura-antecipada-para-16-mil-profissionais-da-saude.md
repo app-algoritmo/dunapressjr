@@ -1,11 +1,12 @@
 ---
-title: "Formatura antecipada para 1,6 mil profissionais da saúde"
+title: Formatura antecipada para 1,6 mil profissionais da saúde
 date: 2020-05-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Profissionais podem ajudar no combate ao coronavírus.
 

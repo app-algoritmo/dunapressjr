@@ -1,12 +1,14 @@
 ---
-title: "Semana Noruega-Brasil com seminários no Rio e em São Paulo: Aquicultura e Energias renováveis"
+title: 'Semana Noruega-Brasil com seminários no Rio e em São Paulo: Aquicultura e
+  Energias renováveis'
 date: 2018-10-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 A **Innovation Norway** com o apoio de **Team Norway** e parceiros locais realizará a **Norway Brazil Week(s)**  a partir de 26 de outubro. Trata-se de uma semana dedicada aos negócios e que traz a oportunidade para novas parcerias comerciais entre empresários do Brasil e da Noruega em uma programação com conferências e seminários sobre:
 

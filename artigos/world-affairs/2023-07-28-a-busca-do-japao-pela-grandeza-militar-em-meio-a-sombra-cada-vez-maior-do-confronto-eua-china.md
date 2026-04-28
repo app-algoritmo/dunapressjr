@@ -1,11 +1,13 @@
 ---
-title: "A busca do Japão pela grandeza militar em meio à sombra cada vez maior do confronto EUA-China"
+title: A busca do Japão pela grandeza militar em meio à sombra cada vez maior do confronto
+  EUA-China
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *Há pouco mais de 75 anos, uma comunidade da Ásia-Pacífico projetada pelos japoneses entrou em colapso, deixando não apenas o Japão, mas grande parte da região no caos. Milhões morreram, cidades ficaram em ruínas. Lições importantes aprendidas pelo mundo – e por muitos japoneses – com a catástrofe da Guerra Ásia-Pacífico e a queda do Império Japonês foram incorporadas à Constituição do Japão redigida pelos Estados Unidos, que entrou em vigor um ano depois e, de acordo com o Artigo 9 prometido O Japão renunciaria para sempre "à guerra como direito soberano da nação e à ameaça ou uso da força como meio de resolver disputas internacionais", acrescentando que "forças terrestres, marítimas e aéreas... nunca serão mantidas". Esta promessa permanece, não revisada, mas esvaziado de novo e de novo, e o esforço de 1946 para criar um novo tipo de estado baseado no princípio da “paz” é amplamente esquecido. Nas décadas seguintes, os EUA, que impuseram o Artigo 9 ao Japão ocupado, lamentaram ter remodelado o Japão como um "estado de paz" e começaram a pressionar constantemente o país para revitalizar e expandir suas forças armadas. De fato, o Japão, com o apoio dos EUA, construiu impressionantes forças terrestres, marítimas e aéreas ao longo do tempo e evitou a proibição constitucional chamando-as de "Forças de Autodefesa" (em vez de exército, marinha, etc.). Nas décadas seguintes, os EUA, que impuseram o Artigo 9 ao Japão ocupado, lamentaram ter remodelado o Japão como um "estado de paz" e começaram a pressionar constantemente o país para revitalizar e expandir suas forças armadas. De fato, o Japão, com o apoio dos EUA, construiu impressionantes forças terrestres, marítimas e aéreas ao longo do tempo e evitou a proibição constitucional chamando-as de "Forças de Autodefesa" (em vez de exército, marinha, etc.). Nas décadas seguintes, os EUA, que impuseram o Artigo 9 ao Japão ocupado, lamentaram ter remodelado o Japão como um "estado de paz" e começaram a pressionar constantemente o país para revitalizar e expandir suas forças armadas. De fato, o Japão, com o apoio dos EUA, construiu impressionantes forças terrestres, marítimas e aéreas ao longo do tempo e evitou a proibição constitucional chamando-as de "Forças de Autodefesa" (em vez de exército, marinha, etc.). *
 

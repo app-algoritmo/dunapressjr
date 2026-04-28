@@ -1,11 +1,12 @@
 ---
-title: "Governo do México Confirma 12 Assassinatos de Candidatos Durante Eleições"
+title: Governo do México Confirma 12 Assassinatos de Candidatos Durante Eleições
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo do México especificou nesta terça-feira que doze candidatos oficialmente inscritos foram assassinados durante a campanha eleitoral das últimas eleições gerais, que envolveram mais de 20.000 cargos. A informação foi confirmada pela Ministra da Segurança, Rosa Icela Rodríguez Velázquez, embora relatórios jornalísticos tenham apontado um número maior, chegando a cerca de trinta.
 

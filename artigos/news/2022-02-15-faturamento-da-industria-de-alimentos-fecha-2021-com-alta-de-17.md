@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria de alimentos fecha 2021 com alta de 17%"
+title: Faturamento da indústria de alimentos fecha 2021 com alta de 17%
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado é 16,9% superior ao registrado em 2020, diz Abia.
 

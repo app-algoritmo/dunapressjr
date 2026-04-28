@@ -1,11 +1,12 @@
 ---
-title: "Os e-mails secretos da família Biden"
+title: Os e-mails secretos da família Biden
 date: 2020-11-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Hunter Biden apresentou seu pai, o então vice-presidente Joe Biden, a um alto executivo de uma empresa de energia ucraniana menos de um ano antes de o mais velho Biden pressionar funcionários do governo na Ucrânia a demitir um promotor que estava investigando a empresa, de acordo com e-mails obtidos pelo The Post.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministros da Defesa da OTAN Discutem Aumento dos Gastos Militares e Preparativos para Cimeira"
+title: Ministros da Defesa da OTAN Discutem Aumento dos Gastos Militares e Preparativos
+  para Cimeira
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os ministros da defesa da OTAN se reúnem em Bruxelas para discutir um possível aumento nos gastos militares dos países membros, com o secretário-geral da OTAN, Jens Stoltenberg, destacando a importância de investir mais para atingir os objetivos de defesa e dissuasão da aliança. Esta reunião, marcada para acontecer sem a presença física do secretário de defesa dos EUA, Lloyd Austin, pela primeira vez em 15 anos, focará também nos preparativos para a próxima cimeira da OTAN, prevista para julho em Washington.
 

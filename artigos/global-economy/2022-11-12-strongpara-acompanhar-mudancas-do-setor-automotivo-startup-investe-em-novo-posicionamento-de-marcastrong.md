@@ -1,11 +1,13 @@
 ---
-title: "<strong>Para acompanhar mudanças do setor automotivo, startup investe em novo posicionamento de marca</strong>"
+title: <strong>Para acompanhar mudanças do setor automotivo, startup investe em novo
+  posicionamento de marca</strong>
 date: 2022-11-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O mercado automotivo acelerou a transformação digital durante a pandemia. É o que mostra o Índice de Transformação Digital do Setor Automotivo (ICTd), feito pelo *Cesar*, em parceria com* Automotive Business*. O segmento apresenta 66% de maturidade no tema entre organizações digitalmente maduras. Nesse cenário, *startups* desempenham papel fundamental como laboratórios de inovação, trazendo mais agilidade e autonomia à implementação de novas ferramentas e estratégias.
 

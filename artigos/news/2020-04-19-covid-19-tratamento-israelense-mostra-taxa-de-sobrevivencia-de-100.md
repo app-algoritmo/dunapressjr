@@ -1,11 +1,12 @@
 ---
-title: "COVID-19: Tratamento israelense  mostra taxa de sobrevivência de 100%"
+title: 'COVID-19: Tratamento israelense  mostra taxa de sobrevivência de 100%'
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Seis pacientes com coronavírus gravemente enfermos em Israel, considerados de alto risco para mortalidade, foram tratados com o produto de terapia celular com base em placenta de Pluristem e sobreviveram, de acordo com dados preliminares fornecidos pela empresa com sede em Haifa.
 

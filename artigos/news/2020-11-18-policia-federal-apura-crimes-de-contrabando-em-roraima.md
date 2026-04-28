@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apura crimes de contrabando em Roraima"
+title: Polícia Federal apura crimes de contrabando em Roraima
 date: 2020-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Grupo é suspeito de comercializar produtos proibidos em loja virtual.
 

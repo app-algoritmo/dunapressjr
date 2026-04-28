@@ -1,11 +1,12 @@
 ---
-title: "Número de equipes de saúde bucal cresceu em 2020"
+title: Número de equipes de saúde bucal cresceu em 2020
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde criança a autônoma Valquiria Ferreira sempre usou o Sistema Único de Saúde (SUS). Entre os tratamentos feitos por ela, está a extração de quatro dentes sisos. Hoje, com 29 anos de idade, Valquiria lembra dos dentistas que cuidaram dela. “Me trataram com muita educação e até com muito carinho, porque não é um procedimento muito agradável de se fazer, mas fui muito bem tratada”, contou.
 

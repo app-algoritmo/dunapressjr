@@ -1,11 +1,12 @@
 ---
-title: "Escola paraibana comemora resultados na redação do Enem"
+title: Escola paraibana comemora resultados na redação do Enem
 date: 2021-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## 88% dos estudantes do Colégio Normal Francisca Mendes, em Catolé do Rocha, conquistaram nota acima de 900 na redação do Enem.
 

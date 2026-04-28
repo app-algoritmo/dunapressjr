@@ -1,11 +1,12 @@
 ---
-title: "Definida pela OCDE aplicação do Pisa para 2022"
+title: Definida pela OCDE aplicação do Pisa para 2022
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Como reflexo das dificuldades enfrentadas em função da pandemia de COVID-19, os países-membros e associados da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) decidiram adiar a aplicação do Programa Internacional de Avaliação de Estudantes (Pisa) 2021 para 2022 e do Pisa 2024 para 2025. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) é o órgão responsável pelo planejamento e a operacionalização da avaliação no Brasil. Normalmente, os testes são aplicados a cada três anos. 
 

@@ -1,11 +1,12 @@
 ---
-title: "PF apreende armas prende duas pessoas em Santo Antônio do Sudoeste"
+title: PF apreende armas prende duas pessoas em Santo Antônio do Sudoeste
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Nesta sexta-feira (28/2), a
 Polícia Federal e a Força Nacional deram cumprimento a três mandados de busca e

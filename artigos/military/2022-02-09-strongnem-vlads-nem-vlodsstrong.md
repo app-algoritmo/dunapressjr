@@ -1,11 +1,12 @@
 ---
-title: "<strong>Nem Vlads, Nem Vlods!</strong>"
+title: <strong>Nem Vlads, Nem Vlods!</strong>
 date: 2022-02-09
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Military
+- Military
 ---
+
 
 **Guerra Ucrânia X Rússia**
 

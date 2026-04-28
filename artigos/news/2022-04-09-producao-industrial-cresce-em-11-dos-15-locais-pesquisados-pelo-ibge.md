@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cresce em 11 dos 15 locais pesquisados pelo IBGE"
+title: Produção industrial cresce em 11 dos 15 locais pesquisados pelo IBGE
 date: 2022-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mato Grosso, com queda de 4,4%, teve o recuo mais intenso.
 

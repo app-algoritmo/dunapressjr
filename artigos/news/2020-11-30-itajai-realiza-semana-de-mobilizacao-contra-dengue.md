@@ -1,11 +1,12 @@
 ---
-title: "Itajaí realiza semana de mobilização contra dengue"
+title: Itajaí realiza semana de mobilização contra dengue
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Vigilância Epidemiológica, realiza a partir de segunda-feira (30) uma semana para controle do Aedes aegypti. 
 

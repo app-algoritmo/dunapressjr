@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço do gás de cozinha para distribuidoras"
+title: Petrobras reduz preço do gás de cozinha para distribuidoras
 date: 2022-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O valor do quilo passa de R$ 4,23 para R$ 4,03.
 

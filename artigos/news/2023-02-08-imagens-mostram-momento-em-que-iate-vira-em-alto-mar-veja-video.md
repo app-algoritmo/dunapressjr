@@ -1,11 +1,12 @@
 ---
-title: "Imagens mostram momento em que iate vira em alto-mar; VEJA VÍDEO"
+title: Imagens mostram momento em que iate vira em alto-mar; VEJA VÍDEO
 date: 2023-02-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## A Guarda Costeira do Oregon, nos Estados Unidos, foi chamada para resgatar um barco que estava com problemas no meio do mar agitado.
 

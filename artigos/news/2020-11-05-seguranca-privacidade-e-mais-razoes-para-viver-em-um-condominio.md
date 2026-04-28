@@ -1,11 +1,12 @@
 ---
-title: "Segurança, privacidade e mais razões para viver em um condomínio"
+title: Segurança, privacidade e mais razões para viver em um condomínio
 date: 2020-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Localização, lazer e mais, saiba os benefícios de viver em um condomínio fechado.
 

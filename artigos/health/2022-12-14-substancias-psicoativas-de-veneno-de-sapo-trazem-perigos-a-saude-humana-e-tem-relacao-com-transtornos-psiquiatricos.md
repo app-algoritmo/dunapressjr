@@ -1,11 +1,13 @@
 ---
-title: "Substâncias psicoativas de veneno de sapo trazem perigos à saúde humana e têm relação com transtornos psiquiátricos"
+title: Substâncias psicoativas de veneno de sapo trazem perigos à saúde humana e têm
+  relação com transtornos psiquiátricos
 date: 2022-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O sapo da espécie *Bufo alvarius* (hoje chamada de *Incilius alvarius*), também conhecido como sapo do Rio Colorado ou do Deserto de Sonora, é encontrado nos Estados Unidos e no México e se tornou popular nos últimos anos devido às **características psicoativas** das substâncias de seu veneno, que tem sido usado em rituais para supostamente tratar transtornos mentais como depressão e ansiedade. O veneno do animal é liberado quando ele é ameaçado, a partir da pressão nas glândulas de sua pele. Algumas pessoas extraem e secam o veneno bruto, depois o fumam ou fazem injeções intravenosas. Essa prática vem se tornando frequente e, com a coleta ilegal, a espécie corre risco de entrar na lista de animais ameaçados de extinção.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comandante Militar da Amazônia inspeciona 16ª Base Logística em Tefé"
+title: Comandante Militar da Amazônia inspeciona 16ª Base Logística em Tefé
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Tefé  (AM)** – No dia 30 de março, a 16ª Base Logística (16ª Ba Log) recebeu a visita do Comandante Militar da Amazônia, o Gen Ex Estevam Cals Theophilo Gaspar de Oliveira, acompanhado do Comandante da 16ª Brigada de Infantaria de Selva (16ª Bda Inf Sl), o Gen Bda Carlos Feitosa Rodrigues.
 

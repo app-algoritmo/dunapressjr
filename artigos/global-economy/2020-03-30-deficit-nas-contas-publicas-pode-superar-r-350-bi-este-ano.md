@@ -1,11 +1,12 @@
 ---
-title: "Déficit nas contas públicas pode superar R$ 350 bi este ano"
+title: Déficit nas contas públicas pode superar R$ 350 bi este ano
 date: 2020-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Resultado é pela pressão forte do lado da despesa e arrecadação
 

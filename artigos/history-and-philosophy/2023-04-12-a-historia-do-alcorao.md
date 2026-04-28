@@ -1,11 +1,12 @@
 ---
-title: "A história do Alcorão"
+title: A história do Alcorão
 date: 2023-04-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 O Alcorão é o livro sagrado do Islã, a religião que tem mais de um bilhão de seguidores em todo o mundo. É considerado pelos muçulmanos como a palavra de Deus, revelada ao profeta Maomé pelo anjo Gabriel. Neste artigo, discutiremos a história, a estrutura, o conteúdo e a importância do Alcorão para os muçulmanos em todo o mundo.
 

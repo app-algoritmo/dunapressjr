@@ -1,11 +1,13 @@
 ---
-title: "Tribunal de Contas da União (TCU) dá aval para concessão de mais quatro terminais de combustíveis"
+title: Tribunal de Contas da União (TCU) dá aval para concessão de mais quatro terminais
+  de combustíveis
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Tribunal de Contas da União (TCU) deu aval para a concessão de mais quatro terminais do Porto Organizado de Itaqui, no Maranhão. Os terminais IQI03, IQI11, IQI12 e IQI13 são responsáveis pela movimentação e armazenagem de granéis líquidos, especialmente combustíveis, além de outras instalações complementares. A previsão é de que sejam investidos R$ 480 milhões nos quatro terminais, e que o edital seja publicado em janeiro.
 

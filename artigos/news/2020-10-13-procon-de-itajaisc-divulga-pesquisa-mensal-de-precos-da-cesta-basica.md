@@ -1,11 +1,12 @@
 ---
-title: "Procon de Itajaí/SC divulga pesquisa mensal de preços da cesta básica"
+title: Procon de Itajaí/SC divulga pesquisa mensal de preços da cesta básica
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O tomate, a banana e a margarina são três dos itens da cesta básica que apresentaram aumento na pesquisa mensal de preços realizada pela Procuradoria de Defesa do Consumidor (Procon) de Itajaí. A alta verificada – 73,8%, no caso do tomate – é em relação ao último mês de setembro. Ao todo, são pesquisados 36 itens da cesta básica. Sabão em pó, arroz e álcool gel 70%, em contrapartida, apresentaram queda de preços no período.
 

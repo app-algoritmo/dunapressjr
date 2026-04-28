@@ -1,11 +1,12 @@
 ---
-title: "Comandante: Forças Armadas do Irã Alcançaram Alta Capacidade de Combate Defensivo"
+title: 'Comandante: Forças Armadas do Irã Alcançaram Alta Capacidade de Combate Defensivo'
 date: 2024-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O comandante das Forças Armadas do Irã anunciou recentemente que o país alcançou uma alta capacidade de combate defensivo, destacando os avanços significativos na preparação militar. Em declarações que ecoaram pelo país, o comandante enfatizou o progresso contínuo das Forças Armadas do Irã na ampliação de suas capacidades defensivas em meio aos desafios regionais e globais.
 

@@ -1,11 +1,13 @@
 ---
-title: "A Expansão das Bases Militares da China: Um Desafio Estratégico aos EUA e à Índia"
+title: 'A Expansão das Bases Militares da China: Um Desafio Estratégico aos EUA e
+  à Índia'
 date: 2024-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **O Crescente Alcance Militar da China**.
 

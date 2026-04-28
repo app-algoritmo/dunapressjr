@@ -1,11 +1,13 @@
 ---
-title: "Sancionada lei que abre crédito de R$ 15 bi para compensar estados por perda com ICMS de combustíveis"
+title: Sancionada lei que abre crédito de R$ 15 bi para compensar estados por perda
+  com ICMS de combustíveis
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Foi publicada no Diário Oficial da União desta quarta-feira (22), a [Lei 14.727/2023](https://www2.camara.gov.br/legin/fed/lei/2023/lei-14727-22-novembro-2023-794974-norma-pl.html), que abre, no Orçamento, crédito especial de R$ 15 bilhões destinados a compensar a perda de arrecadação de estados, DF e municípios com a isenção de impostos determinada no ano passado pelo governo Bolsonaro.
 

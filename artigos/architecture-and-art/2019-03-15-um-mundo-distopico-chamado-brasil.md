@@ -1,11 +1,12 @@
 ---
-title: "Um mundo distópico chamado Brasil"
+title: Um mundo distópico chamado Brasil
 date: 2019-03-15
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **Ver o que é injusto e não agir com justiça é a maior das covardias humanas**.  — Confúcio.
 

@@ -1,11 +1,12 @@
 ---
-title: "AGU pede que STF reconheça decreto que recompõe alíquota de PIS/Cofins"
+title: AGU pede que STF reconheça decreto que recompõe alíquota de PIS/Cofins
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente em exercício cortou tributo sobre grandes empresas.
 

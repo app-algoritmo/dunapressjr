@@ -1,11 +1,12 @@
 ---
-title: "Reajustes salariais por negociações, em junho, chegam a 12%"
+title: Reajustes salariais por negociações, em junho, chegam a 12%
 date: 2022-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em maio, o reajuste mediano foi de 12,3%.
 

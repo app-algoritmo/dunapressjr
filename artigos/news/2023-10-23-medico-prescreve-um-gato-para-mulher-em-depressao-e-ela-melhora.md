@@ -1,11 +1,12 @@
 ---
-title: "Médico prescreve um gato para mulher em depressão e ela melhora"
+title: Médico prescreve um gato para mulher em depressão e ela melhora
 date: 2023-10-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um médico prescreveu um gato para uma mulher que sofria de depressão há 7 anos e a forma inusitada de tratamento deu certo. A senhora melhorou com o “novo amigo”.
 

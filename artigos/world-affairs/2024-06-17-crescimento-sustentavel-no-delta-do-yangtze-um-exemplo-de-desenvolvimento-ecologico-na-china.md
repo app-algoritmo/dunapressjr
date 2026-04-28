@@ -1,11 +1,13 @@
 ---
-title: "Crescimento Sustentável no Delta do Yangtze: Um Exemplo de Desenvolvimento Ecológico na China"
+title: 'Crescimento Sustentável no Delta do Yangtze: Um Exemplo de Desenvolvimento
+  Ecológico na China'
 date: 2024-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Estudo Internacional Revela Dissociação entre Crescimento Econômico e Degradação Ambiental no Delta do Yangtze**.
 

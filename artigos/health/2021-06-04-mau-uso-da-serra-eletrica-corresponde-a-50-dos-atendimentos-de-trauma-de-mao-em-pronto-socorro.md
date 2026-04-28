@@ -1,11 +1,13 @@
 ---
-title: "Mau uso da serra elétrica corresponde a 50% dos atendimentos de trauma de mão em pronto-socorro"
+title: Mau uso da serra elétrica corresponde a 50% dos atendimentos de trauma de mão
+  em pronto-socorro
 date: 2021-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A cada 50 segundos, um novo acidente de trabalho é registrado no Brasil; desde 2012, são mais de 6 milhões de casos.
 

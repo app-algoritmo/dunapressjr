@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial chega a 80% dos domicílios mais pobres do país"
+title: Auxílio Emergencial chega a 80% dos domicílios mais pobres do país
 date: 2020-07-24
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Resultados da PNAD Covid-19 do IBGE mostram que valor médio dos benefícios foi de R$ 881 por residência em junho.
 

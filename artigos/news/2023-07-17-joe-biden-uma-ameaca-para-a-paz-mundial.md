@@ -1,11 +1,12 @@
 ---
-title: "Joe Biden, uma ameaça para a paz Mundial"
+title: Joe Biden, uma ameaça para a paz Mundial
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## **Joe Biden e seus asseclas belicistas parecem ter a intenção de arrastar a América para a Terceira Guerra Mundial**
 

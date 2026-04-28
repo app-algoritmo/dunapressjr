@@ -1,11 +1,12 @@
 ---
-title: "Comandante do Exército visita Arsenal de Guerra do Rio"
+title: Comandante do Exército visita Arsenal de Guerra do Rio
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 7 de dezembro, o Arsenal de Guerra do Rio recebeu a visita institucional do Comandante do Exército, General Tomás Miguel Miné Ribeiro Paiva. Ele foi acompanhado por diversas autoridades, como o Chefe do Departamento de Ciência e Tecnologia do Exército, Sr General de Exército Achilles Furlan Neto, pelo Diretor de Fabricação, Sr General de Divisão Tales Eduardo Areco Villela, pelo 6º Subchefe do Estado-Maior do Exército, Sr General de Divisão Márcio Cordeiro Freire, pelo Diretor-Presidente da IMBel, Sr General de Divisão R/1 Ricardo Rodrigues Canhaci, pelo Chefe da Assessoria de Gestão Institucional do Esta-Maior-do-Exército, Sr General de Divisão R/1 Eduardo Castanheira Garrido Alves e demais autoridades.
 

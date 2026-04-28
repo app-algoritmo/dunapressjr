@@ -1,11 +1,12 @@
 ---
-title: "Brasil lança Nova Política Industrial com US$ 60 bilhões em investimentos"
+title: Brasil lança Nova Política Industrial com US$ 60 bilhões em investimentos
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O governo brasileiro lançou nesta segunda-feira a Nova Política Industrial, que prevê investimentos para modernização do setor da ordem de 300 bilhões de reais (US$ 60 bilhões) até 2026.
 

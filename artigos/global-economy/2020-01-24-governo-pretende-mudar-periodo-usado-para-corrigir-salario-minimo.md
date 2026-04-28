@@ -1,11 +1,12 @@
 ---
-title: "Governo pretende mudar período usado para corrigir salário mínimo"
+title: Governo pretende mudar período usado para corrigir salário mínimo
 date: 2020-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *INPC entre dezembro e novembro será usado para calcular reajustes*
 

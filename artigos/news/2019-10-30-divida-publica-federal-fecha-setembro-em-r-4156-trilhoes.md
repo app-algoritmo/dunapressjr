@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública Federal fecha setembro em R$ 4,156 trilhões"
+title: Dívida Pública Federal fecha setembro em R$ 4,156 trilhões
 date: 2019-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Dívida Pública Federal (DPF), um dos indicadores de
 solvência da economia brasileira, fechou setembro em R$ 4,156 trilhões. O valor

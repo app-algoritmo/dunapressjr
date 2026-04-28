@@ -1,11 +1,12 @@
 ---
-title: "Gilles de Rais - De Herói a Vilão"
+title: Gilles de Rais - De Herói a Vilão
 date: 2020-01-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A sabedoria da cultura popular nos ensina de forma satírica que, ou você morre como herói, ou vive o suficiente para se tornar vilão. Muitas vezes a vida imita a arte, essa também pode ser uma via de mão dupla. Pois, muitas obras ficcionais têm como base acontecimentos ou histórias reais que lhe servem de inspiração, como é visto na aclamada série produzida pelo canal pago HBO, nominada Game of Thrones, onde o infame massacre do Casamento Vermelho, foi claramente inspirado em um evento real conhecido como Black Dinner.
 

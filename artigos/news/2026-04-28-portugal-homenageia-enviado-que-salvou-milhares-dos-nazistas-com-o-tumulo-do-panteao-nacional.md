@@ -1,11 +1,13 @@
 ---
-title: "Portugal homenageia enviado que salvou milhares dos nazistas com o túmulo do Panteão Nacional"
+title: Portugal homenageia enviado que salvou milhares dos nazistas com o túmulo do
+  Panteão Nacional
 date: 2026-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Aristides de Sousa Mendes desafiou seus superiores ao conceder vistos em 1940 enquanto cônsul na França; ele mais tarde foi condenado ao ostracismo antes de ser reconhecido por Yad Vashem e seu país.
 

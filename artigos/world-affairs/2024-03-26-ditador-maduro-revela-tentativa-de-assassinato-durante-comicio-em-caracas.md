@@ -1,11 +1,12 @@
 ---
-title: "Ditador Maduro Revela Tentativa de Assassinato Durante Comício em Caracas"
+title: Ditador Maduro Revela Tentativa de Assassinato Durante Comício em Caracas
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ditador venezuelano, Nicolás Maduro, surpreendeu o país ao revelar que escapou ileso de uma tentativa de assassinato durante um comício na capital, Caracas, na segunda-feira. Enquanto discursava para uma multidão entusiasmada no centro da cidade, Maduro expôs os detalhes do incidente que poderia ter mudado o curso da história política da nação.
 

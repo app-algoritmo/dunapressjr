@@ -1,11 +1,12 @@
 ---
-title: "Teto de gastos provocou queda de recursos para educação, apontam especialistas"
+title: Teto de gastos provocou queda de recursos para educação, apontam especialistas
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O senador Flávio Arns presidiu a audiência pública, que teve caráter semipresencial.
 

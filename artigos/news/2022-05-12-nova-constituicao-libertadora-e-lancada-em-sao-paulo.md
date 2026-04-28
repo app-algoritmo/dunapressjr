@@ -1,11 +1,12 @@
 ---
-title: "Nova Constituição Libertadora é lançada em São Paulo"
+title: Nova Constituição Libertadora é lançada em São Paulo
 date: 2022-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## “A Libertadora - Uma constituição para o Brasil” traz o texto integral da nova Constituição com comentários dos autores, e será lançada com palestra e noite de autógrafos em São Paulo.
 

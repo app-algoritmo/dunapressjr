@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que agropecuária brasileira está entre as mais sustentáveis do mundo"
+title: Estudo mostra que agropecuária brasileira está entre as mais sustentáveis do
+  mundo
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo o Ipea, uso de ciência e tecnologia na agropecuária faz crescer a produção e diminui emissão de gases.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cinco erros comuns que brasileiros cometem ao falar inglês"
+title: Cinco erros comuns que brasileiros cometem ao falar inglês
 date: 2021-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Dominar um outro idioma pode ser uma tarefa árdua e, ao longo desse processo de aprendizagem e consolidação, erros recorrentes acabam surgindo no caminho de quem busca a fluência. Embora esses equívocos sejam bastante comuns e façam parte do processo natural de aprendizado, é importante ter em mente a origem dos erros para conseguir monitorá-los com mais facilidade. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Anísio Teixeira"
+title: 'Série Brasileiros em Destaque: Anísio Teixeira'
 date: 2021-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Educador.
 

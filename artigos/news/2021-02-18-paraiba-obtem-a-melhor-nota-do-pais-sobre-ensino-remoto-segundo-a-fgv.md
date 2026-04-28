@@ -1,11 +1,12 @@
 ---
-title: "Paraíba obtém a melhor nota do país sobre ensino remoto, segundo a FGV"
+title: Paraíba obtém a melhor nota do país sobre ensino remoto, segundo a FGV
 date: 2021-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Educação da Paraíba é destaque nacional em pesquisa feita pela Escola de Economia de São Paulo da Fundação Getúlio Vargas (FGV/EESP). De acordo com o estudo, durante a pandemia da covid-19, a Paraíba é o Estado melhor avaliado dos programas de educação pública EAD dos Estados brasileiros. A publicação está disponível em [http://fgvclear.org/site/wp-content/uploads/remote-learning-in-the-covid-19-pandemic-v-1-0-portuguese-diagramado-1.pdf](http://fgvclear.org/site/wp-content/uploads/remote-learning-in-the-covid-19-pandemic-v-1-0-portuguese-diagramado-1.pdf) .
 

@@ -1,11 +1,12 @@
 ---
-title: "Queijo com casca de jabuticaba, inovação que faz bem à saúde"
+title: Queijo com casca de jabuticaba, inovação que faz bem à saúde
 date: 2021-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em busca de uma vida mais saudável, as pessoas têm buscado consumir, cada vez mais, alimentos funcionais, que, além de fornecer nutrientes ao corpo, promovem a saúde. Dentre eles, destacam-se os produtos lácteos [probióticos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/225-queijo-com-casca-de-jabuticaba-inovacao-que-faz-bem-a-saude#). Esses derivados do leite, como iogurtes e queijos, possuem micro-organismos vivos que trazem benefícios à saúde humana, como o controle de infecções intestinais, regularidade das funções intestinais, melhora na absorção de nutrientes, redução dos níveis de colesterol, estímulo à produção de [anticorpos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/225-queijo-com-casca-de-jabuticaba-inovacao-que-faz-bem-a-saude#), além de possuírem efeitos anticancerígenos. As características funcionais dos probióticos dependem da manutenção de micro-organismos vivos nos produtos por tempo prolongado.
 

@@ -1,11 +1,12 @@
 ---
-title: "STF multa Telegram em R$ 1,2 milhão por descumprir bloqueio de conta"
+title: STF multa Telegram em R$ 1,2 milhão por descumprir bloqueio de conta
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa não bloqueou conta do deputado eleito Nikolas Ferreira.
 

@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra Operação Plantão – Fase 2 para combater venda de decisões judiciais"
+title: Polícia Federal deflagra Operação Plantão – Fase 2 para combater venda de decisões
+  judiciais
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF –** A Polícia Federal deflagrou, na manhã desta quinta-feira (09/04), a Operação Plantão Fase 2, para combater organização criminosa suspeita de comercializar decisões judiciais no âmbito do Tribunal de Justiça do Rio de Janeiro, beneficiando, entre outros, milicianos e investigados por crime de corrupção e tráfico de drogas.
 

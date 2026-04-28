@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que permite cédulas de crédito bancário eletrônicas"
+title: Comissão aprova projeto que permite cédulas de crédito bancário eletrônicas
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que autoriza a emissão de Cédula de Crédito Bancário (CCB) em formato eletrônico. O texto altera a [Lei 10.931/04](https://www2.camara.gov.br/legin/fed/lei/2004/lei-10931-2-agosto-2004-533165-norma-pl.html) e equipara essa cédula de crédito eletrônica ao documento atualmente usado para fins de cobrança extrajudicial.
 

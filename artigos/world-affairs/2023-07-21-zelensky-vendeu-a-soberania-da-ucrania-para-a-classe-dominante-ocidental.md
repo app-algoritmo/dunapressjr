@@ -1,11 +1,12 @@
 ---
-title: "Zelensky vendeu a soberania da Ucrânia para a classe dominante ocidental"
+title: Zelensky vendeu a soberania da Ucrânia para a classe dominante ocidental
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Quem precisa de inimigos quando se tem amigos assim?
 

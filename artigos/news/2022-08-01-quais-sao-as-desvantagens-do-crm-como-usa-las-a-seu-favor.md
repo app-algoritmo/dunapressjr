@@ -1,11 +1,12 @@
 ---
-title: "Quais são as desvantagens do CRM? Como usá-las a seu favor?"
+title: Quais são as desvantagens do CRM? Como usá-las a seu favor?
 date: 2022-08-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Sabemos que a tecnologia traz inúmeros benefícios aos negócios. Principalmente quando falamos sobre relacionamento com o cliente. Mas, como tudo na vida tem dois lados, há também algumas desvantagens do CRM.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Declínio do Império Americano: Paralelos Históricos Entre Roma e os EUA"
+title: 'O Declínio do Império Americano: Paralelos Históricos Entre Roma e os EUA'
 date: 2024-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos primeiros anos do século V, o Império Romano estava à beira do colapso, necessitando desesperadamente de uma liderança forte e eficaz. O imperador Honório, embora preparado para governar desde o nascimento, provou ser fraco e inepto, celebrando tratados de paz que fortaleceram os inimigos de Roma e negligenciando a defesa das fronteiras. Este período de má gestão culminou em eventos desastrosos, como a invasão da Itália pelo rei bárbaro Alarico em 408 d.C., que resultou na devastação de Roma e no pagamento de um resgate exorbitante que esvaziou os cofres romanos.
 

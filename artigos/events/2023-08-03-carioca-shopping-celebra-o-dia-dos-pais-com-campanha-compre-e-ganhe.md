@@ -1,11 +1,12 @@
 ---
-title: "Carioca Shopping celebra o Dia dos Pais com campanha ''Compre e Ganhe''"
+title: Carioca Shopping celebra o Dia dos Pais com campanha ''Compre e Ganhe''
 date: 2023-08-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## O Carioca Shopping preparou uma promoção imperdível para o Dia dos Pais.  Os clientes que juntarem R$350 em notas fiscais terão a oportunidade de ganhar um 1 kit premium Baden Baden com diversos produtos.
 

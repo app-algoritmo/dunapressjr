@@ -1,11 +1,13 @@
 ---
-title: "Eurodeputada Alemã Adverte a OMS: Um Chamado à Resistência Contra o Poder Não Eleito dos Globalistas"
+title: 'Eurodeputada Alemã Adverte a OMS: Um Chamado à Resistência Contra o Poder
+  Não Eleito dos Globalistas'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Assista a uma reprodução exclusiva e de alta qualidade deste evento histórico em Bruxelas, no Parlamento da UE, onde eurodeputados e 7 representantes dos seus respetivos países se reuniram para lançar uma iniciativa de cidadãos para desafiar o Tratado sobre a Pandemia proposto pela OMS e as alterações ao Regulamento Sanitário Internacional.
 

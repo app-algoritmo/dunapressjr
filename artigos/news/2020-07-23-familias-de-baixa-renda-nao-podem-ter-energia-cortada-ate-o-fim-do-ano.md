@@ -1,11 +1,12 @@
 ---
-title: "Famílias de baixa renda não podem ter energia cortada até o fim do ano"
+title: Famílias de baixa renda não podem ter energia cortada até o fim do ano
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As famílias de baixa renda não poderão sofrer corte de energia elétrica até o fim do ano por falta de pagamento. A medida, que já estava em vigor e valia até o fim de julho foi prorrogada pela Agência Nacional de Energia Elétrica (Aneel). A ideia é proteger as famílias que mais precisam, como explicou o ministro de Minas e Energia, Bento Albuquerque. “No setor de Energia Elétrica, vislumbramos que nossa prioridade deveria estar centrada na redução da pressão sobre os consumidores de baixa renda”.
 

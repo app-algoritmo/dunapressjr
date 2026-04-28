@@ -1,11 +1,13 @@
 ---
-title: "O Congresso de El Salvador concedeu a Bukele uma autorização de seis meses para buscar a reeleição imediata"
+title: O Congresso de El Salvador concedeu a Bukele uma autorização de seis meses
+  para buscar a reeleição imediata
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Congresso de El Salvador, dominado pelo partido no poder, concedeu na noite de quinta-feira uma licença de seis meses ao presidente Nayib Bukele, solicitada pelo presidente para buscar sua reeleição imediata nas eleições gerais de fevereiro de 2024., apesar das acusações de que é inconstitucional.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei aprova acordo de cooperação em matéria penal assinado entre Brasil e Índia"
+title: Projeto de Lei aprova acordo de cooperação em matéria penal assinado entre
+  Brasil e Índia
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Decreto Legislativo (PDL) 462/22 aprova o texto do acordo sobre assistência jurídica mútua em matéria penal assinado por Brasil e Índia em 2020. Pela Constituição, documentos deste tipo precisam ser avalizados pelo Congresso Nacional. A proposta tramita na Câmara dos Deputados.
 

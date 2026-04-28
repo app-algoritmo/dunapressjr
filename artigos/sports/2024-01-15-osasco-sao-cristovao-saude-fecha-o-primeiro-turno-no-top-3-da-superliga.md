@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde fecha o primeiro turno no top 3 da Superliga"
+title: Osasco São Cristóvão Saúde fecha o primeiro turno no top 3 da Superliga
 date: 2024-01-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar derrotou o Bluvolei/FURB, neste domingo (14), no ginásio José Liberatti lotado, e subiu para a terceira posição na tabela.
 

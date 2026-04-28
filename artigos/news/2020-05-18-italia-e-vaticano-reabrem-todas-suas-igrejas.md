@@ -1,11 +1,12 @@
 ---
-title: "Itália e Vaticano reabrem todas suas igrejas"
+title: Itália e Vaticano reabrem todas suas igrejas
 date: 2020-05-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Itália e o Vaticano reabrem suas igrejas. A partir desta segunda-feira, as missas com a presença dos fiéis são novamente celebradas na Basílica de São Pedro e em todo o país transalpino, sempre sob estritas medidas preventivas para evitar possíveis contágios. A distância entre os participantes e o uso de uma máscara será obrigatória.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ocidente usa o dólar como arma para resolver questões políticas, diz importante diplomata russo"
+title: Ocidente usa o dólar como arma para resolver questões políticas, diz importante
+  diplomata russo
 date: 2024-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Sergey Lavrov sublinhou que os dólares americanos e as subvenções denominadas em dólares emitidas por instituições financeiras internacionais estão a ser ativamente utilizadas "como instrumentos de coerção". 
 

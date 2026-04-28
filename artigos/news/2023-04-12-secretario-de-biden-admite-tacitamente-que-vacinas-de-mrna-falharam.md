@@ -1,11 +1,12 @@
 ---
-title: "Secretário de Biden admite tacitamente que vacinas de mRNA falharam"
+title: Secretário de Biden admite tacitamente que vacinas de mRNA falharam
 date: 2023-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 US$ 5 bilhões em dinheiro dos contribuintes investidos em vacinas de última geração.
 

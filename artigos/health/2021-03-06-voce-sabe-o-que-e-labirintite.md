@@ -1,11 +1,12 @@
 ---
-title: "Você sabe o que é labirintite?"
+title: Você sabe o que é labirintite?
 date: 2021-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um quadro aflitivo em que há tontura giratória, geralmente acompanhada de náusea e vômito. Em alguns casos, pressão ou barulho no ouvido, uma espécie de zumbido. Esses são os principais sinais de que a pessoa pode estar com labirintite, uma infecção no labirinto, o órgão responsável pelo equilíbrio, localizado dentro da orelha interna.
 

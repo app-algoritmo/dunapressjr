@@ -1,11 +1,12 @@
 ---
-title: "O ÚLTIMO ATO DE MEDEIA"
+title: O ÚLTIMO ATO DE MEDEIA
 date: 2021-04-05
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 As feituras do amor, a ferocidade da vingança, a união de ambas sob o signo da desonra, da macula e da promessa quebrada, esta é Medeia, a figura feminina que canaliza todo seu sentimento em ações drásticas, anteriormente ausente de culpa pela finalidade do amor correspondido, posteriormente inerte a ela pela conclusão da vingança muito dolorosa.
 

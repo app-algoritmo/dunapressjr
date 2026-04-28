@@ -1,11 +1,12 @@
 ---
-title: "Contaminantes desconhecidos em vacinas de mRNA"
+title: Contaminantes desconhecidos em vacinas de mRNA
 date: 2023-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Você sabe o que é realmente importante na fabricação de um produto farmacêutico? Correto, o chamado controle de qualidade. 
 

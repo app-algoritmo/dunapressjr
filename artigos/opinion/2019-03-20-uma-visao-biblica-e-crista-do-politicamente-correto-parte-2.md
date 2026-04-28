@@ -1,11 +1,12 @@
 ---
-title: "Uma visão bíblica e cristã do politicamente correto - parte 2"
+title: Uma visão bíblica e cristã do politicamente correto - parte 2
 date: 2019-03-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 -Mais uma vez lhe traremos ensinamentos do Meste quanto ao politicamente correto e a distorção que causa em nossas vidas. Esta visão é necessária, nos moldes do que acontece em todas as esferas de poderes e sociais de todos os países.
 

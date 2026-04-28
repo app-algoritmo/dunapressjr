@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria atinge maior nível em nove anos, diz FGV"
+title: Confiança da indústria atinge maior nível em nove anos, diz FGV
 date: 2020-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice teve alta de 4,5 pontos na passagem de setembro para outubro.
 

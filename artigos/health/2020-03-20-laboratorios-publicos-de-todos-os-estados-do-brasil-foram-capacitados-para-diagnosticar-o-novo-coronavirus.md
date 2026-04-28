@@ -1,11 +1,13 @@
 ---
-title: "Laboratórios públicos de todos os estados do Brasil foram capacitados para diagnosticar o novo coronavírus"
+title: Laboratórios públicos de todos os estados do Brasil foram capacitados para
+  diagnosticar o novo coronavírus
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Todos os Laboratórios Centrais de Saúde Pública (LACEN) do País estão aptos a realizar o exame para o coronavírus.  Após passar por capacitações, os profissionais de saúde que atuam nos laboratórios dos 26 estados e do Distrito Federal já estão preparados para realizar o diagnóstico da doença. Com a medida, o Ministério da Saúde pretende descentralizar o processo de testagem para o coronavírus para todo o Brasil. As capacitações tiveram início em fevereiro deste ano e terminaram nesta semana, em Belém (PA).
 

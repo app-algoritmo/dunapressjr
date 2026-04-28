@@ -1,11 +1,12 @@
 ---
-title: "4 ações de marketing que podem alavancar um negócio!"
+title: 4 ações de marketing que podem alavancar um negócio!
 date: 2022-10-19
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Com o uso do **marketing **é possível com que uma empresa tenha maiores chances de sucesso, a começar pelo seu número de vendas, mas passando também por outros tópicos, como alcance de clientes, reconhecimento da marca entre outras ações
 

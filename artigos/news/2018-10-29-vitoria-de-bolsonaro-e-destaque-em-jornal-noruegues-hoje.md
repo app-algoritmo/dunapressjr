@@ -1,11 +1,12 @@
 ---
-title: "Vitória de Bolsonaro é destaque em jornal norueguês hoje"
+title: Vitória de Bolsonaro é destaque em jornal norueguês hoje
 date: 2018-10-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com a manchete “Campeão eleitoral Bolsonaro promete mudar o destino do Brasil”, o jornal norueguês Aftenposten destaca aspectos da campanha de Bolsonaro frisando que ele promete governar o país de acordo com a Bíblia e a Constituição.
 

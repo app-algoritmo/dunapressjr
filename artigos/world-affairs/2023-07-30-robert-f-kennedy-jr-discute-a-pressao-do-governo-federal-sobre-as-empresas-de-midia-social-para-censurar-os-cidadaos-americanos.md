@@ -1,11 +1,13 @@
 ---
-title: "Robert F. Kennedy Jr. discute a pressão do governo federal sobre as empresas de mídia social para censurar os cidadãos americanos"
+title: Robert F. Kennedy Jr. discute a pressão do governo federal sobre as empresas
+  de mídia social para censurar os cidadãos americanos
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Robert F. Kennedy Jr. fala sobre a pressão do governo federal sobre as empresas de mídia social para censurar os americanos, o papel da CIA em fornecer um canal constante de novas guerras para enriquecer o complexo militar-industrial e o escândalo de suborno entre Biden e Burisma:
 

@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal bate recorde para meses de fevereiro"
+title: Arrecadação federal bate recorde para meses de fevereiro
 date: 2021-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## União arrecadou R$ 127,74 bilhões no mês passado.
 

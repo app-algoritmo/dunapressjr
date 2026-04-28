@@ -1,11 +1,12 @@
 ---
-title: "O fim da liberdade de expressão!"
+title: O fim da liberdade de expressão!
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A liberdade de expressão ainda é relevante em uma democracia quando o mercado de mídia independente está crescendo e as perspectivas sobre cada tópico relevante estão aumentando? O governo começou a censurar discreta e secretamente a mídia independente nos bastidores!
 Alô governo, precisamos conversar!

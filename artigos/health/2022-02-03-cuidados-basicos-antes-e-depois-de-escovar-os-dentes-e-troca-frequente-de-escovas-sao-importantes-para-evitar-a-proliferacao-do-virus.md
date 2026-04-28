@@ -1,11 +1,13 @@
 ---
-title: "Cuidados básicos antes e depois de escovar os dentes e troca frequente de escovas são importantes para evitar a proliferação do vírus"
+title: Cuidados básicos antes e depois de escovar os dentes e troca frequente de escovas
+  são importantes para evitar a proliferação do vírus
 date: 2022-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com o novo aumento de casos de covid-19 pela variante Ômicron, as dúvidas sobre alguns cuidados de higiene podem ser recorrentes. Uma delas é com a saúde bucal. Pesquisas já mostraram a relação da boca e do coronavírus, apontando que um descuido na higienização dessa área pode inclusive levar à intensificação do quadro. E, para ajudar na prevenção, alguns hábitos precisam ser implementados no cotidiano. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Transplante de Rim de Porco Genéticamente Modificado: Um Avanço Médico Histórico"
+title: 'Transplante de Rim de Porco Genéticamente Modificado: Um Avanço Médico Histórico'
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O Hospital Geral de Massachusetts (MGH) anunciou um feito inédito na história da medicina: o primeiro transplante bem-sucedido de um rim de porco geneticamente modificado em um ser humano vivo. Este marco médico representa uma nova esperança para milhões de pacientes em todo o mundo que sofrem de doença renal terminal.
 

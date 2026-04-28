@@ -1,11 +1,13 @@
 ---
-title: "Balança Comercial registra superávit de US$ 1,160 bilhão na primeira semana de fevereiro"
+title: Balança Comercial registra superávit de US$ 1,160 bilhão na primeira semana
+  de fevereiro
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Nos primeiros cinco   dias do mês, as exportações foram no valor de US$ 4,656 bilhões e importações   de US$ 3,495 bilhões*
 

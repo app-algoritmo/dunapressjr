@@ -1,11 +1,13 @@
 ---
-title: "<strong>Balança acumula superávit de US$ 42,19 bilhões no ano até a terceira semana de agosto</strong>"
+title: <strong>Balança acumula superávit de US$ 42,19 bilhões no ano até a terceira
+  semana de agosto</strong>
 date: 2022-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Corrente de comércio atinge US$ 387,25 bilhões em 2022, com US$ 214,72 bilhões em exportações e US$ 172,53 bilhões em importações; no mês, saldo positivo é de US$ 2,30 bilhões.
 

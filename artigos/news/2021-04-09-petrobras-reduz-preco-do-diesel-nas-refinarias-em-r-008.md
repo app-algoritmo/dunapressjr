@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço do diesel nas refinarias em R$ 0,08"
+title: Petrobras reduz preço do diesel nas refinarias em R$ 0,08
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço da gasolina não muda, e litro continua por R$ 2,59 em refinarias.
 

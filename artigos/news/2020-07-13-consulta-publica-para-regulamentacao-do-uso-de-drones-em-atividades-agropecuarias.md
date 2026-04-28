@@ -1,11 +1,12 @@
 ---
-title: "Consulta pública para regulamentação do uso de drones em atividades agropecuárias"
+title: Consulta pública para regulamentação do uso de drones em atividades agropecuárias
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os drones podem desempenhar diversas funções e têm ocupado cada vez mais espaço na agricultura e na pecuária.
 

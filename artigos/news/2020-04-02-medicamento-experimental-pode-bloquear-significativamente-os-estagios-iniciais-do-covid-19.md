@@ -1,11 +1,13 @@
 ---
-title: "Medicamento experimental pode bloquear significativamente os estágios iniciais do COVID-19"
+title: Medicamento experimental pode bloquear significativamente os estágios iniciais
+  do COVID-19
 date: 2020-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Uma equipe internacional liderada pelo pesquisador da Universidade da Colúmbia Britânica, Dr. Josef Penninger, encontrou um medicamento experimental que bloqueia efetivamente a porta celular que o SARS-CoV-2 usa para infectar seus hospedeiros.
 

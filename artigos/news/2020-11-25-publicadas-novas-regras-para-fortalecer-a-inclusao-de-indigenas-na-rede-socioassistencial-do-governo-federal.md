@@ -1,11 +1,13 @@
 ---
-title: "Publicadas novas regras para fortalecer a inclusão de indígenas na rede socioassistencial do Governo Federal"
+title: Publicadas novas regras para fortalecer a inclusão de indígenas na rede socioassistencial
+  do Governo Federal
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Novas regras para fortalecer a inclusão de famílias pertencentes a povos indígenas nos serviços e benefícios ofertados pela Rede Socioassistencial foram publicadas, nesta segunda-feira (23), no [Diário Oficial da União](https://www.in.gov.br/en/web/dou/-/resolucao-n-20-de-20-de-novembro-de-2020-289544277). A medida, do Conselho Nacional de Assistência Social (CNAS), tem como principal objetivo melhorar o atendimento às comunidades indígenas, em especial neste momento de distanciamento social.
 

@@ -1,11 +1,13 @@
 ---
-title: "Rei Harald da Noruega concede o Prêmio da Associação Nacional de Pesquisa em Saúde Pública à Ulrik Wisløff"
+title: Rei Harald da Noruega concede o Prêmio da Associação Nacional de Pesquisa em
+  Saúde Pública à Ulrik Wisløff
 date: 2020-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Ulrik Wisløff recebeu no último dia 4.2.20 o Prêmio de Pesquisa Cardíaca da Associação Nacional de Saúde Pública. Os vencedores deste ano do  Research Award foram Anders Fjell e Kristine Walhovd.
 

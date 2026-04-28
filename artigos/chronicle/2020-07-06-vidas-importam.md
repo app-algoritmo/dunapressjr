@@ -1,11 +1,12 @@
 ---
-title: "Vidas Importam!"
+title: Vidas Importam!
 date: 2020-07-06
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Sir Nicholas Winton é o Schindler britânico que o mundo precisa conhecer, reconhecer e reproduzir, incansavelmente.**
 

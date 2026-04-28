@@ -1,11 +1,13 @@
 ---
-title: "Novas normas para parcelamento de débitos do FGTS são estabelecidas pelo conselho curador"
+title: Novas normas para parcelamento de débitos do FGTS são estabelecidas pelo conselho
+  curador
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resolução CCFGTS nº 1.068/2023 traz regras e prazos para regularização de valores devidos ao Fundo de Garantia do Tempo de Serviço.
 

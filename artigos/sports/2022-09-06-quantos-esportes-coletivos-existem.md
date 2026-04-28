@@ -1,11 +1,12 @@
 ---
-title: "Quantos esportes coletivos existem?"
+title: Quantos esportes coletivos existem?
 date: 2022-09-06
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
+- Sports
 ---
+
 
 Você tem ideia de quantos **esportes coletivos existem**? Antes de tudo, saiba que os Esportes Coletivos são aqueles onde a equipe é formada por duas pessoas ou mais. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Um belo gesto aos nossos amigos animais - SOS Peludinhos"
+title: Um belo gesto aos nossos amigos animais - SOS Peludinhos
 date: 2020-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.
 

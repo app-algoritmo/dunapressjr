@@ -1,11 +1,13 @@
 ---
-title: "Agora temos 3.400 publicações mostrando que todas as vacinas contra a Covid não são seguras para uso humano"
+title: Agora temos 3.400 publicações mostrando que todas as vacinas contra a Covid
+  não são seguras para uso humano
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Embora numerosos esforços tenham sido feitos para banir o que foi considerado totalmente ineficaz e extremamente perigoso, vacinas COVID-19 da população em geral nos níveis federal e estadual, todas as tentativas até agora foram malsucedidas. 
 

@@ -1,12 +1,13 @@
 ---
-title: "LDO-Fundo Eleitoral de R$ 5,7 bilhões"
+title: LDO-Fundo Eleitoral de R$ 5,7 bilhões
 date: 2021-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Congresso derruba veto e Fundo Eleitoral será de R$ 5,7 bilhões. A Quantia bate recorde e será usada para financiar campanhas em 2022.
 

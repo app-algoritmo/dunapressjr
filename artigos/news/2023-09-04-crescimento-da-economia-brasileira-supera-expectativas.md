@@ -1,11 +1,12 @@
 ---
-title: "Crescimento da economia brasileira supera expectativas"
+title: Crescimento da economia brasileira supera expectativas
 date: 2023-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsões otimistas para o PIB contrastam com o desafio de controlar a inflação e as projeções para a taxa de juros e o dólar.
 

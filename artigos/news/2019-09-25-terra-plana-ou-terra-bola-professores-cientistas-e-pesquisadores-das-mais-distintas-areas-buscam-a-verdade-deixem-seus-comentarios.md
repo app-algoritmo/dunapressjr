@@ -1,11 +1,13 @@
 ---
-title: "Terra Plana ou Terra Bola?, professores, cientistas e pesquisadores das mais distintas áreas buscam a verdade, deixem seus comentários!"
+title: Terra Plana ou Terra Bola?, professores, cientistas e pesquisadores das mais
+  distintas áreas buscam a verdade, deixem seus comentários!
 date: 2019-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A ONU estampa em seu máximo símbolo um logo da terra plana, a Nasa realiza fantásticos efeitos fotográficos de uma terra bola, arquitetos, engenheiros, navegadores entre outros utilizam cálculos baseando-se em uma terra plana. As escolas ensinam em uma terra bola, a Bíblia cita uma terra plana. 
 

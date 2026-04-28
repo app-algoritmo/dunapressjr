@@ -1,11 +1,12 @@
 ---
-title: "Caixa registra lucro de R$ 9,2 bilhões em 2022"
+title: Caixa registra lucro de R$ 9,2 bilhões em 2022
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice representa aumento de 9,9% em 12 meses, diz banco.
 

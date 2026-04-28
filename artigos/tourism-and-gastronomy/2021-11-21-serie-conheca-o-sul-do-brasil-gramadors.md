@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Gramado/RS"
+title: 'Série Conheça o Sul do Brasil: Gramado/RS'
 date: 2021-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Em Gramado, você pode visitar o Museu do Chocolate, que conta a história do doce e dá acesso à área artesanal, o Minimundo, um parque de lazer com construções em miniatura, e o Snowland, o primeiro parque de neve indoor da América. Conheça também as igrejas, como a do Relógio, cartão de visita da cidade. Alguns passeios em Gramado são tradicionais, como visita ao Lago Negro.
 

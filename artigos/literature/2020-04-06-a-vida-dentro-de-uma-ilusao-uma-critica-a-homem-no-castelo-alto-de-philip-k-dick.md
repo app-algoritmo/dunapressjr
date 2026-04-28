@@ -1,11 +1,13 @@
 ---
-title: "A vida dentro de uma ilusão - Uma crítica a 'Homem no Castelo Alto' de Philip K. Dick"
+title: A vida dentro de uma ilusão - Uma crítica a 'Homem no Castelo Alto' de Philip
+  K. Dick
 date: 2020-04-06
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Como pode uma alma perturbada, desnorteada e inquieta, vencer todas as possibilidades e torna-se imortal? Talvez, diante de uma realidade sufocante, o único modo de sobreviver seja construindo uma própria, se é para viver rodeado de demônios, que sejam estes os que nós mesmos criamos.
 

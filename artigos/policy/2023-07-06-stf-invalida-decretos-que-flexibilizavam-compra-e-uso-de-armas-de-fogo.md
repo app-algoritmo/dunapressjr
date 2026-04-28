@@ -1,11 +1,12 @@
 ---
-title: "STF invalida decretos que flexibilizavam compra e uso de armas de fogo"
+title: STF invalida decretos que flexibilizavam compra e uso de armas de fogo
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Na avaliação do Plenário, as normas fragilizam os sistemas de controle e facilitam o comércio clandestino de armas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Descobriu-se que os carotenóides da cenoura melhoram e protegem a saúde ocular"
+title: Descobriu-se que os carotenóides da cenoura melhoram e protegem a saúde ocular
 date: 2023-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Você sabia que a retina do olho é uma extensão do cérebro humano? E você sabia que cenouras, ovos e folhas verdes são [carregados com nutrientes](https://www.theepochtimes.com/health/is-this-one-of-the-best-nutrients-for-your-eyes-and-brain_5235806.html) que ajudam a proteger e promover a saúde ocular ideal?
 

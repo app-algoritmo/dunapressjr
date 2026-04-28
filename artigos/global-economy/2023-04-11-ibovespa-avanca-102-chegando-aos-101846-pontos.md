@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa avança 1,02%, chegando aos 101.846 pontos"
+title: Ibovespa avança 1,02%, chegando aos 101.846 pontos
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Ibovespa, principal índice de ações do Brasil, fechou em alta de 1,02% na segunda-feira (10), alcançando 101.846 pontos no retorno das negociações após o feriado de Páscoa. O principal índice da bolsa de valores brasileira avançou com a ajuda das ações das empresas exportadoras de commodities e com investidores de olho no cenário fiscal, desviando um pouco do que foi visto no exterior.
 

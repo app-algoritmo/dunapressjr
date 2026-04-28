@@ -1,11 +1,12 @@
 ---
-title: "Alopecia: entenda mais sobre condição que também pode afetar as mulheres"
+title: 'Alopecia: entenda mais sobre condição que também pode afetar as mulheres'
 date: 2022-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A alopecia, também conhecida como calvície, é uma condição bastante comum entre os homens e está diretamente relacionada aos hormônios sexuais masculinos, principalmente a testosterona. Entre as mulheres, que também produzem esse hormônio, só que em menor quantidade, os casos são bem menos frequentes e, quando ocorrem, na maioria das vezes, a perda de cabelos é menos drástica. Por isso, episódios mais agressivos entre o público feminino são raros.
 

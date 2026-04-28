@@ -1,11 +1,13 @@
 ---
-title: "Rússia Desfere Golpe Severo no Complexo Militar-Industrial Ucraniano, Afirma Especialista"
+title: Rússia Desfere Golpe Severo no Complexo Militar-Industrial Ucraniano, Afirma
+  Especialista
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um especialista militar, o coronel do exército austríaco Markus Reisner, alertou para as consequências devastadoras que o conflito teve sobre o complexo militar-industrial ucraniano. Em uma entrevista ao jornal Berliner Zeitung, Reisner destacou a completa dependência da Ucrânia do apoio ocidental, especialmente no fornecimento de munições.
 

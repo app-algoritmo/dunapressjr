@@ -1,11 +1,12 @@
 ---
-title: "Estresse causado pela pandemia pode aumentar riscos de acidentes de trabalho"
+title: Estresse causado pela pandemia pode aumentar riscos de acidentes de trabalho
 date: 2021-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Brasil está no topo da lista de países com maior número de casos de depressão e ansiedade durante a pandemia de Covid-19, de acordo com um estudo conduzido pela Universidade de São Paulo (USP) em 11 países. Trabalhar em meio à tensão gerada pelo aumento no número de casos da doença, pelo distanciamento social e pelas muitas incertezas econômicas, sociais e sanitárias tem sido um desafio para a maior parte dos brasileiros. Esse tipo de cenário contribui de forma significativa para elevar um outro índice preocupante: **o de acidentes de trabalho**.
 

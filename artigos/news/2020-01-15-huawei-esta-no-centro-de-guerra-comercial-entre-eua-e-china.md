@@ -1,11 +1,12 @@
 ---
-title: "Huawei está no centro de guerra comercial entre EUA e China"
+title: Huawei está no centro de guerra comercial entre EUA e China
 date: 2020-01-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A gigante chinesa Huawei, segundo lugar mundial no mercado
 de smartphones e número um em equipamentos para telecomunicações, desperta

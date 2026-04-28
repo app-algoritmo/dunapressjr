@@ -1,11 +1,12 @@
 ---
-title: "Como é a economia do monitoramento e como pagamos com nossos próprios dados"
+title: Como é a economia do monitoramento e como pagamos com nossos próprios dados
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O modelo de negócio dominante na internet é baseado na vigilância. Informações sobre o que fazemos online são coletadas em grande escala para entender a nós e nossos hábitos, e nos fornecer publicidade e conteúdo personalizados.
 

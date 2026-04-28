@@ -1,11 +1,13 @@
 ---
-title: "Tropas coordenadas pela 10ª Região Militar no estado do Ceará passam a atuar em cidades na região do Cariri"
+title: Tropas coordenadas pela 10ª Região Militar no estado do Ceará passam a atuar
+  em cidades na região do Cariri
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Juazeiro do Norte (CE)**
 – Em 24 de fevereiro, com a evolução das Operações de Garantia da Lei e da

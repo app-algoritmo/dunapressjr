@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 5 pela primeira vez desde março"
+title: Dólar fecha abaixo de R$ 5 pela primeira vez desde março
 date: 2020-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Otimismo externo impulsionou mercados financeiros.
 

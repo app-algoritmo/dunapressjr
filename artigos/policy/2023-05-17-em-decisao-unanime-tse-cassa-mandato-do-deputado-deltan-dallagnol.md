@@ -1,11 +1,12 @@
 ---
-title: "Em decisão unânime, TSE cassa mandato do deputado Deltan Dallagnol"
+title: Em decisão unânime, TSE cassa mandato do deputado Deltan Dallagnol
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ex-procurador terá de deixar o cargo imediatamente.
 

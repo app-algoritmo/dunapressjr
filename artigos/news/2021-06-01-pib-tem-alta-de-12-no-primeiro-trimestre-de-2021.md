@@ -1,11 +1,12 @@
 ---
-title: "PIB tem alta de 1,2% no primeiro trimestre de 2021"
+title: PIB tem alta de 1,2% no primeiro trimestre de 2021
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são do Sistema de Contas Nacionais Trimestrais do IBGE.
 

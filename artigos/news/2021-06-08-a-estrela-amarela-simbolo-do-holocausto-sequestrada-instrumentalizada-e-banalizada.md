@@ -1,11 +1,12 @@
 ---
-title: "A estrela amarela, símbolo do Holocausto sequestrada, instrumentalizada e banalizada"
+title: A estrela amarela, símbolo do Holocausto sequestrada, instrumentalizada e banalizada
 date: 2021-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os movimentos conspiratórios, apoiados por Jean-Marie Bigard na França, têm usado este símbolo nazista nos últimos meses para denunciar uma suposta "ditadura da saúde".
 

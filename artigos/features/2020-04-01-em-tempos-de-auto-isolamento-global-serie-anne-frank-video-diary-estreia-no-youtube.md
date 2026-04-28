@@ -1,11 +1,13 @@
 ---
-title: "Em tempos de auto-isolamento global, série 'Anne Frank Video Diary' estreia no YouTube"
+title: Em tempos de auto-isolamento global, série 'Anne Frank Video Diary' estreia
+  no YouTube
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Destinado a adolescentes em cinco idiomas, a série on-line apresenta um diarista icônico usando uma câmera de vídeo para narrar uma vida passada escondida dos nazistas.
 

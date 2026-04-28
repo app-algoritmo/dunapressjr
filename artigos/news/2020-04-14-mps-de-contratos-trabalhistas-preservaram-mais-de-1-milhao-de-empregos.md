@@ -1,11 +1,12 @@
 ---
-title: "MPs de contratos trabalhistas preservaram mais de 1 milhão de empregos"
+title: MPs de contratos trabalhistas preservaram mais de 1 milhão de empregos
 date: 2020-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Estimativa foi apresentada por secretário especial Bruno Bianco
 

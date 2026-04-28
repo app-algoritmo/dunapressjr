@@ -1,11 +1,13 @@
 ---
-title: "Regimento Mallet apoia ações contra a disseminação do coronavírus na população carente de Santa Maria (RS)"
+title: Regimento Mallet apoia ações contra a disseminação do coronavírus na população
+  carente de Santa Maria (RS)
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Santa Maria (RS) **–
 Iniciaram-se, na manhã do dia 25 de março, ações para prevenção da disseminação

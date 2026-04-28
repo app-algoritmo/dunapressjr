@@ -1,11 +1,12 @@
 ---
-title: "Árabes se infiltram em cidade judaica, atearam fogo na sinagoga"
+title: Árabes se infiltram em cidade judaica, atearam fogo na sinagoga
 date: 2021-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Terroristas árabes se infiltram em Oz Zion, na tentativa de colocar fogo em sua sinagoga.
 

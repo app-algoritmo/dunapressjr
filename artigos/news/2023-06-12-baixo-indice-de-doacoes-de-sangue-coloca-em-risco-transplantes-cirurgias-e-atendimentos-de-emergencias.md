@@ -1,11 +1,13 @@
 ---
-title: "Baixo índice de doações de sangue coloca em risco transplantes, cirurgias e atendimentos de emergências"
+title: Baixo índice de doações de sangue coloca em risco transplantes, cirurgias e
+  atendimentos de emergências
 date: 2023-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A medicina está em constante evolução, abrindo novos caminhos a todo momento. Seja por meio de transplantes de órgãos, cirurgias oncológicas ou atendimentos emergenciais, ela continua transformando a vida das pessoas ao redor do mundo. No entanto, há um aspecto que não muda: as equipes médicas dependem de doações de sangue para garantir o sucesso desses procedimentos complexos. Apenas no Brasil, de acordo com dados do Ministério da Saúde, aproximadamente 3,5 milhões de pessoas necessitam de transfusões sanguíneas anualmente. O número é alto se considerar que menos de 2% da população tem o hábito de doar sangue.
 

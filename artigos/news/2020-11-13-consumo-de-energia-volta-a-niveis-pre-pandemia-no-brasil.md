@@ -1,11 +1,12 @@
 ---
-title: "Consumo de energia volta a níveis pré-pandemia no Brasil"
+title: Consumo de energia volta a níveis pré-pandemia no Brasil
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Eletrobras teve lucro líquido de R$ 96 milhões no terceiro trimestre.
 

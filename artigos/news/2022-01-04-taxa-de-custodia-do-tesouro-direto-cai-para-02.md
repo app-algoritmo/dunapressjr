@@ -1,11 +1,12 @@
 ---
-title: "Taxa de custódia do Tesouro Direto cai para 0,2%"
+title: Taxa de custódia do Tesouro Direto cai para 0,2%
 date: 2022-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução faz parte de compromisso firmado entre governo e B3.
 

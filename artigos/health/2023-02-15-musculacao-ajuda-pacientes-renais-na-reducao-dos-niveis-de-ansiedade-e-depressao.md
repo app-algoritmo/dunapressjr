@@ -1,11 +1,12 @@
 ---
-title: "Musculação ajuda pacientes renais na redução dos níveis de ansiedade e depressão"
+title: Musculação ajuda pacientes renais na redução dos níveis de ansiedade e depressão
 date: 2023-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O estudo de Lysleine Alves de Deus, doutoranda em Educação Física, pela Universidade Católica de Brasília (UCB) recebeu o primeiro lugar no 34° Congresso Brasileiro de Atualização em Endocrinologia e Metabologia. Ela mostrou que pacientes com Doença Renal Crônica (DRC), em estágio avançado, que praticam exercícios de força, como a musculação, possuem menores níveis de ansiedade e depressão.
 

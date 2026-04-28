@@ -1,11 +1,12 @@
 ---
-title: "Lançado Cluster Brasileiro para Inteligência Artificial para Navios"
+title: Lançado Cluster Brasileiro para Inteligência Artificial para Navios
 date: 2020-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) participou do lançamento do Cluster Brasileiro de Inteligência Artificial para Navios. A iniciativa reúne representantes do Governo Federal, academia, empresas marítimas e lideranças industriais. A ideia é que uma plataforma sem fins lucrativos promova o intercâmbio de empresas e instituições para o desenvolvimento da Inteligência Artificial no setor marítimo nacional.
 

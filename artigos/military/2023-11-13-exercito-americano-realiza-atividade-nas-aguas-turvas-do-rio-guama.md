@@ -1,11 +1,12 @@
 ---
-title: "Exército Americano realiza atividade nas águas turvas do rio Guamá"
+title: Exército Americano realiza atividade nas águas turvas do rio Guamá
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Cerca de 150 militares norte-americanos tiveram o primeiro contato com as peculiaridades dos rios da Amazônia durante a instrução de técnicas fluviais, ministrada por militares brasileiros, do 2º Batalhão de Infantaria de Selva.
 

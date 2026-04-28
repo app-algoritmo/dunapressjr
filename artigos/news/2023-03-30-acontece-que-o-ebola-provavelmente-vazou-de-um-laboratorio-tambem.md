@@ -1,11 +1,12 @@
 ---
-title: "Acontece que o Ebola provavelmente vazou de um laboratório também"
+title: Acontece que o Ebola provavelmente vazou de um laboratório também
 date: 2023-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Organização Mundial da Saúde quer que acreditemos que tanto o Ebola quanto o COVID-19 vieram de um morcego infectado. Mas eles?
 

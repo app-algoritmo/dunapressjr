@@ -1,12 +1,13 @@
 ---
-title: "A centelha divina e o ego - Entenda o que somos!"
+title: A centelha divina e o ego - Entenda o que somos!
 date: 2018-10-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
-  - Religiosity
+- Opinion
+- Religiosity
 ---
+
 
 Fisicamente, espiritualmente, de forma transcendente, além de nossa mera percepção materialista, somos seres duais, ou seja, feitos de duas partes, a Centelha Divina e o ego.
 

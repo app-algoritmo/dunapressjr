@@ -1,11 +1,12 @@
 ---
-title: "Brasil retoma produção de urânio"
+title: Brasil retoma produção de urânio
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Trata-se de uma determinação do Presidente Jair Bolsonaro. Uma conquista para a INB e também para o país. Representa um fator importante para a geração de empregos e recursos para a região sudoeste da Bahia”, enfatiza o ministro Bento Albuquerque.
 

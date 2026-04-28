@@ -1,11 +1,12 @@
 ---
-title: "Censo Demográfico é adiado para 2021"
+title: Censo Demográfico é adiado para 2021
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Em função das orientações do Ministério da Saúde relacionadas ao quadro de emergência de saúde pública causado pelo Coronavírus, coleta do IPCA e da PNAD Contínua também está suspensa*.
 

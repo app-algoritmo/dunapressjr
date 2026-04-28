@@ -1,11 +1,12 @@
 ---
-title: "ChatGPT propôs uma solução quase perfeita para o conflito na Ucrânia"
+title: ChatGPT propôs uma solução quase perfeita para o conflito na Ucrânia
 date: 2023-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O chatbot movido a inteligência artificial “ChatGPT” merece elogios pelo espírito de sua proposta de paz, que não apenas implica com razão que Kiev é o culpado por este conflito, mas também contém algumas sugestões pragmáticas que o regime de Kiev deveria considerar seriamente.
 

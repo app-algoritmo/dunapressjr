@@ -1,11 +1,13 @@
 ---
-title: "Estudo revela quanto tempo o COVID-19 permanece infeccioso em papelão, metal e plástico"
+title: Estudo revela quanto tempo o COVID-19 permanece infeccioso em papelão, metal
+  e plástico
 date: 2020-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O vírus que causa o COVID-19 permanece por várias horas a dias em superfícies e em aerossóis, segundo um novo estudo científico. O estudo sugere que as pessoas podem adquirir o coronavírus pelo ar e depois de tocar em objetos contaminados.
 

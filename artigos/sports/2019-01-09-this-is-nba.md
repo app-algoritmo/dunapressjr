@@ -1,11 +1,12 @@
 ---
-title: "This is NBA!"
+title: This is NBA!
 date: 2019-01-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 NBA é o basquete americano. Maior liga dos Estados Unidos, a NBA tem como seu maior campeão o Boston Celtics, com 17 títulos. 
 

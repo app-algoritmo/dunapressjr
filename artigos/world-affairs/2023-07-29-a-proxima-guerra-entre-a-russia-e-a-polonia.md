@@ -1,11 +1,12 @@
 ---
-title: "A próxima guerra entre a Rússia e a Polônia"
+title: A próxima guerra entre a Rússia e a Polônia
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **O discurso de Putin na sexta-feira parecia ser dirigido a Varsóvia. O programa desta noite foi claramente direcionado ao público russo em geral, para prepará-lo para a eclosão de uma possível guerra russo-polonesa no futuro imediato.**
 

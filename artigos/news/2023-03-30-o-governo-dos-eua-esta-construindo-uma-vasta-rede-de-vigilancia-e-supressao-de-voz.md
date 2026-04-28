@@ -1,11 +1,13 @@
 ---
-title: "O governo dos EUA está construindo uma vasta rede de vigilância e supressão de voz"
+title: O governo dos EUA está construindo uma vasta rede de vigilância e supressão
+  de voz
 date: 2023-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O governo está se preparando para monitorar cada palavra que os americanos dizem online e para censurar os cidadãos que não se alinham com o partido.
 

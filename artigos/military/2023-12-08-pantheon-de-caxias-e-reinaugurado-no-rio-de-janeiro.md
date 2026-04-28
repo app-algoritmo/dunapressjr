@@ -1,11 +1,12 @@
 ---
-title: "Pantheon de Caxias é reinaugurado no Rio de Janeiro"
+title: Pantheon de Caxias é reinaugurado no Rio de Janeiro
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Preservar a história do Exército Brasileiro é reafirmar o valor dos heróis da Força Terrestre para as próximas gerações. Após um período de revitalização, o Pantheon de Caxias, localizado em frente ao Palácio Duque de Caxias, no Centro do Rio de Janeiro, foi reinaugurado, em uma solenidade realizada pelo Departamento de Educação e Cultura do Exército, por intermédio da Diretoria do Patrimônio Histórico e Cultural do Exército. O monumento valoriza a trajetória do patrono do Exército Brasileiro, o Duque de Caxias.
 

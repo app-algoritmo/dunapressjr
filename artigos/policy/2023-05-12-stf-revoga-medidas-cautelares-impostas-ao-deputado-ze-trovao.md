@@ -1,11 +1,12 @@
 ---
-title: "STF revoga medidas cautelares impostas ao deputado Zé Trovão"
+title: STF revoga medidas cautelares impostas ao deputado Zé Trovão
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentar não usará mais a tornozeleira eletrônica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crise de imigração ilegal aumenta apoio a Trump entre eleitores republicanos"
+title: Crise de imigração ilegal aumenta apoio a Trump entre eleitores republicanos
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Depois de vencer os caucuses de Iowa e as primárias de New Hampshire, parece apenas uma questão de tempo até que o ex-presidente Donald Trump acabe sendo aclamado como o candidato presidencial republicano antes das eleições deste ano. Com a retirada do seu principal rival, o governador Ron DeSantis, e a impossibilidade de a ex-embaixadora dos EUA na ONU, Nikki Haley, conseguir alcançá-lo, Trump prepara-se para enfrentar a sua terceira eleição em oito anos.
 

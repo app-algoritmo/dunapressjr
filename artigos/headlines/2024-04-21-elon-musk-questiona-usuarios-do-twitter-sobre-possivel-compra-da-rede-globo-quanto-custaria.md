@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk questiona usuários do Twitter sobre possível compra da Rede Globo: 'Quanto custaria?"
+title: 'Elon Musk questiona usuários do Twitter sobre possível compra da Rede Globo:
+  ''Quanto custaria?'
 date: 2024-04-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 Elon Musk surpreendeu os usuários do Twitter ao responder a pedidos para comprar a Rede Globo, uma das principais emissoras de televisão do Brasil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Racismo, anti-semitismo e nacionalismo"
+title: Racismo, anti-semitismo e nacionalismo
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Por  Micah Halpern*
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta previsão de inflação para este ano"
+title: Mercado financeiro aumenta previsão de inflação para este ano
 date: 2022-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IPCA, inflação oficial do país, deve fechar 2022 em 5,15%.
 

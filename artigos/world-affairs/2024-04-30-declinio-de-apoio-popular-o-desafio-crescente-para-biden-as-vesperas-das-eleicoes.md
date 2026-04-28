@@ -1,11 +1,13 @@
 ---
-title: "Declínio de Apoio Popular: O Desafio Crescente para Biden às Vésperas das Eleições"
+title: 'Declínio de Apoio Popular: O Desafio Crescente para Biden às Vésperas das
+  Eleições'
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que nos aproximamos das próximas eleições, o apoio popular ao presidente Joe Biden parece estar em um declínio acentuado, atingindo o ponto mais baixo desde o último ano de Dwight D. Eisenhower no cargo.
 

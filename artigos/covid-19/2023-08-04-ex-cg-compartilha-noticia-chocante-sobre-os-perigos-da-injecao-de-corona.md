@@ -1,11 +1,12 @@
 ---
-title: "Ex-CG compartilha 'notícia chocante' sobre os perigos da injeção de corona"
+title: Ex-CG compartilha 'notícia chocante' sobre os perigos da injeção de corona
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Documentos desclassificados mostram que a Pfizer estava ciente desde o início dos níveis assustadores de efeitos colaterais. 
 

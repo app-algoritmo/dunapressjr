@@ -1,11 +1,12 @@
 ---
-title: "PL proíbe comercialização de produtos ultraprocessados nas escolas paulistas"
+title: PL proíbe comercialização de produtos ultraprocessados nas escolas paulistas
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O deputado Enio Tatto (PT) protocolou o Projeto de Lei ([PL) 996/2023](https://www.al.sp.gov.br/propositura?id=1000492400), que trata sobre a proibição da comercialização e distribuição de alimentos ultraprocessados e de bebidas açucaradas nas unidades escolares públicas municipais, estaduais, federais e privadas do Estado de São Paulo.
 

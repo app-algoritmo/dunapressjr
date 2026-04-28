@@ -1,11 +1,12 @@
 ---
-title: "Guatemala sediará Cúpula Regional sobre Imigração Ilegal em Abril"
+title: Guatemala sediará Cúpula Regional sobre Imigração Ilegal em Abril
 date: 2024-03-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Após uma reunião entre autoridades dos Estados Unidos, México e Guatemala em Washington, foi anunciado que a Guatemala sediará uma cúpula regional sobre o problema da imigração ilegal em abril. A imigração irregular tem sido uma questão crítica para os norte-americanos, especialmente em vista das próximas eleições presidenciais em novembro, onde a oposição republicana acusa o governo democrata de inação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Centro de Instrução e Adaptação da Aeronáutica forma 110 novos Oficiais"
+title: Centro de Instrução e Adaptação da Aeronáutica forma 110 novos Oficiais
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Centro de Instrução e Adaptação da Aeronáutica (CIAAR) realizou, nesta sexta-feira (15/05), em Lagoa Santa (MG), a formatura da Turma *Sirius*, composta por 110 novos Oficiais da Força Aérea Brasileira (FAB). Foram promovidos ao posto de Primeiro-Tenente os concludentes dos Cursos de Adaptação de Médicos, Dentistas e Farmacêuticos da Aeronáutica e dos Estágios de Adaptação de Oficiais Engenheiros da Aeronáutica e de Apoio. A turma é formada por 51 médicos, 12 dentistas, cinco farmacêuticos, 22 engenheiros e 20 Oficiais de Apoio.
 

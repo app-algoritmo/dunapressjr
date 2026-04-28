@@ -1,11 +1,12 @@
 ---
-title: "BNDES vai adquirir até R$ 10 milhões em créditos de carbono"
+title: BNDES vai adquirir até R$ 10 milhões em créditos de carbono
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é a redução da emissão de gases do efeito estufa.
 

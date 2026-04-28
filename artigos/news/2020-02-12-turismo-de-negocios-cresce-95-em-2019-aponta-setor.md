@@ -1,11 +1,12 @@
 ---
-title: "Turismo de negócios cresce 9,5% em 2019, aponta setor"
+title: Turismo de negócios cresce 9,5% em 2019, aponta setor
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Foram mais de R$ 11,3 bilhões arrecadados com a venda de produtos e serviços a turistas do ramo*
 

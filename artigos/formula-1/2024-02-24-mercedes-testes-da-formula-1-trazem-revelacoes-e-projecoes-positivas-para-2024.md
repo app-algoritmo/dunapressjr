@@ -1,12 +1,14 @@
 ---
-title: "Mercedes: Testes da Fórmula 1 trazem revelações e projeções positivas para 2024"
+title: 'Mercedes: Testes da Fórmula 1 trazem revelações e projeções positivas para
+  2024'
 date: 2024-02-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Formula 1
-  - Sports
+- Formula 1
+- Sports
 ---
+
 
 ## Mercedes surpreende nas simulações, e se empolga para a temporada.
 

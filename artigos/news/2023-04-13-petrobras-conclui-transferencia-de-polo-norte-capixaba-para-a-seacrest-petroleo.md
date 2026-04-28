@@ -1,11 +1,12 @@
 ---
-title: "Petrobras conclui transferência de Polo Norte Capixaba para a Seacrest Petróleo"
+title: Petrobras conclui transferência de Polo Norte Capixaba para a Seacrest Petróleo
 date: 2023-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aquisição inclui quatro campos de produção em terra e infraestrutura integrada no estado do Espírito Santo, Brasil.
 

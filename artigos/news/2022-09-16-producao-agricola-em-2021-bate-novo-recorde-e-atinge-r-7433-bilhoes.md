@@ -1,11 +1,12 @@
 ---
-title: "Produção agrícola em 2021 bate novo recorde e atinge R$ 743,3 bilhões"
+title: Produção agrícola em 2021 bate novo recorde e atinge R$ 743,3 bilhões
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados fazem parte da Produção Agrícola Municipal 2021, do IBGE.
 

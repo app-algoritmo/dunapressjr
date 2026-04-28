@@ -1,11 +1,12 @@
 ---
-title: "Governo assina renovação antecipada da Malha Sudeste"
+title: Governo assina renovação antecipada da Malha Sudeste
 date: 2022-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prorrogação garantirá investimentos de R$ 11 bi na malha ferroviária.
 

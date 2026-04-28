@@ -1,12 +1,14 @@
 ---
-title: "Universidades e faculdades estatais da Noruega via de regra não cobram mensalidade dos alunos, incluindo estudantes estrangeiros"
+title: Universidades e faculdades estatais da Noruega via de regra não cobram mensalidade
+  dos alunos, incluindo estudantes estrangeiros
 date: 2019-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Magazine
+- Education
+- Magazine
 ---
+
 
 ## Noruega, Finlândia e Suécia estão entre os países que oferecem programas de intercâmbio com descontos que, em alguns casos, chegam a 100%. Um outro atrativo é que os cursos são em inglês, o que facilita a vida de quem não fala norueguês, finlandês ou sueco.
 

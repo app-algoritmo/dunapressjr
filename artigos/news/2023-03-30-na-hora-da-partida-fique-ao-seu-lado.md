@@ -1,12 +1,13 @@
 ---
-title: "Na hora da partida fique ao seu lado"
+title: Na hora da partida fique ao seu lado
 date: 2023-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Profissionais que atendem animais de estimação em seus últimos momentos de vida percebem que eles também têm seu último desejo: despedir-se de seu amado dono. 
 

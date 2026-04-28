@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF combatem má aplicação de recursos da saúde em Guajará-Mirim (RO)"
+title: CGU, PF e MPF combatem má aplicação de recursos da saúde em Guajará-Mirim (RO)
 date: 2020-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 2ª fase da Operação Dúctil investiga irregularidades na aquisição de insumos e produtos hospitalares para enfrentamento da pandemia de Covid-19.
 

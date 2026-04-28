@@ -1,11 +1,12 @@
 ---
-title: "A injeção de Covid é uma campanha matadora, diz Dra. Sherry Tenpenny"
+title: A injeção de Covid é uma campanha matadora, diz Dra. Sherry Tenpenny
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Sherri Tenpenny foi uma das primeiras médicas a alertar sobre a “vacina” CV19 e as mortes e incapacidades que resultariam do seu uso generalizado durante a chamada pandemia de Covid. 
 

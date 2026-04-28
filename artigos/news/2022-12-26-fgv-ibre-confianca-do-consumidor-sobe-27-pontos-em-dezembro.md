@@ -1,11 +1,12 @@
 ---
-title: "FGV Ibre: confiança do consumidor sobe 2,7 pontos em dezembro"
+title: 'FGV Ibre: confiança do consumidor sobe 2,7 pontos em dezembro'
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recuperação ocorre depois de dois meses de queda.
 

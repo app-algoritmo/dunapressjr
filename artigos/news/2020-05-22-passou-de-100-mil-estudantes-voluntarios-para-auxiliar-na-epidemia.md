@@ -1,11 +1,12 @@
 ---
-title: "Passou de 100 mil estudantes voluntários para auxiliar na epidemia"
+title: Passou de 100 mil estudantes voluntários para auxiliar na epidemia
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **São alunos de Medicina, Enfermagem, Fisioterapia e Farmácia que realizaram cadastro do Ministério da Saúde para suprir demanda do SUS **
 

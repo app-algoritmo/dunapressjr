@@ -1,11 +1,12 @@
 ---
-title: "E-mails do laptop de Hunter Biden mostram adulteração encoberta da Wikipedia"
+title: E-mails do laptop de Hunter Biden mostram adulteração encoberta da Wikipedia
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *Uma tática comum dos ricos e poderosos.*
 

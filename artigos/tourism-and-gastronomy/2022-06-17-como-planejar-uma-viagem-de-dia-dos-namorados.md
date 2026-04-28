@@ -1,11 +1,12 @@
 ---
-title: "Como planejar uma viagem de Dia dos Namorados?"
+title: Como planejar uma viagem de Dia dos Namorados?
 date: 2022-06-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Saiba por onde começar a planejar aquela viagem marcante com o seu amor
 

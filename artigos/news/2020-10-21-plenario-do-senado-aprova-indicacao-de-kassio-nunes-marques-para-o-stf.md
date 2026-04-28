@@ -1,11 +1,12 @@
 ---
-title: "Plenário do Senado aprova indicação de Kassio Nunes Marques para o STF"
+title: Plenário do Senado aprova indicação de Kassio Nunes Marques para o STF
 date: 2020-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desembargador ocupará vaga aberta com aposentadoria de Celso de Mello.
 

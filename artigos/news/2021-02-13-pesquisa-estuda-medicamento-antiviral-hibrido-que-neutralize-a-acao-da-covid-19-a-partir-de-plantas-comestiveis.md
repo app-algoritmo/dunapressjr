@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa estuda medicamento antiviral híbrido, que neutralize a ação da COVID-19  a partir de plantas comestíveis"
+title: Pesquisa estuda medicamento antiviral híbrido, que neutralize a ação da COVID-19  a
+  partir de plantas comestíveis
 date: 2021-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma pesquisa da Universidade Federal de Santa Catarina (UFSC) quer criar um medicamento contra o novo coronavírus a partir de plantas comestíveis. O trabalho, feito em parceria com a Universidade Federal da Paraíba (UFPB) e a Universidade Federal do ABC (UFABC), foi financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC). 
 

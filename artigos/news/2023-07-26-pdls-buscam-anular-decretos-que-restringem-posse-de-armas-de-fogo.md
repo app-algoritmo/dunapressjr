@@ -1,11 +1,12 @@
 ---
-title: "PDLs Buscam anular decretos que restringem posse de armas de fogo"
+title: PDLs Buscam anular decretos que restringem posse de armas de fogo
 date: 2023-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Senadores argumentam sobre competência regulamentar e impactos sociais do Decreto 11.615/2023. 
 

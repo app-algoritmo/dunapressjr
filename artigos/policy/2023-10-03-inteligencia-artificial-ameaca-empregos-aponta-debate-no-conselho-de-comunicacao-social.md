@@ -1,11 +1,13 @@
 ---
-title: "Inteligência Artificial ameaça empregos, aponta debate no Conselho de Comunicação Social"
+title: Inteligência Artificial ameaça empregos, aponta debate no Conselho de Comunicação
+  Social
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Esta foi a segunda audiência pública do CCS sobre o tema, sob a presidência do advogado e editor-chefe do portal jurídico Migalhas, Miguel Matos. 
 

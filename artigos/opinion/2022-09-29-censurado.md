@@ -1,11 +1,12 @@
 ---
-title: "CENSURADO"
+title: CENSURADO
 date: 2022-09-29
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Opinion
-  - Policy
+- Opinion
+- Policy
 ---
+
 
 

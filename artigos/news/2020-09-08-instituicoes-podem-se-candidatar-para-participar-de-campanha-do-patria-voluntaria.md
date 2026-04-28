@@ -1,11 +1,12 @@
 ---
-title: "Instituições podem se candidatar para participar de campanha do Pátria Voluntária"
+title: Instituições podem se candidatar para participar de campanha do Pátria Voluntária
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Instituições que possuem projetos voltados a crianças e adolescentes em situação de vulnerabilidade pode se candidatar para participar da campanha Apadrinhe um Futuro.
 

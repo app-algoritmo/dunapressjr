@@ -1,11 +1,12 @@
 ---
-title: "Rússia muda as regras em relação aos símbolos nazistas"
+title: Rússia muda as regras em relação aos símbolos nazistas
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 A exibição de
 símbolos nazistas, como a suástica, agora será possível se eles tiverem uma

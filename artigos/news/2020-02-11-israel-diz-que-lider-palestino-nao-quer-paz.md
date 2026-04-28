@@ -1,11 +1,12 @@
 ---
-title: "Israel diz que líder palestino não quer paz"
+title: Israel diz que líder palestino não quer paz
 date: 2020-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Não podemos aceitar que os EUA sejam o único mediador. Espero que o presidente Trump seja justo para que possamos ter a oportunidade de alcançar a paz. Não somos terroristas; estamos lutando contra o terrorismo, disse Abbas ao Conselho da ONU, ao rejeitar o que chamou de “deturpações israelenses”. Alegou o lider palestino,  em discurso hoje, dia 11 de fevereiro, no Conselho de Segurança da ONU, o presidente palestino, Mahmoud Abbas, contestou o plano de paz do presidente Donald Trump para o conflito israelo-palestino. 
 

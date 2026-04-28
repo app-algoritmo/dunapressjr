@@ -1,11 +1,12 @@
 ---
-title: "Governo peruano declara estado de emergência por 30 dias"
+title: Governo peruano declara estado de emergência por 30 dias
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo peruano declarou nesta quarta-feira estado de emergência em todo o país por 30 dias, o que implica a suspensão dos direitos de reunião, inviolabilidade do domicílio e liberdade de trânsito, entre outros, enquanto considera declarando toque de recolher.
 

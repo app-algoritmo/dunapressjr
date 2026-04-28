@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro determina reorganização do calendário dos colégios que sofreram com impacto do coronavírus"
+title: Presidente Jair Bolsonaro determina reorganização do calendário dos colégios
+  que sofreram com impacto do coronavírus
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a suspensão de aulas em função do novo coronavírus, o Presidente Jair Bolsonaro sancionou a lei que determina a reorganização do calendário escolar. Com isso, as escolas de educação básica e instituições de ensino superior ficam liberadas de cumprirem, em 2020, o mínimo de dias letivos previsto em lei. Mas a carga horária deverá ser mantida, com exceção do ensino infantil.
 

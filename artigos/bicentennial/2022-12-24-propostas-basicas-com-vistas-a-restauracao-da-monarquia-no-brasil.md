@@ -1,13 +1,14 @@
 ---
-title: "Propostas básicas com vistas à restauração da monarquia no Brasil"
+title: Propostas básicas com vistas à restauração da monarquia no Brasil
 date: 2022-12-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 Muitas pessoas têm indagado qual seria o programa de governo da Monarquia. Num sistema monárquico constitucional e parlamentarista, não cabe ao Imperador - Chefe de Estado - elaborar tal programa; essa é uma tarefa própria do Primeiro-Ministro que é o Chefe de Governo. O Monarca formula propostas, segundo sua interpretação dos interesses e aspirações nacionais; cabendo ao Ministério e ao Parlamento examiná-las, discutidas e inseri-las no planejamento governamental. As propostas básicas que o Príncipe [D. Luiz de Orleans e Bragança](https://pt.wikipedia.org/wiki/Luiz_Gastão_de_Orléans_e_Bragança) aprovou, em 3 de maio de 1991, para conhecimento de todos os brasileiros, são as seguintes:]
 

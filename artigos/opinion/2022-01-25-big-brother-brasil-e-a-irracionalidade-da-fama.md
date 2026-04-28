@@ -1,11 +1,12 @@
 ---
-title: "Big Brother Brasil e a irracionalidade da fama"
+title: Big Brother Brasil e a irracionalidade da fama
 date: 2022-01-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 **Por que os telespectadores e fãs de Big Brother Brasil se comportam de maneira tão irracional no apoio a determinados participantes do programa?**
 

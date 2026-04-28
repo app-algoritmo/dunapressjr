@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério denuncia abusos em operação contra colonos no Pará"
+title: Plínio Valério denuncia abusos em operação contra colonos no Pará
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente da CPI das ONGs, senador Plínio Valério (PSDB-AM) encaminhou ao Supremo Tribunal Federal (STF) [denúncia](/noticias/arquivos/2023/11/13/memorial-barroso-posseiros.pdf) que aponta supostos abusos praticados por 300 agentes públicos da Força Nacional, Fundação Nacional do Índio (Funai), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) e Instituto Nacional de Colonização e Reforma Agrária (Incra) na expulsão de colonos da Vila Renascer, na Terra Indígena Apyterewa, na região de Redenção (PA), que reúne mais de 200 famílias em situação de litígio.
 

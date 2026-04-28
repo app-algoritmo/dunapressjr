@@ -1,11 +1,13 @@
 ---
-title: "Empresas da Base Industrial de Defesa contribuem com governo e sociedade no combate à Covid-19"
+title: Empresas da Base Industrial de Defesa contribuem com governo e sociedade no
+  combate à Covid-19
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Mais de 190 empresas e quase 340 produtos estão cadastrados na plataforma lançada pelo Ministério da Defesa, “COVID-19, Produtos ao Alcance de Todos”. A ação, desenvolvida por meio da Secretaria de Produtos de Defesa (SEPROD) do Ministério, aproxima indústrias e órgãos de Saúde demandantes por itens necessários em diversas frentes no enfrentamento à pandemia do novo coronavírus.
 

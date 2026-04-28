@@ -1,11 +1,12 @@
 ---
-title: "Churrasco no Complexo de Saúde Pequeno Cotolengo"
+title: Churrasco no Complexo de Saúde Pequeno Cotolengo
 date: 2022-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 ## Tradicional evento da organização acontece neste domingo, 06 de novembro.
 

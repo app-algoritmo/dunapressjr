@@ -1,11 +1,13 @@
 ---
-title: "Dependência econômica é fator de vulnerabilidade da mulher à violência, alertam especialistas"
+title: Dependência econômica é fator de vulnerabilidade da mulher à violência, alertam
+  especialistas
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Especialistas ouvidas em seminário promovido pela Secretaria da Mulher da Câmara dos Deputados destacaram que a dependência econômica é fator de vulnerabilidade da mulher à violência.  O seminário “Mulher, trabalho e renda: desafios para a autonomia econômica feminina e sua função no combate à violência doméstica” ocorreu nesta terça-feira (29).
 

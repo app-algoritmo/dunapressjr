@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a Operação Muralha Norte em Parnaíba/PI"
+title: PF deflagra a Operação Muralha Norte em Parnaíba/PI
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parnaíba/PI - A Polícia Federal deflagrou nesta sexta-feira (19/6) a operação MURALHA NORTE, com o objetivo de investigar organização criminosa nacional que estaria distribuindo a droga para a região norte do Piauí.
 

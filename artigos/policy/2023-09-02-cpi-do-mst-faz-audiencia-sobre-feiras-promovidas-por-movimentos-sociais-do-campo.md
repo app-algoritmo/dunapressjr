@@ -1,11 +1,13 @@
 ---
-title: "CPI do MST faz audiência sobre feiras promovidas por movimentos sociais do campo"
+title: CPI do MST faz audiência sobre feiras promovidas por movimentos sociais do
+  campo
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Deputado quer saber se organização das feiras recebe apoio logístico e de quem.
 

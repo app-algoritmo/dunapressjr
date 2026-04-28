@@ -1,11 +1,13 @@
 ---
-title: "Autoridades Paraguaias se Reúnem com Coordenador Anticorrupção dos EUA para Priorizar Iniciativas Anticorrupção"
+title: Autoridades Paraguaias se Reúnem com Coordenador Anticorrupção dos EUA para
+  Priorizar Iniciativas Anticorrupção
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Autoridades dos três poderes do Estado paraguaio se reuniram com o Coordenador de Anticorrupção Global do Departamento de Estado dos Estados Unidos, Richard Nephew, para discutir e priorizar as iniciativas anticorrupção no país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fórum online aborda o combate à pornografia infantil"
+title: Fórum online aborda o combate à pornografia infantil
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 35 mil denúncias de violência sexual contra crianças e adolescentes recebidas pelo Disque 100 (Disque Direitos Humanos) nos anos 2018 e 2019. Números como esses serão o ponto de partida das discussões no "Fórum Nacional para Proteção de Crianças e Adolescentes Vítimas de Exploração Sexual no Contexto de Pornografia na Internet". Com transmissão ao vivo, o evento ocorre nos próximos dias 29 e 30 de julho.
 

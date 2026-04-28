@@ -1,11 +1,12 @@
 ---
-title: "Regulamentado Programa de Capital de Giro para Preservação de Empresas"
+title: Regulamentado Programa de Capital de Giro para Preservação de Empresas
 date: 2020-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com isso, as instituições financeiras podem se preparar para oferecer o crédito aos micro, pequenos e médios empresários.
 

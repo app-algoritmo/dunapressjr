@@ -1,11 +1,12 @@
 ---
-title: "Redução da taxa de energia vai favorecer pequenos negócios, diz Sebrae"
+title: Redução da taxa de energia vai favorecer pequenos negócios, diz Sebrae
 date: 2022-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segmento foi o mais afetado pela pandemia, afirma economista.
 

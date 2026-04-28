@@ -1,11 +1,12 @@
 ---
-title: "Sintomas bucais podem indicar intolerância a glúten"
+title: Sintomas bucais podem indicar intolerância a glúten
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Inchaço, fadiga, anemia, azia e refluxo ácido, além de dores nas articulações e no abdômen. Esses são os sintomas mais comuns e conhecidos da doença celíaca. No entanto, para além dos sintomas gastrointestinais, ainda é pouco difundido que a intolerância ao glúten pode causar algumas manifestações bucais antes mesmo dos sinais mais comuns, conforme explica o especialista em Estomatologia e professor do curso de Odontologia da Universidade Positivo (UP), Acir José Dirschnabel. “É importantíssimo que sejam realizados exames periódicos no dentista, pois a doença celíaca pode se desenvolver e ser diagnosticada em qualquer etapa da vida, desde a infância até a terceira idade.” Ele também destaca a relevância do papel do dentista em conhecer os sintomas que a doença pode causar, para que possa pedir os exames que detectam a condição.
 

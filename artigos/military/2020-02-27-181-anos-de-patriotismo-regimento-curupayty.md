@@ -1,11 +1,12 @@
 ---
-title: "181 anos de patriotismo -  Regimento Curupayty"
+title: 181 anos de patriotismo -  Regimento Curupayty
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 181 anos servindo o Brasil com bravura e patriotismo - Regimento Curupayty - o 17º BIS
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova projeto que simplifica ICMS dos combustíveis"
+title: Senado aprova projeto que simplifica ICMS dos combustíveis
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O projeto retorna à Câmara dos Deputados para nova análise.
 

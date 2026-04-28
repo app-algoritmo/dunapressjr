@@ -1,11 +1,12 @@
 ---
-title: "Governo destina R$ 10 bilhões para micro e pequenos empresários"
+title: Governo destina R$ 10 bilhões para micro e pequenos empresários
 date: 2020-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida provisória foi publicada hoje no Diário Oficial da União.
 

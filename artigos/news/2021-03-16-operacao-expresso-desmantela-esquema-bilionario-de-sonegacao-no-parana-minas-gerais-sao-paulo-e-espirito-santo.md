@@ -1,11 +1,13 @@
 ---
-title: "Operação “Expresso” desmantela esquema bilionário de sonegação no Paraná, Minas Gerais, São Paulo e Espírito Santo"
+title: Operação “Expresso” desmantela esquema bilionário de sonegação no Paraná, Minas
+  Gerais, São Paulo e Espírito Santo
 date: 2021-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior operação de combate a fraudes tributárias do setor de café já realizada nos quatro estados identificou que envolvidos devem mais de R$ 1 bilhão em impostos estaduais e federais.
 

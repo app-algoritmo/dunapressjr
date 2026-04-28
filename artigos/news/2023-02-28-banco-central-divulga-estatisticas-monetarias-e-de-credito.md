@@ -1,11 +1,12 @@
 ---
-title: "Banco Central divulga estatísticas monetárias e de crédito"
+title: Banco Central divulga estatísticas monetárias e de crédito
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O crédito ampliado às famílias alcançou 35,1% do PIB.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa em Santarém/PA"
+title: PF combate crime de moeda falsa em Santarém/PA
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santarém/ PA - A Polícia Federal cumpriu na segunda-feira, 1/6, um mandado de busca e apreensão e realizou diversas outras diligências para instruir inquérito policial instaurado para investigar a venda e utilização de moeda falsa de curso legal no país.
 

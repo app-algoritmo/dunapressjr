@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro  já investiu mais de R$ 3,2 bilhões para combater a Covid-19"
+title: Governo Bolsonaro  já investiu mais de R$ 3,2 bilhões para combater a Covid-19
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Painel de Compras e Contratos Covid-19, ferramenta do Ministério da Economia, atualiza diariamente os investimentos federais em bens e serviços para serem utilizados durante a crise provocada pelo novo coronavírus.
 

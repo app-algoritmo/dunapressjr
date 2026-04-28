@@ -1,11 +1,12 @@
 ---
-title: "Selo Social 2021/2022 vai certificar 66 empresas nesta quarta-feira (07)"
+title: Selo Social 2021/2022 vai certificar 66 empresas nesta quarta-feira (07)
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Promoção da Cidadania, promove nesta quarta-feira (07) a cerimônia de certificação do Programa Selo Social. Nesta edição, são 66 empresas participantes com 521 projetos analisados para a certificação. O evento será realizado para convidados, a partir das 19h, na sede social do Itamirim Clube de Campo (Rua José Gall, nº 1106, na Ressacada).
 

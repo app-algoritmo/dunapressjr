@@ -1,11 +1,12 @@
 ---
-title: "Consórcio Infraestrutura MG arremata rodovias do lote Sul de Minas"
+title: Consórcio Infraestrutura MG arremata rodovias do lote Sul de Minas
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O valor básico da tarifa de pedágio será de R$ 8,32.
 

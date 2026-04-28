@@ -1,11 +1,12 @@
 ---
-title: "Governo Lula aciona EUA e Interpol por extradição de Allan dos Santos"
+title: Governo Lula aciona EUA e Interpol por extradição de Allan dos Santos
 date: 2023-01-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça do governo de Luiz Inácio Lula da Silva procurou o governo dos Estados Unidos e a Interpol, em Lyon, com o objetivo de acelerar o processo de extradição do influenciador bolsonarista Allan dos Santos, que está no país desde 2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "Soldados egípcios são evacuados do Sudão após detenção por grupo paramilitar"
+title: Soldados egípcios são evacuados do Sudão após detenção por grupo paramilitar
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conflito no país já causou mais de 270 mortes e organizações ocidentais têm dificuldade para evacuar seus membros.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil criou 16 novas empresas por dia útil em agosto"
+title: Brasil criou 16 novas empresas por dia útil em agosto
 date: 2023-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## MEIs representam maior parcela de empreendimentos iniciados.
 

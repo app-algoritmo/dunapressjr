@@ -1,11 +1,12 @@
 ---
-title: "Cenário Tenso na Colômbia: Acusações de Golpe de Estado e Ruptura Institucional"
+title: 'Cenário Tenso na Colômbia: Acusações de Golpe de Estado e Ruptura Institucional'
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentes declarações da renomada jornalista colombiana, Vicky Dávila, estão lançando sombras de incerteza sobre o cenário político na Colômbia. As afirmações sugerem que o Presidente Gustavo Petro estaria planejando um golpe de Estado e uma possível ruptura das instituições, gerando preocupações significativas em relação à estabilidade do país.
 

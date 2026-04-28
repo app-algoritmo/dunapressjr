@@ -1,11 +1,12 @@
 ---
-title: "Cinco erros que pais cometem ao ensinar finanças aos filhos"
+title: Cinco erros que pais cometem ao ensinar finanças aos filhos
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Como ensinar crianças a lidar com o dinheiro, sendo responsáveis por consumir de forma consciente e controlada? Se essa não é a pergunta de um milhão de dólares, no mínimo é uma questão importante para famílias que desejam deixar um legado de equilíbrio financeiro para seus filhos. Isso pode ser feito de diversas maneiras, mas alguns erros comprometem os resultados.
 

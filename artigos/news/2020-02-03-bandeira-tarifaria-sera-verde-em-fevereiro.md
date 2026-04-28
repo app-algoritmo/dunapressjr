@@ -1,11 +1,12 @@
 ---
-title: "Bandeira tarifária será verde em fevereiro"
+title: Bandeira tarifária será verde em fevereiro
 date: 2020-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *A bandeira verde sinaliza condições favoráveis para geração de energia*
 

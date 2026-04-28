@@ -1,11 +1,13 @@
 ---
-title: "Nova fase do Auxílio Emergencial começa a ser paga a integrantes do Bolsa Família nesta quinta"
+title: Nova fase do Auxílio Emergencial começa a ser paga a integrantes do Bolsa Família
+  nesta quinta
 date: 2020-09-17
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Benefício de R$ 300 ou R$ 600 seguirá o calendário usual do programa do Governo Federal. Profissionais do Ministério da Cidadania se reuniram em videoconferência com representantes estaduais para apresentar balanço e detalhar a operação.
 

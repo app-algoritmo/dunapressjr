@@ -1,11 +1,12 @@
 ---
-title: "Registros no PIX podem começar a ser feitos a partir de 5 de outubro"
+title: Registros no PIX podem começar a ser feitos a partir de 5 de outubro
 date: 2020-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O sistema vai permitir transferências eletrônicas em tempo real a qualquer momento do dia ou da noite, inclusive aos finais de semana e feriados.
 

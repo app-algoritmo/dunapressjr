@@ -1,11 +1,12 @@
 ---
-title: "Operação Desonra investiga fraude na concessão de pensão por morte"
+title: Operação Desonra investiga fraude na concessão de pensão por morte
 date: 2020-05-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta quinta-feira (7/5) a Operação Desonra, que apura fraude na concessão de pensão por morte de servidor público do ex-Território Federal de Rondônia, em Porto Velho/RO.
 

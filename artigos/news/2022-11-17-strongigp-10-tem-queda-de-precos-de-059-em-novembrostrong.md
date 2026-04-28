@@ -1,11 +1,12 @@
 ---
-title: "<strong>IGP-10 tem queda de preços de 0,59% em novembro</strong>"
+title: <strong>IGP-10 tem queda de preços de 0,59% em novembro</strong>
 date: 2022-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice acumula taxa de inflação de 5,70% no ano, diz FGV.
 

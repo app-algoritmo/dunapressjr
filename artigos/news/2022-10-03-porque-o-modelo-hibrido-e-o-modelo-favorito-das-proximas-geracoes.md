@@ -1,11 +1,12 @@
 ---
-title: "Porque o modelo híbrido é o modelo favorito das próximas gerações?"
+title: Porque o modelo híbrido é o modelo favorito das próximas gerações?
 date: 2022-10-03
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Os formatos de trabalho híbridos mesclam jornadas remotas e presenciais, com profissionais alternando entre jornadas de trabalho em casa e no escritório.
 

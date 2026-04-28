@@ -1,11 +1,12 @@
 ---
-title: "Atas do Copom: Redução da Taxa Selic e desafios na economia brasileira"
+title: 'Atas do Copom: Redução da Taxa Selic e desafios na economia brasileira'
 date: 2023-09-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Análise da 257ª reunião do comitê de política monetária em setembro de 2023.
 

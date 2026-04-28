@@ -1,11 +1,13 @@
 ---
-title: "Novo regime de metas de inflação é aprovado pelo CMN com horizonte mais alongado a partir de 2025"
+title: Novo regime de metas de inflação é aprovado pelo CMN com horizonte mais alongado
+  a partir de 2025
 date: 2023-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministros anunciam mudanças no sistema de metas, permitindo verificação em prazo maior e convergência das políticas monetárias e fiscais para impulsionar a economia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Feira AgroBrasília acontece pela primeira vez de forma virtual"
+title: Feira AgroBrasília acontece pela primeira vez de forma virtual
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Também presente, o embaixador dos Estados Unidos, Todd Chapman, destacou que os governos dos Estados Unidos e do Brasil trabalham juntos em estratégias para o desenvolvimento do setor agrícola dos dois países.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministra do Mapa participa do lançamento da campanha Mulheres Rurais, mulheres com direitos"
+title: Ministra do Mapa participa do lançamento da campanha Mulheres Rurais, mulheres
+  com direitos
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A proposta da campanha é dar visibilidade às mulheres rurais, indígenas e afrodescendentes que vivem e trabalham em um contexto desigualdades estruturais e desafios sociais, econômicos e ambientais.
 

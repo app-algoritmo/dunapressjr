@@ -1,11 +1,12 @@
 ---
-title: "Moraes mantém Torres preso em batalhão da Polícia Militar"
+title: Moraes mantém Torres preso em batalhão da Polícia Militar
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ex-ministro é investigado por "atos golpistas" de 8 de janeiro.
 

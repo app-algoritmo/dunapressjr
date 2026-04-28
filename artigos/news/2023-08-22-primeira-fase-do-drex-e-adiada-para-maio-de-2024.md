@@ -1,11 +1,12 @@
 ---
-title: "Primeira fase do Drex é adiada para maio de 2024"
+title: Primeira fase do Drex é adiada para maio de 2024
 date: 2023-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Coordenador da iniciativa no Banco Central revela atraso na inclusão de participantes e destaca desafios relacionados à Lei Geral de Proteção de Dados.
 

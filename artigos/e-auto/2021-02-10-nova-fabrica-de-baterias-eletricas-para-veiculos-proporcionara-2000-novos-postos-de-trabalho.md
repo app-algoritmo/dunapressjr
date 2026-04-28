@@ -1,11 +1,13 @@
 ---
-title: "Nova fabrica de baterias elétricas para veículos proporcionará 2.000 novos postos de trabalho"
+title: Nova fabrica de baterias elétricas para veículos proporcionará 2.000 novos
+  postos de trabalho
 date: 2021-02-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Panasonic, Hydro e Equinor planejam a abertura de uma grande fábrica de baterias na Noruega.
 

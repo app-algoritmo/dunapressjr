@@ -1,11 +1,13 @@
 ---
-title: "Perspectivas Econômicas 2024: Paraguai Surge como Líder do Cone Sul, Venezuela Destaca-se na América do Sul"
+title: 'Perspectivas Econômicas 2024: Paraguai Surge como Líder do Cone Sul, Venezuela
+  Destaca-se na América do Sul'
 date: 2024-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Fundo Monetário Internacional (FMI) lançou seu aguardado relatório "Perspectivas Econômicas Mundiais", delineando as trajetórias de crescimento na região do Cone Sul para o ano de 2024. Surpreendentemente, o Paraguai emerge como líder das projeções, com um crescimento robusto de 3,8%. Acompanhando de perto, o Uruguai também se destaca com uma projeção de 3,7%, indicando uma dinâmica econômica favorável na região.
 

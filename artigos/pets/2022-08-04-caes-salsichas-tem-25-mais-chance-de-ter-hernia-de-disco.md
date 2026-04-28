@@ -1,11 +1,12 @@
 ---
-title: "Cães 'salsichas' têm 25% mais chance de ter hérnia de disco"
+title: Cães 'salsichas' têm 25% mais chance de ter hérnia de disco
 date: 2022-08-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O simpático cachorrinho Bosco, o Rei dos Galhos, como é conhecido em Londres, capital do Reino Unido, tem quase 200 mil seguidores no [Instagram](https://www.instagram.com/boscoandhisbigstick), onde seus tutores publicam fotos e vídeos dele carregando grandes galhos de árvore na boca enquanto passeia pelos principais parques da cidade.
 

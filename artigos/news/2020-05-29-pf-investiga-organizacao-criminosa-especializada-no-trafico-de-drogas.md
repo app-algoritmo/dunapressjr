@@ -1,11 +1,12 @@
 ---
-title: "PF investiga organização criminosa especializada no tráfico de drogas"
+title: PF investiga organização criminosa especializada no tráfico de drogas
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Marabá/PA - A Polícia Federal cumpriu nesta sexta-feira (29/5), em decorrência da apreensão de entorpecentes enviados pelos Correios, ocorrida no dia 26/5, ordem judicial de quatro mandados de busca e apreensão de celulares, mídias e documentos e um mandado de prisão preventiva, que foram cautelarmente requeridos pela Polícia Federal.
 

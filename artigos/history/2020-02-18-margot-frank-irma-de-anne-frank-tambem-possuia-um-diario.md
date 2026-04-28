@@ -1,11 +1,12 @@
 ---
-title: "Margot Frank, irmã de Anne Frank também possuía um diário"
+title: Margot Frank, irmã de Anne Frank também possuía um diário
 date: 2020-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Além de ser o bem-comportado papel de sua irmã mais nova, Anne, Margot era dotada academicamente e atleticamente e também mantinha um diário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão: matéria de revista desrespeita cristãos e reforça 'campanha antinatalista'"
+title: 'Girão: matéria de revista desrespeita cristãos e reforça ''campanha antinatalista'''
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou em pronunciamento no Plenário nesta sexta-feira (15) matéria publicada pela revista *Veja*, em 1º de setembro, intitulada *A multiplicação dos bebês de casais da ala conservadora da Igreja Católica*. Segundo o parlamentar, a matéria é “totalmente tendenciosa”, afirmando que os casais “abraçam a doutrina cristã à risca, rechaçando métodos contraceptivos e formando famílias numerosas." 
 

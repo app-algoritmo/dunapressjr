@@ -1,11 +1,13 @@
 ---
-title: "Os expulsos por Ortega continuam protestando contra o ex-presidente a 5.000 km da Nicarágua"
+title: Os expulsos por Ortega continuam protestando contra o ex-presidente a 5.000
+  km da Nicarágua
 date: 2023-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Exilados e feridos à força, mas querendo continuar lutando, alguns dos 222 presos políticos expulsos por Daniel Ortega há apenas um mês buscam mecanismos para fazer oposição à distância e tentam encontrar uma voz comum de luta por uma Nicarágua livre.
 

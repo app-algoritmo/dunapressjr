@@ -1,11 +1,13 @@
 ---
-title: "Alarmismo Sobre Desinformação e IA Marca Campanha da Vice-Presidente da Comissão Europeia"
+title: Alarmismo Sobre Desinformação e IA Marca Campanha da Vice-Presidente da Comissão
+  Europeia
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que se aproximam as eleições para o Parlamento Europeu (PE) no próximo mês, a Vice-Presidente da Comissão Europeia para Valores e Transparência, Vera Jourova, intensifica sua campanha abordando temas polêmicos como desinformação, inteligência artificial (IA) e influência russa. A estratégia de Jourova visa garantir que as políticas atuais da União Europeia (UE) permaneçam intactas ou até se tornem mais rigorosas, um objetivo que muitos críticos consideram uma ameaça à democracia e à liberdade de expressão.
 

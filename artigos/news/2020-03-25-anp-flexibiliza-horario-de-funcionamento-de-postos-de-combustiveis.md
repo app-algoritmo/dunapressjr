@@ -1,11 +1,12 @@
 ---
-title: "ANP flexibiliza horário de funcionamento de postos de combustíveis"
+title: ANP flexibiliza horário de funcionamento de postos de combustíveis
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Agência Natural do Petróleo, Gás Natural e Biocombustíveis (ANP) publicou, na segunda-feira (23), no Diário Oficial da União (DOU), uma resolução regulamentando a redução no horário de funcionamento dos postos de combustíveis e os de revendas gás liquefeito de petróleo (GLP).
 

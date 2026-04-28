@@ -1,11 +1,12 @@
 ---
-title: "Girão volta a condenar pauta da descriminalização do porte de drogas"
+title: Girão volta a condenar pauta da descriminalização do porte de drogas
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) voltou a pedir o apoio dos senadores contra o julgamento, no Supremo Tribunal Federal (STF), de ação sobre descriminalização do porte de drogas para consumo próprio. Em pronunciamento no Plenário nesta quarta-feira (14), o senador citou, como uma das justificativas para o pedido, o assassinato de quatro crianças em uma creche em Santa Catarina, em abril deste ano, por um usuário de drogas. 
 

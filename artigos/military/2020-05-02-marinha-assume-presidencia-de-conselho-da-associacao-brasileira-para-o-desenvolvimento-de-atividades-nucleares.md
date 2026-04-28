@@ -1,11 +1,13 @@
 ---
-title: "Marinha assume presidência de conselho da Associação Brasileira para o Desenvolvimento de Atividades Nucleares"
+title: Marinha assume presidência de conselho da Associação Brasileira para o Desenvolvimento
+  de Atividades Nucleares
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Diretor-Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM), Almirante de Esquadra Marcos Sampaio Olsen, assumiu, no dia 28 de abril, a presidência do Conselho Curador da Associação Brasileira para o Desenvolvimento de Atividades Nucleares (ABDAN). A ABDAN é uma entidade sem fins lucrativos, que congrega a maioria das mais importantes empresas de bens de capital, construção e montagem, do setor de consultoria e engenharia, de operação de usinas e de unidades fabris de sistemas e equipamentos, que participam das atividades nucleares no Brasil.
 

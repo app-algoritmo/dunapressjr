@@ -1,12 +1,13 @@
 ---
-title: "Diário de uma viagem ao Brasil, de Maria Graham"
+title: Diário de uma viagem ao Brasil, de Maria Graham
 date: 2022-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Dos ingleses que visitaram o Brasil durante o século XIX, que conviveram com seus habitantes e deles observaram hábitos e estilos de vida, e de modo especial os pequenos fatos e ocorrências cotidianas, merece particular menção a intelectual britânica Maria Graham (1785-1842). Suas experiências críticas como viajante-investigadora no Brasil, constam no "Diário de uma viagem ao Brasil", em que comenta as três vezes que esteve por aqui, visitando Pernambuco, Bahia e Rio de Janeiro, entre 1821 e 1823, a princípio acompanhando seu marido, o capitão da marinha inglesa Thomas Graham, e depois da sua morte no Chile, viajando sozinha. Foi exatamente à época da independência do Brasil, momento conturbado de nossa história, que a escritora aqui chega pela primeira vez, mais precisamente no dia 21 de setembro de 1821, quando a fragata Dóris aporta na cidade do Recife.
 

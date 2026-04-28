@@ -1,11 +1,12 @@
 ---
-title: "Militares reforçam ações de desinfecção em todo o Brasil"
+title: Militares reforçam ações de desinfecção em todo o Brasil
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As medidas para evitar a proliferação do novo coronavírus, tomadas pelos militares das Forças Armadas em apoio aos órgãos de saúde, continuam por todo o País. Na terça-feira (29), militares do 36º Batalhão de Infantaria Mecanizado realizaram a descontaminação do Terminal Rodoviário de Uberlândia (MG) e das Unidades de Atendimento Integrado dos bairros de Planalto, Roosevelt e Martins.
 

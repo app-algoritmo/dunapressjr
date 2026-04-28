@@ -1,11 +1,12 @@
 ---
-title: "Semana do Meio Ambiente movimenta unidades de ensino em Itajaí"
+title: Semana do Meio Ambiente movimenta unidades de ensino em Itajaí
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Dia Mundial do Meio Ambiente, celebrado no domingo (05), será marcado por ações nas unidades de ensino da Rede Municipal ao longo desta semana. Escolas, centros de educação infantil e centros de educação em tempo integral desenvolveram projetos e também participam de visitas técnicas, ao Porto de Itajaí e a uma exposição sobre o combate ao lixo no mar.
 

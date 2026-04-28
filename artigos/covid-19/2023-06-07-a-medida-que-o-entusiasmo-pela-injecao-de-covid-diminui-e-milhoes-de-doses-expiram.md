@@ -1,11 +1,13 @@
 ---
-title: "À medida que o entusiasmo pela injeção de Covid diminui e milhões de doses expiram"
+title: À medida que o entusiasmo pela injeção de Covid diminui e milhões de doses
+  expiram
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Sei que não é a rejeição que esperávamos, mas o crescente descontentamento com os acordos profundamente idiotas e imprudentes que a União Europeia negociou com a Pfizer e a BioNTech para as doses da vacina Covid-19 diz muito sobre onde os oponentes da vacinação estão política e socialmente. esta hora tardia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasília ganha delegacia de repressão a crimes contra animais"
+title: Brasília ganha delegacia de repressão a crimes contra animais
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia investigará detalhadamente violações.
 

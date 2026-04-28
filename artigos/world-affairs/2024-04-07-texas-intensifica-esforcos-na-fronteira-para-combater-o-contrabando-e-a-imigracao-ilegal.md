@@ -1,11 +1,13 @@
 ---
-title: "Texas Intensifica Esforços na Fronteira para Combater o Contrabando e a Imigração Ilegal"
+title: Texas Intensifica Esforços na Fronteira para Combater o Contrabando e a Imigração
+  Ilegal
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador Greg Abbott, em conjunto com o Departamento de Segurança Pública do Texas (DPS) e a Guarda Nacional do Texas, mantém um compromisso firme de proteger a fronteira do estado. Através da Operação Lone Star, uma iniciativa multiagências, eles estão concentrando esforços para acabar com o contrabando de drogas, armas e pessoas, enquanto também combatem atividades criminosas transnacionais entre os portos de entrada.
 

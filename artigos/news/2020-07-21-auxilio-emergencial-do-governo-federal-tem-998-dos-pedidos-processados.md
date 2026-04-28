@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Emergencial do Governo Federal tem 99,8% dos pedidos processados"
+title: Auxílio Emergencial do Governo Federal tem 99,8% dos pedidos processados
 date: 2020-07-21
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Restam 273.630 solicitações a serem analisadas do total de 150,7 milhões de cadastros avaliados desde o início do programa.
 

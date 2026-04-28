@@ -1,11 +1,13 @@
 ---
-title: "Pequenos e médios empreendedores já contrataram mais de R$1,5 bi em linhas emergenciais"
+title: Pequenos e médios empreendedores já contrataram mais de R$1,5 bi em linhas
+  emergenciais
 date: 2020-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Linhas de crédito são dos fundos constitucionais de Financiamento do Norte (FNO), do Nordeste (FNE) e do Centro-Oeste (FCO).
 

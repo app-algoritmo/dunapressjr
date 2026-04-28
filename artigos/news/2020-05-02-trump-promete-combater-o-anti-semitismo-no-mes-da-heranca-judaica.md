@@ -1,11 +1,12 @@
 ---
-title: "Trump promete combater o anti-semitismo no mês da herança judaica"
+title: Trump promete combater o anti-semitismo no mês da herança judaica
 date: 2020-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O presidente americano denunciou os ataques anti-semitas, dizendo que "o ódio é intolerável e não tem lugar em nossos corações ou em nossa sociedade".
 

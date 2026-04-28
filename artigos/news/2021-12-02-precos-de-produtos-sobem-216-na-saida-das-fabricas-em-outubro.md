@@ -1,11 +1,12 @@
 ---
-title: "Preços de produtos sobem 2,16% na saída das fábricas em outubro"
+title: Preços de produtos sobem 2,16% na saída das fábricas em outubro
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa é superior ao 0,25% de setembro deste ano, diz IBGE.
 

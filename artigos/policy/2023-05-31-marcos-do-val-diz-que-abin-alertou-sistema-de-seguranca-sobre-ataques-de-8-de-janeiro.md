@@ -1,11 +1,13 @@
 ---
-title: "Marcos do Val diz que Abin alertou sistema de segurança sobre ataques de 8 de janeiro"
+title: Marcos do Val diz que Abin alertou sistema de segurança sobre ataques de 8
+  de janeiro
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) afirmou em Plenário na terça-feira (30) ter tido acesso ao relatório produzido pela Agência Brasileira de Inteligência (Abin), no qual são transcritas, em ordem cronológica, mensagens de alerta enviadas entre os dias 2 e 8 de janeiro para as instituições do Sistema Brasileiro de Inteligência (Sisbin). O sistema é composto por 48 órgãos, entre eles ministérios e instituições federais de áreas como segurança, Forças Armadas, saúde, transportes, telecomunicações, fazenda e meio ambiente.
 

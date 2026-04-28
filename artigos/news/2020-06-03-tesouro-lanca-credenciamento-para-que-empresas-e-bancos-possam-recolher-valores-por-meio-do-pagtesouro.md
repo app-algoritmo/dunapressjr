@@ -1,11 +1,13 @@
 ---
-title: "Tesouro lança credenciamento para que empresas e bancos possam recolher valores por meio do PagTesouro"
+title: Tesouro lança credenciamento para que empresas e bancos possam recolher valores
+  por meio do PagTesouro
 date: 2020-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tesouro Nacional publicou nesta terça-feira (02/06) [o edital de credenciamento](http://tesouro.gov.br/pt/credenciamento) para que as empresas Provedoras de Serviços de Pagamento possam realizar a prestação de serviço online de recolhimento de valores em favor de Órgãos e Entidades Públicas Federais à Conta Única do Tesouro Nacional, por meio da ferramenta PagTesouro.
 

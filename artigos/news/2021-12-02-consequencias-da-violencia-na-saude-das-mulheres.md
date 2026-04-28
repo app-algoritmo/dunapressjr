@@ -1,11 +1,12 @@
 ---
-title: "Consequências da violência na saúde das mulheres"
+title: Consequências da violência na saúde das mulheres
 date: 2021-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 125 países possuem leis específicas de proteção à mulher, sendo que a legislação brasileira ([**Lei Maria da Penha**](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)) é considerada uma das três mais avançadas do mundo. Apesar do avanço legislativo, o Brasil é o 7º país, em uma lista de 84, com o maior número de homicídios de mulheres ([**Mapa da Violência 2012**](https://flacso.org.br/files/2020/03/mapa2012_cor.pdf)).
 

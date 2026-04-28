@@ -1,11 +1,13 @@
 ---
-title: "Lançado pelo Mec Plano de Integridade para promover gestão pública ética e responsável"
+title: Lançado pelo Mec Plano de Integridade para promover gestão pública ética e
+  responsável
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas como capacitação e reorganização da estrutura de cargos e regimentos são parte do plano.
 

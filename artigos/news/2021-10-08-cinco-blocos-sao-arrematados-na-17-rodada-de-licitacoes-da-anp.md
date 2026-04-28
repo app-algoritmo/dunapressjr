@@ -1,11 +1,12 @@
 ---
-title: "Cinco blocos são arrematados na 17ª Rodada de Licitações da ANP"
+title: Cinco blocos são arrematados na 17ª Rodada de Licitações da ANP
 date: 2021-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bônus arrecadado totaliza R$ 37 milhões.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estados Unidos mantêm Cuba na lista de países que não colaboram na luta contra o terrorismo"
+title: Estados Unidos mantêm Cuba na lista de países que não colaboram na luta contra
+  o terrorismo
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Decisão gera críticas do presidente cubano e aumenta tensões diplomáticas entre os dois países.
 

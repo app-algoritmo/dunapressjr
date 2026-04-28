@@ -1,11 +1,13 @@
 ---
-title: "Desenvolvido no Brasil, equipamento usa água e eletricidade para eliminar corona e outros vírus de superfícies"
+title: Desenvolvido no Brasil, equipamento usa água e eletricidade para eliminar corona
+  e outros vírus de superfícies
 date: 2021-08-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores, médicos e empresários do Paraná criam solução com 99,9% de eficácia contra fungos, bactérias e vírus.
 

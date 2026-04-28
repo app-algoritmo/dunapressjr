@@ -1,11 +1,12 @@
 ---
-title: "PF efetua prisão de suspeito de praticar crime sexual"
+title: PF efetua prisão de suspeito de praticar crime sexual
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dionísio Cerqueira/SC - Nesta sexta-feira, 5/6, a Polícia Federal deu cumprimento a mandados de prisão preventiva e de busca e apreensão, expedidos pelo Juízo Federal de Chapecó/SC, em desfavor de um homem residente em São Miguel do Oeste/SC, tendo em vista indícios da prática de crime sexual contra pessoa vulnerável.
 

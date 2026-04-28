@@ -1,11 +1,12 @@
 ---
-title: "Índice de Operação de Governança do Ministério da Economia supera a meta prevista"
+title: Índice de Operação de Governança do Ministério da Economia supera a meta prevista
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa criado pelo ME estabeleceu comitês temáticos e um índice para monitorá-los, fazendo com que decisões sejam tomadas de forma mais rápida, com melhores resultados.
 

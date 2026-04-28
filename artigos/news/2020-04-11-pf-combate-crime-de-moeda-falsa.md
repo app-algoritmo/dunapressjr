@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de moeda falsa"
+title: PF combate crime de moeda falsa
 date: 2020-04-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na quinta-feira (9/4), em Três Marias/MG, a Polícia Federal prendeu, com apoio das Polícias Civil e Militar de Minas Gerais, um homem pelo crime de moeda falsa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil terá mais 100 leilões de ativos até fim do ano, diz ministro"
+title: Brasil terá mais 100 leilões de ativos até fim do ano, diz ministro
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Portfólio atraente põe o país na mira de investidores.
 

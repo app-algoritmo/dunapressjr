@@ -1,11 +1,13 @@
 ---
-title: "Capacitação para profissionais de saúde militares reinicia nesta terça-feira (19)"
+title: Capacitação para profissionais de saúde militares reinicia nesta terça-feira
+  (19)
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O segundo treinamento para profissionais de saúde militares que tratam de pacientes com o novo coronavírus inicia nesta terça-feira (19). A capacitação ocorre em unidades de saúde militares de três regiões do País. A iniciativa da Secretaria de Pessoal, Ensino, Saúde e Desportos (SEPESD), do Ministério da Defesa, possibilita que fisioterapeutas, enfermeiros e médicos possam atuar, se necessário, em Unidades de Tratamento Intensivo (UTIs) dos hospitais em que trabalham.
 

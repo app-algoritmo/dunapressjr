@@ -1,11 +1,12 @@
 ---
-title: "DATAPREV: Cerca de 51,4 milhões de cidadãos foram cadastrados no CadÚnico"
+title: 'DATAPREV: Cerca de 51,4 milhões de cidadãos foram cadastrados no CadÚnico'
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Empresa de Tecnologia e Informações da Previdência ( Dataprev ) informou que até o dia 12, dois sistemas de conferência de informações para realizar a indicação dos beneficiários do auxílio emergencial, anunciado pelo Governo Federal. O cruzamento de dados habilitou 51,4 milhões de brasileiros do CadÚnico (grupos 2 e 3). O número representa 70% dos inscritos no programa de transferência de renda. 
 

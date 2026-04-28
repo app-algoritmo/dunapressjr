@@ -1,11 +1,12 @@
 ---
-title: "Desarmamento e genocídios"
+title: Desarmamento e genocídios
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Genocídios acontecem. Mas não há genocídio quando os alvos estão armados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Arthur Lira cobra ajuda do governo federal no caso da Braskem"
+title: Arthur Lira cobra ajuda do governo federal no caso da Braskem
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A área da mina 18, que ameaça colapsar, já foi desocupada; pelo menos 50 mil pessoas foram afetadas.
 

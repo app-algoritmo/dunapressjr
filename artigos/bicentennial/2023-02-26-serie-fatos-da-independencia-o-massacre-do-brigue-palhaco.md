@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O massacre do Brigue Palhaço"
+title: 'Série Fatos Da Independência: O massacre do Brigue Palhaço'
 date: 2023-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Com o fracasso de Grenfell em manter a ordem na província, os levantes passaram a eclodir por toda a região, principalmente em Belém. Para evitar essa situação, o inglês solicitou, sem sucesso, que Lord Cochrane apoiasse o Grão-Pará para não cair nas mãos de negros e indígenas rebelados. Em outubro de 1823, uma grande agitação, composta majoritariamente por negros e Tapuios das tropas de linha, tomou conta de Belém. Nesse momento, reivindicações contra o apoio ao movimento de Independência e a favor de um governo popular inundavam as ruas locais. Para controlar a situação, a Junta de Governo agiu rapidamente para desarmar e prender os rebeldes. Entretanto, as prisões locais não podiam conter o elevado número de 256 presos e, também, havia o medo de que os homens designados para vigiá-los pudessem aderir ao movimento. Por esse motivo, foi solicitado a Grenfell que cuidasse pessoalmente das instalações desses revoltosos.
 

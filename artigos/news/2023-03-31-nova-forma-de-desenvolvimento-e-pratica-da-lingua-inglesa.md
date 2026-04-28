@@ -1,11 +1,12 @@
 ---
-title: "Nova forma de desenvolvimento e prática da língua inglesa"
+title: Nova forma de desenvolvimento e prática da língua inglesa
 date: 2023-03-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 Imersão em inglês: Fazenda Faraó oferece nova forma de desenvolvimento e prática da língua inglesa
 

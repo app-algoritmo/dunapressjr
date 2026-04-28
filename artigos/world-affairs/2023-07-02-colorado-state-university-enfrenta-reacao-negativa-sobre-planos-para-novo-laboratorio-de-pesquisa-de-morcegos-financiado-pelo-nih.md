@@ -1,11 +1,13 @@
 ---
-title: "Colorado State University enfrenta reação negativa sobre planos para novo laboratório de pesquisa de morcegos financiado pelo NIH"
+title: Colorado State University enfrenta reação negativa sobre planos para novo laboratório
+  de pesquisa de morcegos financiado pelo NIH
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [*A Colorado State University*](https://www.colostate.edu/)  (CSU) enfrenta [ protestos públicos e acusações de obstruir](https://www.technocracy.news/plan-to-build-nih-funded-bat-research-lab-in-colorado-sparks-fears-of-lab-leak/)  seus planos de construir uma novainstalação de pesquisa de morcegos financiada pelo* National Institutes of Health (NIH) em 2024.*
 

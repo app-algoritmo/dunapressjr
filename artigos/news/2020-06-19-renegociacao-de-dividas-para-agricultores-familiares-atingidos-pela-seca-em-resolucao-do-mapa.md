@@ -1,11 +1,13 @@
 ---
-title: "Renegociação de dívidas para agricultores familiares atingidos pela seca em resolução do Mapa"
+title: Renegociação de dívidas para agricultores familiares atingidos pela seca em
+  resolução do Mapa
 date: 2020-06-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O ato normativo também altera as regras para contratação das operações de crédito no âmbito do Terra Brasil.
 

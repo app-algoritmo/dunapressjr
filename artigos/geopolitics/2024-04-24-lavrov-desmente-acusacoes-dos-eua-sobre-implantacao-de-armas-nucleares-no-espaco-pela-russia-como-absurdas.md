@@ -1,11 +1,13 @@
 ---
-title: "Lavrov Desmente Acusações dos EUA sobre Implantação de Armas Nucleares no Espaço pela Rússia como 'Absurdas'"
+title: Lavrov Desmente Acusações dos EUA sobre Implantação de Armas Nucleares no Espaço
+  pela Rússia como 'Absurdas'
 date: 2024-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores russo, Sergey Lavrov, rejeitou veementemente as acusações dos Estados Unidos de que a Rússia estaria implantando armas nucleares no espaço exterior, classificando tais alegações como absurdas e divorciadas da realidade. Em sua intervenção na Conferência de Não-Proliferação de Moscou, Lavrov declarou que tais ataques anti-Rússia atingiram um ponto de absurdo, descrevendo as acusações como infundadas e destinadas a desacreditar as atividades espaciais russas.
 

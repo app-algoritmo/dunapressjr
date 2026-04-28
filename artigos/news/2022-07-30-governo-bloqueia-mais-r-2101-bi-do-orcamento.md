@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia mais R$ 2,101 bi do Orçamento"
+title: Governo bloqueia mais R$ 2,101 bi do Orçamento
 date: 2022-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contingenciamento total em 2022 atinge R$ 14,838 bi.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ecoalfabetização: vínculo emocional com a natureza desenvolve consciência ambiental desde bem cedo"
+title: 'Ecoalfabetização: vínculo emocional com a natureza desenvolve consciência
+  ambiental desde bem cedo'
 date: 2021-06-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Desemparedar a infância e religar as crianças com a natureza são as propostas coerentes com a  “ecoalfabetização”, que tem sido inserida na composição curricular da Educação Infantil de muitas escolas brasileiras. Estudos comprovam que o contato com a natureza previne o estresse e melhora sintomas de depressão, ansiedade e déficit de atenção. Também foi descoberto que os micróbios do solo estimulam o sentimento de felicidade. Os benefícios para a saúde da criança ainda incluem a formação de cidadãos ecologicamente responsáveis e conscientes, se relacionando com outras áreas amplamente desenvolvidas no ambiente escolar.
 

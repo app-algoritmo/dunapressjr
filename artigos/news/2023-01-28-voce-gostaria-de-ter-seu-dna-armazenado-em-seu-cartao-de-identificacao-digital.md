@@ -1,11 +1,12 @@
 ---
-title: "Você gostaria de ter seu DNA armazenado em seu cartão de identificação digital?"
+title: Você gostaria de ter seu DNA armazenado em seu cartão de identificação digital?
 date: 2023-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Codificação de DNA em sua identidade digital – em breve em casa também? Se você não gostar, os militares podem colocar o DNA em sua identidade digital, sob sua pele.
 

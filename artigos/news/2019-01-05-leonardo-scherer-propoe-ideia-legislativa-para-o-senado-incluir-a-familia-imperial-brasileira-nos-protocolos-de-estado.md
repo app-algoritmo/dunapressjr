@@ -1,11 +1,13 @@
 ---
-title: "Leonardo Scherer propõe ideia legislativa para o senado: “Incluir a Família Imperial Brasileira nos protocolos de Estado”"
+title: 'Leonardo Scherer propõe ideia legislativa para o senado: “Incluir a Família
+  Imperial Brasileira nos protocolos de Estado”'
 date: 2019-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Incluir a Família Imperial Brasileira (Ramo de Vassouras) nos protocolos de Estado, incluindo-os nas visitas de Chefes de Estado e outras formalidades estatais. Dar-lhes o direito à representatividade política, histórica e diplomáticas.
 

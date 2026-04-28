@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal incinera mais de 8 toneladas de drogas"
+title: Polícia Federal incinera mais de 8 toneladas de drogas
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR - Nesta segunda-feira (20/4), a Polícia Federal realizou a segunda incineração de drogas deste ano de 2020, em Guaíra.
 

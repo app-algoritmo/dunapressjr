@@ -1,11 +1,13 @@
 ---
-title: "Além dos pratos vegetarianos: cogumelo ganha status de ingrediente principal no cardápio"
+title: 'Além dos pratos vegetarianos: cogumelo ganha status de ingrediente principal
+  no cardápio'
 date: 2021-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## Consumidores descobrem novas variedades e benefícios do alimento e produção cresce em colônias holandesas no Brasil.
 

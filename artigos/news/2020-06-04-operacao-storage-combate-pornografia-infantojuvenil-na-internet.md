@@ -1,11 +1,12 @@
 ---
-title: "Operação Storage combate pornografia infantojuvenil na internet"
+title: Operação Storage combate pornografia infantojuvenil na internet
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Polícia Federal deflagrou, na manhã desta quinta-feira (4/6), a Operação Storage, visando combater a difusão de pornografia infantojuvenil através da Internet, no Rio Grande do Norte. Aproximadamente 35 policiais estão cumprindo 7 mandados de busca e apreensão, expedidos pela Justiça Federal nas cidades de Natal/RN (5), Extremoz/RN (1) e Mossoró/RN (1).
 

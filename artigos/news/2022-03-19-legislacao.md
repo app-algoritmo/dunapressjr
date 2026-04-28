@@ -1,12 +1,13 @@
 ---
-title: "LegislAção"
+title: LegislAção
 date: 2022-03-19
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 **EDIÇÃO: 19/03/2022**
 

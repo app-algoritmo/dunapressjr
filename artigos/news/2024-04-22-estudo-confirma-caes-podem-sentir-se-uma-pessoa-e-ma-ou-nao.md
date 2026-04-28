@@ -1,12 +1,13 @@
 ---
-title: "Estudo confirma: cães podem sentir se uma pessoa é má ou não"
+title: 'Estudo confirma: cães podem sentir se uma pessoa é má ou não'
 date: 2024-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Como todos os donos de cães sabem, esses animais, além de amorosos e cuidadosos, também são extremamente inteligentes. Eles têm um grande nível de percepção social, tanto com humanos quanto com outros cães.
 

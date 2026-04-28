@@ -1,11 +1,12 @@
 ---
-title: "Deputado propõe conscientização sobre bem-estar animal na educação básica"
+title: Deputado propõe conscientização sobre bem-estar animal na educação básica
 date: 2021-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A inclusão como tema transversal na grade curricular da educação básica se reverterá em inúmeros benefícios de ordem social e econômica."
 

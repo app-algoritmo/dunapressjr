@@ -1,11 +1,12 @@
 ---
-title: "Custo da guerra: saiba quanto a indústria militar movimenta no mundo"
+title: 'Custo da guerra: saiba quanto a indústria militar movimenta no mundo'
 date: 2023-12-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Enquanto o mundo deseja a paz, a indústria militar prospera; uma análise do impacto econômico e político das operações militares e seu papel no PIB e financiamento político.
 

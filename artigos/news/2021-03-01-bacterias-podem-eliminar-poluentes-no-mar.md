@@ -1,11 +1,12 @@
 ---
-title: "Bactérias podem eliminar poluentes no mar"
+title: Bactérias podem eliminar poluentes no mar
 date: 2021-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisa desenvolvida pelo Departamento de Biologia Celular e Genética da Universidade Federal do Rio Grande do Norte (UFRN) quer usar a biotecnologia para promover a biodegradação de hidrocarbonetos, como petróleo, gasolina, diesel e querosene, existentes no litoral brasileiro. Financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), no [e](https://www.gov.br/capes/pt-br/centrais-de-conteudo/22112019_EDITAL_26_2019_CAPES_ENTRE_MARES_SITE.pdf)[dital](https://www.gov.br/capes/pt-br/centrais-de-conteudo/22112019_EDITAL_26_2019_CAPES_ENTRE_MARES_SITE.pdf) [Entre-Mares](https://www1.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/capes-entre-mares), a meta do trabalho é identificar microrganismos capazes de eliminar agentes poluentes na terra ou no mar a partir do uso de bactérias. 
 

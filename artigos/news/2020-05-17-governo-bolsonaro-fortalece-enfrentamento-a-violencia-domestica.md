@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro fortalece enfrentamento à violência doméstica"
+title: Governo Bolsonaro fortalece enfrentamento à violência doméstica
 date: 2020-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Federal, por meio entre o Ministério da Cidadania e o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), lançou, nesta sexta-feira (15), Dia Internacional da Família, a Campanha de Conscientização e Enfrentamento à Violência Doméstica.
 

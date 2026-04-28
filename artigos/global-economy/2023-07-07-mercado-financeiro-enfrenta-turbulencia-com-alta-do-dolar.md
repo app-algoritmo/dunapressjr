@@ -1,11 +1,12 @@
 ---
-title: "Mercado Financeiro enfrenta turbulência com alta do dólar"
+title: Mercado Financeiro enfrenta turbulência com alta do dólar
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores registra queda durante negociações da reforma tributária.
 

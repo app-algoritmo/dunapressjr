@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val condena vazamento de arquivos pessoais na imprensa"
+title: Marcos do Val condena vazamento de arquivos pessoais na imprensa
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O senador Marcos do Val (Podemos-ES) afirmou estar sofrendo uma "censura velada” e tendo sua vida pessoal "devassada" após ter sido "injustamente" incluído no inquérito que investiga os atos de vandalismo contra as sedes dos três Poderes em 8 de janeiro. Em pronunciamento nesta terça-feira (5), o parlamentar criticou a inserção de seus arquivos, imagens e conversas pessoais no inquérito. 
 

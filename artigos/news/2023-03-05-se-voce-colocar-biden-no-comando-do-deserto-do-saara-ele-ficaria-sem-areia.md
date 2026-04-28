@@ -1,11 +1,12 @@
 ---
-title: "'Se você colocar Biden no comando do deserto do Saara, ele ficaria sem areia!'"
+title: '''Se você colocar Biden no comando do deserto do Saara, ele ficaria sem areia!'''
 date: 2023-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O senador John Kennedy falou na frente do CPAC 0223 na quinta-feira e mais uma vez lembrou a todos porque ele é um tesouro nacional.
 

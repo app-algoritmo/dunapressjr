@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia aumento de preço da Gasolina para as distribuidoras"
+title: Petrobras anuncia aumento de preço da Gasolina para as distribuidoras
 date: 2023-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O aumento será de R$ 0,23 por litro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Safra nacional de cereais, leguminosas e oleaginosas atinge novo recorde em 2023"
+title: Safra nacional de cereais, leguminosas e oleaginosas atinge novo recorde em
+  2023
 date: 2023-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativas do IBGE indicam aumento de 14,8% em relação a 2022, com a produção total alcançando 302,1 milhões de toneladas.
 

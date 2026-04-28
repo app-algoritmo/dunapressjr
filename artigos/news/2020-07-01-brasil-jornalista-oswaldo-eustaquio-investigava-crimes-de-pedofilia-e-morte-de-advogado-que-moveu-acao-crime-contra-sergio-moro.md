@@ -1,11 +1,13 @@
 ---
-title: "Brasil: Jornalista Oswaldo Eustáquio investigava crimes de pedofilia e morte de advogado que moveu ação crime contra Sérgio Moro"
+title: 'Brasil: Jornalista Oswaldo Eustáquio investigava crimes de pedofilia e morte
+  de advogado que moveu ação crime contra Sérgio Moro'
 date: 2020-07-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## **Supremo Tribunal no Brasil promove censura e retrocesso**.
 

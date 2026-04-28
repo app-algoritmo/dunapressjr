@@ -1,11 +1,13 @@
 ---
-title: "Caixa Econômica Federal divulga Versão 17 do Manual de Orientações Recolhimentos Mensais e Rescisórios ao FGTS e das Contribuições Sociais"
+title: Caixa Econômica Federal divulga Versão 17 do Manual de Orientações Recolhimentos
+  Mensais e Rescisórios ao FGTS e das Contribuições Sociais
 date: 2023-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O manual atualizado fornece instruções para os procedimentos de arrecadação do FGTS.
 

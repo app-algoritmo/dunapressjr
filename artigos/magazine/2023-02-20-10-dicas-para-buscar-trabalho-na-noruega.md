@@ -1,11 +1,12 @@
 ---
-title: "10 dicas para buscar trabalho na Noruega"
+title: 10 dicas para buscar trabalho na Noruega
 date: 2023-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Aqui estão algumas dicas importantes para quem está buscando trabalho na Noruega:
 

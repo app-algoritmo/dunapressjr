@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque:￼ Celso Monteiro Furtado"
+title: Série Brasileiros em Destaque:￼ Celso Monteiro Furtado
 date: 2022-07-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Celso Monteiro Furtado, nasceu aos 26 de julho de 1920, em Pombal (Paraíba), filho de Maurício Medeiros Furtado e Maria Alice Monteiro Furtado. Em 1944, formou-se em Direito. Aos sete anos, mudou-se com a família para João Pessoa, onde estudou no Liceu Paraibano. Completou os estudos no Ginásio Pernambucano, em Recife. Cursou Direito (1939-1944) na Faculdade Nacional de Direito da Universidade Federal do Rio de Janeiro.
 

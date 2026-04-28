@@ -1,11 +1,13 @@
 ---
-title: "Assistidos do Pequeno Cotolengo almoçam no Anarco Restaurante para celebrar a Restaurant Week"
+title: Assistidos do Pequeno Cotolengo almoçam no Anarco Restaurante para celebrar
+  a Restaurant Week
 date: 2023-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Tradicional evento gastronômico acontece até dia 18 de junho.
 

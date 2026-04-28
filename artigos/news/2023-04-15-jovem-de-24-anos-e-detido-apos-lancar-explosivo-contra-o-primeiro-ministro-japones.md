@@ -1,11 +1,13 @@
 ---
-title: "Jovem de 24 anos é detido após lançar explosivo contra o primeiro-ministro japonês"
+title: Jovem de 24 anos é detido após lançar explosivo contra o primeiro-ministro
+  japonês
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Um policial teria sofrido ferimentos leves após o ataque.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal prorroga prazo para transmissão da Escrituração Contábil Digital"
+title: Receita Federal prorroga prazo para transmissão da Escrituração Contábil Digital
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa aprimorar calendário de obrigações acessórias e promover ambiente favorável aos contribuintes.
 

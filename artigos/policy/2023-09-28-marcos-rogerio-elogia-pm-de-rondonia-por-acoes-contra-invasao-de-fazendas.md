@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério elogia PM de Rondônia por ações contra invasão de fazendas"
+title: Marcos Rogério elogia PM de Rondônia por ações contra invasão de fazendas
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) elogiou, em pronunciamento na terça-feira (26), o trabalho da Polícia Militar de Rondônia ao prender invasores de fazendas. O parlamentar afirmou que o estado viveu um surto de ocupações ao longo dos últimos anos e que o movimento foi retomado em 2023. Segundo Marcos Rogério, a rápida resposta da PM impediu, recentemente, a invasão de uma fazenda de pescado em Theobroma, na região central do estado.
 

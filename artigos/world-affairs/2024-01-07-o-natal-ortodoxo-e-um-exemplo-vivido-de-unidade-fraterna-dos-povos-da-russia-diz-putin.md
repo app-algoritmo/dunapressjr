@@ -1,11 +1,13 @@
 ---
-title: "O Natal Ortodoxo é um exemplo vívido de unidade fraterna dos povos da Rússia, diz Putin"
+title: O Natal Ortodoxo é um exemplo vívido de unidade fraterna dos povos da Rússia,
+  diz Putin
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Podemos dizer sem qualquer exagero que este feriado é caracterizado por uma unidade fraterna distinta dos povos da Rússia”, disse Putin.
 

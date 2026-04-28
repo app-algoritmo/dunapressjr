@@ -1,11 +1,12 @@
 ---
-title: "Instituições portuguesas passam a aceitar os resultados do Enem"
+title: Instituições portuguesas passam a aceitar os resultados do Enem
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A lista de instituições de ensino superior portuguesas que aceitam o Exame Nacional de Ensino Médio (Enem) cresceu. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) firmou, na última sexta-feira (13), acordo com o Instituto Politécnico de Viana do Castelo (IPVC), localizado no norte de Portugal. Agora, 49 instituições portuguesas passam a aceitar os resultados do Enem para acesso à educação superior.
 

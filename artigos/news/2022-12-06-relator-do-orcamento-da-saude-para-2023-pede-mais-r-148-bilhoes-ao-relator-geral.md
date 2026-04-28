@@ -1,11 +1,12 @@
 ---
-title: "Relator do orçamento da Saúde para 2023 pede mais R$ 14,8 bilhões ao relator-geral"
+title: Relator do orçamento da Saúde para 2023 pede mais R$ 14,8 bilhões ao relator-geral
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O senador Confúcio Moura (MDB-RO) entregou o relatório setorial da área da Saúde para o Orçamento de 2023 ([PLN 32/22](https://www.camara.leg.br/noticias/906580-orcamento-de-2023-traz-auxilio-brasil-de-r-405)) com um pedido de mais R$ 14,8 bilhões ao relator-geral, senador Marcelo Castro (MDB-PI). O recurso seria necessário para atender o piso constitucional mínimo da Saúde (R$ 149,9 bilhões) e para cobrir carências em várias ações como Serviço de Atendimento Móvel de Emergência (Samu), tratamento de câncer e programa Farmácia Popular.
 

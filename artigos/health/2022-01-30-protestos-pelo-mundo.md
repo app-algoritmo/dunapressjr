@@ -1,11 +1,12 @@
 ---
-title: "Protestos pelo mundo"
+title: Protestos pelo mundo
 date: 2022-01-30
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **Você sabe a diferença entre MANIFESTAÇÃO e PROTESTO? Ensine a seus queridos!**
 

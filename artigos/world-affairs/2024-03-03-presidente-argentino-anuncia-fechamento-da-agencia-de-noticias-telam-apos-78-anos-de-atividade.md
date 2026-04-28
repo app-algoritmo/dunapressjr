@@ -1,11 +1,13 @@
 ---
-title: "Presidente argentino anuncia fechamento da agência de notícias Télam após 78 anos de atividade"
+title: Presidente argentino anuncia fechamento da agência de notícias Télam após 78
+  anos de atividade
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente argentino, Javier Milei, enviou ondas de choque pela comunidade política ao anunciar na Assembleia Legislativa o fechamento iminente da agência pública de notícias Télam. Fundada há 78 anos com a missão de difundir informações de forma federal e pluralista em todo o país, a Télam tornou-se alvo de críticas devido à sua suposta utilização como veículo de propaganda durante décadas, uma alegação ecoada por figuras proeminentes como o ex-secretário de Comunicação Social Pública, Hernán Lombardi.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aldeias indígenas do Maranhão recebem 5 mil cestas de alimentos"
+title: Aldeias indígenas do Maranhão recebem 5 mil cestas de alimentos
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na cidade de Imperatriz (MA), indígenas da região receberam, nesta sexta-feira (17), cerca de cinco mil cestas de alimentos. A entrega das doações foi feita pela ministra Damares Alves, do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 

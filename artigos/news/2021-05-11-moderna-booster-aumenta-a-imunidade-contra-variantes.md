@@ -1,11 +1,12 @@
 ---
-title: "Moderna booster aumenta a imunidade contra variantes"
+title: Moderna booster aumenta a imunidade contra variantes
 date: 2021-05-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Moderna diz que os primeiros dados de testes mostram que a terceira dose de sua injeção COVID-19 aumenta a imunidade contra variantes brasileiras e sul-africanas.
 

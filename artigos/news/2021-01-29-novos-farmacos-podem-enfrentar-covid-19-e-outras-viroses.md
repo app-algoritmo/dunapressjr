@@ -1,11 +1,12 @@
 ---
-title: "Novos fármacos podem enfrentar COVID-19 e outras viroses"
+title: Novos fármacos podem enfrentar COVID-19 e outras viroses
 date: 2021-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Buscar a geração de novos antivirais para enfrentar a COVID-19 e outras viroses, sob uma abordagem multidisciplinar. Essa foi a proposta da Universidade Federal da Paraíba (UFPB) aprovada no Edital nº11/2020 do Programa de Combate a Epidemias, uma iniciativa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC).
 

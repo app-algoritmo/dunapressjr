@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova novo marco do saneamento"
+title: Senado aprova novo marco do saneamento
 date: 2020-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Projeto prevê maior participação da iniciativa privada.
 

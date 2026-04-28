@@ -1,11 +1,12 @@
 ---
-title: "Saiba como funciona a Doação de leite humano"
+title: Saiba como funciona a Doação de leite humano
 date: 2022-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A produção excessiva de leite materno está entre os relatos mais frequentes de mamas cheias, feitas pelas doadoras de leite humano. As mamas ficam tão cheias de leite a ponto de a mãe sentir desconforto entre as mamadas. Neste caso, algumas mães optam por ajudar a salvar vidas com o leite não consumido pelo seu bebê.
 

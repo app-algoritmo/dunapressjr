@@ -1,11 +1,13 @@
 ---
-title: "Ucrânia Recebe US$ 74 Bilhões de Financiamento Ocidental em 2022-2023, Revela Primeiro-Ministro"
+title: Ucrânia Recebe US$ 74 Bilhões de Financiamento Ocidental em 2022-2023, Revela
+  Primeiro-Ministro
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades ucranianas revelaram que, nos anos de 2022 e 2023, o país recebeu um total impressionante de 74 bilhões de dólares em financiamento externo dos países ocidentais, conforme anunciado pelo primeiro-ministro ucraniano, Denis Shmygal, em seu canal no Telegram.
 

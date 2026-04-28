@@ -1,12 +1,13 @@
 ---
-title: "Oportunidade para estudantes entre 7 e 14 anos"
+title: Oportunidade para estudantes entre 7 e 14 anos
 date: 2022-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 ## Iniciou-se no dia 30 de abril as inscrições para o [prêmio Sócios-Mirins AEITA 2022](https://www.sociosmirins.com). O projeto é focado em crianças de faixa etária entre os 7 e 14 anos, completados em 2022.
 

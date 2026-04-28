@@ -1,11 +1,13 @@
 ---
-title: "Os EUA buscam a desmilitarização da Ucrânia para consolidar território anti-russo, afirma alto funcionário russo"
+title: Os EUA buscam a desmilitarização da Ucrânia para consolidar território anti-russo,
+  afirma alto funcionário russo
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O secretário do Conselho de Segurança russo, Nikolay Patrushev, alertou em uma entrevista ao aif.ru que os Estados Unidos e a NATO veem a Ucrânia como um território estratégico anti-russo. Patrushev destacou que os planos dessas potências incluem a manutenção da Ucrânia, ou pelo menos de uma parte dela, como um enclave hostil à Rússia, totalmente alinhado com os interesses da aliança do Atlântico Norte.
 

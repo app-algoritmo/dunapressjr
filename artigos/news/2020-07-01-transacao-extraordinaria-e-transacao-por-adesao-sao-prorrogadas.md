@@ -1,11 +1,12 @@
 ---
-title: "Transação extraordinária e transação por adesão são prorrogadas"
+title: Transação extraordinária e transação por adesão são prorrogadas
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Contribuintes terão até 31 de julho para optar por essas modalidades de negociação.
 

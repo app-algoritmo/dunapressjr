@@ -1,11 +1,12 @@
 ---
-title: "TCU aprova regras do leilão da cessão onerosa e traz segurança jurídica"
+title: TCU aprova regras do leilão da cessão onerosa e traz segurança jurídica
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Por unanimidade, os ministros do Tribunal de Contas da União
 (TCU) aprovaram, nesta quarta-feira, as regras do megaleilão de áreas

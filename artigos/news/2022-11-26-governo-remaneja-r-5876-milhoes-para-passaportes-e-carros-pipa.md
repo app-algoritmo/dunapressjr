@@ -1,11 +1,12 @@
 ---
-title: "Governo remaneja R$ 58,76 milhões para passaportes e carros-pipa"
+title: Governo remaneja R$ 58,76 milhões para passaportes e carros-pipa
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Recursos são do fundo de desenvolvimento científico.
 

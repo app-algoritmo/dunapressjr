@@ -1,11 +1,12 @@
 ---
-title: "Vergonha para a América Latina"
+title: Vergonha para a América Latina
 date: 2024-07-31
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 As eleições na Venezuela, no último domingo, só confirmaram o que nós já sabíamos. Maduro não vai deixar o poder, mesmo ilegitimamente tomado à força e por fraude. Dois dias antes o governo havia fechado todas as fronteiras, inclusive com o Brasil, para impedir que refugiados de seu regime, caracterizado por prisão e morte de oposicionistas, pudessem votar. A vitória de Edmundo Gonzalez, candidato da oposição,era dada como certa por todos os institutos de pesquisa, mesmo os chamados “chapa branca”.
 

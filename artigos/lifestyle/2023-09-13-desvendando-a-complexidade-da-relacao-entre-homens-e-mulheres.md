@@ -1,12 +1,13 @@
 ---
-title: "Desvendando a Complexidade da Relação entre Homens e Mulheres"
+title: Desvendando a Complexidade da Relação entre Homens e Mulheres
 date: 2023-09-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
-  - Video library
+- Lifestyle
+- Video library
 ---
+
 
 Neste vídeo, a autora explora a intrincada dinâmica entre homens e mulheres, com base em uma poderosa reflexão apresentada. O vídeo inicia com uma afirmação enfática de que o objetivo não é destruir ou acabar com as mulheres, mas sim conduzi-las a uma visão mais profunda da situação em que se encontram. Além disso, destaca a importância de os homens assumirem o lugar designado por Deus para eles.
 

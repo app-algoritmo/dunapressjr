@@ -1,11 +1,12 @@
 ---
-title: "Qual o papel de uma alimentação adequada e saudável durante a pandemia de COVID?"
+title: Qual o papel de uma alimentação adequada e saudável durante a pandemia de COVID?
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A escolha correta dos alimentos pode contribuir para a manutenção e recuperação da sua saúde. 
 

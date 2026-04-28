@@ -1,11 +1,13 @@
 ---
-title: "Rocky Spirit: cinema ao livre, aulas esportivas e shows gratuitos no final de semana em São Paulo"
+title: 'Rocky Spirit: cinema ao livre, aulas esportivas e shows gratuitos no final
+  de semana em São Paulo'
 date: 2023-09-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior festival de documentários sobre vida outdoor, meio ambiente e aventura do Brasil exibirá 30 filmes neste sábado (16) e domingo (17), no Parque Villa-Lobos, além de dois shows de música, yoga, slackline e oficina circense.
 

@@ -1,14 +1,16 @@
 ---
-title: "Empreendedores Individuais: O Papel dos Profissionais da Saúde e a Importância da Identidade Digital"
+title: 'Empreendedores Individuais: O Papel dos Profissionais da Saúde e a Importância
+  da Identidade Digital'
 date: 2024-10-10
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Business and Economy
-  - Entrepreneurship
-  - Personal Development
-  - Professions
+- Business and Economy
+- Entrepreneurship
+- Personal Development
+- Professions
 ---
+
 
 O empreendedor individual, também conhecido como profissional autônomo ou freelancer, desempenha um papel significativo na economia de diversos países. Sua atuação pode abranger uma ampla gama de atividades, desde serviços profissionais especializados até comércio e atividades criativas. Este artigo explora as principais áreas de atuação desses profissionais, a importância de construir uma identidade digital e como a valorização do empreendedorismo individual varia entre diferentes países. Também serão abordadas as oportunidades para profissionais da saúde que optam por empreender de forma independente.
 

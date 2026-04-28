@@ -1,11 +1,13 @@
 ---
-title: "Indústria de máquinas e equipamentos no Brasil registra recuperação em maio, porém continua em desaceleração"
+title: Indústria de máquinas e equipamentos no Brasil registra recuperação em maio,
+  porém continua em desaceleração
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Receita líquida aumenta 10,6% em relação a abril, mas queda anual de 15,6% aponta continuidade da desaceleração dos investimentos no setor, de acordo com a Abimaq.
 

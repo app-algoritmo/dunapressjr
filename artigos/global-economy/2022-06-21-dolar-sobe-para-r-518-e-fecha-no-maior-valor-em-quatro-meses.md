@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,18 e fecha no maior valor em quatro meses"
+title: Dólar sobe para R$ 5,18 e fecha no maior valor em quatro meses
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa termina estável, apesar de instabilidades na Petrobras.
 

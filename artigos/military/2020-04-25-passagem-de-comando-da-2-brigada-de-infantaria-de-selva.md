@@ -1,11 +1,12 @@
 ---
-title: "Passagem de Comando da 2ª Brigada de Infantaria de Selva"
+title: Passagem de Comando da 2ª Brigada de Infantaria de Selva
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Gabriel da Cachoeira (AM)** – Na manhã do dia 22 de abril, ocorreu a cerimônia de passagem do comando da 2ª Brigada de Infantaria de Selva do General de Brigada DANILO MOTA ALENCAR para o General de  Brigada ALEXANDRE  RIBEIRO DE MENDONÇA.
 

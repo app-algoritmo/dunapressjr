@@ -1,11 +1,12 @@
 ---
-title: "Colômbia em Alerta: Possibilidade de Assembleia Constituinte Gera Controvérsia"
+title: 'Colômbia em Alerta: Possibilidade de Assembleia Constituinte Gera Controvérsia'
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na Colômbia, a possibilidade de o presidente Gustavo Petro convocar uma Assembleia Constituinte através de um decreto de emergência está gerando um intenso debate político. Durante uma conferência de imprensa do partido Mudança Radical, o ex-vice-presidente do país, Germán Vargas Lleras, alertou que o Ministério da Justiça estaria supostamente preparando um decreto para tal convocação, atribuída a Petro.
 

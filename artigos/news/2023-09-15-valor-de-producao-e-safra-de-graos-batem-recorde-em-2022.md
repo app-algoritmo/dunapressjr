@@ -1,11 +1,12 @@
 ---
-title: "Valor de produção e safra de grãos batem recorde em 2022"
+title: Valor de produção e safra de grãos batem recorde em 2022
 date: 2023-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Brasil registra aumento significativo na produção agrícola e destaca-se globalmente.
 

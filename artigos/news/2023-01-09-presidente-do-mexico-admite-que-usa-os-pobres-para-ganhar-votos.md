@@ -1,11 +1,12 @@
 ---
-title: "Presidente do México admite que usa os pobres para ganhar votos"
+title: Presidente do México admite que usa os pobres para ganhar votos
 date: 2023-01-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os setores vulneráveis ​​e despossuídos representam o capital político da esquerda. Se há alguém que admite isso sem rodeios, é o presidente do México, Andrés Manuel López Obrador (AMLO), que em recente discurso à imprensa destacou o papel dos pobres nos processos eleitorais.
 

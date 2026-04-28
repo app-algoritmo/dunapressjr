@@ -1,11 +1,13 @@
 ---
-title: "Afirmações de que o “aquecimento global” causou o derretimento da camada de gelo da Groenlândia são absurdas"
+title: Afirmações de que o “aquecimento global” causou o derretimento da camada de
+  gelo da Groenlândia são absurdas
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 A nova era do “aquecimento global” provocou o retorno de histórias populares sobre o clima sobre o colapso iminente da camada de gelo da Groenlândia. O Daily Mail publicou recentemente a manchete " [Efeitos do aquecimento global](https://www.dailymail.co.uk/sciencetech/article-12364021/The-impact-global-boiling-Shocking-photos-reveal-just-Greenland-Ice-Sheet-melted-hottest-month-recorded-Earth.html) " e afirmou ter fotos "chocantes" mostrando a extensão do derretimento da camada de gelo no "mês mais quente já registrado na Terra". O degelo é superior à média dos anos 1981-2010.
 

@@ -1,11 +1,13 @@
 ---
-title: "Fapesc insere SC em acordo de cooperação científica com a região da Valônia na Bélgica"
+title: Fapesc insere SC em acordo de cooperação científica com a região da Valônia
+  na Bélgica
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O desenvolvimento de pesquisas mais amplas e novas tecnologias depende de parcerias e acordos para troca de conhecimento e busca de investimentos. Para ajudar a comunidade científica catarinense, o presidente da Fundação de Amparo à Pesquisa e Inovação de Santa Catarina (Fapesc), Fábio Zabot Holthausen, e o diretor de Ciência, Tecnologia e Inovação, Amauri Bogo, apresentaram os destaques econômicos catarinenses em reunião com novos parceiros de cooperação da Wallonie-Bruxelles Internacional da Bélgica.
 

@@ -1,11 +1,13 @@
 ---
-title: "Prontidão dos EUA para “negociar seriamente” é a chave para superar o confronto, afirmou diplomata russo"
+title: Prontidão dos EUA para “negociar seriamente” é a chave para superar o confronto,
+  afirmou diplomata russo
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Embora tal reviravolta possa parecer utópica, observou Sergey Ryabkov, é uma condição imperativa para alcançar uma nova estabilidade estratégica.
 

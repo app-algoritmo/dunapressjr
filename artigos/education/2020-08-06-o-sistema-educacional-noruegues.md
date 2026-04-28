@@ -1,11 +1,12 @@
 ---
-title: "O sistema educacional norueguês"
+title: O sistema educacional norueguês
 date: 2020-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 A escolaridade obrigatória na Noruega é de dez anos e as crianças começam a escola aos seis anos de idade. O ensino primário e o ensino secundário inferior na Noruega são baseados no princípio de um sistema escolar unificado que fornece educação igual e adaptada a todos com base em um currículo nacional único.
 

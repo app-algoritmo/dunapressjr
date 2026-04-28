@@ -1,11 +1,12 @@
 ---
-title: "Aprenda como fazer uma horta, seja em casa ou no apartamento"
+title: Aprenda como fazer uma horta, seja em casa ou no apartamento
 date: 2020-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Cultivar o próprio alimento é um incentivo para a alimentação adequada e saudável.
 

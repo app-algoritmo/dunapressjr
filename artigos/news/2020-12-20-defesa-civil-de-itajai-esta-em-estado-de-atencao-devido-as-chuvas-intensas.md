@@ -1,11 +1,12 @@
 ---
-title: "Defesa Civil de Itajaí está em estado de atenção devido às chuvas intensas"
+title: Defesa Civil de Itajaí está em estado de atenção devido às chuvas intensas
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Devido às fortes chuvas nos últimos dias, a Defesa Civil de Itajaí está em estado de atenção, monitorando as condições climáticas e as áreas de encosta do Município. Com o solo encharcado, ainda há risco de deslizamentos. Nesta quinta-feira (17), o tempo segue instável em Itajaí, há risco de novos temporais com rajadas de vento e não se descartam ocorrências de alagamentos em áreas ribeirinhas do Rio Itajaí-Mirim.
 

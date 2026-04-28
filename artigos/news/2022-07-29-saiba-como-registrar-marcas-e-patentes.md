@@ -1,11 +1,12 @@
 ---
-title: "Saiba como registrar marcas e patentes"
+title: Saiba como registrar marcas e patentes
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Interessados podem realizar cadastro no sistema do e-INPI.
 

@@ -1,11 +1,13 @@
 ---
-title: "A Importância do Aprendizado de Outro Idioma na Infância: Expandindo Horizontes desde Cedo"
+title: 'A Importância do Aprendizado de Outro Idioma na Infância: Expandindo Horizontes
+  desde Cedo'
 date: 2024-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Education
+- Education
 ---
+
 
 Vivemos em um mundo cada vez mais interconectado, onde a capacidade de se comunicar em diferentes idiomas tornou-se uma habilidade valiosa e, em muitos casos, essencial. Nesse contexto, o aprendizado de outro idioma na infância não é apenas vantajoso, mas também fundamental para preparar as crianças para os desafios e oportunidades do século XXI. Este artigo explora os diversos benefícios do aprendizado de idiomas na infância e destaca sua importância para o desenvolvimento cognitivo, social e cultural das crianças.
 

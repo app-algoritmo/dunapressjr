@@ -1,11 +1,13 @@
 ---
-title: "A União Europeia de hoje não oferece 'nem paz nem prosperidade', lamenta Orban da Hungria"
+title: A União Europeia de hoje não oferece 'nem paz nem prosperidade', lamenta Orban
+  da Hungria
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Em sua cúpula de dois dias, que começa na quinta-feira, os líderes da UE planejam discutir a tentativa de motim armado na Rússia e o conflito militar na Ucrânia, e o maior apoio do bloco a ele, bem como como explorar legalmente a Rússia congelada ativos
 

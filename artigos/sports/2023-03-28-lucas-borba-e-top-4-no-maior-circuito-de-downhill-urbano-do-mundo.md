@@ -1,11 +1,12 @@
 ---
-title: "Lucas Borba é top 4 no maior circuito de downhill urbano do mundo"
+title: Lucas Borba é top 4 no maior circuito de downhill urbano do mundo
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O biker Lucas Borba colocou o Brasil no Top 5 na "Formula 1" do downhill urbano. O atleta patrocinado pela Shimano terminou o circuito latino-americano Cerro Abajo 2023 na quarta colocação geral, entre alguns dos 30 dos melhores ciclistas do planeta.
 

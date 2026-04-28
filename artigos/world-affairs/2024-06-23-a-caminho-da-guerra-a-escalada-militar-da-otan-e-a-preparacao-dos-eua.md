@@ -1,11 +1,12 @@
 ---
-title: "A Caminho da Guerra: A Escalada Militar da OTAN e a Preparação dos EUA"
+title: 'A Caminho da Guerra: A Escalada Militar da OTAN e a Preparação dos EUA'
 date: 2024-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Aumento da Prontidão Militar da OTAN**.
 

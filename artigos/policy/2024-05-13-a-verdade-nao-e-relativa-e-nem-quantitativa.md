@@ -1,11 +1,12 @@
 ---
-title: "A verdade não é relativa e nem quantitativa"
+title: A verdade não é relativa e nem quantitativa
 date: 2024-05-13
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Policy
+- Policy
 ---
+
 
 A verdade é algo muito debatido, alguns afirmam que ela é inalcançável, outros dizem que é uma busca sem sentido, outros afirmam ser ela algo relativo e, finalmente, os mais sensatos vão dizer que a verdade existe ainda que não tenha sido descoberta.
 

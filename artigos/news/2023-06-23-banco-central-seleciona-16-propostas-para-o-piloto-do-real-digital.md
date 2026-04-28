@@ -1,11 +1,12 @@
 ---
-title: "Banco Central seleciona 16 propostas para o piloto do Real Digital"
+title: Banco Central seleciona 16 propostas para o piloto do Real Digital
 date: 2023-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Moeda digital do Brasil avança com a conversão de ativos financeiros em tokens, facilitando pagamentos e movimentação digital de recursos.
 

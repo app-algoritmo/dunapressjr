@@ -1,11 +1,12 @@
 ---
-title: "OCDE convida Brasil a aderir a códigos de liberalização financeira"
+title: OCDE convida Brasil a aderir a códigos de liberalização financeira
 date: 2022-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País é o primeiro não membro da organização a aderir aos códigos.
 

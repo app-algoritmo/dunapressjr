@@ -1,12 +1,13 @@
 ---
-title: "Acampamentos completam 57 dias de manifestações nos QGs do Brasil"
+title: Acampamentos completam 57 dias de manifestações nos QGs do Brasil
 date: 2022-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 A mídia tenta esconder, no entanto o mundo sabe que o Brasil está em guerra contra o crime organizado e as corporações internacionais da NOM que mantém agentes infiltrados nas instituições do país.
 

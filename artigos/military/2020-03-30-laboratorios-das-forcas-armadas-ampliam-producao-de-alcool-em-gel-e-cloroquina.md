@@ -1,11 +1,12 @@
 ---
-title: "Laboratórios das Forças Armadas ampliam produção de álcool em gel e cloroquina"
+title: Laboratórios das Forças Armadas ampliam produção de álcool em gel e cloroquina
 date: 2020-03-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Diante da pandemia de coronavírus no Brasil, os
 laboratórios químicos das Forças Armadas aumentaram a produção de álcool em gel

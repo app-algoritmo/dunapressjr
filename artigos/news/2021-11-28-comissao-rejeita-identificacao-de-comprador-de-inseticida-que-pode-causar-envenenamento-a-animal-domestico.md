@@ -1,11 +1,13 @@
 ---
-title: "Comissão rejeita identificação de comprador de inseticida que pode causar  envenenamento a animal doméstico"
+title: Comissão rejeita identificação de comprador de inseticida que pode causar  envenenamento
+  a animal doméstico
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados rejeitou projeto de lei que determina que a venda de inseticidas e raticidas que possam provocar a morte de cães e gatos domésticos seja condicionada à identificação dos compradores, por meio de documento pessoal e comprovante do endereço residencial.
 

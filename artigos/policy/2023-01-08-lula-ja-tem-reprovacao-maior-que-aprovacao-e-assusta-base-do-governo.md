@@ -1,11 +1,12 @@
 ---
-title: "Lula já tem reprovação maior que aprovação e assusta base do governo"
+title: Lula já tem reprovação maior que aprovação e assusta base do governo
 date: 2023-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A primeira edição da pesquisa da Modalmais/AP Exata sobre a popularidade do governo de Luiz Inácio Lula da Silva (PT) revela que o presidente tem a reprovação levemente maior do que aprovação na primeira semana nas redes sociais. Com isso, não houve a tradicional lua de mel que costuma ocorrer nos primeiros meses dos governos eleitos democraticamente no Brasil, de acordo com o levantamento divulgado nesta sexta-feira (6/1).
 

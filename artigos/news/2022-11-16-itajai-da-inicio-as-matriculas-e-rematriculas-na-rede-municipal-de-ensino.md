@@ -1,11 +1,12 @@
 ---
-title: "Itajaí dá início às matrículas e rematrículas na Rede Municipal de Ensino"
+title: Itajaí dá início às matrículas e rematrículas na Rede Municipal de Ensino
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Começou o período de matrículas e rematrículas na Rede Municipal de Ensino de Itajaí. Neste mês, a prioridade será para alunos que já estudam em unidades escolares do município. Os novos alunos poderão se matricular a partir do dia 29 de novembro. Para facilitar o acesso, a Secretaria Municipal de Educação lançou edital com orientações e a documentação necessária. O documento está disponível para download no fim desta página. Ao todo, cerca de 40 mil alunos estudam em unidades escolares municipais.
 

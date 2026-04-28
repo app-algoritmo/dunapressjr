@@ -1,11 +1,12 @@
 ---
-title: "Queensland inaugura fábrica de adesivos de vacina sem agulha"
+title: Queensland inaugura fábrica de adesivos de vacina sem agulha
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Austrália abriu uma instalação supostamente de última geração [para a fabricação de adesivos cutâneos para vacinas](https://www.theepochtimes.com/queensland-opens-needle-free-vaccine-skin-patches-factory_5345767.html).
 

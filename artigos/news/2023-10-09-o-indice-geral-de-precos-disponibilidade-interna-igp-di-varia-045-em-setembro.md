@@ -1,11 +1,13 @@
 ---
-title: "O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) varia 0,45% em setembro"
+title: O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) varia 0,45% em
+  setembro
 date: 2023-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Combustíveis e serviços impulsionam aceleração dos preços, segundo FGV IBRE.
 

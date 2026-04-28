@@ -1,11 +1,12 @@
 ---
-title: "As memórias de Cleópatra: A filha de Ísis"
+title: 'As memórias de Cleópatra: A filha de Ísis'
 date: 2022-09-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
+- Books
 ---
+
 
 O Egito sempre me fascinou. Tanto que nos livros que escrevi da série Alma e Sangue ele está bastante presente, entremeado com vampiros, lobos, bruxas e outros seres sobrenaturais. A mitologia é riquíssima.
 

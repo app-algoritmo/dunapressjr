@@ -1,11 +1,12 @@
 ---
-title: "Vacinação é uma história de ofuscação"
+title: Vacinação é uma história de ofuscação
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Para uma mulher divertida e ativa, nada é igual depois da vacinação contra a Covid-19. A resposta dos responsáveis: Sim, isso pode acontecer, e você também sabe disso. - Realmente? Essas pessoas não têm memória?
 

@@ -1,11 +1,13 @@
 ---
-title: "Petro propôs ao Papa realizar “uma rodada” de negociações com a guerrilha do ELN no Vaticano"
+title: Petro propôs ao Papa realizar “uma rodada” de negociações com a guerrilha do
+  ELN no Vaticano
 date: 2024-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente colombiano, Gustavo Petro, propôs hoje ao Papa Francisco realizar “uma rodada” de negociações com a guerrilha do Exército de Libertação Nacional (ELN) no Vaticano, durante uma audiência de mais de meia hora que tiveram esta sexta-feira com a paz como um dos itens da agenda.
 

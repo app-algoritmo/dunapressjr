@@ -1,11 +1,12 @@
 ---
-title: "Um universo no qual as leis de Newton são apenas parcialmente válidas"
+title: Um universo no qual as leis de Newton são apenas parcialmente válidas
 date: 2020-06-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Pela primeira vez, os pesquisadores simularam a formação de galáxias em um universo sem matéria escura. Para replicar esse processo no computador, eles modificaram as leis da gravidade de Newton. As galáxias que foram criadas nos cálculos do computador são semelhantes às que realmente vemos hoje. Segundo os cientistas, suas suposições poderiam resolver muitos mistérios da cosmologia moderna.
 

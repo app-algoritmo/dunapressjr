@@ -1,11 +1,13 @@
 ---
-title: "Os Vikings tinham varíola e podem ter ajudado a espalhar o vírus mais mortal do mundo"
+title: Os Vikings tinham varíola e podem ter ajudado a espalhar o vírus mais mortal
+  do mundo
 date: 2020-08-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Cientistas descobrem cepas extintas de varíola nos dentes de esqueletos viking - provando pela primeira vez que a doença assassina atormentou a humanidade por pelo menos 1400 anos.
 

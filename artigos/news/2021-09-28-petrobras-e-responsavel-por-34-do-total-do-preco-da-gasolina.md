@@ -1,11 +1,12 @@
 ---
-title: "Petrobras é responsável por 34% do total do preço da gasolina"
+title: Petrobras é responsável por 34% do total do preço da gasolina
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Não há mudança na política de preços da empresa, diz presidente.
 

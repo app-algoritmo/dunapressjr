@@ -1,11 +1,12 @@
 ---
-title: "Vendas da indústria de máquinas e equipamentos têm queda de 9,4%"
+title: Vendas da indústria de máquinas e equipamentos têm queda de 9,4%
 date: 2022-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acumulado do ano é de R$ 262,6 bilhões, 5,1% abaixo do valor de 2021.
 

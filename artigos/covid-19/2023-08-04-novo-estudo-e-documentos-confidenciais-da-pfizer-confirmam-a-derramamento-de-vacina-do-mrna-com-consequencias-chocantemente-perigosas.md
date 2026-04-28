@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo e documentos confidenciais da Pfizer confirmam a 'derramamento de vacina' do mRNA com consequências chocantemente perigosas"
+title: Novo estudo e documentos confidenciais da Pfizer confirmam a 'derramamento
+  de vacina' do mRNA com consequências chocantemente perigosas
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um estudo conduzido por cientistas da Universidade do Colorado confirma que a grande maioria da humanidade não teve absolutamente nenhuma escolha de receber ou não a injeção de Covid-19 porque aqueles que foram vacinados aerossolizaram os anticorpos gerados pelas injeções.
 

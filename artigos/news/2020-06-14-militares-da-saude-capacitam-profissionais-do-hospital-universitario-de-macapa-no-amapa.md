@@ -1,11 +1,13 @@
 ---
-title: "Militares da saúde capacitam profissionais do Hospital Universitário de Macapá, no Amapá"
+title: Militares da saúde capacitam profissionais do Hospital Universitário de Macapá,
+  no Amapá
 date: 2020-06-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No contexto da Operação Covid-19, militares da área de saúde das Forças Armadas capacitam médicos do Hospital Universitário, no Amapá, em procedimentos técnicos, durante a realização de ultrassonografia à beira do leito dos pacientes. Os treinamentos também incluem programa de instruções para profissionais de enfermagem sobre paramentação, desparamentação, registro em enfermagem, diluições e outros tópicos importantes no contato com o paciente internado, tanto em leito de enfermaria, quanto no Centro de Tratamento e Terapia Intensiva (CTI). 
 

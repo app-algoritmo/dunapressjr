@@ -1,11 +1,12 @@
 ---
-title: "5 ferramentas básicas para pequenos reparos em casa"
+title: 5 ferramentas básicas para pequenos reparos em casa
 date: 2022-11-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Aprenda a montar um kit de ferramentas que será “pau pra toda obra”
 

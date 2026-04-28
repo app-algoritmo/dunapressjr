@@ -1,11 +1,13 @@
 ---
-title: "Jim Caviezel pede unidade para lutar contra o mal e 'fanatismo anti-cristão' de esquerdistas"
+title: Jim Caviezel pede unidade para lutar contra o mal e 'fanatismo anti-cristão'
+  de esquerdistas
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "A intolerância anticristã é a forma mais aceita de intolerância, agora, no mundo", disse o ator.
 

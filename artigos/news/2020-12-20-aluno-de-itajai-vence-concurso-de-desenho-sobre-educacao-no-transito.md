@@ -1,11 +1,12 @@
 ---
-title: "Aluno de Itajaí vence concurso de desenho sobre educação no trânsito"
+title: Aluno de Itajaí vence concurso de desenho sobre educação no trânsito
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O estudante David Conrado, de 5 anos, venceu o concurso “Não atropele uma vida”, promovido pelo grupo Arteris. A premiação ocorreu nesta terça-feira (15) na Secretaria de Educação de Itajaí. Aluno do Jardim 2 do Centro de Educação Infantil (CEI) Heluiz Antonio Moraes Gonzaga, David foi premiado na categoria Educação Infantil e 1º ano. Ele recebeu um notebook e sua unidade escolar uma caixa de som.
 

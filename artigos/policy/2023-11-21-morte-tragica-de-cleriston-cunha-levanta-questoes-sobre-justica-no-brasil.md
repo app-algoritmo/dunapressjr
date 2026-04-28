@@ -1,11 +1,12 @@
 ---
-title: "Morte trágica de Cleriston Cunha levanta questões sobre justiça no Brasil"
+title: Morte trágica de Cleriston Cunha levanta questões sobre justiça no Brasil
 date: 2023-11-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Num incidente profundamente preocupante, Cleriston Pereira da Cunha, um cidadão brasileiro inocente, perdeu a vida enquanto estava sob custódia do Estado brasileiro. Preso desde 8 de janeiro por envolvimento em protestos no início daquele mês, o caso de Cleriston levantou preocupações sobre o sistema de justiça e as ações do governo Lula.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aumento de núcleos de inflação preocupa, diz presidente do BC"
+title: Aumento de núcleos de inflação preocupa, diz presidente do BC
 date: 2021-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Campos Neto aponta questionamentos à capacidade de o país crescer.
 

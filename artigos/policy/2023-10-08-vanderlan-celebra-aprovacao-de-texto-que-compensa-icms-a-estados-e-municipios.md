@@ -1,11 +1,12 @@
 ---
-title: "Vanderlan celebra aprovação de texto que compensa ICMS a estados e municípios"
+title: Vanderlan celebra aprovação de texto que compensa ICMS a estados e municípios
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Vanderlan Cardoso (PSD-GO) comemorou, em pronunciamento no Plenário nessa quarta-feira (4), a aprovação, também na quarta, do Projeto de Lei Complementar ([PLP 136/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160102)), que assegura recursos da União na ordem de R$ 27 bilhões para compensar as perdas de estados e municípios com a isenção da cobrança do ICMS sobre os combustíveis, autorizada no governo passado. O texto segue para sanção. O senador enfatizou que a proposta “é um ato de justiça” para estados e municípios que tiveram “reduzida a capacidade” de oferecer serviços essenciais à população. O parlamentar informou que, pelos cálculos do governo, serão destinados cerca de R$ 2,3 bilhões para o Fundo de Participação dos Municípios (FPM) e R$ 1,6 bilhão para o Fundo de Participação dos Estados e do Distrito Federal (FPE). 
 

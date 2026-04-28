@@ -1,11 +1,12 @@
 ---
-title: "CMN fixa em 3% a meta de inflação para 2024"
+title: CMN fixa em 3% a meta de inflação para 2024
 date: 2021-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As metas de inflação para 2022 e 2023 foram mantidas.
 

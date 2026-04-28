@@ -1,11 +1,12 @@
 ---
-title: "Milhares desenvolveram zumbido após vacinas da Covid"
+title: Milhares desenvolveram zumbido após vacinas da Covid
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O zumbido (zumbido nos ouvidos) é outro efeito indesejado da vacinação contra a COVID-19.
 

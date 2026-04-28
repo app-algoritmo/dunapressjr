@@ -1,11 +1,12 @@
 ---
-title: "A dolorosa memória de um campo nazista 75 anos depois"
+title: A dolorosa memória de um campo nazista 75 anos depois
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Jean Böhme, hoje com 73 anos, passou pouco depois do final da Segunda Guerra Mundial, parte de sua infância, no antigo campo de concentração de Dachau. Ele ainda se lembra do número do quartel onde morava com sua família, 31 C. E aquele que abrigava sua escola, 33, ou mesmo um bistrô aberto em uma antiga torre de vigia.
 

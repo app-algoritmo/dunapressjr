@@ -1,11 +1,13 @@
 ---
-title: "MIT e Ericsson firmam acordos de colaboração para pesquisar a próxima geração de redes móveis"
+title: MIT e Ericsson firmam acordos de colaboração para pesquisar a próxima geração
+  de redes móveis
 date: 2022-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Dois projetos de pesquisa sobre o design de hardware de última geração podem um dia alimentar as redes móveis 5G e 6G da próxima geração comenta Elizabeth A. Thomson do Laboratório de Pesquisa de Materiais neste artigo adaptado para uma versão conjunta do Laboratório de Pesquisa de Materiais do MIT e da Ericsson Research.
 

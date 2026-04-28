@@ -1,11 +1,12 @@
 ---
-title: "Concerto de Natal da Família Imperial do Brasil: fotos e press release"
+title: 'Concerto de Natal da Família Imperial do Brasil: fotos e press release'
 date: 2018-12-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por Malcolm Forest
 

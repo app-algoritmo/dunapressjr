@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal abre consulta ao segundo lote de restituição do IRPF 2021 nesta quarta-feira (23/6)"
+title: Receita Federal abre consulta ao segundo lote de restituição do IRPF 2021 nesta
+  quarta-feira (23/6)
 date: 2021-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serão contemplados 4,2 milhões de contribuintes, entre prioritários e não prioritários; valor total do crédito é de R$ 6 bilhões.
 

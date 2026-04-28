@@ -1,11 +1,12 @@
 ---
-title: "Receita abre segunda-feira consulta a lote residual do IR"
+title: Receita abre segunda-feira consulta a lote residual do IR
 date: 2022-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 240 mil contribuintes receberão crédito bancário no dia 31.
 

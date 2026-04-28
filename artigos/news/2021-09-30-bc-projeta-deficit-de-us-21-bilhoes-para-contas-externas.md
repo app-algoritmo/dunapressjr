@@ -1,11 +1,12 @@
 ---
-title: "BC projeta déficit de US$ 21 bilhões para contas externas"
+title: BC projeta déficit de US$ 21 bilhões para contas externas
 date: 2021-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa para 2021 corresponde a 1,3% do Produto Interno Bruto.
 

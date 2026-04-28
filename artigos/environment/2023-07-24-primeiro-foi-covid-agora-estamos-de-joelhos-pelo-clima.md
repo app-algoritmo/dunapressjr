@@ -1,11 +1,12 @@
 ---
-title: "Primeiro foi Covid - agora estamos de joelhos pelo clima"
+title: Primeiro foi Covid - agora estamos de joelhos pelo clima
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Não há como negar que a Europa é quente, mas parece que o sol está sendo usado como uma arma para nos fazer mudar nossos hábitos para chegar ao zero líquido.
 

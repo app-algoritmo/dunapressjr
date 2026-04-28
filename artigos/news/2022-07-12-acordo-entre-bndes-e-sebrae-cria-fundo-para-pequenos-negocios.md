@@ -1,11 +1,12 @@
 ---
-title: "Acordo entre BNDES e Sebrae cria fundo para pequenos negócios"
+title: Acordo entre BNDES e Sebrae cria fundo para pequenos negócios
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Financiamentos devem alavancar inicialmente cerca de R$ 4,5 bilhões.
 

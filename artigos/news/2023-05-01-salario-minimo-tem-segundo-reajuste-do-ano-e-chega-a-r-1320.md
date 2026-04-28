@@ -1,11 +1,12 @@
 ---
-title: "Salário mínimo tem segundo reajuste do ano e chega a R$ 1.320"
+title: Salário mínimo tem segundo reajuste do ano e chega a R$ 1.320
 date: 2023-05-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento foi adiado em quatro meses devido a impacto nos benefícios do INSS, mas governo encontrou recursos para bancar reajuste.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil em 2024: Reflexões sobre a Democracia e os Presos Políticos"
+title: 'Brasil em 2024: Reflexões sobre a Democracia e os Presos Políticos'
 date: 2024-07-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Brasil, ao longo de sua história, tem enfrentado momentos de grande turbulência política que desafiam a solidez de suas instituições democráticas. Desde a Proclamação da República em 1889, que marcou o fim do Império e instaurou um regime republicano, o país tem oscilado entre períodos de estabilidade democrática e fases de autoritarismo. Em 2024, o Brasil novamente se vê às voltas com um cenário preocupante, marcado pela presença de milhares de presos políticos, o que levanta questões profundas sobre a natureza da democracia brasileira.
 

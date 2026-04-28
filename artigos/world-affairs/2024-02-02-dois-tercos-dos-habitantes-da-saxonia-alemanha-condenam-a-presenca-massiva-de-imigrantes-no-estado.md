@@ -1,11 +1,13 @@
 ---
-title: "Dois terços dos habitantes da Saxônia (Alemanha) condenam a presença massiva de imigrantes no estado"
+title: Dois terços dos habitantes da Saxônia (Alemanha) condenam a presença massiva
+  de imigrantes no estado
 date: 2024-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Europa está finalmente a acordar para a ameaça existencial que a imigração em massa representa para a sobrevivência das suas nações e a onda contra a “invasão” já parece imparável, **como prova o crescente aumento das intenções de voto dos partidos soberanistas.**
 

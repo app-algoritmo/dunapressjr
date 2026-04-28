@@ -1,11 +1,13 @@
 ---
-title: "Legalização do aborto contradiz princípios de uma sociedade civilizada, diz Eduardo Girão"
+title: Legalização do aborto contradiz princípios de uma sociedade civilizada, diz
+  Eduardo Girão
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 "A descriminalização do aborto representa uma inversão total de valores e o reconhecimento do assassinato de crianças indefesas como um simples direito humano, o que é algo contraditório em uma sociedade dita civilizada". A afirmação foi feita nesta quinta-feira (23) pelo senador Eduardo Girão (Novo-CE) durante sessão de debate temático sobre a competência do Poder Legislativo e o ativismo judicial. 
 

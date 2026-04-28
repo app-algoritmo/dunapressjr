@@ -1,11 +1,12 @@
 ---
-title: "Girão se diz preocupado com 'sequestro' da CPMI do 8 de Janeiro pelo governo"
+title: Girão se diz preocupado com 'sequestro' da CPMI do 8 de Janeiro pelo governo
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento nesta quinta-feira (25), manifestou preocupação com o que considera o "sequestro, pelo governo Lula”, da comissão parlamentar mista de inquérito (CPMI) que investigará os atos de vandalismo ocorridos em Brasília.
 

@@ -1,11 +1,13 @@
 ---
-title: "Municípios mais populosos do Paraná registram queda nos homicídios dolosos em 2023"
+title: Municípios mais populosos do Paraná registram queda nos homicídios dolosos
+  em 2023
 date: 2023-10-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O principal destaque é que 13 dos 21 mais populosos encerraram os primeiros oito meses deste ano com queda de homicídios dolosos. Em termos gerais, os homicídios caíram 13%, de 721 para 621, nessas 21 cidades.
 

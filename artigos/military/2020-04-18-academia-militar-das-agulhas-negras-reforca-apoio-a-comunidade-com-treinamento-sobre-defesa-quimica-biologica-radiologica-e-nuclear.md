@@ -1,11 +1,13 @@
 ---
-title: "Academia Militar das Agulhas Negras reforça apoio à comunidade com treinamento sobre Defesa Química, Biológica, Radiológica e Nuclear"
+title: Academia Militar das Agulhas Negras reforça apoio à comunidade com treinamento
+  sobre Defesa Química, Biológica, Radiológica e Nuclear
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Resende (RJ) **– A Academia Militar das Agulhas Negras  (AMAN) promoveu, de 13 a 16 de abril, um treinamento de Defesa Química, Biológica, Radiológica e Nuclear (DQBRN) voltado para membros da Defesa Civil de Resende. As equipes de DQBRN do Exército Brasileiro são muito ativas e fundamentais em grandes eventos que já aconteceram no Brasil, tais como as Copas das Confederações e do Mundo, os Jogos Mundiais Militares, Olímpicos e Paraolímpicos. 
 

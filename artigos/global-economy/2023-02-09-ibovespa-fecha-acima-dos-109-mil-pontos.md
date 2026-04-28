@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha acima dos 109 mil pontos"
+title: Ibovespa fecha acima dos 109 mil pontos
 date: 2023-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## O dólar comercial encerrou esta quarta-feira (8) praticamente estável.
 

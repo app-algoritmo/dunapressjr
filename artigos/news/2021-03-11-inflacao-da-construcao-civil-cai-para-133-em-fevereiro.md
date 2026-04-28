@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção civil cai para 1,33% em fevereiro"
+title: Inflação da construção civil cai para 1,33% em fevereiro
 date: 2021-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IBGE diz que taxa é menor que a de janeiro: 1,99%.
 

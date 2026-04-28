@@ -1,11 +1,13 @@
 ---
-title: "30.ª CASACOR Paraná: Five Lounge é repaginado com espaços instagramáveis inspirados no tema 'De volta a uma casa, no coração do Batel'"
+title: '30.ª CASACOR Paraná: Five Lounge é repaginado com espaços instagramáveis inspirados
+  no tema ''De volta a uma casa, no coração do Batel'''
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Criado pela arquiteta Carla Grüdtner, o wine & cocktail bar do hotel NH Curitiba The Five passou por uma reforma e apresenta nova decoração inspirada na mostra de arquitetura, design e paisagismo.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Fim da Propriedade Privada? Um Alerta Sobre a Situação no Brasil"
+title: O Fim da Propriedade Privada? Um Alerta Sobre a Situação no Brasil
 date: 2024-10-04
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Agora começaram as reações contra uma série de medidas para expropriar bens, imóveis e contas no Brasil, mas não  é de hoje que perdemos a propriedade privada..  Na Constituição de 1988, os constituintes misturaram direito individual com direito coletivo. O correto seria resguardar os direitos individuais e deixar para as leis ordinárias definir direitos coletivos. A sociedade está sempre em mudança e os direitos individuais são universais e atemporais, e não podem ser relativizados por qualquer arranjo social. 
 

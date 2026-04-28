@@ -1,11 +1,12 @@
 ---
-title: "Novas alíquotas entram em vigor em 1º de março"
+title: Novas alíquotas entram em vigor em 1º de março
 date: 2020-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Percentuais progressivos valerão para contribuintes empregados, inclusive os domésticos, e para trabalhadores avulsos; não haverá mudança para autônomos
 

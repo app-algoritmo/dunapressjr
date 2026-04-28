@@ -1,11 +1,12 @@
 ---
-title: "Tensões Criminosas no Brasil: Órgãos de Segurança em Alerta Máximo"
+title: 'Tensões Criminosas no Brasil: Órgãos de Segurança em Alerta Máximo'
 date: 2023-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Brasil enfrenta um momento crítico em termos de segurança pública, com órgãos de aplicação da lei em estado de alerta máximo diante de ameaças persistentes provenientes do Primeiro Comando da Capital (PCC). A situação ganhou destaque recentemente com a emissão de um "salve" por parte da facção criminosa, uma ordem para assassinar policiais, marcada para ocorrer neste domingo (3). Em resposta a essa ameaça iminente, autoridades têm adotado medidas drásticas, incluindo transferências estratégicas de membros de alto escalão de organizações criminosas, com o objetivo de interromper a comunicação entre líderes presos e seus subordinados nas ruas.
 

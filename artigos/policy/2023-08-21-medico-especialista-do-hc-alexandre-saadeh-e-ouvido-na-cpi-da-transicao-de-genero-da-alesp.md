@@ -1,11 +1,13 @@
 ---
-title: "Médico especialista do HC, Alexandre Saadeh é ouvido na CPI da Transição de Gênero da Alesp"
+title: Médico especialista do HC, Alexandre Saadeh é ouvido na CPI da Transição de
+  Gênero da Alesp
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Colegiado recebeu o médico na manhã desta quinta-feira; Saadeh esclareceu os procedimentos relativos à incongruência de gênero realizados no HC.
 

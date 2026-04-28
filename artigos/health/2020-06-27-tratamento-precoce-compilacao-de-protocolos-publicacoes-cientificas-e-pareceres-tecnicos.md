@@ -1,11 +1,13 @@
 ---
-title: "Tratamento Precoce - Compilação de Protocolos, Publicações Científicas e Pareceres Técnicos"
+title: Tratamento Precoce - Compilação de Protocolos, Publicações Científicas e Pareceres
+  Técnicos
 date: 2020-06-27
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 Atualizações | Tratamento Precoce (imediato, inicial) | Compilação de Protocolos, Publicações Científicas e Pareceres Técnicos das Principais Autoridades Médicas | O que oferecer aos infectados para que não morram
 

@@ -1,11 +1,13 @@
 ---
-title: "Escola da Inteligência é aprovada por quase 90% dos alunos da Rede Municipal de Itajaí"
+title: Escola da Inteligência é aprovada por quase 90% dos alunos da Rede Municipal
+  de Itajaí
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O desenvolvimento do programa Escola da Inteligência em 2020 foi avaliado por equipes gestoras, professores, famílias e alunos da Rede Municipal de Ensino de Itajaí. Os resultados foram apresentados nesta terça-feira (30) e demonstrou que quase 90% dos estudantes aprovam a iniciativa. Hoje cerca de 35 mil alunos participam do programa que trabalha a educação socioemocional. 
 

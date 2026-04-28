@@ -1,11 +1,12 @@
 ---
-title: "Inteligência artificial aterrissa no aeroporto de Guarulhos"
+title: Inteligência artificial aterrissa no aeroporto de Guarulhos
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Novidade auxilia o monitoramento das temperaturas corporais dos passageiros na prevenção da Covid-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "A importância da qualidade do sono"
+title: A importância da qualidade do sono
 date: 2022-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Atualmente organizado pela Sociedade Mundial do Sono (World Sleep Society), o evento visa diminuir o peso que os problemas do sono provocam na sociedade, por meio da prevenção e do manejo desses distúrbios.
 

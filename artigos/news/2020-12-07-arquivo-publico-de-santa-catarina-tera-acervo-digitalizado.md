@@ -1,11 +1,12 @@
 ---
-title: "Arquivo Público de Santa Catarina terá acervo digitalizado"
+title: Arquivo Público de Santa Catarina terá acervo digitalizado
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Arquivo Público de Santa Catarina será digitalizado por meio de um convênio com o com o Fundo para Reconstituição de Bens Lesados do Ministério Público do Estado de Santa Catarina. O projeto foi trabalhado e pensado durante todo o ano de 2020 e está sendo coordenado pela Diretoria do Arquivo Público, ligada à Fundação Escola de Governo (ENA).
 

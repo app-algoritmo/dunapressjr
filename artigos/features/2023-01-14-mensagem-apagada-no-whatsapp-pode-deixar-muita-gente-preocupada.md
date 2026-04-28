@@ -1,12 +1,13 @@
 ---
-title: "Mensagem apagada no WhatsApp pode deixar muita gente preocupada"
+title: Mensagem apagada no WhatsApp pode deixar muita gente preocupada
 date: 2023-01-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## É possível recuperar as mensagens deletadas. Porém, se a pessoa apagou o que mandou, ela deve ter algum motivo. 
 

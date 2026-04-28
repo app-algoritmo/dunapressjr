@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,74 em dia de tranquilidade no exterior"
+title: Dólar cai para R$ 5,74 em dia de tranquilidade no exterior
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa de Valores se recupera e sobe quase 3%
 Em um dia de tranquilidade nos mercados externos, o dólar caiu depois de cinco altas seguidas. O dólar comercial fechou esta sexta-feira (8) vendido a R$ 5,74, com queda de R$ 0,10 (-1,7%). Mesmo com o recuo desta sexta-feira, a moeda encerrou uma semana tensa com alta de 5,56%.

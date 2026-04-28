@@ -1,11 +1,12 @@
 ---
-title: "A saga dos conservadores no Brasil do século 21"
+title: A saga dos conservadores no Brasil do século 21
 date: 2020-08-07
 status: publish
-author: pmbizz
+author: Paulo Mello
 categories:
-  - News
+- News
 ---
+
 
 Nos anos 60/70 o estado estava sendo assolado por terroristas, assaltantes de banco e sequestradores. Pessoas da pior espécie que justificavam seus atos dizendo que lutavam por uma causa justa, justa para eles, claro… pois no dia em que subverter a ordem social for causa justa, o mundo implode.
 

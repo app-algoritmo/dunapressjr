@@ -1,11 +1,12 @@
 ---
-title: "Como é produzido o soro contra o veneno das cobras?"
+title: Como é produzido o soro contra o veneno das cobras?
 date: 2021-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Você sabe como é produzido o soro antiofídico, o famoso antídoto contra o veneno das cobras?
 

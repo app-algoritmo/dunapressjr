@@ -1,11 +1,12 @@
 ---
-title: "Bombástico: Filho do PR americano tem vídeo vazado por televisão estrangeira"
+title: 'Bombástico: Filho do PR americano tem vídeo vazado por televisão estrangeira'
 date: 2023-05-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## [**Crianças em Perigo**](https://a.co/d/bSUpqG4)
 

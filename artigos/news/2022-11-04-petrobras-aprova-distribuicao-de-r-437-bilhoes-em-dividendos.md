@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aprova distribuição de R$ 43,7 bilhões em dividendos"
+title: Petrobras aprova distribuição de R$ 43,7 bilhões em dividendos
 date: 2022-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pagamento a acionistas será feito em duas parcelas.
 

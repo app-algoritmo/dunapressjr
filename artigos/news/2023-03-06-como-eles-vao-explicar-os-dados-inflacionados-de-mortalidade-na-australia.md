@@ -1,11 +1,12 @@
 ---
-title: "Como eles vão explicar os dados inflacionados de mortalidade na Austrália?"
+title: Como eles vão explicar os dados inflacionados de mortalidade na Austrália?
 date: 2023-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Austrália viu muitas mortes por COVID somente depois que as vacinas contra COVID foram lançadas. Agora o excesso de mortalidade está fora de controle. Algo é a causa dessas mortes. Alguém tem um palpite?
 

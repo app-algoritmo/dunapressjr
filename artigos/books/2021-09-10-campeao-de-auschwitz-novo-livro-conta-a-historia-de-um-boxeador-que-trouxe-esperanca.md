@@ -1,11 +1,13 @@
 ---
-title: "'Campeão de Auschwitz': Novo livro conta a história de um boxeador que trouxe esperança"
+title: '''Campeão de Auschwitz'': Novo livro conta a história de um boxeador que trouxe
+  esperança'
 date: 2021-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 ## O católico polonês Tadeusz Pietrzykowski venceu dezenas de lutas no campo de extermínio, junto com privilégios especiais que garantiram sua sobrevivência e a de outros.
 

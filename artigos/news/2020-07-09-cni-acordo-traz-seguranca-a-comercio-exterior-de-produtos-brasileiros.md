@@ -1,11 +1,12 @@
 ---
-title: "CNI: acordo traz segurança a comércio exterior de produtos brasileiros"
+title: 'CNI: acordo traz segurança a comércio exterior de produtos brasileiros'
 date: 2020-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 CNI comemorou ratificação do Protocolo de Nagoia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Cuidados básicos de higiene bucal são desconhecidos em diversas regiões do Brasil"
+title: Cuidados básicos de higiene bucal são desconhecidos em diversas regiões do
+  Brasil
 date: 2024-01-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Programas sociais como a Expedição Novos Sorrisos revelam índices preocupantes de doenças bucais e levam orientações fundamentais para a população em cidades brasileiras.
 

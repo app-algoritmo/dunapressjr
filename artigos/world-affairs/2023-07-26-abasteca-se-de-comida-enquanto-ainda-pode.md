@@ -1,11 +1,12 @@
 ---
-title: "Abasteça-se de comida enquanto ainda pode"
+title: Abasteça-se de comida enquanto ainda pode
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A oferta mundial de alimentos está se tornando cada vez mais escassa e a fome mundial atingiu níveis extremamente alarmantes. Enquanto escrevo este artigo, as pessoas estão literalmente morrendo de fome do outro lado do mundo, mas a maioria de nós no mundo ocidental simplesmente não se importa com os milhões que estão sofrendo profundamente porque a grande mídia mal relata isso. Mas a verdade é que também nós estamos sentindo os efeitos dessa crise alimentar global. 
 

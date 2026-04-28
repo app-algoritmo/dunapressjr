@@ -1,11 +1,12 @@
 ---
-title: "Noruega dobra seu apoio ao Fundo Verde para o Clima"
+title: Noruega dobra seu apoio ao Fundo Verde para o Clima
 date: 2019-09-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## "A mudança climática é um dos maiores desafios que enfrentamos e prejudica o progresso em áreas como redução da pobreza, educação e saúde", diz a Primeira-Ministra Erna Solberg.
 

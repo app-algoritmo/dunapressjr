@@ -1,11 +1,12 @@
 ---
-title: "Custo da cesta básica sobe em 11 capitais, diz Dieese"
+title: Custo da cesta básica sobe em 11 capitais, diz Dieese
 date: 2020-02-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Maiores altas foram em Aracaju, Salvador, João Pessoa e Belo Horizonte*
 

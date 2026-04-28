@@ -1,12 +1,13 @@
 ---
-title: "O Poder do Perdão"
+title: O Poder do Perdão
 date: 2022-07-30
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Opinion
-  - Video library
+- Opinion
+- Video library
 ---
+
 
 No dia 27 de março desse ano, Will Smith subiu ao palco da apresentação mundial do Oscar e deu um tapa no rosto do também ator e comediante Chris Rock. – Motivo? O comediante fez uma piada com a calvície da atriz e esposa de Will, Jada Pinkett Smith. Ela perdeu os cabelos devido a uma doença autoimune chamada alopecia. – Minutos depois o astro recebeu o Oscar de melhor ator, ao subir ao palco ele se desculpou pelo ocorrido, mas já era muito tarde para conter a repercussão que seu ato impensado traria sobre ele, e todos a sua volta.
 

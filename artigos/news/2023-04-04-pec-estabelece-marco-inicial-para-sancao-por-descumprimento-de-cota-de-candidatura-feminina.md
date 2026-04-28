@@ -1,11 +1,13 @@
 ---
-title: "PEC estabelece marco inicial para sanção por descumprimento de cota de candidatura feminina"
+title: PEC estabelece marco inicial para sanção por descumprimento de cota de candidatura
+  feminina
 date: 2023-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Proposta de Emenda à Constituição (PEC) 9/23, do deputado Paulo Magalhães (PSD-BA) e [outros](https://www.camara.leg.br/proposicoesWeb/prop_autores;jsessionid=node0h2jtf87i63ursztissf6omfj8719000.node0?idProposicao=2352476), proíbe a aplicação de sanções aos partidos políticos por descumprimento da cota mínima de recursos para as candidaturas femininas até as eleições de 2022 ou pelas prestações de contas anteriores a 5 de abril de 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem por fraude em agência Caixa Econômica Federal em Ji-Paraná/RO"
+title: PF prende homem por fraude em agência Caixa Econômica Federal em Ji-Paraná/RO
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – Na tarde desta sexta-feira (22/5), um nacional foi preso em flagrante na Agência Ji-Paraná da Caixa Econômica Federal, pelo crime de estelionato.
 

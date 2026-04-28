@@ -1,11 +1,12 @@
 ---
-title: "Conselho do PPI confirma qualificação da PPSA/Pré-Sal no programa"
+title: Conselho do PPI confirma qualificação da PPSA/Pré-Sal no programa
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida foi anunciada na sexta-feira.
 

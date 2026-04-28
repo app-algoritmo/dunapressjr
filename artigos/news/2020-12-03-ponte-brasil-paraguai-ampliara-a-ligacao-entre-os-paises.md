@@ -1,11 +1,12 @@
 ---
-title: "Ponte Brasil-Paraguai ampliará a ligação entre os países"
+title: Ponte Brasil-Paraguai ampliará a ligação entre os países
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Ponte da Integração Brasil-Paraguai, no Rio Paraná, está com cerca de 40% das obras concluídas. Quando estiver pronta, ligará os dois países ampliando as relações comerciais e desafogando o trânsito na Ponte Internacional da Amizade.
 

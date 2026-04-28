@@ -1,11 +1,12 @@
 ---
-title: "Governo vai lançar campanha de incentivo à adoção tardia"
+title: Governo vai lançar campanha de incentivo à adoção tardia
 date: 2019-05-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Crianças
 a partir de 3 anos serão o foco da ação*

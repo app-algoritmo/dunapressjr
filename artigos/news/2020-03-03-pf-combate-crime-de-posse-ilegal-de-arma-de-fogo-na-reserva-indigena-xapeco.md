@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de posse ilegal de arma de fogo na reserva indígena Xapecó"
+title: PF combate crime de posse ilegal de arma de fogo na reserva indígena Xapecó
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Chapecó/SC – A Polícia Federal, com o apoio da
 Polícia Civil e da Polícia Militar de Santa Catarina, deflagrou na manhã desta

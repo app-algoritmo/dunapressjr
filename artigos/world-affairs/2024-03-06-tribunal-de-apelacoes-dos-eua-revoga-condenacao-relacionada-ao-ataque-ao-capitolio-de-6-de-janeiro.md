@@ -1,11 +1,13 @@
 ---
-title: "Tribunal de Apelações dos EUA revoga condenação relacionada ao ataque ao Capitólio de 6 de janeiro"
+title: Tribunal de Apelações dos EUA revoga condenação relacionada ao ataque ao Capitólio
+  de 6 de janeiro
 date: 2024-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na última sexta-feira, o Tribunal de Apelações do Circuito do Distrito de Columbia tomou uma decisão que poderia ter ramificações significativas para os casos relacionados ao ataque ao Capitólio em 6 de janeiro de 2021. O tribunal decidiu que Larry Brock, condenado por uma série de crimes associados a esse evento, foi injustamente considerado culpado de "interferência na administração da justiça", anulando assim a acusação.
 

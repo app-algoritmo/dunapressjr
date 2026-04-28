@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem que invadiu embarcação e ameaçou tripulação na Baía de Guanabara"
+title: PF prende homem que invadiu embarcação e ameaçou tripulação na Baía de Guanabara
 date: 2020-07-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - Nesta sexta-feira, 3/7, A Polícia Federal, com o apoio da Marinha do Brasil, prendeu em flagrante um homem que havia invadido uma embarcação na Baía de Guanabara.
 

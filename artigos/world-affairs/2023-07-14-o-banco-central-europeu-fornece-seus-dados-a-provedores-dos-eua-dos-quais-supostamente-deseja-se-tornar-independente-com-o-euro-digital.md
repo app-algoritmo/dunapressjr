@@ -1,11 +1,13 @@
 ---
-title: "O Banco Central Europeu fornece seus dados a provedores dos EUA, dos quais supostamente deseja se tornar independente com o euro digital"
+title: O Banco Central Europeu fornece seus dados a provedores dos EUA, dos quais
+  supostamente deseja se tornar independente com o euro digital
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Banco Central Europeu (BCE) justifica sua intenção de introduzir um euro digital, entre outras coisas com o objetivo de reduzir a dependência das transações de pagamento europeias de provedores americanos. 
 

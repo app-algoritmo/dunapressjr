@@ -1,11 +1,12 @@
 ---
-title: "Nova coleção da Cia. Marítima convida para uma viagem ao México"
+title: Nova coleção da Cia. Marítima convida para uma viagem ao México
 date: 2024-03-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## A Cia. Marítima, marca líder em moda praia que há décadas dita tendências no Brasil e no mundo, apresenta sua nova coleção de Inverno 2024: Viva La Vida!
 

@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 3 toneladas de carne de frango irregulares em Rondônia"
+title: PF apreende 3 toneladas de carne de frango irregulares em Rondônia
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guajará-Mirim/RO – Em patrulhamento fluvial na
 região de fronteira entre o Brasil e a Bolívia, a Polícia Federal, com o apoio

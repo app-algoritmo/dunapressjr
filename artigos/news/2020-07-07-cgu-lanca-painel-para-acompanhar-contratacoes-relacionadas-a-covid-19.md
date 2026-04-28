@@ -1,11 +1,12 @@
 ---
-title: "CGU lança painel para acompanhar contratações relacionadas à Covid-19"
+title: CGU lança painel para acompanhar contratações relacionadas à Covid-19
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Painel visa dar transparência de contratações a população e servir de referência de preços a gestores públicos, a ferramenta está disponível na internet e é de livre acesso.
 

@@ -1,11 +1,13 @@
 ---
-title: "Bukele pede permissão ao Congresso para fazer campanha pela sua reeleição em El Salvador"
+title: Bukele pede permissão ao Congresso para fazer campanha pela sua reeleição em
+  El Salvador
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente de El Salvador, Nayib Bukele, disse que nos próximos dias pedirá "licença" à Assembleia Legislativa para participar da campanha eleitoral e buscar a reeleição em fevereiro, facilitado por uma polêmica decisão judicial questionada pela oposição.
 

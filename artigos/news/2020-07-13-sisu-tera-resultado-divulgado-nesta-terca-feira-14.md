@@ -1,11 +1,12 @@
 ---
-title: "Sisu terá resultado divulgado nesta terça-feira (14)"
+title: Sisu terá resultado divulgado nesta terça-feira (14)
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Período de inscrições foi de 7 a 10 de julho.
 

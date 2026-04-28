@@ -1,11 +1,12 @@
 ---
-title: "Cobalto e o Sacrifício de Crianças Africanas no Altar Verde"
+title: Cobalto e o Sacrifício de Crianças Africanas no Altar Verde
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O COBALTO é parte integrante da tecnologia moderna. Todos os tipos de dispositivos eletrônicos dependem do cobalto, juntamente com outros elementos como o lítio. 
 

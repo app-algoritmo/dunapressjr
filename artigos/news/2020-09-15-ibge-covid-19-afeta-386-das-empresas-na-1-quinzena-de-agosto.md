@@ -1,11 +1,12 @@
 ---
-title: "IBGE: covid-19 afeta 38,6% das empresas na 1ª quinzena de agosto"
+title: 'IBGE: covid-19 afeta 38,6% das empresas na 1ª quinzena de agosto'
 date: 2020-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Impacto negativo foi maior em empresas de pequeno porte.
 

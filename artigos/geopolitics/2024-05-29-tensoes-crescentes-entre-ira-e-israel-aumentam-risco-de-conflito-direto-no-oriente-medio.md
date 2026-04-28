@@ -1,11 +1,13 @@
 ---
-title: "Tensões Crescentes entre Irã e Israel Aumentam Risco de Conflito Direto no Oriente Médio"
+title: Tensões Crescentes entre Irã e Israel Aumentam Risco de Conflito Direto no
+  Oriente Médio
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ### Crescente Rivalidade entre Irã e Israel Aumenta Risco de Conflito no Oriente Médio.
 

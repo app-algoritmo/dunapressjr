@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal prorroga por 30 dias prazos para entrega das escriturações do tipo ECD e ECF"
+title: Receita Federal prorroga por 30 dias prazos para entrega das escriturações
+  do tipo ECD e ECF
 date: 2022-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida está alinhada com iniciativas recentes da instituição devido a efeitos remanescentes das restrições impostas pela pandemia da Covid-19.
 

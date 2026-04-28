@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerra a semana com ganhos e ações da Braskem disparam"
+title: Ibovespa encerra a semana com ganhos e ações da Braskem disparam
 date: 2023-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O dólar encerrou o dia a R$ 4,9437.
 

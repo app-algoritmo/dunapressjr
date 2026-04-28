@@ -1,11 +1,13 @@
 ---
-title: "Distribuição de cestas básicas para pacientes na Maternidade Januário Cicco (RN)"
+title: Distribuição de cestas básicas para pacientes na Maternidade Januário Cicco
+  (RN)
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Alimentos estão sendo entregues para famílias mais atingidas pelos efeitos da pandemia.
 

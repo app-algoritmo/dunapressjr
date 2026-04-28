@@ -1,12 +1,13 @@
 ---
-title: "A Caminho da Sepultura: 1 - Jeaniene Frost"
+title: 'A Caminho da Sepultura: 1 - Jeaniene Frost'
 date: 2022-10-05
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 Passei por esse livro muitas vezes e não li. Mas ao começar a leitura me descobri completamente seduzida pela história. Gente que livro é esse! A leitura é rápida, simplesmente o devorei em 3 dias. É, acho que estava precisando de um pouco de sangue novo. (risos).
 

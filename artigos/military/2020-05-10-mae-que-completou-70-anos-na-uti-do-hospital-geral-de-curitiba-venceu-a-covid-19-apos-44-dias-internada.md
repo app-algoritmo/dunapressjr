@@ -1,11 +1,13 @@
 ---
-title: "Mãe que completou 70 anos na UTI do Hospital Geral de Curitiba venceu a COVID-19 após 44 dias internada"
+title: Mãe que completou 70 anos na UTI do Hospital Geral de Curitiba venceu a COVID-19
+  após 44 dias internada
 date: 2020-05-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Curitiba (PR)** – Foram 44 dias internada numa cama de hospital, sendo 42 deles na UTI. Sem abraços, sem beijos, sem toques. O único contato foi com pessoas totalmente desconhecidas, com máscaras resistentes, dezenas de luvas e todos os tipos de proteção. Por mais que tudo fosse proibido, existia ali um misto de sentimentos abertos: amor, carinho, gratidão. **Glória Maria de Camargo Moro**, de 70 anos, lutou e venceu o coronavírus ao lado de um esquadrão de branco forjado nos corredores do Hospital Geral de Curitiba (HGeC), subordinado à 5ª Região Militar do Exército Brasileiro. Neste Dia das Mães, 10 de maio de 2020, ela está em casa, ao lado dos filhos, marcada para sempre como uma das pacientes sobreviventes com mais tempo de internação por COVID-19 no Brasil.
 

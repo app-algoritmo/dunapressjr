@@ -1,11 +1,13 @@
 ---
-title: "Operação da Polícia Federal desmantela esquema de desvio de valores em processo da Justiça do Trabalho em Tubarão/SC"
+title: Operação da Polícia Federal desmantela esquema de desvio de valores em processo
+  da Justiça do Trabalho em Tubarão/SC
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Buscas e apreensões são realizadas em entidade representativa e residência de funcionária suspeita de participação no esquema criminoso, que desviou cerca de R$ 60 mil.
 

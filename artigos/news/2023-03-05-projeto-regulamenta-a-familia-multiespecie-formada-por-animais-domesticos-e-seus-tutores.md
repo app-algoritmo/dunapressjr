@@ -1,11 +1,13 @@
 ---
-title: "Projeto regulamenta a família multiespécie, formada por animais domésticos e seus tutores"
+title: Projeto regulamenta a família multiespécie, formada por animais domésticos
+  e seus tutores
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 179/23 prevê uma série de direitos para os animais de estimação e regulamenta o conceito de família multiespécie como aquela formada pelo núcleo familiar humano em convivência compartilhada com seus animais.
 

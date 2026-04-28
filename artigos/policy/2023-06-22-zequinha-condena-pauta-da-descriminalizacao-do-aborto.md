@@ -1,11 +1,12 @@
 ---
-title: "Zequinha condena pauta da descriminalização do aborto"
+title: Zequinha condena pauta da descriminalização do aborto
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) lamentou, em pronunciamento no Plenário nesta quarta-feira (21), a pauta sobre descriminalização do aborto que poderá ser analisada pelo Supremo Tribunal Federal (STF) antes da saída da ministra Rosa Weber, que se aposenta em outubro deste ano. 
 

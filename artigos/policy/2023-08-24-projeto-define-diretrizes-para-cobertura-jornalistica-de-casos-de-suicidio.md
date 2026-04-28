@@ -1,11 +1,12 @@
 ---
-title: "Projeto define diretrizes para cobertura jornalística de casos de suicídio"
+title: Projeto define diretrizes para cobertura jornalística de casos de suicídio
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1970/23 define diretrizes para cobertura jornalística de casos de suicídio e de tentativas de suicídio com o objetivo de desencorajar a prática e evitar sua glamorização. Em análise na Câmara dos Deputados, o texto altera a [Política Nacional de Prevenção da Automutilação e do Suicídio ](https://www2.camara.gov.br/legin/fed/lei/2019/lei-13819-26-abril-2019-788025-norma-pl.html)(Lei 13.819/19).
 

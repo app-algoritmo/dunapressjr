@@ -1,11 +1,13 @@
 ---
-title: "PF investiga fraude em contratos celebrados pela Secretaria de Educação do Estado do Pará"
+title: PF investiga fraude em contratos celebrados pela Secretaria de Educação do
+  Estado do Pará
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belém/PA - A Polícia Federal deflagrou nesta quinta-feira (18/6) a Operação Solércia, com a finalidade de apurar  eventuais fraudes no contrato celebrado pelo Governo do Estado do Pará, através da Secretaria de Estado de Educação, cujo objeto era a aquisição de cestas de alimentação escolar para toda a rede estadual de ensino como medida de enfrentamento à pandemia do Covid-19; o valor do contrato era de R$73.928.946,00 (setenta e três milhões novecentos e vinte e oito mil novecentos e quarenta e seis reais).
 

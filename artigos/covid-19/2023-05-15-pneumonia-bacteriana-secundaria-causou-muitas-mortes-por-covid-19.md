@@ -1,11 +1,12 @@
 ---
-title: "Pneumonia bacteriana secundária causou muitas mortes por COVID-19"
+title: Pneumonia bacteriana secundária causou muitas mortes por COVID-19
 date: 2023-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O estudo não encontra evidências de tempestade de citocinas em pacientes gravemente enfermos com COVID-19.
 

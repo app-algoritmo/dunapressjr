@@ -1,11 +1,12 @@
 ---
-title: "Visitadores do Criança Feliz receberão treinamento do Conta pra Mim"
+title: Visitadores do Criança Feliz receberão treinamento do Conta pra Mim
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta quarta-feira (13) foi firmada parceria entre os programas Criança Feliz, do Ministério da Cidadania, e Conta pra Mim, do Ministério da Educação, para levar o conteúdo de literária para as visitas domiciliares a famílias em vulnerabilidade. Os dois projetos têm como foco o desenvolvimento de crianças na Primeira Infância, que abrange a faixa etária de 0 a 6 anos.
 

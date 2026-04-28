@@ -1,11 +1,12 @@
 ---
-title: "Política brasileira! Segundo Satanás"
+title: Política brasileira! Segundo Satanás
 date: 2019-11-11
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Eu amo esses rostos bonitos, falas mansas, polidas e populistas. Sério! Não há algo mais hilário que contemplar o típico político brasileiro. Não me entendam mal, não estou ocioso, pelo contrário, o inferno vem se tornando mais e mais o destino principal, a casa está sempre lotada. O que há de mal a um bom trabalhador contemplar sua clientela costumeira? A diversão é meu salário e todo trabalhador é digno do seu, (está na Bíblia, mas, não leia, é material fundamentalista, ultrapassado e cheio de preconceitos...) não é verdade? 
 

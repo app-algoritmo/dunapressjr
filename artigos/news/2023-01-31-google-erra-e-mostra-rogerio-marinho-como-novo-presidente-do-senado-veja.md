@@ -1,11 +1,12 @@
 ---
-title: "Google erra e mostra Rogério Marinho como novo presidente do Senado; Veja"
+title: Google erra e mostra Rogério Marinho como novo presidente do Senado; Veja
 date: 2023-01-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Votação para a Casa acontece apenas nesta quarta (1º); plataforma ainda não se pronunciou.
 

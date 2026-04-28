@@ -1,11 +1,12 @@
 ---
-title: "Quando trabalhamos, trabalhamos por causa de nossas transgressões"
+title: Quando trabalhamos, trabalhamos por causa de nossas transgressões
 date: 2026-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Rebe Nachman disse uma vez a seus discípulos: "Quando trabalhamos, trabalhamos por causa de nossas transgressões. Comer [isto é, nosso sustento] nos é dado de graça!"
 

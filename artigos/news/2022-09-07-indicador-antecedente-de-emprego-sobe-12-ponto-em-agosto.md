@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego sobe 1,2 ponto em agosto"
+title: Indicador Antecedente de Emprego sobe 1,2 ponto em agosto
 date: 2022-09-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Anúncio foi feito pela Fundação Getúlio Vargas.
 

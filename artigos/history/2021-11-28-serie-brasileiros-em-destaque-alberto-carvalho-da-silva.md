@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Alberto Carvalho da Silva"
+title: 'Série Brasileiros em Destaque: Alberto Carvalho da Silva'
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Nutricionista.
 

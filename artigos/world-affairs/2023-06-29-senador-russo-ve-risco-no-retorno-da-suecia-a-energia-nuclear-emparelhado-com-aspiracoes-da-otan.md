@@ -1,11 +1,13 @@
 ---
-title: "Senador russo vê risco no retorno da Suécia à energia nuclear emparelhado com aspirações da OTAN"
+title: Senador russo vê risco no retorno da Suécia à energia nuclear emparelhado com
+  aspirações da OTAN
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Além disso, disse Konstantin Kosachev, os senadores russos destacarão para a comunidade internacional o descumprimento da Suécia em seus compromissos de energia verde no nível interparlamentar.
 

@@ -1,11 +1,13 @@
 ---
-title: "Regulamentada por decreto equipe para a realização da inspeção ante e post mortem de animais em estabelecimentos"
+title: Regulamentada por decreto equipe para a realização da inspeção ante e post
+  mortem de animais em estabelecimentos
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A norma busca atender à demanda crescente pela abertura de novas indústrias e as solicitações de turnos extras de abate, buscando melhoria da gestão sem retirar a atuação do Estado em função da proteção da saúde pública
 

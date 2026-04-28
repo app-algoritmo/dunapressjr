@@ -1,11 +1,12 @@
 ---
-title: "Homens Comuns: Assassinos do Holocausto"
+title: 'Homens Comuns: Assassinos do Holocausto'
 date: 2023-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Holocausto é um dos capítulos mais sombrios da história da humanidade, uma época em que o mal atingiu níveis inimagináveis. No entanto, uma investigação minuciosa sobre o comportamento humano durante essa tragédia revela uma verdade perturbadora: homens comuns foram os perpetradores de muitos dos horrores do Holocausto.
 

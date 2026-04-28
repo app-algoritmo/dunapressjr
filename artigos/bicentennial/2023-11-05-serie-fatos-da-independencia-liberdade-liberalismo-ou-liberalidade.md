@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Liberdade, liberalismo ou liberalidade"
+title: 'Série Fatos Da Independência: Liberdade, liberalismo ou liberalidade'
 date: 2023-11-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O movimento republicano na Paraíba não era homogêneo em termos de interesses políticos e econômicos, ou de radicalismo político. O grito oficial da república na Paraíba era “pátria, família e propriedade”, o que denota a orientação elitista do movimento, a despeito da participação ativa de múltiplos setores da população. Para a elite senhorial que encabeçou a revolução, a descolonização do Brasil deveria se basear em uma manutenção das estruturas sociais – sendo a escravidão a mais importante delas. Nesse sentido, a Lei Orgânica, a primeira constituição publicada no Brasil, respondia aos anseios dos senhores de engenho. Para as elites brancas e ricas da Paraíba, liberdade era sinônimo de liberalismo e a “defesa da pátria” e a “defesa da propriedade” se fundiam em um só esforço.
 

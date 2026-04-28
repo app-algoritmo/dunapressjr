@@ -1,11 +1,12 @@
 ---
-title: "Contradições na Transparência: Schwab e o WEF"
+title: 'Contradições na Transparência: Schwab e o WEF'
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No novo mundo devemos aceitar a total transparência. Tudo fica transparente. Você tem que se acostumar com isso e se adaptar de acordo, disse Klaus Schwab, fundador do Fórum Econômico Mundial, em uma [entrevista de 2016 à RTS](https://www.youtube.com/watch?v=IJcey1PPiIM) , a emissora pública de língua francesa na Suíça.
 

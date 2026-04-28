@@ -1,11 +1,13 @@
 ---
-title: "Consulta pública aberta pelo MAPA quanto a registros de produtos fitoquímicos e microbiológicos"
+title: Consulta pública aberta pelo MAPA quanto a registros de produtos fitoquímicos
+  e microbiológicos
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A ampliação dos registros desses produtos traz mais opções contra o ataque de pragas e contribui para a sustentabilidade da agricultura nacional.
 

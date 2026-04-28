@@ -1,11 +1,12 @@
 ---
-title: "Novembro Roxo e o  Método Canguru"
+title: Novembro Roxo e o  Método Canguru
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Método Canguru é uma ação estratégica para reduzir o impacto da prematuridade no desenvolvimento do recém-nascido.
 

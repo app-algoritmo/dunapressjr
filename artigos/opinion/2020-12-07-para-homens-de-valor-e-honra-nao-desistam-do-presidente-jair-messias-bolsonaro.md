@@ -1,11 +1,12 @@
 ---
-title: "Para homens de valor e honra: Não desistam do presidente Jair Messias Bolsonaro"
+title: 'Para homens de valor e honra: Não desistam do presidente Jair Messias Bolsonaro'
 date: 2020-12-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Dedico este artigo a meu primo: Marco Antônio da Silva (TOM), que junto ao Eterno esteja sempre sua alma*
 

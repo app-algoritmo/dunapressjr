@@ -1,11 +1,12 @@
 ---
-title: "Passagem de chefias no Comando de Defesa Cibernética"
+title: Passagem de chefias no Comando de Defesa Cibernética
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – No dia 2 de abril, foi realizada, nas instalações do Comando de Defesa Cibernética, a cerimônia oficial de passagem da Chefia do Estado-Maior Conjunto e do Departamento de Gestão Estratégica.
 

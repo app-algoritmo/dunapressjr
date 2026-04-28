@@ -1,11 +1,12 @@
 ---
-title: "Inédito: Parada cardíaca em atletas: 1.310 mortes em 2,5 anos e 574 feridos"
+title: 'Inédito: Parada cardíaca em atletas: 1.310 mortes em 2,5 anos e 574 feridos'
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O professor da NYU, Mark Crispin Miller, relatou mortes súbitas e eventos inesperados de saúde desde o início da pandemia de COVID e injeções de terapia de mRNA (COVID "vacinas"). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe e bolsa cai, com temor sobre variante do novo coronavírus"
+title: Dólar sobe e bolsa cai, com temor sobre variante do novo coronavírus
 date: 2020-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda norte-americana chegou a superar R$ 5,20 durante manhã.
 

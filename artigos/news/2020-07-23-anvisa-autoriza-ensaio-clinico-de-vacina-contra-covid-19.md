@@ -1,11 +1,12 @@
 ---
-title: "Anvisa autoriza ensaio clínico de vacina contra Covid-19"
+title: Anvisa autoriza ensaio clínico de vacina contra Covid-19
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As vacinas em estudo são baseadas em ácido ribonucleico (RNA), que codifica um antígeno específico do vírus Sars-CoV-2. Mil voluntários dos estados de São Paulo e Bahia participam do ensaio clínico. 
 

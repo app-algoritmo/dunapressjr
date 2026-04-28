@@ -1,11 +1,12 @@
 ---
-title: "Ameaça à Liberdade na Internet: Twitter se Manifesta Contra Censura no Brasil"
+title: 'Ameaça à Liberdade na Internet: Twitter se Manifesta Contra Censura no Brasil'
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um tweet recente da conta oficial de Assuntos Governamentais Globais ([Global Government Affairs](https://x.com/GlobalAffairs/status/1776729732970594483)) do Twitter, foi revelado que a X Corp. foi compelida por decisões judiciais a bloquear certas contas populares no Brasil. O post levanta sérias preocupações sobre a liberdade de expressão e transparência dentro do sistema legal brasileiro.
 

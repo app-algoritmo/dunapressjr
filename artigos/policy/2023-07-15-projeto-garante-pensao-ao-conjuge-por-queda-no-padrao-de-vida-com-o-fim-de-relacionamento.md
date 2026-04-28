@@ -1,11 +1,13 @@
 ---
-title: "Projeto garante pensão ao cônjuge por queda no padrão de vida com o fim de relacionamento"
+title: Projeto garante pensão ao cônjuge por queda no padrão de vida com o fim de
+  relacionamento
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A compensação para reequilibrar o padrão de vida não se confunde com a pensão alimentícia e não sujeita o devedor à prisão.
 

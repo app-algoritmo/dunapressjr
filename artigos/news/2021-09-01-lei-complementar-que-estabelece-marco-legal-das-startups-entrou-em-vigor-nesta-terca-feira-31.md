@@ -1,11 +1,13 @@
 ---
-title: "Lei Complementar que estabelece Marco Legal das Startups entrou em vigor nesta terça-feira (31)"
+title: Lei Complementar que estabelece Marco Legal das Startups entrou em vigor nesta
+  terça-feira (31)
 date: 2021-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Norma reconhece o empreendedorismo inovador como fonte de desenvolvimento econômico e social.
 

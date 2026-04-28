@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas auxiliam na Campanha de Vacinação para desafogar sistema de saúde"
+title: Forças Armadas auxiliam na Campanha de Vacinação para desafogar sistema de
+  saúde
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas estão apoiando a última etapa da campanha de vacinação contra a gripe influenza (H1N1). O Comando Conjunto Leste, por meio da Marinha do Brasil (MB), iniciou nesta segunda-feira (11) o apoio no posto do Detran da Barra da Tijuca, no Rio de Janeiro (RJ). Militares do 3° Batalhão de Infantaria de Fuzileiros Navais, técnicos em enfermagem, realizam a vacinação no público geral em um sistema de drive-thru.
 

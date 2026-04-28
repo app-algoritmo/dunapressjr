@@ -1,11 +1,12 @@
 ---
-title: "Pentágono nega planos de retirar tropas do Iraque"
+title: Pentágono nega planos de retirar tropas do Iraque
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Pentágono anunciou na segunda-feira que os Estados Unidos não pretendem retirar as suas tropas do Iraque, apesar do anúncio da semana passada por Bagdad sobre o início de um processo de remoção da coligação militar liderada pelos EUA no país.
 

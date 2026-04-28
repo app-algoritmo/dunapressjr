@@ -1,11 +1,12 @@
 ---
-title: "A partir de maio, postos de saúde vão oferecer consultas pela internet"
+title: A partir de maio, postos de saúde vão oferecer consultas pela internet
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pacientes do Sistema Único de Saúde (SUS) poderão ter consultas virtuais nos postos de saúde da Atenção Primária, a partir de maio. A iniciativa permitirá que profissionais de saúde tenham acesso a uma plataforma para realização de consultas virtuais médicas, de enfermagem e multiprofissionais, no âmbito da Atenção Primária. O Consultório Virtual é mais uma das estratégias do Ministério da Saúde para diminuir a propagação do novo coronavírus e levar assistência à população, além de investir em soluções de telemedicina e telessaúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "Consumidor ganha canal para denunciar telemarketing abusivo"
+title: Consumidor ganha canal para denunciar telemarketing abusivo
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ocorrências serão feitas por formulário eletrônico.
 

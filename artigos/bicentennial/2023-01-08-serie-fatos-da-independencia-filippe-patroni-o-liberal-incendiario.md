@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Filippe Patroni, o liberal incendiário"
+title: 'Série Fatos Da Independência: Filippe Patroni, o liberal incendiário'
 date: 2023-01-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 No dia 10 de dezembro de 1820, após a Revolução Liberal do Porto, desembarcou no Grão-Pará um jovem estudante de Direito pela Universidade de Coimbra que de lá trazia para a capitania ideias iluministas, libertárias e constitucionais, tão em voga na Europa. Em Belém, Filippe Patroni foi responsável pela popularização do vocabulário político liberal e constitucional entre a população local, ao produzir folhetos que eram afixados em praças públicas. As ideias de Patroni ganhavam as ruas e pouco tempo depois receberam apoio, especialmente no que diz respeito à maior participação política e à garantia de direitos.
 

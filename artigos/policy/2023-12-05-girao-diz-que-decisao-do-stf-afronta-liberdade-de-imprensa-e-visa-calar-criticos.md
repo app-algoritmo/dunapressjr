@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que decisão do STF afronta liberdade de imprensa e visa calar críticos"
+title: Girão diz que decisão do STF afronta liberdade de imprensa e visa calar críticos
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) classificou como gravíssima a tese aprovada pelo Supremo Tribunal Federal (STF) na quarta-feira (29). A corte decidiu que veículos de comunicação podem ser responsabilizados civilmente por declarações feitas por entrevistados em reportagens jornalísticas. Em pronunciamento nesta sexta-feira (1), o parlamentar afirmou que os STF infligiu “mais um duro golpe contra a liberdade de expressão”. Para o parlamentar, a medida serve para calar pessoas com pensamentos conservadores, já que a tese intimida veículos independentes e críticos:
 

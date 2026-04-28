@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: China constrói hospital de 1.000 leitos em Wuhan"
+title: 'Coronavírus: China constrói hospital de 1.000 leitos em Wuhan'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O hospital Huoshenshan de Wuhan, que significa 'Montanha dos Deuses do Fogo', foi entregue ao exército da China em 2 de fevereiro de 2020, após 10 dias de construção rápida. O prédio estava quase pronto quando o PLA assumiu o controle.
 

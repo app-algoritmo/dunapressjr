@@ -1,13 +1,14 @@
 ---
-title: "ChatGPT cria nova profissão com salário de $300.000"
+title: ChatGPT cria nova profissão com salário de $300.000
 date: 2023-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Courses and Careers
-  - Personal Development
+- Business and Economy
+- Courses and Careers
+- Personal Development
 ---
+
 
 Você não precisa conhecer uma linguagem de programação para este trabalho: os redatores de prompts usam inteligência artificial para entregar os melhores resultados. Um estudioso literário conta como construiu um segundo esteio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brazil com Z | Gigante pela própria natureza | Grandezas do Brasil"
+title: Brazil com Z | Gigante pela própria natureza | Grandezas do Brasil
 date: 2021-09-07
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - History
+- History
 ---
+
 
 **EDIÇÃO - 23/03/2022:******
 

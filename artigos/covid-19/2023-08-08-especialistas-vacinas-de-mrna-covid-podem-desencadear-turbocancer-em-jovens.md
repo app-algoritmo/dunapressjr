@@ -1,11 +1,13 @@
 ---
-title: "Especialistas: vacinas de mRNA-COVID podem desencadear 'turbocâncer' em jovens"
+title: 'Especialistas: vacinas de mRNA-COVID podem desencadear ''turbocâncer'' em
+  jovens'
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Os especialistas estão observando um aumento intrigante de cânceres em pessoas com menos de 50 anos, que parecem ser biologicamente distintos dos cânceres de idade avançada. Enquanto alguns argumentam que as taxas de câncer vêm aumentando há décadas e que o aumento se deve a bebidas açucaradas, estilo de vida e distúrbios do sono, outros afirmam que as vacinas mRNA COVID-19 causaram o surgimento de "câncer turbo" - e os reguladores dos EUA nunca olharam nele - Problema crescente.
 

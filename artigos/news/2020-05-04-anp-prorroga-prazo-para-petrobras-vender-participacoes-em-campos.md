@@ -1,11 +1,12 @@
 ---
-title: "ANP prorroga prazo para Petrobras vender participações em campos"
+title: ANP prorroga prazo para Petrobras vender participações em campos
 date: 2020-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Venda faz parte do processo de desinvestimento da estatal
 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) prorrogou até 31 de dezembro o prazo para a Petrobras concluir as negociações de cessão de direitos dos contratos de campos em terra e em águas rasas. A venda dos ativos faz parte do processo de desinvestimento da empresa e deve ser submetido à ANP.

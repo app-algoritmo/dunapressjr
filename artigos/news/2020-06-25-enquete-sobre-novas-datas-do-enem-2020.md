@@ -1,11 +1,12 @@
 ---
-title: "Enquete sobre novas datas do Enem 2020"
+title: Enquete sobre novas datas do Enem 2020
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os inscritos no Exame Nacional do Ensino Médio (Enem) 2020 ainda podem participar da votação para a escolha da nova data do exame, adiado devido à pandemia de COVID-19. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará a enquete até o dia 30 de junho, na Página do Participante, para que os inscritos contribuam, de forma voluntária, escolhendo uma das opções apresentadas, com o adiamento das provas em 30, 60 ou 180 dias das datas previstas nos editais.
 

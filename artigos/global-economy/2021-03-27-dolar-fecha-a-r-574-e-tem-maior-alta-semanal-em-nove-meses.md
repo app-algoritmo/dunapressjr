@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,74 e tem maior alta semanal em nove meses"
+title: Dólar fecha a R$ 5,74 e tem maior alta semanal em nove meses
 date: 2021-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,91% com ajuda de commodities.
 

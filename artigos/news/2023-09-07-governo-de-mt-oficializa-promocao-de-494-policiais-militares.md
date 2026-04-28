@@ -1,11 +1,12 @@
 ---
-title: "Governo de MT oficializa promoção de 494 policiais militares"
+title: Governo de MT oficializa promoção de 494 policiais militares
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Solenidade também marcou comemoração dos 188 anos da Polícia Militar.
 

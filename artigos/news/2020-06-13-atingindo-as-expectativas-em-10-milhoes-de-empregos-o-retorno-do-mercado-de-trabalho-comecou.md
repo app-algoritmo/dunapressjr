@@ -1,11 +1,13 @@
 ---
-title: "Atingindo as expectativas em 10 milhões de empregos, o retorno do mercado de trabalho começou"
+title: Atingindo as expectativas em 10 milhões de empregos, o retorno do mercado de
+  trabalho começou
 date: 2020-06-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O relatório da situação de emprego de maio do Bureau of Labor Statistics mostra que a economia dos Estados Unidos adicionou 2,5 milhões de empregos no mês passado e a taxa de desemprego caiu de 14,7% para 13,3%.
 

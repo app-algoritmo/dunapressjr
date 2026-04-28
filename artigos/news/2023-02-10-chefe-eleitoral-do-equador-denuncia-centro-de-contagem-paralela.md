@@ -1,11 +1,12 @@
 ---
-title: "Chefe eleitoral do Equador denuncia centro de contagem paralela"
+title: Chefe eleitoral do Equador denuncia centro de contagem paralela
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na última segunda-feira, a Presidência do Equador havia reclamado ao CNE em um comunicado a lentidão na contagem dos votos no referendo, especialmente na província de Guayas.****
 

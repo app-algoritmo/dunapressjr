@@ -1,11 +1,13 @@
 ---
-title: "O coronavírus se espalha rapidamente e às vezes antes que as pessoas apresentem sintomas, segundo estudo"
+title: O coronavírus se espalha rapidamente e às vezes antes que as pessoas apresentem
+  sintomas, segundo estudo
 date: 2020-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores de doenças infecciosas da Universidade do Texas em Austin, estudando o novo coronavírus, foram capazes de identificar a rapidez com que o vírus pode se espalhar, um fator que pode ajudar as autoridades de saúde pública em seus esforços de contenção. Eles descobriram que o tempo entre os casos em uma cadeia de transmissão é inferior a uma semana e que mais de 10% dos pacientes são infectados por alguém que possui o vírus, mas ainda não apresenta sintomas.
 

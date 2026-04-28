@@ -1,11 +1,12 @@
 ---
-title: "Catástrofes, guerras e fatos que atingem todos, são sinais para mudança"
+title: Catástrofes, guerras e fatos que atingem todos, são sinais para mudança
 date: 2020-05-11
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Quando eclodem guerras, catástrofes, fatos que atingem a maior parte da população, seja mental ou psicologicamente, financeiro ou materialmente, é evidente que é um sinal para mudarmos algumas situações, visões, paradigmas, principalmente, e consequentemente nossas atitudes perante tudo e todos.
 

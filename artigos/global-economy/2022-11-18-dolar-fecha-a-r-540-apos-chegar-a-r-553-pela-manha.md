@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,40, após chegar a R$ 5,53 pela manhã"
+title: Dólar fecha a R$ 5,40, após chegar a R$ 5,53 pela manhã
 date: 2022-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa chega a cair 2,6%, mas se recupera e fecha com baixa de 0,49%.
 

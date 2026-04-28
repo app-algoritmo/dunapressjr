@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que prevê aplicação rápida de medidas protetivas de natureza cível para a mulher"
+title: Comissão aprova projeto que prevê aplicação rápida de medidas protetivas de
+  natureza cível para a mulher
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 5609/19, do Senado, que procura tornar mais rápidas as ações judiciais de natureza cível para proteção da mulher vítima de violência.
 

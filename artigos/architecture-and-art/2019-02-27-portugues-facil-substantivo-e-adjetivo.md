@@ -1,11 +1,12 @@
 ---
-title: "Português Fácil: Substantivo e Adjetivo"
+title: 'Português Fácil: Substantivo e Adjetivo'
 date: 2019-02-27
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 No princípio era o Verbo, mas não será por ele que vou começar a dar essas dicas fáceis para entender Gramática, a frente mais temida e odiada da Língua Portuguesa - e de todas as outras línguas também. Primeiro, vamos compreender que a nossa Gramática é um conjunto de normas legais, elaboradas por intelectuais de vários países de Língua Portuguesa e posteriormente aprovadas por eles.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prevenção: Olhos abertos para a trombose"
+title: 'Prevenção: Olhos abertos para a trombose'
 date: 2022-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A trombose é a formação de coágulos potencialmente mortais na artéria (trombose arterial) ou veia (trombose venosa). Uma vez formado, o coágulo pode retardar ou bloquear o fluxo sanguíneo normal, e até se soltar e viajar para algum órgão. Isso pode resultar em lesão significativa, incluindo ataque cardíaco, derrame e o tromboembolismo venoso (TEV). Caso esse coágulo se desloque até o pulmão o evento pode ser fatal.
 

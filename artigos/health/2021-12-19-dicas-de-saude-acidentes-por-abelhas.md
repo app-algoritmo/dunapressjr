@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Acidentes por abelhas"
+title: 'Dicas de Saúde: Acidentes por abelhas'
 date: 2021-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Abelhas são insetos da ordem Hymenoptera, assim como as vespas e as formigas. Algumas espécies são conhecidas por produzirem o mel e viverem em colônias, com uma organização hierárquica com uma rainha, alguns machos férteis e milhares de operárias fêmeas. As abelhas operárias são as responsáveis pela defesa da colônia. Ao picar, elas perdem parte do aparato inoculador, morrendo em seguida. Este aparato possui músculos próprios e continuam injetando a peçonha mesmo após a separação do resto do corpo. Próximas a um enxame, as primeiras abelhas, ao picar, liberam um feromônio que faz com que outras ataquem o mesmo alvo, podendo ocasionar acidente com centenas de picadas. As Mamangavas ou Mamangabas, que são abelhas das subfamílias Bombinae e Euglossinae, não perdem o ferrão e podem ferroar várias vezes.
 

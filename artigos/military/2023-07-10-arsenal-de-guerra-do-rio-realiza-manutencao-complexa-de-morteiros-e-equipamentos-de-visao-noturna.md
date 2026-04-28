@@ -1,11 +1,13 @@
 ---
-title: "Arsenal de Guerra do Rio realiza manutenção complexa de morteiros e equipamentos de visão noturna"
+title: Arsenal de Guerra do Rio realiza manutenção complexa de morteiros e equipamentos
+  de visão noturna
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 30 de junho, ocorreu, no Arsenal de Guerra do Rio (AGR), organização militar diretamente subordinada à Diretoria de Fabricação (DF), formatura militar para marcar a conclusão de manutenção de morteiros 120 mm e equipamentos de visão noturna, aqueles em 3º escalão e estes em 4º escalão.
 

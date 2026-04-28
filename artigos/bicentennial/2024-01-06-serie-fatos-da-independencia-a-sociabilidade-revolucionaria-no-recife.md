@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A sociabilidade revolucionária no Recife"
+title: 'Série Fatos Da Independência: A sociabilidade revolucionária no Recife'
 date: 2024-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A Revolução de 1817 soprou uma aragem libertária no Recife e animou um tipo de sociabilidade pública que se desenvolveu forjada por relações horizontais de reciprocidade e ancorada no patriotismo. Ser patriota, nos termos da Coroa portuguesa, era acusação gravíssima: servia para nomear o rebelde que cometeu o crime terrível de lesa-majestade e, na América portuguesa, tornou-se sinônimo de insurgente a partir de seu uso pelos conjurados nas Minas setecentistas. Ser patriota, no Recife, era isso mesmo: o sujeito era revolucionário. Incluía desfrutar de certo igualitarismo militante entre pessoas que pensavam da mesma forma, bravejar contra o governo imperial num clima de confiança mútua, não passar despercebido entre iguais nem permanecer anônimo na cena pública.
 

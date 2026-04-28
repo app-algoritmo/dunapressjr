@@ -1,11 +1,12 @@
 ---
-title: "Biossensor poderá detectar leishmaniose visceral"
+title: Biossensor poderá detectar leishmaniose visceral
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um estudo liderado pela Universidade Federal do Triângulo Mineiro (UFTM), com duas bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) na equipe de pesquisadores, levou ao desenvolvimento de um biossensor que detecta de forma rápida e eficiente a leishmaniose visceral. O trabalho tem a participação de cientistas das Universidades Federal de Alagoas (Ufal) e de Uberlândia (UFU) e já teve um [artigo](https://www.mdpi.com/2079-6374/10/8/81/htm) publicado no periódico científico *Biosensors*.
 

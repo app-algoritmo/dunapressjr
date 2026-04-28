@@ -1,11 +1,12 @@
 ---
-title: "Índice que reajusta aluguéis cai 0,04% em fevereiro"
+title: Índice que reajusta aluguéis cai 0,04% em fevereiro
 date: 2020-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 IGP-M acumula alta de 0,44% no ano e de 6,82% em 12 meses
 

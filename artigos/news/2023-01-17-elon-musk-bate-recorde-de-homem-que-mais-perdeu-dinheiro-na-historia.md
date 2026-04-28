@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk bate recorde de homem que mais perdeu dinheiro na história"
+title: Elon Musk bate recorde de homem que mais perdeu dinheiro na história
 date: 2023-01-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Saiba quanto o bilionário perdeu desde atingir o pico de sua fortuna; Veja!
 

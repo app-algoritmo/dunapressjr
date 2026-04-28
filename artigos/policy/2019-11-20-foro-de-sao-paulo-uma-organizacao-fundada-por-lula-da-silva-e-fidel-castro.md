@@ -1,11 +1,12 @@
 ---
-title: "Foro de São Paulo, uma organização fundada por Lula da Silva e Fidel Castro"
+title: Foro de São Paulo, uma organização fundada por Lula da Silva e Fidel Castro
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Por quase duas décadas, os jornais e supostos oposicionistas brasileiros esconderam do grande público a existência do Foro de São Paulo, publicado pelo jornalista Felipe Moura Brasil, a descoberta do advogado paulista José Carlos Graça Wagner, que denunciou publicamente em 1º de setembro de 1997, e não faltou quem rotulasse seus denunciadores como “teóricos da conspiração”. De uns anos para cá, quando o Foro já tinha feito e desfeito governos em toda a América Latina, elegendo presidentes dos países do continente cerca de 15 membros da organização, seu nome começou a aparecer aqui e ali em reportagens, como se o Foro fosse apenas uma entidade como outra qualquer.
 

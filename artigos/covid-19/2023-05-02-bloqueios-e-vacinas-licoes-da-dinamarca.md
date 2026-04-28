@@ -1,11 +1,12 @@
 ---
-title: "Bloqueios e vacinas: lições da Dinamarca"
+title: 'Bloqueios e vacinas: lições da Dinamarca'
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Quanto a Dinamarca pode nos ensinar hoje sobre o curso natural da pandemia e os efeitos das intervenções humanas?
 

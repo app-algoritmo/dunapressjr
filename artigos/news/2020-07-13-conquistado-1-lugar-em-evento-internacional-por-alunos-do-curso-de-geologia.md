@@ -1,11 +1,12 @@
 ---
-title: "Conquistado 1º lugar em evento internacional, por alunos do curso de Geologia"
+title: Conquistado 1º lugar em evento internacional, por alunos do curso de Geologia
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Premiação aconteceu nesta segunda, 6, virtualmente.
 

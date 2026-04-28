@@ -1,11 +1,12 @@
 ---
-title: "Equipe de Análises Clínicas do HAAF recebe instrução sobre coleta de swab"
+title: Equipe de Análises Clínicas do HAAF recebe instrução sobre coleta de swab
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Militares que atuam na Subdivisão de Análises Clínicas do Hospital de Aeronáutica dos Afonsos (HAAF), no Rio de Janeiro (RJ), participaram, nessa segunda-feira (13), de instrução sobre procedimentos de coleta de *swab *– cotonete estéril que serve para coleta de exames microbiológicos – de nasofaringe e orofaringe dos pacientes suspeitos de infecção do novo Coronavírus.
 

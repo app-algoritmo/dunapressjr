@@ -1,11 +1,12 @@
 ---
-title: "BNDES lança medidas para apoiar empresas e trabalhadores"
+title: BNDES lança medidas para apoiar empresas e trabalhadores
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A diretoria do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou, em caráter emergencial, medidas socioeconômicas de execução imediata que têm por objetivo ajudar a mitigar os efeitos da pandemia do novo coronavírus no Brasil. As medidas, que somam R$ 55 bilhões, são: 
 

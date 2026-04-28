@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Banco Central Destaca Sucesso do PIX Crédito e Moeda DREX em Palestra na Associação Comercial do Paraná"
+title: Presidente do Banco Central Destaca Sucesso do PIX Crédito e Moeda DREX em
+  Palestra na Associação Comercial do Paraná
 date: 2023-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Roberto Campos Neto apresenta planos de integração do Pix com operações de crédito e revela projeto de aplicativo unificado para serviços bancários.
 

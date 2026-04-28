@@ -1,12 +1,13 @@
 ---
-title: "Os Targaryens estão Chegando"
+title: Os Targaryens estão Chegando
 date: 2022-07-28
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 Uma das séries mais esperadas do ano de 2022 está em contagem regressiva para sua estreia, é, é ela, **House of the Dragon**. – E o coração de qualquer fã dos livros de George R.R Martin, e da série, **Game of Thrones,** bate acelerado.
 

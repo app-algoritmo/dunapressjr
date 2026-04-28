@@ -1,11 +1,13 @@
 ---
-title: "Importação Ilegal de Imigrantes: A Controvérsia que Abala a Administração Biden"
+title: 'Importação Ilegal de Imigrantes: A Controvérsia que Abala a Administração
+  Biden'
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A administração do presidente dos Estados Unidos, Joe Biden, está no centro de uma polêmica após a revelação de que mais de 320.000 imigrantes ilegais foram importados para o país por avião em segredo, num esforço para reduzir as travessias na fronteira sul. Esta revelação, obtida através de um pedido da Lei de Liberdade de Informação (FOIA), levanta questões sobre a legalidade e transparência das políticas migratórias do governo Biden.
 

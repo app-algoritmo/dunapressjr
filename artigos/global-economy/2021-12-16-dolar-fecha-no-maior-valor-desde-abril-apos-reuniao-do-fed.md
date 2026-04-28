@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no maior valor desde abril, após reunião do Fed"
+title: Dólar fecha no maior valor desde abril, após reunião do Fed
 date: 2021-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores sobe 0,63% em dia de volatilidade.
 

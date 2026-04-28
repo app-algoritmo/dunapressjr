@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro amplia canais de atendimento aos Direitos Humanos"
+title: Governo Bolsonaro amplia canais de atendimento aos Direitos Humanos
 date: 2020-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) agiu, desde o início da pandemia, para ampliar e disponibilizar novos serviços de denúncia e amparo as pessoas que se encontram vulneráveis por conta da quarentena. A primeira ação da Ouvidora Nacional de Direitos Humanos (ONDH) foi disponibilizar o Disque 100 para brasileiros em mais de 50 países estrangeiros. Por meio do canal, eles podem fazer denúncias e obter informações relacionadas à Covid-19.
 

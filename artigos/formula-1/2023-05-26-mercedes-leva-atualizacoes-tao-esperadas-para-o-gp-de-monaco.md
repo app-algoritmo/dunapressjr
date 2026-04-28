@@ -1,12 +1,13 @@
 ---
-title: "Mercedes leva atualizações tão esperadas para o GP de Mônaco"
+title: Mercedes leva atualizações tão esperadas para o GP de Mônaco
 date: 2023-05-26
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Formula 1
-  - Sports
+- Formula 1
+- Sports
 ---
+
 
 ## A Mercedes trouxe seu planejado pacote de atualização de Imola para Mônaco e, como prometido, parece muito diferente do W14 'zero-sidepod' original.
 

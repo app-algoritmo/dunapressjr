@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que estende incentivo fiscal em áreas da Sudam e da Sudene por cinco anos"
+title: Comissão aprova projeto que estende incentivo fiscal em áreas da Sudam e da
+  Sudene por cinco anos
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia da Câmara dos Deputados aprovou o [Projeto de Lei 4416/21](https://www.camara.leg.br/noticias/852516-PROJETO-ESTENDE-INCENTIVO-EM-AREAS-DA-SUDAM-E-DA-SUDENE-POR-CINCO-ANOS), que prorroga até 2028 os incentivos fiscais para empresas nas áreas de atuação das superintendências de Desenvolvimento da Amazônia (Sudam) e do Nordeste (Sudene).
 

@@ -1,11 +1,12 @@
 ---
-title: "Novembro Roxo: Prematuridade Mantenha pais e bebês prematuros juntos"
+title: 'Novembro Roxo: Prematuridade Mantenha pais e bebês prematuros juntos'
 date: 2021-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mantenha pais e bebês prematuros juntos, ou seja, permitir que a mãe tenha condições de ficar internada para acompanhar o filho prematuro o tempo todo e que o pai também tenha livre acesso.
 

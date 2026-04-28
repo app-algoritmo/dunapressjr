@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico de drogas a partir de postagens nos Correios"
+title: PF combate o tráfico de drogas a partir de postagens nos Correios
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal deflagrou nesta sexta-feira, 26/6, a Operação PARÔNIMO, destinada ao combate ao tráfico de drogas a partir de postagens nos CORREIOS.
 

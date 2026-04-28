@@ -1,11 +1,12 @@
 ---
-title: "A curva de Laffer do PRO de Larreta e Bullrich que beneficia Milei"
+title: A curva de Laffer do PRO de Larreta e Bullrich que beneficia Milei
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com a aproximação das primárias para as eleições presidenciais do próximo ano, a competição entre Horacio Rodríguez Larreta e Patricia Bullrich se intensifica. Ambos são, até agora, concorrentes do PRO dentro da coalizão Juntos pela Mudança.
 

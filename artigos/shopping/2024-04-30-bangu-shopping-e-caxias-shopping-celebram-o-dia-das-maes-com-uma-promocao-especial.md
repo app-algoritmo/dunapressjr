@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping e Caxias Shopping celebram o Dia das Mães com uma promoção especial"
+title: Bangu Shopping e Caxias Shopping celebram o Dia das Mães com uma promoção especial
 date: 2024-04-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Clientes que juntarem R$350 em compras ganham brinde Brizza Arezzo.
 

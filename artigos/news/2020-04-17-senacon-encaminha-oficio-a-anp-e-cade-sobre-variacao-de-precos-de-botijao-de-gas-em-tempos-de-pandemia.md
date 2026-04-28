@@ -1,11 +1,13 @@
 ---
-title: "Senacon encaminha oficio à ANP e Cade sobre variação de preços de botijão de gás em tempos de pandemia"
+title: Senacon encaminha oficio à ANP e Cade sobre variação de preços de botijão de
+  gás em tempos de pandemia
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 17/04/2020 -** Após tomar ciência de problemas relacionados ao preço do gás no estado de São Paulo, a Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública (Senacon), oficiou a Agência Nacional de Petróleo (ANP) e o Conselho Administrativo de Defesa Econômica (CADE).  
 

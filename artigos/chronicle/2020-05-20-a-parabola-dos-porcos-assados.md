@@ -1,11 +1,12 @@
 ---
-title: "A parábola dos porcos assados"
+title: A parábola dos porcos assados
 date: 2020-05-20
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **CERTA VEZ**, ocorreu um incêndio num bosque onde havia alguns porcos, que foram assados pelo fogo. Os homens, que até então os comiam crus, experimentaram a carne assada e acharam-na deliciosa. A partir daí, toda vez que queriam comer porco assado, incendiavam um bosque.
 

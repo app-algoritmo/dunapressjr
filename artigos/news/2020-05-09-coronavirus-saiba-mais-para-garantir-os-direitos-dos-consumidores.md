@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Saiba mais para garantir os direitos dos consumidores"
+title: 'Coronavírus: Saiba mais para garantir os direitos dos consumidores'
 date: 2020-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Consumidores que compraram serviços como pacotes turísticos, ingressos para eventos ou passagens aéreas, por exemplo, e que têm dúvidas sobre seus direitos em relação aos serviços e produtos durante pandemia de Covid-19 podem conhecer aqui quais acordos já foram firmados pela Secretaria Nacional do Consumidor, do Ministério da Justiça e Segurança Pública. As medidas visam evitar prejuízos ao consumidor e minimizar os impactos na economia.
 

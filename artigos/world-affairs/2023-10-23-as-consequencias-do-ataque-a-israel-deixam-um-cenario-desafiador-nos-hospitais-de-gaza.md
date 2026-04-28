@@ -1,11 +1,13 @@
 ---
-title: "As consequências do ataque à Israel deixam um Cenário desafiador nos hospitais de Gaza"
+title: As consequências do ataque à Israel deixam um Cenário desafiador nos hospitais
+  de Gaza
 date: 2023-10-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os hospitais em Gaza estão enfrentando graves escassezes de suprimentos médicos, eletricidade e necessidades básicas, tornando extremamente desafiador para os profissionais de saúde oferecer atendimento adequado aos feridos. O conflito em curso sobrecarregou essas instalações de saúde, levando a uma crise humanitária.
 

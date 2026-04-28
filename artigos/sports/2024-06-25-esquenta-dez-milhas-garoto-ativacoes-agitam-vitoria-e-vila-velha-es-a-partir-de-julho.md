@@ -1,11 +1,13 @@
 ---
-title: "Esquenta Dez Milhas Garoto: ativações agitam Vitória e Vila Velha (ES) a partir de julho"
+title: 'Esquenta Dez Milhas Garoto: ativações agitam Vitória e Vila Velha (ES) a partir
+  de julho'
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Massagem e atividades esportivas na praia estão entre as ações de preparação para a tradicional prova que ocorre em 29 de setembro. As inscrições já estão abertas.
 

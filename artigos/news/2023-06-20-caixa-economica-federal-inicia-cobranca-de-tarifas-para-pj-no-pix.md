@@ -1,11 +1,12 @@
 ---
-title: "Caixa Econômica Federal inicia cobrança de tarifas para PJ no Pix"
+title: Caixa Econômica Federal inicia cobrança de tarifas para PJ no Pix
 date: 2023-06-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pessoas físicas e MEIs continuam isentas de tarifas.
 

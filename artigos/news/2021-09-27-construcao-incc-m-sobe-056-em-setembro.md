@@ -1,11 +1,12 @@
 ---
-title: "Construção: INCC-M sobe 0,56% em setembro"
+title: 'Construção: INCC-M sobe 0,56% em setembro'
 date: 2021-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula alta de 11,99% no ano e de 16,37% em 12 meses.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump Adverte: Tarifas à China Poderiam Superar 60% se Eleito Novamente"
+title: 'Trump Adverte: Tarifas à China Poderiam Superar 60% se Eleito Novamente'
 date: 2024-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Segundo Trump, a imposição de tarifas é crucial, argumentando que suas ações anteriores influenciaram positivamente o mercado de ações. Ele lembrou episódios específicos, como as primárias de Iowa e New Hampshire, onde a vitória nas disputas resultou em reações significativas nos mercados.
 

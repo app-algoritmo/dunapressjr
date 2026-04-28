@@ -1,11 +1,12 @@
 ---
-title: "Presidente diz que determinará redução da bandeira tarifária na luz"
+title: Presidente diz que determinará redução da bandeira tarifária na luz
 date: 2021-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Declaração foi dada durante evento evangélico em Brasília.
 

@@ -1,11 +1,13 @@
 ---
-title: "São Paulo: Ato solene presta homenagem a profissionais de saúde à frente da pandemia da Covid-19"
+title: 'São Paulo: Ato solene presta homenagem a profissionais de saúde à frente da
+  pandemia da Covid-19'
 date: 2020-06-27
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 Na manhã desta sexta-feira (26/6), os profissionais de saúde que atuam na linha frente do combate à pandemia de Covid-19 foram homenageados em um ato solene da Assembleia paulista, que ocorreu em ambiente virtual e contou com a participação de representantes de entidades de classe
 

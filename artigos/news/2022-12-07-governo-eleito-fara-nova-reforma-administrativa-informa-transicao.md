@@ -1,11 +1,12 @@
 ---
-title: "Governo eleito fará nova reforma administrativa, informa transição"
+title: Governo eleito fará nova reforma administrativa, informa transição
 date: 2022-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo grupo de trabalho, reajustes a servidores serão graduais.
 

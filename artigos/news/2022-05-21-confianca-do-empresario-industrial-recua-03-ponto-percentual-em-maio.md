@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário industrial recua 0,3 ponto percentual em maio"
+title: Confiança do empresário industrial recua 0,3 ponto percentual em maio
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Icei passou de 56,8 pontos em abril para 56,5 pontos em maio.
 

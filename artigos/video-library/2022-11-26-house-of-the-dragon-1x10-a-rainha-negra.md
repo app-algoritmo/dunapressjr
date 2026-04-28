@@ -1,11 +1,12 @@
 ---
-title: "House Of The Dragon 1x10 - A Rainha Negra"
+title: House Of The Dragon 1x10 - A Rainha Negra
 date: 2022-11-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Rhaenys chega a Pedra do Dragão com notícias, e elas não são nada boas, Rhaenyra descobre de uma só vez que seu pai morreu e seu meio irmão juntamente com a Casa Hightowers usurparam seu trono. Ela entra em trabalho de parto. – Enquanto isso acontece seu dragão sofre junto com ela. A cena é forte e simbólica, ela praticamente luta, não quer ajuda das parteiras e pôr fim a criança nasce morta. – Daemon e seu dragão parecem sentir a mesma inquietação, ele fala com os homens que os servem para saber a quem eles são fiéis, enquanto seu dragão os observa pronto a mandar fogo caso eles se mostrem fieis a Aegon, o usurpador.
 

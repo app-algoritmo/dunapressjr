@@ -1,11 +1,13 @@
 ---
-title: "Escola de Aperfeiçoamento de Oficiais recebe o Chefe do Departamento e Cultura do Exército"
+title: Escola de Aperfeiçoamento de Oficiais recebe o Chefe do Departamento e Cultura
+  do Exército
 date: 2020-04-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** - No dia 15 de abril, a Escola de Aperfeiçoamento de Oficiais (EsAO) recebeu a visita oficial do General de Exército **Tomás Miguel Miné Ribeiro Paiva**, Chefe do  Departamento e Cultura do Exército (DECEx).
 

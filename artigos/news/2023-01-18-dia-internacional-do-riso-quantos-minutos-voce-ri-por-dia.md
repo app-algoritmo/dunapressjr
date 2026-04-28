@@ -1,11 +1,12 @@
 ---
-title: "Dia Internacional do Riso: quantos minutos você ri por dia?"
+title: 'Dia Internacional do Riso: quantos minutos você ri por dia?'
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Rir é o melhor remédio”. Essa máxima que surgiu na década de 1960 já é comprovada por diversas pesquisas: dar risada melhora os sistemas muscular, cardiovascular, respiratório, endócrino, imunológico e nervoso central. “A risada aumenta a tolerância à dor e pode ser uma grande aliada de  pessoas com doenças crônicas. A literatura científica já apresenta dados de que, com a risada, conseguimos benefícios nos campos biológico, fisiológico e mental”, explica o cardiologista do Hospital Marcelino Champagnat, Fernando Luchina Alves. “Geralmente, a risada e o bom humor andam juntos e isso favorece bons e duradouros relacionamentos sociais que estão associados a uma vida mais saudável e longeva”, complementa o médico. 
 

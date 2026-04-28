@@ -1,11 +1,13 @@
 ---
-title: "IFI prevê contingenciamento de R$ 31,9 bi no Orçamento para manter teto de gastos"
+title: IFI prevê contingenciamento de R$ 31,9 bi no Orçamento para manter teto de
+  gastos
 date: 2021-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Instituição Fiscal Independente (IFI) do Senado Federal divulgou [nota técnica](https://t.co/yyMAjK69zz?amp=1) que analisa os números do Orçamento de 2021, [aprovado na semana passada pelo Congresso Nacional](http://www12.senado.leg.br/noticias/materias/2021/03/29/25/aprovado-orcamento-de-2021-com-deficit-de-r-247-1-bilhoes). De acordo com a nota, a elevação das despesas discricionárias (aquelas que não são obrigatórias e por isso podem ser bloqueadas pelo governo) da Lei Orçamentária Anual para R$ 139,1 bilhões levaria ao estouro do teto de gastos em R$ 31,9 bilhões.
 

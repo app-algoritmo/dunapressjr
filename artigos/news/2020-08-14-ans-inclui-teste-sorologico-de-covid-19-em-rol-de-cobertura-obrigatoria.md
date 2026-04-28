@@ -1,11 +1,12 @@
 ---
-title: "ANS inclui teste sorológico de covid-19 em rol de cobertura obrigatória"
+title: ANS inclui teste sorológico de covid-19 em rol de cobertura obrigatória
 date: 2020-08-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Agência Nacional de Saúde Suplementar (ANS) decidiu incorporar ao Rol de Procedimentos e Eventos em Saúde o teste sorológico para detectar a presença de anticorpos produzidos pelo organismo após exposição ao novo Coronavírus. A decisão da Diretoria Colegiada, nesta quinta-feira (13/8), foi tomada após a ANS concluir análise técnica das evidências científicas disponíveis e promover amplo debate sobre o tema com o setor regulado e a sociedade. A Resolução Normativa segue agora para o Diário Oficial da União e passa a valer na data de publicação.
 

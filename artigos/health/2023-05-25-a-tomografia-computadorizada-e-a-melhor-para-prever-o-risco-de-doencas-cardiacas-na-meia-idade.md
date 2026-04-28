@@ -1,11 +1,13 @@
 ---
-title: "A tomografia computadorizada é a melhor para prever o risco de doenças cardíacas na meia-idade"
+title: A tomografia computadorizada é a melhor para prever o risco de doenças cardíacas
+  na meia-idade
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Scan supera a genética para avaliar o risco.
 

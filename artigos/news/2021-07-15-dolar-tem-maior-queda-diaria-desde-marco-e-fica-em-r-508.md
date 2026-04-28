@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda diária desde março e fica em R$ 5,08"
+title: Dólar tem maior queda diária desde março e fica em R$ 5,08
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa iniciou em forte alta, mas fechou praticamente estável.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: bolsas da Europa despencam 6% na abertura dos pregões"
+title: 'Coronavírus: bolsas da Europa despencam 6% na abertura dos pregões'
 date: 2020-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Países do G7 farão videoconferência hoje para debater Covid-19
 

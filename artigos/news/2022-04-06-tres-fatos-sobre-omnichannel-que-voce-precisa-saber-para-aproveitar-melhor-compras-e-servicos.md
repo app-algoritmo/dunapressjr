@@ -1,11 +1,13 @@
 ---
-title: "Três fatos sobre omnichannel que você precisa saber para aproveitar melhor compras e serviços"
+title: Três fatos sobre omnichannel que você precisa saber para aproveitar melhor
+  compras e serviços
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cada vez mais o cliente está em busca de facilidades no momento da compra ou de atendimento de serviços. Diversos canais de comunicação e humanização na área de suporte estão entre as prioridades do usuário. Um estudo da Harvard Business Review mostra que 73% dos consumidores usam vários canais da mesma empresa durante o processo de compra. Outra análise, que resultou da pesquisa feita pela Opinion Box, em 2021, revela que 60% dos brasileiros utilizam o serviço de forma híbrida, ou seja, uma parte on-line e outra presencial. 
 

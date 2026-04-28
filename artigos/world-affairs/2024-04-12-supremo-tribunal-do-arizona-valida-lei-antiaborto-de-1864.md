@@ -1,11 +1,12 @@
 ---
-title: "Supremo Tribunal do Arizona valida lei antiaborto de 1864"
+title: Supremo Tribunal do Arizona valida lei antiaborto de 1864
 date: 2024-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Supremo Tribunal do estado do Arizona causou alvoroço ao validar, nesta terça-feira, uma lei de 1864 que proíbe e penaliza o aborto, exceto em casos de risco à vida da mãe. A decisão, que reverte uma medida anterior que permitia o aborto até 15 semanas em circunstâncias limitadas, alinha o Arizona com estados como Texas, Alabama e Mississippi, onde as exceções ao aborto são mínimas.
 

@@ -1,11 +1,13 @@
 ---
-title: "O regime de censura em massa da UE está agora quase totalmente operacional. Será global?"
+title: O regime de censura em massa da UE está agora quase totalmente operacional.
+  Será global?
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **A censura estatal do discurso público online nas democracias supostamente liberais do Ocidente tem sido amplamente obscurecida, como mostram os arquivos do Twitter. Mas, graças à lei da UE sobre serviços digitais, agora está se tornando óbvio.**
 

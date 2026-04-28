@@ -1,11 +1,12 @@
 ---
-title: "PF prende líder de organização criminosa de tráfico de entorpecente na Bahia"
+title: PF prende líder de organização criminosa de tráfico de entorpecente na Bahia
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Salvador/BA - A Polícia Federal, com apoio do Ministério Público do Estado da Bahia, deflagrou na sexta-feira (8/5), operação policial com o objetivo de prender um importante líder de organização criminosa voltada ao tráfico de entorpecentes no estado da Bahia.
 

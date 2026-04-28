@@ -1,11 +1,13 @@
 ---
-title: "Pacientes com sequelas da Covid-19 recebem tratamento especializado pelo SUS em hospital de Curitiba"
+title: Pacientes com sequelas da Covid-19 recebem tratamento especializado pelo SUS
+  em hospital de Curitiba
 date: 2021-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Muitos pacientes que recebem alta hospitalar da Covid-19 têm um novo desafio: superar as marcas deixadas pelo novo coronavírus. Para alguns, a dificuldade de andar e o cansaço extremo; para outros, a falta de ar. Falar e voltar a se alimentar da mesma maneira de meses atrás também pode ser um martírio para aqueles que precisaram de traqueostomia ou que seguem sem olfato e paladar; enquanto a dor de cabeça forte e os sinais de estresse pós traumático rondam a mente de muitas pessoas e até mesmo de seus familiares.
 

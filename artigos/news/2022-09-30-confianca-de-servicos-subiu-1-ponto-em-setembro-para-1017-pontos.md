@@ -1,11 +1,12 @@
 ---
-title: "Confiança de serviços subiu 1 ponto em setembro para 101,7 pontos"
+title: Confiança de serviços subiu 1 ponto em setembro para 101,7 pontos
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trata-se do maior nível desde março de 2013, quando atingiu 102 pontos.
 

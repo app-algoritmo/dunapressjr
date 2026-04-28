@@ -1,11 +1,12 @@
 ---
-title: "Governo elabora cartilha em três idiomas para auxiliar imigrantes sobre o coronavírus"
+title: Governo elabora cartilha em três idiomas para auxiliar imigrantes sobre o coronavírus
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMDFH) divulgou, nesta quarta-feira (1º), cartilhas em línguas estrangeiras com recomendações de enfrentamento ao novo coronavírus (Covid-19) para imigrantes e refugiados que vivem no Brasil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Contribuinte poderá pagar taxas federais com cartão de crédito"
+title: Contribuinte poderá pagar taxas federais com cartão de crédito
 date: 2021-03-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova modalidade estará disponível a partir de segunda (15).
 

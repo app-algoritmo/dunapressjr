@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe nesta sexta e encerra semana com alta de 2%"
+title: Dólar sobe nesta sexta e encerra semana com alta de 2%
 date: 2020-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai no dia, mas acumula ganhos na semana.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança do Empresário Industrial cai pelo terceiro mês consecutivo"
+title: Confiança do Empresário Industrial cai pelo terceiro mês consecutivo
 date: 2021-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com a queda, o ICEI de novembro ficou em 56 pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "URGENTE: Trump é Atingido Durante Comício na Pensilvânia"
+title: 'URGENTE: Trump é Atingido Durante Comício na Pensilvânia'
 date: 2024-07-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pensilvânia-USA 13.7.2024 18:30 - Oslo 14.7.2024 00:30 |  Em um evento chocante e sem precedentes, o ex-presidente Donald Trump foi atingido na cabeça durante um comício na Pensilvânia. Testemunhas relataram que Trump foi atingido por um objeto não identificado, causando sangramento visível em seu ouvido.
 

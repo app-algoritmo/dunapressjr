@@ -1,11 +1,12 @@
 ---
-title: "Fragata Almirante Guschkov: A Poderosa Arma Russa Equipada com Mísseis Hipersônicos"
+title: 'Fragata Almirante Guschkov: A Poderosa Arma Russa Equipada com Mísseis Hipersônicos'
 date: 2024-02-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **A Ascensão da Fragata Almirante Guschkov: Uma Nova Era na Capacidade Militar Russa**
 

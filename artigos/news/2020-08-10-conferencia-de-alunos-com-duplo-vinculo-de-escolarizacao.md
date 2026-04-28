@@ -1,11 +1,12 @@
 ---
-title: "Conferência de alunos com duplo vínculo de escolarização"
+title: Conferência de alunos com duplo vínculo de escolarização
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Módulo de confirmação de matrícula está disponível no Sistema Educacenso. Responsáveis pelo preenchimento devem verificar as informações até o dia 21 de agosto.
 

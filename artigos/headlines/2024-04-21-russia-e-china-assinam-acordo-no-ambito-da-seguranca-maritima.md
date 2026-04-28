@@ -1,11 +1,12 @@
 ---
-title: "Rússia e China assinam acordo no âmbito da segurança marítima"
+title: Rússia e China assinam acordo no âmbito da segurança marítima
 date: 2024-04-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 O chefe da marinha russa, almirante Aleksander Moiseyev, e seu homólogo chinês, almirante Hu Zhongming, assinaram um acordo sobre salvamento marítimo, informou o Ministério da Defesa russo.
 

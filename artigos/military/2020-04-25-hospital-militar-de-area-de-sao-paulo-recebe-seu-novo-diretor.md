@@ -1,11 +1,12 @@
 ---
-title: "Hospital Militar de Área de São Paulo recebe seu novo diretor"
+title: Hospital Militar de Área de São Paulo recebe seu novo diretor
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Paulo (SP) — ** No dia 20 de abril do ano em que comemora seu Centenário no Cambuci, ocorreu a Passagem de Direção do Hospital Militar de Área de São Paulo, do Gen Bda Med **Sergio dos Santos Szelbracikowski** para o Gen Bda Med **Marco Aurélio Nunes Pereira**.
 

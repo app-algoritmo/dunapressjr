@@ -1,11 +1,12 @@
 ---
-title: "Governo lança aplicativo eSocial Doméstico para dispositivos móveis"
+title: Governo lança aplicativo eSocial Doméstico para dispositivos móveis
 date: 2020-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Aplicativo está disponível para download gratuito.
 

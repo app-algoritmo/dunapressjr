@@ -1,11 +1,12 @@
 ---
-title: "Breve lista de operações de subversão da USAID"
+title: Breve lista de operações de subversão da USAID
 date: 2023-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As ações subversivas geralmente podem ser agrupadas em três categorias inter-relacionadas: construção de organizações de fachada e subversão e manipulação de partidos políticos existentes. Infiltração das forças armadas, polícia e outras instituições estatais e organizações não-governamentais importantes.
 

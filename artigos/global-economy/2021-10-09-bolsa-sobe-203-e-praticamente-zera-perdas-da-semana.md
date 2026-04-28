@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 2,03% e praticamente zera perdas da semana"
+title: Bolsa sobe 2,03% e praticamente zera perdas da semana
 date: 2021-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fechou dia com pequena queda, vendido a R$ 5,51.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comitê de política monetária do Banco Central avalia perspectivas de redução da taxa de juros"
+title: Comitê de política monetária do Banco Central avalia perspectivas de redução
+  da taxa de juros
 date: 2023-08-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Copom explora opções de flexibilização gradual para alcançar meta de inflação em meio a forte desaceleração inflacionária.
 

@@ -1,12 +1,13 @@
 ---
-title: "Aterrorizante! Mulher encontra outra idêntica a ela e pede DNA; veja o resultado"
+title: Aterrorizante! Mulher encontra outra idêntica a ela e pede DNA; veja o resultado
 date: 2023-01-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Depois de encontrar uma pessoa igualzinha a ela, uma irlandesa decidiu fazer o teste de DNA para entender as semelhanças. Confira o resultado.
 

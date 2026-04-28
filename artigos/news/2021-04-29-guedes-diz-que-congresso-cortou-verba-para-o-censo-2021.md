@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que Congresso cortou verba para o Censo 2021"
+title: Guedes diz que Congresso cortou verba para o Censo 2021
 date: 2021-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo ministro, medida reduz transmissão de covid por pesquisadores.
 

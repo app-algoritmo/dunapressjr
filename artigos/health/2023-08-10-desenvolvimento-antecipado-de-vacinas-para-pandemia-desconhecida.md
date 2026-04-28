@@ -1,11 +1,12 @@
 ---
-title: "Desenvolvimento antecipado de vacinas para pandemia desconhecida?"
+title: Desenvolvimento antecipado de vacinas para pandemia desconhecida?
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Doença X – “Próxima Pandemia, Vacinas Feitas em 100 Dias”.
 

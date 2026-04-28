@@ -1,11 +1,12 @@
 ---
-title: "Como recessões econômicas afetam taxas de mortalidade no Brasil"
+title: Como recessões econômicas afetam taxas de mortalidade no Brasil
 date: 2020-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Recessão econômica é um período em que há diminuição da produção e procura por bens e serviços, acompanhada por aumento do desemprego, podendo ser desencadeados por diversos fatores (crises mundiais, por exemplo). Passada a crise, em geral, a economia volta a crescer e as pessoas voltam a encontrar empregos disponíveis. Mesmo assim, pode haver consequências duradouras para essas crises.
 

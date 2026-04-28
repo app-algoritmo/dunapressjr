@@ -1,11 +1,12 @@
 ---
-title: "Secex/ME lança Boletim Trimestral da Balança Comercial Brasileira"
+title: Secex/ME lança Boletim Trimestral da Balança Comercial Brasileira
 date: 2021-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Publicação visa qualificar o debate sobre os recentes resultados e tendências da área.
 

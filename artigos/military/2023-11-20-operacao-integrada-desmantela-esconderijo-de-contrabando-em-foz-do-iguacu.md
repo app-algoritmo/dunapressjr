@@ -1,11 +1,12 @@
 ---
-title: "Operação integrada desmantela esconderijo de contrabando em Foz do Iguaçu"
+title: Operação integrada desmantela esconderijo de contrabando em Foz do Iguaçu
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Alimentos foram trazidos ilegalmente da Argentina.
 

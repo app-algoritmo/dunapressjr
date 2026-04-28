@@ -1,11 +1,12 @@
 ---
-title: "Trump lidera Biden em todos os estados indecisos onze meses antes das eleições"
+title: Trump lidera Biden em todos os estados indecisos onze meses antes das eleições
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump, atualmente o favorito indiscutível para a indicação republicana à Casa Branca, **lidera o presidente Joe Biden em todos os estados indecisos do país**, de acordo com uma pesquisa da Morning Consult/Bloomberg publicada onze meses antes das eleições presidenciais de 2024.
 

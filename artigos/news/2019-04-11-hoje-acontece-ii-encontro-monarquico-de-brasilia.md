@@ -1,11 +1,12 @@
 ---
-title: "Hoje acontece II Encontro Monárquico de Brasilia"
+title: Hoje acontece II Encontro Monárquico de Brasilia
 date: 2019-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a presença de: 
 

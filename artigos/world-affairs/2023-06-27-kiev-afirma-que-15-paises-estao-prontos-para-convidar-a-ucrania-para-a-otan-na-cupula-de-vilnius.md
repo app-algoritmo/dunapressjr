@@ -1,11 +1,13 @@
 ---
-title: "Kiev afirma que 15 países estão prontos para convidar a Ucrânia para a OTAN na cúpula de Vilnius"
+title: Kiev afirma que 15 países estão prontos para convidar a Ucrânia para a OTAN
+  na cúpula de Vilnius
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Olga Stefanishyna, deverá ser tomada em Vilnius a decisão de estender um convite formal à Ucrânia para se tornar membro da aliança, sendo que o prazo de adesão será definido posteriormente.
 

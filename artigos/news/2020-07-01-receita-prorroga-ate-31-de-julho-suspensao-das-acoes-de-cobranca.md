@@ -1,11 +1,12 @@
 ---
-title: "Receita prorroga até 31 de julho suspensão das ações de cobrança"
+title: Receita prorroga até 31 de julho suspensão das ações de cobrança
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Atendimento presencial continua restrito a serviços essenciais.
 

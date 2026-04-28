@@ -1,11 +1,12 @@
 ---
-title: "Tesouro Direto registra R$ 3,19 bilhões em vendas em fevereiro"
+title: Tesouro Direto registra R$ 3,19 bilhões em vendas em fevereiro
 date: 2022-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No mês, foram realizadas 494.189 operações de investimento.
 

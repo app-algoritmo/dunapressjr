@@ -1,11 +1,12 @@
 ---
-title: "Fungos da Caatinga: potencial para medicamentos naturais"
+title: 'Fungos da Caatinga: potencial para medicamentos naturais'
 date: 2021-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa da Universidade Federal do Rio Grande do Norte extrai quitosana dos fungos do solo, elemento que age contra radicais livres.
 

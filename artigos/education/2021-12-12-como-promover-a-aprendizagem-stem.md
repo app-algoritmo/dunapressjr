@@ -1,11 +1,12 @@
 ---
-title: "Como promover a aprendizagem STEM"
+title: Como promover a aprendizagem STEM
 date: 2021-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 -Artigo original em espanhol, release exclusivo enviado por ©Bash Sarmiento.
 

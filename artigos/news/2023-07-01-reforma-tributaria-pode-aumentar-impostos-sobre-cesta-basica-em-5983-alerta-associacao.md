@@ -1,11 +1,13 @@
 ---
-title: "Reforma tributária pode aumentar impostos sobre cesta básica em 59,83%, alerta associação"
+title: Reforma tributária pode aumentar impostos sobre cesta básica em 59,83%, alerta
+  associação
 date: 2023-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta gera preocupação no setor de supermercados, especialmente na região Sul, com estimativa de aumento médio na tributação de 93,5%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Produtos COVID contaminados e vírus do macaco verde"
+title: Produtos COVID contaminados e vírus do macaco verde
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 https://rumble.com/v2ekgwu-contamination-of-mrna-covid-products.html
 

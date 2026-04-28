@@ -1,11 +1,12 @@
 ---
-title: "Você consegue reconhecer a compulsão alimentar?"
+title: Você consegue reconhecer a compulsão alimentar?
 date: 2021-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Para quem ainda não conhece, a compulsão alimentar é a prática recorrente de comer excessivamente e de modo descontrolado em um curto espaço de tempo, além de ser em uma quantidade maior que o organismo realmente necessita, conforme define o [Blog da Saúde](http://www.blog.saude.gov.br/32365-pesquisa-da-usp-aponta-que-compulsao-alimentar-afeta-10-dos-adolescentes-no-brasil). Além disso, os sentimentos de culpa ou arrependimento costumam acompanhar os episódios compulsivos. 
 

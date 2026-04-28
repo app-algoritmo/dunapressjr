@@ -1,12 +1,13 @@
 ---
-title: "Alma e Sangue, O Despertar Do Vampiro"
+title: Alma e Sangue, O Despertar Do Vampiro
 date: 2022-09-12
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 Uma história de amor que atravessou séculos
 

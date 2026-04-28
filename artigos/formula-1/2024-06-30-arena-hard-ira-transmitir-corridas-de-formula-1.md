@@ -1,12 +1,13 @@
 ---
-title: "Arena Hard irá transmitir corridas de Fórmula 1"
+title: Arena Hard irá transmitir corridas de Fórmula 1
 date: 2024-06-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Formula 1
-  - Sports
+- Formula 1
+- Sports
 ---
+
 
 ## Exibição acontece aos domingos pela manhã no Hard Rock Cafe Curitiba.
 

@@ -1,11 +1,12 @@
 ---
-title: "Denúncias de violência sexual são maioria contra crianças e adolescentes"
+title: Denúncias de violência sexual são maioria contra crianças e adolescentes
 date: 2022-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entre as denúncias de violações de direitos humanos contra crianças e adolescentes, 18,6% dos casos estão ligados a situações de violência sexual. É o que demonstra um balanço realizado pela Ouvidoria Nacional dos Direitos Humanos do Ministério da Mulher, da Família e dos Direitos Humanos (ONDH/MMFDH). Foram 18.681 registros contabilizados entre janeiro e dezembro do ano passado. Em 2022, já foram registradas 4.486 denúncias.
 

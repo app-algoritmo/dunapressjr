@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal confirma a nomeação de novo Superintendente no Paraná"
+title: Polícia Federal confirma a nomeação de novo Superintendente no Paraná
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal informa a alteração do Superintendente Regional no Estado do Paraná, deixando o cargo o Dr. **Luciano Flores**, e sendo indicado o Dr. **Omar Gabriel Haj Mussi** que exercia a função de Corregedor-Geral da Polícia Federal.
 

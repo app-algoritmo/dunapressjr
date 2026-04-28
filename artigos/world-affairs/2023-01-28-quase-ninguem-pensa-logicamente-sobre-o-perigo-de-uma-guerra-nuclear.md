@@ -1,11 +1,12 @@
 ---
-title: "Quase ninguém pensa logicamente sobre o perigo de uma guerra nuclear"
+title: Quase ninguém pensa logicamente sobre o perigo de uma guerra nuclear
 date: 2023-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Bulletin of the Atomic Scientists ajustou seu relógio simbólico do Juízo Final para noventa segundos para a meia-noite, o mais próximo que esteve desde sua criação após a Segunda Guerra Mundial. Uma das principais razões para isso é a guerra cada vez mais perigosa na Ucrânia.
 

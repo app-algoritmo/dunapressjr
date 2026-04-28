@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Defesa Russo Ordena Reforço de Poder de Fogo Contra Drones Inimigos na Frota do Mar Negro"
+title: Ministro da Defesa Russo Ordena Reforço de Poder de Fogo Contra Drones Inimigos
+  na Frota do Mar Negro
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministro da Defesa Russo, Sergey Shoigu, em uma inspeção às tropas do Distrito Militar do Sul, determinou medidas para fortalecer a capacidade de defesa dos navios de guerra da Frota do Mar Negro contra ameaças de drones inimigos, conforme anunciado pelo Ministério da Defesa Russo.
 

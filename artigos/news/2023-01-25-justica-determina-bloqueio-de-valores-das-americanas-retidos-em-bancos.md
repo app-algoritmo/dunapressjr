@@ -1,11 +1,12 @@
 ---
-title: "Justiça determina bloqueio de valores das Americanas retidos em bancos"
+title: Justiça determina bloqueio de valores das Americanas retidos em bancos
 date: 2023-01-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida atinge recursos retidos nos bancos Votorantim e Safra.
 

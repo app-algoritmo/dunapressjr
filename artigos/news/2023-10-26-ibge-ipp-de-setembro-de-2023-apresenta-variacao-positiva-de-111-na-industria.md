@@ -1,11 +1,12 @@
 ---
-title: "IBGE: IPP de setembro de 2023 apresenta variação positiva de 1,11% na Indústria"
+title: 'IBGE: IPP de setembro de 2023 apresenta variação positiva de 1,11% na Indústria'
 date: 2023-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços na indústria brasileira continuam em alta com crescimento em 13 das 24 atividades.
 

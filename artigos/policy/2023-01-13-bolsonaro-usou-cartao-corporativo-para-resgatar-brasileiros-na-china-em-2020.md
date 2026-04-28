@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro usou cartão corporativo para resgatar brasileiros na China em 2020"
+title: Bolsonaro usou cartão corporativo para resgatar brasileiros na China em 2020
 date: 2023-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Lula quebrou o sigilo dos cartões corporativos e mostrou os gastos de todos os ex-presidentes desde 2003.
 

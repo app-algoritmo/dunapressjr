@@ -1,11 +1,13 @@
 ---
-title: "Medvedev adverte a Alemanha: a prisão de Putin seria uma declaração de guerra à Rússia"
+title: 'Medvedev adverte a Alemanha: a prisão de Putin seria uma declaração de guerra
+  à Rússia'
 date: 2023-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Diz que Moscou poderia bombardear o Tribunal Penal Internacional.
 

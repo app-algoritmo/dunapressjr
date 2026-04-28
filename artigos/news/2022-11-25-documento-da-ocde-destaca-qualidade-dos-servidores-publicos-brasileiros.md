@@ -1,11 +1,12 @@
 ---
-title: "Documento da OCDE destaca qualidade dos servidores públicos brasileiros"
+title: Documento da OCDE destaca qualidade dos servidores públicos brasileiros
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estudo da Organização para a Cooperação e Desenvolvimento sugere avanço das reformas administrativas no serviço público.
 

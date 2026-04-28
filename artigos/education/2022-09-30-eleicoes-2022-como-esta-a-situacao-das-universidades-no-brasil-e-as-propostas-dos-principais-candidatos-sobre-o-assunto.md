@@ -1,12 +1,14 @@
 ---
-title: "Eleições 2022: Como está a situação das universidades no Brasilー e as propostas dos principais candidatos sobre o assunto"
+title: 'Eleições 2022: Como está a situação das universidades no Brasilー e as propostas
+  dos principais candidatos sobre o assunto'
 date: 2022-09-30
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 Segundo [levantamento da Unicef](https://www.unicef.org/brazil/comunicados-de-imprensa/votepelaeducacao-unicef-convoca-sociedade-priorizar-educacao-nas-eleicoes), apenas 4% das menções às eleições deste ano na internet são relacionadas à educação. Apesar deste assunto não estar em destaque no debate eleitoral, o tema precisa de atenção especial ーprincipalmente pelos recentes cortes na área, fruto da situação econômica delicada do Brasil.
 

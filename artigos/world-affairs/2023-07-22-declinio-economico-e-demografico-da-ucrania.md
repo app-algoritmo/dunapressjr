@@ -1,11 +1,12 @@
 ---
-title: "Declínio econômico e demográfico da Ucrânia"
+title: Declínio econômico e demográfico da Ucrânia
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com a guerra na Ucrânia durando mais de um ano e as sanções ocidentais contra a Rússia, a atenção da mídia internacional e dos especialistas está quase exclusivamente voltada para o lado russo. As condições reais na Ucrânia, por outro lado, até agora raramente ou dificilmente foram discutidas em detalhes pela grande mídia ocidental. A evolução recente neste país em crise é preocupante, sobretudo no que diz respeito à população e à economia. Porque essas áreas estiveram recentemente em declínio.
 

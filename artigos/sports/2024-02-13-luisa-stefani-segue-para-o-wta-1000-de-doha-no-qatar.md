@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani segue para o WTA 1000 de Doha, no Qatar"
+title: Luisa Stefani segue para o WTA 1000 de Doha, no Qatar
 date: 2024-02-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Parceira Bia Haddad Maia sentiu lesão nas costas e não conseguiu jogar a semifinal em Abu Dhabi.
 

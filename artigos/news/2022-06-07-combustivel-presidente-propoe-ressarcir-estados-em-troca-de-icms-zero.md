@@ -1,11 +1,12 @@
 ---
-title: "Combustível: presidente propõe ressarcir estados em troca de ICMS zero"
+title: 'Combustível: presidente propõe ressarcir estados em troca de ICMS zero'
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida valeria para impostos estaduais sobre diesel e gás de cozinha.
 

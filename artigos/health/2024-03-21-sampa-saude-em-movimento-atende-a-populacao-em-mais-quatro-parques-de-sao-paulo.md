@@ -1,11 +1,12 @@
 ---
-title: "SAMPA Saúde em Movimento atende a população em mais quatro parques de São Paulo"
+title: SAMPA Saúde em Movimento atende a população em mais quatro parques de São Paulo
 date: 2024-03-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## As unidades móveis que oferecem avaliação nutricional e física grátis estarão em quatro parques a partir desta quinta-feira (21) até domingo (24). No final de semana, o Parque Anhanguera terá aulas de dança e palestras sobre saúde e meio ambiente.
 

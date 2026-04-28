@@ -1,11 +1,13 @@
 ---
-title: "DragonStone Books anuncia o edital para a coletânea Poética 'Janelas para a Alma'"
+title: DragonStone Books anuncia o edital para a coletânea Poética 'Janelas para a
+  Alma'
 date: 2024-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 Na imensidão da tapeçaria das palavras, onde cada verso resplandece como um fio dourado entrelaçado com a essência do ser, a DragonStone Books tem a honra de abrir as portas para os poetas do mundo. Sob o título "Janelas para a Alma", esta coletânea poética aspira capturar a incomparável beleza do espírito humano, convidando os artesãos das palavras a compartilharem suas visões mais íntimas e profundas.
 

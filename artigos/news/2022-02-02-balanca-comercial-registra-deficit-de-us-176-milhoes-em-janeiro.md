@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra déficit de US$ 176 milhões em janeiro"
+title: Balança comercial registra déficit de US$ 176 milhões em janeiro
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tradicionalmente, o ano começa com resultado negativo.
 

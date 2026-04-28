@@ -1,11 +1,12 @@
 ---
-title: "Novo recorde para exportações no mês de Maio - US$ 10,9 bilhões"
+title: Novo recorde para exportações no mês de Maio - US$ 10,9 bilhões
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O desempenho reflete principalmente os embarques de soja em grão, carne bovina, açúcar e café verde.
 

@@ -1,11 +1,12 @@
 ---
-title: "Massa salarial aumenta 0,3%, mas salário médio recua 2,6%"
+title: Massa salarial aumenta 0,3%, mas salário médio recua 2,6%
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Regiões Sul e Sudeste apresentam os maiores salários, enquanto Norte e Centro-Oeste registram as maiores quedas na massa salarial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Aretha Duarte lança sua biografia 'Da Sucata ao Everest' em Salvador nesta quinta-feira (8)"
+title: Aretha Duarte lança sua biografia 'Da Sucata ao Everest' em Salvador nesta
+  quinta-feira (8)
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A população de Salvador terá a oportunidade de conhecer Aretha Duarte nesta quinta-feira (8). Referência brasileira como ativista socioambiental, liderança ESG e primeira mulher negra latino-americana a chegar ao topo do Everest, ela estará na loja Decathlon do Shopping Salvador, entre 18h e 20h30, para mais uma etapa de turnê de lançamento de sua biografia. Antes de autografar o livro **"Da Sucata ao Everest - a saga de Aretha Duarte"**, ela fará uma breve palestra com dicas de montanhismo e abordará temas ambientais relacionados a sua experiência. Toda a ação é grátis.
 

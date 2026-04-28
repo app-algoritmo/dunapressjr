@@ -1,11 +1,12 @@
 ---
-title: "OCDE publica relatório de revisão do Ponto de Contato Nacional"
+title: OCDE publica relatório de revisão do Ponto de Contato Nacional
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Documento traz diagnóstico com recomendações de aprimoramento, ajudando na acessão do Brasil à organização internacional.
 

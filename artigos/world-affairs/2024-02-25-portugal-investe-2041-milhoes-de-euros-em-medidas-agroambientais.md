@@ -1,11 +1,12 @@
 ---
-title: "Portugal Investe 204,1 Milhões de Euros em Medidas Agroambientais"
+title: Portugal Investe 204,1 Milhões de Euros em Medidas Agroambientais
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério da Agricultura e da Alimentação de Portugal anunciou na sexta-feira um investimento significativo de 204,1 milhões de euros (US$ 221,2 milhões) destinados a incentivar os agricultores a adotarem medidas agroambientais.
 

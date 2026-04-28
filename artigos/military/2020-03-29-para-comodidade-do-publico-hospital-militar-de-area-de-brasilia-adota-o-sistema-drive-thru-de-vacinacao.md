@@ -1,11 +1,13 @@
 ---
-title: "Para comodidade do público, Hospital Militar de Área de Brasília adota o sistema “drive thru” de vacinação"
+title: Para comodidade do público, Hospital Militar de Área de Brasília adota o sistema
+  “drive thru” de vacinação
 date: 2020-03-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF) **– O Hospital Militar de Área de Brasília (HMAB), um
 dos postos de vacinação da campanha nacional contra a gripe, adotou o sistema

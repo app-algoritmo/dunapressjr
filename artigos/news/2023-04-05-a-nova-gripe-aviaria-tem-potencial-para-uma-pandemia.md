@@ -1,11 +1,12 @@
 ---
-title: "A nova gripe aviária tem potencial para uma pandemia?"
+title: A nova gripe aviária tem potencial para uma pandemia?
 date: 2023-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Historicamente, a gripe aviária nunca representou uma ameaça para os humanos, mas os cientistas criaram um híbrido com potencial pandêmico para humanos.
 

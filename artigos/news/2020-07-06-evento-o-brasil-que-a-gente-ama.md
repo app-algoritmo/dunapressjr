@@ -1,11 +1,12 @@
 ---
-title: "Evento: O Brasil que a Gente Ama"
+title: 'Evento: O Brasil que a Gente Ama'
 date: 2020-07-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Clube dos 21 Irmãos Amigos de São Paulo, em comemoração ao seu aniversário de 71 anos, iniciou  no dia 9 de junho passado o **Programa de Reavivamento Patriótico Nacional**, em uma coligação cultural e patriótica com mais 15 entidades da sociedade civil. 
 

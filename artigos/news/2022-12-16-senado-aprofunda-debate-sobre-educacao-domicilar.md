@@ -1,11 +1,12 @@
 ---
-title: "Senado aprofunda debate sobre educação domicilar"
+title: Senado aprofunda debate sobre educação domicilar
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os filhos de Cristina (nome fictício) estudam em casa, ensino conhecido com *homeschooling*. Durante a pandemia de covid-19, a filha mais velha, que tinha seis anos e um diagnóstico recente de autismo, não se adaptou às aulas virtuais. A mãe passou a ensiná-la por conta própria. Não demorou para o irmãozinho, de quatro anos, pedir para participar. A experiência agradou. Mesmo com a volta das aulas presenciais, as crianças permaneceram sob os cuidados pedagógicos da mãe na educação domiciliar.
 

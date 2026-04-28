@@ -1,11 +1,13 @@
 ---
-title: "Saldo devedor das garantias concedias pela União era de R$ 311,99 bilhões ao fim do 2º quadrimestre"
+title: Saldo devedor das garantias concedias pela União era de R$ 311,99 bilhões ao
+  fim do 2º quadrimestre
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foram assinadas 71 novas operações de crédito garantidas em 2020, 90% delas com Caixa ou BB.
 

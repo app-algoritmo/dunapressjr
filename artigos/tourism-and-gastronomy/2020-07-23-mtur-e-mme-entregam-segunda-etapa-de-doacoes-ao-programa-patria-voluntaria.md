@@ -1,11 +1,12 @@
 ---
-title: "MTur e MME entregam segunda etapa de doações ao programa Pátria Voluntária"
+title: MTur e MME entregam segunda etapa de doações ao programa Pátria Voluntária
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Mais de 130 itens foram recolhidos pelas duas Pastas e serão doados à moradores em situação de rua.
 

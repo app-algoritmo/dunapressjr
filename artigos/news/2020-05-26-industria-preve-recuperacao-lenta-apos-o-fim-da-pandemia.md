@@ -1,11 +1,12 @@
 ---
-title: "Indústria prevê recuperação lenta após o fim da pandemia"
+title: Indústria prevê recuperação lenta após o fim da pandemia
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Setor de alimentos mantém nível de produção, mas outros estão parados.
 

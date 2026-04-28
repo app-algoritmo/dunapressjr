@@ -1,11 +1,12 @@
 ---
-title: "Como a lei afeta a oportunidade econômica das mulheres"
+title: Como a lei afeta a oportunidade econômica das mulheres
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Negócio das mulheres e a lei em 2020.
 

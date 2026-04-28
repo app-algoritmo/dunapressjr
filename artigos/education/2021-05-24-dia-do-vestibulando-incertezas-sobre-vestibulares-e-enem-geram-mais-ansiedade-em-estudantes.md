@@ -1,11 +1,13 @@
 ---
-title: "Dia do vestibulando: incertezas sobre vestibulares e Enem geram mais ansiedade em estudantes"
+title: 'Dia do vestibulando: incertezas sobre vestibulares e Enem geram mais ansiedade
+  em estudantes'
 date: 2021-05-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Antes da pandemia, o número de estudantes prestando vestibular e fazendo provas para tentar um acesso ao Ensino Superior era de mais de 6 milhões em todo o Brasil. Em 2021, esses milhões de jovens, além de lidar com a expectativa de provas concorridas, ainda sofrem com a incerteza de um cenário bastante indefinido. A pandemia afetou em cheio estudantes que estão na reta final de uma trajetória e não sabem como ou quando ela vai terminar. Alguns vestibulares de universidades federais previstos para acontecer em 2020 ainda não aconteceram. O MEC ainda não confirmou quando será realizada a edição 2021 do Enem. Tantas indefinições acabam gerando ansiedade e, às vezes, desestimulando quem precisa, mais do que nunca, manter o foco e se preparar para quando a hora chegar.
 

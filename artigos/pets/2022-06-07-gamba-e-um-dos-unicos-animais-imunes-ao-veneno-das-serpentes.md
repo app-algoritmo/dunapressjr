@@ -1,11 +1,12 @@
 ---
-title: "Gambá é um dos únicos animais imunes ao veneno das serpentes"
+title: Gambá é um dos únicos animais imunes ao veneno das serpentes
 date: 2022-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Os gambás e as serpentes são considerados inimigos há muito tempo. Os dois estão na terra desde o período cretáceo, há mais de 100 milhões de anos. Tanto a serpente quanto o gambá são animais noturnos, saem à noite para procurar alimento e, por isso, acabaram se encontrando.
 

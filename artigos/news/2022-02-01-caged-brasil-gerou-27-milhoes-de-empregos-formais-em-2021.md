@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil gerou 2,7 milhões de empregos formais em 2021"
+title: 'Caged: Brasil gerou 2,7 milhões de empregos formais em 2021'
 date: 2022-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em dezembro, no entanto, saldo ficou negativo em 265 mil vagas.
 

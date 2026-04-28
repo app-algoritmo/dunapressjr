@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem leve queda e continua no menor valor em dois meses"
+title: Dólar tem leve queda e continua no menor valor em dois meses
 date: 2022-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa não sustenta alta da quarta-feira e cai 0,15%.
 

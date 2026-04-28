@@ -1,11 +1,12 @@
 ---
-title: "Israel Remove Todas as Referências a Greta Thunberg"
+title: Israel Remove Todas as Referências a Greta Thunberg
 date: 2023-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma medida recente, Israel decidiu eliminar todas as referências à proeminente ativista ambiental Greta Thunberg de seu currículo escolar. A decisão se baseia em sua recente mensagem de apoio ao povo palestino, com o Ministério da Educação de Israel argumentando que sua postura a desqualifica como uma valiosa fonte de inspiração e modelo a seguir para os estudantes israelenses.
 

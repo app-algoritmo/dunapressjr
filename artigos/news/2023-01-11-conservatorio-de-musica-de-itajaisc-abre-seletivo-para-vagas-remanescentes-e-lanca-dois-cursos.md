@@ -1,11 +1,13 @@
 ---
-title: "Conservatório de Música de Itajaí/SC abre seletivo para vagas remanescentes e lança dois cursos"
+title: Conservatório de Música de Itajaí/SC abre seletivo para vagas remanescentes
+  e lança dois cursos
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conservatório de Música Popular de Itajaí Carlinhos Niehues lançou o edital de vagas remanescentes para ingresso de novos alunos em 2023 nesta segunda-feira (09). Serão selecionados também alunos para duas novas modalidades de curso lançadas: violoncelo e cavaquinho. As inscrições para o processo seletivo seguem até o dia 31 de janeiro, de forma on-line, e estão disponíveis no site da instituição [**(clique aqui)**](http://conservatorio.itajai.sc.gov.br/inscricao-2023). 
 

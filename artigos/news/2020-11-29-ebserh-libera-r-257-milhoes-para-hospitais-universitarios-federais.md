@@ -1,11 +1,12 @@
 ---
-title: "Ebserh libera R$ 25,7 milhões para hospitais universitários federais"
+title: Ebserh libera R$ 25,7 milhões para hospitais universitários federais
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vinte hospitais da Rede Empresa Brasileira de Serviços Hospitalares (Ebserh) poderão contar com um reforço financeiro que soma R$ 25,7 milhões por meio do Programa Nacional de Reestruturação dos Hospitais Universitários Federais (Rehuf). Esses recursos serão liberados pelo Ministério da Educação (MEC) de forma complementar e foram aprovados na reunião do Comitê Gestor do programa. Ao todo, de janeiro a 25 deste mês, foram destinados R$ 2,49 bilhões em recursos orçamentários para custeio e investimentos dos hospitais da Rede Ebserh.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ciência usa genética contra parasitas de plantas"
+title: Ciência usa genética contra parasitas de plantas
 date: 2022-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Valdeir Junio Vaz Moreira pode ter encontrado um novo caminho para combater pragas parasitas, chamadas nematoides, em plantas como algodão e soja. Bioquímico e aluno do Programa de Biologia Molecular da Universidade de Brasília (UnB), ele desenvolve sua pesquisa em um doutorado-sanduíche no *Institut National de la Recherche Agronomique *(INRAe), na França, com bolsa do [Programa CAPES-Cofecub](https://www.gov.br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/cofecub).
 

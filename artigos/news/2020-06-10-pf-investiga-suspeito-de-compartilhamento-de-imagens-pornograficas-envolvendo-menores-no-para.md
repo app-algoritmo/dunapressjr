@@ -1,11 +1,13 @@
 ---
-title: "PF investiga suspeito de compartilhamento de imagens pornográficas envolvendo menores no Pará"
+title: PF investiga suspeito de compartilhamento de imagens pornográficas envolvendo
+  menores no Pará
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Redenção/PA – A Polícia Federal deflagrou na terça-feira (9/6) a Operação Filthy Sharing, para investigar suspeito de armazenar e compartilhar imagens pornográficas envolvendo crianças e/ou adolescentes. Policiais federais deram cumprimento a mandado de busca e apreensão, na cidade de Imperatriz/MA.
 

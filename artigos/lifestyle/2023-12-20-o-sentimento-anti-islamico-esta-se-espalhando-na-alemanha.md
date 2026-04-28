@@ -1,12 +1,13 @@
 ---
-title: "O sentimento anti-islâmico está se espalhando na Alemanha"
+title: O sentimento anti-islâmico está se espalhando na Alemanha
 date: 2023-12-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
-  - Tourism and Gastronomy
+- Lifestyle
+- Tourism and Gastronomy
 ---
+
 
 Uma proporção crescente do povo alemão nutre atitudes anti-islâmicas e islamofobia, se acreditarmos num [estudo realizado](https://www.svr-migration.de/publikationen/antimuslimische-und-antisemitische-einstellungen/) pelo [Sachverständigenrat für Integration und Migration](https://www.svr-migration.de/) (SVR). 
 

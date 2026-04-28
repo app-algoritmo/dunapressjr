@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a R$ 5,40 com tensões no mercado externo"
+title: Dólar volta a R$ 5,40 com tensões no mercado externo
 date: 2021-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa emendou sexta sessão seguida de queda.
 

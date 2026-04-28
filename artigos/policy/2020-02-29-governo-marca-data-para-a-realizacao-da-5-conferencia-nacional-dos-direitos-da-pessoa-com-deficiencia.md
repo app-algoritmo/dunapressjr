@@ -1,11 +1,13 @@
 ---
-title: "Governo marca data para a realização da 5ª Conferência Nacional dos Direitos da Pessoa com Deficiência"
+title: Governo marca data para a realização da 5ª Conferência Nacional dos Direitos
+  da Pessoa com Deficiência
 date: 2020-02-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 *A Conferência Nacional dos Direitos da Pessoa com Deficiência será realizada em Brasília, no mês de dezembro de 2020. *
 

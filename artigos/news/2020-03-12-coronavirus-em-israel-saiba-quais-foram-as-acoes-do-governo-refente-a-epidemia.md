@@ -1,12 +1,13 @@
 ---
-title: "Coronavírus em Israel: saiba quais foram as ações do governo refente à epidemia"
+title: 'Coronavírus em Israel: saiba quais foram as ações do governo refente à epidemia'
 date: 2020-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Tourism and Gastronomy
+- News
+- Tourism and Gastronomy
 ---
+
 
 Em resposta à epidemia global do novo coronavírus, Israel tomou medidas para impedir sua disseminação no país, incluindo restrições de viagem e requisitos de quarentena para pessoas que possam ter sido expostas ao vírus.
 

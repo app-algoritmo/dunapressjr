@@ -1,11 +1,12 @@
 ---
-title: "Zelensky “se ilude” pensando que a Ucrânia pode vencer a guerra, diz assessor"
+title: Zelensky “se ilude” pensando que a Ucrânia pode vencer a guerra, diz assessor
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Apesar de uma contra-ofensiva totalmente falhada, juntamente com o enorme declínio do apoio do Ocidente, o presidente ucraniano e antigo stripper Volodymyr Zelensky estaria a dizer aos seus principais conselheiros que [ainda acredita](https://news.antiwar.com/2023/10/30/zelensky-deludes-himself-into-thinking-ukraine-can-win-war-aide/) que a Ucrânia vencerá a guerra contra a Rússia.
 

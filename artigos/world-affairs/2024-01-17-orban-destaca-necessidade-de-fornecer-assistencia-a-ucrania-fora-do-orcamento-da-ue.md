@@ -1,11 +1,13 @@
 ---
-title: "Orban destaca necessidade de fornecer assistência à Ucrânia fora do orçamento da UE"
+title: Orban destaca necessidade de fornecer assistência à Ucrânia fora do orçamento
+  da UE
 date: 2024-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Viktor Orban observou que a assistência financeira a Kiev deveria ser fornecida fora do orçamento da UE.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confira pagamentos e tributos adiados ou suspensos durante pandemia"
+title: Confira pagamentos e tributos adiados ou suspensos durante pandemia
 date: 2020-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medidas visam a diminuir impacto da covid-19 sobre economia.
 

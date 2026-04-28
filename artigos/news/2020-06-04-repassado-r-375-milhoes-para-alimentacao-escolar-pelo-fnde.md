@@ -1,11 +1,12 @@
 ---
-title: "Repassado R$ 375 milhões para alimentação escolar pelo FNDE"
+title: Repassado R$ 375 milhões para alimentação escolar pelo FNDE
 date: 2020-06-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estados e municípios já podem utilizar os recursos da quinta parcela do Pnae no ano.
 

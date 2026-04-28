@@ -1,11 +1,13 @@
 ---
-title: "Operação Ilha da Fantasia: Ação Policial Desmantela Organização Criminosa que movimentou R$ 600 Milhões Ilegalmente"
+title: 'Operação Ilha da Fantasia: Ação Policial Desmantela Organização Criminosa
+  que movimentou R$ 600 Milhões Ilegalmente'
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Combate aos crimes financeiros e abuso sexual infantil.
 

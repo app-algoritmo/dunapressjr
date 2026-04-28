@@ -1,11 +1,13 @@
 ---
-title: "Estudo: Comer alimentos ricos em gorduras saudáveis ​​ajuda a combater o câncer de pele"
+title: 'Estudo: Comer alimentos ricos em gorduras saudáveis ​​ajuda a combater o câncer
+  de pele'
 date: 2023-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Um estudo descobriu que alimentos ricos em gorduras saudáveis ​​podem ajudar a proteger contra o câncer de pele e [aumentar a eficácia da imunoterapia entre pacientes com câncer de pele](https://www.dailymail.co.uk/health/article-11292305/Eating-diet-rich-nuts-olive-oil-legumes-helps-fight-skin-cancer-study-finds.html).
 

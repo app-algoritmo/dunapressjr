@@ -1,11 +1,12 @@
 ---
-title: "Comer em família reduz o estresse"
+title: Comer em família reduz o estresse
 date: 2023-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 Nova pesquisa: 91% dos pais dizem que sua família fica menos estressada quando comem juntos.
 

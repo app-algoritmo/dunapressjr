@@ -1,11 +1,12 @@
 ---
-title: "EUA responderão ao ataque às suas forças no Oriente Médio"
+title: EUA responderão ao ataque às suas forças no Oriente Médio
 date: 2024-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## John Kirby também disse que o grupo Resistência Islâmica no Iraque foi responsável pelo ataque, que deixou três militares dos EUA mortos e mais de 40 feridos.
 

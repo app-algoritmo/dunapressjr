@@ -1,11 +1,12 @@
 ---
-title: "Dívida bruta do Brasil fica perto do nível antes da pandemia"
+title: Dívida bruta do Brasil fica perto do nível antes da pandemia
 date: 2022-12-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador fechou em 76,8% do Produto Interno Bruto.
 

@@ -1,11 +1,13 @@
 ---
-title: "Portaria do Governo Federal prorroga adesão ao repasse emergencial do SUAS, que já chegou a mais de 5.100 municípios"
+title: Portaria do Governo Federal prorroga adesão ao repasse emergencial do SUAS,
+  que já chegou a mais de 5.100 municípios
 date: 2020-07-02
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Recurso permite uma segunda etapa de compra de equipamentos de proteção individual por estados e municípios. Outra portaria adiou a retomada das inscrições no Cadastro Único.
 

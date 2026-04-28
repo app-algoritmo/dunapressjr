@@ -1,11 +1,12 @@
 ---
-title: "10 palavras em inglês que não significam exatamente o que parecem"
+title: 10 palavras em inglês que não significam exatamente o que parecem
 date: 2021-10-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Chocolate, hospital, banana, drama. Esses são apenas alguns exemplos de palavras que você pode usar sem medo, em português ou em inglês, porque significam exatamente o mesmo nos dois idiomas. Basta obedecer às regras de pronúncia em cada língua. Há muitas outras expressões com essa mesma característica, o que facilita para quem está aprendendo inglês. Contudo, é preciso cuidado, porque há outras tantas que parecem ser o que não são - e que podem causar confusão na hora da comunicação.
 

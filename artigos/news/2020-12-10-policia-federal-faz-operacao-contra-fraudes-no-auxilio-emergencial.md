@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal faz operação contra fraudes no auxílio emergencial"
+title: Polícia Federal faz operação contra fraudes no auxílio emergencial
 date: 2020-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ação abrange 14 estados. Há 42 mandados de busca e apreensão.
 

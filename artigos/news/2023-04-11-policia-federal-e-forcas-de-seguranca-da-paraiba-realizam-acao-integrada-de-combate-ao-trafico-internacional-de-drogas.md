@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal e Forças de Segurança da Paraíba realizam ação integrada de combate ao tráfico internacional de drogas"
+title: Polícia Federal e Forças de Segurança da Paraíba realizam ação integrada de
+  combate ao tráfico internacional de drogas
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram cumpridos dois mandados de busca e apreensão e um mandado de prisão no estado da Paraíba.
 

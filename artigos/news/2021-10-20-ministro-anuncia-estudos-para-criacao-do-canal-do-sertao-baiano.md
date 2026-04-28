@@ -1,11 +1,12 @@
 ---
-title: "Ministro anuncia estudos para criação do Canal do Sertão Baiano"
+title: Ministro anuncia estudos para criação do Canal do Sertão Baiano
 date: 2021-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Obra deverá beneficiar mais de um milhão de pessoas.
 

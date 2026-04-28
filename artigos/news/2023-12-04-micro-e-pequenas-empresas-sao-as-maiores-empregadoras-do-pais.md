@@ -1,11 +1,12 @@
 ---
-title: "Micro e pequenas empresas são as maiores empregadoras do país"
+title: Micro e pequenas empresas são as maiores empregadoras do país
 date: 2023-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números são do Sebrae com dados do Novo Caged.
 

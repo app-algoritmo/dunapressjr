@@ -1,11 +1,12 @@
 ---
-title: "Câmara de Vereadores de Itajaí, 56ª Sessão Ordinária 24/11/2020"
+title: Câmara de Vereadores de Itajaí, 56ª Sessão Ordinária 24/11/2020
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Indicações dos Vereadores:
 

@@ -1,11 +1,12 @@
 ---
-title: "Banco Central: commodities e inércia pressionaram inflação em 2022"
+title: 'Banco Central: commodities e inércia pressionaram inflação em 2022'
 date: 2023-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Autoridade monetária também prevê descumprimento da meta neste ano.
 

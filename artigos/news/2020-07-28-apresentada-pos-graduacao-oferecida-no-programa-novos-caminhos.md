@@ -1,11 +1,12 @@
 ---
-title: "Apresentada pós-graduação oferecida no Programa Novos Caminhos"
+title: Apresentada pós-graduação oferecida no Programa Novos Caminhos
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A epistemologia, a didática e a prática pedagógica específica da educação profissional serão enfocadas em um curso de pós-graduação que será oferecido a 4,3 mil docentes de todo o país, em uma ação do Programa Novos Caminhos. O novo curso, que tem o objetivo de atingir cerca de 100 polos de educação a distância em todos os estados e no DF, foi pautado em um encontro realizado na última sexta-feira (24), com representantes de unidades federadas interessadas em implementar a iniciativa em parceria com o Ministério da Educação (MEC). 
 

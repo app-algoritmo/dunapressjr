@@ -1,11 +1,12 @@
 ---
-title: "Amor Esquecido – Uma Lição de Vida."
+title: Amor Esquecido – Uma Lição de Vida.
 date: 2023-10-13
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

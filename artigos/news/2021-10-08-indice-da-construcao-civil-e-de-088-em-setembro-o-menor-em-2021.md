@@ -1,11 +1,12 @@
 ---
-title: "Índice da construção civil é de 0,88% em setembro, o menor em 2021"
+title: Índice da construção civil é de 0,88% em setembro, o menor em 2021
 date: 2021-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior alta (2,03%) ocorreu na Região Centro-Oeste.
 

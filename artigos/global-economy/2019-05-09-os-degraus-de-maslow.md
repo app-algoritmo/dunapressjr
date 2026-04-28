@@ -1,12 +1,13 @@
 ---
-title: "Os Degraus de Maslow"
+title: Os Degraus de Maslow
 date: 2019-05-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
-  - Opinion
+- Global Economy
+- Opinion
 ---
+
 
 Tudo o que pensamos é eletro magnetismo. Somos iguais a uma estação de rádio. O desejo põe energia para materializar tudo.
 

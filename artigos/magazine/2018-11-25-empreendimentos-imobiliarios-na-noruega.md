@@ -1,11 +1,12 @@
 ---
-title: "Empreendimentos imobiliários na Noruega"
+title: Empreendimentos imobiliários na Noruega
 date: 2018-11-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A área de empreendimentos imobiliários na Noruega é promissora e está cada vez mais em ascensão. Não importa se o interesse está em construção, venda ou locação, a rentabilidade é garantida e a demanda é realmente grande e em constante crescimento.
 

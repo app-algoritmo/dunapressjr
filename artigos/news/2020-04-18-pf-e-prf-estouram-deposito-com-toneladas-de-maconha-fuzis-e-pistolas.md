@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF estouram depósito com toneladas de maconha, fuzis e pistolas"
+title: PF e PRF estouram depósito com toneladas de maconha, fuzis e pistolas
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR - Polícia Federal (PF) e Polícia Rodoviária Federal (PRF) apreenderam nesta sexta-feira (17/4) dois fuzis, 14 pistolas, munições e toneladas de maconha (a ser pesada) acondicionadas em caixas de madeira na cidade de Palotina, na região oeste do Paraná.
 

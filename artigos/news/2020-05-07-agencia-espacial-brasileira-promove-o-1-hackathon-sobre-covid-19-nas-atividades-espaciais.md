@@ -1,11 +1,13 @@
 ---
-title: "Agência Espacial Brasileira promove o 1º Hackathon sobre Covid-19 nas atividades espaciais"
+title: Agência Espacial Brasileira promove o 1º Hackathon sobre Covid-19 nas atividades
+  espaciais
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Amantes da área espacial já têm um novo desafio: o 1° Hackathon Espacial da  Agência Espacial Brasileira (AEB), do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). Os interessados em participar da competição têm até o próximo sábado (9) para fazer a inscrição.
 

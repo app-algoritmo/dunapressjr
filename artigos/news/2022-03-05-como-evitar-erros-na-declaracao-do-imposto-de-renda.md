@@ -1,11 +1,12 @@
 ---
-title: "Como evitar erros na declaração do Imposto de Renda"
+title: Como evitar erros na declaração do Imposto de Renda
 date: 2022-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Especialista aconselha boa organização de documentos e transparência.
 

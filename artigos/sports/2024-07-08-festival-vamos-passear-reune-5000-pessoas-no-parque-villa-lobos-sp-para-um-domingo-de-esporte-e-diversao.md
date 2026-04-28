@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear reúne 5.000 pessoas no Parque Villa-Lobos (SP) para um domingo de esporte e diversão"
+title: Festival Vamos Passear reúne 5.000 pessoas no Parque Villa-Lobos (SP) para
+  um domingo de esporte e diversão
 date: 2024-07-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## O evento contou com participantes de todas as idades, famílias inteiras, casais e amigos, que estiveram no Passeio de Bike, na Caminhada e na Corrida Kids, assim como em diversas atrações gratuitas. A etapa seguinte será em Brasília (DF), a penúltima de 2024, no próximo domingo (14)
 

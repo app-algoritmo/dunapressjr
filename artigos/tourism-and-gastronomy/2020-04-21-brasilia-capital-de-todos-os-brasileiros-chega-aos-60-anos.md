@@ -1,11 +1,12 @@
 ---
-title: "Brasilia, capital de todos os brasileiros chega aos 60 anos!"
+title: Brasilia, capital de todos os brasileiros chega aos 60 anos!
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 “Deste Planalto Central, desta solidão que em breve se transformará em cérebro das mais altas decisões nacionais, lanço os olhos mais uma vez sobre o amanhã do meu país e antevejo esta alvorada”. A célebre frase de Juscelino Kubitschek, proferida ainda em 1956, ajuda a sintetizar Brasília, um verdadeiro museu a céu aberto com formato de avião, idealizada e inaugurada em 1960 pelo então presidente da República, e que completa 60 anos nesta terça-feira (21.04)
 

@@ -1,11 +1,13 @@
 ---
-title: "Semasa de Itajaí encerra ações emergenciais com a normalização dos índices de salinidade"
+title: Semasa de Itajaí encerra ações emergenciais com a normalização dos índices
+  de salinidade
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em razão da normalização do sistema de abastecimento e o controle da salinidade no ponto de captação de água, o Semasa informa os consumidores que processos de ressarcimentos de resistências de chuveiros serão abertos mediante apresentação de nota fiscal do produto novo adquirido entre dias 13 de outubro e 16 de novembro. Para demais peças ou aparelhos é necessário apresentar ainda laudo técnico.
 

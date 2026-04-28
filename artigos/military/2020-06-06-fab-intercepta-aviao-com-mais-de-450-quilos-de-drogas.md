@@ -1,11 +1,12 @@
 ---
-title: "FAB intercepta avião com mais de 450 quilos de drogas"
+title: FAB intercepta avião com mais de 450 quilos de drogas
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB), em operação conjunta com a Polícia Federal, interceptou, na tarde desta sexta-feira (05), um avião de pequeno porte, modelo Piper Navajo, em voo irregular sobre o estado de Goiás. A ação envolveu duas aeronaves A-29 Super Tucano da FAB, além de todo o Sistema de Defesa Aeroespacial Brasileiro (SISDABRA).
 

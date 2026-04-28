@@ -1,11 +1,12 @@
 ---
-title: "No reino da democracia"
+title: No reino da democracia
 date: 2023-07-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nos Estados Unidos, a discussão do relatório do procurador especial John Durham sobre as ações do FBI, que há vários anos se empenha em verificar os laços de Donald Trump com a Rússia às vésperas da eleição presidencial, não cessou. A investigação sobre a possível interferência russa na campanha eleitoral dos EUA em 2016 recebeu o codinome Crossfire Hurricane. Durham disse em seu documento de 306 páginas que a agência não tinha motivos para iniciá-lo. Além disso, o conhecido jornalista americano Seymour Hersh disse recentemente que altos funcionários do FBI associados à sede da campanha da ex-secretária de Estado dos EUA, Hillary Clinton, na verdade tentaram impedir que o bilionário americano ganhasse a eleição presidencial. O que, como você sabe, eles não conseguiram.
 

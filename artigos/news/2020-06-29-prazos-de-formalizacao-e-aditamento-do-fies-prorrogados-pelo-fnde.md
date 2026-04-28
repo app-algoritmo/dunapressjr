@@ -1,11 +1,12 @@
 ---
-title: "Prazos de formalização e aditamento do Fies prorrogados pelo FNDE"
+title: Prazos de formalização e aditamento do Fies prorrogados pelo FNDE
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou, até 31 de julho, os prazos para validação das inscrições pelas Comissões Permanentes de Supervisão e Acompanhamento e para formalização junto ao banco da contratação do Fundo de Financiamento Estudantil (Fies). 
 

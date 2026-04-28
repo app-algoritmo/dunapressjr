@@ -1,11 +1,13 @@
 ---
-title: "Volume de serviços na Paraíba registra expansão de 10,7% em março, acima da média nacional"
+title: Volume de serviços na Paraíba registra expansão de 10,7% em março, acima da
+  média nacional
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setores como transporte e locação de automóveis impulsionam o crescimento, colocando a Paraíba entre os estados com maior alta no primeiro trimestre de 2023.
 

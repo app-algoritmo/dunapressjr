@@ -1,11 +1,12 @@
 ---
-title: "Evento na Indonésia debate a monetização e gestão de ativos do Estado"
+title: Evento na Indonésia debate a monetização e gestão de ativos do Estado
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Experiência da Secretaria de Coordenação e Gestão do Patrimônio da União foi tema de uma das palestras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Portal da Agricultura disponibiliza informações e recursos da AGE"
+title: Portal da Agricultura disponibiliza informações e recursos da AGE
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A Assessoria de Gestão Estratégica (AGE), a quem compete coordenar a gestão estratégica e os projetos estratégicos corporativos do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e de suas organizações coligadas, disponibiliza à sociedade e servidores acesso a informações e recursos no novo Portal da Agricultura.
 

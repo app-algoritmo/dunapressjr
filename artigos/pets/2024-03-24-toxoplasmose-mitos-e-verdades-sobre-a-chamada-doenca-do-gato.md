@@ -1,11 +1,12 @@
 ---
-title: "Toxoplasmose: mitos e verdades sobre a chamada “doença do gato”"
+title: 'Toxoplasmose: mitos e verdades sobre a chamada “doença do gato”'
 date: 2024-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Entre todos os animais de estimação, os bichanos estão entre os que mais sofrem com mitos e preconceitos. Começando pelo lado afetivo, é comum ouvir falácias como a de que gatos não se apegam aos tutores. Já quando o assunto é saúde, diversas doenças costumam ser associadas a esses pets, como é o caso da **toxoplasmose**.
 

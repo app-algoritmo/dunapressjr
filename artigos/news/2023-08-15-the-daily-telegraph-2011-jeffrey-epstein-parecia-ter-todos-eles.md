@@ -1,11 +1,12 @@
 ---
-title: "The Daily Telegraph 2011: 'Jeffrey Epstein parecia ter todos eles'"
+title: 'The Daily Telegraph 2011: ''Jeffrey Epstein parecia ter todos eles'''
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 The Daily Telegraph 2011: "Jeffrey Epstein parecia ter tudo ... Ele contava com o ex-presidente Bill Clinton, estrelas de Hollywood e membros da realeza britânica entre seus amigos".
 

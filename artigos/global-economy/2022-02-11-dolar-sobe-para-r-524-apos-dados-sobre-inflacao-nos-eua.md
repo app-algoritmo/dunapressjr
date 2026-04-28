@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,24, após dados sobre inflação nos EUA"
+title: Dólar sobe para R$ 5,24, após dados sobre inflação nos EUA
 date: 2022-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores sobe 0,81%, embalada por commodities.
 

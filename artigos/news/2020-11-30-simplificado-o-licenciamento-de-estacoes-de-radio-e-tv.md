@@ -1,11 +1,12 @@
 ---
-title: "Simplificado o licenciamento de estações de rádio e TV"
+title: Simplificado o licenciamento de estações de rádio e TV
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério das Comunicações publicou duas portarias que simplificam os processos de obtenção de licença das emissoras de rádio e TV. A medida é um passo importante para a desburocratização do licenciamento das estações de radiodifusão e facilitará a regularização de milhares de emissoras em todo o país.
 

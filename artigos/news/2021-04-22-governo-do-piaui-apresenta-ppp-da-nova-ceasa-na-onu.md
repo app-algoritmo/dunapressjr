@@ -1,11 +1,12 @@
 ---
-title: "Governo do Piauí apresenta PPP da Nova Ceasa na ONU"
+title: Governo do Piauí apresenta PPP da Nova Ceasa na ONU
 date: 2021-04-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ### -A iniciativa para a PPP da Nova Ceasa foi apresentada pelo Governador Wellington Dias e é o único projeto brasileiro concorrendo à premiação da ONU. A votação fica aberta até às 13h e os primeiros colocados serão anunciados nesta sexta-feira (23). 
 

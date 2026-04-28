@@ -1,13 +1,14 @@
 ---
-title: "Aniversário do Príncipe Imperial S.A.I.R Dom Bertrand de Orleans e Bragança"
+title: Aniversário do Príncipe Imperial S.A.I.R Dom Bertrand de Orleans e Bragança
 date: 2019-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 O Príncipe Dom Bertrand de Orleans e Bragança, Príncipe Imperial do Brasil é o terceiro dos doze filhos do Príncipe D. Pedro Henrique de Orleans e Bragança (1909-1981). É neto de D. Luiz de Orleans e Bragança (1878-1921), o Príncipe Perfeito, bisneto da Princesa Isabel, a Redentora, e trineto do Imperador Dom Pedro II.
 

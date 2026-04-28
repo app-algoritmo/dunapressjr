@@ -1,11 +1,12 @@
 ---
-title: "China suspende embargo à carne bovina brasileira"
+title: China suspende embargo à carne bovina brasileira
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vendas foram interrompidas em fevereiro.
 

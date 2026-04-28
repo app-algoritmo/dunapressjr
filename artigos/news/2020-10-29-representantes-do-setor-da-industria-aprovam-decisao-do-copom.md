@@ -1,11 +1,12 @@
 ---
-title: "Representantes do setor da indústria aprovam decisão do Copom"
+title: Representantes do setor da indústria aprovam decisão do Copom
 date: 2020-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entidades defendem reformas e respeito ao teto de gastos.
 

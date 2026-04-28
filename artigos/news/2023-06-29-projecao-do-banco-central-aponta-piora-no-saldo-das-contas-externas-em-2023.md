@@ -1,11 +1,12 @@
 ---
-title: "Projeção do Banco Central aponta piora no saldo das contas externas em 2023"
+title: Projeção do Banco Central aponta piora no saldo das contas externas em 2023
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Déficit nas transações correntes é previsto em US$ 45 bilhões, segundo Relatório de Inflação do BC
 

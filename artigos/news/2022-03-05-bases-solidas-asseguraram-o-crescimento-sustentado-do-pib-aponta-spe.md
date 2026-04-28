@@ -1,11 +1,12 @@
 ---
-title: "Bases sólidas asseguraram o crescimento sustentado do PIB, aponta SPE"
+title: Bases sólidas asseguraram o crescimento sustentado do PIB, aponta SPE
 date: 2022-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Secretaria de Política Econômica destaca a importância das ações de consolidação fiscal e aumento da produtividade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Atualizado o Guia Prático da Lei do Bem"
+title: Atualizado o Guia Prático da Lei do Bem
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) lançou a versão atualizada do Guia Prático da Lei do Bem. O objetivo é fazer com que mais empresas utilizem os benefícios previstos na lei, um dos principais instrumentos de fomento à ciência, tecnologia e inovação no país.
 

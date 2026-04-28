@@ -1,11 +1,12 @@
 ---
-title: "Comando Conjunto Nordeste tem novo Comandante"
+title: Comando Conjunto Nordeste tem novo Comandante
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Recife (PE)** – O Comando Conjunto Nordeste realizou solenidade de Passagem de Comando, no dia 14 de maio. O General de Divisão **Pedro Paulo de Mello Braga** passou a função para o General de Divisão **Ivan Ferreira Neiva Filho**.
 

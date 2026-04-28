@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no menor nível em um mês em dia de reforma administrativa"
+title: Dólar fecha no menor nível em um mês em dia de reforma administrativa
 date: 2020-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Real teve melhor desempenho entre as principais moedas do planeta.
 

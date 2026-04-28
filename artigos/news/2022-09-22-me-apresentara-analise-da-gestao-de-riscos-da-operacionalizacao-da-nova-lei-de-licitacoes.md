@@ -1,11 +1,13 @@
 ---
-title: "ME apresentará análise da gestão de riscos da operacionalização da Nova Lei de Licitações"
+title: ME apresentará análise da gestão de riscos da operacionalização da Nova Lei
+  de Licitações
 date: 2022-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento on-line reúne gestores públicos para apresentação do estudo e elaboração de estratégias de tratamento dos riscos levantados pelos órgãos da Administração Pública federal.
 

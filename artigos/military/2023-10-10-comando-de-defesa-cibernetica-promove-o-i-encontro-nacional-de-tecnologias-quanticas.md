@@ -1,11 +1,13 @@
 ---
-title: "Comando de Defesa Cibernética promove o I Encontro Nacional de Tecnologias Quânticas"
+title: Comando de Defesa Cibernética promove o I Encontro Nacional de Tecnologias
+  Quânticas
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Nos dias 27 e 28 de setembro, foi realizada a primeira edição do Encontro Nacional de Tecnologias Quânticas para a Defesa. A abertura da atividade foi realizada pelo Comandante de Defesa Cibernética e o evento contou com a participação de representantes do Ministério das Relações Exteriores, Ministério da Ciência, Tecnologia e Inovação, FINEP, Forças Armadas, Universidades e Centros de Pesquisa.
 

@@ -1,12 +1,13 @@
 ---
-title: "Abril laranja mes da prevencao contra a crueldade animal"
+title: Abril laranja mes da prevencao contra a crueldade animal
 date: 2024-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Combater os maus-tratos e prevenir a crueldade contra os animais deve ser uma prática para se exercer em todos os dias do ano, sendo um dever de toda a sociedade. No entanto, como efeito de reforço, a campanha mundial “Abril Laranja” foi criada para simbolizar esta luta, servindo como um meio importante para conscientizar as pessoas. O mês foi escolhido pela ASPCA (Sociedade Americana para a Prevenção da Crueldade a Animais) como sendo o mês de prevenção da crueldade contra animais. A campanha usa como símbolo um laço de cor laranja, no estilo de campanhas humanitárias.
 

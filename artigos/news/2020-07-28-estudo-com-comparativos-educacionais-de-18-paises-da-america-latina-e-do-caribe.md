@@ -1,11 +1,12 @@
 ---
-title: "Estudo com comparativos educacionais de 18 países da América Latina e do Caribe"
+title: Estudo com comparativos educacionais de 18 países da América Latina e do Caribe
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O que se espera que aprendam os estudantes da América Latina e do Caribe? A resposta para esta pergunta será divulgada nesta terça-feira, 28 de julho, durante evento on-line promovido pelo Laboratório Latino-americano de Avaliação da Qualidade da Educação (LLECE), ligado à Oficina Regional de Educação para América Latina e Caribe (OREALC/UNESCO Santiago). A programação terá início às 12h (horário de Brasília) e inclui a entrega dos principais resultados encontrados na análise curricular do Estudo Regional Comparativo e Explicativo (Erce) 2019. No Brasil, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) é o responsável pela aplicação do Erce, do qual participa desde a primeira edição, em 1997.
 

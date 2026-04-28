@@ -1,11 +1,12 @@
 ---
-title: "Tartária: O Enigma do Império Perdido"
+title: 'Tartária: O Enigma do Império Perdido'
 date: 2024-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
+- History
 ---
+
 
 Por séculos, a Tartária tem sido um enigma envolto em mistério e especulação. Este antigo império, que uma vez se estendia por vastas extensões da Ásia Central e Oriental, desapareceu dos registros históricos, deixando para trás apenas vestígios dispersos e controvérsias. No entanto, nos últimos anos, o interesse renovado por esse enigma histórico trouxe à tona uma série de teorias e especulações sobre quem eram os tartáros, qual era a extensão de seu império e por que desapareceram da história.
 

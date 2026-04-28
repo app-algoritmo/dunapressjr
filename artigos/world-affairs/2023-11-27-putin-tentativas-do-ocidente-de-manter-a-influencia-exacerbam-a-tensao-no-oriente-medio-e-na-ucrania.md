@@ -1,11 +1,13 @@
 ---
-title: "Putin: tentativas do Ocidente de manter a influência exacerbam a tensão no Oriente Médio e na Ucrânia"
+title: 'Putin: tentativas do Ocidente de manter a influência exacerbam a tensão no
+  Oriente Médio e na Ucrânia'
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o líder russo, “um conhecido grupo de países”, que se acostumou a dominar os assuntos mundiais, não irá parar diante de nada para preservar a sua influência em declínio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Decreto divulga acordo sobre serviços aéreos entre Brasil e Polônia"
+title: Decreto divulga acordo sobre serviços aéreos entre Brasil e Polônia
 date: 2020-06-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Acordo assinado promove segurança jurídica nas relações aerocomerciais entre os dois países.
 

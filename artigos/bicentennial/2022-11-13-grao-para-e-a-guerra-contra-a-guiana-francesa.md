@@ -1,11 +1,12 @@
 ---
-title: "Grão-Pará e a guerra contra a Guiana Francesa"
+title: Grão-Pará e a guerra contra a Guiana Francesa
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em janeiro de 1808, a família real portuguesa desembarcou a contragosto no Brasil após a invasão napoleônica na península ibérica. Entretanto, essa situação embaraçosa não foi esquecida por Dom João VI. No dia 10 de junho de 1808 o Príncipe Regente declarou guerra à França com a invasão de Caiena, capital da Guiana Francesa. O Grão-Pará foi espaço estratégico para a operação militar, pois fazia divisa com o território francófono da América do Sul.
 

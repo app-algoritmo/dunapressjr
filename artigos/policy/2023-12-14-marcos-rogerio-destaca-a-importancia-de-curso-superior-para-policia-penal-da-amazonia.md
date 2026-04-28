@@ -1,11 +1,13 @@
 ---
-title: "Marcos Rogério destaca a importância de curso superior para Polícia Penal da Amazônia"
+title: Marcos Rogério destaca a importância de curso superior para Polícia Penal da
+  Amazônia
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) ressaltou em pronunciamento no Plenário nesta terça-feira (12) a importância de exigir formação em curso superior para os profissionais da Polícia Penal na região Amazônica. Na opinião dele, essa medida pode elevar a qualidade desses profissionais e fortalecer o combate ao crime organizado na floresta tropical.
 

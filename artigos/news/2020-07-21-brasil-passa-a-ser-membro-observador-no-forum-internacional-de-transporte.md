@@ -1,11 +1,12 @@
 ---
-title: "Brasil passa a ser membro observador no Fórum Internacional de Transporte"
+title: Brasil passa a ser membro observador no Fórum Internacional de Transporte
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Cúpula Anual do Fórum é a maior reunião mundial de Ministros de Transporte.
 

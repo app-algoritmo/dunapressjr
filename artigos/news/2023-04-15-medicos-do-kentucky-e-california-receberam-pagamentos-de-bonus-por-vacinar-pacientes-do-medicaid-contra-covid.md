@@ -1,11 +1,13 @@
 ---
-title: "Médicos do Kentucky e Califórnia, receberam pagamentos de bônus por vacinar pacientes do Medicaid contra COVID"
+title: Médicos do Kentucky e Califórnia, receberam pagamentos de bônus por vacinar
+  pacientes do Medicaid contra COVID
 date: 2023-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Documentos revelam que o governo federal e as seguradoras incentivaram os profissionais de saúde em Kentucky e na Califórnia a vacinar pacientes do Medicaid contra o COVID-19, oferecendo bônus com base na porcentagem de pacientes vacinados com sucesso.
 

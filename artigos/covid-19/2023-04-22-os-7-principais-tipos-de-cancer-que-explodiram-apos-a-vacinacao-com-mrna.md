@@ -1,12 +1,13 @@
 ---
-title: "Os 7 principais tipos de câncer que explodiram após a vacinação com mRNA"
+title: Os 7 principais tipos de câncer que explodiram após a vacinação com mRNA
 date: 2023-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 O que poderia causar a exacerbação de quase todos os tipos de câncer em apenas alguns meses? Que toxina tantos humanos estão “consumindo” nos últimos dois anos que tantos casos de câncer estão aumentando exponencialmente? O câncer de mama invasivo para 2022 foi diagnosticado recentemente em mais de um quarto de milhão de mulheres, à medida que as [taxas de incidência](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/) continuam a aumentar. Além disso, em 2022, os casos de câncer de pulmão recém-diagnosticados ultrapassaram 230.000, uma vez que também continuam a aumentar. Além disso, após décadas de declínio, agora os casos de câncer de próstata estão aumentando. O que no mundo está acontecendo?
 

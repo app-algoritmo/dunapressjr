@@ -1,11 +1,12 @@
 ---
-title: "BNDES lança linha de crédito para setor audiovisual"
+title: BNDES lança linha de crédito para setor audiovisual
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Valor total do auxílio é de R$ 400 milhões para o Fundo Setorial do Audiovisual.
 

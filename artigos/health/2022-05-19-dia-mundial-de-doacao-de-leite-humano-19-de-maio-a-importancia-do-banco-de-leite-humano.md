@@ -1,11 +1,13 @@
 ---
-title: "Dia Mundial de Doação de Leite Humano - 19 de maio: A importância do Banco de Leite Humano"
+title: 'Dia Mundial de Doação de Leite Humano - 19 de maio: A importância do Banco
+  de Leite Humano'
 date: 2022-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Doar leite materno é um gesto que salva vidas. O leite materno é importante para todos os bebês, principalmente para os que estão internados e não podem ser amamentados pela própria mãe. Todos os anos, aproximadamente 150 mil litros de leite humano são coletados, processados e distribuídos a recém-nascidos de baixo peso, internados em unidades neonatais no Brasil.
 

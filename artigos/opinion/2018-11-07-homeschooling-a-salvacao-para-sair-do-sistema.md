@@ -1,11 +1,12 @@
 ---
-title: "Homeschooling - A salvação para sair do sistema"
+title: Homeschooling - A salvação para sair do sistema
 date: 2018-11-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Não há saída dos sistemas que estão vigentes hoje. Porém, há meios de começarmos a sair de forma coletiva.
 

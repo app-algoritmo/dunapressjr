@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 4,90"
+title: Dólar fecha abaixo de R$ 4,90
 date: 2023-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de Valores atinge maior nível desde agosto devido ao anúncio chinês e outros fatores econômicos.
 

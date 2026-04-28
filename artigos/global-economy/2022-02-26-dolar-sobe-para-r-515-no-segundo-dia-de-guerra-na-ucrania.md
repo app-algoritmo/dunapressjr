@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,15 no segundo dia de guerra na Ucrânia"
+title: Dólar sobe para R$ 5,15 no segundo dia de guerra na Ucrânia
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recuperou-se de quedas recentes e subiu 1,39%.
 

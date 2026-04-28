@@ -1,11 +1,13 @@
 ---
-title: "Conheça as 20 pessoas do 'Comitê dos Sábios' que decidem sobre qual conteúdo deve ser removido do Facebook"
+title: Conheça as 20 pessoas do 'Comitê dos Sábios' que decidem sobre qual conteúdo
+  deve ser removido do Facebook
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No final de 2018, o CEO do Facebook, Mark Zuckerberg, anunciou um plano ambicioso: criar um conselho de supervisão independente que pudesse anular as diretrizes de moderação de conteúdo do Facebook, e até mesmo o próprio Zuckerberg.
 

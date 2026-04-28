@@ -1,11 +1,12 @@
 ---
-title: "Os direitos da criança: o direito de não sofrer abusos, por Dra. Morgana Macena"
+title: 'Os direitos da criança: o direito de não sofrer abusos, por Dra. Morgana Macena'
 date: 2018-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Matéria por Morgana Macena de Santana.*
 

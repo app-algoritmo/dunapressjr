@@ -1,11 +1,12 @@
 ---
-title: "Os desafios de abrir um empreendimento nos Estados Unidos"
+title: Os desafios de abrir um empreendimento nos Estados Unidos
 date: 2022-07-11
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Passaporte válido, endereço fixo físico ou virtual – apenas para correspondências – com telefone e uma conta bancária estadunidense são alguns dos requisitos básicos para brasileiros que desejam abrir uma empresa nos Estados Unidos da América (EUA). O processo é considerado relativamente simples, mas é preciso estar atento aos detalhes e lembrar que os procedimentos podem variar conforme o estado escolhido, uma vez que se trata de uma República Federativa com leis estaduais.
 

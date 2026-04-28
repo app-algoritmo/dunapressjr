@@ -1,11 +1,12 @@
 ---
-title: "Estados brasileiros apresentam cenário fiscal heterogêneo no início de 2023"
+title: Estados brasileiros apresentam cenário fiscal heterogêneo no início de 2023
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os estados com maiores reduções no período são Amapá (-8%), Espírito Santo (-5%) e Santa Catarina (-5%).
 

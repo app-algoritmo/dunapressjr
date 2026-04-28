@@ -1,11 +1,12 @@
 ---
-title: "Brasil celebra Dia Mundial do Chocolate com 7º lugar em exportação"
+title: Brasil celebra Dia Mundial do Chocolate com 7º lugar em exportação
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indústria teve faturamento estimado de R$ 13 bilhões em 2021.
 

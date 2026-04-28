@@ -1,11 +1,12 @@
 ---
-title: "H3N2: novo vírus influenza em circulação no país"
+title: 'H3N2: novo vírus influenza em circulação no país'
 date: 2022-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O aumento de casos de infecções pelo vírus influenza no último trimestre deste ano tem atraído atenção para uma velha conhecida da humanidade. A gripe, como é chamada popularmente, tem gerado surtos regionais pelo país impulsionada pela introdução de uma nova cepa do subtipo A (H3N2), batizada de Darwin.
 

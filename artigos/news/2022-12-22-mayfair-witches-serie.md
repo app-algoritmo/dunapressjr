@@ -1,12 +1,13 @@
 ---
-title: "Mayfair Witches - Série"
+title: Mayfair Witches - Série
 date: 2022-12-22
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

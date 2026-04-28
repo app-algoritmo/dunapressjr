@@ -1,11 +1,13 @@
 ---
-title: "Senadores americanos votam para restringir os poderes militares de Trump contra o Irã"
+title: Senadores americanos votam para restringir os poderes militares de Trump contra
+  o Irã
 date: 2020-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *O patrocinador democrático da medida, que recebe apoio de oito republicanos, diz que visa reafirmar a autoridade do Congresso de declarar guerra; Casa pode aceitar a conta ainda este mês.*
 

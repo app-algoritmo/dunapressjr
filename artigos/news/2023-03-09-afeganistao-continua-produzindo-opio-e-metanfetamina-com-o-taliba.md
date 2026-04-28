@@ -1,11 +1,12 @@
 ---
-title: "Afeganistão continua produzindo ópio e metanfetamina com o Talibã"
+title: Afeganistão continua produzindo ópio e metanfetamina com o Talibã
 date: 2023-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O órgão da ONU que garante o cumprimento dos tratados internacionais sobre drogas está preocupado com a produção em larga escala de ópio e metanfetamina no Afeganistão, bem como com a ausência de programas de tratamento para usuários de drogas.
 

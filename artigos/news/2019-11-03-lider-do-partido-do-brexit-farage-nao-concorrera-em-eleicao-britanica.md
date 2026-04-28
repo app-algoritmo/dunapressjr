@@ -1,11 +1,12 @@
 ---
-title: "Líder do Partido do Brexit, Farage, não concorrerá em eleição britânica"
+title: Líder do Partido do Brexit, Farage, não concorrerá em eleição britânica
 date: 2019-11-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nigel Farage, líder do Partido do Brexit, disse neste
 domingo que não participará das eleições britânicas do próximo mês, optando por

@@ -1,11 +1,12 @@
 ---
-title: "Projeto mundial sobre mudanças climáticas com participação de estudantes brasileiros"
+title: Projeto mundial sobre mudanças climáticas com participação de estudantes brasileiros
 date: 2020-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por meio do Climate Action Project, mais de um milhão de jovens, em seis continentes, estudam os problemas mundiais e locais relacionados às mudanças climáticas, com o objetivo de encontrar soluções e “colocar a mão na massa” para melhorar o planeta. Para isso, os alunos de 100 países diferentes interagem entre si para troca de ideias e constatações.
 

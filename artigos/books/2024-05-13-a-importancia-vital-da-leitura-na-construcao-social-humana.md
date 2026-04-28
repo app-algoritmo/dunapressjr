@@ -1,11 +1,12 @@
 ---
-title: "A Importância Vital da Leitura na Construção Social Humana"
+title: A Importância Vital da Leitura na Construção Social Humana
 date: 2024-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Books
+- Books
 ---
+
 
 A leitura é mais do que uma simples atividade intelectual; é um pilar fundamental na construção da sociedade humana. Desde os primórdios da civilização, a habilidade de ler e interpretar textos tem sido um catalisador para o progresso social, cultural e econômico.
 

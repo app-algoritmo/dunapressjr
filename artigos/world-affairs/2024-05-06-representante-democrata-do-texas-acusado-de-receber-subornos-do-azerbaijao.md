@@ -1,11 +1,12 @@
 ---
-title: "Representante democrata do Texas acusado de receber subornos do Azerbaijão"
+title: Representante democrata do Texas acusado de receber subornos do Azerbaijão
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Justiça dos Estados Unidos acusou o representante democrata do Texas, Henry Cuellar, copresidente da bancada parlamentar sobre o Azerbaijão, e sua esposa, de uma série de acusações federais por terem recebido $600 mil em subornos de duas entidades. Os pagamentos, que totalizaram $600 mil dólares entre dezembro de 2014 e novembro de 2021, foram provenientes de uma empresa petrolífera estatal do Azerbaijão e de um banco sediado na Cidade do México, em troca de influenciarem a atividade legislativa em favor dessas entidades.
 

@@ -1,11 +1,13 @@
 ---
-title: "Irã pesa a realização de seu 'Dia de Quds' anti-Israel mesmo em meio a uma pandemia"
+title: Irã pesa a realização de seu 'Dia de Quds' anti-Israel mesmo em meio a uma
+  pandemia
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O Dia dos Quds (Jerusalém)  está centrado na "libertação" de Jerusalém dos "sionistas", exibia pôsteres e propaganda prometendo a morte a Israel.
 

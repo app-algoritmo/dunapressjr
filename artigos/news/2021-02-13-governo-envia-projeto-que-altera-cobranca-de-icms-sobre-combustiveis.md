@@ -1,11 +1,12 @@
 ---
-title: "Governo envia projeto que altera cobrança de ICMS sobre combustíveis"
+title: Governo envia projeto que altera cobrança de ICMS sobre combustíveis
 date: 2021-02-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida busca estabelecer alíquotas uniformes.
 

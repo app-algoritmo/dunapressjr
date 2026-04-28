@@ -1,11 +1,12 @@
 ---
-title: "56 mil vagas ofertadas para cursos a distância por instituições públicas"
+title: 56 mil vagas ofertadas para cursos a distância por instituições públicas
 date: 2020-06-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Oferta faz parte das 122 mil vagas de qualificação profissional gratuitas do programa Novos Caminhos.
 

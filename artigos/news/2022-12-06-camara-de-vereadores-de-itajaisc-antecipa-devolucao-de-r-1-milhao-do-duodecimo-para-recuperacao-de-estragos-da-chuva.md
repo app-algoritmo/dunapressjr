@@ -1,11 +1,13 @@
 ---
-title: "Câmara de Vereadores de Itajaí/SC antecipa devolução de R$ 1 milhão do duodécimo para recuperação de estragos da chuva"
+title: Câmara de Vereadores de Itajaí/SC antecipa devolução de R$ 1 milhão do duodécimo
+  para recuperação de estragos da chuva
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Mesa Diretora da Câmara de Vereadores de Itajaí ofereceu ao Executivo Municipal, que prontamente aceitou, a antecipação da devolução de R$ 1 milhão do duodécimo para custear obras de infraestrutura nos bairros do interior do município, em que foram registrados mais estragos por causa da chuva que caiu na semana passada.
 

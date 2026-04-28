@@ -1,11 +1,12 @@
 ---
-title: "PF investiga corrupção em Prefeitura do interior paraibano"
+title: PF investiga corrupção em Prefeitura do interior paraibano
 date: 2020-04-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal deflagrou nesta quarta-feira (29/4), em conjunto com a Controladoria-Geral da União – CGU e com auxílio da Caixa Econômica Federal, a Operação HOLERITE, com objetivo de combater os crimes de corrupção ativa e passiva, no âmbito da Prefeitura de Cruz do Espírito Santo/PB.
 

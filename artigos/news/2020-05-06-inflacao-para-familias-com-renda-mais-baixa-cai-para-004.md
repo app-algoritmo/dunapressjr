@@ -1,11 +1,12 @@
 ---
-title: "Inflação para famílias com renda mais baixa cai para 0,04%"
+title: Inflação para famílias com renda mais baixa cai para 0,04%
 date: 2020-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Taxa ficou abaixo da observada em março (0,49%), disse a FGV.
 O Índice de Preços ao Consumidor - Classe 1 (IPC-C1) -, que mede a variação da cesta de compras de famílias com renda até 2,5 salários mínimos, registrou inflação de 0,04% em abril deste ano. A taxa ficou abaixo da observada em março (0,49%).

@@ -1,11 +1,12 @@
 ---
-title: "Consequências podem sofrer as crianças que convivem com fumantes"
+title: Consequências podem sofrer as crianças que convivem com fumantes
 date: 2021-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Não é surpresa para ninguém o risco que o cigarro oferece para a saúde. Essa é uma informação bastante disseminada, até mesmo nas carteiras comercializadas. Mas um ponto importante, e que talvez muita gente deixe passar batido, é sobre o tabagismo passivo. E quando as crianças são expostas a ele, os perigos a curto, médio e longo prazo só aumentam.  
 

@@ -1,12 +1,13 @@
 ---
-title: "Como tomar vitamina D? Qual é a importância desse nutriente para o corpo?"
+title: Como tomar vitamina D? Qual é a importância desse nutriente para o corpo?
 date: 2022-11-09
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 Pesquisas revelam que grande parte da população mundial apresenta deficiência de vitamina D no organismo. Essa situação está associada, principalmente, à baixa exposição solar e à má alimentação diária ¹. Justamente por isso, é fundamental saber como tomar vitamina D e quais são os seus benefícios para a saúde do corpo.
 

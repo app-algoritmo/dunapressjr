@@ -1,11 +1,13 @@
 ---
-title: "O mundo terá que ‘limpar a bagunça’ criada pelos EUA em torno do conflito no Oriente Médio, diz diplomata"
+title: O mundo terá que ‘limpar a bagunça’ criada pelos EUA em torno do conflito no
+  Oriente Médio, diz diplomata
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As tensões no Oriente Médio aumentaram novamente depois que terroristas do Hamas se infiltraram em Israel a partir da Faixa de Gaza.
 

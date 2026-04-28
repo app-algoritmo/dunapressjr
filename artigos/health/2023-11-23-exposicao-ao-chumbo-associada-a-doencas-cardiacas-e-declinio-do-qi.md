@@ -1,11 +1,12 @@
 ---
-title: "Exposição ao chumbo associada a doenças cardíacas e declínio do QI"
+title: Exposição ao chumbo associada a doenças cardíacas e declínio do QI
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Embora a tinta à base de chumbo tenha sido proibida para uso residencial nos Estados Unidos em 1978, os efeitos persistentes da exposição ao chumbo ainda têm impacto na saúde pública. Segundo um estudo, a exposição ao chumbo [pode aumentar o risco de doenças cardíacas](https://www.naturalhealth365.com/lethal-legacy-of-lead-millions-affected-by-lead-related-heart-disease-and-iq-decline.html) e contribuir para o declínio do QI infantil.
 

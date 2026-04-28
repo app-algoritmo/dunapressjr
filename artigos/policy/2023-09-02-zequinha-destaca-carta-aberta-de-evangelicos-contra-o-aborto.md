@@ -1,11 +1,12 @@
 ---
-title: "Zequinha destaca carta aberta de evangélicos contra o aborto"
+title: Zequinha destaca carta aberta de evangélicos contra o aborto
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) destacou em pronunciamento nesta quinta-feira (31) carta aberta escrita por evangélicos brasileiros aos membros do Supremo Tribunal Federal (STF) e do Congresso Nacional. O documento foi publicado na segunda-feira (28) e expõe a posição de pastores, líderes e entidades evangélicas contra a Arguição de Descumprimento de Preceito Fundamental (ADPF) 442, que trata da descriminalização do aborto.
 

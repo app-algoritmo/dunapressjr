@@ -1,11 +1,13 @@
 ---
-title: "Estudo encomendado pela União Europeia descobre propaganda anti-semita e anti-Israel desenfreada no sistema educacional da Autoridade Palestina"
+title: Estudo encomendado pela União Europeia descobre propaganda anti-semita e anti-Israel
+  desenfreada no sistema educacional da Autoridade Palestina
 date: 2021-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Em 18 de junho, o Instituto George Eckert publicou sua pesquisa sobre os livros didáticos da Autoridade Palestina (AP). O estudo foi encomendado pela Comissão Europeia, que é um dos principais financiadores do sistema educacional palestino.
 

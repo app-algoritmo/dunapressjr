@@ -1,12 +1,13 @@
 ---
-title: "Noruega e a linguagem de sinais: acessibilidade, inclusão e excelência"
+title: 'Noruega e a linguagem de sinais: acessibilidade, inclusão e excelência'
 date: 2018-10-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 A Noruega tem tradição em acessibilidade e inclusão. O país tem um excelente trabalho na área de datilologia, e  já no século XIX contava com grupos de teatro para deficientes auditivos. Atualmente, a Federação Norueguesa de Surdos organiza cursos anuais e várias associações como Statped e Ål Folk High School organizam cursos introdutórios de linguagem de sinais, geralmente no outono e na primavera.
 

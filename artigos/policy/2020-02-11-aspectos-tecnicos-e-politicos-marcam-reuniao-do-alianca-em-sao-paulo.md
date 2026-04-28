@@ -1,11 +1,12 @@
 ---
-title: "Aspectos técnicos e políticos marcam reunião do Aliança em São Paulo"
+title: Aspectos técnicos e políticos marcam reunião do Aliança em São Paulo
 date: 2020-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Palestrantes conversaram com voluntários e imprensa para esclarecer formas de apoiamento e diretrizes políticas do novo partido
 

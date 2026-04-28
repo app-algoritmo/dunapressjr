@@ -1,11 +1,12 @@
 ---
-title: "AstraZeneca processada por injeções “defeituosas” de Covid"
+title: AstraZeneca processada por injeções “defeituosas” de Covid
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A vacina COVID-19 da Oxford-AstraZeneca foi chamada de “defeituosa” em um processo multimilionário, alegando que as alegações sobre sua eficácia eram “grosseiramente exageradas”. O Telegraph relata isso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mapa divulga consórcios para ampliação do mercado de Produtos de Origem Animal"
+title: Mapa divulga consórcios para ampliação do mercado de Produtos de Origem Animal
 date: 2020-05-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os consórcios receberão apoio direto da equipe do Mapa para adesão ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal (Sisbi).
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério Público da Paraíba processa prefeito de Santa Rita"
+title: Ministério Público da Paraíba processa prefeito de Santa Rita
 date: 2020-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O gestor ordenou e executou serviços de publicidade sem nota de empenho.
 

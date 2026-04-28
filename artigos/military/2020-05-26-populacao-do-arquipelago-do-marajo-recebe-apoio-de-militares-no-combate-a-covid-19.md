@@ -1,11 +1,12 @@
 ---
-title: "População do Arquipélago do Marajó recebe apoio de militares no combate à Covid-19"
+title: População do Arquipélago do Marajó recebe apoio de militares no combate à Covid-19
 date: 2020-05-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em apoio à saúde pública do Arquipélago do Marajó, no estado do Pará, o Ministério da Defesa, por meio do Comando Conjunto Norte (CCN), realizou diversas ações voltadas para o
 

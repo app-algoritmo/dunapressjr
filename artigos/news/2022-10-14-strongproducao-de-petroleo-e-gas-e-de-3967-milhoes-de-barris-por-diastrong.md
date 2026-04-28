@@ -1,11 +1,12 @@
 ---
-title: "<strong>Produção de petróleo e gás é de 3,967 milhões de barris por dia</strong>"
+title: <strong>Produção de petróleo e gás é de 3,967 milhões de barris por dia</strong>
 date: 2022-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados foram divulgados nesta quinta-feira pela ANP.
 

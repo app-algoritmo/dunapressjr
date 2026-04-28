@@ -1,11 +1,13 @@
 ---
-title: "EUA e China precisam evitar que a concorrência se transforme em conflito, diz Sullivan a Wang Yi"
+title: EUA e China precisam evitar que a concorrência se transforme em conflito, diz
+  Sullivan a Wang Yi
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O Conselheiro de Segurança Nacional dos EUA disse ao Ministro das Relações Exteriores da China sobre "a importância de manter a paz e a estabilidade através do Estreito de Taiwan".
 

@@ -1,11 +1,12 @@
 ---
-title: "Orçamento de 2023 prevê déficit primário de R$ 63,7 bi"
+title: Orçamento de 2023 prevê déficit primário de R$ 63,7 bi
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor, no entanto, considera Auxílio Brasil de R$ 400.
 

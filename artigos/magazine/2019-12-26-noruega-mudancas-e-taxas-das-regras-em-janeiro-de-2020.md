@@ -1,11 +1,12 @@
 ---
-title: "Noruega: Mudanças e taxas das regras em janeiro de 2020"
+title: 'Noruega: Mudanças e taxas das regras em janeiro de 2020'
 date: 2019-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Visão geral das alterações e taxas das regras de 1 de janeiro, 1 de fevereiro e 1 de março de 2020.
 

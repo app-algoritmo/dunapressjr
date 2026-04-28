@@ -1,11 +1,12 @@
 ---
-title: "Pôr do sol será palco de apresentações do Marco das 3 Fronteiras"
+title: Pôr do sol será palco de apresentações do Marco das 3 Fronteiras
 date: 2020-06-20
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Atrações são realizadas tomando todos os cuidados possíveis para garantir a segurança e saúde dos visitantes.
 

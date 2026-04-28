@@ -1,11 +1,12 @@
 ---
-title: "Comitê Gestor aprova alterações relativas ao MEI e ao Simples Nacional"
+title: Comitê Gestor aprova alterações relativas ao MEI e ao Simples Nacional
 date: 2021-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Comitê Gestor do Simples Nacional (CGSN) aprovou, em reunião presencial, a Resolução CGSN nº 160, trazendo alteração à Resolução nº 140/2018 e reconhecendo, excepcionalmente, a prorrogação do prazo para regularização de pendências impeditivas à opção pelo Simples Nacional.
 

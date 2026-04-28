@@ -1,11 +1,12 @@
 ---
-title: "O inquérito de Martinho Lutero"
+title: O inquérito de Martinho Lutero
 date: 2022-04-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 ## Os 500 anos do inquérito de Lutero, que abriu o mundo ocidental para a liberdade de pensamento.
 

@@ -1,12 +1,13 @@
 ---
-title: "Estudo mostram como músicas e filmes estão relacionados a memórias antigas"
+title: Estudo mostram como músicas e filmes estão relacionados a memórias antigas
 date: 2023-01-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## As pessoas têm mais memórias associadas a mídias mais antigas e apreciam o conteúdo vinculado à memória.
 

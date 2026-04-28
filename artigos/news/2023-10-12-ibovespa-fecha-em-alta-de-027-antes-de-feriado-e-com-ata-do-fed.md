@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta de 0,27% antes de feriado e com ata do Fed"
+title: Ibovespa fecha em alta de 0,27% antes de feriado e com ata do Fed
 date: 2023-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar se mantém em R$ 5.
 

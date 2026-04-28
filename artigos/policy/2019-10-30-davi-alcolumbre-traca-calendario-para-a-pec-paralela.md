@@ -1,11 +1,12 @@
 ---
-title: "Davi Alcolumbre traça calendário para a PEC Paralela"
+title: Davi Alcolumbre traça calendário para a PEC Paralela
 date: 2019-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Davi Alcolumbre, informou na noite
 desta terça-feira (29) que conversará com a presidente da Comissão de

@@ -1,11 +1,13 @@
 ---
-title: "Deputados podem analisar na próxima semana proposta que regulamenta juros dos cartões de crédito"
+title: Deputados podem analisar na próxima semana proposta que regulamenta juros dos
+  cartões de crédito
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Relator do projeto vai elaborar novo texto a ser submetido aos líderes partidários. Intenção é acabar com juros abusivos.
 

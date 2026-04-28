@@ -1,11 +1,13 @@
 ---
-title: "Aretha Duarte comanda mutirão de reciclagem na Av. Paulista no Dia Mundial da Limpeza"
+title: Aretha Duarte comanda mutirão de reciclagem na Av. Paulista no Dia Mundial
+  da Limpeza
 date: 2023-09-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Primeira mulher negra latino-americana a chegar ao topo do Everest se junta a Decathlon para coletar resíduos neste sábado (16) em trecho da principal avenida de São Paulo e no Parque Trianon.
 

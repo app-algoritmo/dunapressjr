@@ -1,11 +1,12 @@
 ---
-title: "IPC-S da quarta quadrissemana de novembro apresenta variação de 0,27%"
+title: IPC-S da quarta quadrissemana de novembro apresenta variação de 0,27%
 date: 2023-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula alta de 3,61% nos últimos 12 meses, com destaque para decréscimo em sete das oito classes de despesa.
 

@@ -1,11 +1,12 @@
 ---
-title: "7 maneiras de aumentar a imunidade das crianças"
+title: 7 maneiras de aumentar a imunidade das crianças
 date: 2021-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Confira as orientações de especialistas para manter a saúde dos pequenos em dia enquanto ainda não podem ser vacinados contra a covid-19.
 

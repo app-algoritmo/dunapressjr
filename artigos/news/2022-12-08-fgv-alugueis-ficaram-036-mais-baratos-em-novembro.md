@@ -1,11 +1,12 @@
 ---
-title: "FGV: aluguéis ficaram 0,36% mais baratos em novembro"
+title: 'FGV: aluguéis ficaram 0,36% mais baratos em novembro'
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acumulado de 12 meses cai para 10,28%.
 

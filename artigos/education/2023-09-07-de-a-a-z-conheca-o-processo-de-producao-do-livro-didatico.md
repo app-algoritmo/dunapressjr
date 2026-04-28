@@ -1,11 +1,12 @@
 ---
-title: "De A a Z: conheça o processo de produção do livro didático"
+title: 'De A a Z: conheça o processo de produção do livro didático'
 date: 2023-09-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Do briefing à impressão, passando pelo trabalho dos autores, revisores e designers, atualização constante permite ensino conectado à realidade.
 

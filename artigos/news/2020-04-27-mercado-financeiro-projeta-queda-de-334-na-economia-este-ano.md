@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro projeta queda de 3,34% na economia este ano"
+title: Mercado financeiro projeta queda de 3,34% na economia este ano
 date: 2020-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A informação foi divulgada hoje pelo Banco Central
 

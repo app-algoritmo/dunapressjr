@@ -1,11 +1,12 @@
 ---
-title: "O quartel-general da campanha eleitoral de Putin será formado após sua autonomeação"
+title: O quartel-general da campanha eleitoral de Putin será formado após sua autonomeação
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O secretário do Conselho Geral do partido governante Rússia Unida, Andrey Turchak, anunciou.
 

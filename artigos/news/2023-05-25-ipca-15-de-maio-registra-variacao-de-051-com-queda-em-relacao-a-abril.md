@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15 de maio registra variação de 0,51%, com queda em relação a abril"
+title: IPCA-15 de maio registra variação de 0,51%, com queda em relação a abril
 date: 2023-05-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alimentação e saúde lideram altas, enquanto transportes e artigos de residência apresentam queda no índice prévio da inflação.
 

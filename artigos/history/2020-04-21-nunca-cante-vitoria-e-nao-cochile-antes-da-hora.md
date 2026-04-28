@@ -1,11 +1,12 @@
 ---
-title: "Nunca cante vitória (e não cochile) antes da hora!"
+title: Nunca cante vitória (e não cochile) antes da hora!
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Quem nunca dormiu um pouco mais do que deveria, e acabou perdendo a hora para o trabalho ou para a escola? Isso é um fato cotidiano no qual todos estão sujeitos, e que pode gerar algumas situações embaraçosas. Mas se isso acontecesse em uma guerra? Parece cena de um filme de comedia pastelão, ou dos gibis do Recruta Zero, todavia, tal fato ocorreu em 21 de abril de 1836, em um incidente que entrou para a história como *A Batalha de San Jacinto.*
 

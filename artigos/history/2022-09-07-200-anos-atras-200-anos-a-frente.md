@@ -1,12 +1,13 @@
 ---
-title: "200 anos atrás, 200 anos a frente?"
+title: 200 anos atrás, 200 anos a frente?
 date: 2022-09-07
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - History
-  - Opinion
+- History
+- Opinion
 ---
+
 
 Dia 7 de Setembro
 

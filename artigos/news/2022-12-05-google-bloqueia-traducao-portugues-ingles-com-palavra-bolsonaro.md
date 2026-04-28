@@ -1,13 +1,14 @@
 ---
-title: "Google bloqueia tradução português-inglês com palavra Bolsonaro"
+title: Google bloqueia tradução português-inglês com palavra Bolsonaro
 date: 2022-12-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
-  - Technology
+- News
+- Policy
+- Technology
 ---
+
 
 ## O mundo está apaixonado por Bolsonaro, google fica com "raivinha" e bloqueia tradução português-inglês, veja o vídeo e as alternativas ao google tradutor.
 

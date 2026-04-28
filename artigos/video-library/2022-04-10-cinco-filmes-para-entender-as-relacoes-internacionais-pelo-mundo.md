@@ -1,11 +1,12 @@
 ---
-title: "Cinco filmes para entender as relações internacionais pelo mundo"
+title: Cinco filmes para entender as relações internacionais pelo mundo
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Em um mundo interconectado e globalizado, determinadas situações que ocorrem dentro de um país acabam afetando não apenas a própria política doméstica, mas todo o sistema global. Por conta disso, as relações internacionais e a geopolítica são áreas muito dinâmicas, que mudam constantemente a partir de pronunciamentos políticos, oscilações econômicas e ações individuais das nações mais ou menos poderosas. 
 

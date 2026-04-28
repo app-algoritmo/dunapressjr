@@ -1,11 +1,12 @@
 ---
-title: "Líderes do FEM admitem  reduzir a produção de alimentos e energia"
+title: Líderes do FEM admitem  reduzir a produção de alimentos e energia
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O investidor Neil McCoy-Ward analisou recentemente o vídeo das Reuniões de Impacto no Desenvolvimento Sustentável 2022, nas quais os líderes do FEM (Fórum Econômico Mundial) parecem estar brincando sobre como estão reduzindo a produção de alimentos e energia. Ward descreve o vídeo como intrigante, pois os personagens parecem quase adivinhos revelando seus planos futuros.
 

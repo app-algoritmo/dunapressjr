@@ -1,11 +1,12 @@
 ---
-title: "Digitalização impulsiona maturidade nos negócios"
+title: Digitalização impulsiona maturidade nos negócios
 date: 2023-10-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Presença digital e avanços tecnológicos proporcionam soluções que beneficiam profissionais e consumidores, abrangendo diversas áreas, inclusive a odontologia.
 

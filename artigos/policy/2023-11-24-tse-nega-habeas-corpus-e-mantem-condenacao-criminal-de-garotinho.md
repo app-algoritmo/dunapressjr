@@ -1,11 +1,12 @@
 ---
-title: "TSE nega habeas corpus e mantém condenação criminal de Garotinho"
+title: TSE nega habeas corpus e mantém condenação criminal de Garotinho
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão foi tomada por unanimidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saúde do idoso ainda sente impactos do isolamento social trazido pela pandemia"
+title: Saúde do idoso ainda sente impactos do isolamento social trazido pela pandemia
 date: 2022-10-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A saúde do idoso foi diretamente impactada pela pandemia de covid-19 e os reflexos ainda são sentidos nas unidades que prestam serviços de atendimento à saúde. Isso aconteceu não só pelo fato de estarem entre os grupos de maior risco desde o início da crise sanitária, mas também porque o isolamento necessário nos períodos mais críticos impactou diretamente nos casos de acidentes domésticos e, em paralelo, na interrupção dos acompanhamentos de rotina. Portanto, são mais idosos chegando por traumas e menos para consultas de doenças crônicas. 
 

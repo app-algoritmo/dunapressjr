@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro aprova quebra de sigilos de gabinete de Jair Bolsonaro"
+title: CPMI do 8 de Janeiro aprova quebra de sigilos de gabinete de Jair Bolsonaro
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A comissão parlamentar mista de inquérito (CPMI) que investiga os atos de 8 de janeiro de 2023 aprovou nesta terça-feira (11) a requisição dos sigilos telemáticos de toda a equipe do tenente-coronel Mauro Cesar Barbosa Cid no gabinete pessoal da Presidência da República. Cid era ajudante de ordens do ex-presidente Jair Bolsonaro, e prestou depoimento à CPMI nesta terça. 
 

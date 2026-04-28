@@ -1,11 +1,13 @@
 ---
-title: "Projeto Click promove alfabetização digital para trabalhadores da construção civil"
+title: Projeto Click promove alfabetização digital para trabalhadores da construção
+  civil
 date: 2023-09-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Iniciativa do RH do Grupo A.Yoshii, com o apoio do Instituto A.Yoshii e em parceria com o Senai Londrina, oportuniza, por meio de treinamentos presenciais, a inserção digital dos colaboradores dos canteiros de obras.
 

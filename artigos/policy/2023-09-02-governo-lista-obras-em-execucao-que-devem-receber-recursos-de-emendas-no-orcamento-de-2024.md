@@ -1,11 +1,13 @@
 ---
-title: "Governo lista obras em execução que devem receber recursos de emendas no Orçamento de 2024"
+title: Governo lista obras em execução que devem receber recursos de emendas no Orçamento
+  de 2024
 date: 2023-09-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Foram reservados R$ 37,6 bi no Orçamento de 2024 para emendas parlamentares individuais ou de bancada de execução obrigatória.
 

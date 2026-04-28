@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova créditos adicionais de R$ 634 milhões no Orçamento deste ano"
+title: Congresso aprova créditos adicionais de R$ 634 milhões no Orçamento deste ano
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Congresso Nacional aprovou nesta quinta-feira (14) oito projetos de lei orçamentários. Além do Plano Plurianual (PPA) 2024-2027 ([PLN 28/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/159634)), [com previsão de R$ 13,3 trilhões para políticas públicas nos próximos quatro anos](/noticias/materias/2023/12/14/aprovado-plano-plurianual-para-o-quadrienio-2024-2027), os parlamentares aprovaram projetos que abrem no total R$ 634,8 milhões em créditos adicionais no Orçamento federal deste ano.
 

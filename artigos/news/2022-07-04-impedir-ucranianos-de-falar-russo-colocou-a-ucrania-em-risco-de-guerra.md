@@ -1,11 +1,12 @@
 ---
-title: "Impedir ucranianos de falar  russo colocou a Ucrânia em risco de guerra"
+title: Impedir ucranianos de falar  russo colocou a Ucrânia em risco de guerra
 date: 2022-07-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Os falantes de russo serão cidadãos de segunda classe, a menos que desistam de sua língua.
 

@@ -1,12 +1,13 @@
 ---
-title: "Reprodução humana ameaçada por políticas ideológicas"
+title: Reprodução humana ameaçada por políticas ideológicas
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Science
+- Education
+- Science
 ---
+
 
 A reprodução, em sua essência, é a garantia da continuidade da vida humana. Ela está intrinsecamente ligada à nossa biologia, cultura, emoções e à forma como nos relacionamos com o mundo. Ao mesmo tempo em que celebra a maravilha da criação, também nos desafia a refletir sobre nosso papel e responsabilidades como parte integrante deste vasto e complexo sistema que é a vida. Reconhecer sua importância é, portanto, reconhecer a preciosidade e o potencial da existência humana em todas as suas facetas.
 

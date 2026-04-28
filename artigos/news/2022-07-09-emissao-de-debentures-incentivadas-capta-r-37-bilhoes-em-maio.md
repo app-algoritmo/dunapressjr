@@ -1,11 +1,12 @@
 ---
-title: "Emissão de debêntures incentivadas capta R$ 3,7 bilhões em maio"
+title: Emissão de debêntures incentivadas capta R$ 3,7 bilhões em maio
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Desde 2012, volume total distribuído chega a R$ 185,9 bilhões relacionados a projetos de investimento.
 

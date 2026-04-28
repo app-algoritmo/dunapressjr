@@ -1,12 +1,14 @@
 ---
-title: "Duas mulheres atacam um museu em Oslo para protestar contra as políticas petrolíferas da Noruega"
+title: Duas mulheres atacam um museu em Oslo para protestar contra as políticas petrolíferas
+  da Noruega
 date: 2022-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 ## Ecoativistas falham em tentativa de vandalizar obra-prima.
 

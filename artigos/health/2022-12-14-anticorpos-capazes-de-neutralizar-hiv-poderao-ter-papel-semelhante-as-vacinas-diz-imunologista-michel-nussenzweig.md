@@ -1,11 +1,13 @@
 ---
-title: "Anticorpos capazes de neutralizar HIV poderão ter papel semelhante às vacinas, diz imunologista Michel Nussenzweig"
+title: Anticorpos capazes de neutralizar HIV poderão ter papel semelhante às vacinas,
+  diz imunologista Michel Nussenzweig
 date: 2022-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Anticorpos monoclonais capazes de neutralizar o HIV poderão ser usados como uma espécie de vacina contra o vírus, administrados com uma ou duas aplicações por ano e, assim, se tornar uma alternativa aos antirretrovirais. Essa é a tese do médico imunologista da Universidade Rockefeller, dos Estados Unidos, Michel Nussenzweig, um dos cientistas mais influentes do mundo, em entrevista à reportagem do Portal do Butantan. 
 

@@ -1,11 +1,12 @@
 ---
-title: "A Importância Econômica de São Paulo para o Brasil"
+title: A Importância Econômica de São Paulo para o Brasil
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 São Paulo é o estado mais rico e industrializado do Brasil, contribuindo com cerca de um terço do Produto Interno Bruto (PIB) nacional. Sua economia diversificada abrange setores como indústria, serviços, comércio, agronegócio e tecnologia, fazendo do estado um motor crucial para o desenvolvimento econômico do país.
 

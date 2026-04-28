@@ -1,11 +1,12 @@
 ---
-title: "Suspensa comercialização de 2 mil toneladas de sementes ilegais pelo Mapa"
+title: Suspensa comercialização de 2 mil toneladas de sementes ilegais pelo Mapa
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O produto era proveniente de campos de produção de sementes não inscritos junto ao Ministério da Agricultura.
 

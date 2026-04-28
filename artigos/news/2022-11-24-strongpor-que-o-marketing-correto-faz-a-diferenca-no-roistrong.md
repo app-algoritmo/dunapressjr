@@ -1,11 +1,12 @@
 ---
-title: "<strong>Por que o marketing correto faz a diferença no ROI</strong>"
+title: <strong>Por que o marketing correto faz a diferença no ROI</strong>
 date: 2022-11-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Há muitos fatores que contribuem para obter um bom retorno sobre o investimento (ROI) de suas campanhas de marketing. Mas uma das mais importantes é garantir que você esteja segmentando o público certo com suas mensagens.
 

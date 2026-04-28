@@ -1,11 +1,12 @@
 ---
-title: "Marcha pela VIDA acontece hoje em São Paulo"
+title: Marcha pela VIDA acontece hoje em São Paulo
 date: 2018-12-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com a presença de Dom Bertrand, de Membros da DUNA e outros grandes nomes. Hoje, na Paulista (MASP) às 14h00.
 

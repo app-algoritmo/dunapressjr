@@ -1,11 +1,13 @@
 ---
-title: "Expediente do Município de Itajaí terá alterações em dias de jogos do Brasil na Copa do Mundo"
+title: Expediente do Município de Itajaí terá alterações em dias de jogos do Brasil
+  na Copa do Mundo
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os órgãos da administração direta, autarquias e fundações públicas do Município de Itajaí terão jornada diferenciada em função das próximas fases da Copa do Mundo FIFA de 2022. O decreto 12.794/2022 altera os horários de funcionamento dos serviços em dias de jogos da Seleção Brasileira de Futebol.
 

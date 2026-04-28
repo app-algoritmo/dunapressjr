@@ -1,11 +1,12 @@
 ---
-title: "A Importância Econômica de Santa Catarina para o Brasil"
+title: A Importância Econômica de Santa Catarina para o Brasil
 date: 2024-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Santa Catarina, localizado na região Sul do Brasil, desempenha um papel crucial na economia nacional, destacando-se por sua diversificação produtiva e alto nível de desenvolvimento humano. O estado possui uma economia dinâmica, impulsionada por uma variedade de setores que contribuem significativamente para o PIB brasileiro.
 

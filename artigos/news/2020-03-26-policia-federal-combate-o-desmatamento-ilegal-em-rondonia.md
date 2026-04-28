@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate o desmatamento ilegal em Rondônia"
+title: Polícia Federal combate o desmatamento ilegal em Rondônia
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ji-Paraná/RO – A Polícia Federal prendeu em
 flagrante duas pessoas acusadas de desmatamento ilegal no “Projeto de

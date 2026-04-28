@@ -1,11 +1,13 @@
 ---
-title: "Militares do Batalhão DOMPSA realizam apoio ao salto de emergência dos cadetes da Academia da Força Aérea"
+title: Militares do Batalhão DOMPSA realizam apoio ao salto de emergência dos cadetes
+  da Academia da Força Aérea
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – No período entre 14 e 28 de março do corrente ano, militares do Batalhão de Dobragem, Manutenção de Pára-quedas e Suprimento  pelo Ar (B DOMPSA) apoiaram o salto de emergência dos cadetes da Academia da Força Aérea (AFA), ocorrido em Pirassununga (SP).
 

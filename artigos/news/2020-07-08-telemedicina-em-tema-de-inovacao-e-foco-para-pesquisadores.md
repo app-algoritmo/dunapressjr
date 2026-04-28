@@ -1,11 +1,12 @@
 ---
-title: "Telemedicina em tema de inovação e foco para pesquisadores"
+title: Telemedicina em tema de inovação e foco para pesquisadores
 date: 2020-07-08
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Foram selecionados 23 projetos em edital sobre Telemedicina e Análise de Dados Médicos. Programa de Combate a Epidemias vai apoiar 92 iniciativas.
 

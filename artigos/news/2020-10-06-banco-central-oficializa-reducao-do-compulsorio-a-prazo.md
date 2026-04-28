@@ -1,11 +1,12 @@
 ---
-title: "Banco Central oficializa redução do compulsório a prazo"
+title: Banco Central oficializa redução do compulsório a prazo
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alíquota tinha sido reduzida no início da pandemia.
 

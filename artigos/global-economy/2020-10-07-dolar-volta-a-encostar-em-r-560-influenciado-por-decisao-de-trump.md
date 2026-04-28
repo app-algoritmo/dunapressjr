@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a encostar em R$ 5,60 influenciado por decisão de Trump"
+title: Dólar volta a encostar em R$ 5,60 influenciado por decisão de Trump
 date: 2020-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores caiu 0,49% após iniciar dia em alta.
 

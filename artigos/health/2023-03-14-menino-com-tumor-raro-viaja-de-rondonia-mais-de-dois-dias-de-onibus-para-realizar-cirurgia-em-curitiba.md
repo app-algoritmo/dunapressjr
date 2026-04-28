@@ -1,11 +1,13 @@
 ---
-title: "Menino com tumor raro viaja de Rondônia mais de dois dias de ônibus para realizar cirurgia em Curitiba"
+title: Menino com tumor raro viaja de Rondônia mais de dois dias de ônibus para realizar
+  cirurgia em Curitiba
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Palpitações na língua, falta de apetite, engasgo constante e um ronco estranho levantaram suspeitas de que algo não estava bem na saúde do adolescente Luiz Antônio Machado. Ele era mais magro e mais baixo que os amigos, mas tinha uma vida ativa, estudando e trabalhando como menor aprendiz. Mas foi uma perda de equilíbrio quando saía da escola que acendeu o alerta. “Ele fazia um tratamento para rinite desde os 13 anos porque roncava estranho, mas aos 16 começaram palpitações na língua e a médica suspeitou que pudesse ser alguma alteração no cérebro. Depois de vários exames descobriram o tumor”, conta Elza Machado, mãe do menino. 
 

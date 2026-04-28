@@ -1,11 +1,12 @@
 ---
-title: "Após três meses de quedas, confiança da indústria sobe em dezembro"
+title: Após três meses de quedas, confiança da indústria sobe em dezembro
 date: 2022-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice subiu 1,2 ponto e chegou a 93,3.
 

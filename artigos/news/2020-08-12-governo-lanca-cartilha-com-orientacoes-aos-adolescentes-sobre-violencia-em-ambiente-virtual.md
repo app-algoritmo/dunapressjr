@@ -1,11 +1,13 @@
 ---
-title: "Governo lança cartilha com orientações aos adolescentes sobre violência em ambiente virtual"
+title: Governo lança cartilha com orientações aos adolescentes sobre violência em
+  ambiente virtual
 date: 2020-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para auxiliar adolescentes contra a violência em ambiente virtual, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) adotou uma cartilha com orientações para a prevenção em meios digitais, como sites, aplicativos e redes sociais.
 

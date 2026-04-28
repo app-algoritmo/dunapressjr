@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem por tráfico de drogas e porte ilegal de armas"
+title: PF prende homem por tráfico de drogas e porte ilegal de armas
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Vitória do Palmar/RS - A Polícia Federal prendeu em flagrante, nesta segunda-feira (25/05), um homem na posse de arma de fogo com numeração raspada e de entorpecentes.
 

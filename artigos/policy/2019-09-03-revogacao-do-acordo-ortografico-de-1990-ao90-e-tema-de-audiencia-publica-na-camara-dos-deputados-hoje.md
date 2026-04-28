@@ -1,11 +1,13 @@
 ---
-title: "Revogação do Acordo Ortográfico de 1990 (AO/90) é tema de Audiência Pública na Câmara dos Deputados hoje"
+title: Revogação do Acordo Ortográfico de 1990 (AO/90) é tema de Audiência Pública
+  na Câmara dos Deputados hoje
 date: 2019-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A audiência pedida pelo deputado Dr. Jaziel (PL-CE) acontece hoje, 03 de setembro, com objetivo de colocar em debate a possibilidade de revogação do Acordo Ortográfico de 1990 da Língua Portuguesa. 
 

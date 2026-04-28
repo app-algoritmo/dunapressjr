@@ -1,11 +1,13 @@
 ---
-title: "Rua Coberta em Itajaí/SC terá atrações musicais, gastronômicas, feira de artesanato e de livros"
+title: Rua Coberta em Itajaí/SC terá atrações musicais, gastronômicas, feira de artesanato
+  e de livros
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A praça Arno Bauer, entre a Casa da Cultura e o Museu Histórico, torna-se, durante o Natal EnCanto de Itajaí, a Rua Coberta. O espaço reúne atrações musicais gratuitas, diariamente, a partir desta quinta-feira (08) até o dia 22 de dezembro. A rua ainda receberá food trucks, feira de artesanatos e decorações natalinas e de livros de literatura e de artes visuais, de autores de Itajaí.
 

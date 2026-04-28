@@ -1,11 +1,12 @@
 ---
-title: "Concurso Sua Arte no Livro Didático com inscrições adiadas pelo FNDE"
+title: Concurso Sua Arte no Livro Didático com inscrições adiadas pelo FNDE
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estudantes do ensino médio de escolas públicas têm agora até 31 de julho para enviar seus desenhos inspirados na Bandeira Nacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil ultrapassa US$ 300 bi em exportações pelo segundo ano consecutivo"
+title: Brasil ultrapassa US$ 300 bi em exportações pelo segundo ano consecutivo
 date: 2023-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## 3ª semana de novembro registra superávit de US$ 1,963 bi e corrente de comércio atinge US$ 10,148 bi
 

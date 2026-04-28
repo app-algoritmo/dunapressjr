@@ -1,11 +1,13 @@
 ---
-title: "MP de Governo Bolsonaro libera, crédito extraordinário para os Ministérios da Educação e da Cidadania"
+title: MP de Governo Bolsonaro libera, crédito extraordinário para os Ministérios
+  da Educação e da Cidadania
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por meio da Medida Provisória nº 1.001, as pastas receberão, ao todo, R$ 264,8 milhões para ações de enfrentamento à Covid-19. Desse valor, R$ 86,3 milhões são destinados ao Ministério da Cidadania, com o objetivo de garantir o acesso à água em escolas públicas rurais, priorizando as regiões Norte, Nordeste e Centro-Oeste.
 

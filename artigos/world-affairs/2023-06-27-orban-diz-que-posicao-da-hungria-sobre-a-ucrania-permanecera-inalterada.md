@@ -1,11 +1,12 @@
 ---
-title: "Orban diz que posição da Hungria sobre a Ucrânia permanecerá inalterada"
+title: Orban diz que posição da Hungria sobre a Ucrânia permanecerá inalterada
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Salienta-se que a Hungria tem uma política externa soberana.
 

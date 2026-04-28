@@ -1,11 +1,12 @@
 ---
-title: "Foz do Iguaçu retoma atividades turísticas com cronograma de reabertura"
+title: Foz do Iguaçu retoma atividades turísticas com cronograma de reabertura
 date: 2020-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atrações irão abrir de forma gradativa atendendo às medidas de segurança necessárias.
 

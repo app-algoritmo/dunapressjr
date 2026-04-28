@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha no menor nível desde julho após críticas do governo ao BC"
+title: Bolsa fecha no menor nível desde julho após críticas do governo ao BC
 date: 2023-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe 1,01% e aproxima-se de R$ 5,30.
 

@@ -1,11 +1,12 @@
 ---
-title: "27F Dia Nacional do Livro Didático e os desafios para a educação"
+title: 27F Dia Nacional do Livro Didático e os desafios para a educação
 date: 2021-02-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Comemorado em 27 de fevereiro, o Dia Nacional do Livro Didático levanta discussões sobre o papel e importância desse material no universo da aprendizagem digital.
 

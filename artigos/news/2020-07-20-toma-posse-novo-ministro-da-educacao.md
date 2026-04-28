@@ -1,11 +1,12 @@
 ---
-title: "Toma posse novo ministro da Educação"
+title: Toma posse novo ministro da Educação
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A cerimônia de posse aconteceu nessa quinta-feira, 16 de julho, no Palácio do Planalto.
 

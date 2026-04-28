@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica volta da contribuição assistencial a sindicatos"
+title: Cleitinho critica volta da contribuição assistencial a sindicatos
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) criticou em pronunciamento na terça-feira (12) a volta, por acordo ou convenção coletiva, de contribuições assistenciais para todos os empregados de uma categoria, ainda que não sejam sindicalizados, desde que assegurado o direito de oposição. O senador ressaltou que a decisão do Supremo Tribunal Federal (STF) vai contra a vontade dos cidadãos, que já pagam uma carga pesada de impostos.
 

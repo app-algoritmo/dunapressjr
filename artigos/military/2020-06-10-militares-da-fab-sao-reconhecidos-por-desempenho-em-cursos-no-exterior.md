@@ -1,11 +1,12 @@
 ---
-title: "Militares da FAB são reconhecidos por desempenho em cursos no exterior"
+title: Militares da FAB são reconhecidos por desempenho em cursos no exterior
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Oficiais da Força Aérea Brasileira (FAB) foram reconhecidos por seus desempenhos em cursos militares realizados no exterior. O Major Intendente Lucas Buarque dos Santos se destacou entre os alunos de Mestrado da *Naval Postgraduate School*, pertencente à Marinha dos Estados Unidos. Já o Major de Infantaria Ailton Tobias de Andrade Junior recebeu, da Diretoria do Curso de Comando e Estado-Maior Internacional (LGAI), na Alemanha, uma referência elogiosa pelos resultados durante o curso.
 

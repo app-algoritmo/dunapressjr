@@ -1,12 +1,13 @@
 ---
-title: "Forças Armadas desinfectam estações de transporte público no Rio de Janeiro"
+title: Forças Armadas desinfectam estações de transporte público no Rio de Janeiro
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Rio de Janeiro, 26/03/2020** - Militares das
 Forças Armadas irão desinfectar, nesta quinta-feira, a partir das 12h, locais

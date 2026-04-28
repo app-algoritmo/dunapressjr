@@ -1,11 +1,12 @@
 ---
-title: "Conversas Erdogan-Putin sobre acordo de grãos podem acontecer na Rússia"
+title: Conversas Erdogan-Putin sobre acordo de grãos podem acontecer na Rússia
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Enquanto isso, uma fonte em Ancara disse à TASS na segunda-feira que a vinda de Putin para a Turquia era "improvável".
 

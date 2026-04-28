@@ -1,11 +1,12 @@
 ---
-title: "A tempestade que se aproxima"
+title: A tempestade que se aproxima
 date: 2023-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A raiva autoinfligida da América na Ucrânia está agravando nossos perigosos problemas em casa.
 

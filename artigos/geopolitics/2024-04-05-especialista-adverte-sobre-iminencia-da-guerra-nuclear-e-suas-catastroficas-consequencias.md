@@ -1,11 +1,13 @@
 ---
-title: "Especialista adverte sobre iminência da guerra nuclear e suas catastróficas consequências"
+title: Especialista adverte sobre iminência da guerra nuclear e suas catastróficas
+  consequências
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Um especialista em assuntos militares lançou um alerta assustador sobre a iminência de uma potencial guerra nuclear, destacando os horrores devastadores que acompanham tal evento. Annie Jacobsen, renomada por suas investigações sobre as forças armadas americanas e locais secretos como a Área 51, ecoou preocupações sobre a realidade angustiante da ameaça nuclear.
 

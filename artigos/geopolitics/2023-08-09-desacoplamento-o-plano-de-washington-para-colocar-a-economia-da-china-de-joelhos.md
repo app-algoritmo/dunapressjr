@@ -1,11 +1,13 @@
 ---
-title: "'Desacoplamento': o plano de Washington para colocar a economia da China de joelhos"
+title: '''Desacoplamento'': o plano de Washington para colocar a economia da China
+  de joelhos'
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Os Estados Unidos concordaram com uma estratégia multifacetada para impedir o desenvolvimento da China e preservar a liderança americana na ordem mundial. 
 

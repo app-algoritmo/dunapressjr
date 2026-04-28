@@ -1,11 +1,12 @@
 ---
-title: "Atleta revelado em Itajaí disputará Mundial de Handebol pela seleção brasileira"
+title: Atleta revelado em Itajaí disputará Mundial de Handebol pela seleção brasileira
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Revelado pelas categorias de base da Fundação Municipal de Esporte e Lazer (FMEL), o atleta de handebol Arthur Patrianova, vai representar a seleção brasileira no 27° Mundial de Handebol Masculino. A competição será entre os dias 14 e 31 de janeiro de 2021, no Egito.
 

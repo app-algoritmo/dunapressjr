@@ -1,12 +1,13 @@
 ---
-title: "Existem vantagens no uso do cartão de crédito?"
+title: Existem vantagens no uso do cartão de crédito?
 date: 2023-04-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
-  - Financial Education
+- Finances
+- Financial Education
 ---
+
 
 O cartão de crédito é um dos meios de pagamento mais populares atualmente, mas muitas pessoas ainda têm dúvidas sobre as vantagens e desvantagens de utilizá-lo.
 

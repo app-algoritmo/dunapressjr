@@ -1,12 +1,13 @@
 ---
-title: "Dia do Serviço de Intendência - 12 de abril"
+title: Dia do Serviço de Intendência - 12 de abril
 date: 2020-04-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
-  - Military
+- History
+- Military
 ---
+
 
 O Dia da Intendência é comemorado em 12 de abril, data que homenageia seu Patrono, o Marechal Carlos Machado de Bittencourt, nascido nesse dia, no ano de 1840. Desde jovem, Bittencourt já mostrava seu pendor para a carreira das armas. Assentou praça aos 17 anos e, por mérito, galgou todos os postos de uma nobre e exemplar carreira. Teve participação em grandes batalhas na Guerra da Tríplice Aliança, ocorrida entre 1865 e 1870, e considerada até hoje como a maior guerra na América Latina; mas foi em 1897 que Bittencourt entrou para sempre na história do Exército Brasileiro, quando, recém-empossado como Ministro da Guerra, teve que lidar com a Guerra de Canudos. Assim, após sucessivas derrotas das tropas enviadas para combater os insurretos, Bittencourt percebeu que o desempenho das forças legais estava sendo diretamente influenciado pela precariedade e ineficiência da logística e da cadeia de suprimento existentes na época. Foi somente depois que esse brilhante militar sistematizou e organizou o fluxo de suprimentos e o transporte de material e pessoal, que as tropas conseguiram, finalmente, vencer a guerra.
 

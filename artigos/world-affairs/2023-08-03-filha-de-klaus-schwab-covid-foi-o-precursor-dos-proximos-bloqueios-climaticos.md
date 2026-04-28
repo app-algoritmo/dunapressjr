@@ -1,11 +1,12 @@
 ---
-title: "Filha de Klaus Schwab: Covid foi o precursor dos próximos 'bloqueios climáticos'"
+title: 'Filha de Klaus Schwab: Covid foi o precursor dos próximos ''bloqueios climáticos'''
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A filha do fundador do Fórum Econômico Mundial (WEF), Klaus Schwab, explicou que as restrições tirânicas durante a pandemia de Covid serviram como precursoras de futuras "proibições climáticas".
 

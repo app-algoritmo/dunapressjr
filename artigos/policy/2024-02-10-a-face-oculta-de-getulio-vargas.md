@@ -1,11 +1,12 @@
 ---
-title: "A face oculta de Getúlio Vargas"
+title: A face oculta de Getúlio Vargas
 date: 2024-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Por trás das fachadas políticas e das narrativas históricas que glorificam certos líderes, muitas vezes reside uma realidade sombria e oculta. Este programa documental tem como objetivo expor esses aspectos obscuros, lançando luz sobre os segredos guardados das principais personalidades e instituições. Nesta edição, mergulharemos profundamente na vida e no legado controverso de Getúlio Vargas.
 

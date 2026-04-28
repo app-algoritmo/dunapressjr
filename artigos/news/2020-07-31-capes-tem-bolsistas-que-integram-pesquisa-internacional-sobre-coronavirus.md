@@ -1,11 +1,12 @@
 ---
-title: "Capes tem bolsistas que integram pesquisa internacional sobre coronavírus"
+title: Capes tem bolsistas que integram pesquisa internacional sobre coronavírus
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo que combina informações sobre a estrutura do vírus e a mobilidade humana foi publicado na revista Science.
 

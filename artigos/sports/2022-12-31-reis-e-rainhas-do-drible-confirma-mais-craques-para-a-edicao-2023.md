@@ -1,11 +1,12 @@
 ---
-title: "Reis e Rainhas do Drible confirma mais craques para a edição 2023"
+title: Reis e Rainhas do Drible confirma mais craques para a edição 2023
 date: 2022-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O ano novo está chegando e com ele as emoções da maior competição de futebol freestyle do Brasil. A oitava edição do Reis e Rainhas do Drible será dia 8 de janeiro, às 8h, no Ginásio Poliesportivo** **de** **São Bernardo do Campo, no ABC Paulista, e tem mais nomes confirmados. Além de Falcão, maior jogador de futsal da história, e Adonias Fonseca, craque do estilo livre, o evento contará com os goleiros Careca e Lucas Oliveira, Lu Caneta, Diego Freestyle e Debinha, entre outros atletas que ainda serão anunciados.
 

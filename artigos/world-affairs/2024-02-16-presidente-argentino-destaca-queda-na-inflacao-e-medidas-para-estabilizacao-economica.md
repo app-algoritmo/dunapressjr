@@ -1,11 +1,13 @@
 ---
-title: "Presidente argentino destaca queda na inflação e medidas para estabilização econômica"
+title: Presidente argentino destaca queda na inflação e medidas para estabilização
+  econômica
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente argentino, Javier Milei, afirmou hoje que o país está testemunhando uma "clara diminuição" da inflação, especialmente após os dados de janeiro indicarem uma taxa de 20,6%. Em uma entrevista à Rádio La Red, Milei destacou que pela primeira vez o ajuste econômico está sendo direcionado principalmente para políticas internas.
 

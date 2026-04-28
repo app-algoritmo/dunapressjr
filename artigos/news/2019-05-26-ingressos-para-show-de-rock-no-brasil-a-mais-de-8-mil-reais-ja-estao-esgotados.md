@@ -1,11 +1,12 @@
 ---
-title: "Ingressos para show de rock no Brasil a mais de 8 mil reais já estão esgotados"
+title: Ingressos para show de rock no Brasil a mais de 8 mil reais já estão esgotados
 date: 2019-05-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Ingressos custando R$ 8.800 por pessoa para um show de rock no Brasil já foram todos vendidos, e em poucos dias. O show é parte de um evento que conta com apresentações de outros conjuntos musicais, e cujos ingressos também já estão esgotados; fato que causou espanto em muita gente. Como ingressos tão caros foram vendidos tão rapidamente? 
 

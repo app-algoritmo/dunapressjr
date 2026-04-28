@@ -1,11 +1,12 @@
 ---
-title: "Setor produtivo critica aumento da taxa Selic"
+title: Setor produtivo critica aumento da taxa Selic
 date: 2022-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## CNI diz que alta foi excessiva e equivocada.
 

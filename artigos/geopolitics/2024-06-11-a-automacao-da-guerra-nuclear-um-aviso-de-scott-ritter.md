@@ -1,11 +1,12 @@
 ---
-title: "A automação da guerra nuclear: um aviso de Scott Ritter"
+title: 'A automação da guerra nuclear: um aviso de Scott Ritter'
 date: 2024-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 “Certa vez tive um amigo chamado William Polk. Digo 'uma vez' porque ele morreu tragicamente há alguns anos.
 

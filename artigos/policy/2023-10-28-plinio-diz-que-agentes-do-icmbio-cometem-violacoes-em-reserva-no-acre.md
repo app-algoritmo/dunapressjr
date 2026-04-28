@@ -1,11 +1,12 @@
 ---
-title: "Plínio diz que agentes do ICMBio cometem violações em reserva no Acre"
+title: Plínio diz que agentes do ICMBio cometem violações em reserva no Acre
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) afirmou, em pronunciamento na quarta-feira (25), que agentes do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) estão cometendo uma série de violações aos moradores da reserva Chico Mendes, no Acre. Após diligência realizada por integrantes da CPI das ONGs, o parlamentar disse ter constatado que os agentes realizam uma “sequência de crimes que começam por descumprimento de determinações constitucionais, como o direito à educação, a proibição de tratamento desumano ou degradante, a inviolabilidade de domicílio, o exercício do direito ao trabalho e a liberdade de locomoção”.
 

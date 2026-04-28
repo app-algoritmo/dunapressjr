@@ -1,11 +1,12 @@
 ---
-title: "França Suspende Conversações com Autoridades Russas"
+title: França Suspende Conversações com Autoridades Russas
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro das Relações Exteriores da França, Stephane Sejourne, anunciou que o país não está interessado em manter conversações com autoridades russas no momento, citando preocupações sobre a precisão das declarações divulgadas pela Rússia após as negociações. Em uma entrevista à televisão France 24, Sejourne afirmou que a confiança entre os dois países "deve ser restaurada" antes que as discussões possam ser retomadas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Verão 2023: medo de aprender a nadar pode atrapalhar diversão"
+title: 'Verão 2023: medo de aprender a nadar pode atrapalhar diversão'
 date: 2022-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a proximidade do calor, as pessoas procuram passar os fins de semana em locais como praias e clubes para se refrescar, porém, alguns adultos evitam esses tipos de locais porque não se sentem seguros o suficiente para entrarem na água e aproveitar ao máximo a diversão. Aprender a nadar é uma conquista para qualquer idade, seja na infância ou na fase adulta. Mas para os que têm medo de encarar a água, aprender a nadar significa também uma forma de superação. Considerada uma das atividades mais completas, a natação traz benefícios tanto para o corpo quanto para a mente, auxilia na prevenção de doenças, no fortalecimento dos ligamentos, articulações e músculos, contribui com o processo de emagrecimento, ajuda a melhorar a memória e combate o estresse.
 

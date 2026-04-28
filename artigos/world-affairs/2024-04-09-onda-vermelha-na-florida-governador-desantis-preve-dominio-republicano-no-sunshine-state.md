@@ -1,11 +1,13 @@
 ---
-title: "Onda Vermelha na Flórida: Governador DeSantis Prevê Domínio Republicano no Sunshine State"
+title: 'Onda Vermelha na Flórida: Governador DeSantis Prevê Domínio Republicano no
+  Sunshine State'
 date: 2024-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 DeSantis destacou o aumento impressionante no número de eleitores registrados como republicanos, atribuindo parte desse fenômeno a uma tendência local de mudança de afiliação partidária. Ele observou que, na Flórida, as pessoas estão mais propensas a mudar do partido democrata para o republicano, bem como de não-partidários para republicanos. Esta mudança, segundo DeSantis, é impulsionada não pela vontade de replicar políticas de outros estados, mas sim pelo apreço pelo modelo adotado pela Flórida.
 

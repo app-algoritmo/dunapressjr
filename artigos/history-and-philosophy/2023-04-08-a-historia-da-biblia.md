@@ -1,11 +1,12 @@
 ---
-title: "A história da Bíblia"
+title: A história da Bíblia
 date: 2023-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 A Bíblia é um dos livros mais influentes da história da humanidade. Ela contém uma coleção de textos sagrados que são considerados por muitos como a palavra de Deus. A história da Bíblia é longa e complexa, com a sua composição, tradução e interpretação sendo objeto de estudo e debate por séculos. Neste artigo, exploraremos a história da Bíblia desde as suas origens até os dias de hoje.
 

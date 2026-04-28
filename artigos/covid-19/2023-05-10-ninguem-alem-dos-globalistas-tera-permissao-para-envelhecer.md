@@ -1,11 +1,12 @@
 ---
-title: "Ninguém além dos globalistas terá permissão para envelhecer"
+title: Ninguém além dos globalistas terá permissão para envelhecer
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O bem documentado massacre mundial de idosos chocou milhões de pessoas.
 

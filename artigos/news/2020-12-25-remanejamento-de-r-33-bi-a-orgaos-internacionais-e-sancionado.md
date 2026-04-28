@@ -1,11 +1,12 @@
 ---
-title: "Remanejamento de R$ 3,3 bi a órgãos internacionais é sancionado"
+title: Remanejamento de R$ 3,3 bi a órgãos internacionais é sancionado
 date: 2020-12-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crédito suplementar afasta risco de inadimplência com ONU.
 

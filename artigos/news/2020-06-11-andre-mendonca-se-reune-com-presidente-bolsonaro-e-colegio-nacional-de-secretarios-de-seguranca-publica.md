@@ -1,11 +1,13 @@
 ---
-title: "André Mendonça se reúne com presidente Bolsonaro e Colégio Nacional de Secretários de Segurança Pública"
+title: André Mendonça se reúne com presidente Bolsonaro e Colégio Nacional de Secretários
+  de Segurança Pública
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em reunião com o presidente da República Jair Bolsonaro, ministros e com o Colégio Nacional de Secretários de Segurança Pública (Consesp) nesta quarta-feira (10), o ministro da Justiça e Segurança Pública, André Mendonça, defendeu a união de esforços e a integração para alcançar resultados positivos na segurança pública. O ministro destacou que os pilares da atuação são a gestão do conhecimento e a gestão da informação.
 

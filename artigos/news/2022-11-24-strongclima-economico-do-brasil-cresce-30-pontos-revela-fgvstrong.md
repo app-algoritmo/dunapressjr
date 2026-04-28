@@ -1,11 +1,12 @@
 ---
-title: "<strong>Clima econômico do Brasil cresce 30 pontos, revela FGV</strong>"
+title: <strong>Clima econômico do Brasil cresce 30 pontos, revela FGV</strong>
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice da Situação Atual subiu 49,4 pontos e chegou a 92,3.
 

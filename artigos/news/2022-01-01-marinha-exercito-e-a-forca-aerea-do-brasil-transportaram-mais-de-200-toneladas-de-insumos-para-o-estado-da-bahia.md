@@ -1,11 +1,13 @@
 ---
-title: "Marinha, Exército e a Força Aérea do Brasil transportaram mais de 200 toneladas de insumos para o estado da Bahia"
+title: Marinha, Exército e a Força Aérea do Brasil transportaram mais de 200 toneladas
+  de insumos para o estado da Bahia
 date: 2022-01-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Forças Armadas entregam 200 toneladas de donativos às vítimas de enchentes na Bahia |
 

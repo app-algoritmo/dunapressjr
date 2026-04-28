@@ -1,11 +1,13 @@
 ---
-title: "Min Damares Alves diz que Brasil trabalha por maior participação da mulher política"
+title: Min Damares Alves diz que Brasil trabalha por maior participação da mulher
+  política
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em novo pronunciamento na 43ª
 Sessão da Comissão de Direitos Humanos das Nações Unidas, em Genebra, na Suíça,

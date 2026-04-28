@@ -1,11 +1,13 @@
 ---
-title: "Eurodeputados exigem responsabilidade da Comissão Europeia pelo 'maior escândalo do século'"
+title: Eurodeputados exigem responsabilidade da Comissão Europeia pelo 'maior escândalo
+  do século'
 date: 2023-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Mensagens vazadas do WhatsApp do ex-secretário de saúde britânico Matt Hancock revelam que Corona não era mais mortal do que outros vírus de resfriado e gripe.
 

@@ -1,11 +1,12 @@
 ---
-title: "Apoio da CAPES para plataforma de dados de Fundações de Pesquisa"
+title: Apoio da CAPES para plataforma de dados de Fundações de Pesquisa
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Previsto para 2021, Confap-CRIS tem objetivo de centralizar informações sobre as ações executadas em todo o país.
 

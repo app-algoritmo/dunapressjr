@@ -1,11 +1,12 @@
 ---
-title: "Força Nacional acompanha trabalho do Incra em assentamentos na Bahia"
+title: Força Nacional acompanha trabalho do Incra em assentamentos na Bahia
 date: 2020-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Foram destacados cerca de 100 agentes de segurança para impedir que novos ataques aconteçam.
 

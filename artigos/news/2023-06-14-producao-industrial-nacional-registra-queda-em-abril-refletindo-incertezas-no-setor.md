@@ -1,11 +1,13 @@
 ---
-title: "Produção industrial nacional registra queda em abril, refletindo incertezas no setor"
+title: Produção industrial nacional registra queda em abril, refletindo incertezas
+  no setor
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda de 0,6% na produção industrial em abril afeta 10 dos 15 locais investigados.
 

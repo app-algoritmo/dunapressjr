@@ -1,11 +1,12 @@
 ---
-title: "Itália proíbe farinhas de insetos"
+title: Itália proíbe farinhas de insetos
 date: 2023-04-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 O uso crescente de farinha feita de grilos, gafanhotos e larvas de insetos na culinária encontrou sua primeira grande e forte oposição na Itália, onde o governo proibiu seu uso em pizzas e massas e separou-o nas prateleiras dos supermercados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo presidente da Petrobras toma posse hoje"
+title: Novo presidente da Petrobras toma posse hoje
 date: 2022-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### José Mauro Ferreira Coelho assume a empresa no Rio de Janeiro.
 

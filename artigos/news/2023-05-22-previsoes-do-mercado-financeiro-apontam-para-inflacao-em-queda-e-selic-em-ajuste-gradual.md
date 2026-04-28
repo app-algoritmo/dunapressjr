@@ -1,11 +1,13 @@
 ---
-title: "Previsões do mercado financeiro apontam para inflação em queda e Selic em ajuste gradual"
+title: Previsões do mercado financeiro apontam para inflação em queda e Selic em ajuste
+  gradual
 date: 2023-05-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativas indicam redução do IPCA e projeção de queda na taxa básica de juros, enquanto PIB e câmbio mantêm perspectivas estáveis.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança canal para trabalhador registrar denúncias trabalhistas"
+title: Governo Bolsonaro lança canal para trabalhador registrar denúncias trabalhistas
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Site permite registro de reclamação sem que o trabalhador tenha que ir a uma regional do Trabalho. O canal pode ser usado para denúncias, reclamações e registro de irregularidades.
 

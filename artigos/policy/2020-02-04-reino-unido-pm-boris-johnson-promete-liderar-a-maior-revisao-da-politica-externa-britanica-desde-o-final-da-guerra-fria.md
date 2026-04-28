@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido: PM Boris Johnson promete liderar a maior revisão da política externa britânica desde o final da Guerra Fria"
+title: 'Reino Unido: PM Boris Johnson promete liderar a maior revisão da política
+  externa britânica desde o final da Guerra Fria'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Agora que a Grã-Bretanha deixou a União Europeia, o primeiro-ministro Boris Johnson promete liderar a maior revisão da política externa britânica desde o final da Guerra Fria,  Londres se interessa urgentemente pela chamada região Indo-Pacífico.
 

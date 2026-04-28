@@ -1,11 +1,13 @@
 ---
-title: "Summit da Liga NESCAU® inicia calendário 2024 de formação contínua e gratuita de profissionais de Educação Física"
+title: Summit da Liga NESCAU® inicia calendário 2024 de formação contínua e gratuita
+  de profissionais de Educação Física
 date: 2024-02-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Iniciativa traz uma série de conteúdos para auxiliar na especialização professores da área e oferece certificados de participação.
 

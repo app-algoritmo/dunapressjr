@@ -1,11 +1,12 @@
 ---
-title: "Para garantir transferência de sigilos, CPMI alega ao STF que Silvinei mentiu"
+title: Para garantir transferência de sigilos, CPMI alega ao STF que Silvinei mentiu
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI do 8 de Janeiro afirmou, em resposta ao Supremo Tribunal Federal (STF), que existem indícios de que o ex-diretor da Polícia Rodoviária Federal (PRF), Silvinei Vasques, mentiu ao colegiado. O documento elaborado pela Advocacia do Senado informa que diante da postura do depoente foi cogitada, inclusive, a sua prisão. Silvinei foi inquirido no dia 20 de junho. 
 

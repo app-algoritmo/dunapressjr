@@ -1,11 +1,12 @@
 ---
-title: "Líder do Hamas aponta Netanyahu como uma das causas do conflito"
+title: Líder do Hamas aponta Netanyahu como uma das causas do conflito
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "Uma das causas mais importantes desta guerra é Benjamin Netanyahu, que lidera um grupo de direita, racista e fascista, com os seus pensamentos centrados inteiramente em como salvar a si próprio e à sua família da prisão e evitar responsabilidades, mesmo ao custo de destruir toda a região", disse Ismail Haniyeh
 

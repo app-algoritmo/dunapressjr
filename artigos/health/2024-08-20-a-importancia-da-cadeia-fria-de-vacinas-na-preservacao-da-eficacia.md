@@ -1,12 +1,13 @@
 ---
-title: "A Importância da Cadeia Fria de Vacinas na Preservação da Eficácia"
+title: A Importância da Cadeia Fria de Vacinas na Preservação da Eficácia
 date: 2024-08-20
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Health
-  - Technology
+- Health
+- Technology
 ---
+
 
 As vacinas são produtos biológicos e/ou biotecnológico que desempenham um papel crucial na prevenção de doenças infecciosas. Para que mantenham sua eficácia e segurança, é fundamental que sejam armazenadas e transportadas sob condições rigorosas de temperatura, o que é conhecido como cadeia fria.
 

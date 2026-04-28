@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo e gás no pré-sal é recorde em setembro"
+title: Produção de petróleo e gás no pré-sal é recorde em setembro
 date: 2021-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A produção totalizou 2,85 milhões de barris.
 

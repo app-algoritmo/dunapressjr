@@ -1,11 +1,12 @@
 ---
-title: "Batacazo a la australiana"
+title: Batacazo a la australiana
 date: 2018-11-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 AUSTRÁLIA DÁ 'LIÇÃO DE CIVILIZAÇÃO' PARA TODO MUNDO!!!
 

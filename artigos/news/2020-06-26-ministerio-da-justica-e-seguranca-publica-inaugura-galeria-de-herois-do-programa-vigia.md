@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública inaugura Galeria de Heróis do programa VIGIA"
+title: Ministério da Justiça e Segurança Pública inaugura Galeria de Heróis do programa
+  VIGIA
 date: 2020-06-26
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro Jorge Oliveira participou da cerimônia ao lado do presidente Bolsonaro e do ministro André Mendonça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Suspensão da cobrança do Pix para pessoa jurídica é anunciada pela Caixa"
+title: Suspensão da cobrança do Pix para pessoa jurídica é anunciada pela Caixa
 date: 2023-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão vem após pedido do presidente Lula e será discutida na próxima semana.
 

@@ -1,11 +1,12 @@
 ---
-title: "Obesidade é fator de risco para agravamento da Covid-19"
+title: Obesidade é fator de risco para agravamento da Covid-19
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Na quarta-feira (3) foi  celebrado o Dia da Conscientização Contra a Obesidade Mórbida Infantil. A obesidade infantil é considerada um problema mundial, e a data traz um alerta sobre os riscos da doença e os cuidados necessários para combatê-la. Além de contribuir para o surgimento de diabetes e hipertensão, a obesidade é fator de risco para o agravamento da Covid-19. É o que alertou o médico Maurício Jamillo, cardiologista pediátrico.
 

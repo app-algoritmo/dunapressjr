@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pedra na água, hora de rever caminhos</strong>"
+title: <strong>Pedra na água, hora de rever caminhos</strong>
 date: 2022-10-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Quando uma pedra é jogada na superfície de um lago, por exemplo, ela gera uma série de ondas em sequência, que se espalham em todas as direções e podem ser vistas por qualquer pessoa que esteja por perto do ponto em que ela caiu. Esse é um fato científico reconhecido e imutável. Uma pedra atirada sobre a água sempre terá essa consequência. Mas, assim como isso é verdade, também é fato científico que essas ondas são mais grossas, fechadas, rápidas e fortes imediatamente após a queda da pedra. Conforme as ondas se afastam do centro, elas se tornam cada vez mais finas, abertas, lentas e fracas. Por fim, acabam desaparecendo.
 

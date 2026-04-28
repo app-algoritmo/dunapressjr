@@ -1,13 +1,14 @@
 ---
-title: "Noruega: Uma das Populações Mais Armadas do Mundo"
+title: 'Noruega: Uma das Populações Mais Armadas do Mundo'
 date: 2023-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Policy
-  - Sports
+- Culture and History
+- Policy
+- Sports
 ---
+
 
 A Noruega é um país conhecido por sua beleza natural, qualidade de vida e, surpreendentemente, por abrigar uma das populações mais armadas do mundo. Embora o acesso a armas de fogo seja relativamente comum na Noruega, o país também estabeleceu regras rigorosas e um sistema de controle para garantir a segurança pública. Este artigo explora por que a Noruega possui uma das populações mais armadas do mundo, bem como as fontes e as [regras para a obtenção de armas de fogo no país](https://www.politiet.no/).
 

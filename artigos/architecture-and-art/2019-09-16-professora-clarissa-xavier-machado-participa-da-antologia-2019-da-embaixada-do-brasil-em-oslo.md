@@ -1,11 +1,13 @@
 ---
-title: "Professora Clarissa Xavier Machado participa da Antologia 2019 da Embaixada do Brasil em Oslo"
+title: Professora Clarissa Xavier Machado participa da Antologia 2019 da Embaixada
+  do Brasil em Oslo
 date: 2019-09-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 A publicação visa promover e divulgar a cultura brasileira pelos olhos dos brasileiros residentes ou não no Brasil. Com o tema “A Cultura brasileira através dos tempos”, o texto retrata, de forma criativa e original a Cultura brasileira. Ao efetivar a inscrição, a autora, automaticamente, concordou com as regras do edital, inclusive a cessão ao MRE do direito autoral do texto, assim como do direito de publicação do texto. A publicação foi organizada pelo Setor Cultural da Embaixada do Brasil em Oslo e foi lançada durante a sexta Edição da Semana Cultural Brasil-Noruega 2019, evento realizado no Espaço Cultural da Embaixada do Brasil em Oslo.
 A Semana Cultural Brasil-Noruega 2019 teve o apoio do Ministério das Relações Exteriores e Embaixada do Brasil em Oslo.

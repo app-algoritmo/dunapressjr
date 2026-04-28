@@ -1,11 +1,12 @@
 ---
-title: "A sífilis na história da psiquiatria brasileira"
+title: A sífilis na história da psiquiatria brasileira
 date: 2021-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As consequências nervosas da sífilis são conhecidas desde a primeira metade do século XIX. Mas foi no final desse período que a doença passou a ser considerada uma das causas de certas enfermidades mentais, entre elas, a paralisia geral progressiva, ou PGP. A PGP foi descrita em 1822, pelo alienista francês Antoine Laurent Jessé Bayle (1799-1858), e mobilizou o interesse de muitos psiquiatras durante os séculos XIX e XX. Suas principais causas eram a sífilis, o alcoolismo e os excessos de trabalho intelectual e físico.
 

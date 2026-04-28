@@ -1,11 +1,12 @@
 ---
-title: "Páscoa: como saber o que é chocolate de verdade?"
+title: 'Páscoa: como saber o que é chocolate de verdade?'
 date: 2024-03-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Adição de ingredientes pode descaracterizar produto; redes sociais registram reclamações ao longo dos últimos meses.
 

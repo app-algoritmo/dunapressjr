@@ -1,11 +1,12 @@
 ---
-title: "Economia - O suicídio econômico - 06"
+title: Economia - O suicídio econômico - 06
 date: 2018-09-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Para compreender melhor o apresentado neste artigo, sugiro que leia os cinco artigos das semanas passadas, pois de certa forma este é uma continuação do mesmo assunto, porém cada um individualmente lhe mostrará uma informação também independente dos outros. (links ao final do texto).
 

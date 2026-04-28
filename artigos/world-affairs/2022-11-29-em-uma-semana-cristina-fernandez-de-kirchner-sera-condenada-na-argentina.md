@@ -1,11 +1,12 @@
 ---
-title: "Em uma semana, Cristina Fernández de Kirchner será condenada na Argentina"
+title: Em uma semana, Cristina Fernández de Kirchner será condenada na Argentina
 date: 2022-11-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Cristina Fernández de Kirchner usou suas últimas palavras no julgamento de “Vialidad” para repetir o que fez em todo o caso: culpar Macri e o tribunal.
 

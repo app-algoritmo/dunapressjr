@@ -1,11 +1,12 @@
 ---
-title: "Pronampe emprestou 40% dos recursos em dez dias"
+title: Pronampe emprestou 40% dos recursos em dez dias
 date: 2021-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram contratados R$ 10 bilhões dos R$ 25 bilhões disponíveis.
 

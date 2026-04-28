@@ -1,11 +1,13 @@
 ---
-title: "16 /5 – Dia Mundial de Conscientização sobre a Doença Celíaca: “Ilumine a doença celíaca”"
+title: '16 /5 – Dia Mundial de Conscientização sobre a Doença Celíaca: “Ilumine a
+  doença celíaca”'
 date: 2022-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Mais uma vez, associações e sociedades relacionadas à doença celíaca em todo o mundo estão se unindo para comemorar a data com o slogan “Ilumine a Doença Celíaca”.
 

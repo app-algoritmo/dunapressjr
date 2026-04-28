@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo diz que o autismo se desenvolve de forma diferente dependendo do gênero"
+title: Novo estudo diz que o autismo se desenvolve de forma diferente dependendo do
+  gênero
 date: 2021-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A pesquisa utilizou técnicas de imagem cerebral recentemente desenvolvidas junto com pesquisas genéticas para determinar os efeitos do autismo em meninas.
 

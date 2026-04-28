@@ -1,11 +1,12 @@
 ---
-title: "Vetado fornecimento obrigatório de uniforme escolar na educação básica"
+title: Vetado fornecimento obrigatório de uniforme escolar na educação básica
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O vice-presidente Geraldo Alckmin, no exercício da Presidência da República, vetou integralmente o projeto de lei que prevê o fornecimento obrigatório de uniforme escolar na educação básica pública.
 

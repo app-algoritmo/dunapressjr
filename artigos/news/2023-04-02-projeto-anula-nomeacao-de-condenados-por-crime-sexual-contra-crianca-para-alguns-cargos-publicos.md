@@ -1,11 +1,13 @@
 ---
-title: "Projeto anula nomeação de condenados por crime sexual contra criança para alguns cargos públicos"
+title: Projeto anula nomeação de condenados por crime sexual contra criança para alguns
+  cargos públicos
 date: 2023-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 165/23 torna nula a nomeação ou contratação, para determinados cargos e empregos públicos, de pessoa condenada por crime sexual contra criança ou adolescente. Pela proposta em análise na Câmara dos Deputados, a nulidade abrangerá os cargos e empregos na administração pública em que se trabalha com crianças e adolescentes ou que se presta atendimento a eles, tais como creches, escolas, abrigos, clínicas e hospitais pediátricos.
 

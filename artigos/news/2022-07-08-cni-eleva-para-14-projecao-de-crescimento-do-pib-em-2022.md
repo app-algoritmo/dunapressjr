@@ -1,11 +1,12 @@
 ---
-title: "CNI eleva para 1,4% projeção de crescimento do PIB em 2022"
+title: CNI eleva para 1,4% projeção de crescimento do PIB em 2022
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Melhoria no emprego e no setor de serviços justifica aumento.
 

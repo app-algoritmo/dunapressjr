@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal inicia pagamento de restituição do IRPF 2020"
+title: Receita Federal inicia pagamento de restituição do IRPF 2020
 date: 2020-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Consulta ao primeiro lote, que contempla contribuintes idosos ou portadores de doenças graves. Neste ano, cronograma de restituições foi antecipado para maio e lotes reduzidos de sete para cinco com pagamento iniciando antes mesmo do fim do prazo de entrega das declarações.
 

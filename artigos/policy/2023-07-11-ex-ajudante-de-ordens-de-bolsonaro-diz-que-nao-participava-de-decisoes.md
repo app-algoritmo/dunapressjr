@@ -1,11 +1,12 @@
 ---
-title: "Ex-ajudante de ordens de Bolsonaro diz que não participava de decisões"
+title: Ex-ajudante de ordens de Bolsonaro diz que não participava de decisões
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tenente-coronel depôs na CPMI dos atos golpistas de 8 de janeiro.
 

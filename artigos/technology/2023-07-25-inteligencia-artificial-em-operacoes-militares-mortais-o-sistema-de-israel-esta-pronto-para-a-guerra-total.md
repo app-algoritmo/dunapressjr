@@ -1,11 +1,13 @@
 ---
-title: "Inteligência artificial em operações militares mortais: O sistema de Israel está pronto para a guerra total"
+title: Inteligência artificial em operações militares mortais: O sistema de Israel
+  está pronto para a guerra total
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 As Forças de Defesa de Israel (IDF) começaram a usar inteligência artificial para selecionar alvos de ataques aéreos e organizar a logística de guerra em meio a tensões crescentes nos territórios ocupados e com o arquirrival Irã.
 

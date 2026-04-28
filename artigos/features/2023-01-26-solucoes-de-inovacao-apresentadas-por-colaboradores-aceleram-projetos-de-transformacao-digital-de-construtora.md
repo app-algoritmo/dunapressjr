@@ -1,11 +1,13 @@
 ---
-title: "Soluções de inovação apresentadas por colaboradores aceleram projetos de transformação digital de construtora"
+title: Soluções de inovação apresentadas por colaboradores aceleram projetos de transformação
+  digital de construtora
 date: 2023-01-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Soluções disruptivas, criativas e inovadoras, diferenciais competitivos para as áreas operacionais e de estratégia do setor da construção civil: esse é o mote do programa INOVA.YOSHII. Com o objetivo de impulsionar o DNA criativo e inovador nos setores operacional, digital e administrativo, o maior programa de inovação do Grupo A.Yoshii encerrou o primeiro ciclo de propostas. Ao todo, o *hub *recebeu 65 ideias, validou 21 delas e premiou as cinco melhores. As soluções de impacto são focadas em aceleração digital e nos desafios do setor, desde o operacional em canteiros de obras até as inovações tecnológicas e a experiência do cliente. 
 

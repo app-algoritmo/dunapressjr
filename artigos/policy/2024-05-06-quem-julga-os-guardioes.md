@@ -1,11 +1,12 @@
 ---
-title: "Quem julga os guardiões?"
+title: Quem julga os guardiões?
 date: 2024-05-06
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em tese, viver em um Estado Democrático de Direito significa conduzir a própria vida em uma sociedade que, continuamente, em condições de normalidade institucional, está sob o império de leis elaboradas por representantes democraticamente eleitos, que compõem o Poder Legislativo enquanto expressão do poder soberano do Estado.
 

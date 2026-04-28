@@ -1,11 +1,12 @@
 ---
-title: "Supremo faz nova audiência de conciliação sobre cobrança do ICMS"
+title: Supremo faz nova audiência de conciliação sobre cobrança do ICMS
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### As partes debateram a competência da União para tratar da questão.
 

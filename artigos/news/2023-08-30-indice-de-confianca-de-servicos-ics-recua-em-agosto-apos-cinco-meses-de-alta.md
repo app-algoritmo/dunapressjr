@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança de Serviços (ICS) recua em agosto após cinco meses de alta"
+title: Índice de Confiança de Serviços (ICS) recua em agosto após cinco meses de alta
 date: 2023-08-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O indicador do FGV IBRE registra queda de 0,6 ponto, marcando um momento de acomodação no setor.
 

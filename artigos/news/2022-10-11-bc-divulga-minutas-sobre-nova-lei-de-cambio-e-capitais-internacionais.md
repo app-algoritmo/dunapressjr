@@ -1,11 +1,12 @@
 ---
-title: "BC divulga minutas sobre nova Lei de Câmbio e Capitais Internacionais"
+title: BC divulga minutas sobre nova Lei de Câmbio e Capitais Internacionais
 date: 2022-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Normas serão avaliadas pela diretoria do banco em 31 de dezembro.
 

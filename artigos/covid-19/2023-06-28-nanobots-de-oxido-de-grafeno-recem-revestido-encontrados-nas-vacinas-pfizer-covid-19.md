@@ -1,11 +1,13 @@
 ---
-title: "“Nanobots” de óxido de grafeno recém revestido encontrados nas vacinas Pfizer COVID-19"
+title: “Nanobots” de óxido de grafeno recém revestido encontrados nas vacinas Pfizer
+  COVID-19
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma [investigação sobre o processo de fabricação das vacinas contra o coronavírus de Wuhan (COVID-19)](https://expose-news.com/2023/06/09/how-to-remove-graphene-nanobots/) descobriu evidências que ligam "nanobots" microscópicos de óxido de grafeno a consequências potencialmente assustadoras. 
 

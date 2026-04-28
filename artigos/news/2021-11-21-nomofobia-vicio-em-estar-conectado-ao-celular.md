@@ -1,11 +1,12 @@
 ---
-title: "Nomofobia: vício em estar conectado ao celular"
+title: 'Nomofobia: vício em estar conectado ao celular'
 date: 2021-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atualmente, o celular é um item essencial para a rotina de qualquer pessoa, seja para o trabalho, comunicação, pesquisa, estudos ou até para o lazer. Entretanto, seu uso deve ser moderado, e a dependência do aparelho, controlada, para não haver excessos. Um estudo realizado no Brasil pelo Departamento de Medicina Comunitária do Instituto de Ciências Médicas de Derhandun, Uttarakhand e do Departamento de Medicina Comunitária de PGIMER, Chandigarh, na Índia, revelou que 68% dos participantes relataram dependência do aparelho.
 

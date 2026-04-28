@@ -1,13 +1,15 @@
 ---
-title: "Fortalecendo a Literacia Digital: A Importância de Apoiar Pais e Filhos no Mundo Digital"
+title: 'Fortalecendo a Literacia Digital: A Importância de Apoiar Pais e Filhos no
+  Mundo Digital'
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
-  - Social networks
+- Education
+- Policy
+- Social networks
 ---
+
 
 Um estudo recente da Universidade de Surrey investigou a compreensão dos pais sobre os algoritmos das redes sociais e como isso afeta a experiência digital de seus filhos. A pesquisa identificou que a percepção dos pais sobre os algoritmos varia de acordo com a idade da criança e as opiniões dos próprios pais sobre as plataformas de mídia. A professora Ranjana Das, responsável pela pesquisa, identificou quatro padrões principais de como os pais percebem esses algoritmos: mal-entendidos, entendimentos estacionados, entendimentos transacionais e compreensão proativa. Das espera que os resultados incentivem políticas que promovam melhor literacia digital entre os adultos, enfatizando a importância de apoiar pais e cuidadores no mundo digital atual.
 

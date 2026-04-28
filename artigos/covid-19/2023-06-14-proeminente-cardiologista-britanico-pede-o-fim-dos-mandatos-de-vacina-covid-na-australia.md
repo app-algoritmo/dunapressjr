@@ -1,11 +1,13 @@
 ---
-title: "Proeminente cardiologista britânico pede o fim dos mandatos de vacina Covid na Austrália"
+title: Proeminente cardiologista britânico pede o fim dos mandatos de vacina Covid
+  na Austrália
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O proeminente cardiologista britânico Dr. Aseem Malhotra  [está pedindo o fim dos mandatos da vacina COVID na Austrália](https://www.theepochtimes.com/cardiologist-calls-on-australias-medical-regulator-to-suspend-covid-vaccine-mandates_5320223.html) e está embarcando em uma turnê nacional para encerrar o programa destrutivo. A turnê, organizada pela Australian Medical Professionals Society (AMPS), está trazendo a verdade para o povo, em uma tentativa de restaurar a integridade científica e a ética médica em todo o estado policial médico da Austrália.
 

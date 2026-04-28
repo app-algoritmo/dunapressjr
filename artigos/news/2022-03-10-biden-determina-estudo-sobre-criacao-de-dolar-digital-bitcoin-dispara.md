@@ -1,11 +1,12 @@
 ---
-title: "Biden determina estudo sobre criação de dólar digital; bitcoin dispara"
+title: Biden determina estudo sobre criação de dólar digital; bitcoin dispara
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instituições financeiras avaliam viabilidade de moeda digital oficial.
 

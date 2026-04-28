@@ -1,12 +1,13 @@
 ---
-title: "Amazon revela os livros mais vendidos no Brasil em 2022"
+title: Amazon revela os livros mais vendidos no Brasil em 2022
 date: 2022-12-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Entre os autores brasileiros, destaque para dois nomes que já figuraram na lista nos anos anteriores: Itamar Vieira Jr., com Torto Arado e Thiago Nigro, que é best-seller desde 2019 com Do Mil ao Milhão.
 

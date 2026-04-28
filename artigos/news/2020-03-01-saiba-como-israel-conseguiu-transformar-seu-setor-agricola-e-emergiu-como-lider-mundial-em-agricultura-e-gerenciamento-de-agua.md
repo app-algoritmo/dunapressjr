@@ -1,11 +1,13 @@
 ---
-title: "Saiba como Israel conseguiu transformar seu setor agrícola e emergiu como líder mundial em agricultura e gerenciamento de água"
+title: Saiba como Israel conseguiu transformar seu setor agrícola e emergiu como líder
+  mundial em agricultura e gerenciamento de água
 date: 2020-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Que idéias os países africanos podem tirar de Israel para revolucionar seus próprios sistemas agrícolas e de água?*
 

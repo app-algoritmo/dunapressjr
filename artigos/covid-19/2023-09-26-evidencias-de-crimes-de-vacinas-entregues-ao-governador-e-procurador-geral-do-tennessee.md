@@ -1,11 +1,13 @@
 ---
-title: "Evidências de crimes de “vacinas” entregues ao governador e procurador-geral do Tennessee"
+title: Evidências de crimes de “vacinas” entregues ao governador e procurador-geral
+  do Tennessee
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Como membro do conselho do [Movimento Nacional do Renascimento Americano](https://nationalarm.org/) , tenho o prazer de anunciar que [a National ARM](https://nationalarm.org/) apresentou uma petição do grande júri de 83 páginas ao governador e ao procurador-geral do Tennessee contendo evidências de crimes contra a vacina C19. [A petição do grande júri da National ARM](https://nationalarm.org/) diz que as vacinas C19 “deveriam ser imediatamente banidas e uma investigação criminal iniciada”.
 

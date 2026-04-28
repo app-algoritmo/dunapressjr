@@ -1,11 +1,12 @@
 ---
-title: "Mês da Mulher: setor automotivo vivencia ascensão feminina"
+title: 'Mês da Mulher: setor automotivo vivencia ascensão feminina'
 date: 2024-03-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Com crescimento de 19,4% de representatividade nas indústrias e 23,1% no comércio de automóveis, mulheres conquistam espaço num setor tradicionalmente masculino.
 

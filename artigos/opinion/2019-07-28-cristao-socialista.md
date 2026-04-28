@@ -1,11 +1,12 @@
 ---
-title: "Cristão socialista?"
+title: Cristão socialista?
 date: 2019-07-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Socialismo científico foi criado por Karl Marx (1818 até 1883) e Friedrich Engels (1820 até 1895), quando estes desenvolveram a teoria socialista, partindo da análise crítica e científica do próprio capitalismo. 
 

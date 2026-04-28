@@ -1,11 +1,12 @@
 ---
-title: "Itamaraty já apoiou o retorno de mais de 23 mil brasileiros ao País"
+title: Itamaraty já apoiou o retorno de mais de 23 mil brasileiros ao País
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o Ministério das Relações Exteriores, cerca de 23.565 brasileiros já foram repatriados com apoio das embaixadas e consulados, até esta quarta-feira (3), e ainda há cerca de 2.600 pessoas com passagens aéreas canceladas e/ou desvalidos aguardando repatriação. O Itamaraty tem apoiado brasileiros que estavam no exterior e foram surpreendidos por medidas de restrição do tráfego aéreo em razão da pandemia do novo coronavírus. 
 

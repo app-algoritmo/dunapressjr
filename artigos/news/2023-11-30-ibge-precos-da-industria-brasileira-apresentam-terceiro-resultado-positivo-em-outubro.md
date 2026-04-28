@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Preços da indústria brasileira apresentam terceiro resultado positivo em outubro"
+title: 'IBGE: Preços da indústria brasileira apresentam terceiro resultado positivo
+  em outubro'
 date: 2023-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar de acúmulo no ano registrar menor índice desde 2014, 14 das 24 atividades industriais registram aumento de preços.
 

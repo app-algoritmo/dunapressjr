@@ -1,11 +1,13 @@
 ---
-title: "Steven Seagal Recebe Ordem da Amizade de Putin e Faz Declarações Polêmicas sobre a Ucrânia"
+title: Steven Seagal Recebe Ordem da Amizade de Putin e Faz Declarações Polêmicas
+  sobre a Ucrânia
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na quinta-feira, o ator de Hollywood Steven Seagal, de 72 anos, recebeu a Ordem da Amizade das mãos do presidente russo, Vladimir Putin, em uma cerimônia no Kremlin. Seagal foi homenageado pelo seu "compromisso internacional, humanitário e cultural".
 

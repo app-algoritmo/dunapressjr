@@ -1,11 +1,12 @@
 ---
-title: "Pacheco anuncia comissão de juristas para atualizar Código Civil"
+title: Pacheco anuncia comissão de juristas para atualizar Código Civil
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Presidente do Senado, Rodrigo Pacheco, anunciou a criação de uma comissão de juristas para apresentar um anteprojeto de atualização do Código Civil ([Lei 10.406, de 2002](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406)). O anúncio foi feito na quinta-feira (17) durante evento da Academia Brasileira de Formação e Pesquisa, em São Paulo. Segundo Pacheco, o ato para a instalação do grupo será assinado na sala da Presidência do Senado, no dia 24 de agosto, às 16h, e os trabalhos terão como líder o ministro do Superior Tribunal de Justiça (STJ) Luis Felipe Salomão.
 

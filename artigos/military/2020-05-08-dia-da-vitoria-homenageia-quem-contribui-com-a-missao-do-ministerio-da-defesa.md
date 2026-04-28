@@ -1,11 +1,12 @@
 ---
-title: "Dia da Vitória homenageia quem contribui com a missão do Ministério da Defesa"
+title: Dia da Vitória homenageia quem contribui com a missão do Ministério da Defesa
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 08/05/2020 –** Neste 08 de maio, o mundo comemora o 75º aniversário do término da Segunda Guerra Mundial. A data, conhecida como Dia da Vitória, celebra o fim dos combates. É dia também de homenagear os soldados que lutaram bravamente, entre eles os mais de 25 mil homens da Força Expedicionária Brasileira, a FEB, que resistiram bravamente nas trincheiras da Itália.
 

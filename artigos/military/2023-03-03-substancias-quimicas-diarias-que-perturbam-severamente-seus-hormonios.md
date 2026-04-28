@@ -1,12 +1,13 @@
 ---
-title: "Substâncias químicas diárias que perturbam severamente seus hormônios"
+title: Substâncias químicas diárias que perturbam severamente seus hormônios
 date: 2023-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 De acordo com dados divulgados recentemente, a contagem de esperma nos homens está diminuindo rapidamente, devido a produtos químicos ambientais. Sua fertilidade também pode ser afetada?
 

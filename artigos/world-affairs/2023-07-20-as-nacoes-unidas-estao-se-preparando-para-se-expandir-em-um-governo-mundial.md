@@ -1,11 +1,12 @@
 ---
-title: "As Nações Unidas estão se preparando para se expandir em um governo mundial"
+title: As Nações Unidas estão se preparando para se expandir em um governo mundial
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Organização das Nações Unidas (ONU) globalista está se preparando para expandir massivamente seus poderes para anular nações soberanas individuais e se posicionar como um governo mundial não eleito.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lula sanciona com vetos Projeto de Lei dos Agrotóxicos"
+title: Lula sanciona com vetos Projeto de Lei dos Agrotóxicos
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## País é o maior consumidor dos produtos no mundo.
 

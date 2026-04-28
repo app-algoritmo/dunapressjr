@@ -1,11 +1,13 @@
 ---
-title: "Pronunciamento do Presidente da República, Jair Bolsonaro em Rede Nacional de Rádio e Televisão"
+title: Pronunciamento do Presidente da República, Jair Bolsonaro em Rede Nacional
+  de Rádio e Televisão
 date: 2020-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Presidente da República fala sobre auxílio emergencial e hidroxicloroquina em pronunciamento, Jair Bolsonaro destacou as últimas ações realizadas pelo Governo Federal para minimizar os impactos da pandemia do novo coronavírus (Covid-19).**
 

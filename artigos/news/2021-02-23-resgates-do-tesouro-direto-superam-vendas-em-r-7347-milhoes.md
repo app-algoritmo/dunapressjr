@@ -1,11 +1,12 @@
 ---
-title: "Resgates do Tesouro Direto superam vendas em R$ 734,7 milhões"
+title: Resgates do Tesouro Direto superam vendas em R$ 734,7 milhões
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Títulos mais procurados foram os vinculados à inflação.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Fêmea Humana Perfeita Para o Macho Humano"
+title: A Fêmea Humana Perfeita Para o Macho Humano
 date: 2023-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 ## Uma Exploração dos Relacionamentos Humanos
 

@@ -1,11 +1,13 @@
 ---
-title: "Lula defende Maduro e destaca a importância de eleições livres na Venezuela sob sua responsabilidade"
+title: Lula defende Maduro e destaca a importância de eleições livres na Venezuela
+  sob sua responsabilidade
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente brasileiro reafirma apoio a Maduro, mas ressalta que futuro democrático do país depende das ações do líder venezuelano.
 

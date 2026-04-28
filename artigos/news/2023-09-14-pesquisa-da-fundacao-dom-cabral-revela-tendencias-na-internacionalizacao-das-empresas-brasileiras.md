@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa da Fundação Dom Cabral revela tendências na internacionalização das empresas brasileiras"
+title: Pesquisa da Fundação Dom Cabral revela tendências na internacionalização das
+  empresas brasileiras
 date: 2023-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo apoiado pela ApexBrasil mostra aumento de investimentos no mercado externo e planos de expansão para o futuro.
 

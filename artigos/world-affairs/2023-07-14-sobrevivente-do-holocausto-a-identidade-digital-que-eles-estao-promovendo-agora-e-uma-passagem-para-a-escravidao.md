@@ -1,11 +1,13 @@
 ---
-title: "Sobrevivente do Holocausto: 'A identidade digital que eles estão promovendo agora é uma passagem para a escravidão!'"
+title: 'Sobrevivente do Holocausto: ''A identidade digital que eles estão promovendo
+  agora é uma passagem para a escravidão!'''
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A tecnologia da IBM permitiu o genocídio em escala industrial, de acordo com a sobrevivente do Holocausto Vera Sharav, que falou com a Children's Health Defense. 
 

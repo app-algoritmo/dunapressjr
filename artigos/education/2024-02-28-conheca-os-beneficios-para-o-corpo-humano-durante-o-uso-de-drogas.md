@@ -1,11 +1,12 @@
 ---
-title: "Conheça os 'benefícios' para o corpo humano durante o uso de drogas"
+title: Conheça os 'benefícios' para o corpo humano durante o uso de drogas
 date: 2024-02-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 Drogas não oferecem benefício algum, no entanto, em meio a debates acalorados sobre legalização e descriminalização das drogas, muitas vezes são apresentados argumentos que destacam supostos "benefícios" para o corpo humano durante o uso dessas substâncias. No entanto, é crucial analisar essas afirmações com um olhar crítico e científico, especialmente quando se trata de drogas como maconha e cocaína, que estão entre as mais consumidas e debatidas.
 

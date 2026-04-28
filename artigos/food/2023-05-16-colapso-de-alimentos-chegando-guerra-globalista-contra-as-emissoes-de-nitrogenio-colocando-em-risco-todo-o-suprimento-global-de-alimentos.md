@@ -1,11 +1,13 @@
 ---
-title: "Colapso de alimentos chegando: guerra globalista contra as emissões de nitrogênio colocando em risco todo o suprimento global de alimentos"
+title: 'Colapso de alimentos chegando: guerra globalista contra as emissões de nitrogênio
+  colocando em risco todo o suprimento global de alimentos'
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Governos de todo o mundo estão adotando políticas para lidar com as emissões de nitrogênio – e essas políticas [estão colocando em risco o suprimento global de alimentos](https://wattsupwiththat.com/2023/05/11/entire-global-food-supply-at-risk-from-disastrous-response-to-so-called-nitrogen-crisis/).
 

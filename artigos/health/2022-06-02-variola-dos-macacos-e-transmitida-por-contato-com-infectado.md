@@ -1,11 +1,12 @@
 ---
-title: "Varíola dos macacos é transmitida por contato com infectado"
+title: Varíola dos macacos é transmitida por contato com infectado
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A transmissão da varíola dos macacos ainda está sendo investigada por órgãos de saúde, mas a Agência de Segurança em Saúde do Reino Unido (UKHSA) e a Organização Mundial da Saúde (OMS) reconhecem que a doença pode ser adquirida por qualquer pessoa que tiver contato com uma pessoa ou animal infectado, isto é, homens, mulheres e crianças. 
 

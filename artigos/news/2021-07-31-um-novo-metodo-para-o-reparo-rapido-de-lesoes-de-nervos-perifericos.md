@@ -1,11 +1,12 @@
 ---
-title: "Um novo método para o reparo rápido de lesões de nervos periféricos"
+title: Um novo método para o reparo rápido de lesões de nervos periféricos
 date: 2021-07-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todos os anos, centenas de milhares de pessoas em todo o mundo sofrem lesões nos nervos periféricos, o que muitas vezes as deixa com deficiências de longo prazo. O sistema nervoso periférico é análogo ao sistema circulatório; uma rede de vasos que atinge todas as partes do corpo, mas em vez do sangue fluindo através dos vasos, os sinais elétricos propagam informações através de fibras finas chamadas axônios, que são engolfadas pelos troncos nervosos.
 

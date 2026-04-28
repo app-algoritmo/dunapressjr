@@ -1,11 +1,12 @@
 ---
-title: "Operação Aliados pela Infância prende 14 suspeitos em São Paulo"
+title: Operação Aliados pela Infância prende 14 suspeitos em São Paulo
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em outros países, 23 pessoas foram presas em flagrante.
 

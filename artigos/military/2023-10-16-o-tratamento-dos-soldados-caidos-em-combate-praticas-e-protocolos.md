@@ -1,11 +1,12 @@
 ---
-title: "O Tratamento dos Soldados Caídos em Combate: Práticas e Protocolos"
+title: 'O Tratamento dos Soldados Caídos em Combate: Práticas e Protocolos'
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 A maneira como uma sociedade trata seus soldados caídos em combate é um reflexo de seus valores e princípios. É um assunto de grande importância, tanto do ponto de vista ético quanto prático. Este artigo explora as práticas e protocolos comuns relacionados ao tratamento dos corpos e órgãos dos soldados caídos em combate em todo o mundo.
 

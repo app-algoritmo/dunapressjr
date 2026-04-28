@@ -1,11 +1,12 @@
 ---
-title: "Produção de motocicletas tem melhor resultado em 7 anos"
+title: Produção de motocicletas tem melhor resultado em 7 anos
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foram fabricadas 569.598 unidades até maio.
 

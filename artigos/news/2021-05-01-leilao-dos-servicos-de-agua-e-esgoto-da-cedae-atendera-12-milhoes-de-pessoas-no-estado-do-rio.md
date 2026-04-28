@@ -1,11 +1,13 @@
 ---
-title: "Leilão dos serviços de água e esgoto da Cedae atenderá 12 milhões de pessoas no estado do Rio"
+title: Leilão dos serviços de água e esgoto da Cedae atenderá 12 milhões de pessoas
+  no estado do Rio
 date: 2021-05-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Concessão dos serviços terá investimentos de R$ 27 bilhões em 35 anos de contrato e gerará 40 mil empregos diretos.
 

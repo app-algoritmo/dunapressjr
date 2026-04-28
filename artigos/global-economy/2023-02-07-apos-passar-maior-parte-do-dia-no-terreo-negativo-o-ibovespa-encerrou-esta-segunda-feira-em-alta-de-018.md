@@ -1,11 +1,13 @@
 ---
-title: "Após passar maior parte do dia no térreo negativo, o Ibovespa encerrou esta segunda-feira em alta de 0,18%"
+title: Após passar maior parte do dia no térreo negativo, o Ibovespa encerrou esta
+  segunda-feira em alta de 0,18%
 date: 2023-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha a R$ 5,17.
 

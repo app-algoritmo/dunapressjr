@@ -1,11 +1,13 @@
 ---
-title: "“Sem corrupção, já sobra dinheiro para proteger os brasileiros”, diz ministra Damares na ONU"
+title: “Sem corrupção, já sobra dinheiro para proteger os brasileiros”, diz ministra
+  Damares na ONU
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 A corrupção no Brasil tirou dinheiro da saúde, da educação e da segurança pública. A afirmação é da ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, que, em discurso no debate geral da 43ª Sessão do Conselho dos Direitos Humanos das Nações Unidas, em Genebra, na Suíça, nesta segunda-feira (24), defendeu combate efetivo ao desvio de recursos como arma de proteção de direitos humanos. 
 

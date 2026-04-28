@@ -1,11 +1,13 @@
 ---
-title: "Volkswagen anuncia parada temporária de produção no Brasil devido à estagnação do mercado"
+title: Volkswagen anuncia parada temporária de produção no Brasil devido à estagnação
+  do mercado
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fábricas da montadora suspendem atividades diante do cenário desfavorável, apesar de programa de incentivo do governo.
 

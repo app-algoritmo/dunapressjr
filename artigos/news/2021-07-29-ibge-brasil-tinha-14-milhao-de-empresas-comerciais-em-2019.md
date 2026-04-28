@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Brasil tinha 1,4 milhão de empresas comerciais em 2019"
+title: 'IBGE: Brasil tinha 1,4 milhão de empresas comerciais em 2019'
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano, 10,2 milhões de empregados receberam cerca de R$ 246,4 bilhões.
 

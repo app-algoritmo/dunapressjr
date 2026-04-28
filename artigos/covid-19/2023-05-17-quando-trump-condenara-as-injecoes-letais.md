@@ -1,11 +1,12 @@
 ---
-title: "Quando Trump condenará as injeções letais?"
+title: Quando Trump condenará as injeções letais?
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Este é o artigo que deixará todos com raiva, não importa quem eles apoiem. Mas ainda tem que ser dito.
 

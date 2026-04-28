@@ -1,11 +1,12 @@
 ---
-title: "Um príncipe no congresso nacional"
+title: Um príncipe no congresso nacional
 date: 2019-01-30
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 A eleição de d. Luiz Philippe de Orleans e Bragança para a Câmara dos Deputados, por São Paulo, é a mais genuína representação do futuro que nos aguarda e do qual não poderemos fugir para encararmos a verdade da nossa História. Se por um lado, sua eleição foi fruto de um intenso desejo, represado por 130 anos de injustiças e desmandos da república, de doutrinação esquerdista que colocou o Brasil à margem dos processos de desenvolvimento global e nos relegou à condição de republiqueta terceiro-mundista; por outro é símbolo de mudança positiva para o resgate de valores como a família, a honestidade, a Verdade, o amor a Deus e à pátria.
 

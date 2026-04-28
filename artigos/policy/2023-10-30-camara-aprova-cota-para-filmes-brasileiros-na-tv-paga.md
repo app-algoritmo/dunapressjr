@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova cota para filmes brasileiros na TV paga"
+title: Câmara aprova cota para filmes brasileiros na TV paga
 date: 2023-10-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Matéria, que é do Senado, volta para nova votação após sofrer modificações na Câmara.
 

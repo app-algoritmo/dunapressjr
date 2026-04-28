@@ -1,11 +1,13 @@
 ---
-title: "Pilotos ucranianos pilotando aviões F-16 seriam alvos voadores: aqui está o porquê"
+title: 'Pilotos ucranianos pilotando aviões F-16 seriam alvos voadores: aqui está
+  o porquê'
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Casa Branca confirmou no domingo que permitiria que aliados europeus treinassem pilotos ucranianos para pilotar caças F-16. O Sputnik conversou com Vladimir Popov, um respeitado piloto militar russo, para descobrir quanto tempo esse treinamento pode levar, quanto custaria e qual é o maior - potencialmente crucial - obstáculo que Washington enfrenta.
 

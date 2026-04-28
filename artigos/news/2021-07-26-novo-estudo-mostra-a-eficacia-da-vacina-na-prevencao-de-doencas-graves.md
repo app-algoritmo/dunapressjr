@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo mostra a eficácia da vacina na prevenção de doenças graves"
+title: Novo estudo mostra a eficácia da vacina na prevenção de doenças graves
 date: 2021-07-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo mostra que a vacina oferece 2 a 8 vezes mais proteção contra casos graves de Covid-19.
 

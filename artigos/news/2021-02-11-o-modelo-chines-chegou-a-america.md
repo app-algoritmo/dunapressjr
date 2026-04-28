@@ -1,11 +1,12 @@
 ---
-title: "O modelo chinês chegou à América"
+title: O modelo chinês chegou à América
 date: 2021-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Poucos americanos entendem a ameaça que a filosofia e as estruturas governantes da China representam para os EUA.
 

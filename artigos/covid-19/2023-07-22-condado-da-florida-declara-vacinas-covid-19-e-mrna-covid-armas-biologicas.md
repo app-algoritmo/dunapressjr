@@ -1,11 +1,12 @@
 ---
-title: "Condado da Flórida declara vacinas COVID-19 e mRNA COVID armas biológicas"
+title: Condado da Flórida declara vacinas COVID-19 e mRNA COVID armas biológicas
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O Comitê Executivo Republicano do Condado de Brevard (BREC) aprovou uma resolução proibindo a vacina de mRNA COVID-19 em uma votação esmagadora, chamando-a e ao vírus de "arma biológica e tecnológica".
 

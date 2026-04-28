@@ -1,11 +1,12 @@
 ---
-title: "A História do Budismo"
+title: A História do Budismo
 date: 2023-09-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 O budismo, uma das religiões mais antigas e praticadas do mundo, tem suas origens há mais de 2.500 anos. Esta prática religiosa e filosófica, que começou na Índia, atravessou fronteiras e continentes, encontrando adeptos de diversas culturas. Este artigo busca ilustrar brevemente a trajetória desta religião fascinante. O budismo é uma religião mundial fundada pelo Buda no norte da Índia no século IV aC. Cerca de 500 milhões de pessoas – cerca de sete por cento da população mundial – professam o budismo. As áreas centrais são o Sul e o Sudeste Asiático , os Himalaias , o Tibete e a Mongólia . Também está espalhado pela América do Norte e Europa. O Buda e seus ensinamentos ( *dharma* ) são centrais para o Budismo e constituem duas das "três joias" do Budismo ( *triratna* ). O Buda conquistou o "despertar", que envolve a compreensão das *Quatro Nobres Verdades* , e alcançou o nirvana ("extinção"), o que significa que ele se tornou livre de todo renascimento . Este é o objetivo final de todos os budistas.O Budismo não é apenas um ensinamento religioso e filosófico , mas através da sua ética deixou uma forte marca nas sociedades com as quais tem contactado. O budismo tem sido o principal comunicador da civilização indiana na Ásia e um poderoso impulso cultural na arte, literatura, filosofia e governo estatal durante 2.500 anos. O budismo está hoje dividido em duas tradições principais: *Theravada* e *Mahayana*.
 

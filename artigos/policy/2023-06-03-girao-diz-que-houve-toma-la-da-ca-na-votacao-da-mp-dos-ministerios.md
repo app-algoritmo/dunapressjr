@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que houve 'toma lá, dá cá' na votação da MP dos ministérios"
+title: Girão diz que houve 'toma lá, dá cá' na votação da MP dos ministérios
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) lamentou em pronunciamento no Plenário nesta sexta-feira (2) a aprovação da Medida Provisória (MP)[ 1.154/2023](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/155651), que reestruturou os ministérios. Para ele, houve "toma lá, dá cá" para que o texto fosse aprovado pela Câmara dos Deputados. E o Senado, disse Girão, não recebeu a MP de última hora, sem que os senadores tivessem conhecimento amplo do conteúdo que seria analisado. 
 

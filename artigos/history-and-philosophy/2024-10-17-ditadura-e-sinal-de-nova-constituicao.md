@@ -1,12 +1,13 @@
 ---
-title: "Ditadura é sinal de Nova Constituição"
+title: Ditadura é sinal de Nova Constituição
 date: 2024-10-17
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - History and Philosophy
-  - Policy
+- History and Philosophy
+- Policy
 ---
+
 
 Historicamente, após as ditaduras surge um processo de libertação, seguido de outro processo, dessa vez de nova constituição. Esse tem sido o ciclo político brasileiro, basta relembrar os diversos modelos desde o século 19.
 

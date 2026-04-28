@@ -1,11 +1,13 @@
 ---
-title: "Mais de 60 deputados já se inscreveram para discutir a PEC da Transição nesta terça-feira; acompanhe"
+title: Mais de 60 deputados já se inscreveram para discutir a PEC da Transição nesta
+  terça-feira; acompanhe
 date: 2022-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário da Câmara dos Deputados deve iniciar hoje a discussão da PEC da Transição ([PEC 32/22](https://www.camara.leg.br/noticias/926709-CAMARA-ANALISA-NESTA-SEMANA-A-PEC-DA-TRANSICAO,-QUE-GARANTE-BOLSA-FAMILIA-DE-R$-600)). Até agora, mais de 60 deputados já se inscreveram para discutir, e as inscrições permanecem abertas.
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA e Reino Unido concordaram secretamente em ocultar reações a vacinas"
+title: EUA e Reino Unido concordaram secretamente em ocultar reações a vacinas
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Nos dias que antecederam a aprovação da vacina COVID-19 da Pfizer pela Food and Drug Administration, as autoridades de saúde dos EUA e do Reino Unido firmaram um “acordo de confidencialidade mútua” para manter os eventos adversos da vacina em sigilo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Previsões do mercado financeiro indicam redução contínua na inflação"
+title: Previsões do mercado financeiro indicam redução contínua na inflação
 date: 2023-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus revela terceira semana consecutiva de ajustes para o IPCA.
 

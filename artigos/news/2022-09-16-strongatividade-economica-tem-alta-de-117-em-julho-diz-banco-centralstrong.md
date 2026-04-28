@@ -1,11 +1,12 @@
 ---
-title: "<strong>Atividade econômica tem alta de 1,17% em julho, diz Banco Central</strong>"
+title: <strong>Atividade econômica tem alta de 1,17% em julho, diz Banco Central</strong>
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No acumulado em 12 meses, o indicador ficou positivo em 2,09%.
 

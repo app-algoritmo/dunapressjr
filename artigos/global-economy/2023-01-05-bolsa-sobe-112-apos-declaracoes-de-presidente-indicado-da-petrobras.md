@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 1,12% após declarações de presidente indicado da Petrobras"
+title: Bolsa sobe 1,12% após declarações de presidente indicado da Petrobras
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar ficou estável e fechou a R$ 5,45.
 

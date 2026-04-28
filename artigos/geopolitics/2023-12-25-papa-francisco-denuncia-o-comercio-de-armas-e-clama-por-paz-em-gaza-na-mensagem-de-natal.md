@@ -1,11 +1,13 @@
 ---
-title: "Papa Francisco Denuncia o Comércio de Armas e Clama por Paz em Gaza na Mensagem de Natal"
+title: Papa Francisco Denuncia o Comércio de Armas e Clama por Paz em Gaza na Mensagem
+  de Natal
 date: 2023-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No tradicional discurso de Natal "à cidade (de Roma) e ao mundo", o Papa Francisco fez uma contundente condenação ao comércio de armas e à prolongada guerra em Gaza, instando à reflexão sobre o impacto do conflito armado na atualidade. Falando da galeria central da Basílica de São Pedro, no Vaticano, o líder da Igreja Católica lamentou o que chamou de "massacre de inocentes" contemporâneo, tanto pelas hostilidades em Gaza como pelas ameaças do aborto e perigos da migração.
 

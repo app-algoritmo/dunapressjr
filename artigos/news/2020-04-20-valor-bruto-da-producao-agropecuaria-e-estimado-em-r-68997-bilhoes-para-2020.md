@@ -1,11 +1,12 @@
 ---
-title: "Valor Bruto da Produção Agropecuária é estimado em R$ 689,97 bilhões para 2020"
+title: Valor Bruto da Produção Agropecuária é estimado em R$ 689,97 bilhões para 2020
 date: 2020-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pecuária deve crescer 6,7% e lavouras, 8,3%, na comparação com 2019
 

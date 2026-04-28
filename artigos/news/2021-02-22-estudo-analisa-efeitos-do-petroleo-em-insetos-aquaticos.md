@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa efeitos do petróleo em insetos aquáticos"
+title: Estudo analisa efeitos do petróleo em insetos aquáticos
 date: 2021-02-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma pesquisa desenvolvida pela Universidade Federal de São Carlos (UFSCar) analisa se a presença de petróleo no litoral do Nordeste brasileiro causou anomalias morfológicas em larvas e adultos de *Chironomidae*, um tipo comum de inseto aquático. Com o apoio do [Programa CAPES – Entre Mares](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-capes-entre-mares), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), o estudo analisa cinco populações da espécie *Thalassomya gutae *(*T. gutae*), pertencente ao grupo.
 

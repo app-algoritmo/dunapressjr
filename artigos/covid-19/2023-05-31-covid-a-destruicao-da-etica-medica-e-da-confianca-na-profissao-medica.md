@@ -1,11 +1,12 @@
 ---
-title: "Covid: a destruição da ética médica e da confiança na profissão médica"
+title: 'Covid: a destruição da ética médica e da confiança na profissão médica'
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Esta é a primeira de uma discussão em duas partes por um cirurgião consultor sobre os danos causados ​​pelas políticas irracionais do governo contra a Covid.
 

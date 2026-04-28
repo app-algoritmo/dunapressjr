@@ -1,11 +1,13 @@
 ---
-title: "Medida Provisória do Governo, estabelece emissão de certificados digitais de forma online"
+title: Medida Provisória do Governo, estabelece emissão de certificados digitais de
+  forma online
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A MP simplifica a obtenção dos certificados digitais pelos brasileiros em um momento de especial atenção à saúde nacional. Emissão de certificado digital de forma remota deve atender a critérios de segurança de nível equivalente à identificação presencial.
 

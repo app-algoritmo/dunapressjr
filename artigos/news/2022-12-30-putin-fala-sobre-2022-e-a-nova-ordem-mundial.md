@@ -1,13 +1,14 @@
 ---
-title: "Putin fala sobre 2022 e a Nova Ordem Mundial"
+title: Putin fala sobre 2022 e a Nova Ordem Mundial
 date: 2022-12-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
-  - World Affairs
+- News
+- Policy
+- World Affairs
 ---
+
 
 “Só eu posso confiar”: Putin respondeu a 107 perguntas da mídia em um ano, 44 ​​delas sobre a Nova Ordem Mundial
 

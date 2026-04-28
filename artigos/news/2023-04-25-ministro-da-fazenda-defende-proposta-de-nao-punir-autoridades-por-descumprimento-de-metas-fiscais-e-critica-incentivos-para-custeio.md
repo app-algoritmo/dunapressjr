@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda defende proposta de não punir autoridades por descumprimento de metas fiscais e critica incentivos para custeio"
+title: Ministro da Fazenda defende proposta de não punir autoridades por descumprimento
+  de metas fiscais e critica incentivos para custeio
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fernando Haddad compara as regras propostas com o regime de metas de inflação e destaca prejuízo de quase R$ 90 bilhões para o governo federal devido a subvenções para custeio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Noruega está aumentando o apoio à educação em áreas de conflito"
+title: Noruega está aumentando o apoio à educação em áreas de conflito
 date: 2019-09-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Dados da ONU mostram que quase 27 milhões de *crianças* do mundo que não frequentam a escola vivem em zonas de conflito.
 

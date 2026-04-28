@@ -1,11 +1,13 @@
 ---
-title: "A UTI de um hospital inteiro na China é completamente tomada por superbactérias resistentes a antibióticos, colocando os pacientes em sério risco"
+title: A UTI de um hospital inteiro na China é completamente tomada por superbactérias
+  resistentes a antibióticos, colocando os pacientes em sério risco
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Os hospitais deveriam ser lugares onde os doentes vão para serem curados, mas acontece que eles estão [infestados de bactérias mortais](https://studyfinds.org/antibiotic-resistant-bacteria-icu/) que, em vez disso, estão matando os pacientes.
 

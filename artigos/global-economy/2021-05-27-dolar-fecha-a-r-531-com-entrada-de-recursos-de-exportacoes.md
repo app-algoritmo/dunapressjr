@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,31, com entrada de recursos de exportações"
+title: Dólar fecha a R$ 5,31, com entrada de recursos de exportações
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,81% e aproxima-se dos 124 mil pontos.
 

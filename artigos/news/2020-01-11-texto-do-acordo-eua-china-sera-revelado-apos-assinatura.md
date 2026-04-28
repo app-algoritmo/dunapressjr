@@ -1,11 +1,12 @@
 ---
-title: "Texto do acordo EUA-China será revelado após assinatura"
+title: Texto do acordo EUA-China será revelado após assinatura
 date: 2020-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O texto do acordo comercial parcial entre Estados Unidos e
 China será divulgado depois que ele for assinado na próxima quarta-feira em

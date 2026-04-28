@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo das famílias mantém crescimento"
+title: Intenção de consumo das famílias mantém crescimento
 date: 2022-08-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Famílias com renda acima de dez mínimos se mostram mais otimistas.
 

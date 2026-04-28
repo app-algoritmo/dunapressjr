@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que suspende nova composição de conselho da Amazônia Legal"
+title: Comissão aprova projeto que suspende nova composição de conselho da Amazônia
+  Legal
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Integração Nacional, Desenvolvimento Regional e da Amazônia da Câmara dos Deputados aprovou projeto que suspende o decreto do presidente Jair Bolsonaro que excluiu a participação dos governadores dos estados amazônicos no Conselho Nacional da Amazônia Legal (CNAL).
 

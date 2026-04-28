@@ -1,11 +1,12 @@
 ---
-title: "Itajaí tem a maior geração de empregos de Santa Catarina em outubro"
+title: Itajaí tem a maior geração de empregos de Santa Catarina em outubro
 date: 2022-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A geração de empregos voltou a destacar Itajaí no cenário estadual. O Município teve a maior geração de empregos de Santa Catarina em outubro, entre as cidades com mais de 200 mil habitantes. O saldo positivo de 799 contratações com carteira assinada no período também foi o melhor da região da Associação dos Municípios da Foz do Rio Itajaí (Amfri). Os dados são do Cadastro Geral de Empregados e Desempregados (Caged) do Ministério do Trabalho.
 

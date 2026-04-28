@@ -1,11 +1,13 @@
 ---
-title: "A vitamina D determina a gravidade do COVID-19, portanto, os conselhos governamentais precisam mudar, recomendam os especialistas"
+title: A vitamina D determina a gravidade do COVID-19, portanto, os conselhos governamentais
+  precisam mudar, recomendam os especialistas
 date: 2020-05-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores apontam para mudanças nos conselhos governamentais no País de Gales, Inglaterra e Escócia
 

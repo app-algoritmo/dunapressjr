@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha praticamente estável com recuo de apenas 0,11%"
+title: Dólar fecha praticamente estável com recuo de apenas 0,11%
 date: 2023-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ibovespa cai 0,08%, aos 114.178 pontos.
 

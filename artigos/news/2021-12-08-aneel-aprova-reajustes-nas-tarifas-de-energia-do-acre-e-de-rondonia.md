@@ -1,11 +1,12 @@
 ---
-title: "Aneel aprova reajustes nas tarifas de energia do Acre e de Rondônia"
+title: Aneel aprova reajustes nas tarifas de energia do Acre e de Rondônia
 date: 2021-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novos índices entram em vigor na próxima segunda-feira (13).
 

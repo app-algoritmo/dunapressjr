@@ -1,11 +1,12 @@
 ---
-title: "Fungo é usado no combate ao mosquito Aedes aegypti"
+title: Fungo é usado no combate ao mosquito Aedes aegypti
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No laboratório do Instituto de Patologia Tropical e Saúde Pública da Universidade Federal de Goiás (UFG), uma equipe de pesquisadores, com a participação de bolsistas da CAPES, desenvolve técnica inovadora para combater o mosquito *Aedes aegypti*. Os cientistas estudam o potencial do fungo *Metarhizium humberi para controlar o *transmissor dos vírus da dengue, zika e chikungunya:  ele pode matar os  insetos adultos e também larvas e ovos.
 

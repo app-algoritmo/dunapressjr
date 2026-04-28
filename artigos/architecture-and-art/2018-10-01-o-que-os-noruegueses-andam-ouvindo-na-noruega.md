@@ -1,12 +1,13 @@
 ---
-title: "O que os noruegueses andam ouvindo na Noruega?"
+title: O que os noruegueses andam ouvindo na Noruega?
 date: 2018-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
-  - Magazine
+- Architecture and Art
+- Magazine
 ---
+
 
 Conhecidos por gostarem muito de Rock e Indie, além de sentir muito orgulho de A-ha e Kygo, os noruegueses têm em seu Top hits uma lista bastante eclética. Além do A-ha, Tomine Harket, filha de Morten Harket, vocalista do A-ha está na lista. E quem mais além dela? Representantes do gospel como a banda Tôg, do Blande Pop e do Indie Rock, Pop e Folk estão lá.
 

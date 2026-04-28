@@ -1,11 +1,12 @@
 ---
-title: "O Ibovespa fechou em queda nesta quinta-feira"
+title: O Ibovespa fechou em queda nesta quinta-feira
 date: 2023-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar sobe para R$ 5,27 com tensões no Brasil e no exterior.
 

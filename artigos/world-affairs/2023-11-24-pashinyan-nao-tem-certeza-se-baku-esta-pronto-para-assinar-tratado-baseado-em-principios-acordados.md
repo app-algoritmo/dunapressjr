@@ -1,11 +1,13 @@
 ---
-title: "Pashinyan não tem certeza se Baku está pronto para assinar tratado baseado em princípios acordados"
+title: Pashinyan não tem certeza se Baku está pronto para assinar tratado baseado
+  em princípios acordados
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Note-se que o primeiro dos princípios é o reconhecimento mútuo da integridade territorial da Arménia e do Azerbaijão.
 

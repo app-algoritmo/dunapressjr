@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação contra fraude na compra de produtos hospitalares"
+title: PF deflagra operação contra fraude na compra de produtos hospitalares
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo as investigações, mais de R$ 750 mil foram desviados.
 

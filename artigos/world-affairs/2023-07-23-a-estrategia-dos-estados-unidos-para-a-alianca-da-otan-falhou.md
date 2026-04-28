@@ -1,11 +1,12 @@
 ---
-title: "A estratégia dos Estados Unidos para a aliança da OTAN falhou"
+title: A estratégia dos Estados Unidos para a aliança da OTAN falhou
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os recursos de guerra da Ucrânia estão esgotados e o Ocidente não pode reabastecê-los com rapidez suficiente para reverter essa tendência tão cedo.
 

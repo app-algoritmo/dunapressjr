@@ -1,12 +1,14 @@
 ---
-title: "Julho Dourado: mês da conscientização das zoonoses, enfatizando a importância da vacinação nos animais de estimação"
+title: 'Julho Dourado: mês da conscientização das zoonoses, enfatizando a importância
+  da vacinação nos animais de estimação'
 date: 2024-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A vacinação é fundamental para proteger os animais contra doenças graves e potencialmente fatais, como a raiva, a parvovirose, a cinomose, entre outras. Isso sem contar que é uma medida de saúde pública já que algumas patologias são transmitidas aos humanos. 
 

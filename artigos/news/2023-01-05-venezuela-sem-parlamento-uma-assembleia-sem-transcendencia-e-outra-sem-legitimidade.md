@@ -1,11 +1,12 @@
 ---
-title: "Venezuela sem parlamento: uma assembleia sem transcendência e outra sem legitimidade"
+title: 'Venezuela sem parlamento: uma assembleia sem transcendência e outra sem legitimidade'
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As inconsistências que caracterizam a política venezuelana parecem não ter fim, uma virada, uma ruptura ou algo parecido quando no país duas assembleias nacionais voltam a empossar para funcionar mais um ano em paralelo sem legitimidade -chavista- nem transcendência- a oposição-.
 

@@ -1,11 +1,13 @@
 ---
-title: "Universitários de cursos presenciais vão receber ensino a distância por 30 dias"
+title: Universitários de cursos presenciais vão receber ensino a distância por 30
+  dias
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Os alunos de universidades e centros tecnológicos vão receber aulas temporárias a distância. Nesta semana, o Ministério da Educação (MEC) autorizou que as instituições de cursos presenciais forneçam as disciplinas por meios de tecnologia de informação e comunicação, como vídeos aulas. Com isso, os alunos com aulas em andamento não vão sofrer com perda de conteúdo.  A medida foi publicada no *Diário Oficial da União (DOU)* e faz parte do leque de ações de combate ao novo coronavírus.
 

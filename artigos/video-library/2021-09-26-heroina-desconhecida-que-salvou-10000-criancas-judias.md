@@ -1,11 +1,12 @@
 ---
-title: "Heroína desconhecida que salvou 10.000 crianças judias"
+title: Heroína desconhecida que salvou 10.000 crianças judias
 date: 2021-09-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Um documentário, explora como a heroína desconhecida Truus Wijsmuller resgatou milhares de jovens da Europa durante a Segunda Guerra Mundial, correndo grande risco pessoal.
 

@@ -1,11 +1,13 @@
 ---
-title: "Setembro Amarelo: Ação alerta jovens sobre importância do diálogo para prevenção ao suicídio"
+title: 'Setembro Amarelo: Ação alerta jovens sobre importância do diálogo para prevenção
+  ao suicídio'
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ideia é incentivar a interação dos jovens com as pessoas que estão ao seu redor e estimular o diálogo. A campanha foi iniciada em 2019 para estimular o diálogo com as pessoas que estão ao seu redor.
 

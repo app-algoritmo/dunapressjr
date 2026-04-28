@@ -1,11 +1,13 @@
 ---
-title: "Conflito na Ucrânia terminará com negociações com o Ocidente, diz diplomata russo"
+title: Conflito na Ucrânia terminará com negociações com o Ocidente, diz diplomata
+  russo
 date: 2023-12-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "As negociações definitivamente ocorrerão; todos os confrontos necessariamente terminarão com negociações. Claramente, as negociações não serão com fantoches", disse Rodion Miroshnik, embaixador geral da Rússia para crimes do regime de Kiev.
 

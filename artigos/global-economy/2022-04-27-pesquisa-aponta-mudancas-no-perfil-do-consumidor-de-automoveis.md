@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa aponta mudanças no perfil do consumidor de automóveis"
+title: Pesquisa aponta mudanças no perfil do consumidor de automóveis
 date: 2022-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Foi-se o tempo em que os 18 anos eram aguardados como um sinônimo de tirar carteira de habilitação e comprar um carro novinho. Ao longo dos anos, o perfil de compra de veículos no Brasil vem se modificando significativamente - e uma das alterações que mais chamam a atenção é justamente o comportamento dos jovens entre 18 e 25 anos. Um levantamento realizado pela Tecnobank confirmou o que o mercado já percebe há algum tempo: os planos do carro próprio não são mais unanimidade nessa faixa etária. Mas, ainda que não seja entre os mais novos, muitos brasileiros pretendem, sim, andar em um novo veículo até o fim de 2022.
 

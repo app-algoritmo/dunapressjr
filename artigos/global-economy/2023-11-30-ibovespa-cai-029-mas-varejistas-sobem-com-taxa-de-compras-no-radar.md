@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,29%, mas varejistas sobem com taxa de compras no radar"
+title: Ibovespa cai 0,29%, mas varejistas sobem com taxa de compras no radar
 date: 2023-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Petrobras enfrenta queda, enquanto Lojas Renner se destaca com possível taxa de compras abaixo de US$ 50.
 

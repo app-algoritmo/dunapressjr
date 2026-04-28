@@ -1,11 +1,12 @@
 ---
-title: "Lula quer suspender as reformas trabalhistas de Temer e Bolsonaro"
+title: Lula quer suspender as reformas trabalhistas de Temer e Bolsonaro
 date: 2023-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente socialista aponta agora contra a modernização da legislação trabalhista, e promete voltar a um sistema regulatório que já tinha 80 anos. O regime trabalhista anterior deixou um saldo de 13% de desemprego sem pandemia.
 

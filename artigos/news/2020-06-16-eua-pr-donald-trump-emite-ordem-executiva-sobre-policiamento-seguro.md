@@ -1,11 +1,12 @@
 ---
-title: "EUA: PR Donald Trump emite ordem executiva sobre policiamento seguro"
+title: 'EUA: PR Donald Trump emite ordem executiva sobre policiamento seguro'
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 USA Lei e Justiça: Nesta terça-feira 16 de junho, o PR Donald Trump, emitiu uma ordem executiva para garantir a segurança e os diretos das pessoas, assista à seguir o vídeo do pronunciamento:
 

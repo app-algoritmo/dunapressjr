@@ -1,11 +1,12 @@
 ---
-title: "Camaleões – Vale a Pena Assistir?"
+title: Camaleões – Vale a Pena Assistir?
 date: 2023-10-12
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha Aqui:
 

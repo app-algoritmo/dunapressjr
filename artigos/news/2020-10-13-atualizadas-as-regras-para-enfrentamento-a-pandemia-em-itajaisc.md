@@ -1,11 +1,12 @@
 ---
-title: "Atualizadas as regras para enfrentamento à pandemia em Itajaí/SC"
+title: Atualizadas as regras para enfrentamento à pandemia em Itajaí/SC
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio do Decreto nº **12.030/2020**, informa que entram em vigor nesta quinta-feira (08) novo regramento para enfrentamento à pandemia de COVID-19. O documento leva em consideração os dados da Matriz de Risco Potencial de coronavírus, divulgados pelo Governo do Estado, que colocam a região de Itajaí em risco GRAVE.
 

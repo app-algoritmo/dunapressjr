@@ -1,11 +1,12 @@
 ---
-title: "O que é filosofia"
+title: O que é filosofia
 date: 2023-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 Filosofia realmente significa amor à sabedoria. O termo se origina dos antigos filósofos gregos e originalmente incluía qualquer tentativa de entender e explicar o mundo ou a natureza e seus processos, bem como derivar e justificar regulamentos para a conduta da vida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vendas de máquinas e equipamentos caem 2,2% em outubro"
+title: Vendas de máquinas e equipamentos caem 2,2% em outubro
 date: 2021-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vendas para o mercado doméstico somaram R$ 13,9 bilhões.
 

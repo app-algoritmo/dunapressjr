@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal desarticula organização criminosa suspeita de fraudar Agências dos Correios no TO"
+title: Polícia Federal desarticula organização criminosa suspeita de fraudar Agências
+  dos Correios no TO
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO -  A Polícia Federal deflagrou, na manhã desta terça-feira (9/6), a Operação “Falsa Missiva”, tendo como objetivo desarticular um grupo criminoso envolvido em diversas fraudes cometidas contra Agências dos Correios no Tocantins.
 

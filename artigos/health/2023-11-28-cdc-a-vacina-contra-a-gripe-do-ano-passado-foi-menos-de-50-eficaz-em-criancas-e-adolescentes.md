@@ -1,11 +1,13 @@
 ---
-title: "CDC: A vacina contra a gripe do ano passado foi menos de 50% eficaz em crianças e adolescentes"
+title: 'CDC: A vacina contra a gripe do ano passado foi menos de 50% eficaz em crianças
+  e adolescentes'
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 *Na temporada de gripe de 2022-2023, a vacina contra a gripe foi menos de 50% eficaz na prevenção de atendimentos de emergência e hospitalizações em crianças e adolescentes. Isto está de acordo com um estudo financiado pelos Centros de Controle e Prevenção de Doenças (CDC).*
 

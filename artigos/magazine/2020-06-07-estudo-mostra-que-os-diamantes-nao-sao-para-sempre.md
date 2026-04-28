@@ -1,11 +1,12 @@
 ---
-title: "Estudo mostra que os diamantes não são para sempre"
+title: Estudo mostra que os diamantes não são para sempre
 date: 2020-06-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Os diamantes, aquelas jóias preciosas e brilhantes, são conhecidas como os materiais mais duros da Terra. Eles são uma forma de carbono de alta pressão e são encontrados no fundo do solo. Embora os diamantes sejam comumente considerados duros e estáveis, o carbono a cerca de 160 quilômetros abaixo da chapa africana está sendo levado a níveis mais rasos, onde o diamante se torna instável. As rochas derretidas (magma) trazem o excesso de carbono para a superfície e os terremotos abrem rachaduras que permitem que o carbono seja liberado no ar como dióxido de carbono.
 

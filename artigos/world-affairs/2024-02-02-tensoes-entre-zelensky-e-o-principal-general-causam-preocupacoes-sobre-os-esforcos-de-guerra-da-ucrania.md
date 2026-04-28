@@ -1,11 +1,13 @@
 ---
-title: "Tensões Entre Zelensky e o Principal General Causam Preocupações Sobre os Esforços de Guerra da Ucrânia"
+title: Tensões Entre Zelensky e o Principal General Causam Preocupações Sobre os Esforços
+  de Guerra da Ucrânia
 date: 2024-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que a Ucrânia enfrenta crescentes tensões entre o presidente Volodymyr Zelensky e seu altamente respeitado general-chefe, Gen. Valeriy Zaluzhniy, preocupações aumentam tanto dentro da nação quanto no cenário internacional. Especulações sobre a possível demissão do comandante-chefe das forças armadas da Ucrânia acenderam a apreensão, com autoridades ocidentais e soldados ucranianos alertando para possíveis repercussões nos esforços contínuos de guerra contra a Rússia.
 

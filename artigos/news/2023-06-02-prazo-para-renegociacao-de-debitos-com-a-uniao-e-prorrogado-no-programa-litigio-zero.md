@@ -1,11 +1,13 @@
 ---
-title: "Prazo para renegociação de débitos com a União é prorrogado no programa Litígio Zero"
+title: Prazo para renegociação de débitos com a União é prorrogado no programa Litígio
+  Zero
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contribuintes ganham mais dois meses para aderir ao programa de redução de litigiosidade fiscal.
 

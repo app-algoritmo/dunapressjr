@@ -1,11 +1,12 @@
 ---
-title: "Setor Marítimo Nacional, trabalhando por um Brasil que não pode parar"
+title: Setor Marítimo Nacional, trabalhando por um Brasil que não pode parar
 date: 2020-05-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 “Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer.”
 

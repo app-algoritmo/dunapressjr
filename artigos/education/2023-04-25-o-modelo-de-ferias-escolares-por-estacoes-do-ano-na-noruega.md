@@ -1,12 +1,13 @@
 ---
-title: "O modelo de férias escolares por estações do ano na Noruega"
+title: O modelo de férias escolares por estações do ano na Noruega
 date: 2023-04-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Lifestyle
+- Education
+- Lifestyle
 ---
+
 
 ## Equilibrando o tempo de aprendizado e lazer.
 

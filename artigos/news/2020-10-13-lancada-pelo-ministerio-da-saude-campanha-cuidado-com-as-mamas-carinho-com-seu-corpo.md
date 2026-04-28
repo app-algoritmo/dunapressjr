@@ -1,11 +1,13 @@
 ---
-title: "Lançada pelo Ministério da Saúde, campanha: “Cuidado com as mamas, carinho com seu corpo”"
+title: 'Lançada pelo Ministério da Saúde, campanha: “Cuidado com as mamas, carinho
+  com seu corpo”'
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um alerta para a importância de prevenir e de diagnosticar precocemente o câncer de mama. Essa é a mensagem da Campanha do Outubro Rosa 2020, lançada nesta quarta-feira (7), pelo Ministério da Saúde. Neste ano, o slogan é “Cuidado com as mamas, carinho com seu corpo”.
 

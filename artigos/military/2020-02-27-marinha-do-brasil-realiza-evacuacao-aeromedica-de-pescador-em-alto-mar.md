@@ -1,11 +1,12 @@
 ---
-title: "Marinha do Brasil realiza evacuação aeromédica de pescador em alto-mar"
+title: Marinha do Brasil realiza evacuação aeromédica de pescador em alto-mar
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha do Brasil (MB), por intermédio da Capitania dos Portos do
 Ceará (CPCE), realizou resgate e evacuação aeromédica de um pescador a 348

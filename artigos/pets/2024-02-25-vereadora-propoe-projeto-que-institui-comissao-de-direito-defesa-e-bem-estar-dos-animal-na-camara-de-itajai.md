@@ -1,11 +1,13 @@
 ---
-title: "Vereadora propõe projeto que institui Comissão de Direito, Defesa e Bem-Estar dos Animal na Câmara de Itajaí"
+title: Vereadora propõe projeto que institui Comissão de Direito, Defesa e Bem-Estar
+  dos Animal na Câmara de Itajaí
 date: 2024-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou, em única discussão e com 13 votos favoráveis, o [Projeto de Resolução nº 11/2023](https://www.cvi.sc.gov.br/public/elegis2/pdf/projetoderesolucao11_2023.pdf). O projeto é de autoria da Mesa Diretora do Legislativo e tem como objetivo instituir a Comissão Técnica de Direito, Defesa e Bem-Estar Animal.
  

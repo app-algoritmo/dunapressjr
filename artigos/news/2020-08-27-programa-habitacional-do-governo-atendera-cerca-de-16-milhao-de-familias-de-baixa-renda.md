@@ -1,11 +1,13 @@
 ---
-title: "Programa habitacional do governo atenderá cerca de 1,6 milhão de famílias de baixa renda"
+title: Programa habitacional do governo atenderá cerca de 1,6 milhão de famílias de
+  baixa renda
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Programa atuará na regularização fundiária, melhoria dos imóveis, retomada de obras e menores juros para financiamento. Serão contempladas, principalmente, áreas ocupadas por famílias com renda de até R$ 5 mil mensais que vivam em núcleos urbanos informais.
 

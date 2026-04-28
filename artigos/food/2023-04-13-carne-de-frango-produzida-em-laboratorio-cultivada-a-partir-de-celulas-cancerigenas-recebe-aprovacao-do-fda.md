@@ -1,11 +1,13 @@
 ---
-title: "Carne de frango produzida em laboratório, cultivada a partir de células cancerígenas, recebe aprovação do FDA"
+title: Carne de frango produzida em laboratório, cultivada a partir de células cancerígenas,
+  recebe aprovação do FDA
 date: 2023-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Carne de frango artificial cultivada em “biorreatores” de aço inoxidável é a próxima coisa a chegar ao mercado americano, [graças à](https://www.thegatewaypundit.com/2023/04/lab-grown-chicken-meat-will-soon-hit-store-shelves-and-restaurant-menus/) Food and Drug Administration (FDA) dos EUA.
 

@@ -1,11 +1,13 @@
 ---
-title: "Trump Celebra Derrota do Projeto de Lei de Imigração e Promete 'Operação de Deportação' Maciça"
+title: Trump Celebra Derrota do Projeto de Lei de Imigração e Promete 'Operação de
+  Deportação' Maciça
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Donald Trump, ex-presidente dos Estados Unidos, expressou seu contentamento com a rejeição do projeto de lei de imigração, enquanto prometia uma "operação de deportação" maciça em caso de uma eventual volta ao poder. Durante uma reunião na Carolina do Sul, Trump saudou a derrota do plano de fronteiras abertas proposto pelo atual presidente, Joe Biden, afirmando que foi uma vitória para os conservadores.
 

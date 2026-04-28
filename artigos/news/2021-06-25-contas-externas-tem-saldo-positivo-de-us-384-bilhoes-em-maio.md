@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo positivo de US$ 3,84 bilhões em maio"
+title: Contas externas têm saldo positivo de US$ 3,84 bilhões em maio
 date: 2021-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As exportações de bens totalizaram recorde histórico, diz o BC.
 

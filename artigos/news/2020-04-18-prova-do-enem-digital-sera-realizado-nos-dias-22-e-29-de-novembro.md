@@ -1,11 +1,12 @@
 ---
-title: "Prova do Enem Digital será realizado nos dias 22 e 29 de novembro"
+title: Prova do Enem Digital será realizado nos dias 22 e 29 de novembro
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Novas datas foram anunciadas pelo ministro da Educação, Abraham Weintraub**
 

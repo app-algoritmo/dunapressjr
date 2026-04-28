@@ -1,11 +1,12 @@
 ---
-title: "Semana Santa é excelente época para experimentar novos sabores"
+title: Semana Santa é excelente época para experimentar novos sabores
 date: 2021-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Depois das reflexões e restrições nos 40 dias da quaresma, chega a hora de se esbaldar com as deliciosas comidas da Páscoa. A reunião de familiares e amigos na sexta-feira Santa e no Domingo de Páscoa traz o costume da substituição de carnes vermelhas por peixes e frutos do mar.
 

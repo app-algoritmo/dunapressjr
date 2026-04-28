@@ -1,11 +1,12 @@
 ---
-title: "A Comunicação Futura no Espaço: Conectando a Terra e Marte em Tempo Real"
+title: 'A Comunicação Futura no Espaço: Conectando a Terra e Marte em Tempo Real'
 date: 2024-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 À medida que a exploração espacial avança, uma das maiores barreiras a serem superadas é a comunicação eficiente e em tempo real entre a Terra e outras colônias, como Marte. Atualmente, a comunicação entre a Terra e Marte sofre um atraso significativo devido à vasta distância entre os dois planetas, que pode variar de cerca de 4 a 24 minutos, dependendo de suas posições orbitais. Este atraso é inaceitável para operações críticas, especialmente em situações de emergência, onde decisões rápidas podem ser a diferença entre o sucesso e o fracasso de uma missão.
 

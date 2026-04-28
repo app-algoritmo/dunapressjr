@@ -1,11 +1,12 @@
 ---
-title: "Turbina a Vapor de Parsons"
+title: Turbina a Vapor de Parsons
 date: 2019-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Seguindo a série: “50 máquinas que mudaram o rumo da história”, vamos conhecer um pouco sobre a Turbina a Vapor de Parsons.
 

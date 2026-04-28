@@ -1,11 +1,13 @@
 ---
-title: "Sociedade Alemã de Nutrição quer que cada pessoa consuma apenas 10 gramas de carne diariamente para combater o “aquecimento global”"
+title: Sociedade Alemã de Nutrição quer que cada pessoa consuma apenas 10 gramas de
+  carne diariamente para combater o “aquecimento global”
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## A Sociedade Alemã de Nutrição (DGE) agora está recomendando que os alemães [reduzam seu consumo de carne para 10 gramas por dia](https://www.climatedepot.com/2023/06/04/german-nutrition-society-recommends-reducing-meat-consumption-to-10-grams-per-day-aver-90-reduction-to-combat-global-warming/) – equivalente a uma salsicha por mês – para supostamente abordar o “aquecimento global”.
 

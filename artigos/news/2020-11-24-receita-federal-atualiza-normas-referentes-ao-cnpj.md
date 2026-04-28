@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal atualiza normas referentes ao CNPJ"
+title: Receita Federal atualiza normas referentes ao CNPJ
 date: 2020-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo das alterações é simplificar os serviços prestados e o cumprimento das obrigações tributárias.
 

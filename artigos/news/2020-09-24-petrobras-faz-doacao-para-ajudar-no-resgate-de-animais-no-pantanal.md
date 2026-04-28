@@ -1,11 +1,12 @@
 ---
-title: "Petrobras faz doação para ajudar no resgate de animais no Pantanal"
+title: Petrobras faz doação para ajudar no resgate de animais no Pantanal
 date: 2020-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A doação de R$ 150 mil servirá para compra de alimentos, água, equipamentos e medicamentos. O projeto arrecada recursos para espalhar água, comprar alimentos como frutas e milho para os animais em áreas atingidas pelo fogo. 
 

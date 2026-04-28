@@ -1,11 +1,12 @@
 ---
-title: "Mercado imobiliário tem redução de 9,5% nas vendas no 3º trimestre"
+title: Mercado imobiliário tem redução de 9,5% nas vendas no 3º trimestre
 date: 2021-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Aumento no custo dos insumos impactou os negócios.
 

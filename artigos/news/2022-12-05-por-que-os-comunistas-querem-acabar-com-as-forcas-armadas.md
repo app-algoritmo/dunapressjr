@@ -1,11 +1,12 @@
 ---
-title: "Por que os comunistas querem acabar com as Forças Armadas?"
+title: Por que os comunistas querem acabar com as Forças Armadas?
 date: 2022-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O Foro de São Paulo, que, após a queda da URSS, se propõe a mudar radicalmente a estratégia revolucionária castrista pela estratégia revolucionária gramciana, ou seja, deixar de lado a busca do poder pelas armas e fazê-lo pela cultura, o entretenimento, a educação e as eleições democráticas.
 

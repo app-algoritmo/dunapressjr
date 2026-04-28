@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de venda do gás natural"
+title: Petrobras reduz preço de venda do gás natural
 date: 2020-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Redução reafirma compromisso para novo mercado de gás natural.
 

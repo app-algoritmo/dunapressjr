@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério defende tecnologia para revolucionar a transição energética"
+title: Marcos Rogério defende tecnologia para revolucionar a transição energética
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) fez um pronunciamento no Plenário nesta segunda-feira (9) e compartilhou sua experiência em uma missão oficial à Nova Zelândia, realizada no início deste mês com o senador Astronauta Marcos Pontes (PL-SP). O parlamentar destacou que, durante a viagem, teve a oportunidade de conhecer uma tecnologia de transmissão de energia que dispensa o uso de fios e promete revolucionar a transição energética global. Marcos Rogério enfatizou que a descoberta se deve às pesquisas pioneiras do inventor Nikola Tesla, cujo legado científico e tecnológico é reverenciado mundialmente.
 

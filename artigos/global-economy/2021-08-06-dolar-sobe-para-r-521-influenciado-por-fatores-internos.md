@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,21 influenciado por fatores internos"
+title: Dólar sobe para R$ 5,21 influenciado por fatores internos
 date: 2021-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa começa sessão em alta, mas termina com leve queda.
 

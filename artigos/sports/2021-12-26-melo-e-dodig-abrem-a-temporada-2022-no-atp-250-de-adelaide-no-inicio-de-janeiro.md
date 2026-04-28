@@ -1,11 +1,12 @@
 ---
-title: "Melo e Dodig abrem a temporada 2022 no ATP 250 de Adelaide, no início de janeiro"
+title: Melo e Dodig abrem a temporada 2022 no ATP 250 de Adelaide, no início de janeiro
 date: 2021-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Tenista mineiro viaja para a Austrália no dia 28 deste mês. Serão dois torneios na cidade antes da disputa do primeiro Grand Slam do ano, o Australian Open, em Melbourne. Até lá, treina em Belo Horizonte (MG), preparando-se para o retorno às quadras.
 

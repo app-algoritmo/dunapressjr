@@ -1,11 +1,12 @@
 ---
-title: "Deputados americanos aprovam salvar sobreviventes de aborto"
+title: Deputados americanos aprovam salvar sobreviventes de aborto
 date: 2023-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Até agora, o pessoal médico nos Estados Unidos não é obrigado a prestar cuidados a recém-nascidos se forem produto de um aborto mal feito. Ou seja, o aborto não se limita a acabar com a vida do feto ou embrião no ventre de sua mãe. Mesmo que nascesse, não poderia sobreviver. Esta foi uma questão que o Partido Republicano tentou aprovar em vários projetos de lei – sem sucesso – devido à [resistência que encontrou](https://panampost.com/mamela-fiallo/2018/06/20/contradicciones-promotores-del-aborto-en-eeuu-defienden-ninos-en-la-frontera/) por parte dos democratas que dominavam o Congresso. Agora, com a Câmara dos Deputados de maioria republicana, os conservadores conseguiram aprovar um projeto que permite salvar sobreviventes do aborto no início do novo período.
 

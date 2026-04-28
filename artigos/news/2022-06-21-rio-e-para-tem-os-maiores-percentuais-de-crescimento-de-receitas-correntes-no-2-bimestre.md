@@ -1,11 +1,13 @@
 ---
-title: "Rio e Pará têm os maiores percentuais de crescimento de receitas correntes no 2º bimestre"
+title: Rio e Pará têm os maiores percentuais de crescimento de receitas correntes
+  no 2º bimestre
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pelo lado das despesas correntes, Rondônia (38%) e Roraima (35%) foram os estados com os maiores aumentos no período.
 

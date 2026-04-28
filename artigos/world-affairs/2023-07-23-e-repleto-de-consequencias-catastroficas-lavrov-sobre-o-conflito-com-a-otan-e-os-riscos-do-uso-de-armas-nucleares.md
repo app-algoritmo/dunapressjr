@@ -1,11 +1,13 @@
 ---
-title: "'É repleto de consequências catastróficas' Lavrov sobre o conflito com a OTAN e os riscos do uso de armas nucleares"
+title: '''É repleto de consequências catastróficas'' Lavrov sobre o conflito com a
+  OTAN e os riscos do uso de armas nucleares'
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ministro das Relações Exteriores Lavrov: Rússia vê uma ameaça nuclear nos aviões F-16 de Kiev.
 

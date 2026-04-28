@@ -1,11 +1,13 @@
 ---
-title: "Ataques de Drones a Sistemas de Radar Russos Aumentam Tensão e Risco de Conflito Global"
+title: Ataques de Drones a Sistemas de Radar Russos Aumentam Tensão e Risco de Conflito
+  Global
 date: 2024-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ação Coordenada por Ucrânia e NATO Visa Enfraquecer Defesa Nuclear da Rússia.
 

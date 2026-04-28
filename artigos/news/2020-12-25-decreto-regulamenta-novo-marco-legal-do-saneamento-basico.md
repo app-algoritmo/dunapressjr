@@ -1,11 +1,12 @@
 ---
-title: "Decreto regulamenta novo Marco Legal do Saneamento Básico"
+title: Decreto regulamenta novo Marco Legal do Saneamento Básico
 date: 2020-12-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto define repasses a governos locais para apoiar licitações.
 

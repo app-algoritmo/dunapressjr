@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro vai liberar recursos para obras de infraestrutura no Acre e na Bahia"
+title: Governo Bolsonaro vai liberar recursos para obras de infraestrutura no Acre
+  e na Bahia
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foram anunciados repasses de R$ 68,74 milhões para cidades dos dois estados. 
 

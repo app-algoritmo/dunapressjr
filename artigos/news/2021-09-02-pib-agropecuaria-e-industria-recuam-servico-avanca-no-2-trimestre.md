@@ -1,11 +1,12 @@
 ---
-title: "PIB: agropecuária e indústria recuam; serviço avança no 2° trimestre"
+title: 'PIB: agropecuária e indústria recuam; serviço avança no 2° trimestre'
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação ao 2° trimestre de 2020, houve avanço de 12,4%.
 

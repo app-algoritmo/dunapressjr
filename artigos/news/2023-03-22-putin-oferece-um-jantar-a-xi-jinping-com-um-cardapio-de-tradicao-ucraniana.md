@@ -1,11 +1,12 @@
 ---
-title: "Putin oferece um jantar a Xi Jinping com um cardápio de tradição ucraniana"
+title: Putin oferece um jantar a Xi Jinping com um cardápio de tradição ucraniana
 date: 2023-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Rússia, Vladimir Putin, ofereceu nesta terça-feira (21) ao seu homólogo chinês, Xi Jinping, um jantar de Estado após o segundo dia de negociações no Kremlin com um cardápio composto pela tradicional sopa de beterraba Borsch, cujo origem é atribuída à Ucrânia e que a Rússia também considera como sua.
 

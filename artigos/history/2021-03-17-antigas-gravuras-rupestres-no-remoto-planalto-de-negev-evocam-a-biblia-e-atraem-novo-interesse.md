@@ -1,11 +1,13 @@
 ---
-title: "Antigas gravuras rupestres no remoto planalto de Negev evocam a Bíblia e atraem novo interesse"
+title: Antigas gravuras rupestres no remoto planalto de Negev evocam a Bíblia e atraem
+  novo interesse
 date: 2021-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Sobreposta à paisagem árida do deserto de Negev, está uma tela abrangente de história, cultura e adoração humanas - se você souber onde procurar.
 

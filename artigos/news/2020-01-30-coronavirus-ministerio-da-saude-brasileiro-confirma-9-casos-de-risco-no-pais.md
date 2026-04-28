@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Ministério da saúde brasileiro confirma 9 casos de risco no país"
+title: 'Coronavírus: Ministério da saúde brasileiro confirma 9 casos de risco no país'
 date: 2020-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## 
 Até o momento, 9 casos suspeitos da doença estão sendo monitorados no país. Ministério da Saúde recomenda que empresas não realizem pessoalmente reuniões com pessoas que vêm da China.

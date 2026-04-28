@@ -1,11 +1,12 @@
 ---
-title: "Desfile da Vitória na Praça Vermelha: Comemorando o Sacrifício e a União"
+title: 'Desfile da Vitória na Praça Vermelha: Comemorando o Sacrifício e a União'
 date: 2024-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No discurso proferido pelo Presidente da Rússia, Vladimir Putin, por ocasião do Dia da Vitória, ele saudou os cidadãos russos, os veteranos, os soldados e marinheiros, oficiais, generais e almirantes, reconhecendo a importância sagrada deste dia nacional. Putin destacou a necessidade de preservar a verdade histórica da Segunda Guerra Mundial diante de tentativas de distorção por parte de alguns setores, enfatizando a resistência e heroísmo dos combatentes russos e aliados. Ele alertou para os perigos das políticas revisionistas e destacou a determinação da Rússia em evitar confrontos globais, mas também em proteger sua soberania. O presidente homenageou os sacrifícios de todos os envolvidos na guerra, destacando a união das gerações passadas e presentes na celebração da Vitória. O discurso encerrou-se com uma reverência aos que perderam suas vidas no conflito e um apelo à união para garantir o futuro livre e seguro da Rússia.
 

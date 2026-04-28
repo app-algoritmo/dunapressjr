@@ -1,11 +1,13 @@
 ---
-title: "Operação Mendacium: Polícia Federal combate falsificação de documentos na Paraíba"
+title: 'Operação Mendacium: Polícia Federal combate falsificação de documentos na
+  Paraíba'
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mandado de busca e apreensão é cumprido em Monte Horebe para investigar crimes de uso de documentos falsos e fraude previdenciária.
 

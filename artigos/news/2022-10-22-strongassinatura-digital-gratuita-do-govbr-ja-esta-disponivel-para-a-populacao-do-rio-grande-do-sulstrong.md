@@ -1,11 +1,13 @@
 ---
-title: "<strong>Assinatura digital gratuita do GOV.BR já está disponível para a população do Rio Grande do Sul</strong>"
+title: <strong>Assinatura digital gratuita do GOV.BR já está disponível para a população
+  do Rio Grande do Sul</strong>
 date: 2022-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estado está integrado à plataforma, permitindo que o cidadão assine documentos e acesse serviços estaduais sem a necessidade de reconhecimento de firma ou uso de certificado digital.
 

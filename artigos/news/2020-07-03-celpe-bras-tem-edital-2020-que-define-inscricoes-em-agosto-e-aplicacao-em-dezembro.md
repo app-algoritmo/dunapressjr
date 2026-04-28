@@ -1,11 +1,12 @@
 ---
-title: "Celpe-Bras tem edital 2020 que define inscrições em agosto e aplicação em dezembro"
+title: Celpe-Bras tem edital 2020 que define inscrições em agosto e aplicação em dezembro
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Estrangeiros interessados em comprovar seu nível de proficiência em língua portuguesa neste ano já podem consultar o cronograma e todos os detalhes sobre o exame para obtenção do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) 2020. As inscrições abrirão no dia 31 de agosto e poderão ser realizadas até 11 de setembro, pela internet, com pagamento de taxa até o dia 14 de setembro. As provas serão aplicadas no período de 8 a 11 de dezembro, em postos aplicadores no Brasil e no exterior. As informações foram publicadas em edital pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) no Diário Oficial da União desta quarta-feira, 2 de julho.
 

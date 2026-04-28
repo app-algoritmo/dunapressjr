@@ -1,11 +1,12 @@
 ---
-title: "Programa reduzirá desigualdades nas fronteiras brasileiras"
+title: Programa reduzirá desigualdades nas fronteiras brasileiras
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério do Desenvolvimento Regional instituiu o Programa Fronteira Integrada, que visa a reduzir as desigualdades econômicas e sociais nas cidades localizadas em uma área de 150 quilômetros de largura ao longo das fronteiras terrestres brasileiras. A meta é criar oportunidades de desenvolvimento que resultem em crescimento econômico, geração de renda, melhoria da infraestrutura urbana e maior qualidade de vida da população.
 

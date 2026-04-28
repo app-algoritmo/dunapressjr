@@ -1,11 +1,12 @@
 ---
-title: "Mulheres buscam mais representatividade em eventos científicos"
+title: Mulheres buscam mais representatividade em eventos científicos
 date: 2023-08-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Grades de congressos ainda contam com uma proporção desigual de nomes femininos e masculinos; empresas têm papel importante de apoiar as mulheres e abrir novos caminhos para crescimento.
 

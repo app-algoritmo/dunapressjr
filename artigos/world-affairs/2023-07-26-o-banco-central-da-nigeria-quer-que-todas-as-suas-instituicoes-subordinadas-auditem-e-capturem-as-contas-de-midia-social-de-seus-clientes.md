@@ -1,11 +1,13 @@
 ---
-title: "O banco central da Nigéria quer que todas as suas instituições subordinadas auditem e capturem as contas de mídia social de seus clientes"
+title: O banco central da Nigéria quer que todas as suas instituições subordinadas
+  auditem e capturem as contas de mídia social de seus clientes
 date: 2023-07-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na Nigéria, houve uma reação mista a uma ordem do banco central do país (CBN) para que todas as instituições financeiras sob sua supervisão capturem as contas de mídia social dos usuários como parte do processo KYC (Know Your Customer) para abertura de conta.
 

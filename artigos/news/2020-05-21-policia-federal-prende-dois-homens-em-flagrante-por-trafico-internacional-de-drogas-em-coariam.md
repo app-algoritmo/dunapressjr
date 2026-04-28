@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal prende dois homens em flagrante por tráfico internacional de drogas em Coari/AM"
+title: Polícia Federal prende dois homens em flagrante por tráfico internacional de
+  drogas em Coari/AM
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Manaus/AM** – A Polícia Federal prendeu, em ação que se prolongou de segunda para terça-feira (18 e 19/05), dois indivíduos pelo transporte de mais de 418 quilos de entorpecentes.
 

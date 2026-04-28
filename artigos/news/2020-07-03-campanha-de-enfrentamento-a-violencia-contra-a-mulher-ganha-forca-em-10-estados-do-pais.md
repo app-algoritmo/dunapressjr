@@ -1,11 +1,13 @@
 ---
-title: "Campanha de enfrentamento à violência contra a mulher ganha força em 10 estados do país"
+title: Campanha de enfrentamento à violência contra a mulher ganha força em 10 estados
+  do país
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais que um chamado, a campanha “Alô vizinho!” agora é um alerta que desperta a atenção em todo o país. A ação idealizada pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) para o enfrentamento da violência doméstica contra mulheres em condomínios ganhou força em pelo menos dez estados e cinco municípios.
 

@@ -1,11 +1,12 @@
 ---
-title: "Maria Quitéria de Jesus uma heroína brasileira"
+title: Maria Quitéria de Jesus uma heroína brasileira
 date: 2022-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Maria Quitéria de Jesus nasceu em Feira de Santana, na Bahia. Sua data de nascimento exata é controversa, mas registros apontam o ano de 1792. Era a filha mais velha de Gonçalo Alves de Almeida e de Quitéria Maria de Jesus. Quando se iniciou o movimento de independência do Brasil, Maria Quitéria vivia com o pai, madrasta e irmãos na fazenda da Serra da Agulha, freguesia de São José das Itapororocas (hoje um distrito de Feira de Santana, rebatizado com o nome da heroína da independência).
 

@@ -1,10 +1,11 @@
 ---
-title: "Economia e tragédia"
+title: Economia e tragédia
 date: 2026-04-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 

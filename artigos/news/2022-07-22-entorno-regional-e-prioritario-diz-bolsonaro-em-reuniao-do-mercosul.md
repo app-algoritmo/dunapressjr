@@ -1,11 +1,12 @@
 ---
-title: "Entorno regional é prioritário, diz Bolsonaro em reunião do Mercosul"
+title: Entorno regional é prioritário, diz Bolsonaro em reunião do Mercosul
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Brasil tem tido papel ativo na mitigação de choques externos na região.
 

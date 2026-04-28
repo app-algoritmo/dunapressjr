@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga primeira parte da PEC dos Precatórios"
+title: Congresso promulga primeira parte da PEC dos Precatórios
 date: 2021-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida é essencial para viabilizar pagamento do Auxílio Brasil.
 

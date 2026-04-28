@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação Firearms para combater tráfico internacional de armas"
+title: PF deflagra operação Firearms para combater tráfico internacional de armas
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Policiais federais prendem foragidos por tráfico internacional de armas e munições em cinco estados e no DF.
 

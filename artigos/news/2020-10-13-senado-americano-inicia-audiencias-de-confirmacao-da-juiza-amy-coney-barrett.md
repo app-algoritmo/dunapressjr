@@ -1,11 +1,12 @@
 ---
-title: "Senado americano inicia audiências de confirmação da juíza Amy Coney Barrett"
+title: Senado americano inicia audiências de confirmação da juíza Amy Coney Barrett
 date: 2020-10-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "Os juízes não são formuladores de políticas e devem ser resolutos em deixar de lado quaisquer opiniões políticas que possam ter", disse a juíza Barrett ao aceitar a nomeação do presidente Trump para o tribunal no mês passado.
 

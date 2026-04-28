@@ -1,12 +1,13 @@
 ---
-title: "O consumismo - Planejado para te manter viciado"
+title: O consumismo - Planejado para te manter viciado
 date: 2018-11-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
-  - Opinion
+- Global Economy
+- Opinion
 ---
+
 
 O consumismo de hoje foi criado e arquitetado para escravizar as pessoas. Quem quiser veja!
 

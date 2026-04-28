@@ -1,11 +1,12 @@
 ---
-title: "CGU e Economia publicam portaria de análise paramétrica de orçamento de obras"
+title: CGU e Economia publicam portaria de análise paramétrica de orçamento de obras
 date: 2020-06-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é reduzir custos e aumentar a produtividade com implementação de controles inteligentes baseados em parâmetros obtidos em banco de dados de obras ou serviços similares.
 

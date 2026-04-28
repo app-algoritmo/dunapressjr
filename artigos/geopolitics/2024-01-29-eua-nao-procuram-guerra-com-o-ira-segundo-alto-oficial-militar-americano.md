@@ -1,11 +1,12 @@
 ---
-title: "EUA não procuram guerra com o Irã, segundo alto oficial militar americano"
+title: EUA não procuram guerra com o Irã, segundo alto oficial militar americano
 date: 2024-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Um alto oficial militar dos EUA disse na noite de domingo que seu país não está olhando para uma guerra com o Irã, acrescentando que a República Islâmica, como potência regional, também não a quer.
 

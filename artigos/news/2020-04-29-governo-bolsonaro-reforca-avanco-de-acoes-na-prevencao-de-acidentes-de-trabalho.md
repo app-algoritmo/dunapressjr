@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro reforça avanço de ações  na prevenção de acidentes de trabalho"
+title: Governo Bolsonaro reforça avanço de ações  na prevenção de acidentes de trabalho
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lançada na terça-feira (28), data que marca o dia Mundial de Segurança e Saúde no Trabalho e Nacional em Memória das Vítimas de Acidente de Trabalho, a Campanha Nacional de Prevenção de Acidentes de Trabalho (Canpat 2020) reforça a necessidade de o País avançar em ações de prevenção de saúde e segurança no ambiente de trabalho, especialmente no momento em que o mundo enfrenta a pandemia de Covid-19.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nanotecnologia em próteses dentárias de titânio"
+title: Nanotecnologia em próteses dentárias de titânio
 date: 2022-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

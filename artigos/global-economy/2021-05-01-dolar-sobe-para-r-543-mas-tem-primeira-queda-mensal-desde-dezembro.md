@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,43, mas tem primeira queda mensal desde dezembro"
+title: Dólar sobe para R$ 5,43, mas tem primeira queda mensal desde dezembro
 date: 2021-05-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa encerra abril com segundo mês seguido de alta.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável à espera de pistas do BC norte-americano"
+title: Dólar fecha estável à espera de pistas do BC norte-americano
 date: 2022-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores sobe 0,56% e encerra no maior nível em uma semana.
 

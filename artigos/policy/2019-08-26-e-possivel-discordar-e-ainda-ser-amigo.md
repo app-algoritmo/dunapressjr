@@ -1,11 +1,12 @@
 ---
-title: "'É possível discordar e ainda ser amigo'"
+title: '''É possível discordar e ainda ser amigo'''
 date: 2019-08-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Líderes dos partidos se reúnem em debate político divertido, eficaz e respeitoso.
 

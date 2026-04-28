@@ -1,11 +1,12 @@
 ---
-title: "Lula diz que não precisa gostar de presidentes dos países vizinhos"
+title: Lula diz que não precisa gostar de presidentes dos países vizinhos
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente defende que chefes de Estado saibam viver com as diferenças.
 

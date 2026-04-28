@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro destina mais de R$ 108 mil em equipamentos de fisioterapia para idosos em Pernambuco"
+title: Governo Bolsonaro destina mais de R$ 108 mil em equipamentos de fisioterapia
+  para idosos em Pernambuco
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 115 idosos residentes no Abrigo Cristo Redentor, em Jaboatão dos Guararapes (PE), serão beneficiados com equipamentos para o setor de fisioterapia da entidade. Uma iniciativa do Governo Federal, a proposta tem o objetivo de utilizar novas tecnologias para promover o restabelecimento da saúde desse público com mais eficiência.
 

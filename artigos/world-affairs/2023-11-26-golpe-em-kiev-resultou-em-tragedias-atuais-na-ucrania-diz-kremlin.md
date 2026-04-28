@@ -1,11 +1,12 @@
 ---
-title: "Golpe em Kiev resultou em tragédias atuais na Ucrânia, diz Kremlin"
+title: Golpe em Kiev resultou em tragédias atuais na Ucrânia, diz Kremlin
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Trouxe o florescimento do sentimento ultranacionalista e depois abertamente nazista para a Ucrânia, disse Dmitry Peskov.
 

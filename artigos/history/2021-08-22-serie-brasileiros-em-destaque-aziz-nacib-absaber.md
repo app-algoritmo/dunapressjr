@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Aziz Nacib Ab'Sáber"
+title: 'Série Brasileiros em Destaque: Aziz Nacib Ab''Sáber'
 date: 2021-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Geomorfologista.
 

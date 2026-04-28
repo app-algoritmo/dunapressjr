@@ -1,14 +1,15 @@
 ---
-title: "As Memórias de Cleópatra, Volume II Sob o Signo de Afrodite"
+title: As Memórias de Cleópatra, Volume II Sob o Signo de Afrodite
 date: 2022-09-27
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - History
-  - Literature
-  - Video library
+- Books
+- History
+- Literature
+- Video library
 ---
+
 
 Falar sobre a morte de Caio Júlio Cesar, ou Cesar, não é spoiler, a maioria sabe que ele foi assassinado pelos senadores romanos. As Memórias de Cleópatra **Volume II, Sob o Signo de Afrodite** tem inicio após sua morte. Os detalhes, o enterro, tudo é descrito no Volume I da série.
 

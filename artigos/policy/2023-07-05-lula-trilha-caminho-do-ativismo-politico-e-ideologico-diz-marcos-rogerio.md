@@ -1,11 +1,12 @@
 ---
-title: "Lula trilha 'caminho do ativismo político e ideológico', diz Marcos Rogério"
+title: Lula trilha 'caminho do ativismo político e ideológico', diz Marcos Rogério
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) criticou em pronunciamento nesta terça-feira (4) a participação do presidente da República, Luiz Inácio Lula da Silva, no encontro do Foro de São Paulo, em Brasília, ocorrido na quinta-feira (29). O grupo reúne partidos políticos e organizações de esquerda da América Latina. Segundo o parlamentar, Lula está trilhando "o caminho do ativismo político e ideológico de maneira deliberadamente hostil aos princípios e valores da nação brasileira".
 

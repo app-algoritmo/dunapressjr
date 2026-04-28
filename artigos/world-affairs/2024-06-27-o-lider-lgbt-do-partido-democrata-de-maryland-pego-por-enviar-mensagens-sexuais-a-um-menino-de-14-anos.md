@@ -1,11 +1,13 @@
 ---
-title: "O líder LGBT do Partido Democrata de Maryland, pego por enviar mensagens sexuais a um menino de 14 anos"
+title: O líder LGBT do Partido Democrata de Maryland, pego por enviar mensagens sexuais
+  a um menino de 14 anos
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Michael Knaapen, um líder destacado do Conselho de Diversidade LGBTQ dos Democratas de Maryland, foi confrontado durante uma suposta operação antipedofilia conduzida pelo jornalista Alex Rosen. Durante o encontro em um restaurante, Rosen revelou mensagens explícitas que Knaapen teria enviado a um rapaz de 14 anos, com quem havia combinado um encontro sexual.
 

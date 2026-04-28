@@ -1,11 +1,12 @@
 ---
-title: "Zequinha avalia marco temporal e registra situação de produtores no Pará"
+title: Zequinha avalia marco temporal e registra situação de produtores no Pará
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Zequinha Marinho (Podemos-PA) agradeceu aos colegas senadores nesta terça-feira (3), em pronunciamento no Plenário, pela aprovação do marco temporal das terras indígenas (PL 2.903/2023), texto que considera a data da promulgação da Constituição Federal para definir a legalidade da ocupação de áreas indígenas no Brasil. 
 

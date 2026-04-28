@@ -1,11 +1,12 @@
 ---
-title: "Proposta de Deportação de Refugiados Ucranianos na Alemanha Gera Controvérsia"
+title: Proposta de Deportação de Refugiados Ucranianos na Alemanha Gera Controvérsia
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A proposta recente do porta-voz da União Social Cristã (CSU) no Bundestag alemão, Alexander Dobrindt, de deportar refugiados ucranianos que não conseguirem emprego na Alemanha, gerou um intenso debate político e social no país.
 

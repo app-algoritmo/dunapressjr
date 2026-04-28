@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm em setembro sexto mês seguido de saldo positivo"
+title: Contas externas têm em setembro sexto mês seguido de saldo positivo
 date: 2020-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit de US$ 2,32 bi foi o maior da série histórica do BC.
 

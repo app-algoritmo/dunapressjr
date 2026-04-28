@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha estável, mas acumula alta de 1,86% na semana"
+title: Dólar fecha estável, mas acumula alta de 1,86% na semana
 date: 2021-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa não acompanha mercado externo e cai após três altas.
 

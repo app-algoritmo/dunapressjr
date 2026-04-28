@@ -1,11 +1,12 @@
 ---
-title: "Ética se ensina pelo exemplo, dizem especialistas"
+title: Ética se ensina pelo exemplo, dizem especialistas
 date: 2021-05-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O que é ética e o que é ser ético? Qualquer professor que fizer essas perguntas durante uma aula receberá respostas variadas, dependendo da idade dos estudantes, do conhecimento teórico deles sobre o assunto e do contexto ao qual eles pertencem. Nenhum conceito teórico, no entanto, seria capaz de ensinar a esses estudantes como ser uma pessoa ética na vida cotidiana. Isso só pode ser feito usando uma das armas mais importantes da Educação: o exemplo.
 

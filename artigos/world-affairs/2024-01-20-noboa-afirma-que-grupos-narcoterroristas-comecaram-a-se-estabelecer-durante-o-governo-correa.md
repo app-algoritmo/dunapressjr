@@ -1,11 +1,13 @@
 ---
-title: "Noboa afirma que grupos narcoterroristas “começaram a se estabelecer” durante o Governo Correa"
+title: Noboa afirma que grupos narcoterroristas “começaram a se estabelecer” durante
+  o Governo Correa
 date: 2024-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Equador, Daniel Noboa, [garantiu](https://www.europapress.es/internacional/noticia-noboa-asegura-grupos-criminales-empezaron-instaurarse-ecuador-mandato-correa-20240119185212.html) que durante o mandato de Rafael Correa **“começaram a se estabelecer grupos criminosos”** que nos últimos anos fizeram com que um dos países menos perigosos do continente sofresse uma das piores crises. a região.
 

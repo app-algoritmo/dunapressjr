@@ -1,11 +1,12 @@
 ---
-title: "A Importação do café venezuelano pelos Estados Unidos é a maior em 22 anos"
+title: A Importação do café venezuelano pelos Estados Unidos é a maior em 22 anos
 date: 2022-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com as informações divulgadas pelo regime de Maduro, o café venezuelano que os EUA importam corresponde a dois tipos produzidos principalmente no estado de Lara.
 

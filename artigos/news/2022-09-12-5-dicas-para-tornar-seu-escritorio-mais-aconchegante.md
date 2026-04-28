@@ -1,11 +1,12 @@
 ---
-title: "5 Dicas para tornar seu escritório mais aconchegante"
+title: 5 Dicas para tornar seu escritório mais aconchegante
 date: 2022-09-12
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Se você é como a maioria das pessoas, provavelmente passa boa parte do seu dia em um escritório. E se você não tomar cuidado, esse escritório pode começar a parecer pouco convidativo. Mas não precisa ser assim! 
 

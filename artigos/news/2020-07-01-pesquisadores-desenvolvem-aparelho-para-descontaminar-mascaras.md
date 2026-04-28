@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores desenvolvem aparelho para descontaminar máscaras"
+title: Pesquisadores desenvolvem aparelho para descontaminar máscaras
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um projeto que conta com apoio do Ministério da Ciência, Tecnologia e Inovações, pesquisadores do Instituto de Física da Universidade de Brasília desenvolveram um aparelho para descontaminar máscaras N95 que vem sendo usada por profissionais de saúde durante pandemia de Covid-19.
 

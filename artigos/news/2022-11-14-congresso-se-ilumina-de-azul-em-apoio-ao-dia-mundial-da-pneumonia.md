@@ -1,11 +1,12 @@
 ---
-title: "Congresso se ilumina de azul em apoio ao Dia Mundial da Pneumonia"
+title: Congresso se ilumina de azul em apoio ao Dia Mundial da Pneumonia
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Congresso Nacional se ilumina de azul no sábado (12) e no domingo (13) em apoio ao Dia Mundial da Pneumonia (12 de novembro). A data, proposta pela Organização Mundial de Saúde (OMS) em 2009, tem o objetivo de conscientizar as pessoas sobre a importância da prevenção à doença, que continua sendo a principal causa de morte de crianças com até 5 anos de idade, especialmente aquelas que vivem em comunidades rurais e pobres.
 

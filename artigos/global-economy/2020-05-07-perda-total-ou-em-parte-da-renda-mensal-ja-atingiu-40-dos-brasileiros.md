@@ -1,11 +1,12 @@
 ---
-title: "Perda total ou em parte da renda mensal já atingiu 40% dos brasileiros"
+title: Perda total ou em parte da renda mensal já atingiu 40% dos brasileiros
 date: 2020-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Queda do poder de compra afeta quatro em cada dez pessoas, diz CNI
 Pesquisa da Confederação Nacional da Indústria (CNI) mostra que a perda do poder de compra já atingiu quatro em cada dez brasileiros desde o início da pandemia. Do total de entrevistados, 23% perderam totalmente a renda e 17% tiveram redução no ganho mensal, atingindo o percentual de 40%.

@@ -1,11 +1,12 @@
 ---
-title: "São Paulo: Chefe da Casa Civil do Estado é ouvido por parlamentares em comissão"
+title: 'São Paulo: Chefe da Casa Civil do Estado é ouvido por parlamentares em comissão'
 date: 2020-06-20
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta-feira (19/6), a reunião da Comissão de Administração Pública e Relações do Trabalho (CAPRT) recebeu, em ambiente virtual, o secretário-chefe da Casa Civil do Estado, Antônio Carlos Rizeque Malufe, a fim de esclarecer questões demandadas por parlamentares. O deputado Marcio da Farmácia (PODE) presidiu a oitiva.
 

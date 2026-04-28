@@ -1,11 +1,13 @@
 ---
-title: "Colégio Militar do Recife apresenta projetos na 18ª Feira Brasileira De Ciências e Engenharia"
+title: Colégio Militar do Recife apresenta projetos na 18ª Feira Brasileira De Ciências
+  e Engenharia
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Recife (PE)** – A Feira Brasileira de Ciências e Engenharia (FEBRACE) é um evento organizado pela Universidade de São Paulo (USP) e que, em 2020, teve sua 18a edição. Este ano, a FEBRACE teve a participação de 345 projetos das 27 unidades da federação e de 295 escolas.
 

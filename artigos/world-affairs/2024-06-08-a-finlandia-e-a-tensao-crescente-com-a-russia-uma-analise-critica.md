@@ -1,11 +1,12 @@
 ---
-title: "A Finlândia e a Tensão Crescente com a Rússia: Uma Análise Crítica"
+title: 'A Finlândia e a Tensão Crescente com a Rússia: Uma Análise Crítica'
 date: 2024-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em outubro de 2022, um artigo intitulado "OTAN implantará mísseis nucleares na fronteira russa da Finlândia - a Finlândia diz sim", onde a decisão estratégica dos Estados Unidos de posicionar mísseis nucleares a apenas 507 milhas de Moscou através da Finlândia. Esta decisão foi facilitada pela adesão da Finlândia à OTAN, o que representa uma grande vitória para os EUA, mas um potencial desastre para a segurança finlandesa.
 

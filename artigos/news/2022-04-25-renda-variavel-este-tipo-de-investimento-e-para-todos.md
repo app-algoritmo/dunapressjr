@@ -1,11 +1,12 @@
 ---
-title: "Renda variável: este tipo de investimento é para todos?"
+title: 'Renda variável: este tipo de investimento é para todos?'
 date: 2022-04-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 A renda variável é uma modalidade de investimento mais arriscada, mas que pode oportunizar retornos financeiros mais altos. Embora financeiramente atrativa, ainda causa dúvidas nos investidores - sobretudo entre os iniciantes -  sobre quem pode investir nesses ativos. De acordo com as associações do setor financeiro, para esta resposta é preciso fazer algumas considerações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bangu Shopping promove shows gratuitos durante o feriado"
+title: Bangu Shopping promove shows gratuitos durante o feriado
 date: 2024-04-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Evento Samba na Praça acontece nos dias 20, 21 e 23 de abril.
 

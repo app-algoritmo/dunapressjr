@@ -1,11 +1,12 @@
 ---
-title: "A Crise do Dólar Americano: Impacto Global e Perspectivas Futuras"
+title: 'A Crise do Dólar Americano: Impacto Global e Perspectivas Futuras'
 date: 2024-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A estabilidade do dólar americano como moeda de reserva mundial está sendo desafiada, e as implicações são profundas e abrangentes para a economia global. Enquanto muitos na imprensa financeira continuam a seguir comunicados de imprensa, a realidade subjacente está se transformando rapidamente.
 

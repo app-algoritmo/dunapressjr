@@ -1,11 +1,12 @@
 ---
-title: "Nelson Barbudo e Carla Zambelli e a aprovação da caça esportiva"
+title: Nelson Barbudo e Carla Zambelli e a aprovação da caça esportiva
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Sessão realizada dia 15/12 demostrou o empenho dos Deputados Carla Zambelli e Nelson Barbudo em tentar garantir a aprovação do PL 5544/2020, de Nilson Stainsack.
 

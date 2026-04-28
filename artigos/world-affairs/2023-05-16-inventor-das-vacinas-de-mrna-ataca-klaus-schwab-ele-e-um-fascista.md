@@ -1,11 +1,12 @@
 ---
-title: "Inventor das vacinas de mRNA ataca Klaus Schwab: 'Ele é um fascista'"
+title: 'Inventor das vacinas de mRNA ataca Klaus Schwab: ''Ele é um fascista'''
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Imagens de uma entrevista de 2016 conduzida pelo fundador do Fórum Econômico Mundial, Klaus Schwab, com a emissora pública suíça de língua francesa RTS estão circulando na internet.
 

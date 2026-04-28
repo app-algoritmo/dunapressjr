@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal assina Acordo de Cooperação Internacional e intensifica combate às drogas"
+title: Governo Federal assina Acordo de Cooperação Internacional e intensifica combate
+  às drogas
 date: 2020-07-03
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## A iniciativa tem a finalidade de promover ações que incentivem a redução da demanda por entorpecentes.
 

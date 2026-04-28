@@ -1,11 +1,13 @@
 ---
-title: "Vacinação contra HPV é mais efetiva na infância; meninos e meninas precisam ser imunizados entre os 9 e 14 anos"
+title: Vacinação contra HPV é mais efetiva na infância; meninos e meninas precisam
+  ser imunizados entre os 9 e 14 anos
 date: 2023-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 BCG, rotavírus, tríplice bacteriana e poliomielite são algumas vacinas que são administradas na infância. Mas você sabia que o **imunizante contra o HPV** (papilomavírus humano) também deve ser aplicado nesta faixa etária? Disponibilizada gratuitamente pelo Sistema Único de Saúde (SUS), a vacina induz uma resposta imune mais robusta quando administrada em meninas e meninos entre os 9 e 14 anos de idade, e é a única capaz de proteger contra** diferentes tipos de câncer** – de ânus, vulva, vagina, pênis, orofaringe e colo de útero. Este último é o 4º câncer mais frequente em mulheres no mundo e é tema do mês de janeiro de 2023 da [campanha de conscientização](https://www.emro.who.int/noncommunicable-diseases/campaigns/cervical-cancer-awareness-month-2023.html) da Organização Mundial da Saúde (OMS).
 

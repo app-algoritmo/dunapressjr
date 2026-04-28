@@ -1,11 +1,12 @@
 ---
-title: "Vinde a mim as criancinhas"
+title: Vinde a mim as criancinhas
 date: 2020-01-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Mestre quando esteve aqui há mais de 2.000 anos nos deixou claro que precisamos resgatar e manter viva a criança que temos dentro de nós. Não se trata de ser um “bobo alegre” como alguns falam, ou mesmo ser infantil em tudo na vida, mas trazer a alegria e a pureza que uma criança tem 100% do tempo.
 

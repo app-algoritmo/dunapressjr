@@ -1,11 +1,12 @@
 ---
-title: "Entidades esperam novas reduções de juros"
+title: Entidades esperam novas reduções de juros
 date: 2019-10-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Inflação baixa e aprovação de reformas possibilitam mais cortes
 

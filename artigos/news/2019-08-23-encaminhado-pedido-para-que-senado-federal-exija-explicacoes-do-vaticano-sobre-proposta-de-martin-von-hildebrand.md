@@ -1,12 +1,14 @@
 ---
-title: "Encaminhado pedido para que Senado Federal exija explicações do Vaticano sobre proposta de Martín Von Hildebrand"
+title: Encaminhado pedido para que Senado Federal exija explicações do Vaticano sobre
+  proposta de Martín Von Hildebrand
 date: 2019-08-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## **"O Corredor Tríplice A" A antessala para a internacionalização da Amazônia.**
 

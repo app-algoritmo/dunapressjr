@@ -1,11 +1,12 @@
 ---
-title: "Empregos no turismo tiveram um crescimento de  3,2% nos meses novembro a janeiro"
+title: Empregos no turismo tiveram um crescimento de  3,2% nos meses novembro a janeiro
 date: 2020-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Foram mais de 5,6 milhões de trabalhadores atuando nos segmentos de Alojamento e Alimentação entre o fim de 2019 e o início deste ano*.
 

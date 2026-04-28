@@ -1,11 +1,12 @@
 ---
-title: "Salário mínimo para 2021 ficará em R$ 1.067"
+title: Salário mínimo para 2021 ficará em R$ 1.067
 date: 2020-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Aumento será menor que o previsto na LDO.
 

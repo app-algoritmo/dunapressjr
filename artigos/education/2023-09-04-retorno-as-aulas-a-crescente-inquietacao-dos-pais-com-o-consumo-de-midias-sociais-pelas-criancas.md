@@ -1,13 +1,15 @@
 ---
-title: "Retorno às Aulas: A Crescente Inquietação dos Pais com o Consumo de Mídias Sociais pelas Crianças"
+title: 'Retorno às Aulas: A Crescente Inquietação dos Pais com o Consumo de Mídias
+  Sociais pelas Crianças'
 date: 2023-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Health
-  - Social networks
+- Education
+- Health
+- Social networks
 ---
+
 
 ## O uso excessivo de mídias e dispositivos sociais é a principal preocupação dos pais quando as crianças voltam para a escola
 

@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança chega a US$ 3,67 bilhões em setembro, até a terceira semana"
+title: Superávit da balança chega a US$ 3,67 bilhões em setembro, até a terceira semana
 date: 2022-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Corrente de comércio no mês alcançou US$ 30,34 bilhões. No acumulado do ano, superávit é de US$ 47,55 bilhões, com corrente de comércio de US$ 436,24 bilhões.
 

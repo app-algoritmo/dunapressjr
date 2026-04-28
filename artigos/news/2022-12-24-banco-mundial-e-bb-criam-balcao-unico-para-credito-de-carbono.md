@@ -1,11 +1,12 @@
 ---
-title: "Banco Mundial e BB criam balcão único para crédito de carbono"
+title: Banco Mundial e BB criam balcão único para crédito de carbono
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Orçado em US$ 500 milhões, projeto expandirá financiamentos verdes.
 

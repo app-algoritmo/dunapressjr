@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro, a última barragem de contenção contra o comunismo na América Latina"
+title: Bolsonaro, a última barragem de contenção contra o comunismo na América Latina
 date: 2022-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Caso Jesus Villanueva tivesse residencia no Brasil, estaria sendo preso e apaleado nos calabouços da Gestapo brasileira liderada pelo advogado do narcotráfico Alexandre de Moraes com a conivência de milhões de contribuintes, apenas por "expor" as verdades...// - (Fd. Paulo Barros)   
 

@@ -1,11 +1,12 @@
 ---
-title: "Fundação oferece capacitação gratuita a profissionais de limpeza de hospitais"
+title: Fundação oferece capacitação gratuita a profissionais de limpeza de hospitais
 date: 2021-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Fundação de Asseio e Conservação, Serviços Especializados e Facilities (Facop) liberou acesso gratuito a seu curso a distância de limpeza hospitalar, disponível no site da Universidade Corporativa Facop. Até o fim de abril, os interessados poderão assistir às aulas, que ensinam técnicas adequadas para realizar a limpeza profissional em unidades de saúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dia Universal da Criança"
+title: Dia Universal da Criança
 date: 2018-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 20 de novembro é o Dia Universal da Criança, data reconhecida pela ONU como tal por uma questão simbólica: foi nesta data que em 1959 foi aprovada a **Declaração Universal dos Direitos da Criança**, e em 1989 a **Convenção dos Direitos da Criança**.
 

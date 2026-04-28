@@ -1,11 +1,12 @@
 ---
-title: "Índice de Preços ao Produtor (IPP) varia -0,30% em fevereiro"
+title: Índice de Preços ao Produtor (IPP) varia -0,30% em fevereiro
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses a variação foi de 1,38%.
 

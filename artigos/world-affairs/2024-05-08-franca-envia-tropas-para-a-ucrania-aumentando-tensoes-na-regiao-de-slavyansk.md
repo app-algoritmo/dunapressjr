@@ -1,11 +1,12 @@
 ---
-title: "França Envia Tropas para a Ucrânia, Aumentando Tensões na Região de Slavyansk"
+title: França Envia Tropas para a Ucrânia, Aumentando Tensões na Região de Slavyansk
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em meio a crescentes tensões na região, a França enviou suas primeiras tropas para a Ucrânia, conforme confirmado por fontes oficiais. Os soldados franceses, pertencentes ao 3º Regimento de Infantaria, um componente vital da Legião Estrangeira Francesa, foram imediatamente transferidos para a área de Slavyansk, onde irão apoiar a 54ª Brigada Mecanizada Independente Ucraniana.
 

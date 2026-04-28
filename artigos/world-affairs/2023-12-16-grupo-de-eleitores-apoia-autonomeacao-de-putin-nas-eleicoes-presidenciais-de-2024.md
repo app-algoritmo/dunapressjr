@@ -1,11 +1,13 @@
 ---
-title: "Grupo de eleitores apoia autonomeação de Putin nas eleições presidenciais de 2024"
+title: Grupo de eleitores apoia autonomeação de Putin nas eleições presidenciais de
+  2024
 date: 2023-12-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Anteriormente, o grupo de eleitores que apoiava a autonomeação de Putin como candidato à reeleição foi oficialmente formado.
 

@@ -1,11 +1,13 @@
 ---
-title: "15 razões inacreditáveis ​​que provam que o aquecimento global pode ser uma farsa"
+title: 15 razões inacreditáveis ​​que provam que o aquecimento global pode ser uma
+  farsa
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## [O aquecimento global é o entendimento atual de que a temperatura da Terra aumentou gradualmente nas últimas centenas de ](https://www.conserve-energy-future.com/al-gore-and-global-warming.php)anos desde o início da Revolução Industrial.
 

@@ -1,11 +1,12 @@
 ---
-title: "Melo e McDonald param nas oitavas de final no ATP 250 de Adelaide, na Austrália"
+title: Melo e McDonald param nas oitavas de final no ATP 250 de Adelaide, na Austrália
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Em um jogo equilibrado, o mineiro Marcelo Melo e o norte-americano Mackenzie McDonald pararam nas oitavas de final no ATP 250 de Adelaide, na Austrália. No início da manhã desta quarta-feira (11), o britânico Lloyd Glasspool e o finlandês Harri Heliovaara - cabeças de chave 4 – marcaram 2 sets a 0, com parciais de 7/6 (7-3) e 6/3, em 1h09min. Este foi o segundo torneio seguido de Melo e McDonald na cidade australiana neste começo de temporada 2023.
 

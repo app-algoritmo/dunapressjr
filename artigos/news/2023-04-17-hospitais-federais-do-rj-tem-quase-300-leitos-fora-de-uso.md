@@ -1,11 +1,12 @@
 ---
-title: "Hospitais federais do RJ têm quase 300 leitos fora de uso"
+title: Hospitais federais do RJ têm quase 300 leitos fora de uso
 date: 2023-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério pretende reestruturar unidades.
 

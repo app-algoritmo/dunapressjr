@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores do Ceará estudam os impactos da COVID-19 em pacientes com morbidades"
+title: Pesquisadores do Ceará estudam os impactos da COVID-19 em pacientes com morbidades
 date: 2020-08-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um dos projetos da Universidade Federal do Ceará ([UFC](http://www.ufc.br/)), selecionados para o [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pretende mostrar os efeitos da COVID-19 em pacientes com doenças crônicas pré-existentes.
 

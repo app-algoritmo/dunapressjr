@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que muda as regras para incidência de taxa cobrada pelo Ibama"
+title: Comissão aprova proposta que muda as regras para incidência de taxa cobrada
+  pelo Ibama
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou o [Projeto de Lei 10273/18](https://www.camara.leg.br/noticias/546379-PROPOSTA-MUDA-REGRAS-PARA-INCIDENCIA-DE-TAXA-COBRADA-PELO-IBAMA), que altera a incidência da Taxa de Controle e Fiscalização Ambiental (TCFA).
 

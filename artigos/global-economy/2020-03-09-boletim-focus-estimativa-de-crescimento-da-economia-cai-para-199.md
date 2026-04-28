@@ -1,11 +1,12 @@
 ---
-title: "Boletim Focus: estimativa de crescimento da economia cai para 1,99%"
+title: 'Boletim Focus: estimativa de crescimento da economia cai para 1,99%'
 date: 2020-03-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 É a quarta redução consecutiva; projeção para a inflação aumenta
 

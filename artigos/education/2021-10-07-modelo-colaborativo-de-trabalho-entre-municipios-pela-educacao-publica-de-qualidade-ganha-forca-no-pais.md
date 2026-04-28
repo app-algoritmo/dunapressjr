@@ -1,11 +1,13 @@
 ---
-title: "Modelo colaborativo de trabalho entre municípios pela Educação pública de qualidade ganha força no país"
+title: Modelo colaborativo de trabalho entre municípios pela Educação pública de qualidade
+  ganha força no país
 date: 2021-10-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Material explica passo a passo para implantação de Arranjos de Desenvolvimento da Educação.
 

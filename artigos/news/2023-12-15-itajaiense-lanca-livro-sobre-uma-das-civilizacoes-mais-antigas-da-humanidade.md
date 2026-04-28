@@ -1,11 +1,12 @@
 ---
-title: "Itajaíense lança livro sobre uma das civilizações mais antigas da humanidade"
+title: Itajaíense lança livro sobre uma das civilizações mais antigas da humanidade
 date: 2023-12-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Caminhos do Passado: História e Mitologia dos Sumérios, é uma jornada fascinante ao passado.
 

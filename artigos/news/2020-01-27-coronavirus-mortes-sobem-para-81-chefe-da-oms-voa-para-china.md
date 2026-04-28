@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: mortes sobem para 81, chefe da OMS voa para China"
+title: 'Coronavírus: mortes sobem para 81, chefe da OMS voa para China'
 date: 2020-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Primeiro-ministro Li Keqiang visita Wuhan
 

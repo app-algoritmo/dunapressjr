@@ -1,11 +1,12 @@
 ---
-title: "Aprendizado dos jovens em quarentena pelo portal Ciência em Casa"
+title: Aprendizado dos jovens em quarentena pelo portal Ciência em Casa
 date: 2020-05-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## No site, é possível encontrar temas como coronavírus, biologia, saúde, astronomia, física, química, matemática e atualidades.
 

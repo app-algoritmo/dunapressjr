@@ -1,11 +1,13 @@
 ---
-title: "Administração Biden Pondera Declarar Emergência Climática Nacional, Relata Bloomberg"
+title: Administração Biden Pondera Declarar Emergência Climática Nacional, Relata
+  Bloomberg
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A administração Biden está considerando a possibilidade de declarar uma emergência climática nacional, conforme relata a Bloomberg. Esta medida, descrita como "sem precedentes", poderia conceder poderes federais para conter o desenvolvimento do petróleo e estimular o voto pelo correio, entre outras implicações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão Europeia Inicia Investigação Formal sobre o TikTok por Possíveis Violações"
+title: Comissão Europeia Inicia Investigação Formal sobre o TikTok por Possíveis Violações
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão Europeia anunciou nesta segunda-feira o lançamento de uma investigação formal contra o popular aplicativo de compartilhamento de vídeos TikTok, de propriedade da empresa chinesa ByteDance. O foco da investigação é determinar se a plataforma violou as disposições da recente Lei dos Serviços Digitais (DSA), com especial atenção para sua análise algorítmica e medidas de proteção para os usuários mais jovens.
 

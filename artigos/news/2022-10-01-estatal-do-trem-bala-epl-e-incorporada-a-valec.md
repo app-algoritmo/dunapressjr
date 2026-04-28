@@ -1,11 +1,12 @@
 ---
-title: "Estatal do trem-bala, EPL é incorporada à Valec"
+title: Estatal do trem-bala, EPL é incorporada à Valec
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decisão faz total de empresas federais cair para 178.
 

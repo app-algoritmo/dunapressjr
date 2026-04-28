@@ -1,11 +1,12 @@
 ---
-title: "FNDE oferece serviços ao cidadão em www.gov.br"
+title: FNDE oferece serviços ao cidadão em www.gov.br
 date: 2020-05-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 *Medida visa dar mais transparência, economia, eficácia e rapidez ao andamento dos processos da autarquia*
 

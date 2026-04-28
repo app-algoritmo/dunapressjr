@@ -1,11 +1,12 @@
 ---
-title: "Serviço de disparos para celulares alcança todo o Brasil"
+title: Serviço de disparos para celulares alcança todo o Brasil
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Defesa Civil Nacional está enviando, por meio do sistema de alertas de desastres naturais por SMS, avisos e orientações à população para o combate à proliferação do novo coronavírus (Covid-19). Até a sexta-feira (20), 47 alertas foram emitidos pelas defesas civis locais e geraram o envio de 29 milhões de mensagens para celulares cadastrados no Distrito Federal e nos estados de São Paulo, Mato Grosso do Sul, Paraná, Santa Catarina e Rio de Janeiro.
 O serviço é coordenado pelo Ministério do Desenvolvimento Regional (MDR), por meio do Centro Nacional de Gerenciamento de Riscos e Desastres (Cenad), e está disponível para estados e municípios de todo o Brasil.

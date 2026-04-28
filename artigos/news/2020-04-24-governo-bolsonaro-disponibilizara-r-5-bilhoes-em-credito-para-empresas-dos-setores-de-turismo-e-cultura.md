@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro disponibilizará R$ 5 bilhões em crédito para empresas dos setores de turismo e cultura"
+title: Governo Bolsonaro disponibilizará R$ 5 bilhões em crédito para empresas dos
+  setores de turismo e cultura
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro do Turismo, Marcelo Álvaro Antônio, anunciou nesta quarta-feira (22) que o Governo Federal destinará R$ 5 bilhões em crédito a empresas dos setores do Turismo e da Cultura no período da pandemia do coronavírus. O recurso, que já foi solicitado ao Ministério da Economia por meio de medida provisória, irá auxiliar o capital de giro das micro, pequenas, médias e grandes empresas, além de resguardar milhões de empregos no País. 
 

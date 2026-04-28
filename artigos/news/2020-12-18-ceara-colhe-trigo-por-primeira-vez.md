@@ -1,11 +1,12 @@
 ---
-title: "Ceará colhe trigo por primeira vez"
+title: Ceará colhe trigo por primeira vez
 date: 2020-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em um projeto experimental realizado pela Embrapa, o desempenho das lavouras chegou a 5,3 toneladas por hectare
 

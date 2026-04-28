@@ -1,11 +1,12 @@
 ---
-title: "TSE: partidos devem seguir mesmas coligações para governo e Senado"
+title: 'TSE: partidos devem seguir mesmas coligações para governo e Senado'
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decisão foi motivada por consulta feita por deputado federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pátria Voluntária estende campanha do agasalho"
+title: Pátria Voluntária estende campanha do agasalho
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Podem ser doados cobertores, mantas, agasalhos, roupas e sapatos em geral. Doações podem ser feitas até 20 de julho.
 

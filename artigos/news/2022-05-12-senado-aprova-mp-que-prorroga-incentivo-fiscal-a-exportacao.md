@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova MP que prorroga incentivo fiscal à exportação"
+title: Senado aprova MP que prorroga incentivo fiscal à exportação
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Matéria vai à sanção presidencial.
 

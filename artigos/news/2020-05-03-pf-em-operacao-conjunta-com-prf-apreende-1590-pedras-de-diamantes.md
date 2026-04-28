@@ -1,11 +1,12 @@
 ---
-title: "PF, em operação conjunta com PRF, apreende 1590 pedras de diamantes"
+title: PF, em operação conjunta com PRF, apreende 1590 pedras de diamantes
 date: 2020-05-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vilhena/RO - A Polícia Federal (PF), em ação conjunta com a Polícia Rodoviária Federal (PRF) realizou um flagrante de transporte ilegal de pedras preciosas, na tarde da sexta-feira (1/5).
 

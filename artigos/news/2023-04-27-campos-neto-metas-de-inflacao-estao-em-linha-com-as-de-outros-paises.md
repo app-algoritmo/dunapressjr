@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto: metas de inflação estão em linha com as de outros países"
+title: 'Campos Neto: metas de inflação estão em linha com as de outros países'
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BC participou de sessão de debates no Senado.
 

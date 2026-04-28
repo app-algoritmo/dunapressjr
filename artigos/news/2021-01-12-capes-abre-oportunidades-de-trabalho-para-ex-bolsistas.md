@@ -1,11 +1,12 @@
 ---
-title: "Capes abre oportunidades de trabalho para ex-bolsistas"
+title: Capes abre oportunidades de trabalho para ex-bolsistas
 date: 2021-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) com formação plena no exterior terão maiores chances de retornar ao Brasil com o novo aplicativo da Fundação, o Talentos Capes. A ferramenta criará um cadastro de informações com a formação e os contatos dos pesquisadores, que poderá ser consultado pelos interessados, com o objetivo de aumentar as oportunidades de inserção.
 

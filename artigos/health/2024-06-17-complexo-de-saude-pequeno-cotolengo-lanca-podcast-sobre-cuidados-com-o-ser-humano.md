@@ -1,11 +1,13 @@
 ---
-title: "Complexo de Saúde Pequeno Cotolengo lança podcast sobre cuidados com o ser humano"
+title: Complexo de Saúde Pequeno Cotolengo lança podcast sobre cuidados com o ser
+  humano
 date: 2024-06-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Grandes Conversas do Pequeno Cotolengo estará disponível nas principais plataformas de streaming.
 

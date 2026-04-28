@@ -1,11 +1,12 @@
 ---
-title: "Domingo, Dia de Controle Remoto"
+title: Domingo, Dia de Controle Remoto
 date: 2022-07-31
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Domingo chegou e você não quer sair de casa, quer ficar no sofá com o controle remoto na mão. – Eu garanto não existe coisa melhor do que ficar literalmente jiboiando no sofá. Agora vamos ao cardápio, temos Netflix, Amazon Prime, HBO Max. Hora de escolher um filme ou série para ver. – Tem coisas que você nem conseguiu ver na estreia porque esteve ocupado ou ocupada. – Não se preocupe vou te dar algumas boas dicas. – Gosto muito de aventuras e se tiver uma caça ao tesouro, mapas, enigmas a serem respondidos melhor ainda. No HBO Max vou vai encontrar o filme:
 

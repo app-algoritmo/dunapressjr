@@ -1,12 +1,13 @@
 ---
-title: "17 de Maio: O Dia Nacional da Noruega"
+title: '17 de Maio: O Dia Nacional da Noruega'
 date: 2024-05-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Magazine
+- Culture and History
+- Magazine
 ---
+
 
 O dia 17 de maio é uma data de extrema importância para a Noruega, conhecido como "Syttende Mai" ou "Grunnlovsdagen" (Dia da Constituição). Este feriado nacional celebra a adoção da Constituição norueguesa em 1814, que foi um marco significativo na história do país, simbolizando a sua independência e autodeterminação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dívidas com o Finam e o Finor já podem ser renegociadas"
+title: Dívidas com o Finam e o Finor já podem ser renegociadas
 date: 2021-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Meta é atender mais de 1,7 mil empresas, que poderão voltar a tomar crédito e gerar novos negócios e empregos.
 

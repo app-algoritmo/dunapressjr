@@ -1,11 +1,12 @@
 ---
-title: "Equador declara estado de emergência após assassinato de candidato presidencial"
+title: Equador declara estado de emergência após assassinato de candidato presidencial
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ##  O período declarado é de 60 dias. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Um corpo pode ser controlado remotamente por modificações transgênicas de DNA"
+title: Um corpo pode ser controlado remotamente por modificações transgênicas de DNA
 date: 2023-08-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## *O controle remoto das funções corporais pode ser possibilitado por modificações transgênicas do DNA*.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobre para R$ 4,91 e atinge maior valor em três semanas"
+title: Dólar sobre para R$ 4,91 e atinge maior valor em três semanas
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa cai pela quinta sessão consecutiva.
 

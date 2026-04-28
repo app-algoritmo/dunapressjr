@@ -1,11 +1,13 @@
 ---
-title: "Índice Nacional de Custo da Construção apresenta desaceleração em julho de 2023"
+title: Índice Nacional de Custo da Construção apresenta desaceleração em julho de
+  2023
 date: 2023-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de variação em 12 meses fica em 3,15%, segundo Instituto Brasileiro de Economia da FGV. 
 

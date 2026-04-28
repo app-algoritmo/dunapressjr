@@ -1,11 +1,12 @@
 ---
-title: "Orbán elogia Trump como 'presidente da paz' durante encontro em Mar-a-Lago"
+title: Orbán elogia Trump como 'presidente da paz' durante encontro em Mar-a-Lago
 date: 2024-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro da Hungria, Viktor Orbán, emitiu elogios efusivos ao ex-presidente dos Estados Unidos, Donald Trump, durante uma reunião na residência de Trump em Mar-a-Lago, na Flórida. Orbán, descrevendo Trump como o "presidente da paz", destacou suas realizações durante o mandato presidencial, enfatizando a estabilidade no Médio Oriente e na Ucrânia.
 

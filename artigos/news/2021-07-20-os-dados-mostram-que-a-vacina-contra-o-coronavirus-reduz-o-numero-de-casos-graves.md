@@ -1,11 +1,13 @@
 ---
-title: "Os dados mostram que a vacina contra o coronavírus reduz o número de casos graves"
+title: Os dados mostram que a vacina contra o coronavírus reduz o número de casos
+  graves
 date: 2021-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Dados iniciais do Ministério da Saúde mostram que a porcentagem de casos graves foi reduzida quase pela metade.
 

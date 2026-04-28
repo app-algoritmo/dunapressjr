@@ -1,11 +1,12 @@
 ---
-title: "Preços da indústria sobem 1,83% em maio, diz IBGE"
+title: Preços da indústria sobem 1,83% em maio, diz IBGE
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice acumula taxas de 9,06% no ano e de 19,15% em 12 meses.
 

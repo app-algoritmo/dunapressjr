@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona Orçamento de 2023 com vetos"
+title: Governo sanciona Orçamento de 2023 com vetos
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (17) a Lei Orçamentária Anual (LOA) para este ano ([Lei 14.535, de 2023](http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14535.htm)). Ele vetou um total de R$ 4,266 bilhões em despesas propostas, além do provimento de 512 cargos federais.
 

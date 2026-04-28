@@ -1,11 +1,12 @@
 ---
-title: "BNDES tem lucro de R$ 8,73 bilhões no terceiro trimestre"
+title: BNDES tem lucro de R$ 8,73 bilhões no terceiro trimestre
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Negociação de ações contribuiu para resultado positivo no período.
 

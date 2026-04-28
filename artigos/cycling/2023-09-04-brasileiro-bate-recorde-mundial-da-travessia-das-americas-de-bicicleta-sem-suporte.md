@@ -1,12 +1,14 @@
 ---
-title: "Brasileiro bate recorde mundial da Travessia das Américas de bicicleta, sem suporte"
+title: Brasileiro bate recorde mundial da Travessia das Américas de bicicleta, sem
+  suporte
 date: 2023-09-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Cicloturista Leandro Carlos da Silva, o "Leo Pedalando pelo Mundo", concluiu 22,4 mil km em 95 dias, 16 horas e 57 minutos. Ele iniciou a aventura em Prudhoe Bay, no Alaska, e finalizou neste sábado (2) à noite em Ushuaia, na Argentina, com apoio da Shimano, Sense e Swift Bicycles.
 

@@ -1,11 +1,13 @@
 ---
-title: "Inflação da Páscoa: Itens sobem o triplo, mesmo com início de desaceleração de custos"
+title: 'Inflação da Páscoa: Itens sobem o triplo, mesmo com início de desaceleração
+  de custos'
 date: 2023-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A inflação acumulada entre abril de 2022 e março deste ano foi de 4,81%.
 

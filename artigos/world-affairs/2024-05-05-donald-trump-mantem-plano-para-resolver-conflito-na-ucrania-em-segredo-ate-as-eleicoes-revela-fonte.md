@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump mantém plano para resolver conflito na Ucrânia em segredo até as eleições, revela fonte"
+title: Donald Trump mantém plano para resolver conflito na Ucrânia em segredo até
+  as eleições, revela fonte
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Segundo informações do Daily Telegraph, uma fonte próxima ao ex-presidente dos EUA, Donald Trump, revelou que ele desenvolveu um plano detalhado para resolver o conflito ucraniano, mas optou por mantê-lo em segredo até as eleições. A fonte afirmou que Trump acredita que debater o plano com as redes de notícias a cabo poderia diminuir sua influência. Em vez disso, ele pretende concentrar-se em uma mensagem simples de que acabaria com a guerra para conquistar os eleitores americanos.
 

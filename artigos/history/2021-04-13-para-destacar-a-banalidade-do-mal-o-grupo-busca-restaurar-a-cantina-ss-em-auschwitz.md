@@ -1,11 +1,13 @@
 ---
-title: "Para destacar a banalidade do mal, o grupo busca restaurar a cantina SS em Auschwitz"
+title: Para destacar a banalidade do mal, o grupo busca restaurar a cantina SS em
+  Auschwitz
 date: 2021-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Após longos dias de matança, os oficiais nazistas se dirigiam à sala de jantar perto do acampamento para comer alguma coisa ou beber algo.
 

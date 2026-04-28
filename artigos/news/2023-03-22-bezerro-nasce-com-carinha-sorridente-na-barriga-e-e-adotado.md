@@ -1,12 +1,13 @@
 ---
-title: "Bezerro nasce com ‘carinha sorridente’ na barriga e é adotado"
+title: Bezerro nasce com ‘carinha sorridente’ na barriga e é adotado
 date: 2023-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O animal teve sua história mudada graças a uma marca de nascença
 Happy escapou de ir para o abatedouro e poderá viver livremente pela fazenda

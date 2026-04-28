@@ -1,11 +1,12 @@
 ---
-title: "Pandemia alimentada artificialmente através da liberação de cepas atualizadas"
+title: Pandemia alimentada artificialmente através da liberação de cepas atualizadas
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Igor Kirillov também observou que os Estados Unidos continuam a envolver órgãos estatais sem relação com a saúde nos trabalhos de programas biológicos militares.
 

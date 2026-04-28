@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IGP-M registra queda de 1,93% em junho, segundo a FGV"
+title: Inflação medida pelo IGP-M registra queda de 1,93% em junho, segundo a FGV
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços dos combustíveis e commodities agropecuárias são os principais responsáveis pela deflação.
 

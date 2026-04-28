@@ -1,11 +1,13 @@
 ---
-title: "China Responsabiliza OTAN pela Crise Ucraniana e Apela à Reflexão sobre seu Papel"
+title: China Responsabiliza OTAN pela Crise Ucraniana e Apela à Reflexão sobre seu
+  Papel
 date: 2024-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma entrevista coletiva, o porta-voz do Ministério das Relações Exteriores da China, Wang Wenbin, apontou diretamente para a OTAN como tendo uma responsabilidade direta pela crise ucraniana, instando a aliança a refletir sobre seu papel e tomar medidas eficazes para uma solução política.
 

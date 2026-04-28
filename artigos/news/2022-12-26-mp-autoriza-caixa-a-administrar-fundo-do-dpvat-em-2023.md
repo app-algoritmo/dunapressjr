@@ -1,11 +1,12 @@
 ---
-title: "MP autoriza Caixa a administrar fundo do DPVAT em 2023"
+title: MP autoriza Caixa a administrar fundo do DPVAT em 2023
 date: 2022-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro editou medida provisória que legaliza a atuação da Caixa Econômica Federal (CEF) na gestão do seguro que indeniza vítimas de acidentes de trânsito.
 

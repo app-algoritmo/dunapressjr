@@ -1,11 +1,12 @@
 ---
-title: "Os cidadãos se defendem contra os perigos da vigilância da cidade inteligente"
+title: Os cidadãos se defendem contra os perigos da vigilância da cidade inteligente
 date: 2023-07-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Um dos principais impulsionadores da transformação de cidades inteligentes é a rede nacional de Conselhos de Governo (COGs) que praticam a regionalização de tecnologias de cidades inteligentes. O CPV também inclui as Organizações de Política Metropolitana (MPOs). Esses órgãos inconstitucionais, todos organizações não governamentais (ONGs) sem fins lucrativos, pressionaram as cidades e condados do país a promulgar uma infinidade de programas de cidades inteligentes. *
 

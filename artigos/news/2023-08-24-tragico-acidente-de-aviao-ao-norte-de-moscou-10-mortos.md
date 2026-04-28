@@ -1,11 +1,12 @@
 ---
-title: "Trágico Acidente de Avião ao Norte de Moscou: 10 Mortos"
+title: 'Trágico Acidente de Avião ao Norte de Moscou: 10 Mortos'
 date: 2023-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 As autoridades russas confirmaram que Yevgeny Prigozhin, chefe do Grupo Wagner que liderou um motim contra o exército russo em junho, estava a bordo de um avião que caiu perto de Moscou. O ministério de situações de emergência da Rússia disse que todas as 10 pessoas a bordo morreram.
 

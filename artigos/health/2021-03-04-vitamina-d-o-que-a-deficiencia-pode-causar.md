@@ -1,11 +1,12 @@
 ---
-title: "Vitamina D, o que a deficiência pode causar?"
+title: Vitamina D, o que a deficiência pode causar?
 date: 2021-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Responsável por metabolizar o cálcio e o fósforo no nosso organismo, a vitamina D é essencial para a saúde dos ossos. Aproximadamente 80% da necessidade diária pode ser adquirida pela exposição diária ao sol, e 20% pela ingestão alimentar. São fonte de vitamina D alimentos de origem animal, como leite e seus derivados (queijo, iogurte), além de fígado e peixes de águas profundas como salmão e atum.
 

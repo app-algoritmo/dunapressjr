@@ -1,11 +1,13 @@
 ---
-title: "Senador do Nebraska, Mike McDonnell, Troca de Partido de Democrata para Republicano Após Censura"
+title: Senador do Nebraska, Mike McDonnell, Troca de Partido de Democrata para Republicano
+  Após Censura
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O senador estadual do Nebraska, Mike McDonnell, anteriormente afiliado ao Partido Democrata, anunciou nesta quarta-feira sua decisão de se juntar formalmente ao Partido Republicano. Esta mudança ocorre logo após McDonnell ter sido censurado pelo Partido Democrata no mês passado por votar em alinhamento com os republicanos em questões relacionadas aos "direitos reprodutivos" e ao lobby trans
 

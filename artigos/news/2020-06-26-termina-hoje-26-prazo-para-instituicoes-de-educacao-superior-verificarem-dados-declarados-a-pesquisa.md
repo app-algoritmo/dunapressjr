@@ -1,11 +1,13 @@
 ---
-title: "Termina hoje (26) prazo para instituições de educação superior verificarem dados declarados à pesquisa"
+title: Termina hoje (26) prazo para instituições de educação superior verificarem
+  dados declarados à pesquisa
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O período de verificação dos dados do Censo da Educação Superior 2019 no Sistema Censup termina nesta ‪sexta-feira, 26 de junho, às 23h59 (horário de Brasília). A atribuição é do pesquisador institucional, que representa as instituições de educação superior, públicas e privadas, junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). O período de verificação da consistência, conferência, ajustes, validação dos dados coletados e envio das justificativas de dados inconsistentes começou em 8 de junho.
 

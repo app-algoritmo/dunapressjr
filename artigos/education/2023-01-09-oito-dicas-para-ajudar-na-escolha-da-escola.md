@@ -1,11 +1,12 @@
 ---
-title: "Oito dicas para ajudar na escolha da escola"
+title: Oito dicas para ajudar na escolha da escola
 date: 2023-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Entrada na vida escolar, mudança de bairro ou de cidade, encerramento de uma fase escolar e questões financeiras são alguns dos motivos que levam os pais a procurarem uma nova escola para os filhos. Seja na educação infantil, no ensino fundamental ou médio, essa tarefa não é nada fácil e requer um olhar atento por parte da família, pois o espaço escolhido será o “segundo lar” do estudante.
 

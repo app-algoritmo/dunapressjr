@@ -1,11 +1,13 @@
 ---
-title: "Superávit da balança comercial chega a US$ 3,58 bilhões até a segunda semana de agosto"
+title: Superávit da balança comercial chega a US$ 3,58 bilhões até a segunda semana
+  de agosto
 date: 2021-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio atinge US$ 20,76 bilhões no período; no acumulado do ano, saldo positivo é de US$ 47,94 bilhões, com corrente de comércio de US$ 299,70 bilhões.
 

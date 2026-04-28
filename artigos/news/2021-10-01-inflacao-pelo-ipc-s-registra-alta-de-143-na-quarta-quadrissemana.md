@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IPC-S registra alta de 1,43% na quarta quadrissemana"
+title: Inflação pelo IPC-S registra alta de 1,43% na quarta quadrissemana
 date: 2021-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As taxas avançaram em cinco das oito classes de despesa do indicador.
 

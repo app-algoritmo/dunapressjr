@@ -1,11 +1,12 @@
 ---
-title: "Serviços de streaming entram em pacote de benefícios de empresas"
+title: Serviços de streaming entram em pacote de benefícios de empresas
 date: 2021-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Entretenimento seguro é estratégia de RH para reduzir estresse, unir a família e garantir concentração no trabalho em home office.
 

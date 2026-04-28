@@ -1,11 +1,12 @@
 ---
-title: "Indústria brasileira cresce 0,4% de dezembro para janeiro"
+title: Indústria brasileira cresce 0,4% de dezembro para janeiro
 date: 2021-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor teve expansão de 0,8% na média móvel trimestral.
 

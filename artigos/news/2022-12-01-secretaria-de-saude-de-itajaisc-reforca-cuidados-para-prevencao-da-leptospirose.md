@@ -1,11 +1,12 @@
 ---
-title: "Secretaria de Saúde de Itajaí/SC reforça cuidados para prevenção da leptospirose"
+title: Secretaria de Saúde de Itajaí/SC reforça cuidados para prevenção da leptospirose
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em decorrência das fortes chuvas que atingiram Itajaí e região nos últimos dias, a Secretaria de Saúde de Itajaí, por meio da Diretoria de Vigilância Epidemiológica e Gerência de Controle de Zoonoses, alerta para o risco de transmissão da leptospirose e orienta a população sobre as medidas para prevenir a doença. Causada por uma bactéria presente na urina dos ratos, a doença é grave e pode levar a óbito. A orientação é que, em caso de alagamentos, os moradores evitem contato com a água e lama.
 

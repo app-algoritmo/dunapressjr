@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,16 com mercado externo e Copom"
+title: Dólar cai para R$ 5,16 com mercado externo e Copom
 date: 2021-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa desacelerou no fim da tarde e fechou com alta de 0,59%.
 

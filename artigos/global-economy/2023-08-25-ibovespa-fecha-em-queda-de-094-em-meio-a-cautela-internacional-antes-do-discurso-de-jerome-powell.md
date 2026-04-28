@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em queda de 0,94% em meio a cautela internacional antes do discurso de Jerome Powell"
+title: Ibovespa fecha em queda de 0,94% em meio a cautela internacional antes do discurso
+  de Jerome Powell
 date: 2023-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Mercado acumula realização de lucros após recente alta e acompanha atentamente as movimentações externas antes das declarações do chair do Federal Reserve.
 

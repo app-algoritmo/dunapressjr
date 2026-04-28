@@ -1,11 +1,12 @@
 ---
-title: "Entidades do setor produtivo criticam alta da Selic"
+title: Entidades do setor produtivo criticam alta da Selic
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para CNI, elevação diminuirá produção, consumo e emprego.
 

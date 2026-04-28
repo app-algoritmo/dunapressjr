@@ -1,11 +1,12 @@
 ---
-title: "Lag B'Omer: 45 mortos e 150 feridos durante a manifestação no Monte Meron"
+title: 'Lag B''Omer: 45 mortos e 150 feridos durante a manifestação no Monte Meron'
 date: 2021-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pelo menos 45 pessoas foram mortas e mais de 150 feridas - muitas das quais estão em estado crítico - na noite de quinta para sexta-feira, pouco antes da 1h, durante o comício Lag B'Omer no Monte Meron, no norte de Israel, em um multidão. O primeiro-ministro Benjamin Netanyahu chamou o incidente de "desastre terrível" e foi para lá, acompanhado pelo ministro da Segurança Interna, Amir Ohana, na manhã desta sexta-feira. Ele disse que o domingo seria um dia nacional de luto.
 

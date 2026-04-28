@@ -1,11 +1,12 @@
 ---
-title: "Comissão debate parceria acionária do Brasil na TAP"
+title: Comissão debate parceria acionária do Brasil na TAP
 date: 2023-09-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Turismo da Câmara dos Deputados debate nesta quarta-feira (13) a possibilidade de parceria acionária do Brasil com a TAP (Transporte Aéreo Portuguesa).  Hoje, a TAP é uma empresa estatal, e o governo português tem planos de vendê-la. O debate foi solicitado pelo deputado Washington Quaquá (PT-RJ).
 

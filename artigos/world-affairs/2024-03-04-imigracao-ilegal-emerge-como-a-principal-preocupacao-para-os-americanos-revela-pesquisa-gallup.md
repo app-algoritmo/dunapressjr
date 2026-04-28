@@ -1,11 +1,13 @@
 ---
-title: "Imigração ilegal emerge como a principal preocupação para os americanos, revela pesquisa Gallup"
+title: Imigração ilegal emerge como a principal preocupação para os americanos, revela
+  pesquisa Gallup
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 De acordo com a última pesquisa Gallup, a imigração ilegal se tornou a questão mais premente e crucial para os americanos, ultrapassando preocupações relacionadas ao governo ou à economia em geral.
 

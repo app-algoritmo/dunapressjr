@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,31 com otimismo por posse de Biden"
+title: Dólar cai para R$ 5,31 com otimismo por posse de Biden
 date: 2021-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa descolou-se do exterior e caiu por segundo dia seguido.
 

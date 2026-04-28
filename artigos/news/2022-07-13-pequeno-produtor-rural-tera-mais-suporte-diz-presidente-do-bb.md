@@ -1,11 +1,12 @@
 ---
-title: "Pequeno produtor rural terá mais suporte, diz presidente do BB"
+title: Pequeno produtor rural terá mais suporte, diz presidente do BB
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fausto Ribeiro concedeu entrevista ao programa Repórter Nacional.
 

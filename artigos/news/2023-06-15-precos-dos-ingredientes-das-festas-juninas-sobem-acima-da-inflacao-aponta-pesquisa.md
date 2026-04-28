@@ -1,11 +1,13 @@
 ---
-title: "Preços dos ingredientes das festas juninas sobem acima da inflação, aponta pesquisa"
+title: Preços dos ingredientes das festas juninas sobem acima da inflação, aponta
+  pesquisa
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento do FGV IBRE revela aumento médio de 11,41% nos últimos 12 meses, enquanto inflação ao consumidor registra apenas 3,75% no mesmo período.
 

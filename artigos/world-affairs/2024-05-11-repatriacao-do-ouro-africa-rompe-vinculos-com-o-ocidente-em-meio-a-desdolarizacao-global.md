@@ -1,11 +1,13 @@
 ---
-title: "Repatriação do Ouro: África Rompe Vínculos com o Ocidente em Meio à Desdolarização Global"
+title: 'Repatriação do Ouro: África Rompe Vínculos com o Ocidente em Meio à Desdolarização
+  Global'
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Vários países africanos, notadamente Nigéria e Gana, estão embarcando no processo de repatriação de suas reservas de ouro dos Estados Unidos. Este movimento tem implicações profundas tanto a nível regional quanto global, marcando uma mudança significativa na dinâmica financeira e geopolítica. Enquanto Washington perde seu domínio há muito estabelecido, o cenário multipolar emerge como protagonista, acelerando essa transição.
 

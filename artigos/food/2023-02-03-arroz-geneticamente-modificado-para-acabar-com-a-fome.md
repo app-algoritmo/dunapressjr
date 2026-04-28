@@ -1,11 +1,12 @@
 ---
-title: "Arroz geneticamente modificado para acabar com a fome"
+title: Arroz geneticamente modificado para acabar com a fome
 date: 2023-02-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 Arroz geneticamente modificado pode ser a chave para combater a escassez de alimentos causada pela mudança climática.
 

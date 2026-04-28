@@ -1,11 +1,12 @@
 ---
-title: "Novembro Azul: Mês de conscientização sobre a saúde do homem"
+title: 'Novembro Azul: Mês de conscientização sobre a saúde do homem'
 date: 2021-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Em 2011, o **[Instituto Lado a Lado pela Vida](https://ladoaladopelavida.org.br/campanhas/novembro-azul/)** iniciou a campanha ‘Novembro Azul’ com o objetivo de alertar para a importância do diagnóstico precoce do câncer de próstata, o mais frequente entre os homens brasileiros depois do câncer de pele.
 

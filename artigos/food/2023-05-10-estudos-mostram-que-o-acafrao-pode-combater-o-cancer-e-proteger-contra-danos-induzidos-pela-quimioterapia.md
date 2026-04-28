@@ -1,11 +1,13 @@
 ---
-title: "Estudos mostram que o açafrão pode combater o câncer e proteger contra danos induzidos pela quimioterapia"
+title: Estudos mostram que o açafrão pode combater o câncer e proteger contra danos
+  induzidos pela quimioterapia
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O açafrão ( Crocus sativus ) é conhecido como o tempero mais caro do mundo. Ele também ganhou reputação por ser capaz de lidar com o câncer e os efeitos negativos das drogas anticancerígenas.
 

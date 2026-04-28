@@ -1,11 +1,12 @@
 ---
-title: "Prefeitos de todo o país debatem financiamento da educação"
+title: Prefeitos de todo o país debatem financiamento da educação
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A busca por uma Educação de qualidade nas escolas públicas municipais de todo o país é tema de debate na XXIVª Marcha a Brasília em Defesa dos Municípios, realizada de 27 a 30 de março na capital federal. Com o tema “Pacto Federativo: um olhar para o futuro”, esse é o maior evento em defesa da causa municipalista do país.
 

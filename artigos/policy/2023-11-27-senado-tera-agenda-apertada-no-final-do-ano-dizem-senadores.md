@@ -1,11 +1,12 @@
 ---
-title: "Senado terá agenda apertada no final do ano, dizem senadores"
+title: Senado terá agenda apertada no final do ano, dizem senadores
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Senado deve realizar uma força-tarefa nas próximas semanas para votar projetos pendentes de análise. A informação foi dada pelo senador Jorge Kajuru (PSB-GO), vice-líder do governo no Senado, após reunião de líderes com o presidente do Senado, Rodrigo Pacheco. Segundo Kajuru, os senadores votarão as Propostas de Emenda à Constituição (PEC) da criminalização da posse de qualquer quantidade de drogas ([PEC 45/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160011)), da transferência automática para a reserva de militar candidato a cargo eletivo ([PEC 42/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159964)) e de valor adicional pago para juízes e membros do Ministério Público ([PEC 63/2013](https://www25.senado.leg.br/web/atividade/materias/-/materia/115294)):
 

@@ -1,11 +1,12 @@
 ---
-title: "Orçamento de 2023 prevê salário mínimo de R$ 1.302"
+title: Orçamento de 2023 prevê salário mínimo de R$ 1.302
 date: 2022-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor é R$ 8 maior que o aprovado na LDO.
 

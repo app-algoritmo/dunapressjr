@@ -1,11 +1,13 @@
 ---
-title: "Participação feminina no mercado de trabalho deve crescer mais que a masculina na próxima década"
+title: Participação feminina no mercado de trabalho deve crescer mais que a masculina
+  na próxima década
 date: 2021-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Até 2030, 64,3% da população feminina em idade ativa estará empregada ou em busca de trabalho.
 

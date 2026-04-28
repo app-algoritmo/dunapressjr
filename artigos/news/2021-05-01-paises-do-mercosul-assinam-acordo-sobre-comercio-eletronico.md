@@ -1,11 +1,12 @@
 ---
-title: "Países do Mercosul assinam acordo sobre comércio eletrônico"
+title: Países do Mercosul assinam acordo sobre comércio eletrônico
 date: 2021-05-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto proíbe tarifas sobre downloads e exigências sobre servidores.
 

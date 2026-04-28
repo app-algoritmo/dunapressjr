@@ -1,11 +1,12 @@
 ---
-title: "Crise Humanitária em Lampedusa: O Desafio da Migração Ilegal no Sul da Itália"
+title: 'Crise Humanitária em Lampedusa: O Desafio da Migração Ilegal no Sul da Itália'
 date: 2023-09-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nas últimas 72 horas, a ilha de Lampedusa, localizada no sul da Itália, tem sido palco de uma crise humanitária preocupante. Um influxo maciço de migrantes ilegais chegou à ilha, desencadeando uma série de desafios e preocupações tanto para as autoridades italianas quanto para a comunidade internacional. Com mais de 7.000 migrantes já registrados e a possibilidade de que esse número aumente para além de 10.000, essa situação merece uma análise detalhada.
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: produção industrial sobe 0,1% de março para abril"
+title: 'IBGE: produção industrial sobe 0,1% de março para abril'
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador acumula alta de 1,4% em três meses.
 

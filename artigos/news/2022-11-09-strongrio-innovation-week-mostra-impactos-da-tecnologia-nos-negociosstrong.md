@@ -1,11 +1,12 @@
 ---
-title: "<strong>Rio Innovation Week mostra impactos da tecnologia nos negócios</strong>"
+title: <strong>Rio Innovation Week mostra impactos da tecnologia nos negócios</strong>
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento começou nesta terça-feira (8) e vai até sexta-feira (11) no Pier Mauá.
 

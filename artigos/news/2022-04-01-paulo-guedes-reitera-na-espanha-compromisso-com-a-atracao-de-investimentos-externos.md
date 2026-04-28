@@ -1,11 +1,13 @@
 ---
-title: "Paulo Guedes reitera na Espanha compromisso com a atração de investimentos externos"
+title: Paulo Guedes reitera na Espanha compromisso com a atração de investimentos
+  externos
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro da Economia se reuniu com a ministra espanhola Nadia Calviño e com representantes do Conselho Empresarial Brasil – Espanha.
 

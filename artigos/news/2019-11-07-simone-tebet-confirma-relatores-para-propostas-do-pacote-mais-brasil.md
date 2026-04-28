@@ -1,11 +1,12 @@
 ---
-title: "Simone Tebet confirma relatores para propostas do pacote Mais Brasil"
+title: Simone Tebet confirma relatores para propostas do pacote Mais Brasil
 date: 2019-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Márcio Bittar relata PEC do Pacto Federativo: "Isso significa mais recursos, hoje concentrados na União"*
 

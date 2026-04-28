@@ -1,11 +1,12 @@
 ---
-title: "Força Aérea Brasileira já transportou 170 órgãos para transplante neste ano"
+title: Força Aérea Brasileira já transportou 170 órgãos para transplante neste ano
 date: 2020-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A qualquer hora do dia ou da noite uma aeronave da Força Aérea Brasileira (FAB) pode ser acionada para transportar um órgão que vai salvar uma vida. Nesta sexta-feira (23), quando é celebrado o Dia da Força Aérea Brasileira, a corporação também comemora a marca de 170 órgãos transportados este ano.
 

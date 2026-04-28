@@ -1,11 +1,12 @@
 ---
-title: "O Impacto Geopolítico da Vitória de Donald Trump nas Eleições de 2024"
+title: O Impacto Geopolítico da Vitória de Donald Trump nas Eleições de 2024
 date: 2024-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A vitória de Donald Trump nas eleições de 2024 sinaliza grandes mudanças na geopolítica global. Em primeiro lugar, sua postura nacionalista e de “América Primeiro” tende a reduzir a cooperação multilateral, impactando diretamente aliados como a União Europeia e a OTAN. Durante seu primeiro mandato, Trump criticou frequentemente a contribuição europeia à segurança coletiva e pode retomar essa pressão, possivelmente enfraquecendo a OTAN. Isso exigiria que os países europeus assumissem uma defesa mais independente, o que eles ainda não se mostram totalmente preparados para fazer​ [NewsX World](https://www.newsx.com/us-elections-2024/donald-trumps-remarks-on-wars-in-his-victory-speech/), [Council on Foreign Relations](https://www.cfr.org/councilofcouncils/global-memos/why-us-presidential-election-matters-europe).
 

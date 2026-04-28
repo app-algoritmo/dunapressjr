@@ -1,11 +1,12 @@
 ---
-title: "Ilha do Mel vacina 100% da população e recebe turistas"
+title: Ilha do Mel vacina 100% da população e recebe turistas
 date: 2021-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Praias lindas e belezas naturais de encher os olhos faz da Ilha do Mel, no Paraná, um dos destinos mais procurados no sul do Brasil. O local agrada turistas de todas as idades e interesses, do descanso à aventura. Com a população acima de 18 anos vacinada contra a Covid-19, a ilha tornou-se uma excelente opção para aqueles que buscam ecoturismo, lazer e segurança. As praias de Encantadas, Nova Brasília e Fortaleza reúnem praticamente todas as hospedagens, com capacidade para receber 2.500 turistas (com restrição, durante a pandemia). De acordo com o diretor da Serra Verde Express e proprietário da pousada Caraguatá, Adonai Aires de Arruda Filho, “com a vacinação em massa, há um forte indicativo de retomada do turismo, que é a principal fonte de economia da ilha”.
 

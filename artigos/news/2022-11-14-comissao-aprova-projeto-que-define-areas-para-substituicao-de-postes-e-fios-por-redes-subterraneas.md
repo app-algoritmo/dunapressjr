@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que define áreas para substituição de postes e fios por redes subterrâneas"
+title: Comissão aprova projeto que define áreas para substituição de postes e fios
+  por redes subterrâneas
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Ciência e Tecnologia, Comunicação e Informática aprovou proposta que obriga, em alguns casos, a substituição compulsória da rede aérea de serviços públicos cabeados (postes, fios e cabos) por uma rede subterrânea. Quando exigível, a substituição deverá ser realizada dentro do prazo de dez anos.
 

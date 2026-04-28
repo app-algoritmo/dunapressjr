@@ -1,11 +1,12 @@
 ---
-title: "OPERAÇÃO HÓRUS - Policiais realizam apreensão de quase meia tonelada de drogas"
+title: OPERAÇÃO HÓRUS - Policiais realizam apreensão de quase meia tonelada de drogas
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pato Bragado/PR – Na noite desta quarta-feira (3/6), mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, BOPE/COE/PMPR, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Concerto de Natal 15.12.18 - Compareça com sua Família"
+title: Concerto de Natal 15.12.18 - Compareça com sua Família
 date: 2018-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Casa Imperial do Brasil
 

@@ -1,11 +1,12 @@
 ---
-title: "Izalci critica pressa na reforma tributária e defende mais debate no Senado"
+title: Izalci critica pressa na reforma tributária e defende mais debate no Senado
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) questionou, em pronunciamento no Plenário nesta segunda-feira (10), o texto da reforma tributária, aprovada na Câmara dos Deputados na sexta-feira (7). 
 

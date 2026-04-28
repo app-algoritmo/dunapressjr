@@ -1,11 +1,12 @@
 ---
-title: "'Esperamos 12 anos': A história do rolo da Torá de Jonathan Pollard"
+title: '''Esperamos 12 anos'': A história do rolo da Torá de Jonathan Pollard'
 date: 2021-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 ## Esther Pollard conta a história do rolo da Torá escrito com o mérito de seu marido e oferecido à tumba de Joseph. 'Primeira vez na história que um prisioneiro escreveu um rolo da Torá.'
 

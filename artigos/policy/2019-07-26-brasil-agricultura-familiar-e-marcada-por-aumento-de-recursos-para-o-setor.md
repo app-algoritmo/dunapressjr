@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Agricultura Familiar é marcada por aumento de recursos para o setor"
+title: 'Brasil: Agricultura Familiar é marcada por aumento de recursos para o setor'
 date: 2019-07-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Avanços com políticas públicas de incentivo ao produtor
 

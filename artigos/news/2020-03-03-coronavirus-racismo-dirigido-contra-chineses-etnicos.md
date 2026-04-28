@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, racismo dirigido contra chineses étnicos"
+title: Coronavírus, racismo dirigido contra chineses étnicos
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Uma campanha contra a China foi lançada, uma onda de sentimentos racistas contra a etnia chinesa continua em grande parte liderada pela mídia ocidental.
 

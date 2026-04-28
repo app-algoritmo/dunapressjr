@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro diz que Brasil pode sair da OMS"
+title: Bolsonaro diz que Brasil pode sair da OMS
 date: 2020-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Presidente fez críticas ao trabalho da organização na pandemia.
 

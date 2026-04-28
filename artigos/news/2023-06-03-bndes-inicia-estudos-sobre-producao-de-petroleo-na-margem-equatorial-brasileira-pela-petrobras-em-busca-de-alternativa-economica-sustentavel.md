@@ -1,11 +1,13 @@
 ---
-title: "BNDES inicia estudos sobre produção de petróleo na Margem Equatorial brasileira pela Petrobras em busca de alternativa econômica sustentável"
+title: BNDES inicia estudos sobre produção de petróleo na Margem Equatorial brasileira
+  pela Petrobras em busca de alternativa econômica sustentável
 date: 2023-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BNDES destaca importância da exploração de petróleo na região e ressalta a necessidade de preservação ambiental e criação de uma economia descarbonizada.
 

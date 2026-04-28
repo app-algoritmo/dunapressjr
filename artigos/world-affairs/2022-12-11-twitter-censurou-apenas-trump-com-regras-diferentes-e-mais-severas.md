@@ -1,11 +1,12 @@
 ---
-title: "Twitter censurou 'apenas Trump' com regras diferentes e mais severas"
+title: Twitter censurou 'apenas Trump' com regras diferentes e mais severas
 date: 2022-12-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O jornalista independente Michael Shellenberger revelou que o Twitter aplicou censura específica a Donald Trump. 
 

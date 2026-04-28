@@ -1,11 +1,12 @@
 ---
-title: "O agente ucraniano Zelensky... um show de marionetes encenado no oeste"
+title: O agente ucraniano Zelensky... um show de marionetes encenado no oeste
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Ucrânia tornou-se uma colônia altamente endividada do capital ocidental que será escravizada nas próximas décadas.
 

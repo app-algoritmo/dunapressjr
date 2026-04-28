@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,40 e fecha no maior valor desde novembro"
+title: Dólar aproxima-se de R$ 5,40 e fecha no maior valor desde novembro
 date: 2021-01-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa supera os 122 mil pontos e encerra em nível recorde.
 

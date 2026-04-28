@@ -1,11 +1,12 @@
 ---
-title: "O uso de anticoagulante pode reduzir mortes em casos graves de COVID-19?"
+title: O uso de anticoagulante pode reduzir mortes em casos graves de COVID-19?
 date: 2020-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A doença causada pelo novo coronavírus (COVID-19) é preocupante e pode levar algumas das pessoas infectadas a internação em estado grave e até mesmo a morte.
 

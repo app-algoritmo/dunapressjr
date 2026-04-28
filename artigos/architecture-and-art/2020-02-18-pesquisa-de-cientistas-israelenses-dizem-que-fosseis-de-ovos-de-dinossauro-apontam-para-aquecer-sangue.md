@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa de cientistas israelenses dizem que fósseis de ovos de dinossauro apontam para aquecer sangue"
+title: Pesquisa de cientistas israelenses dizem que fósseis de ovos de dinossauro
+  apontam para aquecer sangue
 date: 2020-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Nova técnica de pesquisa empregada na Universidade Hebraica permitiu à equipe medir a temperatura na qual os ovos foram formados - e, assim, se a mãe poderia regular o calor do corpo.
 

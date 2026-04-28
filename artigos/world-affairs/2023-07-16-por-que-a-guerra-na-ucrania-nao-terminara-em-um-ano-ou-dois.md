@@ -1,11 +1,12 @@
 ---
-title: "Por que a guerra na Ucrânia não terminará em um ano ou dois"
+title: Por que a guerra na Ucrânia não terminará em um ano ou dois
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 500 dias de guerra (mais uma guerra simulada) e ambos os lados ainda estão presos no mesmo paradoxo do conflito - quando um lado conquista um beco em uma vila enquanto o outro reivindica uma vitória gloriosa sobre um galinheiro. 
 

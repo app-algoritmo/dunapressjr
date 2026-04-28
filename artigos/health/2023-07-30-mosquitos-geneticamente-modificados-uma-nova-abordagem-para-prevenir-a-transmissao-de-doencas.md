@@ -1,11 +1,13 @@
 ---
-title: "Mosquitos Geneticamente Modificados: Uma Nova Abordagem para Prevenir a Transmissão de Doenças"
+title: 'Mosquitos Geneticamente Modificados: Uma Nova Abordagem para Prevenir a Transmissão
+  de Doenças'
 date: 2023-07-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Os mosquitos são responsáveis ​​por muitas doenças transmitidas por mosquitos que matam milhões de pessoas todos os anos. Eles são um grande problema porque transmitem vários agentes infecciosos, como a malária, que são mortais para os seres humanos. Várias empresas de pesquisa, como [a Oxitec,](https://www.oxitec.com/) desenvolveram mosquitos geneticamente modificados ( [GMMs](https://www.who.int/news/item/19-05-2021-who-issues-new-guidance-for-research-on-genetically-modified-mosquitoes-to-fight-malaria-and-other-vector-borne-diseases) ) para reduzir a transmissão de doenças. Este artigo discute uma nova estrutura para a pesquisa de mosquitos geneticamente modificados, incluindo as técnicas usadas para criar MGMs, sua eficácia e considerações éticas. *TrialSite*[relatou](https://www.trialsitenews.com/a/genetically-modified-malaria-vaccine-appears-safe-but-is-it-effective-3204edd2) anteriormente o uso de uma versão geneticamente modificada de um parasita da malária que vive em mosquitos para produzir uma vacina contra a malária .
 

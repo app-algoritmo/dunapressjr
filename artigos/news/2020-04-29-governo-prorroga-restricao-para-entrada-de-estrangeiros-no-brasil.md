@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga restrição para entrada de estrangeiros no Brasil"
+title: Governo prorroga restrição para entrada de estrangeiros no Brasil
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal prorrogou, por trinta dias, a restrição excepcional e temporária da entrada no País de estrangeiros por via aérea. A [Portaria nº 203](http://www.in.gov.br/en/web/dou/-/portaria-interministerial-n-203-de-28-de-abril-de-2020-254282950) foi publicada em edição extra do Diário Oficial da União (DOU) da terça-feira (28).
 

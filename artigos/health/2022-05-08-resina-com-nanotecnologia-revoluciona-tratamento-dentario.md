@@ -1,11 +1,12 @@
 ---
-title: "Resina com nanotecnologia revoluciona tratamento dentário"
+title: Resina com nanotecnologia revoluciona tratamento dentário
 date: 2022-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Encontrar uma solução menos invasiva ao tratamento endodôntico, também conhecido como canal, e reduzir a necessidade de extração de dentes. Esse foi o objetivo de duas bolsistas da CAPES, Elayne Valério Carvalho, doutora pelo Programa de Pós-Graduação em Química, e Julianne Coelho da Silva, doutoranda no Programa de Pós-Graduação em Odontologia. Ambas são pesquisadoras da Universidade Federal do Ceará (UFC) e criaram uma resina odontológica, a partir de nanopartículas, capaz de recuperar dentes danificados.
 

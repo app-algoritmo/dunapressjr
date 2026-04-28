@@ -1,11 +1,12 @@
 ---
-title: "INSS dá início à prova de vida digital na próxima quinta-feira (20)"
+title: INSS dá início à prova de vida digital na próxima quinta-feira (20)
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 300 mil beneficiários serão contatados nos próximos dias e convidados a fazer o procedimento. Para realizar a biometria facial, o INSS usará a base de dados do Denatran e do TSE.
 

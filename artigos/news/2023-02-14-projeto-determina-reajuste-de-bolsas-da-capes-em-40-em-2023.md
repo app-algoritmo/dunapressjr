@@ -1,11 +1,12 @@
 ---
-title: "Projeto determina reajuste de bolsas da Capes em 40% em 2023"
+title: Projeto determina reajuste de bolsas da Capes em 40% em 2023
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 238/23 concede, a partir do exercício financeiro de 2023, o reajuste de 40% nos valores das bolsas de estudos ofertadas pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).
 

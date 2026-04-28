@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial varia 0,1%"
+title: Produção industrial varia 0,1%
 date: 2023-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pará lidera crescimento, enquanto Pernambuco e Região Nordeste registram maiores recuos.
 

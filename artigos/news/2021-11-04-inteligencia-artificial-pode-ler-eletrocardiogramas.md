@@ -1,11 +1,12 @@
 ---
-title: "Inteligência artificial pode ler eletrocardiogramas"
+title: Inteligência artificial pode ler eletrocardiogramas
 date: 2021-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores do projeto [**Clinical Outcomes in Digital Eletrocardiography (CODE)**](https://www.iats.com.br/projects/code-clinical-outcomes-in-digital-electrocardiography/), da Universidade Federal de Minas Gerais, acabam de publicar estudo na [***Nature Communications***](https://www.nature.com/articles/s41467-021-25351-7), uma das revistas científicas mais importantes no mundo. A pesquisa comprova a possibilidade de se usar aprendizado de máquina e métodos de inteligência artificial (IA) para avaliar as diferenças da idade estimada e da idade real de uma pessoa, a partir de um eletrocardiograma (ECG), o que pode ser usado na medicina como um possível indicador de risco de morte. O trabalho com participação brasileira é parceria com cientistas da Universidade de Uppsala, na Suécia, e da École Polytechnique Fédérale de Lausanne, na Suíça.
 

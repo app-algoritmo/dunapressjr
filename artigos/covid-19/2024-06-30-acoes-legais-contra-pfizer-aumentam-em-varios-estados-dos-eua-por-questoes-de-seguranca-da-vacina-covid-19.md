@@ -1,11 +1,13 @@
 ---
-title: "Ações Legais Contra Pfizer Aumentam em Vários Estados dos EUA por Questões de Segurança da Vacina Covid-19"
+title: Ações Legais Contra Pfizer Aumentam em Vários Estados dos EUA por Questões
+  de Segurança da Vacina Covid-19
 date: 2024-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Recentemente, foi revelado que o procurador-geral do Kansas está processando a Pfizer por enganar o público sobre a segurança e eficácia da vacina contra a Covid-19. Agora, descobriu-se que cinco estados dos EUA, incluindo o Kansas, seguirão o mesmo caminho judicial. Esta notícia marca um grande desenvolvimento na crescente controvérsia sobre a segurança das vacinas Covid-19.
 

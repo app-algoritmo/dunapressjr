@@ -1,11 +1,12 @@
 ---
-title: "FMI melhora projeção para crescimento do PIB do Brasil em 2022"
+title: FMI melhora projeção para crescimento do PIB do Brasil em 2022
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão subiu de 0,8% para 1,7%, segundo relatório divulgado nesta terça-feira.
 

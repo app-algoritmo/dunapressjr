@@ -1,11 +1,12 @@
 ---
-title: "Por que os estudos sobre o holocausto são importantes"
+title: Por que os estudos sobre o holocausto são importantes
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *Por Jordanna Gessler *
 

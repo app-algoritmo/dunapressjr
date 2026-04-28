@@ -1,11 +1,12 @@
 ---
-title: "Guedes representará governo em Davos com agenda cheia e encontros com CEOs"
+title: Guedes representará governo em Davos com agenda cheia e encontros com CEOs
 date: 2020-01-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Economia, Paulo Guedes, representará o governo
 brasileiro no Fórum Econômico Mundial em Davos, na Suíça, a partir do dia 20,

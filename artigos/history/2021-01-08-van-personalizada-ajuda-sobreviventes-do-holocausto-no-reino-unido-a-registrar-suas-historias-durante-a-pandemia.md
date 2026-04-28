@@ -1,11 +1,13 @@
 ---
-title: "Van personalizada ajuda sobreviventes do Holocausto no Reino Unido a registrar suas histórias durante a pandemia"
+title: Van personalizada ajuda sobreviventes do Holocausto no Reino Unido a registrar
+  suas histórias durante a pandemia
 date: 2021-01-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Com uma população cada vez menor e eventos educacionais ao vivo suspensos, Antony Lishak agarrou o volante para capturar testemunhos antes que seja tarde demais.
 

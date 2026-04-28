@@ -1,11 +1,12 @@
 ---
-title: "Histórias 'insuportáveis' sobre a pandemia: por que devemos compartilhá-las"
+title: 'Histórias ''insuportáveis'' sobre a pandemia: por que devemos compartilhá-las'
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## *Esperançosamente, aqueles que tomaram as decisões vergonhosas, injustificadas e desumanas que levaram a tantas histórias traumáticas um dia se arrependerão - e aqueles que serão os tomadores de decisão de amanhã podem pensar duas vezes antes de afirmar a supressão dos direitos individuais.*
 

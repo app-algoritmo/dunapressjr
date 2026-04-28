@@ -1,11 +1,12 @@
 ---
-title: "Sem redes sociais, Marcos do Val lamenta não poder prestar contas do mandato"
+title: Sem redes sociais, Marcos do Val lamenta não poder prestar contas do mandato
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) criticou a suspensão de suas redes sociais por decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Em pronunciamento no Plenário nesta terça-feira (12), o parlamentar lamentou não poder prestar contas aos eleitores há 120 dias e classificou a decisão de Moraes como “monocrática e totalmente questionável”. A motivação da ação seria a obstrução da investigação dos atos golpistas contra os três Poderes e a divulgação de documentos sigilosos da Agência Brasileira de Inteligência (Abin) sobre os atos do 8 de janeiro.
 

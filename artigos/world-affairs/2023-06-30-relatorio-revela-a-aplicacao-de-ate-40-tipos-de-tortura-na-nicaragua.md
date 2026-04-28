@@ -1,11 +1,12 @@
 ---
-title: "Relatório revela a aplicação de até '40 tipos de tortura' na Nicarágua"
+title: Relatório revela a aplicação de até '40 tipos de tortura' na Nicarágua
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um relatório do Coletivo de Direitos Humanos da Nicarágua Nunca+ revela que [a ditadura de Daniel Ortega](https://gaceta.es/iberosfera/ortega-plantea-una-nueva-purga-contra-empresarios-que-han-respaldado-su-dictadura-20230625-0633/) aplicou pelo menos **40 tipos diferentes de tortura** a seus opositores, tudo isso desde a ebulição dos protestos da oposição em 2018 até hoje.
 

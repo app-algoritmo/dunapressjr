@@ -1,11 +1,13 @@
 ---
-title: "Operação Carrossel investiga grupo responsável por roubo a agências dos Correios na PB"
+title: Operação Carrossel investiga grupo responsável por roubo a agências dos Correios
+  na PB
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal deflagrou nesta sexta-feira (29/5) a Operação Carrossel, com o objetivo de desarticular grupo criminoso responsável por assaltos às agências dos Correios do Estado da Paraíba.
 

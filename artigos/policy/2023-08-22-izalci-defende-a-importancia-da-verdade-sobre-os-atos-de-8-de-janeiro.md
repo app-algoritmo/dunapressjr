@@ -1,11 +1,12 @@
 ---
-title: "Izalci defende a importância da verdade sobre os atos de 8 de janeiro"
+title: Izalci defende a importância da verdade sobre os atos de 8 de janeiro
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) defendeu, em pronunciamento no Plenário nesta segunda-feira (21), a importância de esclarecer a verdade e punir os responsáveis pela invasão das sedes dos três Poderes, em 8 janeiro. Segundo ele, as omissões do governo também devem ser investigadas e cada pessoa deve responder individualmente por seus atos, na proporção do que foi feito, sem haver uma condenação coletiva.
 

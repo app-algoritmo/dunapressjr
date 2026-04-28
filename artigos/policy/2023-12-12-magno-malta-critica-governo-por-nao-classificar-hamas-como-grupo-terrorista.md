@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta critica governo por não classificar Hamas como grupo terrorista"
+title: Magno Malta critica governo por não classificar Hamas como grupo terrorista
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES) destacou, em pronunciamento nesta segunda-feira (11), sessão de debates no Plenário que reuniu familiares de reféns em poder do grupo palestino Hamas desde o ataque a Israel em 7 de outubro. O encontro, nesta segunda, também contou com a presença de lideranças judaicas e do embaixador de Israel no Brasil, Daniel Zohar Zonshine.
 

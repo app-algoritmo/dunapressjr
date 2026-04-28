@@ -1,11 +1,13 @@
 ---
-title: "Consumidores de Itajaí podem participar de mutirão de negociação de dívidas e orientação financeira"
+title: Consumidores de Itajaí podem participar de mutirão de negociação de dívidas
+  e orientação financeira
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os consumidores de Itajaí podem participar, até 30 de novembro, do tradicional Mutirão de Negociação Dívidas e Orientação Financeira. O evento é uma iniciativa conjunta da Federação Brasileira de Bancos (FEBRABAN), Banco Central do Brasil e Secretaria Nacional do Consumidor (Senacon). No município, o mutirão tem apoio da Procuradoria de Defesa do Consumidor (Procon) de Itajaí. O objetivo da ação é ajudar os cidadãos a fazer a melhor negociação de suas dívidas com bancos e reequilibrar suas finanças.
 

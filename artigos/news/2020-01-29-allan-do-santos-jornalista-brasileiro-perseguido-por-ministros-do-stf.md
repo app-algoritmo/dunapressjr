@@ -1,11 +1,12 @@
 ---
-title: "Allan do Santos,  jornalista brasileiro perseguido por ministros do STF"
+title: Allan do Santos,  jornalista brasileiro perseguido por ministros do STF
 date: 2020-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -O opositor Allan dos Santos é o mais novo perseguido por juízes da corte suprema do Brasil, por denunciar as  extravagâncias e ingerências administrativas dos fundos públicos.
 

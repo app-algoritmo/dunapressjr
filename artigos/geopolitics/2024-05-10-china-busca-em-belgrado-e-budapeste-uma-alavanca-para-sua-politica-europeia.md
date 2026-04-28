@@ -1,11 +1,12 @@
 ---
-title: "China busca em Belgrado e Budapeste uma alavanca para sua política europeia"
+title: China busca em Belgrado e Budapeste uma alavanca para sua política europeia
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 À medida que o presidente chinês, Xi Jinping, prossegue com suas iniciativas de paz, líderes globais como o presidente sérvio Aleksandar Vucic depositam grandes esperanças nas ações da China para promover a estabilidade mundial. Em uma entrevista à Televisão Central da China, Vucic enfatizou a importância das iniciativas de paz de Xi Jinping, destacando que a paz e a tranquilidade são interesses comuns para todos.
 

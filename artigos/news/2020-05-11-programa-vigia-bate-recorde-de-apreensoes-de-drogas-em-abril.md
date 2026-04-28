@@ -1,11 +1,12 @@
 ---
-title: "Programa VIGIA bate recorde de apreensões de drogas em abril"
+title: Programa VIGIA bate recorde de apreensões de drogas em abril
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Programa Nacional de Segurança nas Fronteiras e Divisas (VIGIA) apreendeu, por meio da Operação Hórus, cerca de 56 toneladas de drogas em abril.  É o maior volume desde o início da série histórica, iniciado há um ano pelo Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria de Operações Integradas (Seopi/MJSP). Até então, o maior número registrado foi em outubro de 2019, com a apreensão de 27 toneladas de drogas. De acordo com Eduardo Bettini, coordenador geral de fronteiras Seopi/MJSP, o número elevado se deve a três fatores: o aumento na fiscalização nas fronteiras, ao trabalho cooperativo entre as instituições estaduais e federais e a  otimização de estruturas e de recursos disponíveis.
 

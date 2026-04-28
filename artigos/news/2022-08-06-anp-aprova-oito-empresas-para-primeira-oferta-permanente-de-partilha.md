@@ -1,11 +1,12 @@
 ---
-title: "ANP aprova oito empresas para primeira Oferta Permanente de Partilha"
+title: ANP aprova oito empresas para primeira Oferta Permanente de Partilha
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Além da Petrobras, a lista reúne outras gigantes do setor.
 

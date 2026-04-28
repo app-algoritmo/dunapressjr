@@ -1,11 +1,13 @@
 ---
-title: "Governo eslovaco bloqueia pacote de ajuda militar de 40,3 milhões de euros à Ucrânia"
+title: Governo eslovaco bloqueia pacote de ajuda militar de 40,3 milhões de euros
+  à Ucrânia
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Robert Fico, o país não enviaria mais ajuda militar a Kiev a partir dos armazéns das forças armadas do país.
 

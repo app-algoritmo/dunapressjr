@@ -1,11 +1,12 @@
 ---
-title: "Projeto obriga pet shops e veterinários a comunicarem indícios de maus-tratos"
+title: Projeto obriga pet shops e veterinários a comunicarem indícios de maus-tratos
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 180/23 obriga os pets shops, consultórios, clínicas e hospitais veterinários a comunicarem à autoridade competente a ocorrência de indícios de maus-tratos nos animais por eles atendidos. Pela proposta em análise na Câmara dos Deputados, o descumprimento da medida sujeitará o infrator a multa.
 

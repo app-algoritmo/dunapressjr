@@ -1,11 +1,12 @@
 ---
-title: "Documentário: Comer bem, viver e viajar, Toscana a mais bela região da Itália"
+title: 'Documentário: Comer bem, viver e viajar, Toscana a mais bela região da Itália'
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 A Toscana é uma região localizada na Itália Central. Além de ser uma das mais belas é uma das mais representativas do País por reunir, praticamente, todas as características da Itália.
 

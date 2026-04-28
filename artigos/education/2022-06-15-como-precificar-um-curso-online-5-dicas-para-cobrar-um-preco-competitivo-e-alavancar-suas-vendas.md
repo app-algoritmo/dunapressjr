@@ -1,11 +1,13 @@
 ---
-title: "Como precificar um curso online? 5 dicas para cobrar um preço competitivo e alavancar suas vendas"
+title: Como precificar um curso online? 5 dicas para cobrar um preço competitivo e
+  alavancar suas vendas
 date: 2022-06-15
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Uma das principais vantagens que o modelo de ensino à distância tem sobre o presencial é o preço. Investir em um curso EAD custa bem menos do que se matricular em aulas presenciais.
 

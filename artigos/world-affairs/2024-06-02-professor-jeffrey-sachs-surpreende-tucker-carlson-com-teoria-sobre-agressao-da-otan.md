@@ -1,11 +1,13 @@
 ---
-title: "Professor Jeffrey Sachs Surpreende Tucker Carlson com Teoria sobre Agressão da OTAN"
+title: Professor Jeffrey Sachs Surpreende Tucker Carlson com Teoria sobre Agressão
+  da OTAN
 date: 2024-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O professor Jeffrey Sachs, renomado economista e acadêmico, recentemente fez declarações impactantes ao jornalista Tucker Carlson, apresentando uma nova perspectiva sobre a intervenção da OTAN na Sérvia em 1999. Sachs, que é presidente da Rede de Soluções para o Desenvolvimento Sustentável da ONU e diretor do Centro para o Desenvolvimento Sustentável da Universidade de Columbia, argumentou que a verdadeira motivação por trás da ação militar foi proteger o complexo militar-industrial dos Estados Unidos, e não a população muçulmana oprimida, como oficialmente alegado.
 

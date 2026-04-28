@@ -1,11 +1,13 @@
 ---
-title: "Instituto Pirbright, desenvolvedor das vacinas contra o coronavírus recebe doação de US$ 5.5 mil."
+title: Instituto Pirbright, desenvolvedor das vacinas contra o coronavírus recebe
+  doação de US$ 5.5 mil.
 date: 2020-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em 2019 pesquisadores do Instituto Pirbright receberam US$ 5,5 milhões da Fundação [Bill & Melinda Gates](https://www.gatesfoundation.org/) para estabelecer um Centro de Anticorpos para Gado que visa melhorar a saúde animal e humana em todo o mundo. O ambicioso programa de trabalho terá ampla colaboração entre várias organizações de pesquisa do Reino Unido, a fim de utilizar os resultados de pesquisas em doenças e imunologia do gado para apoiar a saúde humana como parte da agenda 'One Health'.
 

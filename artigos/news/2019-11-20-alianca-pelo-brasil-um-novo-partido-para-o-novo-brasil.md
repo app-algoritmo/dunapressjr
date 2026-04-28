@@ -1,11 +1,12 @@
 ---
-title: "Aliança pelo Brasil, um novo partido para o novo Brasil"
+title: Aliança pelo Brasil, um novo partido para o novo Brasil
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Jair Bolsonaro, anunciou que deixara de ser filiado ao PSL, partido em que foi eleito para o cargo máximo da República. Com isso, uma equipe jurídica já se movimento pela saída do Chefe de estado da legenda, e traça uma estimativa de que serão necessárias meio milhão de assinaturas para criação de uma nova sigla que precisam ser enviadas até o TRE até março do ano que vem.
 

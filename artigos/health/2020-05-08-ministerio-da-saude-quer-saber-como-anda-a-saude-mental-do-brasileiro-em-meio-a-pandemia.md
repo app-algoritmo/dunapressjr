@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde quer saber como anda a saúde mental do brasileiro em meio à pandemia"
+title: Ministério da Saúde quer saber como anda a saúde mental do brasileiro em meio
+  à pandemia
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com o intuito de avaliar o impacto da pandemia da Covid-19 na saúde mental dos brasileiros, o Ministério da Saúde lançou um questionário *online* para as pessoas responderem como se sentem diante de todo o processo que envolve o enfrentamento da pandemia. O objetivo é rastrear a existência de depressão, ansiedade e estresse na população brasileira e, posteriormente, subsidiar políticas públicas nas unidades de atenção psicossocial.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aprovado projeto para reduzir veículos de tração animal em Itajaí"
+title: Aprovado projeto para reduzir veículos de tração animal em Itajaí
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi aprovado em primeira discussão, com 19 votos favoráveis, o [Projeto de Lei Ordinária (PLO) nº 259/2019](http://intranet.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria259_2019.pdf). O PLO estabelece regras com a finalidade de reduzir, gradativamente, a quantidade de veículos de tração animal no município de Itajaí.
  

@@ -1,11 +1,12 @@
 ---
-title: "Síndrome de Asperger"
+title: Síndrome de Asperger
 date: 2022-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Síndrome de Asperger faz parte do chamado Transtorno do Espectro do Autismo (TEA), às vezes chamada de autismo de alto funcionamento. É um distúrbio do desenvolvimento que afeta a forma como o cérebro processa as informações.
 

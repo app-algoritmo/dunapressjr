@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro habilita novos leitos de UTI no estado do RJ para atender pacientes com Covid-19"
+title: Governo Bolsonaro habilita novos leitos de UTI no estado do RJ para atender
+  pacientes com Covid-19
 date: 2020-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Saúde, Nelson Teich, esteve no Rio Janeiro nesta sexta-feira (8) e visitou o Hospital de Campanha no Rio Centro, que atende pacientes diagnosticados com o novo coronavírus. Teich também se reuniu com o governador e o prefeito do estado para tratar das ações da área de saúde contra a pandemia.
 

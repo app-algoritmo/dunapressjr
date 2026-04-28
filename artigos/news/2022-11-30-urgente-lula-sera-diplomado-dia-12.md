@@ -1,11 +1,12 @@
 ---
-title: "Urgente: Lula será diplomado dia 12"
+title: 'Urgente: Lula será diplomado dia 12'
 date: 2022-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A cerimônia de diplomação de Luiz Inácio Lula da Silva e Geraldo José Rodrigues Alckmin Filho está marcada para acontecer às 14h do dia 12 de dezembro, segunda-feira. Cabe ao Tribunal Superior Eleitoral (TSE) diplomar os eleitos para ocupar os cargos de presidente e vice-presidente da República.
 

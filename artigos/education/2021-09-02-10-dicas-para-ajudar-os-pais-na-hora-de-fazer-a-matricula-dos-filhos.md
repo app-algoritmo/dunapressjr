@@ -1,11 +1,12 @@
 ---
-title: "10 dicas para ajudar os pais na hora de fazer a matrícula dos filhos"
+title: 10 dicas para ajudar os pais na hora de fazer a matrícula dos filhos
 date: 2021-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Saiba o que considerar na hora de escolher a escola ideal, levando em conta questões como valores, religião, distância e formação dos professores.
 

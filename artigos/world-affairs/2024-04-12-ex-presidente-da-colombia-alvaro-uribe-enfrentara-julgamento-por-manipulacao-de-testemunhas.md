@@ -1,11 +1,13 @@
 ---
-title: "Ex-presidente da Colômbia Álvaro Uribe enfrentará julgamento por manipulação de testemunhas"
+title: Ex-presidente da Colômbia Álvaro Uribe enfrentará julgamento por manipulação
+  de testemunhas
 date: 2024-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente da Colômbia, Álvaro Uribe (2002-2010), uma das figuras políticas mais influentes do país neste século, será julgado criminalmente por suposta manipulação de testemunhas em uma investigação relacionada à sua conexão com grupos paramilitares.
 

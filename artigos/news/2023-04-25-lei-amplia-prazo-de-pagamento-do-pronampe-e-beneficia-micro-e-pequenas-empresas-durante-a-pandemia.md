@@ -1,11 +1,13 @@
 ---
-title: "Lei amplia prazo de pagamento do Pronampe e beneficia micro e pequenas empresas durante a pandemia"
+title: Lei amplia prazo de pagamento do Pronampe e beneficia micro e pequenas empresas
+  durante a pandemia
 date: 2023-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente sanciona medida que permite renegociação de empréstimos do programa, além de criar carência mínima de 12 meses.
 

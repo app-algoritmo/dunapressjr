@@ -1,11 +1,12 @@
 ---
-title: "Starlink: A Constelação de Satélites que Revoluciona a Conectividade Global"
+title: 'Starlink: A Constelação de Satélites que Revoluciona a Conectividade Global'
 date: 2024-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 Os satélites Starlink, desenvolvidos pela SpaceX, estão revolucionando o mundo das telecomunicações. Em agosto de 2024, o número total de satélites Starlink em órbita era impressionante: 6.865. Destes, 6.290 estavam operacionais, conforme relatado pelo renomado astrônomo Jonathan McDowell. Esses satélites formam uma constelação que orbita a Terra a aproximadamente 550 km (cerca de 342 milhas) de altitude, fornecendo cobertura global para o serviço de internet via satélite.
 

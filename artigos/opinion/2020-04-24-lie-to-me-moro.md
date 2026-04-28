@@ -1,11 +1,12 @@
 ---
-title: "Lie to me, Moro"
+title: Lie to me, Moro
 date: 2020-04-24
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O Brasil assistiu hoje, estarrecido, a dois pronunciamentos, e não duas coletivas, pois a intenção de ambos era comunicar uma mensagem previamente estruturada, e não responder a perguntas da imprensa, o que, alás, foi muito bom, pois a maioria dos jornalistas não tem nada de inteligente a questionar. O título deste artigo é baseado na série em que o psicólogo dr. Carl Lightman trabalha para a polícia para identificar se os suspeitos interrogados estão ou não mentindo, e para isso usa suas habilidades de leitura corporal ou facial. Vou dar uma de Ligthman, embora eu não seja psicóloga, e acrescentar minha habilidade de linguista para decifrar a esfinge Moro, um livro aberto exibindo suas versões e verdades.
 

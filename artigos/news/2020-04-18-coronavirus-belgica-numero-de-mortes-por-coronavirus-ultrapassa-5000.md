@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Bélgica: número de mortes por coronavírus ultrapassa 5.000"
+title: 'Coronavírus Bélgica: número de mortes por coronavírus ultrapassa 5.000'
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O novo coronavírus matou mais de 5.000 pessoas na Bélgica, disseram autoridades, confirmando uma alta taxa de mortalidade per capita em comparação com a da maioria dos outros países europeus.
 

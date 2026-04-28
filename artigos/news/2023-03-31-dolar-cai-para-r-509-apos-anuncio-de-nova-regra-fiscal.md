@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,09 após anúncio de nova regra fiscal"
+title: Dólar cai para R$ 5,09 após anúncio de nova regra fiscal
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa sobe 1,81% e atinge maior nível em 20 dias.
 

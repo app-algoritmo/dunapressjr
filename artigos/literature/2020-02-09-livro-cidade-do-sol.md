@@ -1,11 +1,12 @@
 ---
-title: "Livro: Cidade do Sol"
+title: 'Livro: Cidade do Sol'
 date: 2020-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 *Relatos sobre um Afeganistão assustador , cheio de maldade, sofrimento e esperança. *
 

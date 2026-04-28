@@ -1,11 +1,12 @@
 ---
-title: "O que é corrupção e quais são as melhores práticas e ferramentas para impedir"
+title: O que é corrupção e quais são as melhores práticas e ferramentas para impedir
 date: 2020-06-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A corrupção é abuso de poder ou posição em proveito próprio ou enriquecimento e é ilegal em todo o mundo.
 

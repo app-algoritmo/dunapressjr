@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo de 23.011 empregos formais em 2022, revela Caged"
+title: Paraíba gera saldo de 23.011 empregos formais em 2022, revela Caged
 date: 2023-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os que mais contribuíram para o desempenho do mercado de trabalho foram os setores de serviços, comércio e indústria.
 

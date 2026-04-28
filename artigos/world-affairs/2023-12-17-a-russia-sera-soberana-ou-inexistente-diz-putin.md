@@ -1,11 +1,12 @@
 ---
-title: "A Rússia será soberana ou inexistente, diz Putin"
+title: A Rússia será soberana ou inexistente, diz Putin
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O presidente russo disse que “é uma coisa muito importante, que devemos manter nas nossas mentes e corações”.
 

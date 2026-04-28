@@ -1,12 +1,13 @@
 ---
-title: "Escalada de Tensões no Oriente Médio: Israel, Irã e Aliados em Confronto"
+title: 'Escalada de Tensões no Oriente Médio: Israel, Irã e Aliados em Confronto'
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 Nos últimos três dias, a tensão entre Israel, Irã e seus respectivos aliados no Oriente Médio tem aumentado significativamente, destacando-se uma série de desenvolvimentos violentos e estratégicos.
 

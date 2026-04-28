@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo orienta consumidor sobre coronavírus"
+title: Ministério do Turismo orienta consumidor sobre coronavírus
 date: 2020-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Foi divulgada nesta segunda-feira (9) uma nota interministerial que lista recomendações a órgãos de defesa do consumidor quanto a procedimentos relacionados a viagens turísticas diante do novo Coronavírus. O documento foi assinado por representantes dos ministérios do Turismo, da Saúde, da Justiça e Segurança Pública e da Economia, além da Agência Nacional de Aviação Civil (Anac) e reafirma a orientação de tranquilidade e transparência, bem como explica como devem ser efetuados eventuais cancelamentos de serviços como transporte aéreo e pacotes de viagem. (Clique [aqui](https://www.novo.justica.gov.br/news/senacon-do-mjsp-lanca-nota-conjunta-para-orientar-consumidor-sobre-coronavirus/sei_mj-11181853-nota-tecnica.pdf) para acessar o arquivo)
 

@@ -1,12 +1,13 @@
 ---
-title: "AS 4 MAIORES DESCOBERTAS HISTÓRICAS DE 2022"
+title: AS 4 MAIORES DESCOBERTAS HISTÓRICAS DE 2022
 date: 2022-12-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - History
-  - News
+- History
+- News
 ---
+
 
 ## Saiba mais sobre algumas das maiores descobertas históricas de 2022
 

@@ -1,11 +1,12 @@
 ---
-title: "Genética explica povoamento indígena na América do Sul"
+title: Genética explica povoamento indígena na América do Sul
 date: 2023-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Doutor em Ciências Biológicas pela Universidade de São Paulo (USP), Marcos Araújo Castro e Silva foi o vencedor do Prêmio CAPES de Tese na categoria Ciências Biológicas I com uma pesquisa sobre a origem, a história e a diversidade dos povos indígenas da América do Sul. Desenvolvido a partir de uma investigação genômica, o trabalho confirma o fato de que os atuais povos indígenas se espalharam pelas Américas a partir da migração vinda da Ásia, pelo Pacífico, reconstruindo o complexo processo de dispersão por toda a região.
 

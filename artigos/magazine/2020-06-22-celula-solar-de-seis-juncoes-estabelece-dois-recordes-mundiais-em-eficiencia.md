@@ -1,11 +1,12 @@
 ---
-title: "Célula solar de seis junções estabelece dois recordes mundiais em eficiência"
+title: Célula solar de seis junções estabelece dois recordes mundiais em eficiência
 date: 2020-06-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Cientistas do Laboratório Nacional de Energia Renovável (NREL) fabricaram uma célula solar com uma eficiência de quase 50%.
 

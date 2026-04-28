@@ -1,11 +1,13 @@
 ---
-title: "Subsídios creditícios no âmbito do PSI e dos empréstimos ao BNDES caem para R$ 567,4 milhões"
+title: Subsídios creditícios no âmbito do PSI e dos empréstimos ao BNDES caem para
+  R$ 567,4 milhões
 date: 2021-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução no primeiro bimestre deste ano ocorreu pela queda no custo médio das emissões em oferta pública da Dívida Pública Mobiliária Federal interna.
 

@@ -1,11 +1,12 @@
 ---
-title: "PCPR prende nove pessoas em operação contra o tráfico de drogas na região Noroeste"
+title: PCPR prende nove pessoas em operação contra o tráfico de drogas na região Noroeste
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A PCPR identificou um suspeito de envolvimento com tráfico em Porto Rico, na região Noroeste, durante o Verão Maior Paraná, e descobriu que ele integrava uma associação criminosa comandada por um homem de Santa Cruz de Monte Castelo. Ação contou com o apoio de 70 policiais.
 

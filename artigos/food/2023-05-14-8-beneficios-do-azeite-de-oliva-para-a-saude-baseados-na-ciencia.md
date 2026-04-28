@@ -1,11 +1,12 @@
 ---
-title: "8 Benefícios do azeite de oliva para a saúde baseados na ciência"
+title: 8 Benefícios do azeite de oliva para a saúde baseados na ciência
 date: 2023-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 O azeite é uma potência de superalimento e dados científicos provam que vale a pena todo o hype. Este óleo de cozinha é saboroso e cheio de gorduras saudáveis.
 

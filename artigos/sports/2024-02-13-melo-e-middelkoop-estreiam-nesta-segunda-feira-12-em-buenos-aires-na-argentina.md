@@ -1,12 +1,13 @@
 ---
-title: "Melo e Middelkoop estreiam nesta segunda-feira (12) em Buenos Aires, na Argentina"
+title: Melo e Middelkoop estreiam nesta segunda-feira (12) em Buenos Aires, na Argentina
 date: 2024-02-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Dupla - cabeça de chave número 4 - enfrenta o austríaco Ofner e o italiano Pellegrino. Jogo será por volta das 15 horas. O ATP 250 está sendo disputado nas quadras de saibro do Buenos Aires Lawn Tennis Club.
 

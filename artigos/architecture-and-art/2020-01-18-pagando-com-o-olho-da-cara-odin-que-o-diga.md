@@ -1,11 +1,12 @@
 ---
-title: "Pagando com o olho da cara! Odin que o diga"
+title: Pagando com o olho da cara! Odin que o diga
 date: 2020-01-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Com a volatilidade da economia atual, o preço de determinados bens de consumo eleva-se vertiginosamente em pouco tempo, ao passo que outros produtos permanecem com seu valor de mercado estagnado. Sendo este efeito, fruto ou não da “*mão invisível*”, lecionada por Adan Smith, em 1759, o fato é que os consumidores muitas vezes têm a sensação de estarem “*pagando o olho da cara*” por determinados produtos.
 

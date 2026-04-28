@@ -1,11 +1,12 @@
 ---
-title: "BC aumenta projeção de crescimento da economia de 1% para 1,2%"
+title: BC aumenta projeção de crescimento da economia de 1% para 1,2%
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa de inflação subiu de 5% para 5,8%, acima da meta.
 

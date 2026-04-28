@@ -1,11 +1,12 @@
 ---
-title: "Boletim Epidemiológico Covid-19, Itajaí 24/11"
+title: Boletim Epidemiológico Covid-19, Itajaí 24/11
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí soma nesta terça-feira (24) 9.876 casos confirmados de COVID-19 e 190 mortes em decorrência da doença. Do total de contaminados, 8.651 pacientes já se recuperaram (87,59%) e 1.035 estão com o vírus ativo (40 internados e 995 em isolamento domiciliar). Há ainda 148 casos suspeitos aguardando resultado de exames.
 

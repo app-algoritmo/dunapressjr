@@ -1,11 +1,12 @@
 ---
-title: "Um “conselho de supervisão” e uma identidade digital que governa todos nós"
+title: Um “conselho de supervisão” e uma identidade digital que governa todos nós
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As Nações Unidas publicaram recentemente três novos resumos de políticas para explicar certas propostas de ["Nossa Agenda Comum"](https://www.un.org/en/common-agenda) - a visão do Secretário-Geral da ONU para o futuro da cooperação global a ser decidida na "Cúpula do Futuro" em setembro de 2024. Esses briefings – um [pacto digital global](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf) , [reformas na arquitetura financeira internacional](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-international-finance-architecture-en.pdf) e o [futuro da política espacial](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-outer-space-en.pdf) – definem um curso misterioso para o nosso futuro.
 

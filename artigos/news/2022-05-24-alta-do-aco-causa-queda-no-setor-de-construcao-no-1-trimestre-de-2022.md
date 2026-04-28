@@ -1,11 +1,12 @@
 ---
-title: "Alta do aço causa queda no setor de construção no 1º trimestre de 2022"
+title: Alta do aço causa queda no setor de construção no 1º trimestre de 2022
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Commodity teve alta de até 73% no valor negociado.
 

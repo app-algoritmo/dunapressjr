@@ -1,11 +1,12 @@
 ---
-title: "Imóveis ganham nova apresentação com pequenas modificações nas paredes"
+title: Imóveis ganham nova apresentação com pequenas modificações nas paredes
 date: 2023-05-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 De tempos em tempos, as pessoas sentem vontade de dar "outra cara" para o lugar onde vivem, nem que seja apenas mudar algum detalhe da decoração interna da casa ou do apartamento. O mais comum é que substituam móveis ou troquem objetos e itens decorativos. Mas, outra alternativa muito eficaz - e prática - é repaginar uma parede, ou várias, de um ambiente. De acordo com a arquiteta dos apartamentos decorados da Yticon, construtora do Grupo A.Yoshii, Cristina Cardoso, apenas com a mudança de cor já é possível obter um cômodo totalmente diferente. "Além de essenciais para a proteção e durabilidade do acabamento das paredes, a pintura é uma forte aliada na decoração, sendo um dos itens mais procurados pelos moradores. Com o passar dos anos, foi surgindo uma infinidade de cores e texturas capazes de resultar em temáticas diversas", diz.
 

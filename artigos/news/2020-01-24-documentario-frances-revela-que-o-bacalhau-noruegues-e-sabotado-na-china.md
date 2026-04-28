@@ -1,11 +1,12 @@
 ---
-title: "Documentário Francês revela que o Bacalhau Norueguês é sabotado na China"
+title: Documentário Francês revela que o Bacalhau Norueguês é sabotado na China
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em um documentário de televisão, o canal francês France 5 revela como o bacalhau norueguês é enviado para a China e preenchido com aditivos químicos e água, antes de retornar à Europa.
 

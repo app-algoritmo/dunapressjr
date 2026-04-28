@@ -1,11 +1,12 @@
 ---
-title: "Rio de Janeiro tem novo recorde de abertura de empresas em setembro"
+title: Rio de Janeiro tem novo recorde de abertura de empresas em setembro
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Junta Comercial registra 5.956 novos negócios no estado – o maior número de todos os meses de setembro, nos 215 anos da Jucerja.
 

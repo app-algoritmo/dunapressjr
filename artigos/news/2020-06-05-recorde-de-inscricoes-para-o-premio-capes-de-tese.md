@@ -1,11 +1,12 @@
 ---
-title: "Recorde de inscrições para o Prêmio Capes de Tese"
+title: Recorde de inscrições para o Prêmio Capes de Tese
 date: 2020-06-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Foram submetidas 1.420 teses para avaliação.
 

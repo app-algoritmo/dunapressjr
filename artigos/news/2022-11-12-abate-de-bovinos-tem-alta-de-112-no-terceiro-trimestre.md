@@ -1,11 +1,12 @@
 ---
-title: "Abate de bovinos tem alta de 11,2% no terceiro trimestre"
+title: Abate de bovinos tem alta de 11,2% no terceiro trimestre
 date: 2022-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultados completos saem dia 7 de dezembro.
 

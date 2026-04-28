@@ -1,11 +1,13 @@
 ---
-title: "Rede Ebserh, em seu hospital em Belo Horizonte, participa de programa de assistência para idosos institucionalizados"
+title: Rede Ebserh, em seu hospital em Belo Horizonte, participa de programa de assistência
+  para idosos institucionalizados
 date: 2020-07-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em parceria com a Prefeitura de BH, 1.600 idosos estão sendo acompanhados no HC-UFMG/Ebserh.
 

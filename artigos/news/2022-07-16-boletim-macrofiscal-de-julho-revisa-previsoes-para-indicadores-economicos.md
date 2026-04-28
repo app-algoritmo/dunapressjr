@@ -1,11 +1,12 @@
 ---
-title: "Boletim Macrofiscal de julho revisa previsões para indicadores econômicos"
+title: Boletim Macrofiscal de julho revisa previsões para indicadores econômicos
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Documento divulgado pela Secretaria de Política Econômica eleva projeção de crescimento do PIB para 2022 de 1,5% para 2%, e reduz estimativa de 7,9% para 7,2% da inflação pelo IPCA.
 

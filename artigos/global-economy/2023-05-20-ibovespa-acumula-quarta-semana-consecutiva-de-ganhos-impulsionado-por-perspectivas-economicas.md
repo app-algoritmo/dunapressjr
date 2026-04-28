@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa acumula quarta semana consecutiva de ganhos impulsionado por perspectivas econômicas"
+title: Ibovespa acumula quarta semana consecutiva de ganhos impulsionado por perspectivas
+  econômicas
 date: 2023-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Construtoras e frigoríficos lideram altas, enquanto dólar avança frente ao real e Fed mantém postura cautelosa sobre juros.
 

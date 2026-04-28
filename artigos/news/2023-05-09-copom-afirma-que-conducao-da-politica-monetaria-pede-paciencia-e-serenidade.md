@@ -1,11 +1,12 @@
 ---
-title: "Copom afirma que condução da política monetária pede 'paciência e serenidade'"
+title: Copom afirma que condução da política monetária pede 'paciência e serenidade'
 date: 2023-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para BC, arcabouço fiscal “sólido e crível” ajudará a reduzir inflação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara Municipal de SP cria CPI para investigar atuação da Enel"
+title: Câmara Municipal de SP cria CPI para investigar atuação da Enel
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Comissão terá duração inicial de 120 dias e contará com 7 integrantes.
 

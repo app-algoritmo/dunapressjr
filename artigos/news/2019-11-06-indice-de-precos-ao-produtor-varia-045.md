@@ -1,11 +1,12 @@
 ---
-title: "Índice de Preços ao Produtor varia 0,45%"
+title: Índice de Preços ao Produtor varia 0,45%
 date: 2019-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os preços da indústria variaram 0,45% em setembro de 2019,
 resultado inferior ao observado em agosto (0,91%). O acumulado no ano ficou em

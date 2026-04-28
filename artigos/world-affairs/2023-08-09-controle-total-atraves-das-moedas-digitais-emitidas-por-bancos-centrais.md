@@ -1,11 +1,12 @@
 ---
-title: "Controle total através das Moedas digitais emitidas por bancos centrais"
+title: Controle total através das Moedas digitais emitidas por bancos centrais
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As moedas digitais dos bancos centrais estão sendo desenvolvidas em um ritmo frenético em todo o mundo, e isso deve nos preocupar profundamente. 
 

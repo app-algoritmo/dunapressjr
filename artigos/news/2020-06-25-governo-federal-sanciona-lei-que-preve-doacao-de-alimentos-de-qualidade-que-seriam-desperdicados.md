@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal sanciona lei que prevê doação de alimentos de qualidade que seriam desperdiçados"
+title: Governo Federal sanciona lei que prevê doação de alimentos de qualidade que
+  seriam desperdiçados
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Texto prevê destinar à população mais vulnerável produtos com segurança alimentar garantida, mas sem valor comercial para empresas.
 

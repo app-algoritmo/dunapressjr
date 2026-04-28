@@ -1,11 +1,12 @@
 ---
-title: "Caixa esta disponibilizando cartão de débito virtual para clientes"
+title: Caixa esta disponibilizando cartão de débito virtual para clientes
 date: 2020-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A Caixa Econômica Federal disponibilizou um cartão de débito virtual para mais de 100 milhões de correntistas, de forma gratuita. O serviço é uma dasAações do banco para minimizar os impactos da pandemia do novo coronavírus (Covid-19).
 O produto possibilita compras nos sites de e-commerce que aceitam a função débito. Para cada transação, é possível gerar um código de segurança diferente, substituindo o uso do cartão de crédito. O cliente pode habilitar o uso do cartão diretamente no Internet Banking da Caixa. 

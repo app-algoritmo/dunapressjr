@@ -1,11 +1,12 @@
 ---
-title: "Fundação Gates Financia Modificação do Vírus H5N1: Implicações e Controvérsias"
+title: 'Fundação Gates Financia Modificação do Vírus H5N1: Implicações e Controvérsias'
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Fundação Gates, renomada por seus vastos recursos financeiros e influência significativa na indústria farmacêutica, recentemente direcionou uma quantia substancial para a pesquisa sobre o vírus H5N1, conhecido como gripe aviária. Bill Gates, fundador da Microsoft e filantropo, destinou US$ 9,5 milhões através de sua fundação para apoiar o trabalho da Universidade de Wisconsin-Madison e do pesquisador-chefe Yoshihiro Kawaoka. Este financiamento visa modificar os vírus H5N1 para que reconheçam preferencialmente os receptores humanos e sejam transmitidos de forma eficiente entre mamíferos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Funai distribui mais de 418 mil cestas a famílias indígenas do País"
+title: Funai distribui mais de 418 mil cestas a famílias indígenas do País
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de R$ 28 milhões foram investidos pela fundação no combate à covid-19. Ação garante a segurança alimentar de diversas comunidades.
 

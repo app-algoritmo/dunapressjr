@@ -1,12 +1,13 @@
 ---
-title: "Corpus Christi terá encenação com assistidos do Pequeno Cotolengo"
+title: Corpus Christi terá encenação com assistidos do Pequeno Cotolengo
 date: 2023-06-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Religiosity
+- Events
+- Religiosity
 ---
+
 
 ## Corpus Christi terá encenação com assistidos do Pequeno Cotolengo.
 

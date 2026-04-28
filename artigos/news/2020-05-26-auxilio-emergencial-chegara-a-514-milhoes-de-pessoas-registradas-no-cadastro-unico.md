@@ -1,11 +1,13 @@
 ---
-title: "Auxílio emergencial chegará a 51,4 milhões de pessoas registradas no Cadastro Único"
+title: Auxílio emergencial chegará a 51,4 milhões de pessoas registradas no Cadastro
+  Único
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Contingente representa 70% das pessoas registradas na base de dados do Governo Federal.
 

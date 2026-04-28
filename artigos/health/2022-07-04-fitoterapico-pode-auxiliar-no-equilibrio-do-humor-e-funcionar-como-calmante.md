@@ -1,11 +1,12 @@
 ---
-title: "Fitoterápico pode auxiliar no equilíbrio do humor e funcionar como calmante"
+title: Fitoterápico pode auxiliar no equilíbrio do humor e funcionar como calmante
 date: 2022-07-04
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Pesquisas evidenciam a relevância do uso de fitoterápicos como uma prática alternativa ou complementar à solução de problemas de saúde pública. Além da resposta para o tratamento inicial de doenças, a adesão dos pacientes é significativa. Segundo a Organização Mundial da Saúde (OMS), 80% da população de países em desenvolvimento confia na eficácia das plantas medicinais.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estudo mostra que os mRNAs aumentam o risco de infecção por coronavírus"
+title: Estudo mostra que os mRNAs aumentam o risco de infecção por coronavírus
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O estudo, conduzido por investigadores italianos, também contém notícias muito preocupantes para as pessoas que receberam três ou mais vacinas Moderna.
 

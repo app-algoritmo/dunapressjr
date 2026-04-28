@@ -1,11 +1,12 @@
 ---
-title: "Curitiba autoriza trânsito de “carros voadores”; testes começam em março"
+title: Curitiba autoriza trânsito de “carros voadores”; testes começam em março
 date: 2023-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Capital paranaense é a primeira cidade da América Latina a testar o chamado eVTOL.
 

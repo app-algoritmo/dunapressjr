@@ -1,11 +1,13 @@
 ---
-title: "Oito em cada dez pessoas vão enfrentar problemas na coluna em algum momento da vida"
+title: Oito em cada dez pessoas vão enfrentar problemas na coluna em algum momento
+  da vida
 date: 2022-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Mielopatia cervical. Esse foi o diagnóstico que a empresária Sinara Barbosa, de 45 anos, recebeu no final de 2020, após uma ressonância magnética. Os primeiros sintomas surgiram em março daquele ano, quando procurou um ortopedista para entender a causa de um desconforto no pescoço. Mesmo com a recomendação médica para realizar exames, o início da pandemia e a ausência de dores intensas fizeram com que a volta para o consultório fosse adiada. Com a diminuição dos casos de covid-19, ela fez os exames e logo recebeu o diagnóstico que não imaginava.
 

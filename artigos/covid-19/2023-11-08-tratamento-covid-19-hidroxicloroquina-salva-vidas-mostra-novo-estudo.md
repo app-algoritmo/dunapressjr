@@ -1,11 +1,12 @@
 ---
-title: "Tratamento COVID-19: Hidroxicloroquina salva vidas, mostra novo estudo"
+title: 'Tratamento COVID-19: Hidroxicloroquina salva vidas, mostra novo estudo'
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Estudo francês: Hidroxicloroquina está associada a menor mortalidade por COVID-19.
 

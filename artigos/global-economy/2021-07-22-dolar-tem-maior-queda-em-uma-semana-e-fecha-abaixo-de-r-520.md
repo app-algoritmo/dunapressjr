@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior queda em uma semana e fecha abaixo de R$ 5,20"
+title: Dólar tem maior queda em uma semana e fecha abaixo de R$ 5,20
 date: 2021-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores reage e sobe pelo segundo dia seguido
 

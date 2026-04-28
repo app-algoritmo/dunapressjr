@@ -1,11 +1,13 @@
 ---
-title: "57ª Sessão Ordinária: Aprovado projeto que autoriza crédito adicional para pagamento de profissionais da Saúde"
+title: '57ª Sessão Ordinária: Aprovado projeto que autoriza crédito adicional para
+  pagamento de profissionais da Saúde'
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou nesta quinta-feira (26), com 18 votos, em única discussão, o [Projeto de Lei Ordinária (PLO) nº 163/2020](http://intranet.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria163_2020.pdf), do Executivo Municipal. O projeto autoriza o prefeito a abrir crédito adicional suplementar de até R$ 8,6 milhões para pagamento de salário e 13º de profissionais da Saúde Municipal.
  

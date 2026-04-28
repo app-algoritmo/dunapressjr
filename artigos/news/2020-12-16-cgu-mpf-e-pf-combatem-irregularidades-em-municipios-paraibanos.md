@@ -1,11 +1,12 @@
 ---
-title: "CGU, MPF e PF combatem irregularidades em municípios paraibanos"
+title: CGU, MPF e PF combatem irregularidades em municípios paraibanos
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 5ª fase da Operação Recidiva investiga escritório de assessoria técnica e administrativa que desvia recursos por meio de convênios com a União.
 

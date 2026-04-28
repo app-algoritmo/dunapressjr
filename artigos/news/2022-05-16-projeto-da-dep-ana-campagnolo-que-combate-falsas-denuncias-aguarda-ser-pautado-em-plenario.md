@@ -1,11 +1,13 @@
 ---
-title: "Projeto da Dep. Ana Campagnolo que combate falsas denúncias aguarda ser pautado em plenário"
+title: Projeto da Dep. Ana Campagnolo que combate falsas denúncias aguarda ser pautado
+  em plenário
 date: 2022-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nas últimas semanas, a mídia internacional reproduziu um caso emblemático do ator Johnny Depp, que teve sua carreira sistematicamente arruinada por acusações de agressão - a respeito do que ainda há muito a ser esclarecido - por parte de sua ex-companheira, Amber Heard. O fato é que essa pauta - o combate às falsas denúncias que chegam às autoridade - é tema de um PL da parlementar.
 

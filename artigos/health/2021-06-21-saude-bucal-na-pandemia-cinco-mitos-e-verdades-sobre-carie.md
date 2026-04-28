@@ -1,11 +1,12 @@
 ---
-title: "Saúde bucal na pandemia: cinco mitos e verdades sobre cárie"
+title: 'Saúde bucal na pandemia: cinco mitos e verdades sobre cárie'
 date: 2021-06-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Escondida pelas máscaras, a saúde bucal não pode ser esquecida durante a pandemia e a rotina de cuidados diários é essencial para evitar problemas como a cárie. Com o vai e vem de home office e ensino remoto ou presencial, os horários podem ficar bagunçados e processos básicos como a escovação, o fio dental e o flúor acabam ficando de lado. Tanto para adultos, quanto para crianças e adolescentes. E isso tem preocupado dentistas.
 

@@ -1,11 +1,12 @@
 ---
-title: "OCDE Prepara um novo plano Marshall para Ucrânia"
+title: OCDE Prepara um novo plano Marshall para Ucrânia
 date: 2022-06-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Declaração de abertura na reunião do Conselho Ministerial da OCDE.
 

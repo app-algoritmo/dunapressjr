@@ -1,11 +1,13 @@
 ---
-title: "Com menor prazo para abertura, mais de 1,3 milhão de empresas são criadas no país em quatro meses"
+title: Com menor prazo para abertura, mais de 1,3 milhão de empresas são criadas no
+  país em quatro meses
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número foi registrado pelo boletim do Mapa de Empresas, que destaca o acerto das medidas de simplificação e a melhoria do ambiente de negócios no Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente da Ucrânia Acusa Rússia de Usar Ataque Terrorista para Justificar Guerra"
+title: Presidente da Ucrânia Acusa Rússia de Usar Ataque Terrorista para Justificar
+  Guerra
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Ucrânia, Volodymyr Zelensky, em uma entrevista à CBS, denunciou que a Rússia está tentando usar um recente ataque terrorista em Moscou como pretexto para justificar uma guerra, mesmo após o Estado Islâmico ter reivindicado a responsabilidade pelos ataques. Zelensky criticou a recusa da Rússia em aceitar a declaração do Estado Islâmico, chamando-a de "absurdo completo" e ressaltou que diversas agências de inteligência haviam alertado sobre possíveis ameaças desse tipo.
 

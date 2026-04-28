@@ -1,12 +1,14 @@
 ---
-title: "Estudo indica o Impacto Crescente das Alterações Climáticas Com Cinco Vezes Mais Inundações Costeiras Previstas para Este Século"
+title: Estudo indica o Impacto Crescente das Alterações Climáticas Com Cinco Vezes
+  Mais Inundações Costeiras Previstas para Este Século
 date: 2024-02-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
-  - Geopolitics
+- Environment
+- Geopolitics
 ---
+
 
 As alterações climáticas estão intensificando o risco de inundações costeiras em uma escala alarmante, projetando-se que esses eventos aumentem cinco vezes ao longo do século, afetando mais de 70 milhões de pessoas em todo o mundo. De acordo com dados recentes da Human Climate Horizons, uma colaboração entre o Climate Impact Lab e o Programa das Nações Unidas para o Desenvolvimento (PNUD), a América Latina e as Caraíbas, a Ásia Oriental e o Pacífico, e os Pequenos Estados Insulares em Desenvolvimento (SIDS) lideram as preocupações.
 

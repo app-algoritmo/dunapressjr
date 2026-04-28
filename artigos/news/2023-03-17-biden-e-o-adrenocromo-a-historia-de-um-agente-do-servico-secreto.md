@@ -1,11 +1,12 @@
 ---
-title: "Biden e o Adrenocromo, a história de um agente do serviço secreto"
+title: Biden e o Adrenocromo, a história de um agente do serviço secreto
 date: 2023-03-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente no site Real Raw News.
 

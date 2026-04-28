@@ -1,11 +1,12 @@
 ---
-title: "<strong>Preços da indústria recuam 1,96% em setembro, diz IBGE</strong>"
+title: <strong>Preços da indústria recuam 1,96% em setembro, diz IBGE</strong>
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Onze das 24 atividades pesquisadas registraram deflação.
 

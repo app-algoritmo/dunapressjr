@@ -1,11 +1,12 @@
 ---
-title: "Brasil já tem mais de 2,9 milhões de pessoas recuperadas da Covid-19"
+title: Brasil já tem mais de 2,9 milhões de pessoas recuperadas da Covid-19
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com 3.717.156 casos confirmados de Covid-19, o Brasil tem 2.908.848 pessoas recuperadas. Outras 690.642 estão em acompanhamento. É o que mostram os números divulgados nesta quarta-feira (26) pelo Ministério da Saúde.
 

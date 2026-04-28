@@ -1,12 +1,13 @@
 ---
-title: "21 de março: Dia Mundial da Infância"
+title: '21 de março: Dia Mundial da Infância'
 date: 2018-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
-  - Education
+- Architecture and Art
+- Education
 ---
+
 
 Hoje, 21 de março, celebramos o **Dia Mundial da Infância**, data que foi criada por iniciativa da UNICEF com o escopo de lembrar ao planeta a importância dessa fase na vida do ser humano. É nessa fase que a personalidade se forma, que adquirimos hábitos, costumes, crenças e somos formados enquanto seres espirituais, humanos e cidadãos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Kiev prepara falsa bandeira anti-Rússia envolvendo substâncias tóxicas, diz diplomata russa"
+title: Kiev prepara falsa bandeira anti-Rússia envolvendo substâncias tóxicas, diz
+  diplomata russa
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Maria Zakharova, Kiev planeja lançar “uma nova campanha dentro das estruturas da ONU e dos meios de comunicação mundiais para acusar a Rússia do alegado uso deliberado de armas químicas”.
 

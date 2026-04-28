@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro reforça Programa Nacional de Incentivo ao Voluntariado"
+title: Governo Bolsonaro reforça Programa Nacional de Incentivo ao Voluntariado
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A medida tem a finalidade de realizar remanejamento de cargos em comissão e funções de confiança para a Secretaria-Executiva do Programa Nacional de Incentivo ao Voluntariado, tendo em vista o caráter transversal de suas ações e projetos, bem como a competência da Casa Civil para coordenar e integrar as ações governamentais, diante da alteração prevista no Decreto nº 10.194, de 2019.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem recorde de empresas abertas no segundo quadrimestre do ano"
+title: Brasil tem recorde de empresas abertas no segundo quadrimestre do ano
 date: 2021-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mapa de Empresas aponta que 1,4 milhão de novos negócios foram iniciados de maio a agosto de 2021; tempo médio para criação de empreendimentos foi reduzido.
 

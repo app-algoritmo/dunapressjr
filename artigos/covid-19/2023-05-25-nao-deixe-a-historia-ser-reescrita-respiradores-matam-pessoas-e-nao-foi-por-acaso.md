@@ -1,11 +1,13 @@
 ---
-title: "Não deixe a história ser reescrita: respiradores matam pessoas... e não foi por acaso"
+title: 'Não deixe a história ser reescrita: respiradores matam pessoas... e não foi
+  por acaso'
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Estudos afirmam que muitos "pacientes de Covid" foram mortos por ventilação mecânica invasiva, mas sabíamos que então e agora a história está sendo reescrita.
 

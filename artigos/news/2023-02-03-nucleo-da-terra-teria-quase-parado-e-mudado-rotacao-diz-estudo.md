@@ -1,11 +1,12 @@
 ---
-title: "Núcleo da Terra teria quase parado e mudado rotação, diz estudo"
+title: Núcleo da Terra teria quase parado e mudado rotação, diz estudo
 date: 2023-02-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa publicada na "Nature Geoscience" pode ajudar a entender o papel que o núcleo desempenha no campo magnético da Terra e na sua velocidade rotação – e, portanto, na duração dos dias.
 

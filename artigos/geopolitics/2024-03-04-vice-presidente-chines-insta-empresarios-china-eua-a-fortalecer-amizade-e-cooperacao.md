@@ -1,11 +1,12 @@
 ---
-title: "Vice-presidente Chinês Insta Empresários China-EUA a Fortalecer Amizade e Cooperação"
+title: Vice-presidente Chinês Insta Empresários China-EUA a Fortalecer Amizade e Cooperação
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O vice-presidente chinês, Han Zheng, instou os círculos empresariais da China e dos Estados Unidos a consolidarem as bases da amizade e confiança mútua e expandirem as áreas de cooperação durante seu discurso no jantar de apreciação anual da Câmara Americana do Comércio na República Popular da China (AmCham China), em Beijing, no sábado.
 

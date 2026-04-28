@@ -1,11 +1,13 @@
 ---
-title: "Comitiva inspeciona atividades da operação interagências no perímetro da Penitenciária Federal de Brasília"
+title: Comitiva inspeciona atividades da operação interagências no perímetro da Penitenciária
+  Federal de Brasília
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília (DF)**
 – No dia 26 de fevereiro, uma comitiva do governo federal acompanhou as

@@ -1,11 +1,12 @@
 ---
-title: "Deus não teve interesse em esconder as fraquezas dos grandes homens da Bíblia"
+title: Deus não teve interesse em esconder as fraquezas dos grandes homens da Bíblia
 date: 2019-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Admire as pessoas que confessam suas fraquezas, e tenha um cuidado redobrado com aqueles que vivem "arrotando" santidade.
 

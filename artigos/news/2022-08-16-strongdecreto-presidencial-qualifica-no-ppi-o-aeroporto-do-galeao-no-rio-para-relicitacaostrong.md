@@ -1,11 +1,13 @@
 ---
-title: "<strong>Decreto presidencial qualifica no PPI o Aeroporto do Galeão, no Rio, para relicitação</strong>"
+title: <strong>Decreto presidencial qualifica no PPI o Aeroporto do Galeão, no Rio,
+  para relicitação</strong>
 date: 2022-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A publicação do edital e a realização do leilão de concessão estão previstos para o 3º trimestre de 2023.
 

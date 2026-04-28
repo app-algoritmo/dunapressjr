@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro envia mais de R$ 1,6 bilhão às santas casas e hospitais filantrópicos"
+title: Governo Bolsonaro envia mais de R$ 1,6 bilhão às santas casas e hospitais filantrópicos
 date: 2020-06-06
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Recurso é parte do auxílio emergencial aos estados no combate à Covid-19 e contemplou 1651 entidades filantrópicas
 

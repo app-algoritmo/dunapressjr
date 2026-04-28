@@ -1,11 +1,12 @@
 ---
-title: "PF apreende em Foz do Iguaçu produtos eletrônicos e um veículo"
+title: PF apreende em Foz do Iguaçu produtos eletrônicos e um veículo
 date: 2020-05-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Por volta das 4h do dia 08/05, durante patrulhamento nas margens do Rio Paraná, policiais federais e da FNSP avistaram um movimento de veículos no local  conhecido como "Porto do Dentão" em Foz do Iguaçu.
 

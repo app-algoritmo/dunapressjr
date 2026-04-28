@@ -1,11 +1,12 @@
 ---
-title: "IBGE estima safra recorde de 261,9 milhões de toneladas em 2022"
+title: IBGE estima safra recorde de 261,9 milhões de toneladas em 2022
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Números são do Levantamento Sistemático da Produção Agrícola.
 

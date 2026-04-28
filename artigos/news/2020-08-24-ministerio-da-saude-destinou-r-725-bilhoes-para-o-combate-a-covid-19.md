@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde destinou R$ 72.5 bilhões para o combate à Covid-19"
+title: Ministério da Saúde destinou R$ 72.5 bilhões para o combate à Covid-19
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 esde o início da crise do novo coronavírus, o Ministério da Saúde vem apoiando estados e municípios na compra e entrega de equipamentos, habilitação de leitos de UTI e enviando recursos para o enfrentamento da Covid-19. Ao todo, já foram R$ 72,5 bilhões, destinados aos 26 estados e o Distrito Federal. Desse total, R$ 52,6 bilhões foram para serviços de rotina do SUS, e outros R$ 19,9 bilhões para a Covid-19. O balanço das ações da pasta foram divulgados durante coletiva de imprensa online nessa quinta-feira (20).
 

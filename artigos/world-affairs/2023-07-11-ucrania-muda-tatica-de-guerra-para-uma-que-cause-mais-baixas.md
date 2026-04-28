@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia muda tática de guerra para uma que cause mais baixas"
+title: Ucrânia muda tática de guerra para uma que cause mais baixas
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Depois de um mês de tentativas frustradas de chegar às linhas de defesa russas, o lado ucraniano não avança. 
 

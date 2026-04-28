@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro já enviou 414 mil cestas de alimentos e 68 mil kits de higiene a indígenas"
+title: Governo Bolsonaro já enviou 414 mil cestas de alimentos e 68 mil kits de higiene
+  a indígenas
 date: 2020-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Com os alimentos, o objetivo é garantir a segurança alimentar dos povos mais vulneráveis e evitar o contato com o coronavírus. Com esses alimentos, o Governo Federal quer garantir a segurança alimentar dos indígenas e mantê-los nas aldeias.
 

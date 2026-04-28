@@ -1,11 +1,12 @@
 ---
-title: "BC: contas externas têm saldo negativo de US$ 8,8 bilhões em janeiro"
+title: 'BC: contas externas têm saldo negativo de US$ 8,8 bilhões em janeiro'
 date: 2023-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Houve redução de 6% no déficit em relação ao mesmo mês de 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pequenos empresários contrataram R$ 1,3 bilhão até o mês de julho"
+title: Pequenos empresários contrataram R$ 1,3 bilhão até o mês de julho
 date: 2020-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Recursos criados para os Fundos Constitucionais de Financiamento atendem empreendedores das regiões Norte, Nordeste e Centro-Oeste, visando a diminuição dos impactos econômicos causados pela pandemia de Covid-19.
 

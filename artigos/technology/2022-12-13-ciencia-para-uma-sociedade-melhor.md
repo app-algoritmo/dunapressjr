@@ -1,11 +1,12 @@
 ---
-title: "Ciência para uma sociedade melhor"
+title: Ciência para uma sociedade melhor
 date: 2022-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 O processo evolutivo que culminou no surgimento da espécie *Homo sapiens* trouxe consigo o aperfeiçoamento de uma das características intrínsecas mais fascinantes dos seres vivos, que é a curiosidade. Nascemos curiosos, e desenvolvemos a curiosidade durante todo o período que nos mantemos vivos.
 

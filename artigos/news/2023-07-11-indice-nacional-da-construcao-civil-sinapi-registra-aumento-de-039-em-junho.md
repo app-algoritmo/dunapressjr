@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil (Sinapi) registra aumento de 0,39% em junho"
+title: Índice Nacional da Construção Civil (Sinapi) registra aumento de 0,39% em junho
 date: 2023-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado reflete variações nos custos de materiais e mão de obra; Região Sul lidera as altas mensais. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Transumanismo: Dançando com o Demônio Digital"
+title: 'Transumanismo: Dançando com o Demônio Digital'
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 *Muitas pessoas descartam levianamente as advertências sobre o transumanismo, sem perceber que caíram na armadilha mais engenhosa da história humana; uma armadilha que promete utopia, mas traz destruição. Este artigo é um alimento indispensável para o pensamento que reforça o título do meu último livro, The Evil Twins of Technocracy and Transhumanism.*
 

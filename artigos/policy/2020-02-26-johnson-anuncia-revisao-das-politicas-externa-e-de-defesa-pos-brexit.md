@@ -1,11 +1,12 @@
 ---
-title: "Johnson anuncia revisão das políticas externa e de defesa, pós-Brexit"
+title: Johnson anuncia revisão das políticas externa e de defesa, pós-Brexit
 date: 2020-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O primeiro-ministro britânico, Boris Johnson, anunciou uma
 grande revisão da política externa e da defesa do país, após a saída do Reino

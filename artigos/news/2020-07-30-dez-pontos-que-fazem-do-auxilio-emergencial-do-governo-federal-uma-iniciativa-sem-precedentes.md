@@ -1,11 +1,13 @@
 ---
-title: "Dez pontos que fazem do Auxílio Emergencial do Governo Federal uma iniciativa sem precedentes"
+title: Dez pontos que fazem do Auxílio Emergencial do Governo Federal uma iniciativa
+  sem precedentes
 date: 2020-07-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Uma das principais medidas de combate aos efeitos econômicos do novo coronavírus, o repasse de R$ 600 tem efeitos positivos em mais da metade da população e eficiência superior a 99,5%.
 

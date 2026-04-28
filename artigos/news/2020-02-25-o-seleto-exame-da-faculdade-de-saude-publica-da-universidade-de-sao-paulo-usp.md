@@ -1,11 +1,13 @@
 ---
-title: "O seleto exame da Faculdade de 'Saúde Pública' da Universidade de São Paulo (USP)"
+title: O seleto exame da Faculdade de 'Saúde Pública' da Universidade de São Paulo
+  (USP)
 date: 2020-02-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Denunciada pela deputada estadual Janaina Paschoal — professora da Faculdade de Direito na mesma entidade pública, custeada com os impostos de milhões de contribuintes, a Universidade de São Paulo (USP) promoveu um exame para os candidatos a "especialização" na Faculdade de Saúde Pública, assista o vídeo:
 

@@ -1,11 +1,12 @@
 ---
-title: "Regulação das Redes Sociais no Brasil: Uma Análise do Projeto de Lei 2630/2020"
+title: 'Regulação das Redes Sociais no Brasil: Uma Análise do Projeto de Lei 2630/2020'
 date: 2023-12-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Brasil, como muitos outros países, enfrenta desafios crescentes relacionados à disseminação de informações falsas e manipulação nas redes sociais. Em resposta a essa preocupação, o Projeto de Lei 2630/2020, popularmente conhecido como PL das Fake News, foi proposto para regulamentar o ambiente digital.
 

@@ -1,11 +1,12 @@
 ---
-title: "Homeschooling - Uma quebra de paradigma"
+title: Homeschooling - Uma quebra de paradigma
 date: 2018-09-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 É um fato que nosso sistema de ensino brasileiro não atende ao menos a maioria esmagadora das expectativas e necessidades dos alunos, ou boa parte delas, por inúmeros fatores, uma questão que foi plantada há muito tempo e poucos trabalham para reverter este quadro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cai estimativa do mercado financeiro para inflação, diz BC"
+title: Cai estimativa do mercado financeiro para inflação, diz BC
 date: 2020-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A meta, definida pelo Conselho Monetário Nacional, é 4% em 2020
 

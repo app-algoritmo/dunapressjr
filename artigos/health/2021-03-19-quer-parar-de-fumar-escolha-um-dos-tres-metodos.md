@@ -1,11 +1,12 @@
 ---
-title: "Quer parar de fumar? Escolha um dos três métodos"
+title: Quer parar de fumar? Escolha um dos três métodos
 date: 2021-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Abandonar o cigarro não é uma tarefa fácil. Sabendo que o tabagismo é uma doença epidêmica que causa dependência física – e que está relacionada ao agravamento de várias outras doenças, muitas delas incapacitantes e fatais, como o câncer –*, *o primeiro passo para parar de fumar é ter determinação e escolher uma data para ser o primeiro dia sem cigarro.
 

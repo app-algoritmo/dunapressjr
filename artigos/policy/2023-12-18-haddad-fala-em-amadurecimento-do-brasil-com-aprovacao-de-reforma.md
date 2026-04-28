@@ -1,11 +1,12 @@
 ---
-title: "Haddad fala em “amadurecimento” do Brasil com aprovação de reforma"
+title: Haddad fala em “amadurecimento” do Brasil com aprovação de reforma
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ministro comemorou novas regras tributárias e agradeceu parlamentares.
 

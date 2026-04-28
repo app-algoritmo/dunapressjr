@@ -1,11 +1,12 @@
 ---
-title: "Estudo mostra relação entre estresse e aumento de pessoas com apertamento dentário"
+title: Estudo mostra relação entre estresse e aumento de pessoas com apertamento dentário
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O estresse relacionado à pandemia de covid-19 gerou aumento de problemas relacionados ao bruxismo. É o que aponta uma pesquisa realizada pela Universidade Federal do Rio de Janeiro (UFRJ) sobre o impacto da pandemia no estresse, sono e saúde bucal em estudantes universitários. Segundo o levantamento, 30% dos entrevistados se consideram muito estressados desde a chegada do coronavírus. Além do bruxismo, outra sequela desse período para a saúde bucal foi a alteração de paladar de pessoas que foram contaminadas, e que agora precisam buscar tratamento.
 

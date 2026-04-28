@@ -1,11 +1,13 @@
 ---
-title: "Diretora administrativa do FMI, pede às autoridades monetárias que 'fiquem paradas'"
+title: Diretora administrativa do FMI, pede às autoridades monetárias que 'fiquem
+  paradas'
 date: 2023-01-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [Na palestra de encerramento](https://www.weforum.org/events/world-economic-forum-annual-meeting-2023/sessions/global-economic-outlook-is-this-the-end-of-an-era) do Fórum Econômico Mundial em Davos a diretora administrativa do FMI, Kristalina Georgieva, pediu realismo diante dessas previsões, implorando às autoridades monetárias que “fiquem paradas”.
 

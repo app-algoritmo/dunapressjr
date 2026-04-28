@@ -1,11 +1,13 @@
 ---
-title: "CMN amplia limite de crédito para entes subnacionais e promove medidas para o setor agrícola"
+title: CMN amplia limite de crédito para entes subnacionais e promove medidas para
+  o setor agrícola
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Teto de contratações será ampliado para R$ 6 bilhões a partir de junho.
 

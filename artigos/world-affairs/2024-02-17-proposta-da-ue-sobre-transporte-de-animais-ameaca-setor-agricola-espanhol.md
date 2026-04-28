@@ -1,11 +1,12 @@
 ---
-title: "Proposta da UE sobre transporte de animais ameaça setor agrícola espanhol"
+title: Proposta da UE sobre transporte de animais ameaça setor agrícola espanhol
 date: 2024-02-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão Europeia está propondo reformas significativas na regulamentação do transporte de animais, o que poderia impactar severamente o setor agrícola espanhol. As novas medidas incluem restrições de viagem em temperaturas superiores a 25 ou 20 graus, bem como limitações na duração das viagens para diferentes categorias de animais, como bezerros lactentes e animais destinados ao abate.
 

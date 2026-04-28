@@ -1,11 +1,12 @@
 ---
-title: "Wall Street fecha em alta com salto de bancos e foco no Fed"
+title: Wall Street fecha em alta com salto de bancos e foco no Fed
 date: 2023-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Wall Street fechou em forte alta nesta terça-feira (21), quando temores generalizados sobre a liquidez no setor bancário diminuíram e as atenções dos participantes do mercado se voltaram para o Federal Reserve, que deve concluir sua reunião de política monetária de dois dias nesta quarta-feira (22) com um aumento de 0,25 ponto percentual em sua taxa básica de juros.
 

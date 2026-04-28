@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova projeto que prorroga início de licença-maternidade em caso de internação"
+title: Câmara aprova projeto que prorroga início de licença-maternidade em caso de
+  internação
 date: 2019-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Najara Araújo/Câmara dos Deputados
 

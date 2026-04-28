@@ -1,11 +1,12 @@
 ---
-title: "Para ser forte, a Europa deve ficar unida e solidária, Ursula von der Leyen"
+title: Para ser forte, a Europa deve ficar unida e solidária, Ursula von der Leyen
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em entrevista a ANSA, a anti nacionalista Ursula von der Leyen presidente da Comissão Europeia, por ocasião do Europa Day fala sobre a importância do espírito dos “pais fundadores” exorta a repartir dos valores europeus de solidariedade e do multilateralismo.
 O sonho de Robert Schuman e dos "Pais Fundadores da Europa" ainda está vivo e pode ajudar os povos europeus a superarem a crise provocada pela pandemia, reforçando as bases da solidariedade. Nas vésperas do Europa Day, a presidente da Comissão Europeia, Ursula von der Leyen, fala ao Vatican News e ao L'Osservatore Romano sobre os grandes temas atuais. Do compromisso para encontrar uma vacina contra a Covid-19 às medidas para sustentar a economia do continente. A senhora Von der Leyen, fala também sobre os apelos do Papa Francisco pela unidade dos povos europeus, contra os egoísmos nacionalistas e sobre o papel que a União Europeia poderá ter depois do fim da pandemia em todo o mundo.

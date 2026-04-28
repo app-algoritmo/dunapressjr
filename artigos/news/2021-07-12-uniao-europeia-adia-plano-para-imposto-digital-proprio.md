@@ -1,11 +1,12 @@
 ---
-title: "União Europeia adia plano para imposto digital próprio"
+title: União Europeia adia plano para imposto digital próprio
 date: 2021-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor do imposto é questionado por autoridades do bloco.
 

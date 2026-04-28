@@ -1,11 +1,12 @@
 ---
-title: "Médicos indianos agora querem uma revisão da vacina da Covid"
+title: Médicos indianos agora querem uma revisão da vacina da Covid
 date: 2023-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O Dr Aseem Malhotra, um médico treinado pelo Serviço Nacional de Saúde (NHS) que recebeu duas doses da vacina COVID-19, já está liderando os apelos internacionais para a suspensão da vacina mRNA-COVID da Pfizer.
 

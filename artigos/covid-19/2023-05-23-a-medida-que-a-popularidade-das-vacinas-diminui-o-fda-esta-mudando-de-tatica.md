@@ -1,11 +1,12 @@
 ---
-title: "À medida que a popularidade das 'vacinas' diminui, o FDA está mudando de tática"
+title: À medida que a popularidade das 'vacinas' diminui, o FDA está mudando de tática
 date: 2023-05-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Quando nos esquecemos de que as vacinações ainda estão aumentando, somos lembrados com “boas” notícias de que não precisamos tomar tantas vacinas quanto nos disseram originalmente.
 

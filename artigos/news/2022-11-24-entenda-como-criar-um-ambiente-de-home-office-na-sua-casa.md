@@ -1,11 +1,12 @@
 ---
-title: "Entenda como criar um ambiente de home office na sua casa"
+title: Entenda como criar um ambiente de home office na sua casa
 date: 2022-11-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Exercer suas atividades de trabalho direto de casa com um ambiente organizado é ótimo para economizar tempo de deslocamento e aproveitar momentos ao lado da família. De qualquer forma, você deve se organizar para não misturar lazer com serviço e manter a produtividade em alta.
 

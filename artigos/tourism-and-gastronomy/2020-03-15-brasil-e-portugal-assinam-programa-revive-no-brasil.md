@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Portugal assinam Programa Revive, no Brasil"
+title: Brasil e Portugal assinam Programa Revive, no Brasil
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Ministro do Turismo brasileiro assina protocolo de cooperação com Ministério português para recuperar prédios de patrimônio histórico e cultural subutilizados.
 

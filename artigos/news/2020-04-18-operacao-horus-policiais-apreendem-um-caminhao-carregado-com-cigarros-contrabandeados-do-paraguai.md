@@ -1,11 +1,13 @@
 ---
-title: "Operação Hórus - Policiais apreendem um caminhão carregado com cigarros contrabandeados do Paraguai"
+title: Operação Hórus - Policiais apreendem um caminhão carregado com cigarros contrabandeados
+  do Paraguai
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Na madrugada do dia 17, mais uma apreensão foi realizada por equipes que participam da Operação Hórus, integrada pela Polícia Federal, COBRA/BPFRON/PMPR, BOPE/COE/PMPR, TIGRE/PCPR, BOPE/PMMS, Força Nacional e pelo Exército Brasileiro, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

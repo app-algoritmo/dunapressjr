@@ -1,11 +1,12 @@
 ---
-title: "IBGE:IPCA-15 de abril tem alta de 0,57%, puxado pelos Transportes e Saúde"
+title: IBGE:IPCA-15 de abril tem alta de 0,57%, puxado pelos Transportes e Saúde
 date: 2023-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Gasolina e medicamentos estão entre os itens que mais impactaram a inflação, enquanto alimentos desaceleraram em relação a março.
 

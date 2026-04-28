@@ -1,11 +1,12 @@
 ---
-title: "Iluminação de interiores: conforto visual e sofisticação em cada detalhe"
+title: 'Iluminação de interiores: conforto visual e sofisticação em cada detalhe'
 date: 2024-02-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Arquiteta da A.Yoshii dá dicas sobre o uso da iluminação para transformar ambientes e criar verdadeiras obras de arte com feixes de luzes.
 

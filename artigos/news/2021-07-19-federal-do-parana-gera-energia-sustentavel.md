@@ -1,11 +1,12 @@
 ---
-title: "Federal do Paraná gera energia sustentável"
+title: Federal do Paraná gera energia sustentável
 date: 2021-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Com bolsistas da CAPES, o projeto da UFPR utiliza microalgas para tratar gases poluentes.
 

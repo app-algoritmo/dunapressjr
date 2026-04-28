@@ -1,11 +1,12 @@
 ---
-title: "Kajuru: STF tem maioria para permitir que governo pague precatórios até 2026"
+title: 'Kajuru: STF tem maioria para permitir que governo pague precatórios até 2026'
 date: 2023-11-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) destacou em pronunciamento nesta terça-feira (28) que o Supremo Tribunal Federal (STF) formou maioria, na segunda-feira (27), para derrubar o teto anual para o pagamento de precatórios e autorizar o Executivo a regularizar o estoque de dívidas até 2026, sem infringir regras fiscais. O parlamentar ressaltou que o ministro Luiz Fux, relator da matéria, declarou a inconstitucionalidade do teto criado em 2021 para o pagamento de precatórios e acolheu o pedido da Advocacia-Geral da União (AGU) para quitar o passivo com a abertura de um crédito extraordinário.
 

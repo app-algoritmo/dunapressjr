@@ -1,11 +1,12 @@
 ---
-title: "Dólar interrompe sequência de quedas e fecha acima de R$ 5,18"
+title: Dólar interrompe sequência de quedas e fecha acima de R$ 5,18
 date: 2020-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Na contramão do mercado externo, bolsa subiu 1,49%
 

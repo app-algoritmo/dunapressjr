@@ -1,11 +1,12 @@
 ---
-title: "O Massacre de Odessa: Uma História de Silêncio e Impunidade"
+title: 'O Massacre de Odessa: Uma História de Silêncio e Impunidade'
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No décimo aniversário do terrível massacre em Odessa, onde pelo menos 42 homens e mulheres perderam suas vidas, é importante refletir sobre as implicações desse evento e o silêncio ensurdecedor que o rodeia.
 

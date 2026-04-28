@@ -1,11 +1,12 @@
 ---
-title: "Espanha: Rejeição de Emendas Desencadeia o Colapso da Lei de Anistia"
+title: 'Espanha: Rejeição de Emendas Desencadeia o Colapso da Lei de Anistia'
 date: 2024-01-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 **Independentistas Catalães da Junts Retornam à Comissão de Justiça Após a Queda da Proposta de Lei**.
 

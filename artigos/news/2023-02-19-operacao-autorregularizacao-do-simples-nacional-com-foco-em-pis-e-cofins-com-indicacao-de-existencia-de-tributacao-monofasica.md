@@ -1,11 +1,13 @@
 ---
-title: "Operação autorregularização do Simples Nacional com foco em PIS e COFINS com indicação de existência de tributação monofásica"
+title: Operação autorregularização do Simples Nacional com foco em PIS e COFINS com
+  indicação de existência de tributação monofásica
 date: 2023-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O contribuinte terá a oportunidade de se autorregularizar até o dia 10 de maio de 2023.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF investiga desvios em programa voltado a portos e indústrias no CE"
+title: PF investiga desvios em programa voltado a portos e indústrias no CE
 date: 2020-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Marquetagem cumpre 17 mandados de busca e apreensão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Teste de sangue sem agulha será testado no espaço"
+title: Teste de sangue sem agulha será testado no espaço
 date: 2021-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O dispositivo coleta dados escaneando os vasos sanguíneos do olho e envia os resultados diretamente aos médicos. Em breve será testado no espaço.
 

@@ -1,11 +1,13 @@
 ---
-title: "Documentos confidenciais da Pfizer mostram que a previsão de despovoamento para 2025 não é exagerada"
+title: Documentos confidenciais da Pfizer mostram que a previsão de despovoamento
+  para 2025 não é exagerada
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O mundo está começando a perceber que as vacinas contra o coronavírus de Wuhan (COVID-19) visam, na verdade, o [extermínio em massa dentro de um prazo determinado](https://www.shtfplan.com/headline-news/pfizer-dox-confirm-deagels-2025-depopulation-forecast-is-on-target-not-just-an-estimation) , graças aos documentos confidenciais da Pfizer que a *Food and Drug Administration* (FDA) foi forçada a publicar por ordem judicial . Os documentos da Pfizer contêm informações sobre a vacina experimental COVID-19 da empresa.
 

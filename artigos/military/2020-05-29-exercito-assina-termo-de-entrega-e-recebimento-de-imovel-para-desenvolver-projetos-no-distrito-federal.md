@@ -1,11 +1,13 @@
 ---
-title: "Exército assina Termo de Entrega e Recebimento de imóvel para desenvolver projetos no Distrito Federal"
+title: Exército assina Termo de Entrega e Recebimento de imóvel para desenvolver projetos
+  no Distrito Federal
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 No Quartel-General do Exército, aconteceu a entrega solene da documentação dominial do imóvel denominado Pátio Ferroviário de Brasília (PFB), da Secretaria de Coordenação e Governança de Patrimônio da União (SPU) para o Exército, materializada pela atualização do respectivo Termo de Entrega e Recebimento (TER). A cerimônia contou com a presença de diversas autoridades federais e distritais, além de militares do Departamento de Engenharia e Construção (DEC).
 

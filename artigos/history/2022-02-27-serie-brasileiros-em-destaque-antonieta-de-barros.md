@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Antonieta de Barros"
+title: 'Série Brasileiros em Destaque: Antonieta de Barros'
 date: 2022-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Nascida em 11 de julho de 1901, Antonieta de Barros foi a primeira mulher a integrar a Assembleia Legislativa de Santa Catarina. Educadora e jornalista atuante, teve que romper muitas barreiras para conquistar espaços que, em seu tempo, eram inusitados para as mulheres – e mais ainda para uma mulher negra.
 

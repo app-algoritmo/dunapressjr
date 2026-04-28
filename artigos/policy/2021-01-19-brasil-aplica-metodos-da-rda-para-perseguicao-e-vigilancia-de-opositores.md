@@ -1,11 +1,12 @@
 ---
-title: "Brasil aplica métodos da RDA, para perseguição e vigilância de opositores"
+title: Brasil aplica métodos da RDA, para perseguição e vigilância de opositores
 date: 2021-01-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O objetivo era a fragmentação, paralisia, desorganização e isolamento do que eles classificavam como  forças hostis e negativas (ativistas e opositores), a fim de impedir preventivamente atividades e  restringir ampla ou totalmente e, se aplicável, preparar o terreno para um restabelecimento político e ideológico.
 

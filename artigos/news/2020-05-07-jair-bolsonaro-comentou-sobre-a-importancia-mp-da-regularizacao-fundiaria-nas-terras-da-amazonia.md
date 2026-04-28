@@ -1,11 +1,13 @@
 ---
-title: "Jair Bolsonaro, comentou sobre a importância MP da Regularização Fundiária nas terras da Amazônia"
+title: Jair Bolsonaro, comentou sobre a importância MP da Regularização Fundiária
+  nas terras da Amazônia
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 [A Medida Provisória](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/Mpv/mpv910.htm) que trata da Regularização Fundiária está em tramitação no Congresso Nacional. Seu texto prevê a titulação de terras da União em todo País. Em suas redes sociais, o presidente da República, Jair Bolsonaro, comentou sobre a importância de a MP ser votada no Congresso Nacional a tempo.
 

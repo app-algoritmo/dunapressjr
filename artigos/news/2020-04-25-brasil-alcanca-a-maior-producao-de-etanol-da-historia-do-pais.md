@@ -1,11 +1,12 @@
 ---
-title: "Brasil alcança a maior produção de etanol da história do País"
+title: Brasil alcança a maior produção de etanol da história do País
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 País confirma recorde na produção de etanol: 35,6 bilhões de litros na safra 2019/20. Essa é a maior produção de etanol da história, representando um acréscimo de 7,5% em comparação a 2018/19.
 

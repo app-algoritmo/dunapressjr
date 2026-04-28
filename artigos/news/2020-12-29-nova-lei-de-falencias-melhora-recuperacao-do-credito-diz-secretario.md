@@ -1,11 +1,12 @@
 ---
-title: "Nova Lei de Falências melhora recuperação do crédito, diz secretário"
+title: Nova Lei de Falências melhora recuperação do crédito, diz secretário
 date: 2020-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reformulação ajudará também na recuperação econômica, afirma Rodrigues.
 

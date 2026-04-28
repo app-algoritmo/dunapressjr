@@ -1,11 +1,12 @@
 ---
-title: "Evento: Cúpula Conservadora das Américas"
+title: 'Evento: Cúpula Conservadora das Américas'
 date: 2018-12-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em 08 de dezembro acontecerá a primeira edição da Cúpula Conservadora das Américas com a presença de importantes líderes e economistas liberais da América Latina para tratar de temas como economia, segurança, cultura e política. São os países participantes: Argentina, Brasil, Chile, Colômbia, Cuba, Estados Unidos, Hungria, Paraguai e Venezuela.
 

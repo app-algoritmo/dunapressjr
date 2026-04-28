@@ -1,11 +1,12 @@
 ---
-title: "Saindo da zona de conforto - 01"
+title: Saindo da zona de conforto - 01
 date: 2018-08-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Um dos nossos maiores problemas é a zona de conforto.
 

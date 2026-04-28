@@ -1,11 +1,13 @@
 ---
-title: "Governo emite nota de esclarecimento em relação à decisão do STF que suspende cortes no Bolsa Família"
+title: Governo emite nota de esclarecimento em relação à decisão do STF que suspende
+  cortes no Bolsa Família
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em relação à decisão do Supremo Tribunal Federal que suspende cortes no Bolsa Família, informamos que:
 

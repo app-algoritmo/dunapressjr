@@ -1,11 +1,13 @@
 ---
-title: "ONU confirmou recorde de temperatura na Europa com 48,8 graus alcançados em 2021"
+title: ONU confirmou recorde de temperatura na Europa com 48,8 graus alcançados em
+  2021
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 A Organização Meteorológica Mundial (OMM) confirmou esta terça-feira o recorde de temperatura de 48,8°C alcançado em 11 de agosto de 2021 na ilha italiana da Sicília.
 

@@ -1,11 +1,12 @@
 ---
-title: "Um belo exemplo a ser seguido"
+title: Um belo exemplo a ser seguido
 date: 2019-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Se todos os diretores de colégios públicos ou privados
 tivessem a mesma iniciativa de Idelmar Kanitz, diretor do Colégio Evangélico

@@ -1,11 +1,12 @@
 ---
-title: "Indicador do Ipea mostra que investimentos ficaram estáveis em junho"
+title: Indicador do Ipea mostra que investimentos ficaram estáveis em junho
 date: 2021-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado em 12 meses, investimentos apresentaram expansão de 12%.
 

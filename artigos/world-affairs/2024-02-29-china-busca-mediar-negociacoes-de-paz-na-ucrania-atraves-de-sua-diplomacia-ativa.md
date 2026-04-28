@@ -1,11 +1,13 @@
 ---
-title: "China busca mediar negociações de paz na Ucrânia através de sua diplomacia ativa"
+title: China busca mediar negociações de paz na Ucrânia através de sua diplomacia
+  ativa
 date: 2024-02-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Representante Especial Chinês para Assuntos Eurasiáticos, Li Hui, está empenhado em facilitar o diálogo e construir pontes para negociações de paz na Ucrânia, conforme afirmou o porta-voz do Ministério das Relações Exteriores da China, Mao Ning. Em um briefing recente, Mao Ning enfatizou o compromisso da China em resolver a crise na Ucrânia, destacando que prolongar o impasse não serve aos interesses da comunidade internacional.
 

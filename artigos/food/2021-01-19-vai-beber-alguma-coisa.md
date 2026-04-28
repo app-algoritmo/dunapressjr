@@ -1,11 +1,12 @@
 ---
-title: "Vai beber alguma coisa?"
+title: Vai beber alguma coisa?
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 É tão comum que já ficou até automático. O garçom chega na mesa e logo oferece o cardápio de bebidas. Com os pedidos dos pratos feitos, a pergunta que sempre encerra é: “E para beber, o que você vai querer?”. Em muitos lugares, os combos já são montados sempre incluindo alguma bebida para acompanhar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo material abre caminho para uma computação mais rápida"
+title: Novo material abre caminho para uma computação mais rápida
 date: 2021-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Uma pesquisa liderada pelo Laboratório Cavendish da Universidade de Cambridge identificou um material que pode ajudar a lidar com a velocidade e a energia, os dois maiores desafios para os computadores do futuro.
 

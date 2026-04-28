@@ -1,11 +1,12 @@
 ---
-title: "China e Rússia Unem Forças Contra o Ocidente: Desafio ao Poder da OTAN"
+title: 'China e Rússia Unem Forças Contra o Ocidente: Desafio ao Poder da OTAN'
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O exército chinês está pronto para defender a justiça global ao lado do exército russo, sinalizando ao Ocidente que a China apoiará a Rússia em caso de conflito. Essa aliança significa que os EUA enfrentarão o poder combinado das duas superpotências, colocando em cheque a força convencional da OTAN.
 

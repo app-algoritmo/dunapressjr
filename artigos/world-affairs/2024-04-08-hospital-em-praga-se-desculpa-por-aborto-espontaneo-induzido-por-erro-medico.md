@@ -1,11 +1,12 @@
 ---
-title: "Hospital em Praga se Desculpa por Aborto Espontâneo Induzido por Erro Médico"
+title: Hospital em Praga se Desculpa por Aborto Espontâneo Induzido por Erro Médico
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um hospital em Praga emitiu um pedido de desculpas após um grave erro médico que resultou na realização de um aborto espontâneo em uma paciente que não estava grávida, devido a uma confusão entre duas mulheres asiáticas. A paciente, que compareceu ao centro médico para uma consulta de rotina, foi submetida a uma curetagem, um procedimento de interrupção da gravidez, devido a um erro cometido pela equipe hospitalar.
 

@@ -1,11 +1,13 @@
 ---
-title: "Snoop Dogg agradece ao ex Presidente  Donald Trump por ter concedido clemência ao amigo"
+title: Snoop Dogg agradece ao ex Presidente  Donald Trump por ter concedido clemência
+  ao amigo
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O rapper Snoop Dogg enviou uma mensagem para o presidente Trump e seus assessores: "Eu amo o que eles fizeram", disse ele, ao saber da notícia de clemência concedida ao co-fundador da Death Row Records Michael "Harry O" Harris.
 

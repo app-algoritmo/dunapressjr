@@ -1,11 +1,12 @@
 ---
-title: "Mercado de trabalho goiano está em alta"
+title: Mercado de trabalho goiano está em alta
 date: 2023-09-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Boletim sobre o Mercado de Trabalho Goiano revela que a taxa de desemprego de longo prazo no primeiro semestre foi a segunda menor em relação aos demais estados brasileiros
 

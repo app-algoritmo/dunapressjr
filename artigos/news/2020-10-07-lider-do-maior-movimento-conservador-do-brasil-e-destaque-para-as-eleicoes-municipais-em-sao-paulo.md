@@ -1,11 +1,13 @@
 ---
-title: "Líder do maior movimento conservador do Brasil é destaque para as eleições municipais em São Paulo"
+title: Líder do maior movimento conservador do Brasil é destaque para as eleições
+  municipais em São Paulo
 date: 2020-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **VEREADOR 2.0** Eduardo Platon Vereador SP.
 

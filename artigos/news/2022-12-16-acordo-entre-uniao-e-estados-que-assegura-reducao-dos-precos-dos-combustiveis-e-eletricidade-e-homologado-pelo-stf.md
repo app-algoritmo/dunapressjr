@@ -1,11 +1,13 @@
 ---
-title: "Acordo entre União e Estados que assegura redução dos preços dos combustíveis e eletricidade é homologado pelo STF"
+title: Acordo entre União e Estados que assegura redução dos preços dos combustíveis
+  e eletricidade é homologado pelo STF
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão solidifica a segurança jurídica sobre aperfeiçoamentos na cobrança do ICMS que evitaram alta de preços.
 

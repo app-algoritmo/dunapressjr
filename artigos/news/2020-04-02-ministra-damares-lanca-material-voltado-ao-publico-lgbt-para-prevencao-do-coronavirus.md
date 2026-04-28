@@ -1,11 +1,12 @@
 ---
-title: "Ministra Damares lança material voltado ao público LGBT para prevenção do coronavírus"
+title: Ministra Damares lança material voltado ao público LGBT para prevenção do coronavírus
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, nesta terça-feira (31), uma cartilha com informações sobre a prevenção do coronavírus (Covid-19) direcionada à população LGBT.
 

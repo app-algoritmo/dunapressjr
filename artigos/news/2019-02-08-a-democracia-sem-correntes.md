@@ -1,11 +1,12 @@
 ---
-title: "A democracia sem correntes"
+title: A democracia sem correntes
 date: 2019-02-08
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 A democracia não pode estar a serviço de uma ideologia . 
 

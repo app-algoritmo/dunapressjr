@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de valores tem sólido desempenho impulsionada pelo setor elétrico e Vale"
+title: Bolsa de valores tem sólido desempenho impulsionada pelo setor elétrico e Vale
 date: 2023-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha abaixo de R$ 5.
 

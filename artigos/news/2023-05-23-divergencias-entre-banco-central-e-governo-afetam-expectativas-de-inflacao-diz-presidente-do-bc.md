@@ -1,11 +1,13 @@
 ---
-title: "Divergências entre Banco Central e governo afetam expectativas de inflação, diz presidente do BC"
+title: Divergências entre Banco Central e governo afetam expectativas de inflação,
+  diz presidente do BC
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Incertezas sobre meta e harmonia entre políticas contribuem para manutenção da alta nas projeções de inflação, aponta Roberto Campos Neto.
 

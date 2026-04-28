@@ -1,11 +1,12 @@
 ---
-title: "7 remédios para memória. Conheça os mais utilizados"
+title: 7 remédios para memória. Conheça os mais utilizados
 date: 2022-11-16
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Os remédios para memória são bastante procurados seja por pessoas que estão estudando para algum concurso importante, seja por aquelas que possuem alguma doença. Há quem queira tomar até mesmo por medo de desenvolver o Alzheimer. 
 

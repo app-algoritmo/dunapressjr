@@ -1,11 +1,12 @@
 ---
-title: "Zequinha Marinho refende 'reciprocidade ambiental' entre Mercosul e União Europeia"
+title: Zequinha Marinho refende 'reciprocidade ambiental' entre Mercosul e União Europeia
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA) destacou, em pronunciamento na terça-feira (19), a resposta enviada pelo Mercado Comum do Sul (Mercosul) à União Europeia (UE) sobre o possível um acordo de livre comércio entre os dois blocos. Segundo o parlamentar, o acordo vai instituir uma das maiores áreas de livre comércio do mundo e a expectativa é que possibilite um incremento de US$ 87,5 bilhões no produto interno bruto (PIB) brasileiro em 15 anos, podendo chegar a US$ 125 bilhões, se consideradas a redução das barreiras não tarifárias e o incremento esperado na produtividade total dos fatores de produção.
 

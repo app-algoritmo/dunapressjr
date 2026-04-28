@@ -1,11 +1,12 @@
 ---
-title: "Datas do ProUni e FIES alteradas para o primeiro semestre"
+title: Datas do ProUni e FIES alteradas para o primeiro semestre
 date: 2020-05-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Educação (MEC) alterou as datas dos processos seletivos do Programa Universidade para Todos (Prouni) e da pré-seleção do Fundo de Financiamento Estudantil (Fies). Com isso, os estudantes que participaram dos processos seletivos devem ficar atentos às datas finais para a entrega de documentos. A medida tem o objetivo de minimizar os prejuízos da pandemia do coronavírus na vida dos estudantes, já que diversas instituições de ensino estão com suas atividades paralisadas em razão da determinação de estados e municípios.
 

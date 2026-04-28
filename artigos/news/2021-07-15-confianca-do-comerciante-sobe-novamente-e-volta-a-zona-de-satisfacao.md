@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comerciante sobe novamente e volta à zona de satisfação"
+title: Confiança do comerciante sobe novamente e volta à zona de satisfação
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice é apurado pela CNC.
 

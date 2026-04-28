@@ -1,11 +1,12 @@
 ---
-title: "Lula oficialmente declarado Persona Non-Grata em Israel"
+title: Lula oficialmente declarado Persona Non-Grata em Israel
 date: 2024-02-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na segunda-feira, Israel tomou uma decisão contundente, declarando o ex-presidente brasileiro Luiz Inácio Lula da Silva como **[Persona non grata](https://dunapress.org/2024/02/19/persona-non-grata/)**. A medida veio como resposta às declarações de Lula, que comparou a guerra de Israel contra o Hamas na Faixa de Gaza ao Holocausto, uma analogia considerada extremamente ofensiva e inadequada por autoridades israelenses.
 

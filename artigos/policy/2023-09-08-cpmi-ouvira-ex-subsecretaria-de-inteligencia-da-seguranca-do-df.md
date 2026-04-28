@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouvirá ex-subsecretária de Inteligência da Segurança do DF"
+title: CPMI ouvirá ex-subsecretária de Inteligência da Segurança do DF
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI que investiga os atos antidemocráticos de 8 de janeiro ouvirá na terça-feira (12) a ex-subsecretária de Inteligência da Secretaria de Segurança Pública do Distrito Federal (SSP-DF), Marília Ferreira Alencar, que estava no posto na época dos ataques. O depoimento foi marcado para começar às 9h, na Ala Senador Nilo Coelho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Taxas de juros seguem em patamar alto, com leve redução em setembro"
+title: Taxas de juros seguem em patamar alto, com leve redução em setembro
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividamento das famílias ficou em 52,9% em agosto.
 

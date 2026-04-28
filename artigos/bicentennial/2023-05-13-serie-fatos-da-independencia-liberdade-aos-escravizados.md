@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Liberdade aos escravizados"
+title: 'Série Fatos Da Independência: Liberdade aos escravizados'
 date: 2023-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em abril de 1821, começaram a circular por São Luís panfletos que prometiam liberdade aos escravizados, caso eles se unissem contra a Junta de Governo eleita nesse mesmo mês e que mantinha à frente do governo um resquício do Antigo Regime: o Governador-Geral indicado por Dom João VI, Pinto da Fonseca. A devassa instaurada deu como certo que os pretos tinham data marcada para iniciar uma sublevação e pôr fim a sua condição. Uma autoridade local, inclusive, havia ouvido um dizer ao outro enquanto tocava viola: “Deixa estar parceiro, que amanhã é o último dia.” Nesse mesmo dia, dois outros escravizados foram flagrados com facas afiadas escondidas entre as roupas. Acabaram desarmados e espancados. O medo de algo parecido com uma Revolução Haitiana acontecer no Maranhão espalhava-se. Houve ainda quem afirmasse ter escutado pretos comentando sobre São Domingos. Quando confrontados, foram bem assertivos, estavam falando sobre um amigo comum: o São Domingos. Não convenceram, acabaram presos e castigados.
 

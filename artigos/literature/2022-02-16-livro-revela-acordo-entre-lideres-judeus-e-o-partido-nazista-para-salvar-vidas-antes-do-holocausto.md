@@ -1,11 +1,13 @@
 ---
-title: "Livro revela acordo entre líderes judeus e o partido nazista para salvar vidas antes do Holocausto"
+title: Livro revela acordo entre líderes judeus e o partido nazista para salvar vidas
+  antes do Holocausto
 date: 2022-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Em seu livro “Haavara: O Acordo de Transferência”, Edwin Black, jornalista judeu americano e filho de sobreviventes do Holocausto, revela um dos episódios pouco conhecidos da história, no período anterior à Segunda Guerra Mundial, sobre “Haavara”, pacto entre judeus e o Terceiro Reich para salvar vidas e destinar recursos financeiros para a criação do Estado de Israel.
 

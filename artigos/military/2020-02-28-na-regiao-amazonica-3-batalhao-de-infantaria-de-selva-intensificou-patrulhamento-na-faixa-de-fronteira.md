@@ -1,11 +1,13 @@
 ---
-title: "Na região Amazônica, 3º Batalhão de Infantaria de Selva intensificou patrulhamento na faixa de fronteira"
+title: Na região Amazônica, 3º Batalhão de Infantaria de Selva intensificou patrulhamento
+  na faixa de fronteira
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Barcelos (AM)** – O 3º Batalhão de Infantaria de
 Selva, Regimento Ararigbóia, esteve na região de Santa Isabel do Rio Negro

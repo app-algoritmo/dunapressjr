@@ -1,11 +1,13 @@
 ---
-title: "Os não esquecidos: sepulturas coletivas de vítimas judias do Holocausto na Polônia"
+title: 'Os não esquecidos: sepulturas coletivas de vítimas judias do Holocausto na
+  Polônia'
 date: 2021-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As testemunhas polonesas do crime alemão em Wojslawice viveram por décadas com as memórias de seus vizinhos judeus executados em 1942. Eles se lembravam de um prado que corria sangue, de uma criança que clamava por água debaixo de uma pilha de corpos, braços e pernas que ainda se moviam dias após a execução.
 

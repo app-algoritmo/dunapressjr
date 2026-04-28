@@ -1,11 +1,12 @@
 ---
-title: "Epidemia na Índia gera alerta para o que pode ser próxima pandemia"
+title: Epidemia na Índia gera alerta para o que pode ser próxima pandemia
 date: 2022-12-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Organização Mundial de Saúde (OMS) divulgou, no último mês, um *ranking* de fungos que podem ser bastante ameaçadores para a saúde humana. A lista, que contém 19 fungos diferentes, tem como objetivo trazer atenção para uma classe de patógenos que, geralmente, não recebe muita importância, mesmo tendo presença crescente, sendo resistentes a tratamentos e com uma alta taxa de mortalidade. Esses fungos apresentados pela OMS são responsáveis por 1,3 milhão de mortes anualmente, e, na maior parte dos casos, ataca pessoas já adoecidas por outras causas e que estão mais vulneráveis a infecções por conta de fragilidades no sistema imunológico.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende duas pessoas e apreende 18 kg de maconha em Foz do Iguaçu/PR"
+title: Polícia Federal prende duas pessoas e apreende 18 kg de maconha em Foz do Iguaçu/PR
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - A Polícia Federal prendeu, na tarde deste sábado (6/6), dois homens por tráfico internacional de drogas.
 

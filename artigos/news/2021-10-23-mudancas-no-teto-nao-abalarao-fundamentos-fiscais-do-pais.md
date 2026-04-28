@@ -1,11 +1,12 @@
 ---
-title: "Mudanças no teto não abalarão fundamentos fiscais do país"
+title: Mudanças no teto não abalarão fundamentos fiscais do país
 date: 2021-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Política deverá atender os mais frágeis, disse Paulo Guedes.
 

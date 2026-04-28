@@ -1,11 +1,12 @@
 ---
-title: "Alemanha está destruindo sua indústria automobilística, diz Putin"
+title: Alemanha está destruindo sua indústria automobilística, diz Putin
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Deveríamos ajudá-los de alguma forma”, acrescentou o presidente russo com um sorriso.
 

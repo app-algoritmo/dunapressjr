@@ -1,11 +1,12 @@
 ---
-title: "Físico brasileiro usa grafeno para construir sensores e biossensores"
+title: Físico brasileiro usa grafeno para construir sensores e biossensores
 date: 2021-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fabrício Santos é graduado em Física pela Universidade Federal de Ouro Preto (Ufop), mestre em Ciência e Engenharia de Materiais e doutor em Física com ênfase em Biologia Molecular, ambas as etapas vividas na Universidade de São Paulo (USP). Bolsista da CAPES durante o doutorado, pesquisou uma técnica de redução de grafeno (material extraído do grafite) em meio aquoso para compor sensores e biossensores utilizados na detecção de doenças. O trabalho resultou em um [artigo](https://www.sciencedirect.com/science/article/abs/pii/S0169433220334577) publicado em revista científica internacional.
 

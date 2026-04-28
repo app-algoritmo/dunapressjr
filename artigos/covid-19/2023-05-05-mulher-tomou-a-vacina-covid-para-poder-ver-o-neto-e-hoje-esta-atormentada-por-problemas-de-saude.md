@@ -1,11 +1,13 @@
 ---
-title: "Mulher tomou a vacina COVID para poder ver o neto, e hoje está atormentada por problemas de saúde"
+title: Mulher tomou a vacina COVID para poder ver o neto, e hoje está atormentada
+  por problemas de saúde
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Terry Donohue Jenkins teve uma vida plena e gratificante até que, sob pressão de sua família, ela recebeu a vacina Pfizer COVID-19. Agora, ela mal consegue administrar seus negócios.
 

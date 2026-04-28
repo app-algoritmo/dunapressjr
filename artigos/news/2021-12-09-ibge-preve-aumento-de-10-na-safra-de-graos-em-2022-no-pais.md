@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê aumento de 10% na safra de grãos em 2022 no país"
+title: IBGE prevê aumento de 10% na safra de grãos em 2022 no país
 date: 2021-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta é 10% em relação à produção prevista para este ano.
 

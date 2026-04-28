@@ -1,11 +1,12 @@
 ---
-title: "Ensine sua brincadeira favorita na infância a uma criança"
+title: Ensine sua brincadeira favorita na infância a uma criança
 date: 2021-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## *Brincadeiras populares, como pique-pega e bandeirinha, são uma ótima forma de praticar atividade física e interagir com outras pessoas. Então, que tal fazer um intercâmbio entre gerações com as brincadeiras de antigamente e de hoje*?
 

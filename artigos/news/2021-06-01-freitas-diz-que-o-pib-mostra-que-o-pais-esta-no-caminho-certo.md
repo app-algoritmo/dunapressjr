@@ -1,11 +1,12 @@
 ---
-title: "Freitas diz que o PIB mostra que o país está no caminho certo"
+title: Freitas diz que o PIB mostra que o país está no caminho certo
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro da Infraestrutura falou no Fórum de Investimentos Brasil 2021.
 

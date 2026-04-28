@@ -1,11 +1,12 @@
 ---
-title: "Sensores e celulares: tecnologia unida contra doenças"
+title: 'Sensores e celulares: tecnologia unida contra doenças'
 date: 2021-02-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O uso combinado de biossensores eletroquímicos com *smartphones* pode ajudar na detecção de diversas doenças. Na Universidade Federal de Uberlândia (UFU), uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) participa de pesquisa que faz diagnósticos por meio dessa tecnologia para hanseníase, tuberculose e infarto agudo do miocárdio.
 

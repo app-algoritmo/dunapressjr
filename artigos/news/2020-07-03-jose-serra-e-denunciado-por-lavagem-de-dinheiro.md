@@ -1,11 +1,12 @@
 ---
-title: "José Serra é denunciado por lavagem de dinheiro"
+title: José Serra é denunciado por lavagem de dinheiro
 date: 2020-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo a denúncia, senador recebeu vários pagamentos da Odebrecht.
 

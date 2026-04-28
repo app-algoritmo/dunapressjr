@@ -1,11 +1,12 @@
 ---
-title: "Agência Standard &amp; Poors eleva nota de crédito do Brasil para BB"
+title: Agência Standard &amp; Poors eleva nota de crédito do Brasil para BB
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A agência de classificação de risco Standard & Poors Global Ratings elevou nesta terça-feira a nota de crédito do Brasil de BB- para BB, com perspectiva estável.
 

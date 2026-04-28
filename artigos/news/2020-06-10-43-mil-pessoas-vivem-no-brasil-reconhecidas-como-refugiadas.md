@@ -1,11 +1,12 @@
 ---
-title: "43 mil pessoas vivem no Brasil reconhecidas como refugiadas"
+title: 43 mil pessoas vivem no Brasil reconhecidas como refugiadas
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil tem cerca de 43 mil pessoas reconhecidas atualmente como refugiadas, de acordo com o Ministério da Justiça, por meio de dados levantados pelo Comitê Nacional para os Refugiados (Conare). Desde total, cerca de 38.000 mil são venezuelanos que atravessaram a fronteira terrestre com o Brasil em êxodo migratório. O país vizinho já foi considerado oficialmente pelo Conare como território assolado por grave e generalizada violação de direitos humanos e perseguição política, contexto que facilita o trâmite de concessão do status de refúgio em solo brasileiro.
 

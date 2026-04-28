@@ -1,11 +1,13 @@
 ---
-title: "Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai para 76,4 pontos em setembro"
+title: Indicador Antecedente de Emprego (IAEmp) do FGV IBRE cai para 76,4 pontos em
+  setembro
 date: 2023-10-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Desaceleração econômica e oscilação do indicador indicam desafios no mercado de trabalho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Irã ataca Israel com drones"
+title: Irã ataca Israel com drones
 date: 2024-04-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em uma reviravolta dramática, o Irã lançou uma onda de drones em direção a Israel, marcando um confronto militar direto entre as duas nações e aumentando o espectro de um conflito regional mais amplo. O Corpo de Guardiões da Revolução Islâmica, a força militar de elite do Irã, declarou o ataque, que também envolveu ataques de mísseis a partir do território iraniano. O grande número de drones lançados sugere uma tentativa de sobrecarregar as formidáveis defesas antiaéreas de Israel.
 

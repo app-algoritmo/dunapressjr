@@ -1,11 +1,12 @@
 ---
-title: "Redução do IPI estimula consumo e preserva Zona Franca, diz secretário"
+title: Redução do IPI estimula consumo e preserva Zona Franca, diz secretário
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida já está em vigor e terá impacto em 4 mil categorias de itens.
 

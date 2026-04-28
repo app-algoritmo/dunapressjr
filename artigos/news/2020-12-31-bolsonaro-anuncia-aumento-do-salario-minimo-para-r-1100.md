@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro anuncia aumento do salário mínimo para R$ 1.100"
+title: Bolsonaro anuncia aumento do salário mínimo para R$ 1.100
 date: 2020-12-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor representa reajuste de 5,26% em relação ao valor atual.
 

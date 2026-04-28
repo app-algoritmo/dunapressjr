@@ -1,11 +1,12 @@
 ---
-title: "Indicador de incerteza da economia brasileira recua em maio"
+title: Indicador de incerteza da economia brasileira recua em maio
 date: 2021-05-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice chegou a 119,9 pontos, diz FGV.
 

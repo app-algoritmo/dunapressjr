@@ -1,11 +1,13 @@
 ---
-title: "Tesouro honra em dezembro R$ 1,08 bilhão em dívidas garantidas pela União, totalizando R$ 9,78 bilhões em 2022"
+title: Tesouro honra em dezembro R$ 1,08 bilhão em dívidas garantidas pela União,
+  totalizando R$ 9,78 bilhões em 2022
 date: 2023-01-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foram honradas dívidas de 7 Estados (Rio de Janeiro, Pernambuco, Goiás, Rio Grande do Sul, Maranhão, Piauí e Alagoas) e do município de Taubaté-SP.
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto permite que fundo de fiscalização das telecomunicações seja repassado para polícias"
+title: Projeto permite que fundo de fiscalização das telecomunicações seja repassado
+  para polícias
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Se a proposta for aprovada, recursos poderão ser usados para investigar roubo de cabos e equipamentos; hoje fundo custeia a fiscalização dos serviços de telecomunicações.
 

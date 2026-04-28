@@ -1,11 +1,12 @@
 ---
-title: "Consultor da Casa Branca diz que outro bloqueio do COVID seria um grande erro"
+title: Consultor da Casa Branca diz que outro bloqueio do COVID seria um grande erro
 date: 2020-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Outra paralisação nacional para combater a nova pandemia de coronavírus seria "um grande erro", disse à CNBC o assessor econômico da Casa Branca, Larry Kudlow, em entrevista na quarta-feira à quarta-feira, enquanto alguns estados revertiam suas reabrições em meio a uma onda de casos.
 

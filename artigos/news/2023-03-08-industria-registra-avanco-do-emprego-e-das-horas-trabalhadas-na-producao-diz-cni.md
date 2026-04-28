@@ -1,11 +1,13 @@
 ---
-title: "Indústria registra avanço do emprego e das horas trabalhadas na produção, diz CNI"
+title: Indústria registra avanço do emprego e das horas trabalhadas na produção, diz
+  CNI
 date: 2023-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicadores industriais relativos ao mês de janeiro também mostram alta da massa salarial na comparação com dezembro de 2022. No entanto, houve queda no faturamento real das empresas.
 

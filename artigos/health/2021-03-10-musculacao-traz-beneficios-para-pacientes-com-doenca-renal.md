@@ -1,11 +1,12 @@
 ---
-title: "Musculação traz benefícios para pacientes com doença renal"
+title: Musculação traz benefícios para pacientes com doença renal
 date: 2021-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Praticar exercício de força, como a musculação, diminui o avanço da doença renal crônica. É o que revela a pesquisa de mestrado do bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Hugo de Luca Corrêa, orientado por Thiago dos Santos Rosa, professor do Programa de Pós-Graduação em Educação Física, da Universidade Católica de Brasília (UCB). O objetivo da pesquisa foi verificar as possibilidades terapêuticas da musculação sobre a função renal e o perfil inflamatório de pacientes em estágios iniciais da doença.
 

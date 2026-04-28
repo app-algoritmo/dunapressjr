@@ -1,11 +1,12 @@
 ---
-title: "Hipertensão e diabetes são os principais fatores de risco para a saúde"
+title: Hipertensão e diabetes são os principais fatores de risco para a saúde
 date: 2022-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 **Hipertensão**
 

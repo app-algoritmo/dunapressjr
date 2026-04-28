@@ -1,11 +1,13 @@
 ---
-title: "Senador Girão levanta preocupações sobre democracia brasileira e pede impeachment de ministro do STF"
+title: Senador Girão levanta preocupações sobre democracia brasileira e pede impeachment
+  de ministro do STF
 date: 2024-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O senador Eduardo Girão, representante do Novo-CE, fez um pronunciamento contundente no Plenário nesta quarta-feira (24), levantando preocupações sobre potenciais ameaças à democracia do Brasil. Girão destacou alegações de uma possível interferência do Judiciário nas eleições e instou o Senado a dar seguimento ao processo de impeachment do ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes.
 

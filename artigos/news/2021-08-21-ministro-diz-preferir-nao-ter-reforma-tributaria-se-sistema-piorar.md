@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz preferir não ter reforma tributária se sistema piorar"
+title: Ministro diz preferir não ter reforma tributária se sistema piorar
 date: 2021-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Guedes reforçou compromisso em evitar perda para estados.
 

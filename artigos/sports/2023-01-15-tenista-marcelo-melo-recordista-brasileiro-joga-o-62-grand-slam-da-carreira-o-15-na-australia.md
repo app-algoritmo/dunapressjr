@@ -1,11 +1,13 @@
 ---
-title: "Tenista Marcelo Melo, recordista brasileiro, joga o 62º Grand Slam da carreira, o 15º na Austrália"
+title: Tenista Marcelo Melo, recordista brasileiro, joga o 62º Grand Slam da carreira,
+  o 15º na Austrália
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O mineiro Marcelo Melo entra em quadra na edição 2023 do Australian Open para disputar o 62º Grand Slam da carreira - recordista brasileiro. Será a 15ª participação de Melo no torneio na Austrália e, nesta temporada, estará ao lado do norte-americano Mackenzie McDonald, em seu primeiro Grand Slam juntos. 
 

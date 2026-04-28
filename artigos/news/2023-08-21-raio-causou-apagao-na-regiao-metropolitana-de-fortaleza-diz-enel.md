@@ -1,11 +1,12 @@
 ---
-title: "Raio causou apagão na região metropolitana de Fortaleza, diz Enel"
+title: Raio causou apagão na região metropolitana de Fortaleza, diz Enel
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Descarga atmosférica atingiu o para-raio de uma subestação.
 

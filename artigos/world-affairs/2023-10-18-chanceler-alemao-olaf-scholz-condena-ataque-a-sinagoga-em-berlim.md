@@ -1,11 +1,12 @@
 ---
-title: "Chanceler Alemão Olaf Scholz Condena Ataque à Sinagoga em Berlim"
+title: Chanceler Alemão Olaf Scholz Condena Ataque à Sinagoga em Berlim
 date: 2023-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ataque à sinagoga em Berlim é profundamente preocupante e foi condenado com veemência pelo Chanceler alemão, Olaf Scholz. Scholz enfatizou que a Alemanha não tolerará ataques contra instituições judaicas e protestos violentos e antissemitas. Ele também destacou seu compromisso com a proteção das instituições judaicas na Alemanha, enfatizando que tanto ele quanto os cidadãos alemães compartilham essa preocupação.
 

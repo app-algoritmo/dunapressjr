@@ -1,11 +1,12 @@
 ---
-title: "The Ocean Race promove visitações escolares na Vila da Regata"
+title: The Ocean Race promove visitações escolares na Vila da Regata
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante todo o evento da The Ocean Race, alunos de todas as cidades-sede são convidados a fazer um tour pela Vila da Regata. Nesta sexta-feira (13), os alunos de escolas privadas e públicas de Alicante, na Espanha, participaram de um passeio interativo na Ocean Live Park. Em Itajaí, esta ação também é um sucesso entre os estudantes e vai ser repetida nesta edição.
 

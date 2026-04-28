@@ -1,11 +1,12 @@
 ---
-title: "Parque da Chapada dos Guimarães é privatizado"
+title: Parque da Chapada dos Guimarães é privatizado
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contrato tem validade de 30 anos.
 

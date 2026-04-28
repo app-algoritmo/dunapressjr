@@ -1,11 +1,12 @@
 ---
-title: "A operação de Israel em Gaza teria terminado sem o apoio dos EUA, MRE do Irã"
+title: A operação de Israel em Gaza teria terminado sem o apoio dos EUA, MRE do Irã
 date: 2024-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Hossein Amir Abdollahian acrescentou que o Irã está empenhado em resolver o conflito através de meios políticos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,27, em dia de expectativa com Copom"
+title: Dólar cai para R$ 5,27, em dia de expectativa com Copom
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,97% e atinge maior nível em mais de três meses.
 

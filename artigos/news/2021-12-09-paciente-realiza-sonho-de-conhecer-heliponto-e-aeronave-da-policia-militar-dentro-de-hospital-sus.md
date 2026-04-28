@@ -1,11 +1,13 @@
 ---
-title: "Paciente realiza sonho de conhecer heliponto e aeronave da Polícia Militar dentro de hospital SUS"
+title: Paciente realiza sonho de conhecer heliponto e aeronave da Polícia Militar
+  dentro de hospital SUS
 date: 2021-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já se passaram três anos desde o primeiro internamento de Lucas Camargo no Hospital Universitário Cajuru (HUC), em Curitiba (PR). Foi no dia 19 de novembro de 2018 que a vida do jovem mudou completamente, após ficar tetraplégico em uma queda de cama elástica. Desde então, se tornaram recorrentes as idas ao hospital 100% SUS e referência em traumas. Na última terça-feira (30/11), ao sair para o passeio matinal no HUC, o paciente se deparou com a realização de um sonho: conhecer o heliponto do hospital e o helicóptero do Batalhão de Polícia Militar de Operações Aéreas (BPMOA). Tudo graças a enfermeiros e representantes da pastoral do hospital.
 

@@ -1,11 +1,12 @@
 ---
-title: "Abono do PIS/Pasep ainda pode ser pedido por quem perdeu prazo"
+title: Abono do PIS/Pasep ainda pode ser pedido por quem perdeu prazo
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valores permanecem disponíveis por cinco anos.
 

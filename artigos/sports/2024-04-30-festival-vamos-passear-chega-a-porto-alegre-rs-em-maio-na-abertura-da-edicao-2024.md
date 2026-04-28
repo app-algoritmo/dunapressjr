@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear chega a Porto Alegre (RS) em maio na abertura da edição 2024"
+title: Festival Vamos Passear chega a Porto Alegre (RS) em maio na abertura da edição
+  2024
 date: 2024-04-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## O evento apresentado pela Brasilprev será no dia 19, no Parque Marinha do Brasil, e contará com Passeio de Bike, Caminhada e Corrida Kids, além de diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

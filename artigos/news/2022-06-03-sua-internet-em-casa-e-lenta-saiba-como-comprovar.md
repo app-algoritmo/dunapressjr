@@ -1,11 +1,12 @@
 ---
-title: "Sua internet em casa é lenta? Saiba como comprovar!"
+title: Sua internet em casa é lenta? Saiba como comprovar!
 date: 2022-06-03
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O Teletrabalho, trabalhos de casa online para crianças, entretenimento para toda a família... Boa parte das atividades que realizamos atualmente em nossas casas requer internet. Embora a conexão seja muito mais potente do que há alguns anos, às vezes parece que não é suficiente. O que fazer então?
 

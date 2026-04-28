@@ -1,11 +1,12 @@
 ---
-title: "Taxa de custódia do Tesouro Direto cairá para 0,2% em janeiro"
+title: Taxa de custódia do Tesouro Direto cairá para 0,2% em janeiro
 date: 2021-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução faz parte de compromisso firmado entre governo e B3.
 

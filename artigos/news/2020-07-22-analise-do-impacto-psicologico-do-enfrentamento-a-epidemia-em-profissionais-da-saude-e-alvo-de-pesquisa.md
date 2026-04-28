@@ -1,11 +1,13 @@
 ---
-title: "Análise do impacto psicológico do enfrentamento à epidemia em profissionais da saúde é alvo de pesquisa"
+title: Análise do impacto psicológico do enfrentamento à epidemia em profissionais
+  da saúde é alvo de pesquisa
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa avaliou saúde mental de profissionais do Hospital Universitário de Brasília (HUB). Foto: Ascom/HUB
  

@@ -1,11 +1,13 @@
 ---
-title: "Denunciante Revela Supostas Práticas Ilegais de Transição de Gênero no Texas Children's Hospital"
+title: Denunciante Revela Supostas Práticas Ilegais de Transição de Gênero no Texas
+  Children's Hospital
 date: 2024-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Vanessa Sivadge, uma enfermeira do Texas Children's Hospital em Houston, está acusando seu empregador de violar a lei estadual e federal ao realizar procedimentos de mudança de sexo em crianças, supostamente financiados por meio de fraude no Medicaid. Sivadge, que trabalhou extensivamente com pacientes transgêneros no hospital, afirma que o programa de mudança de sexo infantil do Texas Children está cometendo graves infrações legais e éticas.
 

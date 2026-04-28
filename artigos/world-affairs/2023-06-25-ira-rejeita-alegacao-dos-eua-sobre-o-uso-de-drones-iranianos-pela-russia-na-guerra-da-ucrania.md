@@ -1,11 +1,13 @@
 ---
-title: "Irã rejeita alegação dos EUA sobre o uso de drones iranianos pela Rússia na guerra da Ucrânia"
+title: Irã rejeita alegação dos EUA sobre o uso de drones iranianos pela Rússia na
+  guerra da Ucrânia
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A missão iraniana em um comunicado na sexta-feira disse que as reivindicações anti-Irã visam influenciar o relatório periódico semestral do secretário-geral da ONU, Antonio Guterres, sobre a implementação da Resolução 2231 do Conselho de Segurança.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mercado financeiro agitado com votação do aumento do teto da dívida dos EUA e dólar em alta"
+title: Mercado financeiro agitado com votação do aumento do teto da dívida dos EUA
+  e dólar em alta
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ibovespa registra terceira queda seguida e dólar sobe frente ao real pela terceira sessão consecutiva, influenciado por incertezas e cenário internacional.
 

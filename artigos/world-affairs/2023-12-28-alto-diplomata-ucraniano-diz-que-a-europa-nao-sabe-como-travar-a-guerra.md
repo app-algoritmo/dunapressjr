@@ -1,11 +1,12 @@
 ---
-title: "Alto diplomata ucraniano diz que a Europa não sabe como travar a guerra"
+title: Alto diplomata ucraniano diz que a Europa não sabe como travar a guerra
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ao mesmo tempo, Dmitry Kuleba destacou o importante papel do Ocidente em equipar as forças armadas ucranianas com armas modernas, incluindo mísseis de longo alcance, acrescentando que os caças-bombardeiros F-16 “estão a caminho”.
 

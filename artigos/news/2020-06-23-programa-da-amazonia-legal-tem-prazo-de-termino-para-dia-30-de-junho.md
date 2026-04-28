@@ -1,11 +1,12 @@
 ---
-title: "Programa da Amazônia Legal tem prazo de término para dia 30 de Junho"
+title: Programa da Amazônia Legal tem prazo de término para dia 30 de Junho
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) recebe, até o dia 30 de junho, as propostas para o [Programa de Desenvolvimento da Pós-Graduação (PDPG) na Amazônia Legal](http://www.capes.gov.br/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-desenvolvimento-da-pos-graduacao-pdpg-na-amazonia-legal).  As instituições de ensino superior (IES) interessadas em participar devem enviar seus projetos com os Planos de Desenvolvimento da Pós-Graduação (PPGs) pelo Sistema de Inscrições da Capes ([Sicapes](https://contrasicapes.capes.gov.br/usuario/login/aHR0cDovL3NpY2FwZXMuY2FwZXMuZ292LmJyL3N5cy9jb25maWd1cmFkb3IvZnJvbnRlbmQvaW5kZXg=)).
 

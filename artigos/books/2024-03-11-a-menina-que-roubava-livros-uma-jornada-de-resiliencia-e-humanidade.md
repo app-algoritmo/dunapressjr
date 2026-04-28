@@ -1,11 +1,12 @@
 ---
-title: "A Menina que Roubava Livros: Uma Jornada de Resiliência e Humanidade"
+title: 'A Menina que Roubava Livros: Uma Jornada de Resiliência e Humanidade'
 date: 2024-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 *A Menina que Roubava Livros* é mais do que apenas um romance; é uma história que captura os corações dos leitores com sua narrativa envolvente e personagens cativantes. Escrito por Markus Zusak, este livro nos leva à Alemanha durante a Segunda Guerra Mundial e nos apresenta Liesel Meminger, uma jovem corajosa que encontra refúgio nos livros em meio ao caos da guerra.
 

@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo negativo de US$ 7,253 bilhões em janeiro"
+title: Contas externas têm saldo negativo de US$ 7,253 bilhões em janeiro
 date: 2021-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi o segundo mês consecutivo de déficit, após 8 de superávit em 2020.
 

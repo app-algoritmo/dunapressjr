@@ -1,11 +1,12 @@
 ---
-title: "COVID-19: Ministério da Saúde adquire 6,5 mil respiradores fabricados no Brasil"
+title: 'COVID-19: Ministério da Saúde adquire 6,5 mil respiradores fabricados no Brasil'
 date: 2020-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Contrato foi assinado nesta terça (07). A expectativa é de que os aparelhos sejam entregues em até 90 dias, sendo quase 2 mil ainda neste mês para reforçar a rede pública de saúde de estados e municípios no tratamento de casos graves de COVID-19
 

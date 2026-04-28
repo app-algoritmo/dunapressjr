@@ -1,11 +1,12 @@
 ---
-title: "12 dicas para prevenir o câncer"
+title: 12 dicas para prevenir o câncer
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A prevenção do câncer engloba ações realizadas para reduzir os riscos de ter a doença. O objetivo da prevenção primária é impedir que o câncer se desenvolva. Isso inclui evitar a exposição aos fatores de risco de câncer e a adoção de um modo de vida saudável.
 

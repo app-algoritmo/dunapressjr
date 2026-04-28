@@ -1,11 +1,12 @@
 ---
-title: "TCU aprova contas do governo federal de 2021 com ressalvas"
+title: TCU aprova contas do governo federal de 2021 com ressalvas
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Relator endossou conclusões da equipe técnica do tribunal.
 

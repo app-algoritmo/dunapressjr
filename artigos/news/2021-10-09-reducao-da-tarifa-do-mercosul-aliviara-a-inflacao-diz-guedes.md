@@ -1,11 +1,12 @@
 ---
-title: "Redução da tarifa do Mercosul aliviará a inflação, diz Guedes"
+title: Redução da tarifa do Mercosul aliviará a inflação, diz Guedes
 date: 2021-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro discutiu gasoduto para o Brasil com chanceler argentino.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa de preços garante economia na compra da cesta básica em Itajaí"
+title: Pesquisa de preços garante economia na compra da cesta básica em Itajaí
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A pesquisa realizada pela Procuradoria de Defesa do Consumidor (Procon) de Itajaí apontou grande variação de valores nos itens da cesta básica em Itajaí no mês de dezembro. A diferença entre os produtos mais baratos e mais caros foi de R$ 166,88. Já a soma dos itens de menor valor ficou em R$ 256,27 e a dos de maior valor em R$ 423,11. Os dados demonstram a importância da pesquisa de preços para garantir maior economia nas compras.
 

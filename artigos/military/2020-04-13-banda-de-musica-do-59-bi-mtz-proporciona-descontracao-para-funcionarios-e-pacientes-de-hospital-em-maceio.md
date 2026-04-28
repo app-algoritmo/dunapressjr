@@ -1,11 +1,13 @@
 ---
-title: "Banda de música do 59º BI Mtz proporciona descontração para funcionários e pacientes de hospital em Maceió"
+title: Banda de música do 59º BI Mtz proporciona descontração para funcionários e
+  pacientes de hospital em Maceió
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Maceió (AL)** - Como parte da Operação Covid-19, do Ministério da Defesa, no dia 7 de abril, a mão amiga do Exército Brasileiro, através da banda de música do 59º Batalhão de Infantaria Motorizado (59º BI Mtz), realizou uma apresentação no Hospital Veredas, localizado na cidade de Maceió.
 

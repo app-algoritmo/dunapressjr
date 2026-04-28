@@ -1,11 +1,13 @@
 ---
-title: "Os projetos de água e energia de Gaza no 'acordo do século' de Donald Trump poderiam ser implementados imediatamente, para benefício de todos"
+title: Os projetos de água e energia de Gaza no 'acordo do século' de Donald Trump
+  poderiam ser implementados imediatamente, para benefício de todos
 date: 2020-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O plano de paz para a prosperidade do presidente Donald Trump para os palestinos é a tentativa mais séria de articular como seria uma solução final de status. Sim, é falho de várias maneiras. Mas para um presidente que não deseja replicar as falhas de seus antecessores, ele está prestes a cometer o mesmo erro clássico que o ex-presidente Barack Obama cometeu: esperar por um acordo sobre todas as principais questões e com todas as partes antes de implementar. 
 

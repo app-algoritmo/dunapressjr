@@ -1,12 +1,13 @@
 ---
-title: "O dia que Bolsonaro contou tudo"
+title: O dia que Bolsonaro contou tudo
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 JAIR BOLSONARO - PÂNICO - 26/08/22.
 

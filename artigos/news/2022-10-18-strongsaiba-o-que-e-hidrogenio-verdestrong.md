@@ -1,11 +1,12 @@
 ---
-title: "<strong>Saiba o que é hidrogênio verde</strong>"
+title: <strong>Saiba o que é hidrogênio verde</strong>
 date: 2022-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo especialistas, Brasil tem boas condições para produção.
 

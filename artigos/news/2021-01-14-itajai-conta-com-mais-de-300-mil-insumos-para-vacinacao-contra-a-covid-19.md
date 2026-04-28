@@ -1,11 +1,12 @@
 ---
-title: "Itajaí conta com mais de 300 mil insumos para vacinação contra a Covid-19"
+title: Itajaí conta com mais de 300 mil insumos para vacinação contra a Covid-19
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Secretaria de Saúde, conta com uma boa estrutura preparada para atender os cidadãos quando começar a vacinação contra o coronavírus. Uma das primeiras medidas para garantir a logística de imunização foi a compra de insumos, ainda no ano passado: foram adquiridos mais de 300 mil itens, como agulhas e seringas. A cidade também conta com mais de 90 profissionais de saúde capacitados para vacinação, 30 salas de vacina espalhadas pelos bairros e uma rede de frios com 35 câmaras para armazenamento de milhares de doses.
 

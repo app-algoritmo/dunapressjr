@@ -1,11 +1,13 @@
 ---
-title: "CGU e AGU celebram acordo de leniência no valor de R$ 583 milhões com empresa de processamento de alimentos"
+title: CGU e AGU celebram acordo de leniência no valor de R$ 583 milhões com empresa
+  de processamento de alimentos
 date: 2022-12-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acordo de Leniência celebrado pela CGU e AGU prevê o pagamento de R$ 583.977.360,48 pela empresa BRF S.A.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cai tempo médio para abertura de empresas no país"
+title: Cai tempo médio para abertura de empresas no país
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo era de 5 dias e 9 horas em 2019 e hoje está em 47 horas.
 

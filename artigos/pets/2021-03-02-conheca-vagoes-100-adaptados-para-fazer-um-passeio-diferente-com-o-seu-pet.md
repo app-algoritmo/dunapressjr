@@ -1,11 +1,12 @@
 ---
-title: "Conheça vagões 100% adaptados para fazer um passeio diferente com o seu pet"
+title: Conheça vagões 100% adaptados para fazer um passeio diferente com o seu pet
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Já não é novidade que ninguém mais aguenta ficar confinado dentro de casa e não vê a hora que a pandemia acabe para poder sair, passear, turistar. Acontece que alguns passeios já estão liberados e seguindo todos os protocolos de higiene e segurança recomendados para o período. É o caso de alguns trens turísticos, que funcionam com lotação de 50% da capacidade, para manter maior distanciamento entre os ocupantes, além de desinfecção diária, exigência do uso de máscaras durante toda a viagem e disponibilização de álcool em gel nos vagões. 
 

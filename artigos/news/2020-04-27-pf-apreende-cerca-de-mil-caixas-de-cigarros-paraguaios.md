@@ -1,11 +1,12 @@
 ---
-title: "PF apreende cerca de mil caixas de cigarros paraguaios"
+title: PF apreende cerca de mil caixas de cigarros paraguaios
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Terra Roxa/PR – Na manhã deste domingo (26/4), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

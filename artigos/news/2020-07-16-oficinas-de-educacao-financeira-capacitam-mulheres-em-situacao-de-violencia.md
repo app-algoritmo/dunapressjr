@@ -1,11 +1,12 @@
 ---
-title: "Oficinas de educação financeira capacitam mulheres em situação de violência"
+title: Oficinas de educação financeira capacitam mulheres em situação de violência
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mulheres em situação de violência e vulnerabilidade social e econômica receberão capacitação em educação financeira em seis capitais do país, que contam com unidades da Casa da Mulher Brasileira. As oficinas serão ministradas por meio de uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Caixa.
 

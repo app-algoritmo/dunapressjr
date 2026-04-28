@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova em dois turnos PEC que viabiliza pagamento do piso da enfermagem"
+title: Câmara aprova em dois turnos PEC que viabiliza pagamento do piso da enfermagem
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou, em dois turnos, a proposta de emenda à Constituição (PEC) que direciona recursos do superávit financeiro de fundos públicos e do Fundo Social para financiar o piso salarial nacional da enfermagem no setor público, nas entidades filantrópicas e de prestadores de serviços com um mínimo de atendimento de 60% de pacientes do Sistema Único de Saúde (SUS).
 

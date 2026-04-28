@@ -1,11 +1,13 @@
 ---
-title: "Ameaça do ex-presidente Rafael Correa a Fernando Villavicencio: 'Sua festa vai acabar logo'"
+title: 'Ameaça do ex-presidente Rafael Correa a Fernando Villavicencio: ''Sua festa
+  vai acabar logo'''
 date: 2023-08-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente do Equador, foragido da Justiça, **Rafael Correa** , ameaçou o candidato presidencial **Fernando Villavicencio** , assassinado após ato eleitoral em Quito, capital do país.
 

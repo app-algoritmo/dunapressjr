@@ -1,11 +1,13 @@
 ---
-title: "Polônia diz que Putin falsifica a história da Segunda Guerra Mundial para enfraquecer aliados ocidentais"
+title: Polônia diz que Putin falsifica a história da Segunda Guerra Mundial para enfraquecer
+  aliados ocidentais
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois que o líder russo publicou artigo em inglês dizendo que a União Soviética era o principal derrotador dos nazistas, atribuindo culpa pela guerra à Polônia, Varsóvia diz que está travando uma 'guerra de informação'.
 

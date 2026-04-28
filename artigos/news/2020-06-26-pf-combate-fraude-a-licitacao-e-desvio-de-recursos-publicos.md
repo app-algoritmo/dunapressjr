@@ -1,11 +1,12 @@
 ---
-title: "PF combate fraude à licitação e desvio de recursos públicos"
+title: PF combate fraude à licitação e desvio de recursos públicos
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE – A Polícia Federal deflagrou nesta quinta-feira, 25/6, a OPERAÇÃO RES PUBLICA, com o objetivo de arrecadar os originais de certames licitatórios para aprofundar as investigações sobre 25 contratações fraudulentas, nas quais foram utilizadas verbas públicas federais das áreas da saúde e educação, nos municípios de Apuiarés e Pentecoste no Estado do Ceará.
 

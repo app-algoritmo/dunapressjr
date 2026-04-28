@@ -1,11 +1,12 @@
 ---
-title: "Revelações de Conflitos de Interesse no Julgamento de Trump"
+title: Revelações de Conflitos de Interesse no Julgamento de Trump
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A ativista conservadora Laura Loomer lançou luz sobre uma rede intricada de conexões obscuras que lançam uma sombra sobre o julgamento do ex-presidente Trump. Em uma investigação meticulosa, Loomer expôs os vínculos entre o juiz Merchan, responsável pelo caso, e figuras proeminentes do establishment político democrata.
 

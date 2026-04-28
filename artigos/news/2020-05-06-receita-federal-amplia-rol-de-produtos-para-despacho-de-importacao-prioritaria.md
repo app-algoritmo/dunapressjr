@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal amplia rol de produtos para despacho de importação prioritária"
+title: Receita Federal amplia rol de produtos para despacho de importação prioritária
 date: 2020-05-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida visa garantir abastecimento de bens destinados ao auxílio no combate à pandemia causada pelo novo coronavírus
 A Receita Federal ampliou o rol de produtos que terão seu despacho de importação realizado de maneira prioritária para auxiliar no combate à pandemia causada pelo novo coronavírus. A Instrução Normativa RFB nº 1.944, publicada na segunda-feira (4), prevê o despacho prioritário para matérias-primas destinadas à fabricação de medicamentos, além de consolidar a lista de produtos que já tinham o despacho prioritário.

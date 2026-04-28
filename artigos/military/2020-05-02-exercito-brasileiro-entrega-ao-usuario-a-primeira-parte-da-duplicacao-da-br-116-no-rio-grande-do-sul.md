@@ -1,11 +1,13 @@
 ---
-title: "Exército Brasileiro entrega ao usuário a primeira parte da duplicação da BR-116 no Rio Grande do Sul"
+title: Exército Brasileiro entrega ao usuário a primeira parte da duplicação da BR-116
+  no Rio Grande do Sul
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Lages (SC) **– No dia 29 de abril, o Exército Brasileiro, por meio do 1º Batalhão Ferroviário (1º B Fv), realizou a entrega dos primeiros cinco quilômetros da duplicação da BR-116/RS, entre os municípios de Guaíba e Tapes, obra que tem a extensão total de 50 quilômetros. A liberação do trecho foi realizada pelo General de Exército **Geraldo Antônio Miotto**, então Comandante Militar do Sul, acompanhado do *General de Exército ***Valério Stumpf Trindade**, novo Comandante Militar do Sul, e de demais autoridades civis e militares.
 

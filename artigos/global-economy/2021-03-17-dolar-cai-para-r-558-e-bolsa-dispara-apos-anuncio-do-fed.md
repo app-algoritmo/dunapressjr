@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,58 e bolsa dispara após anúncio do Fed"
+title: Dólar cai para R$ 5,58 e bolsa dispara após anúncio do Fed
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## BC norte-americano decidiu manter juros próximos de zero até 2023.
 

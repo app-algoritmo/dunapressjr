@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria supera período pré-pandemia, diz CNI"
+title: Faturamento da indústria supera período pré-pandemia, diz CNI
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empregos na indústria cresceram 1,9% em agosto.
 

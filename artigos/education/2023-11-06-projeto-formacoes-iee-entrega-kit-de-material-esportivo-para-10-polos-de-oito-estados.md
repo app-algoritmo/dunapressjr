@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE entrega kit de material esportivo para 10 polos de oito estados"
+title: Projeto Formações IEE entrega kit de material esportivo para 10 polos de oito
+  estados
 date: 2023-11-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## São bambolês, bolas, coletes, cones, cordas e rolos de elástico para as cidades que capacitam profissionais com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional, totalizando 26.500 itens.
 

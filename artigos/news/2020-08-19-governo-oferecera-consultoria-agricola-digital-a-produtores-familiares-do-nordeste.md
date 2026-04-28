@@ -1,11 +1,12 @@
 ---
-title: "Governo oferecerá consultoria agrícola digital a produtores familiares do Nordeste"
+title: Governo oferecerá consultoria agrícola digital a produtores familiares do Nordeste
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Agricultores familiares do Nordeste vão ter consultoria agrícola digital. Por meio de mensagem de celular, eles vão receber informações de extensão rural como técnicas de plantio e manejo das culturas. O anúncio do novo serviço foi feito nesta terça-feira (18), pela ministra da Agricultura, Tereza Cristina. A iniciativa é uma parceria do ministério com o Instituto Interamericano de Cooperação para a Agricultura (IICA).
 

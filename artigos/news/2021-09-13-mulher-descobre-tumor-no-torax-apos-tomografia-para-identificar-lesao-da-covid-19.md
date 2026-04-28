@@ -1,11 +1,12 @@
 ---
-title: "Mulher descobre tumor no tórax após tomografia para identificar lesão da covid-19"
+title: Mulher descobre tumor no tórax após tomografia para identificar lesão da covid-19
 date: 2021-09-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Cirurgia de retirada foi feita com auxílio da robótica que permite melhor visualização e maior precisão de movimentos operatórios.
 

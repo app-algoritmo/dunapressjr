@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresce 8,3% em 2022"
+title: Setor de serviços cresce 8,3% em 2022
 date: 2023-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Transporte terrestre é um dos ramos que mais contribuíram para a alta.
 

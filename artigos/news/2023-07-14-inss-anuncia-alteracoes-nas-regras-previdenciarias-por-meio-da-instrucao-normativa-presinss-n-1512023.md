@@ -1,11 +1,13 @@
 ---
-title: "INSS anuncia alterações nas regras previdenciárias por meio da Instrução Normativa PRES/INSS nº 151/2023"
+title: INSS anuncia alterações nas regras previdenciárias por meio da Instrução Normativa
+  PRES/INSS nº 151/2023
 date: 2023-07-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novas regras incluem aposentadoria por idade híbrida e ampliação dos requisitos para trabalhadores rurais e urbanos.
 

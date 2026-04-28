@@ -1,12 +1,13 @@
 ---
-title: "Lewis Hamilton é heptacampeão mundial de Fórmula 1 | Foco, trabalho e esperança"
+title: Lewis Hamilton é heptacampeão mundial de Fórmula 1 | Foco, trabalho e esperança
 date: 2020-11-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Opinion
+- News
+- Opinion
 ---
+
 
 **Hamilton conquista seu 7° campeonato ao vencer de forma impressionante e chora**
 

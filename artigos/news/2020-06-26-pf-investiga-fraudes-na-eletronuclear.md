@@ -1,11 +1,12 @@
 ---
-title: "PF investiga fraudes na Eletronuclear"
+title: PF investiga fraudes na Eletronuclear
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - A Polícia Federal deflagrou nesta quinta-feira (25/6) a Operação Fiat Lux, com o objetivo de investigar fraudes em contratos da Eletronuclear. Estão sendo cumpridos 17 mandados de busca e apreensão e 12 de prisão temporária, nos estados do Rio de Janeiro (capital, Niterói e Petrópolis), São Paulo e no Distrito Federal.
 

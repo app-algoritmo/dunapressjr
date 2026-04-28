@@ -1,11 +1,13 @@
 ---
-title: "A situação em Gaza afeta o mundo inteiro, não apenas o Oriente Médio, diz presidente iraniano"
+title: A situação em Gaza afeta o mundo inteiro, não apenas o Oriente Médio, diz presidente
+  iraniano
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ebrahim Raisi destacou que “um ato de genocídio e crimes contra a humanidade” estava ocorrendo na Faixa de Gaza.
 

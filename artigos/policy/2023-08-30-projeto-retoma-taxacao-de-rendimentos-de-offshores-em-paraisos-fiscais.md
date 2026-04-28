@@ -1,11 +1,12 @@
 ---
-title: "Projeto retoma taxação de rendimentos de offshores em paraísos fiscais"
+title: Projeto retoma taxação de rendimentos de offshores em paraísos fiscais
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Governo diz que ativos no exterior pertencentes a brasileiros somam mais de R$ 1 trilhão e praticamente não sofrem tributação.
 

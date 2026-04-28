@@ -1,11 +1,13 @@
 ---
-title: "SC: Encaminha para Alesc projeto de lei que isenta ICMS do medicamento Zolgensma para tratamento da Zolgensma"
+title: 'SC: Encaminha para Alesc projeto de lei que isenta ICMS do medicamento Zolgensma
+  para tratamento da Zolgensma'
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O governador Carlos Moisés enviou para aprovação na Assembleia Legislativa, nesta sexta-feira, 4, o projeto de lei que isenta o ICMS do medicamento Zolgensma, administrado em portadores de Atrofia Medular Espinhal, conhecida como AME. A medicação detém a progressão da AME e garante a sobrevivência dos portadores da doença. 
 

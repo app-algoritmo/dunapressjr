@@ -1,11 +1,12 @@
 ---
-title: "Ataque a fazendeiros holandeses não é um caso isolado"
+title: Ataque a fazendeiros holandeses não é um caso isolado
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Muitas pessoas não conseguem imaginar uma guerra pela comida de que todos na terra precisam.
 

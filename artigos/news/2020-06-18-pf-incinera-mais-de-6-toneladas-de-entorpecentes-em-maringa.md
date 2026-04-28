@@ -1,11 +1,12 @@
 ---
-title: "PF incinera mais de 6 toneladas de entorpecentes em Maringá"
+title: PF incinera mais de 6 toneladas de entorpecentes em Maringá
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maringá/PR – A Polícia Federal realizou na tarde da quarta-feira, 17/6, a incineração de 6.637 kg de maconha, apreendida na terça-feira, 16/6, em ação conjunta com o 4º Batalhão de Polícia Militar em Maringá. 
 

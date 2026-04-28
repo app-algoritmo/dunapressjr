@@ -1,11 +1,13 @@
 ---
-title: "Alto escalão russo lista novos participantes em programas militares e biológicos dos EUA na Ucrânia"
+title: Alto escalão russo lista novos participantes em programas militares e biológicos
+  dos EUA na Ucrânia
 date: 2023-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Igor Kirillov acrescentou que os cidadãos ucranianos estão entre os perpetradores do projeto militar-biológico dos EUA. Em particular, Natalia Rodina, vice-diretora geral do Kiev Regional Laboratory Center do Ministério da Saúde da Ucrânia e ex-funcionária da empresa americana Black & Veatch
 

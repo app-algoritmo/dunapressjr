@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra saldo de 782 mil empresas abertas de maio a agosto deste ano"
+title: Brasil registra saldo de 782 mil empresas abertas de maio a agosto deste ano
 date: 2020-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O tempo médio de abertura reduziu em 2 dias, o que mostra a retomada do crescimento da economia do País.
 

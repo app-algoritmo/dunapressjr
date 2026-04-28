@@ -1,11 +1,12 @@
 ---
-title: "Médico afirma que vacinados são diferentes"
+title: Médico afirma que vacinados são diferentes
 date: 2023-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **As vacinas Covid geraram milhões de zumbis?**
 

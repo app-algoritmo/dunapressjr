@@ -1,11 +1,13 @@
 ---
-title: "Relatório: os planos pós-terror do governo do Reino Unido incluem lavagem cerebral – mas eles preferem chamá-lo de “espontaneidade controlada”"
+title: 'Relatório: os planos pós-terror do governo do Reino Unido incluem lavagem
+  cerebral – mas eles preferem chamá-lo de “espontaneidade controlada”'
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Um relatório revelou que o governo britânico traçou planos [para lançar campanhas de mídia social após eventos terroristas](http://www.middleeasteye.net/news/mind-control-secret-british-government-blueprints-shaping-post-terror-planning) , usando o que chama de "espontaneidade controlada".
 

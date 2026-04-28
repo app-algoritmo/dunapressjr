@@ -1,11 +1,12 @@
 ---
-title: "Índice de Felicidade das mulheres"
+title: Índice de Felicidade das mulheres
 date: 2020-06-10
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 De muitas maneiras diferentes, a vida melhorou nas últimas décadas. Quando falamos sobre as mulheres, então, é inegável observar que suas lutas obtiveram sucesso em várias frentes, com aumento dos direitos, do acesso à educação e ao trabalho, da capacidade para independência financeira e planejamento familiar, e da prerrogativa à soberania sobre a própria sexualidade, bem estar físico e autopertencimento.
 

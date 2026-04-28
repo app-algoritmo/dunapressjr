@@ -1,10 +1,11 @@
 ---
-title: "Economia e o que não fazer para dar certo - Dilema de Brasil"
+title: Economia e o que não fazer para dar certo - Dilema de Brasil
 date: 2026-04-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 

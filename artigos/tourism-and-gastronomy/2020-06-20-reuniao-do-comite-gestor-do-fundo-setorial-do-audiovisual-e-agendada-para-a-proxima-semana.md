@@ -1,11 +1,13 @@
 ---
-title: "Reunião do Comitê Gestor do Fundo Setorial do Audiovisual é agendada para a próxima semana"
+title: Reunião do Comitê Gestor do Fundo Setorial do Audiovisual é agendada para a
+  próxima semana
 date: 2020-06-20
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Ministério do Turismo anunciou data no dia em que se celebra o Cinema Brasileiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Hospital universitário na Paraíba oferece próteses faciais para pacientes com deformidades"
+title: Hospital universitário na Paraíba oferece próteses faciais para pacientes com
+  deformidades
 date: 2020-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Projeto da unidade da Paraíba já atendeu cerca de 230 pacientes que perderam alguma parte do rosto**.
 

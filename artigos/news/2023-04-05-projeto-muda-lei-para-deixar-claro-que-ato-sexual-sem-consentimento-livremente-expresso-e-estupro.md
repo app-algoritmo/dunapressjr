@@ -1,11 +1,13 @@
 ---
-title: "Projeto muda lei para deixar claro que ato sexual sem consentimento livremente expresso é estupro"
+title: Projeto muda lei para deixar claro que ato sexual sem consentimento livremente
+  expresso é estupro
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 228/23 altera a definição de estupro no [Código Penal](https://www2.camara.gov.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-norma-pe.html) para deixar mais claro que o crime será configurado quando alguém se aproveitar de vulnerabilidade ou ausência de sentido que impeça o consentimento expresso para conjunção carnal ou outro ato libidinoso.
 

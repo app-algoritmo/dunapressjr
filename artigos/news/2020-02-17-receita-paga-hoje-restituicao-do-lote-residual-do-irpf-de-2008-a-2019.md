@@ -1,11 +1,12 @@
 ---
-title: "Receita paga hoje restituição do lote residual do IRPF de 2008 a 2019"
+title: Receita paga hoje restituição do lote residual do IRPF de 2008 a 2019
 date: 2020-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal paga hoje (17) o lote residual de
 restituição multiexercício do Imposto sobre a Renda Pessoa Física (IRPF),

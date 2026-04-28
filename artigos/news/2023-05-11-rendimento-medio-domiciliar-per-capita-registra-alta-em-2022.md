@@ -1,11 +1,12 @@
 ---
-title: "Rendimento médio domiciliar per capita registra alta em 2022"
+title: Rendimento médio domiciliar per capita registra alta em 2022
 date: 2023-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retomada do mercado de trabalho e Auxílio Brasil impulsionam aumento de rendimentos, reduzindo desigualdade no país, aponta pesquisa do IBGE.
 

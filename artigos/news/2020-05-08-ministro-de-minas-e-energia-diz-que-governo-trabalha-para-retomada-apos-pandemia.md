@@ -1,11 +1,12 @@
 ---
-title: "Ministro de Minas e Energia diz que governo trabalha para retomada após pandemia"
+title: Ministro de Minas e Energia diz que governo trabalha para retomada após pandemia
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os impactos da pandemia do coronavírus no ambiente de negócios do setor de energia foi discutido nesta quinta-feira (7) em videoconferência promovida pelo Tribunal de Contas da União.
 

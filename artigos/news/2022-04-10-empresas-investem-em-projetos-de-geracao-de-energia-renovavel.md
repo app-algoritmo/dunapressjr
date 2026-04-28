@@ -1,11 +1,12 @@
 ---
-title: "Empresas investem em projetos de geração de energia renovável"
+title: Empresas investem em projetos de geração de energia renovável
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A alta do custo da produção energética, causada pela crise hídrica, aumentou muito o valor das contas de energia e está levando empresas a implementarem projetos constantes de eficiência energética para diminuir esse custo. Em 2021, o reajuste acumulado do consumo de energia ficou em 7%. Porém, a mudança de bandeira tarifária em função dos custos da produção de energia eleva mais ainda esse porcentual e as projeções para 2022 são de um reajuste de 19%. Para diminuir a carga dessa conta, empresas investem em usinas solares, trocas de equipamentos e no mercado livre de energia.
 

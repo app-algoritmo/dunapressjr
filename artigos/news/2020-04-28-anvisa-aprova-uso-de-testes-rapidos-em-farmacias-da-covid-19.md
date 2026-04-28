@@ -1,11 +1,12 @@
 ---
-title: "Anvisa aprova uso de testes rápidos em farmácias da COVID-19"
+title: Anvisa aprova uso de testes rápidos em farmácias da COVID-19
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medida tem caráter temporário e excepcional e visa ampliar a oferta e a rede de testagem, bem como reduzir a demanda em serviços públicos de saúde.
 

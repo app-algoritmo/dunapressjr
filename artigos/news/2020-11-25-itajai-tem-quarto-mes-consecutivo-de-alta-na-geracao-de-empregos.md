@@ -1,11 +1,12 @@
 ---
-title: "Itajaí tem quarto mês consecutivo de alta na geração de empregos"
+title: Itajaí tem quarto mês consecutivo de alta na geração de empregos
 date: 2020-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí registrou o quarto mês consecutivo de crescimento na geração de empregos. Foram 2.701 novas carteiras assinadas entre os meses de junho e setembro de 2020. Essa é uma forte recuperação das baixas ocasionadas no auge da pandemia de coronavírus no primeiro semestre, entre os meses de março e maio.
 

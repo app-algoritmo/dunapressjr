@@ -1,11 +1,12 @@
 ---
-title: "O Impacto da Instabilidade Fiscal no Brasil e as Reações no Mercado Global"
+title: O Impacto da Instabilidade Fiscal no Brasil e as Reações no Mercado Global
 date: 2024-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O artigo publicado pela **Revista Oeste** em outubro de 2024 destaca um fenômeno preocupante no Brasil: funcionários do Banco Central (BC) estão comprando dólares como uma forma de proteger seu patrimônio pessoal. Esse comportamento é um indicativo claro de como a instabilidade fiscal e econômica do país está gerando incertezas não apenas entre investidores externos, mas também dentro da própria instituição responsável por assegurar a estabilidade monetária.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A Pedrosada"
+title: 'Série Fatos Da Independência: A Pedrosada'
 date: 2024-01-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Mais cedo ou mais tarde, a tensão iria explodir. Em fevereiro de 1823, batalhões de pretos e pardos tomaram Recife e Olinda de surpresa, por oito dias, escorraçaram a Junta dos Matutos – o governo provincial – que fugiu para o interior da província e aclamaram o governador de armas, antigo capitão do Regimento de Artilharia, Pedro da Silva Pedroso, negro, jacobino, e revolucionário de primeira hora, em 1817.
 

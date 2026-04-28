@@ -1,11 +1,12 @@
 ---
-title: "FAB transporta cilindros de oxigênio para São Gabriel da Cachoeira (AM)"
+title: FAB transporta cilindros de oxigênio para São Gabriel da Cachoeira (AM)
 date: 2020-05-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma aeronave C-105 Amazonas, da Força Aérea Brasileira (FAB), realizou, neste sábado (09/05), Transporte Aéreo Logístico em apoio à Operação COVID-19. O avião, pertencente ao Primeiro Esquadrão do Nono Grupo de Aviação (1º/9º GAV) – Esquadrão Arara, transportou 22 cilindros de oxigênio, de Manaus (AM) para São Gabriel da Cachoeira (AM). A missão foi coordenada pelo Comando de Operações Aeroespaciais (COMAE) junto ao Centro de Operações Conjuntas (COC) do Ministério da Defesa, em apoio ao Ministério da Saúde.
 

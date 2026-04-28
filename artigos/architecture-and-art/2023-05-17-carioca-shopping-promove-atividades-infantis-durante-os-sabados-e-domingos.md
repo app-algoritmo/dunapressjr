@@ -1,12 +1,13 @@
 ---
-title: "Carioca Shopping promove atividades infantis durante os sábados e domingos"
+title: Carioca Shopping promove atividades infantis durante os sábados e domingos
 date: 2023-05-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Culture and History
+- Architecture and Art
+- Culture and History
 ---
+
 
 ## **Projeto Clubinho Carioca oferece atrações gratuitas para encantar e divertir a criançada**.
 

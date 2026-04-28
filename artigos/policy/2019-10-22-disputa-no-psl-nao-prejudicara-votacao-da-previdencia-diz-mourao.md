@@ -1,11 +1,12 @@
 ---
-title: "Disputa no PSL não prejudicará votação da Previdência, diz Mourão"
+title: Disputa no PSL não prejudicará votação da Previdência, diz Mourão
 date: 2019-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente em exercício, Hamilton Mourão, disse ontem (21)
 que a disputa interna no PSL, partido do presidente Jair Bolsonaro, não deve

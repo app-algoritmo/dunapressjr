@@ -1,11 +1,12 @@
 ---
-title: "JP Morgan prevê preço recorde do ouro para 2024"
+title: JP Morgan prevê preço recorde do ouro para 2024
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O JP Morgan prevê que os preços do ouro atinjam US$ 2.000 até o final do ano e subam ainda mais para um recorde em 2024.
 

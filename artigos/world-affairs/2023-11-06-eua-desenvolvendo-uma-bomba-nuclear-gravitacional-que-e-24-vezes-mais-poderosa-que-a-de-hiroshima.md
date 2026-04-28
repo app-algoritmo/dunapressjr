@@ -1,11 +1,13 @@
 ---
-title: "EUA desenvolvendo uma bomba nuclear gravitacional que é 24 vezes mais poderosa que a de Hiroshima"
+title: EUA desenvolvendo uma bomba nuclear gravitacional que é 24 vezes mais poderosa
+  que a de Hiroshima
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O *Departamento de Defesa* dos EUA  está a desenvolver uma [versão nova e mais poderosa da bomba nuclear gravitacional B61](https://www.the-sun.com/news/9452889/) para modernizar o seu arsenal nuclear e dissuadir possíveis ameaças nucleares da China e da Rússia.
 

@@ -1,11 +1,13 @@
 ---
-title: "3.01 Preenchimento de vagas para os segundo e terceiro escalões vai seguir critérios técnicos e afinação com projeto do governo"
+title: 3.01 Preenchimento de vagas para os segundo e terceiro escalões vai seguir
+  critérios técnicos e afinação com projeto do governo
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Primeira reunião ministerial discute pente-fino em imóveis e conselhos
 

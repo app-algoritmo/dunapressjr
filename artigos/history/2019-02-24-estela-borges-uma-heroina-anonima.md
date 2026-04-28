@@ -1,11 +1,12 @@
 ---
-title: "Estela Borges uma heroína anônima"
+title: Estela Borges uma heroína anônima
 date: 2019-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Estela tinha apenas 22 anos quando foi assassinada. Jovem e bonita, Estela já havia casado quando revolveu mudar de emprego. Saiu de um grande banco e fez concurso para a Polícia Civil de São Paulo. Foi nomeada no cargo de Investigadora. Estela Borges Morato (1947-1969) foi talvez uma das primeiras mulheres concursadas a ingressar no serviço público brasileiro.
 Estela foi designada para uma operação de captura de um criminoso, assaltante de bancos. O perigoso marginal, juntamente com seus comparsas, resistiu à prisão. 

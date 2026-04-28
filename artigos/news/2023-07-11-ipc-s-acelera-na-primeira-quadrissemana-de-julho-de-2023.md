@@ -1,11 +1,12 @@
 ---
-title: "IPC-S acelera na primeira quadrissemana de julho de 2023"
+title: IPC-S acelera na primeira quadrissemana de julho de 2023
 date: 2023-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses foi acumulando alta de 3,45%.
 

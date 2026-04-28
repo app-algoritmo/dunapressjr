@@ -1,11 +1,12 @@
 ---
-title: "Número de usuários do Pix chega a 51 milhões em março"
+title: Número de usuários do Pix chega a 51 milhões em março
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Modalidade de transferências instantâneas teve alta de 72% em um ano.
 

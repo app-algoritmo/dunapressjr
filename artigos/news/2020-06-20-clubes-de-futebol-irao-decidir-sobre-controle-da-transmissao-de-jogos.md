@@ -1,11 +1,12 @@
 ---
-title: "Clubes de futebol irão decidir sobre controle da transmissão de jogos"
+title: Clubes de futebol irão decidir sobre controle da transmissão de jogos
 date: 2020-06-20
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ato permite que mandantes de jogos transmitam suas partidas, inclusive, pela Internet. Outra mudança diz respeito ao prazo mínimo para celebração de contratos dos profissionais de futebol.
 

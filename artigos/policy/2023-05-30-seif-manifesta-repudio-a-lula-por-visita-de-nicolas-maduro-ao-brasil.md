@@ -1,11 +1,12 @@
 ---
-title: "Seif manifesta repúdio a Lula por visita de Nicolás Maduro ao Brasil"
+title: Seif manifesta repúdio a Lula por visita de Nicolás Maduro ao Brasil
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) apresentou, em pronunciamento na segunda-feira (29), voto de repúdio ao presidente da República, Luiz Inácio Lula da Silva, por receber Nicolás Maduro, presidente da Venezuela, "um reconhecido ditador", que está no Brasil para a cúpula dos países da América do Sul. O senador criticou a recepção de Maduro com honras de chefe de Estado. Ao voto de repúdio de Seif somou-se o que foi apresentado pelo senador Eduardo Girão (Novo-CE), na mesma linha.
 

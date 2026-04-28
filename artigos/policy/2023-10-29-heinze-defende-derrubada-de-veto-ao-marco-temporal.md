@@ -1,11 +1,12 @@
 ---
-title: "Heinze defende derrubada de veto ao marco temporal"
+title: Heinze defende derrubada de veto ao marco temporal
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Luís Carlos Heinze (PP-RS), em pronunciamento no Plenário nessa quarta-feira (25), defendeu a derrubada de vetos  ao texto do marco temporal das terras indígenas ( [Lei 14.701](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14701), de 2023), aprovado no Senado no final de setembro. Um dos dispositivos vetados estabelecia que os povos indígenas teriam direito apenas às terras ocupadas até 5 de outubro de 1988, data em que a Constituição foi promulgada. 
 

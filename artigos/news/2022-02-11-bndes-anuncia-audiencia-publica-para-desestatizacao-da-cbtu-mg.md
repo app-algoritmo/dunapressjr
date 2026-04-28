@@ -1,11 +1,12 @@
 ---
-title: "BNDES anuncia audiência pública para desestatização da CBTU-MG"
+title: BNDES anuncia audiência pública para desestatização da CBTU-MG
 date: 2022-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Audiência pública está marcada para 25 de fevereiro e o acesso à Sala de Informações, visitas técnicas e reuniões adicionais para esclarecimentos, estão disponíveis no portal do BNDES.
 

@@ -1,11 +1,13 @@
 ---
-title: "Kremlin Ameaça Expandir Zona de Segurança na Ucrânia em Resposta à Ajuda Militar dos EUA"
+title: Kremlin Ameaça Expandir Zona de Segurança na Ucrânia em Resposta à Ajuda Militar
+  dos EUA
 date: 2024-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Kremlin emitiu uma séria ameaça, alertando sobre a possível expansão de sua "zona de segurança" na Ucrânia, caso Kiev receba mísseis de longo alcance dos Estados Unidos. As tensões aumentam à medida que os EUA planejam fornecer um pacote de ajuda militar de US$ 1 bilhão para a Ucrânia, em um movimento que poderia intensificar ainda mais o conflito na região.
 

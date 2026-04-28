@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 4,89 com incertezas domésticas e externas"
+title: Dólar sobe para R$ 4,89 com incertezas domésticas e externas
 date: 2022-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa cai pela quarta vez e atinge menor nível em três semanas
 

@@ -1,11 +1,13 @@
 ---
-title: "Documentos confidenciais da UE revelam milhares de mortes causadas por seringas da Pfizer BioNTech"
+title: Documentos confidenciais da UE revelam milhares de mortes causadas por seringas
+  da Pfizer BioNTech
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 *Documentos "confidenciais" fornecidos pela BioNTech à Agência Europeia de Medicamentos mostram dezenas de milhares de eventos adversos graves e milhares de mortes em pessoas que receberam a vacina de mRNA COVID-19 da Pfizer-BioNTech durante um período em que os fabricantes da vacina insistiram que não viram "sinais de segurança ".*
 

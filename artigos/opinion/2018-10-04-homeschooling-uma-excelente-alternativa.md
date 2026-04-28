@@ -1,11 +1,12 @@
 ---
-title: "Homeschooling - Uma excelente alternativa!"
+title: Homeschooling - Uma excelente alternativa!
 date: 2018-10-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Gostar do Homeschooling não é ser anti escola, não colocar seu filho na escola, mas sim de fato garantir legalmente a liberdade e dar a faculdade de a família optar o que é melhor para seu filho, pois todos querem o melhor para as crianças e jovens.
 

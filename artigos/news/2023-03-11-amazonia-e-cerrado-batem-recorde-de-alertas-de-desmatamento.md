@@ -1,11 +1,12 @@
 ---
-title: "Amazônia e Cerrado batem recorde de alertas de desmatamento"
+title: Amazônia e Cerrado batem recorde de alertas de desmatamento
 date: 2023-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mato Grosso foi o estado que mais perdeu vegetação natural.
 

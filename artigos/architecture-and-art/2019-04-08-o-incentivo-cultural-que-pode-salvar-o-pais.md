@@ -1,11 +1,12 @@
 ---
-title: "O incentivo cultural que pode salvar o país"
+title: O incentivo cultural que pode salvar o país
 date: 2019-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Incentivo cultural é algo muito sério. Incentivo errado pode destruir uma nação, sobretudo se o tal incentivo for destinado às crianças. 
 

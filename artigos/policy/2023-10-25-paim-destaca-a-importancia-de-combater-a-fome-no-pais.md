@@ -1,11 +1,12 @@
 ---
-title: "Paim destaca a importância de combater a fome no país"
+title: Paim destaca a importância de combater a fome no país
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) destacou, em pronunciamento nesta segunda-feira (23), a importância do combate à fome no país. Ele observou que a falta de acesso regular a uma alimentação adequada por parte da população tem sido uma realidade no Brasil por séculos, mesmo o Brasil sendo rico em recursos naturais e com grande potencial agrícola. Ele defendeu a necessidade de garantir o acesso à alimentação para toda a população e reduzir o desperdício de alimentos.
 

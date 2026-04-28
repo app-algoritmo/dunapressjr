@@ -1,11 +1,12 @@
 ---
-title: "Útero artificial israelense transforma 250 células em fetos de camundongo"
+title: Útero artificial israelense transforma 250 células em fetos de camundongo
 date: 2021-06-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os cientistas acreditam que esta descoberta pode levar à gestação humana fora do útero; O conhecimento da formação de órgãos pode permitir novos avanços.
 

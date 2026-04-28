@@ -1,11 +1,13 @@
 ---
-title: "Custo da construção civil sobe 0,36% em maio, segundo o Índice Nacional da Construção Civil (Sinapi)"
+title: Custo da construção civil sobe 0,36% em maio, segundo o Índice Nacional da
+  Construção Civil (Sinapi)
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento na mão de obra e queda nos materiais são os principais destaques do índice, que aponta variações regionais e impactos dos acordos coletivos.
 

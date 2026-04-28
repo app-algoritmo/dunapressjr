@@ -1,11 +1,12 @@
 ---
-title: "Canal para agricultores familiares comunicarem perdas de alimentos"
+title: Canal para agricultores familiares comunicarem perdas de alimentos
 date: 2020-05-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo é garantir que as informações cheguem ao Mapa de forma rápida e organizada para que novas medidas sejam avaliadas.
 

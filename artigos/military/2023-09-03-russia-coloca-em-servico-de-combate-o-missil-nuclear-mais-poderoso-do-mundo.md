@@ -1,12 +1,13 @@
 ---
-title: "Rússia coloca em serviço de combate o míssil nuclear mais poderoso do mundo"
+title: Rússia coloca em serviço de combate o míssil nuclear mais poderoso do mundo
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - Policy
+- Military
+- Policy
 ---
+
 
 O míssil balístico intercontinental Sarmat, uma das armas nucleares mais mortais da Rússia, foi aprovado para serviço de combate activo. Yury Borisov, chefe da agência espacial russa, fez o grande anúncio. A medida parece ser um impedimento mortal da Rússia para o Ocidente, já que planeiam enviar caças F-16 para a Ucrânia.
 

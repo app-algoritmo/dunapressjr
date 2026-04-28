@@ -1,11 +1,12 @@
 ---
-title: "Nos Estados Unidos, uma suástica é pintada em frente uma sinagoga no Maine"
+title: Nos Estados Unidos, uma suástica é pintada em frente uma sinagoga no Maine
 date: 2020-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma suástica foi pintada de branco na quinta-feira na calçada em frente a uma sinagoga americana em Bangor, Maine, nos Estados Unidos. A polícia de Bangor está investigando o incidente na Congregação Beth Israel; Imagens de CCTV de adolescentes que vandalizam lugares. 
 

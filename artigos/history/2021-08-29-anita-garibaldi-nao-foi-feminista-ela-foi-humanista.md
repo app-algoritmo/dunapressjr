@@ -1,11 +1,12 @@
 ---
-title: "Anita Garibaldi não foi feminista, ela foi humanista"
+title: Anita Garibaldi não foi feminista, ela foi humanista
 date: 2021-08-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O maior legado deixado pela Anita Garibaldi é a liberdade de exercermos a nossa força sem deixarmos de ser femininas, sem deixar de ser esposa, porque ela foi uma esposa muito dedicada, passava roupa do marido, cuidava dos filhos, em nenhum momento deixou de lado o seu papel de mãe e de esposa.
 

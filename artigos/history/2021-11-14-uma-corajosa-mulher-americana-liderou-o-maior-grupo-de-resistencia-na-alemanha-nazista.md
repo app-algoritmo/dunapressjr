@@ -1,11 +1,13 @@
 ---
-title: "Uma corajosa mulher americana liderou o maior grupo de resistência na Alemanha nazista"
+title: Uma corajosa mulher americana liderou o maior grupo de resistência na Alemanha
+  nazista
 date: 2021-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## No best-seller "Todas as dificuldades frequentes de nossos dias", a autora Rebecca Donner conta a história verídica de sua tia-avó Mildred Harnack, que deu sua vida para lutar contra o fascismo.
 

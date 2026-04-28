@@ -1,11 +1,13 @@
 ---
-title: "Cleitinho critica uso de dinheiro público para pagar viagens do presidente Lula"
+title: Cleitinho critica uso de dinheiro público para pagar viagens do presidente
+  Lula
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos–MG) questionou, em pronunciamento no Plenário nesta terça-feira (27), os "gastos excessivos" do presidente Lula durante viagens oficiais. O parlamentar anunciou a intenção de criar um projeto para fiscalizar e regulamentar o uso dos recursos públicos. 
 

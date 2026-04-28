@@ -1,11 +1,12 @@
 ---
-title: "Receita amplia isenção de Imposto de Renda na venda de imóvel"
+title: Receita amplia isenção de Imposto de Renda na venda de imóvel
 date: 2022-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Quem vender moradia para quitar financiamento não pagará IR.
 

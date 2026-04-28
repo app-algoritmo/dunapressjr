@@ -1,11 +1,13 @@
 ---
-title: "FORÇAS ARMADAS TRANSPORTAM NESTA SEGUNDA-FEIRA RESPIRADORES HOSPITALARES E VACINAS"
+title: FORÇAS ARMADAS TRANSPORTAM NESTA SEGUNDA-FEIRA RESPIRADORES HOSPITALARES E
+  VACINAS
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministério da Defesa, em ação coordenada com o Ministério da Saúde e com o apoio da Confederação Nacional da Indústria (CNI), realiza, nesta segunda-feira (06/04), o transporte de equipamentos e medicamentos para auxiliar no combate ao novo coronavírus.
 

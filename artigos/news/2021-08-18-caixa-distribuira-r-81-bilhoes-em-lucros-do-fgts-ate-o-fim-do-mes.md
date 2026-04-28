@@ -1,11 +1,12 @@
 ---
-title: "Caixa distribuirá R$ 8,1 bilhões em lucros do FGTS até o fim do mês"
+title: Caixa distribuirá R$ 8,1 bilhões em lucros do FGTS até o fim do mês
 date: 2021-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor será proporcional ao saldo do trabalhador em 31 de dezembro.
 

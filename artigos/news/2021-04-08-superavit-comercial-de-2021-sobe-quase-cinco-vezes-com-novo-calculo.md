@@ -1,11 +1,12 @@
 ---
-title: "Superávit comercial de 2021 sobe quase cinco vezes com novo cálculo"
+title: Superávit comercial de 2021 sobe quase cinco vezes com novo cálculo
 date: 2021-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Metodologia foi revisada para atender a recomendações internacionais.
 

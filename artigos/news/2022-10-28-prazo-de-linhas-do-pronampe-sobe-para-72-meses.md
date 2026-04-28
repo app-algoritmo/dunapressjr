@@ -1,11 +1,12 @@
 ---
-title: "Prazo de linhas do Pronampe sobe para 72 meses"
+title: Prazo de linhas do Pronampe sobe para 72 meses
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Atrelados à Selic, juros passam a ser fixados por ministério.
 

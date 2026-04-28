@@ -1,11 +1,12 @@
 ---
-title: "Atenção à Dislexia"
+title: Atenção à Dislexia
 date: 2022-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dislexia é um transtorno genético e hereditário da linguagem, de origem neurobiológica, que se caracteriza pela dificuldade de decodificar o estímulo escrito ou o símbolo gráfico, comprometendo a capacidade de aprender a ler e escrever com correção e fluência e de compreender um texto.
 

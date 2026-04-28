@@ -1,11 +1,12 @@
 ---
-title: "Parcerias com setor privado ajudarão nas metas de saneamento, diz Ministro"
+title: Parcerias com setor privado ajudarão nas metas de saneamento, diz Ministro
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Ministro da Fazenda, Fernando Haddad, confirma que novo arcabouço será enviado ao Congresso com LDO.
 

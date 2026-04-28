@@ -1,12 +1,13 @@
 ---
-title: "Desvendando o Globalismo e o Comunismo"
+title: Desvendando o Globalismo e o Comunismo
 date: 2024-04-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 No dia 28 de julho, a Fundação Alexandre de Gusmão (FUNAG) promoveu uma conferência virtual de grande relevância intitulada "Globalismo e Comunismo", tendo como palestrante o renomado Dr. Flávio Gordon, doutor em Antropologia e autor do livro "A Corrupção da Inteligência". O evento foi transmitido ao vivo pelo canal da FUNAG no YouTube, reunindo um público interessado em compreender as complexidades desses temas que moldam a geopolítica e as relações internacionais contemporâneas.
 

@@ -1,13 +1,15 @@
 ---
-title: "Gupy é apoiador oficial do Corporate Games, maior olimpíada corporativa do mundo"
+title: Gupy é apoiador oficial do Corporate Games, maior olimpíada corporativa do
+  mundo
 date: 2023-10-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Education
-  - Sports
+- Business and Economy
+- Education
+- Sports
 ---
+
 
 ## Empresa líder em tecnologia para Recursos Humanos no Brasil estará no evento, que combinará esportes, bem-estar e networking, em novembro, na capital paulista.
 

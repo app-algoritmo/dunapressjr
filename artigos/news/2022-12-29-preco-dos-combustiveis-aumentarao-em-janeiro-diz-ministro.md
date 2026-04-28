@@ -1,11 +1,12 @@
 ---
-title: "Preço dos combustíveis aumentarão em janeiro, diz Ministro"
+title: Preço dos combustíveis aumentarão em janeiro, diz Ministro
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ministro de Minas e Energia, Adolfo Sachsida, informou através de seu twitter o preço dos combustíveis irá aumentar devido a escolha do novo governo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras lançou edital para empresas de tecnologia e startups"
+title: Petrobras lançou edital para empresas de tecnologia e startups
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Investimento pode chegar a R$ 6 milhões, e inscrições vão até setembro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dias de Pesquisa: 18 a 29 de setembro de 2019 em Oslo"
+title: 'Dias de Pesquisa: 18 a 29 de setembro de 2019 em Oslo'
 date: 2019-09-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## Todas as pessoas estão convidadas a participar de eventos gratuitos em toda a Noruega. Este ano, os Dias de Pesquisa têm como tema o meio ambiente, lançando as relevantes questões: de que maneira o ambiente mudou nos últimos anos? O que os cientistas fazem e o que podemos fazer? Como podemos fazer algo relacionado ao meio ambiente?
 

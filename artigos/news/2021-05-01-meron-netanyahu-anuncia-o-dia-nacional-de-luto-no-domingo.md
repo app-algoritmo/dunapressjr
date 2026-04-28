@@ -1,11 +1,12 @@
 ---
-title: "Meron: Netanyahu anuncia o dia nacional de luto no domingo"
+title: 'Meron: Netanyahu anuncia o dia nacional de luto no domingo'
 date: 2021-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O primeiro-ministro visitou o cenário da tragédia, que ele descreveu como "um dos desastres mais graves" da história de Israel.
 

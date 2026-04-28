@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe e fecha no melhor nível em 15 dias"
+title: Bolsa sobe e fecha no melhor nível em 15 dias
 date: 2021-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Em dia de oscilações, dólar fechou com pequena alta.
 

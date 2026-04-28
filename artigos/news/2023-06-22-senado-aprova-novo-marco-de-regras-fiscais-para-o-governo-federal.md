@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova novo marco de regras fiscais para o governo federal"
+title: Senado aprova novo marco de regras fiscais para o governo federal
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto estabelece limites para gastos e flexibiliza áreas prioritárias de investimento.
 

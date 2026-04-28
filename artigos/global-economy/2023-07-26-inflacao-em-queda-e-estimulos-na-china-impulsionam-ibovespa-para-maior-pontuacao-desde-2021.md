@@ -1,11 +1,13 @@
 ---
-title: "Inflação em queda e estímulos na China impulsionam Ibovespa para maior pontuação desde 2021"
+title: Inflação em queda e estímulos na China impulsionam Ibovespa para maior pontuação
+  desde 2021
 date: 2023-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dados do IPCA-15 e perspectivas internacionais levam investidores a antecipar corte na Taxa Selic e fortalecem setores da construção e siderurgia na Bolsa Brasileira.
 

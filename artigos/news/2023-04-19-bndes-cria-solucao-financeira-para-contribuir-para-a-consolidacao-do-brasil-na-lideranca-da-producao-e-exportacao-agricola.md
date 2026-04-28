@@ -1,11 +1,13 @@
 ---
-title: "BNDES cria solução financeira para contribuir para a consolidação do Brasil na liderança da produção e exportação agrícola"
+title: BNDES cria solução financeira para contribuir para a consolidação do Brasil
+  na liderança da produção e exportação agrícola
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova linha de crédito em dólar do BNDES permitirá financiamento de máquinas e equipamentos agrícolas com juros competitivos e sem risco cambial para os produtores rurais.
 

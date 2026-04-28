@@ -1,11 +1,12 @@
 ---
-title: "Rússia esperando para ver se Milei muda de tom após a eleição"
+title: Rússia esperando para ver se Milei muda de tom após a eleição
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Dmitry Peskov observou que a Argentina é um país muito importante na América do Sul e a Rússia tem “relações muito boas” com ele”.
 

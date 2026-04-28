@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde derrota o Flu e garante vice-liderança da Superliga"
+title: Osasco São Cristóvão Saúde derrota o Flu e garante vice-liderança da Superliga
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde ratifica a condição de vice-líder da Superliga 1XBET 2023. A equipe comandada pelo técnico Luizomar bateu o Fluminense neste sábado (25), no ginásio José Liberatti, em partida válida pela penúltima rodada do returno. Com saque agressivo, passe seguro e ataque eficiente, o time fez a festa da torcida que lotou as arquibancadas ao marcar 3 sets a 0, com parciais de 25/12, 25/23 e 25/21, em 1h30min de partida.
 

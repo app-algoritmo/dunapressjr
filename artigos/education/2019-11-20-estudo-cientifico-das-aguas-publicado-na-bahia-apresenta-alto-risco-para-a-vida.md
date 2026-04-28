@@ -1,12 +1,14 @@
 ---
-title: "Estudo científico das águas publicado na Bahia apresenta alto risco para a vida"
+title: Estudo científico das águas publicado na Bahia apresenta alto risco para a
+  vida
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Bilhões de dólares são investidos de forma ineficaz no combate contra as águas contaminadas dos rios, mares e lagos brasileiros. O país almeja alcançar postos importantes na qualidade de vida de seus habitantes  através do aumento de seu IDH. 
 

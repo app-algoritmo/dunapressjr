@@ -1,11 +1,13 @@
 ---
-title: "Leilão do setor de saneamento vai levar melhorar a infraestrutura de esgoto para moradores do Espírito Santo"
+title: Leilão do setor de saneamento vai levar melhorar a infraestrutura de esgoto
+  para moradores do Espírito Santo
 date: 2020-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa vencedora tem a meta de universalizar o acesso aos serviços a mais de 420 mil habitantes.
 

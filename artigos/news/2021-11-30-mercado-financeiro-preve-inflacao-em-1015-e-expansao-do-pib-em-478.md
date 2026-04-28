@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê inflação em 10,15% e expansão do PIB em 4,78%"
+title: Mercado financeiro prevê inflação em 10,15% e expansão do PIB em 4,78%
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para 2022, caiu a previsão de crescimento do PIB de 0,70% para 0,58%.
 

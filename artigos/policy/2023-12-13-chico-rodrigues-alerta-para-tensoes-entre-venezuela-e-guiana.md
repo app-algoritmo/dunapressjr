@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues alerta para tensões entre Venezuela e Guiana"
+title: Chico Rodrigues alerta para tensões entre Venezuela e Guiana
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nesta segunda-feira (11), o senador Chico Rodrigues (PSB-RR) manifestou preocupação com a escalada de tensões na América do Sul. Em seu pronunciamento no Plenário, o senador destacou o conflito entre Venezuela e Guiana, e alertou para o risco de violência na fronteira com o estado de Roraima (RR). O senador explicou que o presidente venezuelano, Nicolás Maduro, propôs, no último dia 5 de dezembro, uma lei que prevê a criação de uma província em Essequibo, território da Guiana reivindicado pela Venezuela.
 

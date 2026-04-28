@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Brasil já tem mais de 2,6 milhões de pessoas recuperadas"
+title: 'Covid-19: Brasil já tem mais de 2,6 milhões de pessoas recuperadas'
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O número de óbitos pela Covid-19 vem diminuindo no Brasil nas últimas três semanas, mas, segundo o Ministério da Saúde, é preciso observar o comportamento da doença nos próximos dias para ver se esta tendência se confirma.
 

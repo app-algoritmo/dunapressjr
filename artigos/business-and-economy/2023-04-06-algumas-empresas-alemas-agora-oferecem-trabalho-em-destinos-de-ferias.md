@@ -1,12 +1,13 @@
 ---
-title: "Algumas empresas alemãs agora oferecem trabalho em destinos de férias"
+title: Algumas empresas alemãs agora oferecem trabalho em destinos de férias
 date: 2023-04-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Tourism and Gastronomy
+- Business and Economy
+- Tourism and Gastronomy
 ---
+
 
 **Novas formas de trabalho** estão lentamente ganhando aceitação na Alemanha. Cerca de 8 por cento das empresas alemãs oferecem aos seus funcionários a oportunidade de também trabalhar a partir do seu destino de férias, revela o mais recente Randstad ifo Personnel Manager Survey. Em alguns casos, isso envolve uma redução nas horas de trabalho. “Na competição por trabalhadores qualificados, isso pode ser um meio de dar aos funcionários um melhor equilíbrio entre vida profissional e pessoal”, diz **Julia Freuding,** da Filial Fürth do Instituto ifo.
 

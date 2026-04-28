@@ -1,11 +1,12 @@
 ---
-title: "Amor ágape"
+title: Amor ágape
 date: 2019-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Vi uma fração deste amor (ágape) acontecer entre uma senhora e um senhor idosos que foram casados por 50 anos. Os conheci na época que jogava basquete. A última década foi frustrada por causa da demência dela. 
 

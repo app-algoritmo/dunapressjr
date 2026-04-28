@@ -1,11 +1,12 @@
 ---
-title: "Porque anunciar no Google ADS?"
+title: Porque anunciar no Google ADS?
 date: 2022-07-06
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 # 
 

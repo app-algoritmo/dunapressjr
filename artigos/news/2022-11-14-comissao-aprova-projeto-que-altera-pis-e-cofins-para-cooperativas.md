@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que altera PIS e Cofins para cooperativas"
+title: Comissão aprova projeto que altera PIS e Cofins para cooperativas
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Câmara dos Deputados aprovou proposta que amplia o rol de cooperativas que poderão excluir da base de cálculo de PIS/Pasep e Cofins os valores repassados a associados pessoas físicas por serviços prestados por eles em nome da entidade.
 

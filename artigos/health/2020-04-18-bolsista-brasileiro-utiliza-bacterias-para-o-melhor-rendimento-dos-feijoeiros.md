@@ -1,11 +1,12 @@
 ---
-title: "Bolsista Brasileiro utiliza bactérias para o melhor rendimento dos feijoeiros"
+title: Bolsista Brasileiro utiliza bactérias para o melhor rendimento dos feijoeiros
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Agrônomo graduado pela Universidade José do Rosário Vellano (UNIFENAS), Bruno Ewerton da Silveira Cardillo é mestre em Ciência na área de Fitotecnia pela Universidade Federal de Lavras (UFLA) e doutor em Ciências pela Universidade de São Paulo (USP).
 

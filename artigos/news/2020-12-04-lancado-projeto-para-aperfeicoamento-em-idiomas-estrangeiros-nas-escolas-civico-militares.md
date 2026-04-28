@@ -1,11 +1,12 @@
 ---
-title: "Lançado projeto para aperfeiçoamento em idiomas estrangeiros nas Escolas Cívico-Militares"
+title: Lançado projeto para aperfeiçoamento em idiomas estrangeiros nas Escolas Cívico-Militares
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC), por meio da Diretoria de Política para Escolas Cívico-Militares, desenvolve ação para aperfeiçoar as habilidades em língua estrangeira, principalmente no idioma espanhol, para 80 professores das Escolas Cívico-Militares. A iniciativa é fruto de uma parceria com a Colômbia.
 

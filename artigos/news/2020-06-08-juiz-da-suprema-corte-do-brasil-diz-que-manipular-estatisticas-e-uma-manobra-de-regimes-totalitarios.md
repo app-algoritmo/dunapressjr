@@ -1,11 +1,13 @@
 ---
-title: "Juiz da Suprema Corte do Brasil diz que 'manipular estatísticas é uma manobra de regimes totalitários'"
+title: Juiz da Suprema Corte do Brasil diz que 'manipular estatísticas é uma manobra
+  de regimes totalitários'
 date: 2020-06-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Após receber dados falsificados,  governo federal conduz uma revisão para determinar número precisos.
 

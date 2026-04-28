@@ -1,11 +1,12 @@
 ---
-title: "Última edição do projeto Música no Museu terá concerto do Coro Vozes do Vale"
+title: Última edição do projeto Música no Museu terá concerto do Coro Vozes do Vale
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Coro Vozes do Vale será a atração da última edição de 2022 do projeto Música no Museu. O concerto acontece nesta terça-feira (06), às 20h, no Salão Nobre do Museu Histórico de Itajaí. A entrada é franca, com classificação indicativa acima de 10 anos.
 

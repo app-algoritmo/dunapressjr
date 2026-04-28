@@ -1,11 +1,12 @@
 ---
-title: "Receita libera consulta ao terceiro lote de restituição do IRPF"
+title: Receita libera consulta ao terceiro lote de restituição do IRPF
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Crédito será depositado no dia 29 de julho.
 

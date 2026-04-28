@@ -1,11 +1,12 @@
 ---
-title: "Brasileiro consome muito sal, mas não tem consciência da quantidade excessiva"
+title: Brasileiro consome muito sal, mas não tem consciência da quantidade excessiva
 date: 2021-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Você tem ideia a quantidade de sal que consome diariamente? Segundo a Pesquisa Nacional de Saúde 2013 (PNS/IBGE), o consumo de sal do brasileiro excede em quase duas vezes o limite máximo recomendado pela Organização Mundial da Saúde (OMS), que é cinco gramas por dia. A média nacional é de 9,3 gramas. Apesar disso, apenas 12% dos brasileiros adultos tem a consciência da alta ingestão de sal na alimentação diária.
 

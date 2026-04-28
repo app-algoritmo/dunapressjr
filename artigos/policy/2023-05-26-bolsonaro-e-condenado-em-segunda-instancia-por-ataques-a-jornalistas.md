@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro é condenado em segunda instância por 'ataques a jornalistas'"
+title: Bolsonaro é condenado em segunda instância por 'ataques a jornalistas'
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Indenização é no valor de R$ 50 mil.
 

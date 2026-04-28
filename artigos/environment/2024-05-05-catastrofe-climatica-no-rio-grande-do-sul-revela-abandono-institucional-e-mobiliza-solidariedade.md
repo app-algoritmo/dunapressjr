@@ -1,11 +1,13 @@
 ---
-title: "Catástrofe Climática no Rio Grande do Sul Revela Abandono Institucional e Mobiliza Solidariedade"
+title: Catástrofe Climática no Rio Grande do Sul Revela Abandono Institucional e Mobiliza
+  Solidariedade
 date: 2024-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 O Rio Grande do Sul enfrenta uma catástrofe climática de proporções devastadoras, desencadeando uma crise humanitária sem precedentes. Milhões de pessoas foram atingidas pela tragédia, enquanto o número de desaparecidos e mortos permanece desconhecido. O que é evidente, porém, é o abandono institucional que amplifica o sofrimento das vítimas, que clamam por ajuda enquanto enfrentam a fúria das águas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Carta de uma idosa trancada num lar"
+title: Carta de uma idosa trancada num lar
 date: 2024-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Tenho 82 anos, 4 filhos, 11 netos, 2 bisnetos e um quarto de 12 metros quadrados.
 Já não tenho mais a minha casa, nem as minhas coisas amadas, mas tenho quem me arruma o meu quarto, quem me faça de comer, quem me faça a cama, quem me controla a pressão e me pesa.

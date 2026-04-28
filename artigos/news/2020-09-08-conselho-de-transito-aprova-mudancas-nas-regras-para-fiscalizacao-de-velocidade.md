@@ -1,11 +1,12 @@
 ---
-title: "Conselho de Trânsito aprova mudanças nas regras para fiscalização de velocidade"
+title: Conselho de Trânsito aprova mudanças nas regras para fiscalização de velocidade
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Medidas têm por objetivo valorizar o aspecto educativo na fiscalização do trânsito. Entre as alterações aprovadas também estão a proibição do uso de equipamentos sem dispositivo registrador de imagem. 
 

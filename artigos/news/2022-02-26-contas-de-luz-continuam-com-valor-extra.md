@@ -1,11 +1,12 @@
 ---
-title: "Contas de luz continuam com valor extra"
+title: Contas de luz continuam com valor extra
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Beneficiários da Tarifa Social estão isentos.
 

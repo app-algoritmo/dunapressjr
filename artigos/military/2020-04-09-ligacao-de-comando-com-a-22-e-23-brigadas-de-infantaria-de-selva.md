@@ -1,11 +1,12 @@
 ---
-title: "Ligação de Comando com a 22ª e 23ª Brigadas de Infantaria de Selva"
+title: Ligação de Comando com a 22ª e 23ª Brigadas de Infantaria de Selva
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Belém (PA) **– O Chefe do Estado-Maior do Comando Conjunto Norte (CCN), Contra-Almirante **Góis**, e comitiva realizaram Ligação de Comando com a 22ª Brigada de Infantaria de Selva, da Guarnição da Força Terrestre Componente - Op COVID-19, em Macapá (AP) e no Oiapoque (AP), no dia 31 de março.
 

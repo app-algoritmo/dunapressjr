@@ -1,11 +1,12 @@
 ---
-title: "Avaliação precisa estar a serviço do currículo escolar, afirma especialista"
+title: Avaliação precisa estar a serviço do currículo escolar, afirma especialista
 date: 2022-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 "As grandes vedetes da escola precisam ser o currículo e a atuação dos professores", afirma Maria Inês Fini, ex-presidente, ex-diretora de Avaliação para Certificação e Competências e ex-diretora do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja), do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Hoje presidente da Associação Nacional de Educação Básica Híbrida, a especialista defende que a avaliação precisa estar a serviço do currículo da escola - e não o contrário.
 

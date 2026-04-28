@@ -1,11 +1,12 @@
 ---
-title: "Tesouro eleva para R$ 4,9 tri teto da Dívida Pública Federal para 2020"
+title: Tesouro eleva para R$ 4,9 tri teto da Dívida Pública Federal para 2020
 date: 2020-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Limite mínimo de endividamento subiu para R$ 4,6 tri.
 

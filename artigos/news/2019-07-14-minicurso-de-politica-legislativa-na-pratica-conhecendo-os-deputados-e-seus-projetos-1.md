@@ -1,11 +1,13 @@
 ---
-title: "Minicurso de Política Legislativa na prática: Conhecendo os deputados e seus projetos 1"
+title: 'Minicurso de Política Legislativa na prática: Conhecendo os deputados e seus
+  projetos 1'
 date: 2019-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Por Vera Amatti
 

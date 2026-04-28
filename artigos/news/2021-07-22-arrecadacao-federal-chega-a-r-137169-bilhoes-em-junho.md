@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação federal chega a R$ 137,169 bilhões em junho"
+title: Arrecadação federal chega a R$ 137,169 bilhões em junho
 date: 2021-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado foi impulsionado por recolhimentos atípicos de empresas.
 

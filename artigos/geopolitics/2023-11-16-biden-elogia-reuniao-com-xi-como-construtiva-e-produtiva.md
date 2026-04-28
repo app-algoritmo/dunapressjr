@@ -1,11 +1,12 @@
 ---
-title: "Biden elogia reunião com Xi como construtiva e produtiva"
+title: Biden elogia reunião com Xi como construtiva e produtiva
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## “Estamos de volta às comunicações diretas, abertas, claras e diretas”, anunciou o presidente dos EUA numa conferência de imprensa após a reunião.
 

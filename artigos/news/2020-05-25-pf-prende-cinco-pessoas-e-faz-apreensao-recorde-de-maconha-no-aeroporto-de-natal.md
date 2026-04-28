@@ -1,11 +1,13 @@
 ---
-title: "PF prende cinco pessoas e faz apreensão recorde de maconha no aeroporto de Natal"
+title: PF prende cinco pessoas e faz apreensão recorde de maconha no aeroporto de
+  Natal
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Polícia Federal prendeu em flagrante na noite do último sábado, 23/5, no Aeroporto Internacional Governador Aluízio Alves, na grande Natal, quatro mulheres e um homem, acusados de tráfico de drogas. O grupo, composto por duas catarinenses, de 27 e 29 anos; uma paranaense, 29 anos e uma paraibana, 22 anos, havia desembarcado de um voo que teve origem em Guarulhos/SP. Na bagagem, traziam 47,44 quilos de maconha.
 

@@ -1,11 +1,13 @@
 ---
-title: "Bill Clinton aparece mais de 50 vezes em documentos desclassificados do escândalo Epstein"
+title: Bill Clinton aparece mais de 50 vezes em documentos desclassificados do escândalo
+  Epstein
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Esta quarta-feira, um juiz de Nova Iorque ordenou [a desclassificação](https://www.europapress.es/internacional/noticia-jueza-eeuu-desclasifica-serie-documentos-caso-epstein-20240104020506.html) de mais de 2.000 páginas de documentos relacionados com o caso do bilionário Jeffrey Epstein , **acusado de pedofilia e tráfico de menores** e que chegou a conviver com personalidades como o príncipe André de Inglaterra - o filho de Elizabeth II - e **Bill Clinton** , que aparece mais de 50 vezes na investigação.
 

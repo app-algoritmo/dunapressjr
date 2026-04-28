@@ -1,11 +1,12 @@
 ---
-title: "Uma variedade em constante mudança de inimigos oficiais"
+title: Uma variedade em constante mudança de inimigos oficiais
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Entrei no Instituto Militar da Virgínia em 1968 como calouro. Naquela época, a Guerra do Vietnã estava em pleno andamento. 
 

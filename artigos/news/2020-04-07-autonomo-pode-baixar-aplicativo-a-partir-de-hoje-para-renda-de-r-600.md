@@ -1,11 +1,12 @@
 ---
-title: "Autônomo pode baixar aplicativo a partir de hoje para renda de R$ 600"
+title: Autônomo pode baixar aplicativo a partir de hoje para renda de R$ 600
 date: 2020-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Trabalhador deve receber auxílio emergencial em até 48 horas
 

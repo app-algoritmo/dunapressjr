@@ -1,11 +1,12 @@
 ---
-title: "Atividade física preserva cognição durante envelhecimento"
+title: Atividade física preserva cognição durante envelhecimento
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estudo comparou cérebro de idosos ativos e inativos, detectando maior volume em 48 áreas e estruturas entre aqueles que acumularam tempo igual ou superior a 150 minutos de atividade física por semana.
 

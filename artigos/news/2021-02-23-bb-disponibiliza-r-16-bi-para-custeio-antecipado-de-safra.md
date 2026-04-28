@@ -1,11 +1,12 @@
 ---
-title: "BB disponibiliza R$ 16 bi para custeio antecipado de safra"
+title: BB disponibiliza R$ 16 bi para custeio antecipado de safra
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foco são lavouras de soja, milho, algodão, café, arroz, cana-de-açúcar.
 

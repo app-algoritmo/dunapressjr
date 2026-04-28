@@ -1,11 +1,12 @@
 ---
-title: "Concentração bancária cai para 76,6% em 2021"
+title: Concentração bancária cai para 76,6% em 2021
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### BC projeta expansão de 14,2% no saldo total de crédito em 2022.
 

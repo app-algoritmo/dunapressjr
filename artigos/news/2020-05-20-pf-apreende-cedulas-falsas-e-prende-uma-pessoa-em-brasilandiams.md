@@ -1,11 +1,12 @@
 ---
-title: "PF apreende cédulas falsas e prende uma pessoa em Brasilândia/MS"
+title: PF apreende cédulas falsas e prende uma pessoa em Brasilândia/MS
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Três Lagoas/MS – A Polícia Federal efetuou na terça-feira (19/5) a prisão em flagrante de indivíduo que comprou, por meio de redes sociais, grande quantidade de cédulas falsas. O detido adquiriu 20 cédulas de R$ 100, 40 cédulas de R$ 50 e 50 cédulas de R$ 20, totalizando R$ 5.000,00 falsificados.
 

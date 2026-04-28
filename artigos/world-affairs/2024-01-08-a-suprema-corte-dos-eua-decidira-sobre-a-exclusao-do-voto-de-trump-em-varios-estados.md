@@ -1,11 +1,13 @@
 ---
-title: "A Suprema Corte dos EUA decidirá sobre a exclusão do voto de Trump em vários estados"
+title: A Suprema Corte dos EUA decidirá sobre a exclusão do voto de Trump em vários
+  estados
 date: 2024-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os democratas estão a tentar convencer o público americano de que a democracia exige que os eleitores sejam impedidos de escolher o candidato mais popular e, nesse esforço, vários estados decidiram **(Colorado, Maine)** ou pretendem decidir que o voto de **Donald Trump** desaparece. os colégios eleitorais nas eleições presidenciais de novembro, alegando que o ex-presidente é culpado de “insurreição” pelos confusos acontecimentos de 6 de janeiro de 2021 no Capitólio de Washington.
 

@@ -1,11 +1,12 @@
 ---
-title: "Circuito de Negócios Agro Banco do Brasil oferece crédito itinerante"
+title: Circuito de Negócios Agro Banco do Brasil oferece crédito itinerante
 date: 2022-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 600 municípios receberão agência móvel que negociará crédito.
 

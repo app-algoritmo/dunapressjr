@@ -1,11 +1,12 @@
 ---
-title: "Desafios na Europa: Inverno Promete Aumento nos Preços"
+title: 'Desafios na Europa: Inverno Promete Aumento nos Preços'
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As consequências económicas do conflito russo-ucraniano encerram o risco de uma catástrofe para a Europa. Em meio à interminável cobertura da mídia sobre a última contra-ofensiva de Kiev, a discussão sobre as consequências econômicas (globais) dessa miniguerra ficou em segundo plano.
 

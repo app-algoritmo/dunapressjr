@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Economia apoia municípios na adoção do Novo Marco Legal do Saneamento Básico"
+title: Ministério da Economia apoia municípios na adoção do Novo Marco Legal do Saneamento
+  Básico
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nota Informativa esclarece pontos referentes à regularidade de contratos e deveres das prefeituras.
 

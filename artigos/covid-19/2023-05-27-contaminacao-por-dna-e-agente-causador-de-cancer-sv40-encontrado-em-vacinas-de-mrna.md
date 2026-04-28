@@ -1,11 +1,13 @@
 ---
-title: "Contaminação por DNA e agente causador de câncer SV40 encontrado em vacinas de mRNA"
+title: Contaminação por DNA e agente causador de câncer SV40 encontrado em vacinas
+  de mRNA
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## As vacinas de mRNA do coronavírus Wuhan (COVID-19) da Pfizer e Moderna têm [contaminação de DNA](https://expose-news.com/2023/05/21/cancer-causing-agent-sv40-found-in-pfizer/).
 

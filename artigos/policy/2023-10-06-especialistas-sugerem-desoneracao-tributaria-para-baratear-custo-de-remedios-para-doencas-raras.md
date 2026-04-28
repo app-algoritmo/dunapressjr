@@ -1,11 +1,13 @@
 ---
-title: "Especialistas sugerem desoneração tributária para baratear custo de remédios para doenças raras"
+title: Especialistas sugerem desoneração tributária para baratear custo de remédios
+  para doenças raras
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Um projeto de lei em análise na Câmara permite a adoção de critérios diferenciados para os medicamentos que modificam geneticamente as células do corpo humano.
 

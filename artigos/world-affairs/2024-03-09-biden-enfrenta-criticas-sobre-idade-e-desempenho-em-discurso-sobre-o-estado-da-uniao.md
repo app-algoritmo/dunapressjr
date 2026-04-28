@@ -1,11 +1,13 @@
 ---
-title: "Biden enfrenta críticas sobre idade e desempenho em discurso sobre o Estado da União"
+title: Biden enfrenta críticas sobre idade e desempenho em discurso sobre o Estado
+  da União
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante seu discurso sobre o Estado da União ao Congresso dos EUA, o presidente dos EUA, Joe Biden, reconheceu as críticas sobre sua idade avançada e destacou a importância das ideias sobre a idade cronológica. "Eu sei que posso não parecer, mas já estou aqui há algum tempo. E quando você chega à minha idade, certas coisas ficam mais claras do que nunca", afirmou Biden, de 81 anos.
 

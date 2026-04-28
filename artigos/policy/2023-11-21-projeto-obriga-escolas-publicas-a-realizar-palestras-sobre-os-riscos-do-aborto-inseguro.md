@@ -1,11 +1,13 @@
 ---
-title: "Projeto obriga escolas públicas a realizar palestras sobre os riscos do aborto inseguro"
+title: Projeto obriga escolas públicas a realizar palestras sobre os riscos do aborto
+  inseguro
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 4005/23 obriga escolas públicas dos ensinos fundamental e médio a oferecerem aos alunos palestras educativas sobre os efeitos físicos, psicológicos, sociais e éticos do aborto. O texto está sendo analisado pela Câmara dos Deputados.
 

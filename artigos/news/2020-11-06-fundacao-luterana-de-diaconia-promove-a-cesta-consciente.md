@@ -1,11 +1,12 @@
 ---
-title: "Fundação Luterana de Diaconia promove a Cesta Consciente"
+title: Fundação Luterana de Diaconia promove a Cesta Consciente
 date: 2020-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A fome e o desemprego continuam a ameaçar a vida e a dignidade de muitas famílias.
 

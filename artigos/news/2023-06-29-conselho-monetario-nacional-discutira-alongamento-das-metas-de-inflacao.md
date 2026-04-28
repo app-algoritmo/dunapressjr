@@ -1,11 +1,12 @@
 ---
-title: "Conselho Monetário Nacional discutirá alongamento das metas de inflação"
+title: Conselho Monetário Nacional discutirá alongamento das metas de inflação
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## CMN avaliará proposta de meta contínua e definirá meta de inflação para 2026.
 

@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear leva esporte, saúde e bem-estar a 3.500 pessoas em Salvador (BA)"
+title: Festival Vamos Passear leva esporte, saúde e bem-estar a 3.500 pessoas em Salvador
+  (BA)
 date: 2024-06-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Evento, na Praça de Piatã, contou com Caminhada, Passeio de Bike, Corrida Kids e várias atrações gratuitas. Próxima etapa será no domingo (16), em Recife.
 

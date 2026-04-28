@@ -1,11 +1,12 @@
 ---
-title: "Informações sobre um final na Ucrânia"
+title: Informações sobre um final na Ucrânia
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O problema com a guerra na Ucrânia é que tudo não passou de fumaça e espelhos. Os objetivos russos de “desmilitarizar” e “desnazificar” a Ucrânia pareciam surreais. A narrativa ocidental de que se tratava de uma guerra entre a Rússia e a Ucrânia pelo princípio vestfaliano de soberania nacional estava se dissolvendo cada vez mais, deixando um vazio.
 

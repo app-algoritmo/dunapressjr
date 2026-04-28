@@ -1,11 +1,12 @@
 ---
-title: "“Não somos a Dinamarca, somos os Estados Unidos” (Hillary Clinton)"
+title: “Não somos a Dinamarca, somos os Estados Unidos” (Hillary Clinton)
 date: 2019-03-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em 2016 um debate televisivo bastante acalorado entre Hillary Clinton e Bernie Sanders chamou a atenção de muitos intelectuais. A polêmica começou com o pronunciamento de Sanders que declarou que os Estados Unidos deveriam procurar os reinos escandinavos - Dinamarca, Noruega e Suécia e aprender com eles; ao que Hillary replicou:
 

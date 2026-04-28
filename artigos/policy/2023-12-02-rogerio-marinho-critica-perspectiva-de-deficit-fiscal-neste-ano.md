@@ -1,11 +1,12 @@
 ---
-title: "Rogério Marinho critica perspectiva de déficit fiscal neste ano"
+title: Rogério Marinho critica perspectiva de déficit fiscal neste ano
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogerio Marinho (PL-RN) criticou, em pronunciamento na terça-feira (28), a política econômica do governo e disse que o Brasil tem uma perspectiva de mais de R$ 174 bilhões de déficit fiscal neste ano. O senador asseverou que o governo anterior encerrou o ano de 2022 com um superávit primário de mais de R$ 50 bilhões.
 

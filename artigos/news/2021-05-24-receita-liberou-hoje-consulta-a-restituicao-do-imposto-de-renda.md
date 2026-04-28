@@ -1,11 +1,12 @@
 ---
-title: "Receita liberou hoje consulta a restituição do Imposto de Renda"
+title: Receita liberou hoje consulta a restituição do Imposto de Renda
 date: 2021-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Lote será o maior da história em valor e em número de contribuintes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Spotify e Mercado Livre solicitam ajustes no projeto de regulamentação dos mercados digitais em debate na Câmara dos Deputados"
+title: Spotify e Mercado Livre solicitam ajustes no projeto de regulamentação dos
+  mercados digitais em debate na Câmara dos Deputados
 date: 2023-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresas buscam alterações para garantir equidade no mercado digital perante abusos de plataformas móveis.
 

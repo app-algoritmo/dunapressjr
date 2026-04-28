@@ -1,11 +1,12 @@
 ---
-title: "É preciso amar as pessoas  Como se não houvesse amanhã"
+title: É preciso amar as pessoas  Como se não houvesse amanhã
 date: 2019-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 É preciso amar as pessoas, como se não houvesse amanhã. Porque se você parar pra pensar; Na verdade não há. 
 

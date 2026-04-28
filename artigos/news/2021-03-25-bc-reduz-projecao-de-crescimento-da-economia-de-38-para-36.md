@@ -1,11 +1,12 @@
 ---
-title: "BC reduz projeção de crescimento da economia de 3,8% para 3,6%"
+title: BC reduz projeção de crescimento da economia de 3,8% para 3,6%
 date: 2021-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação deve chegar a 5% ao final de 2021.
 

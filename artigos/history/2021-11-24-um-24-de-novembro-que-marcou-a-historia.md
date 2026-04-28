@@ -1,11 +1,12 @@
 ---
-title: "Um 24 de novembro que marcou a história"
+title: Um 24 de novembro que marcou a história
 date: 2021-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 No dia 24 de novembro de 1859, a "ordem mundial divina" estremeceu quando o cientista inglês Charles Darwin depois de mais de 20 anos de trabalho e dedicação publicou a instigante obra sobre a "Origem das espécies através da seleção natural”. A história da criação do mundo proposta por Darwin tornou-se um best-seller de um dia para outro literalmente – já que os primeiros 1.250 exemplares impressos estavam esgotados no dia seguinte a publicação.
 

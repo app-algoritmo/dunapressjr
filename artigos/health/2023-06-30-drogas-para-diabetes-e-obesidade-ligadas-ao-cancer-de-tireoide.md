@@ -1,11 +1,12 @@
 ---
-title: "Drogas para diabetes e obesidade ligadas ao câncer de tireoide"
+title: Drogas para diabetes e obesidade ligadas ao câncer de tireoide
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A Agência Europeia de Medicamentos (EMA), a versão da União Europeia (UE) da Food and Drug Administration (FDA), [emitiu um sinal de segurança de medicamentos](https://www.theepochtimes.com/health/thyroid-cancer-concerns-raised-regarding-active-ingredient-in-popular-drugs-ozempic-and-wegovy_5351884.html) esta semana sobre o risco elevado de câncer de tireoide associado a certas classes de produtos farmacêuticos para diabetes tipo 2 e obesidade .
 

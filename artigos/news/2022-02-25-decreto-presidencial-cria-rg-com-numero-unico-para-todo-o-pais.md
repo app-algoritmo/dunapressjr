@@ -1,11 +1,12 @@
 ---
-title: "Decreto presidencial cria RG com número único para todo o país"
+title: Decreto presidencial cria RG com número único para todo o país
 date: 2022-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## População terá acesso à Carteira de Identidade digital pelo GOV.BR, a plataforma de serviços e relacionamento do cidadão com o governo federal.
 

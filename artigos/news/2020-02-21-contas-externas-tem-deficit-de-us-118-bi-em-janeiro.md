@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm déficit de US$ 11,8 bi em janeiro"
+title: Contas externas têm déficit de US$ 11,8 bi em janeiro
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 É o maior nível para o mês desde 2015, segundo o Banco Central
 

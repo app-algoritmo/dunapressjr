@@ -1,11 +1,12 @@
 ---
-title: "Rússia se concentrará em países que buscam reaproximação com o BRICS, diz Lavrov"
+title: Rússia se concentrará em países que buscam reaproximação com o BRICS, diz Lavrov
 date: 2024-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## “O BRICS é suficientemente poderoso para moldar a agenda global, defendendo consistentemente os interesses da maioria global, apresentando a sua visão de como seria uma futura ordem mundial”, sublinhou o ministro dos Negócios Estrangeiros russo.
 

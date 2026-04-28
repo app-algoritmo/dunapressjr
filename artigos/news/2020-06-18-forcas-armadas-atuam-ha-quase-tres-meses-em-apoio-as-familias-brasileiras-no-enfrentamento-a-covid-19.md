@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas atuam há quase três meses em apoio às famílias brasileiras no enfrentamento à COVID-19"
+title: Forças Armadas atuam há quase três meses em apoio às famílias brasileiras no
+  enfrentamento à COVID-19
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O combate à COVID-19 é uma guerra que está sendo vencida. Com perseverança e muita luta. É um combate que estamos travando há 90 dias, com Comandos Conjuntos organizados para isso. São três meses de apoio, auxílio, participação das Forças Armadas para tentar diminuir o sofrimento das famílias brasileiras". Com essas palavras o Ministro da Defesa, Fernando Azevedo, resumiu a atuação dos militares no contexto da Operação COVID- 19, desencadeada pela Pasta.
 

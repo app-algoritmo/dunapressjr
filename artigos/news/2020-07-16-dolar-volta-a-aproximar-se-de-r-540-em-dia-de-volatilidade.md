@@ -1,11 +1,12 @@
 ---
-title: "Dólar volta a aproximar-se de R$ 5,40 em dia de volatilidade"
+title: Dólar volta a aproximar-se de R$ 5,40 em dia de volatilidade
 date: 2020-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Bolsa subiu 1,31% e superou marca dos 101 mil pontos.
 

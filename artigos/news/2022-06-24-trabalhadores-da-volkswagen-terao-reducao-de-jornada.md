@@ -1,11 +1,12 @@
 ---
-title: "Trabalhadores da Volkswagen terão redução de jornada"
+title: Trabalhadores da Volkswagen terão redução de jornada
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida é para enfrentar crise de componentes que afeta produção.
 

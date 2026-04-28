@@ -1,11 +1,12 @@
 ---
-title: "Copom inicia nesta terça primeira reunião de 2020"
+title: Copom inicia nesta terça primeira reunião de 2020
 date: 2020-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Selic pode cair para 4,25% ao ano, o menor nível da história*
 

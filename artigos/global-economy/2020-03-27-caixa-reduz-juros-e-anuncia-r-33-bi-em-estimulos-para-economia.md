@@ -1,11 +1,12 @@
 ---
-title: "Caixa reduz juros e anuncia R$ 33 bi em estímulos para economia"
+title: Caixa reduz juros e anuncia R$ 33 bi em estímulos para economia
 date: 2020-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medidas fazem parte de ações para enfrentar coronavírus
 

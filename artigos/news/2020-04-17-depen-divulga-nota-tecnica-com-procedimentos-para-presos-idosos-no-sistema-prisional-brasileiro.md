@@ -1,11 +1,13 @@
 ---
-title: "Depen divulga Nota Técnica com procedimentos para presos idosos no sistema prisional brasileiro"
+title: Depen divulga Nota Técnica com procedimentos para presos idosos no sistema
+  prisional brasileiro
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) divulga Nota técnica com procedimentos quanto à custódia de pessoas idosas no sistema prisional brasileiro. O objetivo é possibilitar tratamento específico a essa população, a fim de garantir direitos e a promoção da igualdade efetiva, considerando as especificidades desse público. De acordo com o Infopen de dezembro de 2019, há 11.374​ idosos presos, 1,52% da população prisional. Na NT consta informações como:  procedimento na entrada e na alocação desse público, preocupações específicas com a saúde, entre outras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Teatro Municipal de Itajaí recebe apresentações gratuitas do espetáculo Rinha"
+title: Teatro Municipal de Itajaí recebe apresentações gratuitas do espetáculo Rinha
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 Na próxima sexta-feira (03), o Grupo Risco de Teatro apresenta o espetáculo “Rinha” no Teatro Municipal de Itajaí, às 20h. A peça teatral integra a programação de junho da 4ª edição do projeto Conexões Contemporâneas. A entrada é gratuita e os ingressos estão disponíveis para retirada na bilheteria do teatro, que abre de terça a sexta-feira, das 13h às 19h.
 

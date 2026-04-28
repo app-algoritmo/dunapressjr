@@ -1,11 +1,12 @@
 ---
-title: "In the city where I was born has a river called Tietê"
+title: In the city where I was born has a river called Tietê
 date: 2019-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 Fantastic saga about biodiversity, marine life and ocean health with our good friends Tupi and Sami!
 

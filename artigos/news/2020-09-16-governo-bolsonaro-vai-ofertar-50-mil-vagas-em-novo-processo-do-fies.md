@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro vai ofertar 50 mil vagas em novo processo do Fies"
+title: Governo Bolsonaro vai ofertar 50 mil vagas em novo processo do Fies
 date: 2020-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cada candidato poderá concorrer a uma vaga das 50 mil remanescentes. Os candidatos deverão se inscrever, exclusivamente, pela página do Fies. 
 

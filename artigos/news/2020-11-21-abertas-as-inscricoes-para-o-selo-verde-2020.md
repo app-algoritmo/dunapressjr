@@ -1,11 +1,12 @@
 ---
-title: "Abertas as inscrições para o Selo Verde 2020"
+title: Abertas as inscrições para o Selo Verde 2020
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estão abertas a partir desta sexta-feira (20) as inscrições para a 3ª edição do Selo Verde. O programa, de iniciativa do Município de Itajaí por meio do Instituto Itajaí Sustentável, visa a destacar as ações sustentáveis desenvolvidas por empresas da cidade. A proposta da certificação é estimular o cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS), iniciativa da Organização das Nações Unidas (ONU), reconhecendo as entidades públicas, empresas e organizações que realizam práticas socioambientais.
 

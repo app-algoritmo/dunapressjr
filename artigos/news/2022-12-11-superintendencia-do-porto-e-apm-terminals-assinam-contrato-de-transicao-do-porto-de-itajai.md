@@ -1,11 +1,13 @@
 ---
-title: "Superintendência do Porto e APM Terminals assinam contrato de transição do Porto de Itajaí"
+title: Superintendência do Porto e APM Terminals assinam contrato de transição do
+  Porto de Itajaí
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Superintendência do Porto, e a empresa APM Terminals firmaram na tarde desta sexta-feira (09) o contrato de arrendamento transitório da área operacional dos berços 1 e 2 do Porto de Itajaí.
 

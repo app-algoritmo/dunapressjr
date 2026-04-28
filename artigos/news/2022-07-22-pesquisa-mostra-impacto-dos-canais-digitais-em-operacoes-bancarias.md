@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra impacto dos canais digitais em operações bancárias"
+title: Pesquisa mostra impacto dos canais digitais em operações bancárias
 date: 2022-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De cada dez transações, sete são feitas por canais digitais.
 

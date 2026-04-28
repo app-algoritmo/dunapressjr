@@ -1,11 +1,12 @@
 ---
-title: "Balcão de Empregos de Itajaí tem mais de 700 vagas de emprego nesta semana"
+title: Balcão de Empregos de Itajaí tem mais de 700 vagas de emprego nesta semana
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Balcão de Empregos do Município de Itajaí oferece 737 vagas de emprego esta semana em diversos bairros da cidade. As vagas são para variadas áreas, desde açougueiro até recepcionista.
 

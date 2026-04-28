@@ -1,11 +1,12 @@
 ---
-title: "Proposta regulamenta compensação de R$ 27 bilhões no ICMS dos estados"
+title: Proposta regulamenta compensação de R$ 27 bilhões no ICMS dos estados
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Em 2022, duas leis complementares alteraram a cobrança do ICMS, com prejuízo aos caixas estaduais.
 

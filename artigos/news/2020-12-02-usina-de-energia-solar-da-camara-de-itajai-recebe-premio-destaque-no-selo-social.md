@@ -1,11 +1,12 @@
 ---
-title: "Usina de energia solar da Câmara de Itajaí recebe Prêmio Destaque no Selo Social"
+title: Usina de energia solar da Câmara de Itajaí recebe Prêmio Destaque no Selo Social
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí recebeu nesta sexta-feira (27) a certificação do Programa Selo Social. Foram inscritos três projetos, que atenderam no total seis Objetivos do Desenvolvimento Sustentável (ODS). A implantação da Usina de Geração de Energia Solar foi um dos 10 indicados pela Comissão do Selo Social para receber o Prêmio Destaque.
  

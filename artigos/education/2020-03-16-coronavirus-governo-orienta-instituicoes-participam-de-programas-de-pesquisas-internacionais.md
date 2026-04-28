@@ -1,12 +1,14 @@
 ---
-title: "Coronavírus: Governo orienta instituições participam de programas de pesquisas internacionais"
+title: 'Coronavírus: Governo orienta instituições participam de programas de pesquisas
+  internacionais'
 date: 2020-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Como medida de precaução, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), vinculada ao Ministério da Educação (MEC), recomendou, nessa terça-feira (10), que bolsistas que cumprem missões internacionais evitem o trabalho em lugares onde há transmissão sustentada do coronavírus, em que o paciente infecta outra pessoa sem ter viajado para fora do país. A orientação segue as diretrizes do Ministério da Saúde.
 

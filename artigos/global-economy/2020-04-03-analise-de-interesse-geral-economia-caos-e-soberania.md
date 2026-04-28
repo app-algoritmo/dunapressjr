@@ -1,11 +1,12 @@
 ---
-title: "Análise de Interesse Geral - Economia, caos e soberania"
+title: Análise de Interesse Geral - Economia, caos e soberania
 date: 2020-04-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Com o pânico tomando conta de quase todos, com as pequenas e médias empresas fechando e as grandes demitindo em massa, com burocracias em tudo, até mesmo para comprar material para salvar vidas do possível vírus corona, mandos e desmandos de alguns governadores sem o mínimo de fundamentação, podemos ver que o quadro geral não está bom.
 

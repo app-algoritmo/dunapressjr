@@ -1,11 +1,13 @@
 ---
-title: "<strong>Sancionada lei que autoriza uso de drawback suspensão para compra de serviços</strong>"
+title: <strong>Sancionada lei que autoriza uso de drawback suspensão para compra de
+  serviços</strong>
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A partir de 2023, exportadores brasileiros poderão aproveitar a isenção tributária do regime para compra de serviços como transporte, seguro, manejo e armazenagem de cargas.
 

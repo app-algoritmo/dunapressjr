@@ -1,11 +1,12 @@
 ---
-title: "GETTR, a rede social anti-censura em defesa da liberdade de expressão"
+title: GETTR, a rede social anti-censura em defesa da liberdade de expressão
 date: 2021-11-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A equipe do ex-presidente Donald Trump lançou em junho último uma nova plataforma de mídia social, apresentando-a como uma alternativa aos sites que censuram internautas. GETTR é o mais novo empreendimento MAGA neste espaço e está sendo liderado pelo ex-porta-voz de Trump, Jason Miller.
 

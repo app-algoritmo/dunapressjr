@@ -1,11 +1,12 @@
 ---
-title: "Setor portuário movimenta 375,7 milhões de toneladas no primeiro quadrimestre"
+title: Setor portuário movimenta 375,7 milhões de toneladas no primeiro quadrimestre
 date: 2022-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Navegação Interior registrou crescimento de 7,15%. movimentação de carga geral solta teve alta 26,9% no ano.
 

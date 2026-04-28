@@ -1,11 +1,12 @@
 ---
-title: "A OTAN reconhece a Ucrânia como parceiro de oportunidades aprimoradas"
+title: A OTAN reconhece a Ucrânia como parceiro de oportunidades aprimoradas
 date: 2020-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na sexta-feira (12 de junho de 2020), o Conselho do Atlântico Norte reconheceu a Ucrânia como um parceiro de oportunidades aprimoradas. Esse status faz parte da Iniciativa de Interoperabilidade em Parceria da OTAN, que visa manter e aprofundar a cooperação entre Aliados e parceiros que fizeram contribuições significativas para operações e missões lideradas pela OTAN.
 

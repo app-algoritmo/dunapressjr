@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem pequena queda e fecha a R$ 5,42"
+title: Dólar tem pequena queda e fecha a R$ 5,42
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 0,38% em dia de recuperação.
 

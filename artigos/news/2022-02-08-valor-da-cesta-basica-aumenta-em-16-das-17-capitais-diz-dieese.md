@@ -1,11 +1,12 @@
 ---
-title: "Valor da cesta básica aumenta em 16 das 17 capitais, diz Dieese"
+title: Valor da cesta básica aumenta em 16 das 17 capitais, diz Dieese
 date: 2022-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo, por sua vez, tem a cesta mais cara: R$ 713,86.
 

@@ -1,11 +1,12 @@
 ---
-title: "Internista adverte sobre mRNA em alimentos: 'Muito preocupante!'"
+title: 'Internista adverte sobre mRNA em alimentos: ''Muito preocupante!'''
 date: 2023-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Se você vacinar uma vaca, a vacina entra no leite? Kim Iversen fez essa pergunta ao cardiologista e internista Peter McCullough em seu programa.
 

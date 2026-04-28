@@ -1,11 +1,12 @@
 ---
-title: "House of The Dragon 1x9 - O Conselho Verde"
+title: House of The Dragon 1x9 - O Conselho Verde
 date: 2022-11-21
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 thegeekiary
 

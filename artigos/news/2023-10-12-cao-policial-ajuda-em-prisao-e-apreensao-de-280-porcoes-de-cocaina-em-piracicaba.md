@@ -1,11 +1,12 @@
 ---
-title: "Cão policial ajuda em prisão e apreensão de 280 porções de cocaína em Piracicaba"
+title: Cão policial ajuda em prisão e apreensão de 280 porções de cocaína em Piracicaba
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um revólver e 47 munições também foram apreendidos, além de 5 mil embalagens para embalar a droga; dois suspeitos são investigados.
 

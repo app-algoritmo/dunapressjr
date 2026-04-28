@@ -1,11 +1,13 @@
 ---
-title: "Relator do Orçamento diz que vai remanejar R$ 19,4 bi em razão da decisão do STF"
+title: Relator do Orçamento diz que vai remanejar R$ 19,4 bi em razão da decisão do
+  STF
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O relator do Orçamento de 2023, senador Marcelo Castro (MDB-PI), afirmou nesta segunda-feira (19) que, em razão da decisão do Supremo Tribunal Federal (STF), que derrubou o modelo atual de distribuição das emendas de relator, os R$ 19,4 bilhões que estavam reservados para esse dispositivo serão redistribuídos para o atendimento de emendas de bancada e emendas de comissão.
 

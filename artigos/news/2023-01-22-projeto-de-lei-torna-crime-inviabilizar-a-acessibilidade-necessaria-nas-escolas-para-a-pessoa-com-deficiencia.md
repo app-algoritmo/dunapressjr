@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei torna crime inviabilizar a acessibilidade necessária nas escolas para a pessoa com deficiência"
+title: Projeto de Lei torna crime inviabilizar a acessibilidade necessária nas escolas
+  para a pessoa com deficiência
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2795/22 torna crime inviabilizar a acessibilidade necessária para que a pessoa com deficiência exerça o direito à educação, com pena de reclusão, de seis meses a três anos, e multa. O texto em análise na Câmara dos Deputados insere dispositivo no [Estatuto da Pessoa com Deficiência](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-norma-pl.html).
 

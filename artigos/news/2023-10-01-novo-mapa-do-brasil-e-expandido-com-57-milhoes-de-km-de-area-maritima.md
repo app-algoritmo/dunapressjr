@@ -1,11 +1,12 @@
 ---
-title: "Novo mapa do Brasil é expandido com 5,7 milhões de km² de área marítima"
+title: Novo mapa do Brasil é expandido com 5,7 milhões de km² de área marítima
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O trabalho que resultou na expansão dessa área chamada de Amazônia Azul é feito pelos “bandeirantes das longitudes salgadas”, da Marinha, da Petrobras e Comunidade Científica.
 

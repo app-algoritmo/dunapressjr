@@ -1,11 +1,12 @@
 ---
-title: "Trechos da Osvaldo Reis em Itajaí, ficarão em meia pista para obras na via"
+title: Trechos da Osvaldo Reis em Itajaí, ficarão em meia pista para obras na via
 date: 2020-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As Secretarias de Obras e de Desenvolvimento Urbano informam que a partir de segunda-feira (05), trechos da avenida Osvaldo Reis, no bairro Fazenda, ficarão em meia pista para obras no local. Os motoristas devem redobrar a atenção especialmente nas proximidades do Ginásio Municipal de Esportes Ivo Silveira.
 

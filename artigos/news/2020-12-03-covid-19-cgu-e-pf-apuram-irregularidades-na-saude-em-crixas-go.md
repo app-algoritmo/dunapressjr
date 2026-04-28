@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF apuram irregularidades na saúde em Crixás (GO)"
+title: 'Covid-19: CGU e PF apuram irregularidades na saúde em Crixás (GO)'
 date: 2020-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Aventura investiga aquisições feitas pela Prefeitura de materiais hospitalares que não foram supostamente entregues pelas empresas contratadas.
 

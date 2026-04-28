@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova prioridade para criança vítima de violência doméstica em matrícula escolar"
+title: Comissão aprova prioridade para criança vítima de violência doméstica em matrícula
+  escolar
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Educação da Câmara dos Deputados aprovou projeto que prevê “prioridade absoluta” na matrícula ou na transferência escolar da criança ou do adolescente em situação de violência doméstica.
 

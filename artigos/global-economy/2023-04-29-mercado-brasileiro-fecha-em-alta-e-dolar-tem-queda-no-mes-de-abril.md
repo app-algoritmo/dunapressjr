@@ -1,11 +1,12 @@
 ---
-title: "Mercado brasileiro fecha em alta e dólar tem queda no mês de abril"
+title: Mercado brasileiro fecha em alta e dólar tem queda no mês de abril
 date: 2023-04-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Indicadores econômicos nacionais e inflação nos Estados Unidos influenciaram os índices do mercado acionário brasileiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo das famílias tem quarta alta consecutiva, diz CNC"
+title: Intenção de consumo das famílias tem quarta alta consecutiva, diz CNC
 date: 2021-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice chegou a 72,5 pontos, ainda abaixo do nível de satisfação (100).
 

@@ -1,11 +1,12 @@
 ---
-title: "Ortega propõe novo expurgo contra empresários que apoiaram sua ditadura"
+title: Ortega propõe novo expurgo contra empresários que apoiaram sua ditadura
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Daniel Ortega lançou sua espada **contra a grande capital nicaraguense** , sua antiga aliada. [Ele ordenou o confisco de](https://www.infobae.com/america/america-latina/2023/06/23/el-regimen-de-ortega-en-nicaragua-ordeno-confiscar-propiedades-del-empresario-piero-coen/) alguns bens do representante do Grupo Coen, Piero Coen Ubilla, a quem acusa de ter apoiado os protestos contra [a ditadura sandinista](https://gaceta.es/iberosfera/la-onu-alerta-sobre-la-erosion-de-las-libertades-en-nicaragua-20230622-0002/) , algo que Ortega qualificou como "traição".
 

@@ -1,11 +1,12 @@
 ---
-title: "História ambiental da Mata Atlântica nordestina"
+title: História ambiental da Mata Atlântica nordestina
 date: 2021-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Mata Atlântica é o lar de um conjunto único de espécies raras, [endêmicas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#) e ameaçadas de extinção . Apesar de guardar rica diversidade biológica, esse [bioma](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#) sofre com uma intensa devastação das suas florestas para acolher 60% da população brasileira e gerar 70% do produto interno bruto (PIB) brasileiro. Resgatar a história ambiental dessa região é importante para entendermos tanto a evolução das relações entre humanos e natureza, quanto as modificações da paisagem.
 

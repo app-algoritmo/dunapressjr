@@ -1,11 +1,12 @@
 ---
-title: "Aumento de pedidos de mudança de sexo em menores na Europa preocupa pais"
+title: Aumento de pedidos de mudança de sexo em menores na Europa preocupa pais
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A **Associação de Mães de Adolescentes e Meninas com Disforia Acelerada (AMANDA)** da Espanha denuncia que o aumento dos pedidos de mudança de sexo pode ser devido ao fato de que os regulamentos "são elaborados de costas para a realidade".
 

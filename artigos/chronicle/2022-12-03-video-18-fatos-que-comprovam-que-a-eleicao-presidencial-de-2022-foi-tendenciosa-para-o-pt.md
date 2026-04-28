@@ -1,11 +1,13 @@
 ---
-title: "Vídeo: 18 Fatos que comprovam que a eleição presidencial de 2022 foi tendenciosa para o PT"
+title: 'Vídeo: 18 Fatos que comprovam que a eleição presidencial de 2022 foi tendenciosa
+  para o PT'
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ## Todo Poder Emana do Povo
 

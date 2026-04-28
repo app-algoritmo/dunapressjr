@@ -1,11 +1,12 @@
 ---
-title: "Como são classificados os livros em uma biblioteca"
+title: Como são classificados os livros em uma biblioteca
 date: 2021-04-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Melvil Dewey, bibliotecário americano, pioneiro em biblioteca e educação pública. Ele é conhecido como o criador do Sistema de Classificação Decimal de Dewey, que se tornou o sistema mais usado para bibliotecas. Ele tomou a iniciativa de fundar a American Library Association em 1876 e o ​​Library Journal no mesmo ano. Fundada em 1887 na Columbia University, a primeira escola bibliotecária do país, a School of Library Economy. Dewey foi chefe da Biblioteca do Estado de Nova York de 1889 a 1906 e de 1904 a 1906, também chefe de todas as bibliotecas do Estado de Nova York.
 

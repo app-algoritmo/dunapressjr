@@ -1,11 +1,13 @@
 ---
-title: "OMS: 5 milhões de pessoas prejudicadas pelas vacinas Covid-19, e a tendência é aumentar"
+title: 'OMS: 5 milhões de pessoas prejudicadas pelas vacinas Covid-19, e a tendência
+  é aumentar'
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## A doutora Tess Lawrie aponta que, em 21 de fevereiro de 2021, a Organização Mundial da Saúde havia registrado 102.000 relatos de efeitos colaterais da vacina contra o coronavírus em seu [banco de dados VigiAccess .](https://t.co/DAsgauAs9R)
 

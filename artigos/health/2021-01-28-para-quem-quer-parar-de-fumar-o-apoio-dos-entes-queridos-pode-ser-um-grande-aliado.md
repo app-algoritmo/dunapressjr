@@ -1,11 +1,13 @@
 ---
-title: "Para quem quer parar de fumar, o apoio dos entes queridos pode ser um grande aliado"
+title: Para quem quer parar de fumar, o apoio dos entes queridos pode ser um grande
+  aliado
 date: 2021-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Existem algumas etapas que envolvem o processo de parar de fumar, sendo uma delas a busca de apoio entre os familiares e amigos. Conforme explica Beatriz Ávila, psicóloga residente no Programa de Residência Multiprofissional em Saúde do Adulto e do Idoso do Hospital Universitário de Aracaju (SE), vinculado à Rede Empresa Brasileira de Serviços Hospitalares (EBSERH), largar o cigarro trata-sede uma decisão que gera impacto e exige mudanças de comportamentos muito pessoais e rotineiros por parte de quem toma essa atitude.
 

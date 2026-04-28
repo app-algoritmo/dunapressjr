@@ -1,11 +1,12 @@
 ---
-title: "Obesidade: Mais de um bilhão de adultos, em todo o mundo, está acima do peso"
+title: 'Obesidade: Mais de um bilhão de adultos, em todo o mundo, está acima do peso'
 date: 2022-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A obesidade é uma doença crônica, progressiva, recidivante e uma epidemia global de acordo com a Organização Mundial da Saúde (OMS). Mais de um bilhão de adultos, em todo o mundo, está acima do peso — destes, 500 milhões são considerados obesos. São mais de 40 milhões de crianças, com idade até cinco anos, que estão acima do peso.
 

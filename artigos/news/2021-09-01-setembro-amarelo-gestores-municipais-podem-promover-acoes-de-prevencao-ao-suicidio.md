@@ -1,11 +1,13 @@
 ---
-title: "Setembro Amarelo: gestores municipais podem promover ações de prevenção ao suicídio"
+title: 'Setembro Amarelo: gestores municipais podem promover ações de prevenção ao
+  suicídio'
 date: 2021-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Só no Brasil, por ano, são registrados cerca de 12 mil suicídios e mais de um milhão no mundo. Trata-se de uma triste realidade, que registra cada vez mais casos, principalmente entre os jovens. Cerca de 96,8% dos casos de suicídio estavam relacionados a transtornos mentais. Em primeiro lugar está a depressão, seguida do transtorno bipolar e abuso de substâncias.
 

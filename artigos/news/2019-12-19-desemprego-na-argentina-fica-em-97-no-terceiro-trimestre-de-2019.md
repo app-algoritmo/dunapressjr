@@ -1,11 +1,12 @@
 ---
-title: "Desemprego na Argentina fica em 9,7% no terceiro trimestre de 2019"
+title: Desemprego na Argentina fica em 9,7% no terceiro trimestre de 2019
 date: 2019-12-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A taxa de desemprego na Argentina subiu para 9,7% no
 terceiro trimestre de 2019, em comparação aos 9% no mesmo período de 2018,

@@ -1,11 +1,12 @@
 ---
-title: "Julgados 875 processos do Proagro em 2020"
+title: Julgados 875 processos do Proagro em 2020
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O cronograma de julgamento dos recursos enviados à Comissão Especial de Recursos (CER) do Programa de Garantia da Atividade Agropecuária (Proagro) foi mantido em 2020, mesmo no decorrer da pandemia do Covid-19. Todos os serviços estão sendo realizados via teletrabalho. 
 

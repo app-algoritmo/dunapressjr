@@ -1,11 +1,12 @@
 ---
-title: "Crítica: Homeschooling no Brasil"
+title: 'Crítica: Homeschooling no Brasil'
 date: 2018-09-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Esta semana, o STF brasileiro julgou como sendo irregular o ensino no formato homeschooling.
 

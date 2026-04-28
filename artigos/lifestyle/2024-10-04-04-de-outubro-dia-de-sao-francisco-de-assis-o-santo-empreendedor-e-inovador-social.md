@@ -1,12 +1,14 @@
 ---
-title: "04 de Outubro: Dia de São Francisco de Assis: O Santo Empreendedor e Inovador Social"
+title: '04 de Outubro: Dia de São Francisco de Assis: O Santo Empreendedor e Inovador
+  Social'
 date: 2024-10-04
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Lifestyle
-  - Religiosity
+- Lifestyle
+- Religiosity
 ---
+
 
 São Francisco de Assis (1181-1226) é amplamente conhecido por ser o fundador da Ordem dos Franciscanos e um dos santos mais reverenciados da Igreja Católica. Embora seja lembrado principalmente por sua espiritualidade, pobreza radical e amor pela natureza, sua trajetória de vida revela características que poderiam ser associadas a um verdadeiro empreendedor. Em um contexto medieval, onde os conceitos modernos de empreendedorismo ainda não existiam, Francisco conseguiu criar um movimento religioso e social que transformou a maneira como as pessoas viam a espiritualidade, as riquezas e a relação com o mundo.
 

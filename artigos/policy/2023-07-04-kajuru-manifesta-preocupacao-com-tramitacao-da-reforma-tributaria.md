@@ -1,11 +1,12 @@
 ---
-title: "Kajuru manifesta preocupação com tramitação da reforma tributária"
+title: Kajuru manifesta preocupação com tramitação da reforma tributária
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) manifestou, em pronunciamento no Plenário nesta terça-feira (4), preocupação com a rapidez da tramitação da Proposta de Emenda à Constituição ([PEC 45/2019](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2196833)), que trata da reforma tributária, na Câmara dos Deputados. Segundo o senador, a aprovação do texto pode esperar mais dois meses e considerar todas as críticas e sugestões de diversos setores da sociedade.
 

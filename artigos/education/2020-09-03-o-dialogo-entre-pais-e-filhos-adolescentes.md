@@ -1,11 +1,12 @@
 ---
-title: "O diálogo entre pais e filhos adolescentes"
+title: O diálogo entre pais e filhos adolescentes
 date: 2020-09-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 **A adolescência não deve ser um momento difícil na relação de pais e filhos.**
 

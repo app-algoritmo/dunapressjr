@@ -1,11 +1,12 @@
 ---
-title: "13 de Dezembro - Dia do Marinheiro"
+title: 13 de Dezembro - Dia do Marinheiro
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde o alvorecer do Brasil, sua história está entrelaçada ao mar. Pelos espaços marítimos chegaram os colonizadores portugueses e tantos outros povos que ajudaram a compor nossa identidade nacional. Também foi, pelo mar e águas interiores, escrita a história da consolidação da independência e da defesa dos nossos atuais contornos. Essas águas, nas quais sempre fomos vitoriosos, foram igualmente marcadas pelo sacrifício de nossos compatriotas, que ofereceram suas vidas em prol do Brasil.
 

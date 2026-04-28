@@ -1,11 +1,13 @@
 ---
-title: "Resumo da Reunião Ministerial do Presidente Bolsonaro. Reunião essa que era particular e foi vazada ilegalmente pelo STF"
+title: Resumo da Reunião Ministerial do Presidente Bolsonaro. Reunião essa que era
+  particular e foi vazada ilegalmente pelo STF
 date: 2020-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 - -O Presidente disse que estava preocupado com a segurança da sua família no Rio.
 - -O Presidente disse que estava indignado com os governadores e Prefeitos algemando a força idosos, mulheres etc…

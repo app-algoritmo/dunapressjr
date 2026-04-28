@@ -1,11 +1,13 @@
 ---
-title: "Nova York ameaça multas pesadas para pizzarias que não reduzirem 75% das emissões de seus fornos"
+title: Nova York ameaça multas pesadas para pizzarias que não reduzirem 75% das emissões
+  de seus fornos
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, **Joe Biden** , declarou desde que chegou à Casa Branca o **"Código Vermelho para a humanidade"** e a **"emergência climática"** porque "os cientistas o disseram"... e as grandes cidades —e estados— que estão em As mãos dos democratas seguem essa linha.
 

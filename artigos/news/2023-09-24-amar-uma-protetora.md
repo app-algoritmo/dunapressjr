@@ -1,11 +1,12 @@
 ---
-title: "Amar uma protetora"
+title: Amar uma protetora
 date: 2023-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 "Para amar uma protetora você deve amá-la por inteiro. Deves adorar as cicatrizes que cobrem o seu corpo de animais em pânico e magoados que ela estava a tentar ajudar. Deves amar o seu coração partido, que já foi partido tantas vezes que ela já nem sequer tira tempo para consertar os pedaços.
 

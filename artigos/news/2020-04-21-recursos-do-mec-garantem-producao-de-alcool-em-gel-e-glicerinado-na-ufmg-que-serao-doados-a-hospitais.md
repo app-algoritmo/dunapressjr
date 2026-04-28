@@ -1,11 +1,13 @@
 ---
-title: "Recursos do MEC garantem produção de álcool em gel e glicerinado na UFMG que serão doados a hospitais"
+title: Recursos do MEC garantem produção de álcool em gel e glicerinado na UFMG que
+  serão doados a hospitais
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) fez um balanço sobre as ações implementadas para o combate à pandemia do novo coronavírus. Por meio da Secretaria de Educação Superior (Sesu), a Pasta repassou R$ 21,5 milhões, que estão sendo utilizados na fabricação de álcool glicerinado 70% e álcool 80%, pela Faculdade de Farmácia e pela Escola de Veterinária da Universidade Federal de Minas Gerais (UFMG).
 

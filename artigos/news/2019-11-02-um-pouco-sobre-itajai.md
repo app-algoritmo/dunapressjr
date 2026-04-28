@@ -1,12 +1,13 @@
 ---
-title: "Um pouco sobre Itajaí"
+title: Um pouco sobre Itajaí
 date: 2019-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Tourism and Gastronomy
+- News
+- Tourism and Gastronomy
 ---
+
 
 Quero contar um pouco da história da minha cidade, lugar onde nasci, cresci, constituí família.
 

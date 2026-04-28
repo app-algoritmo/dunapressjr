@@ -1,12 +1,13 @@
 ---
-title: "Inovação na Indústria Farmacêutica Moderna com a Inteligência Regulatória"
+title: Inovação na Indústria Farmacêutica Moderna com a Inteligência Regulatória
 date: 2024-07-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 A indústria farmacêutica moderna enfrenta desafios significativos devido à globalização, inovações tecnológicas e regulamentações rigorosas. A inteligência regulatória internacional é fundamental para garantir o sucesso na introdução de novos produtos farmacêuticos no mercado. A *[Sanitary Intelligence](https://linktr.ee/sanitaryintelligence)*, com mais de 14 anos de experiência, exemplifica a importância desta área ao oferecer serviços especializados em projetos inovadores e complexos, abrangendo medicamentos, dispositivos médicos, biotecnologia e outras áreas.
 

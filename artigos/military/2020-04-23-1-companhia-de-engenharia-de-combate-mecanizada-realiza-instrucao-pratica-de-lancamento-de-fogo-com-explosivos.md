@@ -1,11 +1,13 @@
 ---
-title: "1ª Companhia de Engenharia de Combate Mecanizada realiza instrução prática de lançamento de fogo com explosivos"
+title: 1ª Companhia de Engenharia de Combate Mecanizada realiza instrução prática
+  de lançamento de fogo com explosivos
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Borja (RS)** – No dia 16 de abril, a 1ª Companhia de Engenharia de Combate Mecanizada (1ª Cia E Cmb Mec), Companhia Coronel José Fernandes de Souza Doca, realizou uma instrução prática de lançamento de fogo com explosivos para o Grupo de Destruições do Pelotão FORSUL.
 

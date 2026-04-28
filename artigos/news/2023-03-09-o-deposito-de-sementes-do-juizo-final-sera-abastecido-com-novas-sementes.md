@@ -1,11 +1,12 @@
 ---
-title: "O depósito de sementes do Juízo Final será abastecido com novas sementes"
+title: O depósito de sementes do Juízo Final será abastecido com novas sementes
 date: 2023-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Svalbard Global Seed Vault na Noruega, que serve como uma salvaguarda para a maior variedade de culturas do mundo contra a potencial extinção de sementes devido a uma catástrofe global, deve conter cerca de 20.000 amostras de sementes.
 

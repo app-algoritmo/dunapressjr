@@ -1,11 +1,13 @@
 ---
-title: "Implicações Estratégico-Militares das Instalações de Armas Nucleares dos EUA no Norte da Europa"
+title: Implicações Estratégico-Militares das Instalações de Armas Nucleares dos EUA
+  no Norte da Europa
 date: 2024-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante uma coletiva de imprensa realizada à margem do Festival Mundial da Juventude, a porta-voz do Ministério das Relações Exteriores da Rússia, Maria Zakharova, fez declarações contundentes sobre as instalações de armas nucleares dos EUA no norte da Europa. Zakharova enfatizou que tais instalações seriam consideradas alvos militares legítimos em um possível confronto militar direto entre a Rússia e a OTAN.
 

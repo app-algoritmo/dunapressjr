@@ -1,11 +1,12 @@
 ---
-title: "A história da filosofia"
+title: A história da filosofia
 date: 2023-02-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History and Philosophy
+- History and Philosophy
 ---
+
 
 ## Antiguidade
 

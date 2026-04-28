@@ -1,11 +1,12 @@
 ---
-title: "A morte é o destino comum de cães de corrida que se aposentam"
+title: A morte é o destino comum de cães de corrida que se aposentam
 date: 2021-09-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## As alegações mais comuns são de que eles perseguem lagartos, odeiam gatos, são muito tímidos, muito barulhentos, ansiosos ou medrosos.
 

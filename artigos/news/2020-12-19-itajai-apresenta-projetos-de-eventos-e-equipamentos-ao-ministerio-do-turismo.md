@@ -1,11 +1,12 @@
 ---
-title: "Itajaí apresenta projetos de eventos e equipamentos ao Ministério do Turismo"
+title: Itajaí apresenta projetos de eventos e equipamentos ao Ministério do Turismo
 date: 2020-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí trouxe representantes do Ministério do Turismo até a cidade para apresentar os projetos de obras públicas para novos equipamentos, atrações e eventos municipais. Na pauta do encontro, nesta quarta-feira (16), estavam o novo complexo turístico do novo terminal de passageiros de transatlânticos, melhorias no Centreventos Luiz Henrique da Silveira e a captação de recursos via Ministério do Turismo para a The Ocean Race.
 

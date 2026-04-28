@@ -1,13 +1,14 @@
 ---
-title: "De Informática a Oratória: cursos de qualificação gratuitos conectam gerações"
+title: 'De Informática a Oratória: cursos de qualificação gratuitos conectam gerações'
 date: 2023-09-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Courses and Careers
-  - Education
-  - Personal Development
+- Courses and Careers
+- Education
+- Personal Development
 ---
+
 
 ## Cursos Livres do CIEE/PR estão disponíveis para pessoas com idade acima de 14 anos e são uma oportunidade para socialização e inclusão no mundo do trabalho.
 

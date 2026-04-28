@@ -1,11 +1,12 @@
 ---
-title: "Reformas microeconômicas impulsionaram a retomada do crescimento do país"
+title: Reformas microeconômicas impulsionaram a retomada do crescimento do país
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com novos marcos, Brasil teve alta da taxa de investimento e melhora no mercado de crédito.
 

@@ -1,11 +1,13 @@
 ---
-title: "Município de São Paulo adere ao Sistema Nacional da Nota Fiscal de Serviço eletrônica"
+title: Município de São Paulo adere ao Sistema Nacional da Nota Fiscal de Serviço
+  eletrônica
 date: 2022-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Santos e Campinas também já adotaram a NFS-e Nacional e terão acesso à Plataforma de Administração Tributária Digital.
 

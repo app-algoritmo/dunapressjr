@@ -1,11 +1,12 @@
 ---
-title: "Hábitos de sono afetam o desempenho de estudantes"
+title: Hábitos de sono afetam o desempenho de estudantes
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O desempenho acadêmico de universitários, como os estudantes de medicina, é essencial para uma boa qualificação profissional. Isto leva esses alunos, que têm densa carga curricular, a complementar o curso em atividades extracurriculares, como estágios, pesquisas e plantões.
 

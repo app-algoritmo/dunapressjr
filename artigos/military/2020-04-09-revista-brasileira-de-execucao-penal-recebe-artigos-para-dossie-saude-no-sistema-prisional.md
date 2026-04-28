@@ -1,11 +1,13 @@
 ---
-title: "Revista Brasileira de Execução Penal recebe artigos para Dossiê 'Saúde no Sistema Prisional”"
+title: Revista Brasileira de Execução Penal recebe artigos para Dossiê 'Saúde no Sistema
+  Prisional”
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Revista Brasileira de Execução Penal (RBEP) do Departamento Penitenciário Nacional (Depen) está selecionando artigos e relatos de experiências para a constituição do Dossiê **“Saúde no Sistema Prisional” - **Política Pública, Assistência à Saúde e a Pandemia de COVID-19.  A RBEP aceita manuscritos inéditos nos idiomas, português, espanhol, inglês e francês até o dia 30 de outubro de 2020.
 

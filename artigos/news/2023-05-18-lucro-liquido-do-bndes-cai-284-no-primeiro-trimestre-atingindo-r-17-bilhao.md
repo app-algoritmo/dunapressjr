@@ -1,11 +1,12 @@
 ---
-title: "Lucro líquido do BNDES cai 28,4% no primeiro trimestre, atingindo R$ 1,7 bilhão"
+title: Lucro líquido do BNDES cai 28,4% no primeiro trimestre, atingindo R$ 1,7 bilhão
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda no lucro é resultado da devolução antecipada de recursos ao Tesouro Nacional e não está relacionada à mudança de direção do banco.
 

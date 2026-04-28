@@ -1,11 +1,12 @@
 ---
-title: "Netflix anuncia o elenco de Pinóquio, do diretor Guillermo del Toro"
+title: Netflix anuncia o elenco de Pinóquio, do diretor Guillermo del Toro
 date: 2020-08-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 **A Netflix irá trazer uma nova animação baseada no clássico de Walt Disney e terá Ewan McGregor como a voz do Grilo Falante.**
 

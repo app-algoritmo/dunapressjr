@@ -1,11 +1,13 @@
 ---
-title: "Greenpeace: um movimento ideológico transformado em uma máquina de arrecadação de fundos"
+title: 'Greenpeace: um movimento ideológico transformado em uma máquina de arrecadação
+  de fundos'
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Se o ecocatastrofismo se tornou uma religião (e é: especificamente, a religião oficial e obrigatória do globalismo), **o Greenpeace se torna seu Santo Ofício** , o corpo reverenciado de pensadores altruístas e ativistas heróicos que serve como vanguarda da fé.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação desacelera para todas as faixas de renda em janeiro, diz Ipea"
+title: Inflação desacelera para todas as faixas de renda em janeiro, diz Ipea
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Grupo de alimentos e bebidas foi o principal foco da inflação.
 

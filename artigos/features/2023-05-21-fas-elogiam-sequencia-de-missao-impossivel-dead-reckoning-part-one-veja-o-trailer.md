@@ -1,11 +1,13 @@
 ---
-title: "Fãs elogiam sequência de 'Missão: Impossível – Dead Reckoning Part One'. Veja o Trailer."
+title: 'Fãs elogiam sequência de ''Missão: Impossível – Dead Reckoning Part One''.
+  Veja o Trailer.'
 date: 2023-05-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## O famoso agente Ethan Hunt, da saga 'Missão impossível' está de volta em julho.
 

@@ -1,11 +1,13 @@
 ---
-title: "Centro de Avaliações do Exército recebe componentes do radar de rastreio do Sistema ASTROS"
+title: Centro de Avaliações do Exército recebe componentes do radar de rastreio do
+  Sistema ASTROS
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Rio de Janeiro (RJ) –** No período de 19 a 21 de maio, o Centro de Avaliações do Exército (CAEx) – "Campo de Provas da Marambaia" – procedeu, em São Bernardo do Campo (SP), ao recebimento em fábrica dos conjuntos pedestal e antena do radar de rastreio que integrará o Sistema Transportável de Rastreamento de Engenhos em Voo (STREV). A implementação do STREV faz parte do Projeto de Instrumentação de Campo de Instrução, que consta do Plano Estratégico do Exército (PEEx) 2020-2023 e integra o Programa Estratégico do Exército ASTROS 2020.
 

@@ -1,12 +1,14 @@
 ---
-title: "Wine Run Brasil une corrida e cultura do vinho, em sua 11ª edição no Vale dos Vinhedos, na Serra Gaúcha"
+title: Wine Run Brasil une corrida e cultura do vinho, em sua 11ª edição no Vale dos
+  Vinhedos, na Serra Gaúcha
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## Evento será no dia 25 de maio, em Bento Gonçalves e na vizinha Monte Belo do Sul, com Meia Maratona (21 km), além de Corrida e Caminhada de 8,2 km. Inscrições estão abertas.
 

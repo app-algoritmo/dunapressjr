@@ -1,11 +1,13 @@
 ---
-title: "Bangu Shopping celebra o Dia do Orgulho Nerd com atrações gratuitas durante o fim de semana"
+title: Bangu Shopping celebra o Dia do Orgulho Nerd com atrações gratuitas durante
+  o fim de semana
 date: 2024-05-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Evento Geek acontece nos dias 25 e 26 de maio.
 

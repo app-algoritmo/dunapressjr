@@ -1,11 +1,13 @@
 ---
-title: "Este é o incentivo em dinheiro que a Noruega está oferecendo para que outras nações protejam suas florestas"
+title: Este é o incentivo em dinheiro que a Noruega está oferecendo para que outras
+  nações protejam suas florestas
 date: 2021-04-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Para desacelerar o desmatamento, a Noruega oferecerá às nações US$10 por tonelada de dióxido de carbono armazenado pelas florestas. Para se qualificar para o bônus, as nações precisam adotar um sistema rigoroso de contabilidade e monitoramento das florestas - muito mais rígido do que as medidas atuais. Ainda existem obstáculos significativos a superar, no entanto, nem todos estão convencidos dos benefícios.
 

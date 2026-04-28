@@ -1,11 +1,12 @@
 ---
-title: "Esclarecimentos sobre situação de cooperações internacionais pela Capes"
+title: Esclarecimentos sobre situação de cooperações internacionais pela Capes
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As implementações das bolsas para o exterior foram adiadas, e não canceladas, para a readequação diante da pandemia e da realidade orçamentária.
 

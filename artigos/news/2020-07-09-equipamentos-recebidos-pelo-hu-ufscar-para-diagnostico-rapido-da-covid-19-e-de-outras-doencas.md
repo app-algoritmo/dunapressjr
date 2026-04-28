@@ -1,11 +1,13 @@
 ---
-title: "Equipamentos recebidos pelo HU-UFSCar para diagnóstico rápido da Covid-19 e de outras doenças"
+title: Equipamentos recebidos pelo HU-UFSCar para diagnóstico rápido da Covid-19 e
+  de outras doenças
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os testes pelo novo aparelho serão realizados nos pacientes graves que precisam de UTI, quando o diagnóstico rápido é ainda mais importante.
 

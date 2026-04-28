@@ -1,11 +1,13 @@
 ---
-title: "Vice-diretor do FBI admite a existência de documento alegando esquema de suborno de Biden"
+title: Vice-diretor do FBI admite a existência de documento alegando esquema de suborno
+  de Biden
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O vice-diretor do FBI admitiu essencialmente sob juramento que um documento supostamente contendo evidências de que o então vice-presidente Joe Biden recebeu milhões de dólares em dinheiro de suborno de um cidadão ucraniano durante depoimento na segunda-feira.
 

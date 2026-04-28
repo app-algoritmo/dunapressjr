@@ -1,11 +1,12 @@
 ---
-title: "Biden e Israel: Compromisso Inabalável com a Liberdade, Justiça e Paz"
+title: 'Biden e Israel: Compromisso Inabalável com a Liberdade, Justiça e Paz'
 date: 2023-10-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma breve declaração antes de sua reunião com o gabinete de guerra de Israel, o presidente dos Estados Unidos, Joe Biden, reforçou o compromisso inabalável de seu país com a nação israelense. O tom da mensagem era claro e enfatizava o apoio contínuo dos Estados Unidos a Israel em sua busca por liberdade, justiça e paz na região.
 

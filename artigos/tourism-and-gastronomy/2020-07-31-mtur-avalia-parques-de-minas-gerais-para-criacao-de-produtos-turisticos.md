@@ -1,11 +1,12 @@
 ---
-title: "MTur avalia parques de Minas Gerais para criação de produtos turísticos"
+title: MTur avalia parques de Minas Gerais para criação de produtos turísticos
 date: 2020-07-31
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Objetivo é integrar os atrativos naturais e estruturá-los para aumentar o número de turistas nos locais.
 

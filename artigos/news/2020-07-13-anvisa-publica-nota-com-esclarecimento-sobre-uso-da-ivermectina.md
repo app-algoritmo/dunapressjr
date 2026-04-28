@@ -1,11 +1,12 @@
 ---
-title: "Anvisa publica nota com esclarecimento sobre uso da ivermectina"
+title: Anvisa publica nota com esclarecimento sobre uso da ivermectina
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em comunicado, agência esclarece que não existem estudos conclusivos que comprovem o uso desse medicamento para o tratamento da Covid-19.
 

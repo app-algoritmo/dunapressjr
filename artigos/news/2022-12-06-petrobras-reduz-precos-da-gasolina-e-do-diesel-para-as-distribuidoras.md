@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preços da gasolina e do diesel para as distribuidoras"
+title: Petrobras reduz preços da gasolina e do diesel para as distribuidoras
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gasolina passará de R$ 3,28 para R$ 3,08 o litro.
 

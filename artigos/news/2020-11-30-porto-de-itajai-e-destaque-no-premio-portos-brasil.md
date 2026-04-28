@@ -1,11 +1,12 @@
 ---
-title: "Porto de Itajaí é destaque no prêmio Portos + Brasil"
+title: Porto de Itajaí é destaque no prêmio Portos + Brasil
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A premiação foi criada pelo Ministério da Infraestrutura como forma de estimular a excelência na administração dos portos públicos brasileiros.
 

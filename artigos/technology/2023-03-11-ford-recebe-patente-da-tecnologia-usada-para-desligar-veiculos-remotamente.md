@@ -1,11 +1,12 @@
 ---
-title: "Ford recebe patente da tecnologia usada para desligar veículos remotamente"
+title: Ford recebe patente da tecnologia usada para desligar veículos remotamente
 date: 2023-03-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 A montadora Ford registrou uma patente para uma tecnologia que permitiria que veículos semi e totalmente autônomos recuperassem a propriedade de seus veículos se o proprietário não pagasse seus empréstimos ou pagamentos de aluguel.
 

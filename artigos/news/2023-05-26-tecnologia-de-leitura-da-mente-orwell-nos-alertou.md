@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia de leitura da mente: Orwell nos alertou"
+title: 'Tecnologia de leitura da mente: Orwell nos alertou'
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Pela primeira vez, a tecnologia de leitura da mente parece ser viável combinando duas tecnologias já disponíveis. Será que estamos indo para o mundo do "pensamento-crime" de George Orwell, onde o estado criminaliza o mero pensamento de pensamentos rebeldes por meio de um regime autoritário?
 

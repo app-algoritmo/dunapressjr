@@ -1,12 +1,14 @@
 ---
-title: "A oposição não vai debater leis até que Alberto Fernández cancele o julgamento político"
+title: A oposição não vai debater leis até que Alberto Fernández cancele o julgamento
+  político
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Alberto Fernández precisa de sessões extraordinárias durante o verão para o tratamento e aprovação de várias iniciativas. No entanto, a principal coligação da oposição já o comunicou que não pretende discutir absolutamente nada até que o partido no poder retire da ordem do dia o julgamento político que está a promover contra o Supremo Tribunal de Justiça.
 

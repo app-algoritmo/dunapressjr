@@ -1,11 +1,12 @@
 ---
-title: "4 Cuidados para quem sofre com hérnia de disco"
+title: 4 Cuidados para quem sofre com hérnia de disco
 date: 2022-11-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Problemas na coluna são comuns entre as pessoas, e quase sempre é culpa da desinformação e da correria do dia a dia, além de quase sempre se apresentarem em pessoas mais velhas ou de pessoas que trabalham carregando peso.
 

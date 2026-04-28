@@ -1,11 +1,12 @@
 ---
-title: "Servidores e empregados do Poder Executivo têm reajuste de 9%"
+title: Servidores e empregados do Poder Executivo têm reajuste de 9%
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Medida beneficia servidores, aposentados e pensionistas, que acumularam perdas salariais de 34% nos últimos 4 anos.
 

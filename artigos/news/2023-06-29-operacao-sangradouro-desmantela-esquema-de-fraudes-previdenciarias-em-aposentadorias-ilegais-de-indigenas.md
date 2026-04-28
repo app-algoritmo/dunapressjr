@@ -1,11 +1,13 @@
 ---
-title: "Operação Sangradouro desmantela esquema de fraudes previdenciárias em aposentadorias ilegais de indígenas"
+title: Operação Sangradouro desmantela esquema de fraudes previdenciárias em aposentadorias
+  ilegais de indígenas
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal atua contra associação criminosa que causou prejuízo de milhões aos cofres públicos através de documentos falsos e aposentadorias ilegais.
 

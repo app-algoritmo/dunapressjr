@@ -1,12 +1,13 @@
 ---
-title: "Robótica nas escolas transforma o aprendizado"
+title: Robótica nas escolas transforma o aprendizado
 date: 2024-07-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Technology
+- Education
+- Technology
 ---
+
 
 ## Você provavelmente já utilizou a robótica em algum momento do seu dia, seja por meio de assistentes pessoais, automação da energia elétrica ou até mesmo com um robô aspirador para limpeza da casa.
 

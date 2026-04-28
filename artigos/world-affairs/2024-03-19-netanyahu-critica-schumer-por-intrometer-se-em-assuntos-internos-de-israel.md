@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu Critica Schumer por Intrometer-se em Assuntos Internos de Israel"
+title: Netanyahu Critica Schumer por Intrometer-se em Assuntos Internos de Israel
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro de Israel, Benjamin Netanyahu, expressou sua desaprovação em relação às declarações feitas pelo líder do Partido Democrata no Senado dos EUA, Chuck Schumer, que sugeriu a possibilidade de eleições antecipadas no país. Netanyahu considerou as declarações "completamente inapropriadas" e um erro tentar substituir os líderes eleitos de uma democracia aliada. Ele destacou que isso não é apropriado em nenhum momento, especialmente em tempos de conflito.
 

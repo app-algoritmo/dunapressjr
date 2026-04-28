@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro envia equipamentos para cidades onde a epidemia acelera"
+title: Governo Bolsonaro envia equipamentos para cidades onde a epidemia acelera
 date: 2020-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde iniciou na manhã desta sexta-feira (10) um plano de distribuição de 60 respiradores para as cidades de Fortaleza (CE), Manaus (AM) e Macapá (AP). As três capitais já estão precisando ampliar com urgência o número de leitos de tratamento intensivo para atender os doentes de Covid-19. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Brasil chega a 20,2 milhões de beneficiários este mês"
+title: Auxílio Brasil chega a 20,2 milhões de beneficiários este mês
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## De agosto a dezembro serão pagos R$ 600.
 

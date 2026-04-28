@@ -1,11 +1,13 @@
 ---
-title: "‘Brasil não se encontra em situação de equilíbrio’, diz diretor-executivo da IFI"
+title: ‘Brasil não se encontra em situação de equilíbrio’, diz diretor-executivo da
+  IFI
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O diretor-executivo da Instituição Fiscal Independente (IFI), Marcus Pestana, disse nesta terça-feira (10) que o país precisa fazer um “esforço de ajuste” para evitar “consequências muito graves” nas contas públicas no próximo ano. O economista participou de uma reunião de trabalho da Comissão de Assuntos Econômicos (CAE) para analisar a evolução do quadro fiscal brasileiro.
 

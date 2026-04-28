@@ -1,11 +1,13 @@
 ---
-title: "Geração Artemis, os estudantes que estabelecerão as bases para uma nova era de exploração espacial, participe você também!"
+title: Geração Artemis, os estudantes que estabelecerão as bases para uma nova era
+  de exploração espacial, participe você também!
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## Em homenagem ao dia nacional do estagiário, na quinta-feira, 25 de julho, foi apresentando alguns dos talentosos estudantes que trabalham nos centros da Nasa por todo o país
 

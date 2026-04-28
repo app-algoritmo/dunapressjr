@@ -1,12 +1,13 @@
 ---
-title: "Noruega se une à cooperação europeia de defesa EI2 para operações militares"
+title: Noruega se une à cooperação europeia de defesa EI2 para operações militares
 date: 2019-09-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 ## O EI2 é uma cooperação não vinculativa de países europeus que desejam contribuir para operações militares com objetivo de responder a ameaças e desafios à segurança europeia. As operações podem ocorrer no âmbito da UE, OTAN, ONU ou coalizões.
 

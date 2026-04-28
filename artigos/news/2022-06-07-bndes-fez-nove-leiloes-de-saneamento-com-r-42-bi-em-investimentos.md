@@ -1,11 +1,12 @@
 ---
-title: "BNDES fez nove leilões de saneamento com R$ 42 bi em investimentos"
+title: BNDES fez nove leilões de saneamento com R$ 42 bi em investimentos
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Rodadas ocorreram ao longo dos últimos dois anos e meio.
 

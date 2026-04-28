@@ -1,11 +1,13 @@
 ---
-title: "CPI das ONGs ouvirá autor do livro 'Máfia Verde' e deputada sobre atuação na Amazônia"
+title: CPI das ONGs ouvirá autor do livro 'Máfia Verde' e deputada sobre atuação na
+  Amazônia
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ##  Jornalista Lorenzo Carrasco e deputada Silvia Waiãpi serão ouvidos em reunião da CPI das ONGs para esclarecer atuação de organizações financiadas com dinheiro público na região amazônica.
 

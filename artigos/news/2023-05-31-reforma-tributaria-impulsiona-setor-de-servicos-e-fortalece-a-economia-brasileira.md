@@ -1,11 +1,12 @@
 ---
-title: "Reforma Tributária impulsiona setor de Serviços e fortalece a economia brasileira"
+title: Reforma Tributária impulsiona setor de Serviços e fortalece a economia brasileira
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Migração para novo sistema de tributação traz benefícios para empresas e famílias, estimulando o crescimento e aumento da demanda por serviços.
 

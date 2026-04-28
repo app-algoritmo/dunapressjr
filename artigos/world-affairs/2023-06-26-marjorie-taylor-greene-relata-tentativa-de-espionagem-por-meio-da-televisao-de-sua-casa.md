@@ -1,11 +1,13 @@
 ---
-title: "Marjorie Taylor Greene relata tentativa de espionagem por meio da televisão de sua casa"
+title: Marjorie Taylor Greene relata tentativa de espionagem por meio da televisão
+  de sua casa
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A deputada Marjorie Taylor Greene (R-GA) postou no domingo de manhã sobre uma aparente tentativa de espionagem que ocorreu em sua residência em Washington, DC no sábado à noite, na qual sua televisão ligou sozinha e a tela mostrou que um laptop estava tentando acessar a televisão .
 

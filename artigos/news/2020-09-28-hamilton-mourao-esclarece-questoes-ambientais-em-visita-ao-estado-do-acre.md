@@ -1,11 +1,12 @@
 ---
-title: "Hamilton Mourão esclarece questões ambientais em visita ao estado do Acre"
+title: Hamilton Mourão esclarece questões ambientais em visita ao estado do Acre
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Vice-presidente da República e presidente do Conselho Nacional da Amazônia Legal, Antonio Hamilton Martins Mourão, cumpriu agenda na cidade de Rio Branco, no Acre, voltada às questões ambientais na região. Na tarde do dia 22, o Vice-Presidente embarcou rumo à Rio Branco, sobrevoando duas áreas no estado de Rondônia mapeadas pelos satélites do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam). Na primeira área, constatou que se tratava de terreno já desmatado e em preparo pelo proprietário da terra.
 

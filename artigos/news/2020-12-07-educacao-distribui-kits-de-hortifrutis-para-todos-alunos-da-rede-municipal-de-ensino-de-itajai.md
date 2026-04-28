@@ -1,11 +1,13 @@
 ---
-title: "Educação distribui kits de hortifrútis para todos alunos da Rede Municipal de Ensino de Itajaí"
+title: Educação distribui kits de hortifrútis para todos alunos da Rede Municipal
+  de Ensino de Itajaí
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Alimentos frescos e saudáveis na mesa de 35 mil alunos da rede municipal de ensino de Itajaí. Os estudantes já começaram a retirar os kits de hortifrútis, disponibilizados pela Secretaria de Educação, nas unidades em que estudam. Cenoura, beterraba, chuchu, vagem, banana e laranja estão entre os itens ofertados. Para evitar aglomeração, as entregas são organizadas por polos com regras de distanciamento social e uso obrigatório de máscaras. A distribuição segue até a próxima sexta (11). 
 

@@ -1,11 +1,12 @@
 ---
-title: "Denunciantes de Epstein Processam FBI por Negligência e Falha em Proteger Vítimas"
+title: Denunciantes de Epstein Processam FBI por Negligência e Falha em Proteger Vítimas
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Doze denunciantes do caso do bilionário Jeffrey Epstein, acusado de pedofilia e tráfico de crianças, moveram uma ação contra o Federal Bureau of Investigation (FBI) dos Estados Unidos, alegando que a agência "virou as costas às vítimas" e falhou em protegê-las.
 

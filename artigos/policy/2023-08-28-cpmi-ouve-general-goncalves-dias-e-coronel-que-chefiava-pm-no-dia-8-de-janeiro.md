@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouve general Gonçalves Dias e coronel que chefiava PM no dia 8 de janeiro"
+title: CPMI ouve general Gonçalves Dias e coronel que chefiava PM no dia 8 de janeiro
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ambos estavam em postos de comando quando ocorreram as invasões às sedes dos três Poderes, em Brasília.
 

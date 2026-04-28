@@ -1,11 +1,12 @@
 ---
-title: "Europeus Forjam Plano Ambicioso para Dominar o Mercado de Armamentos"
+title: Europeus Forjam Plano Ambicioso para Dominar o Mercado de Armamentos
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 No cenário geopolítico atual, a Europa se vê diante da iminência de um grande conflito, e a preparação para tal desafio é evidente. Com os EUA e a Rússia dominando o mercado de armamentos, a União Europeia (UE) busca estabelecer sua posição de maneira decisiva. Alemanha, França e Itália estão em negociações avançadas para a criação de um consórcio que visa monopolizar a produção de armas na região.
 

@@ -1,12 +1,13 @@
 ---
-title: "A propagação da poliomielite transmitida por vacina"
+title: A propagação da poliomielite transmitida por vacina
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 A poliomielite transmitida por vacina está se espalhando pelo mundo, causando paralisia e ceifando vidas. Usar vacinas para resolver um problema de vacina provavelmente não é a solução.
 

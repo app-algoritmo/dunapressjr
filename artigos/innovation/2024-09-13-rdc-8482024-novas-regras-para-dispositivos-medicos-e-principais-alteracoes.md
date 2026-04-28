@@ -1,13 +1,14 @@
 ---
-title: "RDC 848/2024: Novas Regras para Dispositivos Médicos e Principais Alterações"
+title: 'RDC 848/2024: Novas Regras para Dispositivos Médicos e Principais Alterações'
 date: 2024-09-13
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Innovation
-  - Magazine
-  - Technology
+- Innovation
+- Magazine
+- Technology
 ---
+
 
 A Resolução da Diretoria Colegiada (RDC) 848 de 2024 é uma das novas normas da Agência Nacional de Vigilância Sanitária (Anvisa) que visa atualizar e regulamentar o setor de dispositivos médicos no Brasil. Este regulamento se insere no contexto de modernização e simplificação das regras para garantir a segurança e eficácia desses produtos, além de promover a inovação e a competitividade da indústria.
 

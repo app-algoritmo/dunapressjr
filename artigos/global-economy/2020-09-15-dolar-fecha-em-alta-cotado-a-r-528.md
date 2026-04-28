@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em alta, cotado a R$ 5,28"
+title: Dólar fecha em alta, cotado a R$ 5,28
 date: 2020-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores encerrou a terça-feira em leve queda.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF prende acusado de praticar furtos contra agências dos Correios no RN Ação PF"
+title: PF prende acusado de praticar furtos contra agências dos Correios no RN Ação
+  PF
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Força-Tarefa de Combate às Facções Criminosas no Rio Grande do Norte, coordenada pela Polícia Federal e composta por policiais federais, policiais militares e policiais civis da SESED/RN e, ainda, agentes penitenciários federais, atuando com apoio da Secretaria de Operações Integradas do Ministério da Justiça e Segurança Pública (SEOPI/MJSP), deu cumprimento a mandado de prisão preventiva na segunda-feira, 11/05, em Natal, expedido contra um homem suspeito de participar de furtos, mediante arrombamento, das agências dos Correios nas cidades de Patu/RN e Caraúbas/RN, respectivamente, nos meses de agosto e setembro de 2018.
 

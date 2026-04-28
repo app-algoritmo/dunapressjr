@@ -1,11 +1,13 @@
 ---
-title: "O senador do Kentucky, Rand Paul, critica Bill Gates por ser o maior financiador de surtos de doenças"
+title: O senador do Kentucky, Rand Paul, critica Bill Gates por ser o maior financiador
+  de surtos de doenças
 date: 2023-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O senador Rand Paul (R-KY) criticou o tecnocrata globalista Bill Gates [por sua obsessão em financiar pesquisas sobre vírus mortais](https://www.blacklistednews.com/article/84912/rand-paul-bill-gates-is-largest-funder-of-trying-to-find-viruses-in-caves-and-bring-them-to-big.html) . Tais esforços levaram diretamente à pandemia de coronavírus de Wuhan (COVID-19), acrescentou.
 

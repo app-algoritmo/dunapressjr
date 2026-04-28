@@ -1,11 +1,12 @@
 ---
-title: "Em testes pesquisa de vacina para a Covid-19"
+title: Em testes pesquisa de vacina para a Covid-19
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo realiza testes para detecção de anticorpos contra SARS-CoV-2, causador da COVID-19.
 

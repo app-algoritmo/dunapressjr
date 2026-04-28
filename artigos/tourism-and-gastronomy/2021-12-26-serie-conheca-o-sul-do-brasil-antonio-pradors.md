@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: Antônio Prado/RS"
+title: 'Série Conheça o Sul do Brasil: Antônio Prado/RS'
 date: 2021-12-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O casario de alvenaria, construído pelos imigrantes italianos, no final do século 19 em Antônio Prado, foi declarado patrimônio histórico e artístico, pelo Instituto do Patrimônio Histórico e Artístico Nacional – Iphan, em 1989. 
 

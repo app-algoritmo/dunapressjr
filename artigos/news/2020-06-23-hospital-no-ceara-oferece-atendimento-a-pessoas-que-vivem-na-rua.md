@@ -1,11 +1,12 @@
 ---
-title: "Hospital no Ceará oferece atendimento a pessoas que vivem na rua"
+title: Hospital no Ceará oferece atendimento a pessoas que vivem na rua
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ação do HUWC e Famed-UFC beneficiou 60 pessoas que precisam, mas não têm acesso a atendimento em saúde.
 

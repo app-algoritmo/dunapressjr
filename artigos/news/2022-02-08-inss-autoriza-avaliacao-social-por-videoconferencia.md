@@ -1,11 +1,12 @@
 ---
-title: "INSS autoriza avaliação social por videoconferência"
+title: INSS autoriza avaliação social por videoconferência
 date: 2022-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida atende pessoas com deficiência.
 

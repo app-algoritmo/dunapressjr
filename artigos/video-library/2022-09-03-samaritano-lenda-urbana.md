@@ -1,11 +1,12 @@
 ---
-title: "Samaritano - Lenda Urbana"
+title: Samaritano - Lenda Urbana
 date: 2022-09-03
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Um herói Aposentado
 

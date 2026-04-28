@@ -1,11 +1,12 @@
 ---
-title: "Setor público tem superávit primário de R$ 38,9 bilhões em abril"
+title: Setor público tem superávit primário de R$ 38,9 bilhões em abril
 date: 2026-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo central apresentou superávit R$ 29,638 bilhões.
 

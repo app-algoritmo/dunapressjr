@@ -1,11 +1,12 @@
 ---
-title: "Equidade na prática: passo a passo para empresas de qualquer tamanho"
+title: 'Equidade na prática: passo a passo para empresas de qualquer tamanho'
 date: 2023-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante a pandemia de covid-19, as mulheres perderam seus empregos com uma frequência maior que os homens. Cerca de 72% das vagas brasileiras encerradas no período eram ocupadas por mulheres. Os dados são do Instituto Brasileiro de Geografia e Estatística (IBGE), mas o problema não atinge só o Brasil. De acordo com a Organização Internacional do Trabalho, ao longo de 2022 15% das mulheres em idade produtiva em todo o mundo não conseguiram emprego. Com um cenário desfavorável, boa parte das empresas precisa começar a investir na contratação de quadros femininos para equilibrar essa balança.
 

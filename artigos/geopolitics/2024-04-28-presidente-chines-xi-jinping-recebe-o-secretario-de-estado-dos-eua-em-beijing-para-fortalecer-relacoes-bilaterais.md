@@ -1,11 +1,13 @@
 ---
-title: "Presidente Chinês Xi Jinping Recebe o Secretário de Estado dos EUA em Beijing para Fortalecer Relações Bilaterais"
+title: Presidente Chinês Xi Jinping Recebe o Secretário de Estado dos EUA em Beijing
+  para Fortalecer Relações Bilaterais
 date: 2024-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente chinês, Xi Jinping, expressou em Beijing sua satisfação ao ver os Estados Unidos confiantes, abertos, prósperos e vigorosos, enfatizando a importância de uma abordagem positiva em relação ao desenvolvimento mútuo. Durante o encontro com o secretário de Estado dos EUA, Antony Blinken, Xi destacou a necessidade de estabilizar e melhorar as relações entre China e EUA, comparando a questão à importância do primeiro botão de uma camisa.
 

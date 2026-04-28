@@ -1,11 +1,12 @@
 ---
-title: "Os socorristas digitais da ONU – ou as camisas marrons virtuais da ONU?"
+title: Os socorristas digitais da ONU – ou as camisas marrons virtuais da ONU?
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Vale ressaltar que as [Nações Unidas recrutaram mais de 100.000 “ ](https://news.un.org/en/story/2020/05/1064622)[socorristas digitais](https://summit.news/2022/08/18/un-recruited-over-100000-digital-first-responders-to-push-establishment-covid-narrative/) ” em todo o mundo durante a crise do coronavírus para combater a desinformação e notícias falsas nas mídias sociais. 
 

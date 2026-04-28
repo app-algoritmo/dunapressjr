@@ -1,11 +1,12 @@
 ---
-title: "Prenúncio do Holocausto ‘Noite dos Cristais Quebrados’, completa 83 anos"
+title: Prenúncio do Holocausto ‘Noite dos Cristais Quebrados’, completa 83 anos
 date: 2021-11-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 9 de novembro de 1938, o regime nazista matou judeus, incendiou sinagogas, saqueou e destruiu lojas e outros estabelecimentos da comunidade judaica, no que marcou o início do Holocasto e ficou conhecido como a “Noite dos Cristais Quebrados” (Kristallnacht). O episódio ocorreu em toda a Alemanha e Áustria. O Museu do Holocauto lembra a data com ato que conta com apoio da CONIB. ([veja a agenda](https://www.conib.org.br/memorial-do-holocausto-promove-evento-para-lembrar-o-massacre-de-babi-yar-e-a-noite-dos-cristais-quebrados/))
 

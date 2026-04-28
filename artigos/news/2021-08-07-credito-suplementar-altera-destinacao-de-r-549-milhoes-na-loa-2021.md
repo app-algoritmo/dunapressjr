@@ -1,11 +1,12 @@
 ---
-title: "Crédito suplementar altera destinação de R$ 549 milhões na LOA 2021"
+title: Crédito suplementar altera destinação de R$ 549 milhões na LOA 2021
 date: 2021-08-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos são destinados ao pagamento de despesas com pessoal ativo e inativo, militares e civis, do governo federal.
 

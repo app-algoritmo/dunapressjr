@@ -1,12 +1,13 @@
 ---
-title: "Sal da terra e luz do mundo"
+title: Sal da terra e luz do mundo
 date: 2022-11-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
-  - News
+- History
+- News
 ---
+
 
 Harriet Tubman nasceu em Maryland, por volta de 1820 e foi a maior libertadora de escravos da história dos Estados Unidos. Ela foi no seu tempo "Sal da terra e luz do mundo".
 

@@ -1,11 +1,12 @@
 ---
-title: "INSS: autorizado concurso para técnico de seguro social"
+title: 'INSS: autorizado concurso para técnico de seguro social'
 date: 2022-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Portaria publicada no Diário Oficial da União estabelece mil vagas.
 

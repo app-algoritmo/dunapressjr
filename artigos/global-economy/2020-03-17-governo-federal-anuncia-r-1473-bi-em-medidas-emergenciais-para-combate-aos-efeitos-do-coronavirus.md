@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal anuncia R$ 147,3 bi em medidas emergenciais para combate aos efeitos do coronavírus"
+title: Governo Federal anuncia R$ 147,3 bi em medidas emergenciais para combate aos
+  efeitos do coronavírus
 date: 2020-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ministério da Economia também detalhou como governo pretende garantir manutenção de empregos e implementar medidas estruturantes
 

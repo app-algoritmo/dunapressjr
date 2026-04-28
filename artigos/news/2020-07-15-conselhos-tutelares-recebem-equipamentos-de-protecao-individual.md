@@ -1,11 +1,12 @@
 ---
-title: "Conselhos tutelares recebem Equipamentos de Proteção Individual"
+title: Conselhos tutelares recebem Equipamentos de Proteção Individual
 date: 2020-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao todo, 30 mil conselheiros, em 5,9 mil Conselhos Tutelares do País receberão os kits de proteção.
 

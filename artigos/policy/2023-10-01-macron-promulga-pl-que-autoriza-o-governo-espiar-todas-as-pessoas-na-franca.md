@@ -1,12 +1,13 @@
 ---
-title: "Macron promulga PL que autoriza o governo espiar todas as pessoas na França"
+title: Macron promulga PL que autoriza o governo espiar todas as pessoas na França
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Social networks
+- Policy
+- Social networks
 ---
+
 
 O presidente da França, Emmanuel Macron, promulgou um [**projeto de lei**](https://www.senat.fr/leg/pjl22-569.html)  que autoriza o governo a espiar todas as pessoas na França através dos seus smartphones... sem mandado. 
 

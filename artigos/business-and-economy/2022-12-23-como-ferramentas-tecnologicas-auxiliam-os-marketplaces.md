@@ -1,12 +1,13 @@
 ---
-title: "Como ferramentas tecnológicas auxiliam os marketplaces"
+title: Como ferramentas tecnológicas auxiliam os marketplaces
 date: 2022-12-23
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Business and Economy
-  - Technology
+- Business and Economy
+- Technology
 ---
+
 
 No Brasil, as vendas on-line tiveram um crescimento significativo nos últimos anos. De acordo com o levantamento Latin America 2022, apresentado pelo instituto britânico Retail X, sobre os dados do e-commerce da América Latina, o Brasil apareceu como país com maior crescimento no ano de 2022, com aumento de US$ 8,1 bilhões na receita em relação ao ano anterior. 
 

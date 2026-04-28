@@ -1,11 +1,12 @@
 ---
-title: "Israel Questiona Resposta Proporcional em Meio ao Conflito com o Hamas"
+title: Israel Questiona Resposta Proporcional em Meio ao Conflito com o Hamas
 date: 2023-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz de Israel na ONU, diante dos pedidos de cessar-fogo e de "proporcionalidade", questionou o que seria uma resposta proporcional diante do massacre feito em território israelense. Perguntou: Como você pode concordar com um cessar-fogo com alguém que jurou matar e destruir sua própria existência?
 

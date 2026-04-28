@@ -1,11 +1,12 @@
 ---
-title: "Projeção de crescimento do PIB em 2021 passa de 3,2% para 3,5%"
+title: Projeção de crescimento do PIB em 2021 passa de 3,2% para 3,5%
 date: 2021-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É o que revela Boletim Macrofiscal do Ministério da Economia.
 

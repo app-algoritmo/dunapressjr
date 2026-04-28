@@ -1,11 +1,12 @@
 ---
-title: "A Disney tem um problema de pedofilia, essas pessoas são doentes"
+title: A Disney tem um problema de pedofilia, essas pessoas são doentes
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [Investigadores americanos prenderam](https://www.fox13news.com/news/disney-employee-among-80-men-arrested-in-horrific-polk-county-child-pornography-bust-deputies-say) oito pessoas, incluindo um funcionário da Disney, por pornografia infantil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governadores irresponsáveis devem pagar a conta"
+title: Governadores irresponsáveis devem pagar a conta
 date: 2020-05-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Alguns governos, ao estilo do de Santa Catarina, mesmo sem casos em várias regiões e mesmo, até hoje, em muitas cidades sem casos registrados, fecharam tudo e trancafiaram a todos. Terão que pagar a conta. O Estado mencionado, por exemplo, amarga mais de 500 mil desempregados e mais de 400 mil trabalhadores com contrato de trabalho suspenso por tempo indeterminado, em pouco mais de um mês de quarentena, ou seja, bastou parar em torno de 45 dias boa parte das atividades, ainda não todas (exceção o campo e agroindústrias, mercados e farmácias), para gerar um número de desempregados jamais visto na história econômica do estado.
 

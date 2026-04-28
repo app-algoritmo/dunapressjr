@@ -1,11 +1,12 @@
 ---
-title: "PEC do orçamento de guerra é aprovada em 2º turno"
+title: PEC do orçamento de guerra é aprovada em 2º turno
 date: 2020-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou, por 423 votos a 1, em segundo turno, a PEC do “orçamento de guerra” (PEC 10/20). Pouco antes os deputados já haviam aprovado a proposta em primeiro turno. A PEC permite a separação dos gastos realizados para o combate ao novo coronavírus do Orçamento-Geral da União.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil quitou 10% de dívidas com órgãos internacionais em 100 dias"
+title: Brasil quitou 10% de dívidas com órgãos internacionais em 100 dias
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Restam R$ 4,28 bilhões a serem pagos no decorrer de 2023.
 

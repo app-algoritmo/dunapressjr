@@ -1,11 +1,12 @@
 ---
-title: "Depois da reforma da Previdência, reforma tributária é prioridade, diz Davi"
+title: Depois da reforma da Previdência, reforma tributária é prioridade, diz Davi
 date: 2019-10-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Davi confirmou para 22 de outubro a votação da reforma da
 Previdência em segundo turno

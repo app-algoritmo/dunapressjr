@@ -1,11 +1,12 @@
 ---
-title: "HAARP desencadeará 'cataclismos bíblicos' para inaugurar uma 'nova ordem mundial'"
+title: HAARP desencadeará 'cataclismos bíblicos' para inaugurar uma 'nova ordem mundial'
 date: 2023-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A instalação de pesquisa HAARP é usada pela elite globalista para controlar o clima mundial, acelerar as mudanças climáticas e prejudicar os inimigos. 
 

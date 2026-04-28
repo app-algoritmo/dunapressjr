@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que classifica açaí como fruta nacional"
+title: Comissão aprova projeto que classifica açaí como fruta nacional
 date: 2022-11-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Cultura da Câmara dos Deputados aprovou o [ Projeto de Lei 966/21](https://www.camara.leg.br/noticias/760679-projeto-altera-legislacao-para-classificar-acai-como-fruta-nacional), que classifica o açaí como fruta nacional. O texto altera a [Lei 11.675/08](https://www2.camara.gov.br/legin/fed/lei/2008/lei-11675-19-maio-2008-575380-norma-pl.html), que designou o cupuaçu como fruta nacional.
 

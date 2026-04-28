@@ -1,11 +1,13 @@
 ---
-title: "Sobrinho do sobrevivente descobre o destino dos judeus poloneses que fugiram para a URSS"
+title: Sobrinho do sobrevivente descobre o destino dos judeus poloneses que fugiram
+  para a URSS
 date: 2021-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Quando meu tio Herman Likwornik fugiu do leste da Polônia para o interior soviético em junho de 1941, o médico judeu de 38 anos se debateu se deveria ou não trazer sua esposa Lonia com ele. Os soviéticos, sob ataque dos alemães, estavam evacuando o território polonês que ocupavam desde 1939 e levando consigo poloneses com formação médica. No caos da evacuação repentina, Likwornik decidiu primeiro determinar por conta própria como eram as condições no interior soviético.
 

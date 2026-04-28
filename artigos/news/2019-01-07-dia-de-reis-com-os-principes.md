@@ -1,11 +1,12 @@
 ---
-title: "Dia de Reis com os Príncipes"
+title: Dia de Reis com os Príncipes
 date: 2019-01-07
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 [gallery ids="10027,10028,10032,10029,10030,10033" type="rectangular" orderby="rand"]
 

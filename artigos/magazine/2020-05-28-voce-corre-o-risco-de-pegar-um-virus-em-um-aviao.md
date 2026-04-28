@@ -1,11 +1,12 @@
 ---
-title: "Você corre o risco de pegar um vírus em um avião?"
+title: Você corre o risco de pegar um vírus em um avião?
 date: 2020-05-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Justo ou não, os aviões têm reputação de germes. No entanto, existem maneiras de minimizar os riscos. Esta pesquisa é usada especialmente para viagens aéreas, onde há um risco aumentado de infecção ou doença contagiosa, como o recente surto mundial de coronavírus, que causa a doença de COVID-19.
 

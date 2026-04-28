@@ -1,11 +1,12 @@
 ---
-title: "Ford Mustangs ocupam pontos turísticos curitibanos em ação social"
+title: Ford Mustangs ocupam pontos turísticos curitibanos em ação social
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Prestes a completar 330 anos, Curitiba foi o tema do calendário 2023 produzido pelo Mustang Clube do Paraná, clube de colecionadores de automóveis. O evento ocorreu no último dia 12, na concessionária Ford Slaviero, e contou com a presença do vice-prefeito de Curitiba, Eduardo Pimentel.
 

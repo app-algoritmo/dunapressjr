@@ -1,11 +1,12 @@
 ---
-title: "A crise do Adrenocromo"
+title: A crise do Adrenocromo
 date: 2023-01-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os governos ocidentais querem que seus cidadãos acreditem que Volodymyr Zelensky precisa de financiamento estrangeiro – dinheiro e armas – para derrotar ou desmoralizar as forças russas ou enervá-las a ponto de desobedecer às ordens de Vladimir Putin e fugir para sempre do solo ucraniano. 
 

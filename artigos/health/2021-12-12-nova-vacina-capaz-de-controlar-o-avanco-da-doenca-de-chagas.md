@@ -1,11 +1,12 @@
 ---
-title: "Nova vacina capaz de controlar o avanço da doença de Chagas"
+title: Nova vacina capaz de controlar o avanço da doença de Chagas
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O Mal de Chagas afeta cerca de 12 milhões de pessoas no mundo. No Brasil, pelo menos três milhões de pessoas sofrem com a doença, segundo o Ministério da Saúde.  A doença foi descoberta por Carlos Chagas (1879-1934) médico, pesquisador e sanitarista brasileiro que em 1909 descobriu o parasita causador da doença e dando-lhe o nome de *Trypanosoma cruzi*, em homenagem a Oswaldo Cruz, importante médico epidemiologista brasileiro. Hoje a doença leva o nome de seu descobridor. O inseto triatomíneo, popularmente conhecido como barbeiro ou chupão, é responsável por transmitir o [parasita](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/223-nova-vacina-capaz-de-controlar-o-avanco-da-doenca-de-chagas#)aos [hospedeiros](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/223-nova-vacina-capaz-de-controlar-o-avanco-da-doenca-de-chagas#), dentre eles o homem.
 

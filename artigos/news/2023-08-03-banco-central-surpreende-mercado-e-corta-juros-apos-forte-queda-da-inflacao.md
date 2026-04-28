@@ -1,11 +1,12 @@
 ---
-title: "Banco Central surpreende mercado e corta juros após forte queda da inflação"
+title: Banco Central surpreende mercado e corta juros após forte queda da inflação
 date: 2023-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão por votos apertados inicia ciclo de redução da taxa Selic para impulsionar a economia, enquanto autoridades preveem cortes adicionais nas próximas reuniões. 
 

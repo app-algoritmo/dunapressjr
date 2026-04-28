@@ -1,11 +1,12 @@
 ---
-title: "Caixa credita mais de R$ 13 bilhões em lucros do FGTS"
+title: Caixa credita mais de R$ 13 bilhões em lucros do FGTS
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Com isso, as contas de FGTS contempladas renderam 5,83% ao ano.
 

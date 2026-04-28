@@ -1,11 +1,12 @@
 ---
-title: "Serão cedidos cinco terminais pesqueiros à iniciativa privada em 2021"
+title: Serão cedidos cinco terminais pesqueiros à iniciativa privada em 2021
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As estruturas foram qualificadas pelo PPI. O Mapa irá elaborar os procedimentos licitatórios para viabilizar a concessão das estruturas.
 

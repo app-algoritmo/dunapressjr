@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa diz que em abril 14,4% das indústrias paralisaram atividades"
+title: Pesquisa diz que em abril 14,4% das indústrias paralisaram atividades
 date: 2020-05-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Queda nas indústrias de veículos automotores chegou a 59,5%
 

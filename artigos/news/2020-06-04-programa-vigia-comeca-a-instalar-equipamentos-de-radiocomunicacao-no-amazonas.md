@@ -1,11 +1,12 @@
 ---
-title: "Programa VIGIA começa a instalar equipamentos de radiocomunicação no Amazonas"
+title: Programa VIGIA começa a instalar equipamentos de radiocomunicação no Amazonas
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria de Operações Integradas (SEOPI), iniciou, nesta terça-feira (02), a instalação de equipamentos de radiocomunicação em sete cidades do Amazonas - Iranduba, Parintins, Coari, Tabatinga, São Gabriel da Cachoeira, Santo Antônio do Içá e Tefé. Com um investimento de R$ 13 milhões, o novo sistema de comunicação proporcionará uma melhor dinâmica e agilidade para os agentes de segurança que atuam na região no âmbito da Operação Hórus, impedindo assim a entrada de armas, munições e drogas no Brasil.
 

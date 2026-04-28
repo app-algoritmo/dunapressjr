@@ -1,11 +1,13 @@
 ---
-title: "Em nota à imprensa, o Ministério da Fazenda afirma que não será criada uma nova taxa para compras online"
+title: Em nota à imprensa, o Ministério da Fazenda afirma que não será criada uma
+  nova taxa para compras online
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O benefício se aplica somente para envio de pessoa física para pessoa física.
 

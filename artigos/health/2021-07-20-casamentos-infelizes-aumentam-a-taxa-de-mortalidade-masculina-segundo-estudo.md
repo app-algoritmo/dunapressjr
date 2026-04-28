@@ -1,11 +1,12 @@
 ---
-title: "Casamentos infelizes aumentam a taxa de mortalidade masculina segundo estudo"
+title: Casamentos infelizes aumentam a taxa de mortalidade masculina segundo estudo
 date: 2021-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## A tristeza no casamento é um fator de risco, assim como o fumo, dizem pesquisadores de Tel Aviv.
 

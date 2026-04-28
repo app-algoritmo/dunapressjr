@@ -1,11 +1,12 @@
 ---
-title: "R$ 6.211.974,04 liberados para o carnaval, via Lei Rouanet"
+title: R$ 6.211.974,04 liberados para o carnaval, via Lei Rouanet
 date: 2023-01-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 230119 - CARNAVAL 2023 - ROSAS DE OURO
 

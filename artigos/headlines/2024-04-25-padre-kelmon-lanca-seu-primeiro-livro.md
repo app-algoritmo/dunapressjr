@@ -1,11 +1,12 @@
 ---
-title: "Padre Kelmon lança seu primeiro livro"
+title: Padre Kelmon lança seu primeiro livro
 date: 2024-04-25
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 Dia 26 de abril, sexta-feira, às 19h, na Livraria Drummond do Conjunto Nacional, na Av. Paulista, o ex-candidato à presidência da república e monsenhor da Igreja Ortodoxa, Padre Kelmon, lança o o livro “Fé e Política de mãos dadas” (Editora DDM).
 

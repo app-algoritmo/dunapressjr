@@ -1,11 +1,12 @@
 ---
-title: "Reunião Café com Bolinhos na Cafeteria Imperial - Shopping Paço do Ouvidor"
+title: Reunião Café com Bolinhos na Cafeteria Imperial - Shopping Paço do Ouvidor
 date: 2018-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Luís Alves de Lima e Silva, o Duque de Caxias, o Duque de Ferro ou o Pacificador, militar e monarquista brasileiro, foi escolhido para ser patrono do Exército do Brasil. Na data de seu nascimento, 25 de agosto, ocorrem muitas celebrações em várias cidades do Brasil cujo objetivo é trazer à memória toda atuação e trabalho realizados pelo Duque.
 

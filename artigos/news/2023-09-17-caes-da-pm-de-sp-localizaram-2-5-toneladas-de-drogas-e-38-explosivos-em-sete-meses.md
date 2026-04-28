@@ -1,11 +1,13 @@
 ---
-title: "Cães da PM de SP localizaram 2, 5 toneladas de drogas e 38 explosivos em sete meses"
+title: Cães da PM de SP localizaram 2, 5 toneladas de drogas e 38 explosivos em sete
+  meses
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Na sexta-feira (15), Canil da PM completou 73 anos de salvamentos improváveis, apreensões e combate ao crime.
 

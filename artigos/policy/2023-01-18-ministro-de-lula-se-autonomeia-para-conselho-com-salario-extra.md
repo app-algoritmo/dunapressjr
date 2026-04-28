@@ -1,11 +1,12 @@
 ---
-title: "Ministro de Lula se autonomeia para conselho com salário extra"
+title: Ministro de Lula se autonomeia para conselho com salário extra
 date: 2023-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Carlos Lupi vai integrar assembleia fiscal do Sesc.
 

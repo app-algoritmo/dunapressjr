@@ -1,11 +1,12 @@
 ---
-title: "Luisa Stefani anuncia parceira para primeiros torneios da nova temporada"
+title: Luisa Stefani anuncia parceira para primeiros torneios da nova temporada
 date: 2022-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 47 do mundo, definiu, nesta quinta-feira (15), sua parceira para os primeiros torneios na temporada de 2023. A tenista jogará o WTA 500 de Adelaide, a partir de 9 de janeiro, e o Australian Open, em Melbourne, com início no dia 16, ao lado da norte-americana Caty McNally, atual 21ª do mundo, dona de dois títulos WTA em 2022 e finalista do US Open. Antes, a paulistana disputará a United Cup, defendendo o Brasil em nova competição mista por equipes que começa no dia 29 de dezembro.
 

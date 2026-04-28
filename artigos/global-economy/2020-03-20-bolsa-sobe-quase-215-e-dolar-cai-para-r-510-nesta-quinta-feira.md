@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe quase 2,15%, e dólar cai para R$ 5,10 nesta quinta-feira"
+title: Bolsa sobe quase 2,15%, e dólar cai para R$ 5,10 nesta quinta-feira
 date: 2020-03-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda teve maior queda diária em quase um ano e meio
 

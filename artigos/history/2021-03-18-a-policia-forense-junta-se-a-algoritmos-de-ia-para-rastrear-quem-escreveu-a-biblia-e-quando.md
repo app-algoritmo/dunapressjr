@@ -1,11 +1,13 @@
 ---
-title: "A polícia forense junta-se a algoritmos de IA para rastrear quem escreveu a Bíblia e quando"
+title: A polícia forense junta-se a algoritmos de IA para rastrear quem escreveu a
+  Bíblia e quando
 date: 2021-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A análise forense policial antiquada encontrou algoritmos de computador de alta tecnologia em um novo estudo de cacos de cerâmica de 2.500 anos, no qual pesquisadores da Universidade de Tel Aviv concluem que a alfabetização era generalizada o suficiente para que o incipiente People of the Book tivesse escrito partes do Bíblia no século 7 aC.
 

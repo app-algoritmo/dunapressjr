@@ -1,11 +1,12 @@
 ---
-title: "China intensifica apoio ao setor de serviços domésticos"
+title: China intensifica apoio ao setor de serviços domésticos
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China lançou medidas para reforçar sua indústria de serviços domésticos, em resposta às demandas de sua população envelhecida, informou o Ministério do Comércio nesta segunda-feira.
 

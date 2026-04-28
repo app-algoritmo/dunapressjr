@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate fraudes contra o Programa de Integração Social – PIS"
+title: Polícia Federal combate fraudes contra o Programa de Integração Social – PIS
 date: 2023-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foi cumprido um mandado de busca e apreensão em Mansidão/BA.
 

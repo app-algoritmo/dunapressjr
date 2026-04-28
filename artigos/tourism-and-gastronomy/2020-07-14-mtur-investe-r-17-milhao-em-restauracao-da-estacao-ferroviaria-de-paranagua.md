@@ -1,11 +1,12 @@
 ---
-title: "MTur investe R$ 1,7 milhão em restauração da Estação Ferroviária de Paranaguá"
+title: MTur investe R$ 1,7 milhão em restauração da Estação Ferroviária de Paranaguá
 date: 2020-07-14
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Obra de revitalização irá beneficiar pessoas com dificuldades de locomoção, além de dar maior comodidade a quem visita o local.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudo da SPE/ME aponta investimento como principal motor da retomada econômica no país"
+title: Estudo da SPE/ME aponta investimento como principal motor da retomada econômica
+  no país
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O documento da Secretaria de Política Econômica, do Ministério da Economia, publicado nesta terça-feira (27), destaca ainda o impacto das reformas microeconômicas.
 

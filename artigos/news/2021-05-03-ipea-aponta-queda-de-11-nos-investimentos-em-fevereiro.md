@@ -1,11 +1,12 @@
 ---
-title: "Ipea aponta queda de 1,1% nos investimentos em fevereiro"
+title: Ipea aponta queda de 1,1% nos investimentos em fevereiro
 date: 2021-05-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Consumo aparente de máquinas e equipamentos caiu 2,9%
 

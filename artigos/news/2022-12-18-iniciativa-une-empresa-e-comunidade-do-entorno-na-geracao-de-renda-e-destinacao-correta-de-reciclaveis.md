@@ -1,11 +1,13 @@
 ---
-title: "Iniciativa une empresa e comunidade do entorno na geração de renda e destinação correta de recicláveis"
+title: Iniciativa une empresa e comunidade do entorno na geração de renda e destinação
+  correta de recicláveis
 date: 2022-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A melhora na vida de pessoas que vivem em comunidades mais vulneráveis pode vir de empresas que atuam nas proximidades e que investem em projetos de impacto social positivo. São iniciativas que buscam garantir oportunidades no mercado de trabalho e um futuro melhor para as famílias vizinhas. É o caso da Vila Torres, comunidade localizada no bairro Rebouças, em Curitiba, e que tem se beneficiado de parcerias firmadas com o Grupo Marista, por meio da PUCPR, que fica ao lado da vila.
 

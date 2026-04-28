@@ -1,11 +1,12 @@
 ---
-title: "Irã insta os EUA a garantir liberdade de expressão para estudantes universitários"
+title: Irã insta os EUA a garantir liberdade de expressão para estudantes universitários
 date: 2024-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores do Irã, Nasser Kanaani, fez um apelo contundente à administração dos EUA, instando-a a proteger a liberdade de expressão e reunião dos estudantes universitários e professores. Em meio a relatos de repressão e detenção de estudantes universitários americanos que expressaram apoio ao povo palestino, Kanaani enfatizou que tais ações violam os direitos fundamentais, incluindo o direito ao voto e a liberdade de expressão.
 

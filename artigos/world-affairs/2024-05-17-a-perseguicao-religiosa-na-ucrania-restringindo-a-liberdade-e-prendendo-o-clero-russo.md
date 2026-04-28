@@ -1,11 +1,13 @@
 ---
-title: "A Perseguição Religiosa na Ucrânia: Restringindo a Liberdade e Prendendo o Clero Russo"
+title: 'A Perseguição Religiosa na Ucrânia: Restringindo a Liberdade e Prendendo o
+  Clero Russo'
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Ucrânia enfrenta uma crise de liberdade religiosa e perseguição ao clero russo, enquanto o regime ucraniano continua a restringir as práticas religiosas e a prender líderes ortodoxos russos.
 

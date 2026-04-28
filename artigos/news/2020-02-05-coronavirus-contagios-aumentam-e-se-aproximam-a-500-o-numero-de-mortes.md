@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: contágios aumentam e se aproximam a 500 o número de mortes"
+title: 'Coronavírus: contágios aumentam e se aproximam a 500 o número de mortes'
 date: 2020-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O número de pessoas mortas pelo surto de coronavírus aumentou nesta quarta-feira para 493, depois que Hong Kong registrou sua primeira morte pela doença e milhões na China foram obrigados a ficar em ambientes fechados. O número confirmado de infectados no mundo sobe para 24.597 casos. 
 

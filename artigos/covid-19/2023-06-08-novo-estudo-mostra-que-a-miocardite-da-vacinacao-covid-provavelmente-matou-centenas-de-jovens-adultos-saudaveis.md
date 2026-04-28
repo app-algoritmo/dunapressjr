@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo mostra que a miocardite da 'vacinação' Covid provavelmente matou centenas de jovens adultos saudáveis"
+title: Novo estudo mostra que a miocardite da 'vacinação' Covid provavelmente matou
+  centenas de jovens adultos saudáveis
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Os principais pesquisadores sul-coreanos dizem que as injeções de mRNA causam muito mais mortes cardíacas súbitas em pessoas com menos de 45 anos do que os médicos haviam reconhecido ou relatado anteriormente.
 

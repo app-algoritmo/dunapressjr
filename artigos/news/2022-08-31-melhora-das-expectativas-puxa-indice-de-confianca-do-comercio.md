@@ -1,11 +1,12 @@
 ---
-title: "Melhora das expectativas puxa Índice de Confiança do Comércio"
+title: Melhora das expectativas puxa Índice de Confiança do Comércio
 date: 2022-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa da FGV ouviu 780 empresas.
 

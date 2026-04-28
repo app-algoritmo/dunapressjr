@@ -1,11 +1,12 @@
 ---
-title: "PF desarticula associação criminosa de tráfico de entorpecentes"
+title: PF desarticula associação criminosa de tráfico de entorpecentes
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO - A Polícia Federal deflagrou nesta quinta-feira (4/6) a Operação Breaking, visando desarticular associação criminosa envolvida em tráfico de drogas nos Estados de Goiás e Tocantins.
 

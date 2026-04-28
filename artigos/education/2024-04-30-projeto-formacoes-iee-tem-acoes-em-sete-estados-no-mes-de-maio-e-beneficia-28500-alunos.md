@@ -1,12 +1,14 @@
 ---
-title: "Projeto Formações IEE tem ações em sete estados no mês de maio e beneficia 28.500 alunos"
+title: Projeto Formações IEE tem ações em sete estados no mês de maio e beneficia
+  28.500 alunos
 date: 2024-04-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Um total de 405 professores, gestores, coordenadores e diretores de oito cidades participará dos diferentes módulos, com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "CGU e Polícia Federal investigam irregularidades na Prefeitura de Palmas (TO)"
+title: CGU e Polícia Federal investigam irregularidades na Prefeitura de Palmas (TO)
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Carta Marcada apura superfaturamento e contratação indevida de empresa especializada em aluguel de veículos. Montante analisado é de R$ 20,7 milhões.
 

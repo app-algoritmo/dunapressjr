@@ -1,11 +1,13 @@
 ---
-title: "Morte por gripe suína no Brasil leva CDC e OMS a investigar possível transmissão humana"
+title: Morte por gripe suína no Brasil leva CDC e OMS a investigar possível transmissão
+  humana
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A morte de uma mulher no Brasil devido a um caso raro de gripe suína levou a *Organização Mundial da Saúde* (OMS) e os *Centros de Controle e Prevenção de Doenças* (CDC) *dos Estados Unidos *[a investigar a possível transmissão humana](https://www.dailymail.co.uk/health/article-12219031/Brazilian-woman-dies-SWINE-FLU-case-decades-sparks-terror-CDC-investigation.html) do patógeno.**[](https://www.dailymail.co.uk/health/article-12219031/Brazilian-woman-dies-SWINE-FLU-case-decades-sparks-terror-CDC-investigation.html)
 

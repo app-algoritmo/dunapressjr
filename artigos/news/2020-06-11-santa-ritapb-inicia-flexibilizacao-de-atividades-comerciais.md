@@ -1,11 +1,12 @@
 ---
-title: "Santa Rita/PB inicia flexibilização de atividades comerciais"
+title: Santa Rita/PB inicia flexibilização de atividades comerciais
 date: 2020-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O anuncio foi feito pelo Prefeito Emerson Panta através das redes sociais.
 

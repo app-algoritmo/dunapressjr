@@ -1,11 +1,12 @@
 ---
-title: "Rio de Janeiro reduz para 18% alíquota do ICMS sobre combustíveis"
+title: Rio de Janeiro reduz para 18% alíquota do ICMS sobre combustíveis
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Procon fará operação para fiscalizar queda de preço nos postos.
 

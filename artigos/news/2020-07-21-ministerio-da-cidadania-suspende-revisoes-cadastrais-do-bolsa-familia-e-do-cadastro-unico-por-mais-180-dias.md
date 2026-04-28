@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Cidadania suspende revisões cadastrais do Bolsa Família e do Cadastro Único por mais 180 dias"
+title: Ministério da Cidadania suspende revisões cadastrais do Bolsa Família e do
+  Cadastro Único por mais 180 dias
 date: 2020-07-21
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é evitar a aglomeração de pessoas e a exposição dos beneficiários e dos trabalhadores das unidades de cadastramento ao novo coronavírus.
 

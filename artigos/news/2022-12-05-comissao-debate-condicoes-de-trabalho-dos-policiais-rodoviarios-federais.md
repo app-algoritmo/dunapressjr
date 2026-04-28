@@ -1,11 +1,12 @@
 ---
-title: "Comissão debate condições de trabalho dos policiais rodoviários federais"
+title: Comissão debate condições de trabalho dos policiais rodoviários federais
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados debate nesta segunda-feira (5) "as condições precárias de trabalho na Polícia Rodoviária Federal (PRF) e o risco que isso representa para os motoristas que transitam pelas rodovias federais".
 

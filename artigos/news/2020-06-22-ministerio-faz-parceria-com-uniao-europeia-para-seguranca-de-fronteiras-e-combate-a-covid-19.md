@@ -1,11 +1,13 @@
 ---
-title: "Ministério faz parceria com União Europeia para segurança de fronteiras e combate a Covid-19"
+title: Ministério faz parceria com União Europeia para segurança de fronteiras e combate
+  a Covid-19
 date: 2020-06-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria do Ministério da Justiça e Segurança Pública (MJSP) com organismos internacionais reforçará a segurança nas fronteiras, o combate ao Covid-19 e o enfrentamento ao crime de tráfico de pessoas. Denominado EUROFRONT, o novo programa de Gestão Integrada de Fronteiras na América Latina, patrocinado pela União Europeia, doou, nesta quinta-feira (18), 80 termômetros infravermelhos e 2.160 máscaras N-95 para a Polícia Federal, vinculada ao MJSP, e para Prefeitura de Foz do Iguaçu (PR).
 

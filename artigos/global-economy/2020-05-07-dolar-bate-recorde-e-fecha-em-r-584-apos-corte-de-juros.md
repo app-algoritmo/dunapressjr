@@ -1,11 +1,12 @@
 ---
-title: "Dólar bate recorde e fecha em R$ 5,84 após corte de juros"
+title: Dólar bate recorde e fecha em R$ 5,84 após corte de juros
 date: 2020-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Indicação de novas reduções na Selic pressiona cotação
 O [corte maior que o esperado ](https://dunapress.org/2020/05/07/copom-reduz-selic-para-3-ao-ano-para-conter-impacto-de-pandemia/)e a indicação de novas reduções na taxa Selic (juros básicos da economia) pelo Banco Central (BC) provocaram uma fuga de recursos do país que pressionou o câmbio e fez o dólar bater mais um recorde. O dólar comercial encerrou esta quinta-feira (7) vendido a R$ 5,84, com alta de R$ 0,136 (+2,39%). Esse é o maior valor nominal (sem considerar a inflação) desde a criação do real.

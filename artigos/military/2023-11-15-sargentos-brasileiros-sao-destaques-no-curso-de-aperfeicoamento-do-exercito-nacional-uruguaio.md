@@ -1,11 +1,13 @@
 ---
-title: "Sargentos brasileiros são destaques no Curso de Aperfeiçoamento do Exército Nacional Uruguaio"
+title: Sargentos brasileiros são destaques no Curso de Aperfeiçoamento do Exército
+  Nacional Uruguaio
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Sargentos brasileiros são destaques no Curso Avanzado de Suboficiales (CASO), realizado na Escuela de Capacitación y Perfeccionamento de Personal Subalterno de las Armas del Ejército (E.C.P.P.Sub.A.E.), Instituição de ensino do Exército Nacional Uruguaio (ENU). A diplomação dos concludentes ocorreu no dia 10 de novembro de 2023.
 

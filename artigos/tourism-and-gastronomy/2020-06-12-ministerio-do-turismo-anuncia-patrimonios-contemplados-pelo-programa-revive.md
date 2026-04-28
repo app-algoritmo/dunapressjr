@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo anuncia patrimônios contemplados pelo Programa Revive"
+title: Ministério do Turismo anuncia patrimônios contemplados pelo Programa Revive
 date: 2020-06-12
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## A definição ocorreu na quarta-feira 10 durante reunião do Programa de Parcerias de Investimentos (PPI).
 

@@ -1,11 +1,12 @@
 ---
-title: "WEF & King Charles: Todo o sistema global falhou"
+title: 'WEF & King Charles: Todo o sistema global falhou'
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Quando se trata do Fórum Econômico Mundial e do grande RESET, uma das figuras mais proeminentes permanece no escuro - o rei Charles. 
 

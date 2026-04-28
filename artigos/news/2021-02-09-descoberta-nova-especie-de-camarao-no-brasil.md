@@ -1,11 +1,12 @@
 ---
-title: "Descoberta nova espécie de camarão no Brasil"
+title: Descoberta nova espécie de camarão no Brasil
 date: 2021-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um grupo de pesquisadores da Universidade Federal de Pernambuco (UFPE), em parceria com cientistas da Universidade Federal do Rio Grande do Sul (UFRGS), encontrou uma nova espécie de camarão nos corais de praias do litoral de Pernambuco. Com a participação de bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES),  a descoberta foi publicada na revista científica *Journal of Crustacean* *Biology*, da Universidade de Oxford, no Reino Unido.
 

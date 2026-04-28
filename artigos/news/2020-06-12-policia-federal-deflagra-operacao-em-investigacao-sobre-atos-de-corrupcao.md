@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra operação em investigação sobre atos de corrupção"
+title: Polícia Federal deflagra operação em investigação sobre atos de corrupção
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP - A Polícia Federal deflagrou, na manhã de hoje (12/6), a Operação “PROBITAS” visando combater crimes de corrupção. A ação, que contou com a participação da Receita Federal do Brasil, apura possíveis atos ilegais praticados por servidor público federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caixa anuncia redução de juros e pausa em contratos de crédito"
+title: Caixa anuncia redução de juros e pausa em contratos de crédito
 date: 2020-03-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Banco também divulgou a ampliação das linhas do crédito consignado
 

@@ -1,11 +1,12 @@
 ---
-title: "10 mitos contados por 'especialistas em COVID' e agora desmascarados"
+title: 10 mitos contados por 'especialistas em COVID' e agora desmascarados
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Nas últimas semanas, uma série de análises publicadas por pesquisadores respeitados revelou uma verdade sobre as autoridades de saúde pública durante o COVID:
 

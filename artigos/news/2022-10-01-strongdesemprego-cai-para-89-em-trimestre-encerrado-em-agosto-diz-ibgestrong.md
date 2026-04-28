@@ -1,11 +1,12 @@
 ---
-title: "<strong>Desemprego cai para 8,9% em trimestre encerrado em agosto, diz IBGE</strong>"
+title: <strong>Desemprego cai para 8,9% em trimestre encerrado em agosto, diz IBGE</strong>
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número de trabalhadores desocupados atingiu 9,7 milhões.
 

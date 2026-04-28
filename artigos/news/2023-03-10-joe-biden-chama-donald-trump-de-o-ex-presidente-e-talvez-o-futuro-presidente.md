@@ -1,11 +1,12 @@
 ---
-title: "Joe Biden chama Donald Trump de “o ex-presidente e talvez o futuro presidente”"
+title: Joe Biden chama Donald Trump de “o ex-presidente e talvez o futuro presidente”
 date: 2023-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Joe Biden falou na Filadélfia hoje sobre seus planos de promulgar seu plano de decretar um aumento de impostos [de $ 5,5 trilhões](https://www.nationalreview.com/corner/bidens-budget-includes-5-5-trillion-in-tax-hikes/) para as famílias trabalhadoras.
 

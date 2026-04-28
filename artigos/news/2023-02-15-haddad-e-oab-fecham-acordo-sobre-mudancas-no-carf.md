@@ -1,11 +1,12 @@
 ---
-title: "Haddad e OAB fecham acordo sobre mudanças no Carf"
+title: Haddad e OAB fecham acordo sobre mudanças no Carf
 date: 2023-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contribuinte derrotado por voto de qualidade terá isenção de multa.
 

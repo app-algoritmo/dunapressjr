@@ -1,11 +1,12 @@
 ---
-title: "Zelensky deixou os EUA com um gosto amargo na boca"
+title: Zelensky deixou os EUA com um gosto amargo na boca
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A pressão aliada está lentamente a prestar o seu “tributo a Volodymyr Zelensky”.
 

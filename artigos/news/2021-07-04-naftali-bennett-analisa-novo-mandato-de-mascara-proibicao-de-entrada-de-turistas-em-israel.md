@@ -1,11 +1,13 @@
 ---
-title: "Naftali Bennett analisa novo mandato de máscara, proibição de entrada de turistas em Israel"
+title: Naftali Bennett analisa novo mandato de máscara, proibição de entrada de turistas
+  em Israel
 date: 2021-07-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O primeiro-ministro Bennett convoca reunião para avaliar possíveis novas restrições destinadas a combater novas variantes do coronavírus.
 

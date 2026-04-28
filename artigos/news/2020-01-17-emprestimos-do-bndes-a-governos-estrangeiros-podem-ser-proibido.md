@@ -1,11 +1,12 @@
 ---
-title: "Empréstimos do BNDES a governos estrangeiros podem ser proibido"
+title: Empréstimos do BNDES a governos estrangeiros podem ser proibido
 date: 2020-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Banco Nacional de Desenvolvimento Econômico e Social
 (BNDES) não poderá financiar projetos de governos estrangeiros ou investir em

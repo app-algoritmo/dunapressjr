@@ -1,11 +1,12 @@
 ---
-title: "Comprovantes para Imposto de Renda devem ser enviados até sexta-feira"
+title: Comprovantes para Imposto de Renda devem ser enviados até sexta-feira
 date: 2020-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Informes são necessários para preencher declaração
 

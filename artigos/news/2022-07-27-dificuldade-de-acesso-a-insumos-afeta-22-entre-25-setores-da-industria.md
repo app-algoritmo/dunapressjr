@@ -1,11 +1,12 @@
 ---
-title: "Dificuldade de acesso a insumos afeta 22 entre 25 setores da indústria"
+title: Dificuldade de acesso a insumos afeta 22 entre 25 setores da indústria
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para CNI, lockdowns na China e guerra na Ucrânia agravam problema.
 

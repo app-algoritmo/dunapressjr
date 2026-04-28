@@ -1,11 +1,12 @@
 ---
-title: "Surpresa em Bruxelas por anúncio de acordo comercial rápido entre UE e EUA"
+title: Surpresa em Bruxelas por anúncio de acordo comercial rápido entre UE e EUA
 date: 2020-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 As reações de surpresa predominavam nesta quinta-feira em
 Bruxelas, após o anúncio feito na véspera, em Davos, pela presidente da

@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que cria a Política Nacional de Educação Digital"
+title: Câmara aprova projeto que cria a Política Nacional de Educação Digital
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (21) texto do Senado para o projeto de lei que institui a Política Nacional de Educação Digital para promover a inclusão, a capacitação e a especialização, a pesquisa e a educação escolar digitais. A proposta será enviada à sanção presidencial.
 

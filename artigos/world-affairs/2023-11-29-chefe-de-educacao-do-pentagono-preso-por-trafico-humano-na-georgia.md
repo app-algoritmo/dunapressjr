@@ -1,11 +1,12 @@
 ---
-title: "Chefe de educação do Pentágono preso por tráfico humano na Geórgia"
+title: Chefe de educação do Pentágono preso por tráfico humano na Geórgia
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O chefe da divisão de educação do *Departamento de Defesa* (DoD) [foi preso](https://yournews.com/2023/11/22/2694651/bidens-pentagon-education-head-arrested-in-human-trafficking-sting/) , juntamente com vários outros, numa operação de tráfico de seres humanos na Geórgia.
 

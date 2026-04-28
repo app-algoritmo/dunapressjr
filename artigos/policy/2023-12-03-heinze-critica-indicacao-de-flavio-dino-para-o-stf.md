@@ -1,11 +1,12 @@
 ---
-title: "Heinze critica indicação de Flávio Dino para o STF"
+title: Heinze critica indicação de Flávio Dino para o STF
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento no Plenário nesta terça-feira (28), o senador Luis Carlos Heinze (PP-RS) declarou-se contrário à indicação do ministro da Justiça, Flávio Dino, para o Supremo Tribunal Federal (STF). O senador questionou a atuação de Dino durante os ataques contra as sedes dos Poderes no dia 8 de janeiro. O parlamentar também se manifestou contra o nome do procurador Paulo Gonet para a Procuradoria-Geral da República (PGR).
 

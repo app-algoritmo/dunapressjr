@@ -1,11 +1,12 @@
 ---
-title: "Especialista: É por isso que os pilotos não falam sobre os OVNIs que veem"
+title: 'Especialista: É por isso que os pilotos não falam sobre os OVNIs que veem'
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os pilotos correm o risco de serem demitidos por relatar avistamentos de OVNIs. Você é aconselhado a não falar abertamente sobre isso.
 

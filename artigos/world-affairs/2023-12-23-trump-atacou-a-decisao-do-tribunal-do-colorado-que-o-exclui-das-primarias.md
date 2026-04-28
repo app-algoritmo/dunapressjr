@@ -1,11 +1,12 @@
 ---
-title: "Trump atacou a decisão do Tribunal do Colorado que o exclui das primárias"
+title: Trump atacou a decisão do Tribunal do Colorado que o exclui das primárias
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos EUA, Donald Trump, considerou esta quarta-feira que é “uma vergonha” a decisão do Supremo Tribunal do Colorado que o excluiu das eleições do Partido Republicano naquele estado pelo seu papel no assalto ao Capitólio em 6 de janeiro. .
 

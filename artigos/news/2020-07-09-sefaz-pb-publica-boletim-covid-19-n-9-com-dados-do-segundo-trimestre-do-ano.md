@@ -1,11 +1,13 @@
 ---
-title: "Sefaz-PB publica ‘Boletim Covid-19’ nº 9 com dados do segundo trimestre do ano"
+title: Sefaz-PB publica ‘Boletim Covid-19’ nº 9 com dados do segundo trimestre do
+  ano
 date: 2020-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A arrecadação dos três impostos estaduais (ICMS, IPVA e ITCD) encerrou o mês de junho com decréscimo de 3,73% sobre igual período de 2019.
 

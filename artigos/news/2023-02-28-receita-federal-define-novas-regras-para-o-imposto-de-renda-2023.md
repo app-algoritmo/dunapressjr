@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal define novas regras para o imposto de renda 2023"
+title: Receita Federal define novas regras para o imposto de renda 2023
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de envio das declarações vai de 15 de março a 31 de maio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Economia diz que teto de gastos é 'retrátil"
+title: Ministro da Economia diz que teto de gastos é 'retrátil
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes fez palestra na Expert XP 2022, em São Paulo.
 

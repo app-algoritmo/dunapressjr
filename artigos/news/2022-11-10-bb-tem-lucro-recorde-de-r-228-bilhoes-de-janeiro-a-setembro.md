@@ -1,11 +1,12 @@
 ---
-title: "BB tem lucro recorde de R$ 22,8 bilhões de janeiro a setembro"
+title: BB tem lucro recorde de R$ 22,8 bilhões de janeiro a setembro
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco elevou para R$ 30,5 bi a R$ 32,5 bi projeção de ganhos em 2022.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comandos Conjuntos da Operação Verde Brasil 2 recebem visita do Vice-Presidente da República"
+title: Comandos Conjuntos da Operação Verde Brasil 2 recebem visita do Vice-Presidente
+  da República
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Vice-Presidente da República, Hamilton Mourão, visitou, entre o domingo (07) e esta segunda (08), os Comandos Conjuntos Barão de Melgaço, Príncipe da Beira e Marechal Soares de Andrea. São esses os Comandos Conjuntos que coordenam as ações da Operação Verde Brasil 2 na Amazônia Legal. Ele foi acompanhado do Chefe de Operações Conjuntas do Estado-Maior Conjunto das Forças Armadas do Ministério da Defesa, Almirante de Esquadra Petronio Augusto Siqueira de Aguiar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova prorrogação da entrega do IR da Pessoa Física"
+title: Senado aprova prorrogação da entrega do IR da Pessoa Física
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## -Projeto volta para nova análise da Câmara dos Deputados.
 

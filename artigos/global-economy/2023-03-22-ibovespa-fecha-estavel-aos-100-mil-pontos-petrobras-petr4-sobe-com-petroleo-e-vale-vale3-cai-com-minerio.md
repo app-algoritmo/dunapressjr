@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha estável aos 100 mil pontos; Petrobras (PETR4) sobe com petróleo e Vale (VALE3) caí com minério"
+title: Ibovespa fecha estável aos 100 mil pontos; Petrobras (PETR4) sobe com petróleo
+  e Vale (VALE3) caí com minério
 date: 2023-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Ibovespa encerrou o pregão desta terça-feira (21) em leve alta de 0,07%, aos 100.998,13 pontos, após oscilar entre 100.922,79 e 101.670,35 pontos. O volume financeiro do dia somou R$ 17,6 bilhões. 
 

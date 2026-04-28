@@ -1,11 +1,13 @@
 ---
-title: "Adesão pelo FNDE ao portal de cursos da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA)"
+title: Adesão pelo FNDE ao portal de cursos da Estratégia Nacional de Combate à Corrupção
+  e à Lavagem de Dinheiro (ENCCLA)
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Marcelo Ponte, assinou, nesta quarta-feira, 22 de junho, o Termo de Adesão que autoriza a divulgação de capacitações virtuais e gratuitas da autarquia no portal de cursos da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA). A plataforma é hospedada no site do Instituto Rui Barbosa (IRB) e disponibiliza cursos, treinamentos e capacitações para observadores públicos, conselheiros de políticas públicas e servidores da administração pública. 
 

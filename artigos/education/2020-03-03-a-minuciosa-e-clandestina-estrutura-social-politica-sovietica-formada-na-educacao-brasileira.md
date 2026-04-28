@@ -1,12 +1,14 @@
 ---
-title: "A minuciosa e clandestina estrutura social-política soviética formada na educação brasileira"
+title: A minuciosa e clandestina estrutura social-política soviética formada na educação
+  brasileira
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 ## O artigo científico "**Memórias de uma educação clandestina: comunistas brasileiros e escolas políticas na União Soviética na década de 1950**", realizado por **Éder da Silva Silveira** e **Cheron Zanini Moretti** para a Universidade de Santa Cruz do Sul, destaca uma minuciosa estrutura social e política formada para a dominação de poder no Brasil.
 

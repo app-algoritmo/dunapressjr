@@ -1,11 +1,12 @@
 ---
-title: "Campanha nacional de amamentação reforça importância da rede de apoio"
+title: Campanha nacional de amamentação reforça importância da rede de apoio
 date: 2019-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 ## Foco deste ano será familiares, profissionais de saúde e empresários
 

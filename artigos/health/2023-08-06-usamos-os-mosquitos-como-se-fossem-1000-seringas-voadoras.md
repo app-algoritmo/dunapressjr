@@ -1,11 +1,12 @@
 ---
-title: "Usamos os mosquitos como se fossem 1000 seringas voadoras"
+title: Usamos os mosquitos como se fossem 1000 seringas voadoras
 date: 2023-08-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Estudo financiado pelo NIH vacinou pessoas com mosquitos geneticamente modificados**
 

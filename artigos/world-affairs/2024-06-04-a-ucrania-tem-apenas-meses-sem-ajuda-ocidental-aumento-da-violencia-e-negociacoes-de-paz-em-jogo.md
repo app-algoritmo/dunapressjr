@@ -1,11 +1,13 @@
 ---
-title: "A Ucrânia Tem Apenas Meses Sem Ajuda Ocidental: Aumento da Violência e Negociações de Paz em Jogo"
+title: 'A Ucrânia Tem Apenas Meses Sem Ajuda Ocidental: Aumento da Violência e Negociações
+  de Paz em Jogo'
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Enquanto a Grã-Bretanha se concentra nas eleições, a Ucrânia enfrenta uma intensificação do conflito com a Rússia e uma possível diminuição do apoio ocidental.**
 

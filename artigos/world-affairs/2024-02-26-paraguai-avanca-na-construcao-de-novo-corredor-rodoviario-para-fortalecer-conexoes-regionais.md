@@ -1,11 +1,13 @@
 ---
-title: "Paraguai avança na construção de novo corredor rodoviário para fortalecer conexões regionais"
+title: Paraguai avança na construção de novo corredor rodoviário para fortalecer conexões
+  regionais
 date: 2024-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O vice-ministro de Obras Públicas, José Espinoza, revelou que o presidente Santiago Peña autorizou o início das obras necessárias para estabelecer um novo corredor rodoviário ligando Pedro Juan Caballero, na fronteira com o Brasil, à região de General Díaz, no Chaco paraguaio, fronteira com a Argentina.
 

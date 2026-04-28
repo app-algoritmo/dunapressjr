@@ -1,11 +1,12 @@
 ---
-title: "Empresas buscam formas de amparar colaboradores com covid longa e suas sequelas"
+title: Empresas buscam formas de amparar colaboradores com covid longa e suas sequelas
 date: 2021-08-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Fadiga, névoa cerebral e mal-estar pós esforço físico e mental estão entre os sintomas mais comuns que se mantêm após a doenç*a*.
 

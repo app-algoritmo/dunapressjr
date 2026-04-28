@@ -1,11 +1,12 @@
 ---
-title: "Como a Mídia Pode Destruir Reputações: O Caso de Enéas Carneiro"
+title: 'Como a Mídia Pode Destruir Reputações: O Caso de Enéas Carneiro'
 date: 2024-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A mídia tem um papel fundamental na formação de opiniões e na construção da imagem pública de indivíduos e instituições. No entanto, quando usada de maneira tendenciosa ou irresponsável, a mídia pode destruir reputações, manchando para sempre a trajetória de figuras públicas. Um exemplo notável disso no Brasil é o caso de Enéas Carneiro, um político carismático que, apesar de suas qualidades, teve sua imagem distorcida e sua reputação arruinada por uma cobertura midiática desfavorável.
 

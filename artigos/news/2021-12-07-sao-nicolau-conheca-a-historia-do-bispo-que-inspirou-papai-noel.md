@@ -1,11 +1,12 @@
 ---
-title: "São Nicolau: conheça a história do bispo que inspirou Papai Noel"
+title: 'São Nicolau: conheça a história do bispo que inspirou Papai Noel'
 date: 2021-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Sinterklaasfeest comemora o início das festas de fim de ano; tradição holandesa é celebrada no Brasil.
 

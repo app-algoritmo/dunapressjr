@@ -1,11 +1,13 @@
 ---
-title: "Municípios e Estados com recursos empenhados para aquisição de ônibus escolares devem atualizar documentação no Simec"
+title: Municípios e Estados com recursos empenhados para aquisição de ônibus escolares
+  devem atualizar documentação no Simec
 date: 2020-06-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Para receber os recursos do Plano de Ações Articuladas (PAR), incluindo os referentes aos ônibus escolares do programa Caminho da Escola, gestores das secretarias de educação dos estados, municípios e Distrito Federal devem atualizar a documentação no [Sistema Integrado de Monitoramento Execução e Controle (Simec)](http://simec.mec.gov.br/login.php). A inserção dos documentos requeridos na plataforma é condição para habilitação dos pagamentos.
 

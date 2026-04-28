@@ -1,12 +1,14 @@
 ---
-title: "Foo Fighters anuncia primeiro álbum desde a morte do baterista Taylor Hawkins e lança single 'Rescued'"
+title: Foo Fighters anuncia primeiro álbum desde a morte do baterista Taylor Hawkins
+  e lança single 'Rescued'
 date: 2023-04-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## O Foo Fighters lançará o primeiro álbum desde que o baterista de longa data Taylor Hawkins morreu ano passado, anunciou a gravadora do grupo.
 

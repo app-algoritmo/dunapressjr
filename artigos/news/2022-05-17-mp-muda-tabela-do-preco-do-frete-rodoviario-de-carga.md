@@ -1,11 +1,12 @@
 ---
-title: "MP muda tabela do preço do frete rodoviário de carga"
+title: MP muda tabela do preço do frete rodoviário de carga
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Tabela foi elaborada em 2018, após a greve dos caminhoneiros.
 

@@ -1,11 +1,13 @@
 ---
-title: "Parceria para promover ambientes de inovação na Rede Federal realizada pelo Mec"
+title: Parceria para promover ambientes de inovação na Rede Federal realizada pelo
+  Mec
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 As instituições de ensino da Rede Federal de Educação Profissional, Científica e Tecnológica terão mais incentivo para proporcionar, a seus estudantes e professores, ambientes ligados ao empreendedorismo e à inovação, como incubadoras de empresas, espaços maker ou coworking. Nessa quinta-feira (30), foi firmada uma parceria entre a Secretaria de Educação Profissional e Tecnológica (Setec) do Ministério da Educação (MEC) e a Associação Nacional de Entidades Promotoras de Empreendedorismo e Inovação (Anprotec), por intermédio do Instituto Federal do Espírito Santo, para o desenvolvimento desses espaços. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Edital de privatização da Codesa será publicado nesta sexta-feira (21)"
+title: Edital de privatização da Codesa será publicado nesta sexta-feira (21)
 date: 2022-01-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Leilão está previsto para ocorrer no dia 25 de março.
 

@@ -1,11 +1,13 @@
 ---
-title: "Na contramão do desemprego, startups e empresas de tecnologia abrem mais de 500 vagas de emprego e capacitação"
+title: Na contramão do desemprego, startups e empresas de tecnologia abrem mais de
+  500 vagas de emprego e capacitação
 date: 2021-10-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Salários chegam a R$ 12 mil e benefícios vão de plano de saúde e auxílio home office a licença paternidade de dois meses e cestas de alimentos orgânicos.
 

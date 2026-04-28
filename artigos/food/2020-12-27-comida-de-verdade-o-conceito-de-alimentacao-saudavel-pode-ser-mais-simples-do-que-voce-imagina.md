@@ -1,11 +1,13 @@
 ---
-title: "Comida de verdade: O conceito de alimentação saudável pode ser mais simples do que você imagina"
+title: 'Comida de verdade: O conceito de alimentação saudável pode ser mais simples
+  do que você imagina'
 date: 2020-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Já parou para pensar no conceito de alimentação saudável? Muita gente pode acabar associando o termo a alimentos “especiais”, mais caros, raros e pouco acessíveis. Mas a resposta para essa pergunta pode ser bem mais simples do que você imagina.
 

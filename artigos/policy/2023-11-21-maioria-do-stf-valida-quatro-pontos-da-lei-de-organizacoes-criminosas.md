@@ -1,11 +1,12 @@
 ---
-title: "Maioria do STF valida quatro pontos da Lei de Organizações Criminosas"
+title: Maioria do STF valida quatro pontos da Lei de Organizações Criminosas
 date: 2023-11-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Julgamento começou em 2020.
 

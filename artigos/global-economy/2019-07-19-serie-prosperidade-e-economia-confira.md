@@ -1,11 +1,12 @@
 ---
-title: "Série Prosperidade e Economia. Confira!"
+title: Série Prosperidade e Economia. Confira!
 date: 2019-07-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Leia em artigos publicados anteriormente dicas, sugestões e fatos que podem lhe ajudar a prosperar.
 

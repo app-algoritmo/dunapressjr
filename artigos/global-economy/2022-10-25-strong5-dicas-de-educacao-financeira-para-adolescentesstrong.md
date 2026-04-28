@@ -1,11 +1,12 @@
 ---
-title: "<strong>5 dicas de educação financeira para adolescentes</strong>"
+title: <strong>5 dicas de educação financeira para adolescentes</strong>
 date: 2022-10-25
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Por ainda depender dos pais, pode soar estranho conversar com adolescentes sobre educação financeira. Porém, o motivo principal é que ao aprenderam a como lidar com seu dinheiro, consequentemente, serão adultos muito mais conscientes com as suas finanças. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Hamilton se defende de lendas da Fórmula 1"
+title: Hamilton se defende de lendas da Fórmula 1
 date: 2020-10-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Hexacampeão respondeu críticos e desabafou dizendo não entender por que "lendas" da F1 o criticam o tempo todo.**
 

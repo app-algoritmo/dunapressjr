@@ -1,11 +1,12 @@
 ---
-title: "Educação norueguesa: a educação que o mundo inteiro gostaria de ter"
+title: 'Educação norueguesa: a educação que o mundo inteiro gostaria de ter'
 date: 2019-05-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A educação norueguesa é uma das melhores do mundo, por esta razão, vários países fazem questão de ter uma ou mais escolas norueguesas em seu território. A finalidade é dupla: que os noruegueses que ali vivem, seja temporaria ou permanentemente, continuem a estudar a partir de sua excelente grade e que outras crianças possam ter a oportunidade de ser educadas no modelo norueguês. 
 

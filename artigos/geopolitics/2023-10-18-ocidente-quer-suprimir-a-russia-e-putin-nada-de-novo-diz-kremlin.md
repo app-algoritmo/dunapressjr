@@ -1,11 +1,12 @@
 ---
-title: "Ocidente quer suprimir a Rússia e Putin, 'nada de novo', diz Kremlin"
+title: Ocidente quer suprimir a Rússia e Putin, 'nada de novo', diz Kremlin
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Dmitry Peskov enfatizou que até agora os líderes ocidentais não tiveram sucesso e não terão sucesso.
 

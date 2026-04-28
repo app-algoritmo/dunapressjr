@@ -1,11 +1,13 @@
 ---
-title: "Logística das Forças Armadas é usada para montagem de kits com mais de 1,5 milhão de itens de limpeza e higiene"
+title: Logística das Forças Armadas é usada para montagem de kits com mais de 1,5
+  milhão de itens de limpeza e higiene
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Diversas ações estaduais e municipais, no enfrentamento ao novo coronavírus, contam com a capacidade logística das Forças Armadas. Um dos exemplos é a montagem de 300 mil kits de limpeza e higiene em Jundiaí, São Paulo. Cada kit recebe cinco itens: água sanitária, sabão, sabonete, detergente e álcool em gel. Ou seja, são 1,5 milhão de produtos a serem organizados.
 

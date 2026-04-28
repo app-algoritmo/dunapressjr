@@ -1,11 +1,12 @@
 ---
-title: "10 dicas para o relacionamento do casal"
+title: 10 dicas para o relacionamento do casal
 date: 2023-01-22
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - News
+- News
 ---
+
 
 As 10 informações que os homens gostariam que as mulheres já soubessem no início de um relacionamento.
 

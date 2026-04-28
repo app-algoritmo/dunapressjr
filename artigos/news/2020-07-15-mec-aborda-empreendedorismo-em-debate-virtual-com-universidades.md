@@ -1,11 +1,12 @@
 ---
-title: "MEC aborda empreendedorismo em debate virtual com universidades"
+title: MEC aborda empreendedorismo em debate virtual com universidades
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O empreendedorismo é uma habilidade que deve ser estimulada na formação de estudantes e profissionais em um mundo cada vez mais moldado pelo uso intensivo das novas tecnologias. O assunto foi abordado em um debate realizado, virtualmente, na última segunda-feira (13), pela Secretaria de Educação Profissional e Tecnológica (Setec) do Ministério da Educação (MEC). O evento reuniu especialistas e teve um público formado, principalmente, por representantes da Rede Federal de Educação Profissional, Científica e Tecnológica. 
 

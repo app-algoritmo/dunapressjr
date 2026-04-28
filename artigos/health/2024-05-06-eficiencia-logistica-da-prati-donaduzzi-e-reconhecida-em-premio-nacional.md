@@ -1,11 +1,12 @@
 ---
-title: "Eficiência logística da Prati-Donaduzzi é reconhecida em prêmio nacional"
+title: Eficiência logística da Prati-Donaduzzi é reconhecida em prêmio nacional
 date: 2024-05-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Farmacêutica trabalha para diminuir ainda mais o tempo de entrega; atualmente a maioria já é feita em até 24 horas.
 

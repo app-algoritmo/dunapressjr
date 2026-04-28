@@ -1,11 +1,12 @@
 ---
-title: "Panorama catastrófico no sistema financeiro mundial"
+title: Panorama catastrófico no sistema financeiro mundial
 date: 2023-03-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O colapso bancário que começou no Vale do Silício agora se espalhou para a Europa, onde um dos gigantes, o Credit Suisse, está em risco. O Credit Suisse tem o dobro do tamanho do Silicon Valley Bank.
 

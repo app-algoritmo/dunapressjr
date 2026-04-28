@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro destinará R$ 160 milhões para ajudar asilos no combate à Covid-19"
+title: Governo Bolsonaro destinará R$ 160 milhões para ajudar asilos no combate à
+  Covid-19
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Lei foi sancionada pelo presidente Jair Bolsonaro nesta terça-feira (30). A previsão é que o dinheiro seja compartilhado entre 2,6 mil ILPIs.
 

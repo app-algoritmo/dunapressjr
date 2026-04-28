@@ -1,11 +1,12 @@
 ---
-title: "Noruega modifica leis em vigor há 40 anos para casos de aborto"
+title: Noruega modifica leis em vigor há 40 anos para casos de aborto
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Parlamento norueguês (Storting) aprovou a lei 44 que entrou em vigor em 01.09.2019, após vários anos em debate desde 2014. Com 155 votos a favor e 64 em contra, o partido da PM Erna Solberg venceu uma grande conquista para a sociedade norueguesa. A decisão final foi dada por (HM) Sua Alteza o Rei Harald. O rei pode colocar em prática as disposições individuais em momentos diferentes.
 

@@ -1,11 +1,12 @@
 ---
-title: "EUA: Presidente Trump assinou histórico alívio econômico em lei"
+title: 'EUA: Presidente Trump assinou histórico alívio econômico em lei'
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 **A legislação desenvolvida no Senado é o primeiro passo para restaurar a confiança e a estabilidade da economia americana.**
 

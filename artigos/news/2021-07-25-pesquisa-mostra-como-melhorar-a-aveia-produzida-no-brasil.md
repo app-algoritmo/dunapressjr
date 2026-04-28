@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra como melhorar a aveia produzida no Brasil"
+title: Pesquisa mostra como melhorar a aveia produzida no Brasil
 date: 2021-07-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O estudo analisou fibras alimentares presentes nos grãos, diretamente associadas a diversos benefícios para a saúde humana.
 

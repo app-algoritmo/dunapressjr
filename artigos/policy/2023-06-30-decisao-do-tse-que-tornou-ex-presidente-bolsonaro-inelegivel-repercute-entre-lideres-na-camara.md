@@ -1,11 +1,13 @@
 ---
-title: "Decisão do TSE que tornou ex-presidente Bolsonaro inelegível repercute entre líderes na Câmara"
+title: Decisão do TSE que tornou ex-presidente Bolsonaro inelegível repercute entre
+  líderes na Câmara
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tribunal impediu o ex-presidente de concorrer a cargos públicos até 2030.
 

@@ -1,11 +1,12 @@
 ---
-title: "A velocidade da Internet mais rápida do mundo a partir de um único chip óptico"
+title: A velocidade da Internet mais rápida do mundo a partir de um único chip óptico
 date: 2020-05-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Uma equipe de pesquisa registrou a velocidade da Internet mais rápida do mundo a partir de um único chip óptico de 44,2 Terabits por segundo.
 

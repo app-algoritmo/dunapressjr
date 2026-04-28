@@ -1,11 +1,13 @@
 ---
-title: "MTur destina R$ 6,5 milhões para infraestrutura turística na região da Serra da Capivara"
+title: MTur destina R$ 6,5 milhões para infraestrutura turística na região da Serra
+  da Capivara
 date: 2020-07-31
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Durante visita a São Raimundo Nonato (PI) foi anunciado a inclusão do parque em campanhas promocionais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Abertas, pelo Programa Novos Caminhos, 24,7 mil novas vagas de qualificação profissional a distância"
+title: Abertas, pelo Programa Novos Caminhos, 24,7 mil novas vagas de qualificação
+  profissional a distância
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Processos seletivos vão de 15 a 27 de julho, e as aulas começam 3 de agosto.
 

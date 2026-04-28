@@ -1,11 +1,13 @@
 ---
-title: "Comandante do Exército inspeciona Força de Prontidão e organizações militares do Nordeste"
+title: Comandante do Exército inspeciona Força de Prontidão e organizações militares
+  do Nordeste
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No segundo dia de visita ao Comando Militar do Nordeste (CMNE), o General Tomás realizou um sobrevoou no Parque Histórico Nacional De Guararapes (PHNG). Lá pôde avaliar o potencial que o Parque oferece em termos de segurança, lazer e entretenimento. Momentos depois, pousou no 14º Batalhão de Infantaria Motorizada (14ª BI Mtz) para verificar o apronto operacional da Força de Prontidão (FroPron) da 10ª Brigada de Infantaria Motorizada (10ª Bda Inf Mtz).
 

@@ -1,11 +1,12 @@
 ---
-title: "Eu carregava um bebê decapitado em minhas mãos', diz salvador do Kibutz Be'eri"
+title: Eu carregava um bebê decapitado em minhas mãos', diz salvador do Kibutz Be'eri
 date: 2023-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Coronel (Res.) Golan Vach testemunhou sobre os horrores que viu no Kibutz Be'eri
 

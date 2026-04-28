@@ -1,11 +1,12 @@
 ---
-title: "Colesterol: o consumo em excesso é o que faz mal à saúde"
+title: 'Colesterol: o consumo em excesso é o que faz mal à saúde'
 date: 2021-03-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Visto como “vilão” e muitas vezes eliminado pelas dietas mais radicais, o que poucos sabem é que o colesterol é essencial para o nosso organismo, pois ele tem funções eficazes. “O colesterol é importante, por exemplo, na formação dos hormônios sexuais, ele é fundamental na constituição do nosso sistema nervoso central, na formação dos neurônios. Só que o colesterol em excesso, é também responsável por uma série de doenças, principalmente as cardiovasculares”, explica André Telis, médico cardiologista do Hospital Universitário da Universidade Federal da Paraíba e vinculado à Rede Ebserh.
 

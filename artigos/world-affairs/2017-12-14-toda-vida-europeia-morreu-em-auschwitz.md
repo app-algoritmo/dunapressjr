@@ -1,11 +1,12 @@
 ---
-title: "Toda vida europeia morreu em Auschwitz"
+title: Toda vida europeia morreu em Auschwitz
 date: 2017-12-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Uma Perspectiva Sobre a Diversidade Cultural: O Artigo de Sebastian Vilar Rodriguez
 

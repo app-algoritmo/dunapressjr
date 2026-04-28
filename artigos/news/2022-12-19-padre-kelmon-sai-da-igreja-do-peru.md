@@ -1,12 +1,13 @@
 ---
-title: "Padre Kelmon sai da Igreja do Peru"
+title: Padre Kelmon sai da Igreja do Peru
 date: 2022-12-19
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Padre pediu excardinação da Igreja Ortodoxa do Peru e incardinação na Igreja Ortodoxa Grega da América e exterior.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça o projeto de lei federal ”Animal não é coisa”(PLC 27/2018 OU PL 6.054/19)"
+title: Conheça o projeto de lei federal ”Animal não é coisa”(PLC 27/2018 OU PL 6.054/19)
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Está em trâmite no Congresso Nacional um projeto de lei para mudar o *status* dos animais em nosso ordenamento jurídico. Se você não sabe,  os animais são considerados uma coisa, um bem semovente (que se move por vontade própria)  como cita o art. 82 do código civil de 2002. Apesar de todas as evidências científicas do contrário, do reconhecimento da senciência, inclusive da [Declaração de Cambridge de 2012](http://www.labea.ufpr.br/portal/wp-content/uploads/2014/05/Declara%C3%A7%C3%A3o-de-Cambridge-sobre-Consci%C3%AAncia-Animal.pdf), que reconheceu as semelhanças neuro-fisiológicas e a capacidade de consciência dos animais. Enfim, é importante que a sociedade saiba do tema e do que está sendo decidido por nossos parlamentares.  
 

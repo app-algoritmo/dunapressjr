@@ -1,12 +1,13 @@
 ---
-title: "Red Bull e o dilema do segundo piloto | Alex Albon é bom o suficiente?"
+title: Red Bull e o dilema do segundo piloto | Alex Albon é bom o suficiente?
 date: 2020-08-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
-  - Sports
+- Opinion
+- Sports
 ---
+
 
 **O que acontece com Alexander Albon na Red Bull? Será que o tempo dele na equipe está se esgotando?**
 

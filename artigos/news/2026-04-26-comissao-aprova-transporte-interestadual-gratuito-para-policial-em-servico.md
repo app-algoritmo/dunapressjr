@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova transporte interestadual gratuito para policial em serviço"
+title: Comissão aprova transporte interestadual gratuito para policial em serviço
 date: 2026-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Segurança Pública da Câmara dos Deputados aprovou projeto de lei que obriga as empresas de transporte público interestadual terrestre ou aquaviário a transportar gratuitamente os profissionais de segurança pública e os policiais da Câmara dos Deputados, do Senado Federal e das assembleias legislativas.
 

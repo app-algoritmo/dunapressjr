@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 varia 0,19% em novembro de 2019"
+title: IGP-10 varia 0,19% em novembro de 2019
 date: 2019-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Com este resultado, o índice acumula alta de 4,62% no ano e de 3,33% em 12 meses. Em novembro de 2018, o índice havia registrado queda de 0,16% no mês e alta de 10,25% em 12 meses *
 

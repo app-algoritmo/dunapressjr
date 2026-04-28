@@ -1,11 +1,12 @@
 ---
-title: "Ipea revisa estimativa do valor adicionado do setor agropecuário"
+title: Ipea revisa estimativa do valor adicionado do setor agropecuário
 date: 2021-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de crescimento de 1,2% passou para retração de 2,6%.
 

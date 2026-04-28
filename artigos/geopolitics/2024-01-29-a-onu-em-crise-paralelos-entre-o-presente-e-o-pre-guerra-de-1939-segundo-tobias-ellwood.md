@@ -1,11 +1,13 @@
 ---
-title: "A ONU em Crise: Paralelos entre o Presente e o Pré-Guerra de 1939, segundo Tobias Ellwood"
+title: 'A ONU em Crise: Paralelos entre o Presente e o Pré-Guerra de 1939, segundo
+  Tobias Ellwood'
 date: 2024-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em um mundo marcado por crescentes tensões geopolíticas, o alerta do ex-Secretário Britânico da Defesa, Tobias Ellwood, ecoa como um sinal de alarme. A Organização das Nações Unidas (ONU), criada com a nobre missão de manter a paz e a segurança global, está agora em foco, e as sombras do pré-guerra de 1939 pairam sobre o cenário internacional. Este artigo explora as críticas de Ellwood, analisando a eficácia atual da ONU e buscando entender os paralelos entre o presente e aqueles momentos sombrios da história.
 

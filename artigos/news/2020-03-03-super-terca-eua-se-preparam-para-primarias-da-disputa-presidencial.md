@@ -1,11 +1,12 @@
 ---
-title: "'Super Terça': EUA se preparam para primárias da disputa presidencial"
+title: '''Super Terça'': EUA se preparam para primárias da disputa presidencial'
 date: 2020-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Eleições primárias ocorrem em 14 estados
 

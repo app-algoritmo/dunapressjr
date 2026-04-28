@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em queda após pronunciamento de Powell e resultados trimestrais de empresas"
+title: Ibovespa fecha em queda após pronunciamento de Powell e resultados trimestrais
+  de empresas
 date: 2023-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar termina em alta, movimento dos juros no exterior influencia negativamente o mercado de ativos de risco.
 

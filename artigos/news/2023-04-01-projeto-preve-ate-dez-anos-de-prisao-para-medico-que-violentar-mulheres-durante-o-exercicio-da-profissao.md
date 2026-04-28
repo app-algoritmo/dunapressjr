@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê até dez anos de prisão para médico que violentar mulheres durante o exercício da profissão"
+title: Projeto prevê até dez anos de prisão para médico que violentar mulheres durante
+  o exercício da profissão
 date: 2023-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 968/23 cria nova modalidade de crime de estupro de vulnerável quando a violência for praticada por médico ou profissional de saúde contra mulheres em condições de vulnerabilidade, em virtude da realização de parto ou de qualquer tipo de procedimento que envolva o corpo feminino.
 

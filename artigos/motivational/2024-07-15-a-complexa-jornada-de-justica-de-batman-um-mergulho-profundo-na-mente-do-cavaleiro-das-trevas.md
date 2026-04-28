@@ -1,13 +1,15 @@
 ---
-title: "A Complexa Jornada de Justiça de Batman: Um Mergulho Profundo na Mente do Cavaleiro das Trevas"
+title: 'A Complexa Jornada de Justiça de Batman: Um Mergulho Profundo na Mente do
+  Cavaleiro das Trevas'
 date: 2024-07-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Motivational
-  - Personal Development
-  - Video library
+- Motivational
+- Personal Development
+- Video library
 ---
+
 
 ## Explorando a Profundidade Filosófica e Moral do Cavaleiro das Trevas.
 

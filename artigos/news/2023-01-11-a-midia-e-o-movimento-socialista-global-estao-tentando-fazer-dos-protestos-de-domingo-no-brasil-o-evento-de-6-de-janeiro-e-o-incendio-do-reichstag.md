@@ -1,11 +1,13 @@
 ---
-title: "A mídia e o movimento socialista global estão tentando fazer dos protestos de domingo no Brasil o evento de 6 de janeiro e o incêndio do Reichstag?"
+title: A mídia e o movimento socialista global estão tentando fazer dos protestos
+  de domingo no Brasil o evento de 6 de janeiro e o incêndio do Reichstag?
 date: 2023-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os protestos de domingo em Brasília, a capital brasileira, estão sendo retratados pelos socialistas e pela mídia como um evento violento e angustiante liderado por bolsonaristas
 

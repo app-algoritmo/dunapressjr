@@ -1,11 +1,12 @@
 ---
-title: "Preço unitário da ação da Eletrobras ficou em R$ 42"
+title: Preço unitário da ação da Eletrobras ficou em R$ 42
 date: 2022-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor consta de fato relevante divulgado pela empresa.
 

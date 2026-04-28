@@ -1,12 +1,13 @@
 ---
-title: "Retrato do abandono"
+title: Retrato do abandono
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A foto foi feita em 1980 para sensibilizar as pessoas a respeito do abandono de animais.
 Em 2 dias na França no ano de 1980, 140 (cento e quarenta) cães foram abandonados no mês de Julho e um fotografo teve a ideia de colocar os animais eutanasiados na estrada e chamar a atenção para uma realidade tão cruel.

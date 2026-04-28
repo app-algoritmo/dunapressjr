@@ -1,11 +1,12 @@
 ---
-title: "Secretaria de Educação de Itajaí recebe doação do Guia do Jovem Aprendiz"
+title: Secretaria de Educação de Itajaí recebe doação do Guia do Jovem Aprendiz
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Municipal de Educação recebeu a doação de livretos do Guia do Jovem Aprendiz. O material produzido pelo Tribunal Regional do Trabalho de Santa Catarina (TRT-SC) contém 17 páginas ilustrativas e fala sobre a inserção dos adolescentes, a partir dos 14 anos, no mercado de trabalho por meio do programa de aprendizagem. A entrega ocorreu nesta sexta-feira (04). 
 

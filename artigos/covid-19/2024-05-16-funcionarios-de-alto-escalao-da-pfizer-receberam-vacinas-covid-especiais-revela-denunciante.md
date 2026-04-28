@@ -1,11 +1,13 @@
 ---
-title: "Funcionários de Alto Escalão da Pfizer Receberam Vacinas Covid Especiais, Revela Denunciante"
+title: Funcionários de Alto Escalão da Pfizer Receberam Vacinas Covid Especiais, Revela
+  Denunciante
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um denunciante da Pfizer tornou público um e-mail interno revelador, indicando que a empresa farmacêutica administrou vacinas Covid aos seus funcionários de alto escalão que eram distintas das vacinas distribuídas à população em geral.
 

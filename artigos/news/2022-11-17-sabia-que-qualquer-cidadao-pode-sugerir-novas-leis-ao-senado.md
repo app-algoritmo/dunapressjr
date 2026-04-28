@@ -1,11 +1,12 @@
 ---
-title: "Sabia que qualquer cidadão pode sugerir novas leis ao Senado?"
+title: Sabia que qualquer cidadão pode sugerir novas leis ao Senado?
 date: 2022-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 1993, a novelista Gloria Perez deu início a um abaixo-assinado de alcance nacional com a ambiciosa pretensão de endurecer a Lei de Crimes Hediondos ([Lei 8.072, de 1990](https://www.planalto.gov.br/ccivil_03/leis/l8072.htm)), que não abarcava o assassinato. Ela havia acabado de perder a filha, a atriz Daniella Perez, morta a punhaladas pelo casal Guilherme de Pádua e Paula Thomaz.
 

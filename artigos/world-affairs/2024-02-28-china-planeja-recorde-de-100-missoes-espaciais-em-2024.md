@@ -1,11 +1,12 @@
 ---
-title: "China planeja recorde de 100 missões espaciais em 2024"
+title: China planeja recorde de 100 missões espaciais em 2024
 date: 2024-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China está pronta para alcançar novos patamares no espaço este ano, com planos ambiciosos para realizar cerca de 100 missões de lançamento espacial, conforme anunciado em uma coletiva de imprensa nesta segunda-feira. Este esforço histórico incluirá o lançamento do voo inaugural no primeiro campo de lançamento comercial de espaçonaves do país, situado na cidade de Wenchang, província insular de Hainan. A China Aerospace Science and Technology Corporation (CASC) liderará esse empreendimento, com previsão de realizar aproximadamente 70 dessas missões, colocando mais de 290 espaçonaves em órbita.
 

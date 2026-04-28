@@ -1,11 +1,13 @@
 ---
-title: "Irã pede medidas imediatas dos países islâmicos para acabar com a guerra em Gaza"
+title: Irã pede medidas imediatas dos países islâmicos para acabar com a guerra em
+  Gaza
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Presidente do Parlamento do Irã, Mohammad Baqer Qalibaf, enfatizou a necessidade de os estados islâmicos tomarem medidas imediatas para parar as brutalidades sionistas na Faixa de Gaza.
 

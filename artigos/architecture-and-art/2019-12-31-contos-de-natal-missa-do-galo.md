@@ -1,11 +1,12 @@
 ---
-title: "Contos de Natal: Missa do Galo"
+title: 'Contos de Natal: Missa do Galo'
 date: 2019-12-31
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Iniciamos com este texto nossas Críticas Literárias. Estaremos publicando mensalmente uma crítica a autores ou livros de nossa Literatura Brasileira e Mundial. Iniciaremos nesta e nas próximas duas semanas com três contos que se entrelaçam e se complementam dentro desse Espírito Natalino. Começamos com *A Missa do Galo*, do Gigantesco Machado de Assis, na próxima semana traremos a crítica ao *Conto de Natal* de Rubens Braga e fechamos essa trilogia daqui a duas semanas com Mário de Andrade em seu conto *O Peru de Natal.* Então, vamos começar com o genial Machado de Assis.
 

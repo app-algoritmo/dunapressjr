@@ -1,11 +1,12 @@
 ---
-title: "20% das crianças e adolescentes brasileiros sofrem com asma"
+title: 20% das crianças e adolescentes brasileiros sofrem com asma
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As mudanças climáticas características das estações mais frias – outono e inverno -, somadas ao ar gelado e seco dessa época do ano, são os principais fatores desencadeantes para o desenvolvimento e/ou agravamento de doenças respiratórias, como a asma, que, de acordo com o órgão regulatório de saúde estadunidense CDC (*Centers for Disease Control and Prevention*), é a doença crônica mais comum em crianças de todo o mundo. Somente no Brasil, cerca de 20% das crianças e adolescentes do país sofrem com o problema, segundo a Associação Brasileira de Alergia e Imunologia (Asbai).
 

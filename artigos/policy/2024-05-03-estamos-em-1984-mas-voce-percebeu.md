@@ -1,11 +1,12 @@
 ---
-title: "Estamos em 1984 (mas você percebeu?)"
+title: Estamos em 1984 (mas você percebeu?)
 date: 2024-05-03
 status: publish
-author: sabervirtuosodunapress
+author: Saber Virtuoso
 categories:
-  - Policy
+- Policy
 ---
+
 
 O escritor Inglês Eric Arthur Blair – mais conhecido pelo pseudônimo George Orwell – veterano de guerra e comunista convertido em pessoa normal, denunciou veementemente, após ver a realidade dos morticínios gerados pelo totalitarismo, as teorias que anteriormente defendera.
 

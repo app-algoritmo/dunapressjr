@@ -1,11 +1,13 @@
 ---
-title: "Medida tomada pelo governo para pequenas e médias empresas vai ajudar na preservação de empregos"
+title: Medida tomada pelo governo para pequenas e médias empresas vai ajudar na preservação
+  de empregos
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma das medidas tomada pelo Governo Federal que tem contribuindo na preservação de empregos em meio à pandemia do novo coronavírus é linha de crédito no valor de R$ 40 bilhões criada para pequenas e médias empresas. O recurso é para financiar a folha de pagamento dos trabalhadores e evitar demissões.
 

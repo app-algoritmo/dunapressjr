@@ -1,11 +1,12 @@
 ---
-title: "Relator sinaliza que deve votar pela condenação de Collor no STF"
+title: Relator sinaliza que deve votar pela condenação de Collor no STF
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Sessão será retomada na quarta-feira (17).
 

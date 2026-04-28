@@ -1,11 +1,12 @@
 ---
-title: "Gestão de resíduos passa a fazer parte de metas de lideranças em empresas"
+title: Gestão de resíduos passa a fazer parte de metas de lideranças em empresas
 date: 2023-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 A urgência de se construir uma consciência coletiva ambiental fez com que o tema sustentabilidade deixasse de ser um conceito abstrato e restrito a algumas áreas para se tornar uma prática de larga escala nas corporações. Muitas são as ações e frentes de ataque que precisam ser colocadas em prática para que uma empresa se torne, de fato, sustentável. E essas estratégias passam a prever cada vez mais o chamado “efeito dominó”, em que a inclusão de metas nesse contexto para gestores levam ao engajamento de todos os colaboradores da cadeia. São diretores de RH, comunicação, jurídico e tantas outras áreas que passam a perceber que boas práticas ambientais precisam estar presentes no dia a dia de seus times.
 

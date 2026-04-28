@@ -1,11 +1,13 @@
 ---
-title: "Marcado por recordes, Carnaval 2020 movimentou milhões de pessoas e atraiu turistas"
+title: Marcado por recordes, Carnaval 2020 movimentou milhões de pessoas e atraiu
+  turistas
 date: 2020-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 A movimentação de foliões nos principais polos do carnaval no país registrou recorde em 2020. De acordo com dados divulgados pelos gestores locais, Olinda (PE), Recife (PE) e Salvador (BA) registraram 22,1 milhões de pessoas, o maior número até então. No Rio de Janeiro (RJ), informações prévias dão conta de que mais de 6,4 milhões de foliões aproveitaram os blocos e os desfiles das escolas de samba na capital fluminense. Em São Paulo (SP), a prefeitura municipal espera o fim de semana para divulgar os índices. 
 

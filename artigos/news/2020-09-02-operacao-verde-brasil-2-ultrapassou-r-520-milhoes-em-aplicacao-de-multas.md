@@ -1,11 +1,12 @@
 ---
-title: "Operação Verde Brasil 2 ultrapassou R$ 520 milhões em aplicação de multas"
+title: Operação Verde Brasil 2 ultrapassou R$ 520 milhões em aplicação de multas
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Em programa de rádio semanal, o vice-presidente disse que a operação é um exemplo do cuidado do país com a Amazônia.
 

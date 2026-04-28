@@ -1,11 +1,13 @@
 ---
-title: "O filme 'Making A Killing' mostra as consequências mortais dos protocolos COVID em hospitais"
+title: O filme 'Making A Killing' mostra as consequências mortais dos protocolos COVID
+  em hospitais
 date: 2023-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## "Mal sabia eu quando comecei a fazer este filme que o protocolo era financiado com dinheiro federal. Agora eu sei", disse Patty Myers, cujo marido morreu no hospital após ser tratado com o protocolo COVID.
 

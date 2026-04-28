@@ -1,11 +1,13 @@
 ---
-title: "Relatório da Europol alerta para a proliferação das 'multinacionais do crime' na União Europeia"
+title: Relatório da Europol alerta para a proliferação das 'multinacionais do crime'
+  na União Europeia
 date: 2024-05-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Europol emitiu um alerta preocupante sobre a crescente presença de "multinacionais do crime organizado" nos 27 estados membros da União Europeia (UE), representando uma ameaça significativa à segurança interna da região.
 

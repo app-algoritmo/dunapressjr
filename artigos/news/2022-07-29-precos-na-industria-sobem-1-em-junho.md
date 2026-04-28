@@ -1,11 +1,12 @@
 ---
-title: "Preços na indústria sobem 1% em junho"
+title: Preços na indústria sobem 1% em junho
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o que mostra pesquisa do IBGE.
 

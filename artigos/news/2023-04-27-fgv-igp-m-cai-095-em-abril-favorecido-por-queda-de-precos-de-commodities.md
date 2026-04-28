@@ -1,11 +1,12 @@
 ---
-title: "FGV: IGP-M cai 0,95% em abril, favorecido por queda de preços de commodities"
+title: 'FGV: IGP-M cai 0,95% em abril, favorecido por queda de preços de commodities'
 date: 2023-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda nos preços de commodities para o setor produtivo contribuiu para a descompressão dos custos de importantes segmentos varejistas e queda no Índice Geral de Preços - Mercado (IGP-M).
 

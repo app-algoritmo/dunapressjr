@@ -1,11 +1,12 @@
 ---
-title: "Títulos verdes podem ser 'portas de saída' de programas sociais, aponta debate"
+title: Títulos verdes podem ser 'portas de saída' de programas sociais, aponta debate
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um momento em que senadores, deputados e o governo eleito costuram acordos para viabilizar R$ 175 bilhões para bancar programas sociais de transferência de renda, a Comissão Senado do Futuro (CSF) debateu uma “porta de saída” para algumas famílias que dependem do Auxílio Brasil (antigo Bolsa Família, que deve ser retomado) para sobreviver: os títulos verdes. Em audiência pública nesta sexta-feira (25), participantes apontaram o potencial do mercado socioambiental positivo.
 

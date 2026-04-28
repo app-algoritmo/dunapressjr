@@ -1,11 +1,12 @@
 ---
-title: "Augusta Brito destaca aprovação de pensão aos filhos das vítimas de feminicídio"
+title: Augusta Brito destaca aprovação de pensão aos filhos das vítimas de feminicídio
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Augusta Brito (PT-CE) agradeceu aos colegas pela aprovação, na terça-feira (3), do projeto que concede pensão especial no valor de um salário mínimo a filhos e dependentes de baixa renda de vítimas de feminicídio ([PL 976/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/156241)). O texto, do qual Augusta Brito foi a última relatora, no âmbito da Comissão de Assuntos Econômicos (CAE), agora segue para a sanção do presidente da República.
 

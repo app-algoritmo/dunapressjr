@@ -1,11 +1,13 @@
 ---
-title: "Noruega: Suas Majestades, o Rei e a Rainha, e a Princesa Märtha Louise estavam presentes no culto tradicional do Dia de Natal na Capela Holmenkollen, em Oslo"
+title: 'Noruega: Suas Majestades, o Rei e a Rainha, e a Princesa Märtha Louise estavam
+  presentes no culto tradicional do Dia de Natal na Capela Holmenkollen, em Oslo'
 date: 2019-12-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O casal real e a princesa foram recebidos nas escadas da igreja pelo padre presidente, pároco Jan-Erik Heffermehl e servo da igreja Inger Margrethe Magnus quando chegaram à capela nesta manhã. É uma tradição que o casal do rei vá à igreja na capela Holmenkollen no dia de Natal.
 

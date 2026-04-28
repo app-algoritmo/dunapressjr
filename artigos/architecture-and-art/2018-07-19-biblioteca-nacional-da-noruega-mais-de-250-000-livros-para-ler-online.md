@@ -1,11 +1,12 @@
 ---
-title: "Biblioteca Nacional da Noruega: mais de 250 000 livros para ler online"
+title: 'Biblioteca Nacional da Noruega: mais de 250 000 livros para ler online'
 date: 2018-07-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 A Biblioteca Nacional da Noruega disponibiliza jornais e mais de 250.000 livros para leitura em sua biblioteca *online.*
 

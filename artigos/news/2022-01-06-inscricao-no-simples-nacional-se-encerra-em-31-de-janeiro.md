@@ -1,11 +1,12 @@
 ---
-title: "Inscrição no Simples Nacional se encerra em 31 de janeiro"
+title: Inscrição no Simples Nacional se encerra em 31 de janeiro
 date: 2022-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Solicitação deve ser feita no portal do programa.
 

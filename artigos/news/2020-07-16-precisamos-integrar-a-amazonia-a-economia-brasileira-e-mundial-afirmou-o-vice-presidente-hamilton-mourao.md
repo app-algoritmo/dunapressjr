@@ -1,11 +1,13 @@
 ---
-title: "'Precisamos integrar a Amazônia à economia brasileira e mundial ', afirmou o vice-presidente Hamilton Mourão"
+title: '''Precisamos integrar a Amazônia à economia brasileira e mundial '', afirmou
+  o vice-presidente Hamilton Mourão'
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O vice-presidente da República, Hamilton Mourão, comandou, nesta quarta-feira (15), a 2ª Reunião do Conselho Nacional da Amazônia Legal. Mourão afirmou que é preciso atacar as causas do desmatamento ilegal na Amazônia e levar a região o desenvolvimento econômico sustentável.
 

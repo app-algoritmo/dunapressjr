@@ -1,11 +1,13 @@
 ---
-title: "Nova lei alemã reduz penas para posse de pornografia infantil: impactos e controvérsias"
+title: 'Nova lei alemã reduz penas para posse de pornografia infantil: impactos e
+  controvérsias'
 date: 2024-05-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Bundestag alemão aprovou uma lei que reduz as penas mínimas para a posse de material que retrata o abuso sexual de crianças, reclassificando a infração como uma contravenção. Quando a lei entrar em vigor, a posse e aquisição desse material serão puníveis com uma pena mínima de três meses de prisão, enquanto a distribuição terá uma pena mínima de seis meses.
 

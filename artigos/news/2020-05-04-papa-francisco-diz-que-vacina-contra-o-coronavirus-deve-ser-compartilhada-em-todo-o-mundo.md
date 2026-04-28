@@ -1,11 +1,13 @@
 ---
-title: "Papa Francisco diz que vacina contra o coronavírus deve ser compartilhada em todo o mundo"
+title: Papa Francisco diz que vacina contra o coronavírus deve ser compartilhada em
+  todo o mundo
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Ele incentivou a cooperação internacional para lidar com a crise e combater o vírus, que infectou quase 3,5 milhões de pessoas e matou mais de 240.000 pessoas em todo o mundo.
 

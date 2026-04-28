@@ -1,12 +1,13 @@
 ---
-title: "D. João VI, <em>História do Reino do Brasil</em>"
+title: D. João VI, <em>História do Reino do Brasil</em>
 date: 2022-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Seis de fevereiro de 1818 foi dia de grandes festejos na cidade de São Sebastião do Rio de Janeiro. Naquela ocasião, ocorreu um evento único na história, assim anunciado por D. João VI: “E sendo justo que, conforme o uso antigo, costumes destes Reinos, se me faça o juramento, preito e homenagem, pelos grandes títulos, seculares e eclesiásticos, vassalos e mais pessoas de nobreza: fui servido nomear o dia 6 do mês próximo futuro para esta solenidade, que se há de celebrar na varanda que para este efeito se mandou levantar no terreiro do Paço.”
 

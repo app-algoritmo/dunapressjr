@@ -1,11 +1,12 @@
 ---
-title: "O aquecimento global e o confronto do Ocidente com o resto do mundo"
+title: O aquecimento global e o confronto do Ocidente com o resto do mundo
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A teoria da causa antropogênica do aquecimento global logo estará no centro do confronto entre o Ocidente e a Rússia. Embora ninguém conteste que algumas partes do mundo estão se aquecendo, atualmente não há explicação alternativa para esse fenômeno. 
 

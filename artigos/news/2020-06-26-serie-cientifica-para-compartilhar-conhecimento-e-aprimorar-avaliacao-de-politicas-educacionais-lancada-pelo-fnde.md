@@ -1,11 +1,13 @@
 ---
-title: "Série científica para compartilhar conhecimento e aprimorar avaliação de políticas educacionais lançada pelo FNDE"
+title: Série científica para compartilhar conhecimento e aprimorar avaliação de políticas
+  educacionais lançada pelo FNDE
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) lança nesta quinta-feira, 25, a série científica Cadernos do FNDE. Produzida por servidores e colaboradores da autarquia, com apoio da Fundação Joaquim Nabuco (Fundaj), a publicação semestral em plataforma digital traz resultados de pesquisas e estudos na área de educação e gestão pública. Busca, assim, disseminar conhecimento e aprimorar a avaliação das políticas educacionais.
 

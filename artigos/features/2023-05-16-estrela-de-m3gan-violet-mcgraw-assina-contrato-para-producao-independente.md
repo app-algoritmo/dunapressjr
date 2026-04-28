@@ -1,11 +1,12 @@
 ---
-title: "Estrela de 'M3gan', Violet McGraw assina contrato para produção independente"
+title: Estrela de 'M3gan', Violet McGraw assina contrato para produção independente
 date: 2023-05-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Estrela de 'M3gan', Violet McGraw assina contrato para produção independente 'A Wonderful Way With Dragons'.
 

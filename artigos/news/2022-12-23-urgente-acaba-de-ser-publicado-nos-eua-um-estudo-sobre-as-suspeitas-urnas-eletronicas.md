@@ -1,12 +1,14 @@
 ---
-title: "Urgente: acaba de ser publicado nos EUA um estudo sobre as suspeitas urnas eletrônicas"
+title: 'Urgente: acaba de ser publicado nos EUA um estudo sobre as suspeitas urnas
+  eletrônicas'
 date: 2022-12-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ELEIÇÕES SUSPENSAS NO BRASIL?: ANÁLISE FORENSE DEMONSTRA AINDA MAIS EVIDÊNCIAS DE FALSIDADE NOS DADOS DAS ELEIÇÕES BRASILEIRAS - COMO SE FOSSE NECESSÁRIO.
 

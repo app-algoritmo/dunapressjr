@@ -1,11 +1,12 @@
 ---
-title: "Plano de Investimento para Agricultura Sustentável lançado pelo Mapa e CBI"
+title: Plano de Investimento para Agricultura Sustentável lançado pelo Mapa e CBI
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é dar maior visibilidade ao cenário de oportunidades de investimento verde no agronegócio brasileiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Entendendo os testes e a imunidade para o Covid19"
+title: Entendendo os testes e a imunidade para o Covid19
 date: 2020-07-09
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - Health
+- Health
 ---
+
 
 Os testes para diagnóstico de covid19 mais comumente empregados no Brasil são chamados testes SOROLÓGICOS, que detectam a presença de anticorpos contra o vírus no seu sangue.
 

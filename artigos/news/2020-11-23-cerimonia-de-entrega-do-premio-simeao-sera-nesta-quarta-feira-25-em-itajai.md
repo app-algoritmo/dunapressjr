@@ -1,11 +1,12 @@
 ---
-title: "Cerimônia de entrega do Prêmio Simeão será nesta quarta-feira (25) em Itajaí"
+title: Cerimônia de entrega do Prêmio Simeão será nesta quarta-feira (25) em Itajaí
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Homenagem de valorização do negro na sociedade itajaiense integra a Prêmio Simeão; evento terá transmissão pela internet, às 19h30.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estudo Prevê Aumento de Doenças Cardiovasculares e Custos Triplicados nos EUA até 2050"
+title: Estudo Prevê Aumento de Doenças Cardiovasculares e Custos Triplicados nos EUA
+  até 2050
 date: 2024-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pelo menos seis em cada dez adultos em uma população mais idosa e diversificada nos EUA poderão ser afetados por doenças cardiovasculares nos próximos 30 anos, segundo dois novos relatórios científicos. O aumento previsto das doenças cardíacas e dos acidentes vasculares cerebrais (AVC), juntamente com fatores de risco como hipertensão e obesidade, provavelmente triplicará os custos associados, atingindo 1,8 trilhões de dólares até 2050. As descobertas foram publicadas na revista *Circulation* da American Heart Association (AHA).
 

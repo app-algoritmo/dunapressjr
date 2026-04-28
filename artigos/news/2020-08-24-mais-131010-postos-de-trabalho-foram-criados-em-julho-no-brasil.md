@@ -1,11 +1,12 @@
 ---
-title: "Mais 131.010 postos de trabalho foram criados em julho no Brasil"
+title: Mais 131.010 postos de trabalho foram criados em julho no Brasil
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para ajudar na preservação do trabalho, Programa Emergencial de Manutenção do Emprego e da Renda deverá ser prorrogado. Após quatro meses de queda, o emprego cresceu no Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "Redução da Oferta de Drogas é destaque na Semana Nacional de Políticas sobre Drogas"
+title: Redução da Oferta de Drogas é destaque na Semana Nacional de Políticas sobre
+  Drogas
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional de Políticas sobre Drogas (Senad/MJSP) foi protagonista durante o terceiro dia da agenda de debates da Semana Nacional de Políticas sobre Drogas. Nesta quarta-feira (24), o secretário Luiz Roberto Beggiora falou sobre a gestão de ativos apreendidos do tráfico e aplicação de recursos em benefício da sociedade.
 

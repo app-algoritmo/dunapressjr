@@ -1,11 +1,12 @@
 ---
-title: "Girão apoia Marcha pela Vida, mobilização contra o aborto promovida nesta terça"
+title: Girão apoia Marcha pela Vida, mobilização contra o aborto promovida nesta terça
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) defendeu mais uma vez, em pronunciamento no Plenário nesta segunda-feira (19), a luta contra a legalização do aborto no Brasil. O senador anunciou a realização da 16ª Marcha pela Vida, mobilização contra o aborto marcada para esta terça-feira (20), às 14h, na Esplanada dos Ministérios. 
 

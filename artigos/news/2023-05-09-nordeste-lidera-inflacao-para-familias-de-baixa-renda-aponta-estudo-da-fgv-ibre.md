@@ -1,11 +1,13 @@
 ---
-title: "Nordeste lidera inflação para famílias de baixa renda, aponta estudo da FGV IBRE"
+title: Nordeste lidera inflação para famílias de baixa renda, aponta estudo da FGV
+  IBRE
 date: 2023-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços de alimentos essenciais aumentaram mais de 43% na região entre 2020 e 2023
 

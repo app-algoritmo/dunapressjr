@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philippe e vice-governador conversam sobre o futuro do Centro de São Paulo"
+title: Deputado Luiz Philippe e vice-governador conversam sobre o futuro do Centro
+  de São Paulo
 date: 2024-03-10
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 O deputado federal Luiz Philippe de Orleans e Bragança (PL) esteve na sexta-feira, dia 8 de março, no gabinete do vice-governador do Estado de São Paulo, Felício Ramuth. Em bate-papo informal e objetivo, foram discutidas ações para revalorização do centro da capital, em especial na área de cena aberta de uso de drogas (antiga Cracolândia), hoje concentrada na rua dos Protestantes. Segundo o vice-governador, políticas públicas eficientes fizeram o número de usuários na região diminuir consideravelmente, mas a afluência de novos dependentes ainda é um desafio para a sociedade e o poder público.
 

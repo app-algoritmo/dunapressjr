@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a segunda fase da Operação Apneia"
+title: PF deflagra a segunda fase da Operação Apneia
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recife/PE - A Polícia Federal deflagrou nesta quinta-feira (28/5) a segunda fase da Operação Apneia, que decorre de investigação de irregularidades em contratos celebrados por meio de dispensas de licitação pela Prefeitura de Recife, através da Secretaria de Saúde, para aquisição de 500 respiradores pulmonares em caráter emergencial, para combate à Pandemia de Covid-19 no município. A ação contou com a participação do Ministério Público Federal e Controladoria Geral da União.
 

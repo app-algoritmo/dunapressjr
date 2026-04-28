@@ -1,11 +1,12 @@
 ---
-title: "Vai Acabar em Pizza!"
+title: Vai Acabar em Pizza!
 date: 2020-08-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 É mais do que certo que o Brasil é um pais projetado para não dar certo, onde enquanto a classe política planeja cortes e mais cortes na carne da população, com redução de salário em meio a pandemia e extensão do tempo de serviço por meio de reformas previdenciárias, onde o cidadão comum dificilmente irá ver-se aposentado antes de morrer, ao passo que a *casta superior* da classe política, descaradamente propõe aumentos salariais bem como não corta da própria carne no que tange a redução dos benefícios previdenciários, vivendo em uma realidade paralela onde não existe crise. Já no que tange a aplicação das leis, a indecência fica ainda maior, pois com um layout legislativo engenhosamente projetado para que a impunidade vigore em meio aos *inatingíveis*, onde tudo acaba em pizza!
 

@@ -1,11 +1,12 @@
 ---
-title: "Faturamento do turismo brasileiro cresce 32% em julho"
+title: Faturamento do turismo brasileiro cresce 32% em julho
 date: 2022-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados foram divulgados pela FecomercioSP.
 

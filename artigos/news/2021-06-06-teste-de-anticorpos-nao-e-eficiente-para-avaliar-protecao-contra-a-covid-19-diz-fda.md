@@ -1,11 +1,13 @@
 ---
-title: "Teste de anticorpos não é eficiente para avaliar proteção contra a Covid-19, diz FDA"
+title: Teste de anticorpos não é eficiente para avaliar proteção contra a Covid-19,
+  diz FDA
 date: 2021-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Food and Drug Administration (FDA), órgão regulatório dos Estados Unidos equivalente à Agência Nacional de Vigilância Sanitária (Anvisa), [emitiu uma nota alertando que os testes de anticorpos contra o Sars-CoV-2 não devem ser usados para avaliar se alguém está imune à Covid-19](https://www.fda.gov/medical-devices/safety-communications/antibody-testing-not-currently-recommended-assess-immunity-after-covid-19-vaccination-fda-safety). Ou seja, a detecção de anticorpos contra o novo coronavírus no organismo não deve ser interpretada como proteção.
 

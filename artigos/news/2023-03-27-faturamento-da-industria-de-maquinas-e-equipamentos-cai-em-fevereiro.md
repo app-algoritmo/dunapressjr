@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria de máquinas e equipamentos cai em fevereiro"
+title: Faturamento da indústria de máquinas e equipamentos cai em fevereiro
 date: 2023-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor teve em janeiro aumento de 0,5% no número de contratações.
 

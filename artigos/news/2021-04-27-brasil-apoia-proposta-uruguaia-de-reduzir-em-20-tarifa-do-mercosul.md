@@ -1,11 +1,12 @@
 ---
-title: "Brasil apoia proposta uruguaia de reduzir em 20% tarifa do Mercosul"
+title: Brasil apoia proposta uruguaia de reduzir em 20% tarifa do Mercosul
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Paulo Guedes voltou a defender negociações comerciais individuais.
 

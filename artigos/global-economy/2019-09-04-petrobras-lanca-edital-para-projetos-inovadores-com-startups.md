@@ -1,11 +1,12 @@
 ---
-title: "Petrobras lança edital para projetos inovadores com startups"
+title: Petrobras lança edital para projetos inovadores com startups
 date: 2019-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O edital funciona por meio de “desafios” propostos pela Petrobras para a criação de produtos.
 

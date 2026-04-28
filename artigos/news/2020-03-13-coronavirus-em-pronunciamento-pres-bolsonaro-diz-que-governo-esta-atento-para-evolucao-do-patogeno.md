@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: em pronunciamento, Pres. Bolsonaro diz que governo está atento para evolução do patógeno"
+title: 'Coronavírus: em pronunciamento, Pres. Bolsonaro diz que governo está atento
+  para evolução do patógeno'
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na noite desta quinta-feira (12), o presidente da República Jair Bolsonaro, fez um pronunciamento à Nação, em rede nacional de rádio e televisão, destacando a decisão da Organização Mundial da Saúde (OMS) em classificar o coronavírus como uma pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "No Porto de Cabedelo/PB, movimentação de granéis sólidos no semestre já é 15,7% maior do que em 2019"
+title: No Porto de Cabedelo/PB, movimentação de granéis sólidos no semestre já é 15,7%
+  maior do que em 2019
 date: 2020-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A movimentação de granéis sólidos chegou a 326.545 toneladas.
 

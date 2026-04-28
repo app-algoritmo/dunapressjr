@@ -1,12 +1,13 @@
 ---
-title: "Como tomar um suplemento de vitamina D?"
+title: Como tomar um suplemento de vitamina D?
 date: 2022-11-09
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
-  - Health
+- Food
+- Health
 ---
+
 
 Você já deve ter ouvido falar que a vitamina D é a “vitamina do sol”. Esse apelido carinhoso foi dado graças ao meio de absorção do nutriente pelo corpo, que se dá pelo contato da pele com os raios solares ultravioletas B. Entretanto, mesmo tendo uma fonte inesgotável, existem alguns fatores que dificultam a fixação da vitamina D no organismo. 
 

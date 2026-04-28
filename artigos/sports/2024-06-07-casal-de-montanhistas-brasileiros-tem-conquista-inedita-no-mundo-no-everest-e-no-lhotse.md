@@ -1,11 +1,13 @@
 ---
-title: "Casal de montanhistas brasileiros tem conquista inédita no mundo no Everest e no Lhotse"
+title: Casal de montanhistas brasileiros tem conquista inédita no mundo no Everest
+  e no Lhotse
 date: 2024-06-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Carlos Santalena e Olivia Bonfim são os primeiros a completar, juntos, o Doube Head - escalar o Everest e Lhotse, primeira e quarta maiores montanhas do planeta em 24h. O feito é inédito entre as brasileiras. Santalena se tornou o primeiro atleta nacional a chegar ao teto do mundo quatro vezes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Prepare-se; a moeda digital do banco central está em ascensão... e está chegando rápido"
+title: Prepare-se; a moeda digital do banco central está em ascensão... e está chegando
+  rápido
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Prepare-se melhor para o mundo das moedas digitais do banco central (CBDCs), porque elas estão chegando. E eles vêm rápido...
 

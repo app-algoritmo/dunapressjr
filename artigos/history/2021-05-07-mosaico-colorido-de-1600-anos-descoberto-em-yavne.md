@@ -1,11 +1,12 @@
 ---
-title: "Mosaico colorido de 1600 anos descoberto em Yavne"
+title: Mosaico colorido de 1600 anos descoberto em Yavne
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## O artefato foi revelado durante uma escavação de salvamento em preparação para a construção de um novo bairro.
 

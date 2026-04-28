@@ -1,11 +1,13 @@
 ---
-title: "Porto de Cabedelo/PB supera 2019 com movimentação de mais de 1 milhão de toneladas de cargas em 2020"
+title: Porto de Cabedelo/PB supera 2019 com movimentação de mais de 1 milhão de toneladas
+  de cargas em 2020
 date: 2021-01-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Porto de Cabedelo movimentou 1.139.141 toneladas de cargas em 2020. O número é 5,25% maior que a movimentação de 2019, mesmo durante um ano de pandemia. Os dados são do setor de Gerência de Operações, da Companhia Docas da Paraíba, divulgados na última quinta-feira (31).
 

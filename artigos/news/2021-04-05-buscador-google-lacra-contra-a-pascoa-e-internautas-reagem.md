@@ -1,11 +1,12 @@
 ---
-title: "Buscador google lacra contra a páscoa e internautas reagem"
+title: Buscador google lacra contra a páscoa e internautas reagem
 date: 2021-04-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Os doodles do google na página de busca google.com não costumam gerar muita controvérsia, mas ontem 4 de abril, nas festividades de 2021 muitos usuários ficaram indignados com o brilho por ausência da festividade pascoal.
 

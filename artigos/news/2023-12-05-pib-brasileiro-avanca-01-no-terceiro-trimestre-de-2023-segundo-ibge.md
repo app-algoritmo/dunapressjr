@@ -1,11 +1,12 @@
 ---
-title: "PIB brasileiro avança 0,1% no terceiro trimestre de 2023, segundo IBGE"
+title: PIB brasileiro avança 0,1% no terceiro trimestre de 2023, segundo IBGE
 date: 2023-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados indicam estabilidade, mas setores como agropecuária e exportações se destacam positivamente.
 

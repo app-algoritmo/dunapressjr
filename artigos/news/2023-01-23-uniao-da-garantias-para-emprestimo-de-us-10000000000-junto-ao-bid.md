@@ -1,11 +1,12 @@
 ---
-title: "União da garantias para empréstimo de US$ 100.000.000,00 junto ao BID"
+title: União da garantias para empréstimo de US$ 100.000.000,00 junto ao BID
 date: 2023-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## DESPACHO DE 20 DE JANEIRO DE 2023
 

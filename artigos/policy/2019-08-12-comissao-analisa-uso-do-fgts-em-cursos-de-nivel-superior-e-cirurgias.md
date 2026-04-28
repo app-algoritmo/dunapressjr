@@ -1,11 +1,12 @@
 ---
-title: "Comissão analisa uso do FGTS em cursos de nível superior e cirurgias"
+title: Comissão analisa uso do FGTS em cursos de nível superior e cirurgias
 date: 2019-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Mailza Gomes é favorável à proposta do senador Styvenson Valentim, que entende que limitações ao financiamento estudantil nos últimos anos diminuíram matrículas no ensino superior 
 

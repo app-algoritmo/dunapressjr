@@ -1,11 +1,12 @@
 ---
-title: "Livros infantis online e grátis"
+title: Livros infantis online e grátis
 date: 2019-04-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 O site *Children´s Books Forever* está disponibilizando para leitura gratuita títulos infantis em língua norueguesa. No momento são 5 livros, sendo três da coleção *Waldo*, incluindo o maravilhoso "Waldo, fortell meg om Jesus" (Waldo, conte-me sobre Jesus). 
 

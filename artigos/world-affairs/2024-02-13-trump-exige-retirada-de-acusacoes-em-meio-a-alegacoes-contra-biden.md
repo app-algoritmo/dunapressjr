@@ -1,11 +1,12 @@
 ---
-title: "Trump Exige Retirada de Acusações em Meio a Alegações Contra Biden"
+title: Trump Exige Retirada de Acusações em Meio a Alegações Contra Biden
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, entrou com um pedido urgente para a retirada imediata de todas as acusações contra ele no caso de apropriação de documentos confidenciais, após alegações de que o presidente atual, Joe Biden, também reteve materiais semelhantes. O recente relatório do investigador especial Robert Hur trouxe à tona evidências que sugerem que Biden, durante sua vice-presidência, reteve documentos confidenciais, levantando questionamentos sobre a voluntariedade de suas ações.
 

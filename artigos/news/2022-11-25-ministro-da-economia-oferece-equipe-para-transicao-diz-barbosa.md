@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Economia oferece equipe para transição, diz Barbosa"
+title: Ministro da Economia oferece equipe para transição, diz Barbosa
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Orçamento e PEC ficam fora de primeira conversa.
 

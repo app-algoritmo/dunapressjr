@@ -1,11 +1,13 @@
 ---
-title: "PF, em ação integrada, apreende veículo, embarcação e material contrabandeado em Itaipulândia/PR"
+title: PF, em ação integrada, apreende veículo, embarcação e material contrabandeado
+  em Itaipulândia/PR
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na quarta-feira, 10/6, policiais federais, durante patrulhamento terrestre do Lago de Itaipu, na cidade de Itaipulândia/PR, visualizaram uma van em alta velocidade seguindo em direção a base náutica daquele município. 
 

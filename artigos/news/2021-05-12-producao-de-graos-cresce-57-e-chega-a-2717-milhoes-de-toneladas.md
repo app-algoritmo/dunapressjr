@@ -1,11 +1,12 @@
 ---
-title: "Produção de grãos cresce 5,7% e chega a 271,7 milhões de toneladas"
+title: Produção de grãos cresce 5,7% e chega a 271,7 milhões de toneladas
 date: 2021-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Colheita esperada é de 271,7 milhões de toneladas, diz a Conab.
 

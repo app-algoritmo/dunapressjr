@@ -1,12 +1,13 @@
 ---
-title: "Saiba como a dieta certa transformou a carreira do tenista número 1 do mundo"
+title: Saiba como a dieta certa transformou a carreira do tenista número 1 do mundo
 date: 2024-01-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Assim como um nutricionista ajudou Djokovic a se reinventar em 2010, profissionais do setor fazem a diferença na vida de atletas de alto rendimento, amadores e todas as pessoas.
 

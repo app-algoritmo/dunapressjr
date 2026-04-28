@@ -1,11 +1,12 @@
 ---
-title: "Defesa e Cidadania asseguram continuidade de ações sociais"
+title: Defesa e Cidadania asseguram continuidade de ações sociais
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Defesa, Fernando Azevedo, recebeu para agenda de trabalho, o Ministro da Cidadania, Onix Lorenzoni, na manhã desta quarta-feira (03), na sede da Pasta. Azevedo destacou a importante parceria com o Ministério da Cidadania, que “possibilita ações sociais importantes para a sociedade”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus ameaça China com desaceleração econômica"
+title: Coronavírus ameaça China com desaceleração econômica
 date: 2020-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A epidemia de coronavírus gerou drásticas restrições ao
 tráfego, uma paralisia do turismo e queda do consumo, e ameaça agravar a

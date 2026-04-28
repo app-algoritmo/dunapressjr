@@ -1,11 +1,13 @@
 ---
-title: "Tribunal de Connecticut reabre processo contra inclusão de transgêneros no atletismo feminino"
+title: Tribunal de Connecticut reabre processo contra inclusão de transgêneros no
+  atletismo feminino
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Tribunal de Apelações do Segundo Circuito de Connecticut [reativou um processo movido por três atletas femininas de atletismo](https://www.naturalnews.com/wp-admin/post.php?post=797826&action=edit) contra a permissão de atletas transexuais com identificação feminina competirem na categoria feminina.
 

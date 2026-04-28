@@ -1,11 +1,12 @@
 ---
-title: "Mais de 300 mil trabalhadores ainda não sacaram o Abono Salarial"
+title: Mais de 300 mil trabalhadores ainda não sacaram o Abono Salarial
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São R$ 208,5 milhões nos cofres do Estado.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF combate crimes ambientais no Amapá"
+title: PF combate crimes ambientais no Amapá
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, na manhã desta quarta-feira (10/6), a Operação Marrocos*, para combater crimes ambientais, visando reprimir instalação de serrarias sem autorização legal, crime de receptação e desmatamento de área pública, em Mazagão, no Amapá.
 

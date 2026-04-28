@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que governo não conseguirá dar reajuste a servidores"
+title: Ministro diz que governo não conseguirá dar reajuste a servidores
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes diz que pode dar aumento se reforma administrativa for aprovada.
 

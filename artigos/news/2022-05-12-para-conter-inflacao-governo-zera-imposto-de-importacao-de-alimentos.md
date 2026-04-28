@@ -1,11 +1,12 @@
 ---
-title: "Para conter inflação, governo zera imposto de importação de alimentos"
+title: Para conter inflação, governo zera imposto de importação de alimentos
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Carnes, farinha de trigo e biscoitos estão entre os produtos afetados.
 

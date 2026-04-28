@@ -1,11 +1,12 @@
 ---
-title: "NY Times: As mortes por COVID foram superestimadas"
+title: 'NY Times: As mortes por COVID foram superestimadas'
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 E agora o COVID se transformou em um resfriado para quase todos.
 

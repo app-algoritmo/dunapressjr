@@ -1,11 +1,12 @@
 ---
-title: "Conab prevê produção recorde de grãos na safra 2020/21"
+title: Conab prevê produção recorde de grãos na safra 2020/21
 date: 2020-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa é de 268,7 milhões de toneladas.
 

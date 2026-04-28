@@ -1,11 +1,12 @@
 ---
-title: "Entidades do setor produtos criticam aumento da Selic"
+title: Entidades do setor produtos criticam aumento da Selic
 date: 2022-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para CNI e Firjan, decisão prejudicará recuperação da economia.
 

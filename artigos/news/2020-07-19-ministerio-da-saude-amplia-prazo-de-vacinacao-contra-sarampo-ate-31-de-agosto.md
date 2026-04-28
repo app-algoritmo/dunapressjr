@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde amplia prazo de vacinação contra sarampo até 31 de agosto"
+title: Ministério da Saúde amplia prazo de vacinação contra sarampo até 31 de agosto
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde ampliou o período de vacinação contra o sarampo, para a população de 20 a 49 anos, até 31 de agosto. Dados preliminares das secretarias estaduais de saúde, registrados no Sistema de Informação do Programa Nacional de Imunizações, apontam que, desde o início da ação (16 de março) até o dia 15 de julho, foram vacinadas 3,7 milhões de pessoas nessa faixa-etária.
 

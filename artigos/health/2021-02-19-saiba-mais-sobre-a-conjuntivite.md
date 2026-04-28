@@ -1,11 +1,12 @@
 ---
-title: "Saiba mais sobre a conjuntivite"
+title: Saiba mais sobre a conjuntivite
 date: 2021-02-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Essa doença acontece porque a parte branca dos olhos, que é revestida por uma membrana transparente chamada conjuntiva, pode inflamar e assim causar a conjuntivite. Além disso, a conjuntivite também pode ocorrer com a inflamação do interior das pálpebras.
 

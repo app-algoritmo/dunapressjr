@@ -1,11 +1,12 @@
 ---
-title: "Moro se contradiz ao acusar Jair Bolsonaro"
+title: Moro se contradiz ao acusar Jair Bolsonaro
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ex ministro da Justiça e Segurança Pública, Sérgio Moro, anunciou sua demissão nesta sexta-feira (24) e denunciou tentativa do presidente Jair Bolsonaro de interferência política na Polícia Federal (PF). O estopim  foi a exoneração do diretor-geral da PF, Maurício Leite Valeixo, publicada no *Diário Oficial* de hoje.
 

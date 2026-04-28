@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica tem alta de 2,9% em 2022"
+title: Atividade econômica tem alta de 2,9% em 2022
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice é considerado prévia do PIB, que será divulgado em março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Onde Judas perdeu as botas (que o Judeu fabricou!)"
+title: Onde Judas perdeu as botas (que o Judeu fabricou!)
 date: 2020-03-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Quando você quer ir a um lugar onde nunca este antes, e ao observar a distância, e ver que é muito distante de sua residência, logo vem a sua mente: “*É lá onde Judas perdeu as botas*”, a não ser que você resida em *Caixa Prego*, pois não estará muito longe. 
 

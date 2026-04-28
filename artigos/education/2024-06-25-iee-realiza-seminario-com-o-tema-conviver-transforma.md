@@ -1,12 +1,13 @@
 ---
-title: "IEE realiza seminário com o tema Conviver Transforma!"
+title: IEE realiza seminário com o tema Conviver Transforma!
 date: 2024-06-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Evento do Instituto Esporte e Educação terá dois dias de atividades no Sesc Santo Amaro, nesta quarta-feira (26) e na quinta-feira (27), a partir das 10 horas.
 

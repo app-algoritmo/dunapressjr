@@ -1,11 +1,12 @@
 ---
-title: "Natal holandês: confira receitas de torta e doce tradicionais da celebração"
+title: 'Natal holandês: confira receitas de torta e doce tradicionais da celebração'
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 O Natal também é um período muito especial para a cultura holandesa. Conhecida como *Sinterklaas* (Festa de São Nicolau), a celebração nos Países Baixos inicia no mês de novembro, dura semanas e termina na *Pakjesavond*, dia 5 de dezembro, com a noite dos presentes, que marca o final de ano holandês. O auge é a presença do *Sint*, que, vestido de vermelho e com seu cavalo branco chamado de Amerigo, visita as criancinhas comportadas para deixar um presente.
 

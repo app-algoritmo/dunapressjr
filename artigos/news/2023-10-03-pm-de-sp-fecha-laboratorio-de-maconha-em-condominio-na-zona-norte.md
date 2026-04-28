@@ -1,11 +1,12 @@
 ---
-title: "PM de SP fecha laboratório de maconha em condomínio na zona norte"
+title: PM de SP fecha laboratório de maconha em condomínio na zona norte
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Casa em bairro nobre da capital paulista era usada para o cultivo da droga; os policiais militares apreenderam R$ 1,2 mil no local.
 

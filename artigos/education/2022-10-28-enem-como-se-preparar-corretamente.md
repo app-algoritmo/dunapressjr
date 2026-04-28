@@ -1,11 +1,12 @@
 ---
-title: "ENEM: Como se preparar corretamente"
+title: 'ENEM: Como se preparar corretamente'
 date: 2022-10-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 O ENEM é um exame nacional realizado pelo MEC (Ministério da Educação) com o objetivo de avaliar o nível de conhecimento dos estudantes que estão concluindo o ensino médio ou se preparando para prestar vestibular. O exame é dividido em duas partes: a primeira, denominada de "Prova Objetiva", é composta por 180 questões de múltipla escolha, divididas em quatro áreas do conhecimento (Ciências Humanas, Ciências da Natureza, Linguagens e Códigos e Matemática). Já a segunda parte, chamada de "Redação", é uma dissertação argumentativa sobre um tema atual.
 

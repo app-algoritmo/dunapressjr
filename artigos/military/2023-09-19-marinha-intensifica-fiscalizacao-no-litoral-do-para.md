@@ -1,11 +1,12 @@
 ---
-title: "Marinha intensifica fiscalização no litoral do Pará"
+title: Marinha intensifica fiscalização no litoral do Pará
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Foram 12 dias de operação, em dois municípios.
 

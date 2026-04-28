@@ -1,11 +1,12 @@
 ---
-title: "Portaria esclarece pontos da Lei Complementar nº 173/2020"
+title: Portaria esclarece pontos da Lei Complementar nº 173/2020
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A lei estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19).
 

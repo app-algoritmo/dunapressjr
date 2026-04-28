@@ -1,11 +1,12 @@
 ---
-title: "Governo lança site para validação de atestados e receitas"
+title: Governo lança site para validação de atestados e receitas
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Prescrição médica pode ser enviada em formato digital por e-mail e até por aplicativo de mensagem ao paciente. Medida permite que médicos, pacientes e farmacêuticos mantenham o relacionamento de forma 100% online e com segurança no envio de documentos.
 

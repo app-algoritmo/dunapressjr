@@ -1,11 +1,12 @@
 ---
-title: "Funcionários dos EUA: Não há necessidade da 3ª dose da vacina"
+title: 'Funcionários dos EUA: Não há necessidade da 3ª dose da vacina'
 date: 2021-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Oficiais se reúnem com representantes da Pfizer, concluem que não há necessidade de cidadãos totalmente vacinados receberem outra injeção neste momento.
 

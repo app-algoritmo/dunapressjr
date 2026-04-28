@@ -1,11 +1,13 @@
 ---
-title: "Governo Espanhol Alerta para Ameaça Crescente no Sahel e Possíveis Ramificações na Europa"
+title: Governo Espanhol Alerta para Ameaça Crescente no Sahel e Possíveis Ramificações
+  na Europa
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Sahel, uma vasta região africana onde a circulação de jihadistas é preocupantemente livre, é agora uma das principais preocupações de segurança para o Governo de Espanha. Segundo o Relatório de Segurança Nacional de 2023, elaborado pelo Departamento de Segurança Nacional (DSN) da Presidência do Governo, a região representa uma "ameaça real" como fonte de terroristas e de imigração irregular, destacando-se como uma área prioritária para a Espanha.
 

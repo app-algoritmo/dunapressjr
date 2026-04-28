@@ -1,11 +1,13 @@
 ---
-title: "Repasses federais para ações socioassistenciais chegam a 95,4% dos municípios elegíveis"
+title: Repasses federais para ações socioassistenciais chegam a 95,4% dos municípios
+  elegíveis
 date: 2020-07-15
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Percentual representa mais de 5,3 mil localidades, como Paragominas (PA), que teve orçamento quatro vezes maior para atender uma instituição de acolhimento de idosos.
 

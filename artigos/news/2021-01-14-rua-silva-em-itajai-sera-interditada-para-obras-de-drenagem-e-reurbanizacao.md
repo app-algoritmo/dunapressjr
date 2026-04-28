@@ -1,11 +1,12 @@
 ---
-title: "Rua Silva em Itajaí, será interditada para obras de drenagem e reurbanização"
+title: Rua Silva em Itajaí, será interditada para obras de drenagem e reurbanização
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí iniciou o projeto de revitalização da rua Doutor Pedro Ferreira e vias do entorno, no bairro Centro, nesta quarta-feira (13). As obras começaram pela rua Silva com drenagem e pavimentação. A Secretaria Municipal de Desenvolvimento Urbano e Habitação orienta os motoristas a tomarem rotas alternativas já que a via estará interditada entre a avenida Prefeito Paulo Bauer e a rua Cônego Tomás Fontes.
 

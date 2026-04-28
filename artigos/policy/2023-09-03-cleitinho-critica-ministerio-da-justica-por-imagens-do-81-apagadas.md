@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica Ministério da Justiça por imagens do 8/1 apagadas"
+title: Cleitinho critica Ministério da Justiça por imagens do 8/1 apagadas
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) criticou, em pronunciamento no Plenário na quarta-feira (30), a atuação da CPMI do 8 de janeiro e questionou o atraso na entrega de imagens do estacionamento do Ministério da Justiça para a comissão. De acordo com o parlamentar, as gravações poderiam apontar os culpados pelos ataques contra as sedes dos três Poderes. Mas como parte delas foi apagada, o senador pôs em dúvida a tese de inocência do atual governo. 
 

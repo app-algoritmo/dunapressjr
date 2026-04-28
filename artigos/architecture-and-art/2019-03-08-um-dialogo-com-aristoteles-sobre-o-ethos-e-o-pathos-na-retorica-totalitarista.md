@@ -1,11 +1,12 @@
 ---
-title: "Um diálogo com Aristóteles sobre o Ethos e o Pathos na retórica totalitarista"
+title: Um diálogo com Aristóteles sobre o Ethos e o Pathos na retórica totalitarista
 date: 2019-03-08
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Aristóteles tem muito a dialogar com os novos mestres sofistas e senhores da erística 
 

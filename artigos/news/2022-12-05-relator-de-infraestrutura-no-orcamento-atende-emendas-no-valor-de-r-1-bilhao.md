@@ -1,11 +1,12 @@
 ---
-title: "Relator de Infraestrutura no Orçamento atende emendas no valor de R$ 1 bilhão"
+title: Relator de Infraestrutura no Orçamento atende emendas no valor de R$ 1 bilhão
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O relator da área de Infraestrutura do Orçamento de 2023, deputado [Rui Falcão (PT-SP)](https://www.camara.leg.br/deputados/73604), conseguiu atender emendas no valor de quase R$ 1 bilhão para o setor em seu parecer. Em seu relatório, o deputado afirma que os recursos para investimentos rodoviários e ferroviários vêm caindo ano a ano.
 

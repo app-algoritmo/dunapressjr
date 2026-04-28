@@ -1,11 +1,13 @@
 ---
-title: "Pandemia reforça importância das vacinas, com desafio de trazer esperança sem falsa sensação de segurança"
+title: Pandemia reforça importância das vacinas, com desafio de trazer esperança sem
+  falsa sensação de segurança
 date: 2021-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisas têm mostrado que 75% dos adultos precisam estar imunizados para que medidas de proteção sejam afrouxadas.
 

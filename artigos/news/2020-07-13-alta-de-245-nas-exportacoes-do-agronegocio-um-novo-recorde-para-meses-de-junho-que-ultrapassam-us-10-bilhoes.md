@@ -1,11 +1,13 @@
 ---
-title: "Alta de 24,5% nas exportações do agronegócio, um novo recorde para meses de junho, que ultrapassam US$ 10 bilhões"
+title: Alta de 24,5% nas exportações do agronegócio, um novo recorde para meses de
+  junho, que ultrapassam US$ 10 bilhões
 date: 2020-07-13
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O desempenho favorável é resultado principalmente das vendas de soja, açúcar, carnes bovina e suína.
 

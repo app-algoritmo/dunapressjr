@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa completa 11 sessões consecutivas de queda"
+title: Ibovespa completa 11 sessões consecutivas de queda
 date: 2023-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## China decepciona e bolsas mundiais sofrem impacto negativo. 
 

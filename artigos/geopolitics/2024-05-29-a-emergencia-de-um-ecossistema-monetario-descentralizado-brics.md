@@ -1,11 +1,12 @@
 ---
-title: "A Emergência de um Ecossistema Monetário Descentralizado BRICS+"
+title: A Emergência de um Ecossistema Monetário Descentralizado BRICS+
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Prepare-se para uma potencial revolução geoeconômica em 2024: a emergência de um ecossistema monetário descentralizado pelo BRICS+. Este conceito, chamado de "Unidade", tem sido discutido pelo Grupo de Trabalho de Serviços Financeiros e Investimentos do Conselho Empresarial do BRICS+ e pode se tornar uma política oficial até 2025.
 

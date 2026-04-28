@@ -1,11 +1,13 @@
 ---
-title: "China pronta para continuar a reforçar relações bilaterais com a Rússia, diz Xi Jinping"
+title: China pronta para continuar a reforçar relações bilaterais com a Rússia, diz
+  Xi Jinping
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O líder chinês acrescentou que Pequim espera "um maior fortalecimento da cooperação entre a Duma de Estado e a Assembleia Popular Nacional [APN], a fim de formar uma base jurídica sólida para o desenvolvimento das relações bilaterais".
 

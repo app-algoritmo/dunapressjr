@@ -1,11 +1,13 @@
 ---
-title: "Setor de máquinas e equipamentos sofre novo declínio em receita em meio a desaceleração econômica"
+title: Setor de máquinas e equipamentos sofre novo declínio em receita em meio a desaceleração
+  econômica
 date: 2023-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Receita líquida total de vendas registra queda de 10,5% em relação a julho do ano passado e de 4,6% em relação a junho.
 

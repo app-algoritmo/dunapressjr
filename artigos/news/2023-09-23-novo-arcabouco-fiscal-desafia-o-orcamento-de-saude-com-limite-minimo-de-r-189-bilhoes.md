@@ -1,11 +1,13 @@
 ---
-title: "Novo arcabouço fiscal desafia o orçamento de saúde com limite mínimo de R$ 189 bilhões"
+title: Novo arcabouço fiscal desafia o orçamento de saúde com limite mínimo de R$
+  189 bilhões
 date: 2023-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Governo brasileiro enfrenta dilema para garantir recursos e cumprir a constituição em meio a incertezas orçamentárias.
 

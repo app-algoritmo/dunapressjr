@@ -1,11 +1,12 @@
 ---
-title: "Presidente afirma que vai conversar com parlamentares sobre Nova Previdência"
+title: Presidente afirma que vai conversar com parlamentares sobre Nova Previdência
 date: 2019-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *“Gostaria de atender mais políticos no Planalto, mas o dia tem 24 horas”, diz Bolsonaro*
 

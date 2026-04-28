@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros iniciam doutorado virtual nos EUA"
+title: Brasileiros iniciam doutorado virtual nos EUA
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em um esforço conjunto da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e da Fundação Fulbright, estudantes brasileiros iniciam neste semestre suas atividades letivas em instituições dos Estados Unidos, em modo *on-line*. A duas organizações procuraram viabilizar, com a maior rapidez possível, o ingresso dos alunos de doutorado pleno no calendário letivo das instituições norte-americanas. Bolsistas que já começaram suas aulas virtuais estão empolgados com a oportunidade de antecipar as atividades letivas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Máquina de Gramme"
+title: Máquina de Gramme
 date: 2019-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: 50 máquinas que
 mudaram o rumo da História. Vamos falar sobre a Máquina de Gramme.

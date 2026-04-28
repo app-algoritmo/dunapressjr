@@ -1,11 +1,12 @@
 ---
-title: "Operação Cidade Segura apreende drogas, faz prisões e retém veículos em Curitiba"
+title: Operação Cidade Segura apreende drogas, faz prisões e retém veículos em Curitiba
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em dois dias, 500 quilômetros de vias que foram patrulhados na Capital. As forças de segurança realizaram ações de bloqueio, verificação de estabelecimentos, abordagem a pessoas e fiscalização de veículos. Mais de 380 veículos foram vistoriados e, destes, 52 autuados por irregularidades.
 

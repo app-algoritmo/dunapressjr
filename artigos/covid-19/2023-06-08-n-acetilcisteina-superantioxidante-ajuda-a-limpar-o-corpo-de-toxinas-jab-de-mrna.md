@@ -1,11 +1,13 @@
 ---
-title: "N-acetilcisteína superantioxidante ajuda a limpar o corpo de toxinas jab de mRNA"
+title: N-acetilcisteína superantioxidante ajuda a limpar o corpo de toxinas jab de
+  mRNA
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A presença de óxido de grafeno e outros produtos químicos nocivos nas “vacinas” do coronavírus Wuhan (COVID-19) está afetando muito a saúde de todas as pessoas que foram injetadas com uma – e possivelmente dos não vacinados que estão sendo “ derramado” também. Existe [uma solução](https://www.theepochtimes.com/super-antioxidant-n-acetylcysteine-nac-can-help-rid-your-body-mrna-vaccine-toxins_5305626.html) , porém: *N-acetilcisteína* , também conhecida como NAC.
 

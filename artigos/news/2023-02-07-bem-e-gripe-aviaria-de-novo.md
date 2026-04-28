@@ -1,11 +1,12 @@
 ---
-title: "Bem, é gripe aviária... de novo"
+title: Bem, é gripe aviária... de novo
 date: 2023-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Você se lembra do ano passado? Você se lembra do “surto de [gripe aviária](https://off-guardian.org/2022/04/11/bird-flu-another-phony-pandemic-this-time-for-chickens/) ” na primavera?
 

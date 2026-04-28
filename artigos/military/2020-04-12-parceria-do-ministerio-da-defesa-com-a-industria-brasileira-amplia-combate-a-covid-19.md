@@ -1,11 +1,13 @@
 ---
-title: "Parceria do Ministério da Defesa com a indústria brasileira amplia combate à Covid-19"
+title: Parceria do Ministério da Defesa com a indústria brasileira amplia combate
+  à Covid-19
 date: 2020-04-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 12/04/2020 –** Oitenta e dois respiradores que necessitam de reparo serão transportados, pela Força Aérea Brasileira, para manutenção em diversas unidades do Serviço Nacional de Aprendizagem Industrial (SENAI). A iniciativa é resultado de parceria entre o Ministério da Defesa (MD), por meio da Secretaria de Produtos de Defesa (SEPROD), e a Confederação Nacional da Indústria (CNI). A ação também conta com o envolvimento da Chefia de Logística (CHELOG) do Ministério e faz parte da Operação COVID-19.
 

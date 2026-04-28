@@ -1,11 +1,12 @@
 ---
-title: "Em Nova York, Lira destaca compromisso da Câmara com a sustentabilidade"
+title: Em Nova York, Lira destaca compromisso da Câmara com a sustentabilidade
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## “A transição energética é uma realidade que se impõe no mundo de hoje", disse.
 

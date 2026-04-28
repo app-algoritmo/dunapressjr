@@ -1,11 +1,13 @@
 ---
-title: "Governo Lula estuda mudanças no saque-aniversário no FGTS, diz secretário em debate na Câmara"
+title: Governo Lula estuda mudanças no saque-aniversário no FGTS, diz secretário em
+  debate na Câmara
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ele afirmou também que sem o saque-aniversário, entre 2020 e 2022, cerca de 662 mil famílias poderiam ter sido beneficiadas com programas de habitação popular.
 

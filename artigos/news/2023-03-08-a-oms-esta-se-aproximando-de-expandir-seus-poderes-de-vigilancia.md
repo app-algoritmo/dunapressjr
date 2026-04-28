@@ -1,11 +1,12 @@
 ---
-title: "A OMS está se aproximando de expandir seus poderes de vigilância"
+title: A OMS está se aproximando de expandir seus poderes de vigilância
 date: 2023-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Organização Mundial da Saúde (OMS), uma organização global de saúde não eleita que recebe centenas de milhões de dólares anualmente de uma fundação do bilionário Bill Gates, está avançando com planos de expandir seus poderes de vigilância sob a lei internacional.
 

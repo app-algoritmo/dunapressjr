@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 4,86 e fecha no menor valor em dois meses"
+title: Dólar cai para R$ 4,86 e fecha no menor valor em dois meses
 date: 2023-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa sobe 2,29% e atinge nível mais alto desde agosto de 2021.
 

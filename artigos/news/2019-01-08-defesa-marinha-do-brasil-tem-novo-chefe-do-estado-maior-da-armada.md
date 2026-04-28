@@ -1,11 +1,12 @@
 ---
-title: "Defesa: Marinha do Brasil tem novo chefe do Estado-Maior da Armada"
+title: 'Defesa: Marinha do Brasil tem novo chefe do Estado-Maior da Armada'
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O almirante Ilques Barbosa Junior passou o cargo da chefia do Estado-Maior da Armada da Marinha do Brasil ao almirante Liseo Zampronio em cerimônia realizada, na sexta-feira (04), no Grupamento de Fuzileiros Navais de Brasília. O ministro da Defesa, Fernando Azevedo, foi recebido com honras militares e passou em revista a tropa.
 

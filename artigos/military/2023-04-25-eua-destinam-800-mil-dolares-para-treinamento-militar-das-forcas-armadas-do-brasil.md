@@ -1,11 +1,13 @@
 ---
-title: "EUA destinam 800 mil dólares para treinamento militar das Forcas Armadas do Brasil"
+title: EUA destinam 800 mil dólares para treinamento militar das Forcas Armadas do
+  Brasil
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Exército, Marinha e Aeronáutica do Brasil participam do orçamento do Departamento de Estado dos EUA chefiado por Antony Blinken.
 

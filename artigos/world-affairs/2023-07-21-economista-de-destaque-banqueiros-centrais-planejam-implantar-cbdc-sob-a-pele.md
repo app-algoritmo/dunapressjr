@@ -1,11 +1,13 @@
 ---
-title: "Economista de destaque: banqueiros centrais planejam implantar CBDC 'sob a pele'"
+title: 'Economista de destaque: banqueiros centrais planejam implantar CBDC ''sob
+  a pele'''
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um proeminente economista alemão disse que os bancos centrais estão planejando oferecer CBDCs (moedas digitais do banco central) na forma de microchips implantados sob a pele.
 

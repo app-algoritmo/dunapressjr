@@ -1,11 +1,12 @@
 ---
-title: "SP abre concurso para contratação de 2,7 mil soldados da PM de 2ª classe"
+title: SP abre concurso para contratação de 2,7 mil soldados da PM de 2ª classe
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Inscrições começam em 6 de novembro e vão até 20 de dezembro; candidatos devem ter entre 17 e 30 anos.
 

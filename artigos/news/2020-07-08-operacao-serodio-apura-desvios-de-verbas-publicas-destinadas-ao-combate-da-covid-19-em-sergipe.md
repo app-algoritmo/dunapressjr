@@ -1,11 +1,13 @@
 ---
-title: "Operação Serôdio apura desvios de verbas públicas destinadas ao combate da COVID-19 em Sergipe"
+title: Operação Serôdio apura desvios de verbas públicas destinadas ao combate da
+  COVID-19 em Sergipe
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aracaju/SE - A Polícia Federal deflagrou, nesta terça-feira (7/7) a Operação Serôdio, com o objetivo de obter provas para investigação que apura desvio de verbas públicas, associação criminosa, corrupção, fraudes na licitação e na execução do contrato para montagem da estrutura necessária ao funcionamento do Hospital de Campanha de Aracaju/SE. Também são procuradas provas da lisura de outras contratações concernentes ao referido hospital, a exemplo da rede de gases, rede elétrica e rede hidro sanitária. A operação conta com o apoio e a participação da Controladoria-Geral da União (CGU/SE).
 

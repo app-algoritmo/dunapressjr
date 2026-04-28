@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,4 bilhão em agosto"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,4 bilhão em agosto
 date: 2022-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número de investidores ativos passa de 2 milhões.
 

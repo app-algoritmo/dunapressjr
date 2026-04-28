@@ -1,12 +1,13 @@
 ---
-title: "Caxias Shopping e Grupo GSH são parceiros novamente em prol da doação de sangue"
+title: Caxias Shopping e Grupo GSH são parceiros novamente em prol da doação de sangue
 date: 2023-10-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
-  - Shopping
+- Health
+- Shopping
 ---
+
 
 ## Campanha de mobilização para doação de sangue acontecerá nos dias 18, 19 e 20 de outubro e pretende sensibilizar clientes do centro comercial para a importância deste ato que salva vidas.
 

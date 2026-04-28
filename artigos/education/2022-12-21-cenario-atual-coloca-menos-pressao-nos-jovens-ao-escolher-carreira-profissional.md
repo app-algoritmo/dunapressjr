@@ -1,12 +1,13 @@
 ---
-title: "Cenário atual coloca menos pressão nos jovens ao escolher carreira profissional"
+title: Cenário atual coloca menos pressão nos jovens ao escolher carreira profissional
 date: 2022-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 Com os últimos meses do ano, chegam os vestibulares e, com eles, uma questão de peso: **qual carreira os estudantes devem escolher para seu futuro?** A autora do livro “A escolha profissional: do jovem ao adulto”, Dulce Helena Penna Soares, defende que a escolha profissional é influenciada por fatores políticos, econômicos, sociais, familiares e psicológicos, como percalços econômicos que afetam a vida profissional, a divisão da sociedade em classes sociais, a busca da realização das expectativas familiares e as motivações, habilidades e competências pessoais do profissional. Por conta dessas questões, ainda é muito difícil para os jovens escolher a carreira que querem seguir – 82% dos mais de dois mil entrevistados pela plataforma de carreira Cmov, em 2021, revelaram não saber ou ter dúvidas na hora de definir a futura profissão.
 

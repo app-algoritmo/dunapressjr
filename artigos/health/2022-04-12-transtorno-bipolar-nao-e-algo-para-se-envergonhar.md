@@ -1,11 +1,12 @@
 ---
-title: "Transtorno Bipolar não é algo para se envergonhar"
+title: Transtorno Bipolar não é algo para se envergonhar
 date: 2022-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Segundo dados da Organização Mundial da Saúde (OMS), o transtorno afetivo bipolar atinge atualmente cerca de 140 milhões de pessoas no mundo e é considerada uma das principais causas de incapacidade.
 

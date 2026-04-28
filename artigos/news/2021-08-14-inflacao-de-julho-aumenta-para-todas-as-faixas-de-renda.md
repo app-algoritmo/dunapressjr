@@ -1,11 +1,12 @@
 ---
-title: "Inflação de julho aumenta para todas as faixas de renda"
+title: Inflação de julho aumenta para todas as faixas de renda
 date: 2021-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento foi maior para famílias da renda muito baixa.
 

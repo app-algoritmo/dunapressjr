@@ -1,11 +1,12 @@
 ---
-title: "Competição busca soluções de base tecnológica para economia criativa"
+title: Competição busca soluções de base tecnológica para economia criativa
 date: 2023-03-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inscrições ficam abertas até o próximo dia 22.
 

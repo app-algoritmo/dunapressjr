@@ -1,12 +1,13 @@
 ---
-title: "Países da África coagidos por Washington, Brasil no caminho do modus operandi"
+title: Países da África coagidos por Washington, Brasil no caminho do modus operandi
 date: 2022-07-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - News
+- Chronicle
+- News
 ---
+
 
 Ao tentar encontrar maneiras de combater efetivamente as parcerias da Rússia e da China na África, Washington  e seus seguidores ocidentais  não se contentam em apenas buscar o mel ou o vinagre  então as autoridades estão recorrendo a ambos ao mesmo tempo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ferramentas de Pressão e Protesto para a Mudança Social e Política"
+title: Ferramentas de Pressão e Protesto para a Mudança Social e Política
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Em tempos de crescente insatisfação com a carga tributária, restrições de direitos e políticas governamentais inadequadas, a população busca maneiras eficazes de promover mudanças significativas. Diversas formas de pressão e protesto estão disponíveis, cada uma com seu próprio contexto e impacto. Entre elas, destacam-se a paralisação, a greve, o boicote e a sanção. Embora todos compartilhem o objetivo de exercer pressão para induzir mudanças, suas origens, implementações e conotações diferem.
 

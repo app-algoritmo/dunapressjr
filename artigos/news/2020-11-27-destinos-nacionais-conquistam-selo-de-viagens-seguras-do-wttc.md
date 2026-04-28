@@ -1,11 +1,12 @@
 ---
-title: "Destinos nacionais conquistam selo de “Viagens Seguras” do WTTC"
+title: Destinos nacionais conquistam selo de “Viagens Seguras” do WTTC
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cresce o número de estados brasileiros que já contam com o selo Safe Travels do Conselho Mundial de Viagens e Turismo (WTTC), um reconhecimento pela adoção de protocolos de biossegurança contra o novo coronavírus. É o caso de Alagoas, Ceará, Mato Grosso do Sul, Minas Gerais, Pará, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Santa Catarina e São Paulo, que adotam protocolos globais de saúde e higiene no contexto da Covid-19.
 

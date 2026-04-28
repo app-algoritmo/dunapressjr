@@ -1,11 +1,12 @@
 ---
-title: "Acionistas da Petrobras elegem novos conselheiros de Administração"
+title: Acionistas da Petrobras elegem novos conselheiros de Administração
 date: 2022-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nomes foram aprovados em assembleia realizada em formato digital.
 

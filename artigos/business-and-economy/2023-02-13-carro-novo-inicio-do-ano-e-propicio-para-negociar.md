@@ -1,11 +1,12 @@
 ---
-title: "Carro novo: início do ano é propício para negociar"
+title: 'Carro novo: início do ano é propício para negociar'
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 Mesmo com as tradicionais contas de início de ano, como IPVA, IPTU, volta às aulas e os custos de emplacamento, seguro, documentação e demais processos que envolvem a compra de um carro novo, o primeiro trimestre é, tradicionalmente, um bom momento para negociar. Essa tendência é mostrada em um estudo recente realizado pela Serasa, em parceria com o Instituto Opinion Box, que aponta: 58% dos brasileiros entendem que vale a pena  investir em carro novo no começo do ano.
 

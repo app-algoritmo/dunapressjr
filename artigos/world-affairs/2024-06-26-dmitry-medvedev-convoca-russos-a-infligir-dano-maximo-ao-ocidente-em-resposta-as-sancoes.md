@@ -1,11 +1,13 @@
 ---
-title: "Dmitry Medvedev Convoca Russos a Infligir 'Dano Máximo' ao Ocidente em Resposta às Sanções"
+title: Dmitry Medvedev Convoca Russos a Infligir 'Dano Máximo' ao Ocidente em Resposta
+  às Sanções
 date: 2024-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um discurso contundente, o ex-presidente e primeiro-ministro russo, Dmitry Medvedev, instou os cidadãos russos a usar todas as oportunidades possíveis para causar "dano máximo" às nações ocidentais que, segundo ele, declararam uma "guerra sem regras" contra Moscou. As declarações de Medvedev, feitas em 13 de junho através de seu canal no Telegram, refletem uma linha dura em resposta às sanções cada vez mais rigorosas impostas pelo Ocidente à Rússia.
 

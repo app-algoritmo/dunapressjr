@@ -1,11 +1,12 @@
 ---
-title: "Cientistas pedem na CMO mais recursos para pesquisa e divulgação de resultados"
+title: Cientistas pedem na CMO mais recursos para pesquisa e divulgação de resultados
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Eles manifestaram insatisfação com a decisão da Câmara de manter o setor dentro dos limites fiscais anuais do novo arcabouço fiscal.
 

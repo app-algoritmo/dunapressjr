@@ -1,11 +1,13 @@
 ---
-title: "Em uma hora e meia teste rápido desenvolvido na UFPE e no HC pode detectar a Covid-19"
+title: Em uma hora e meia teste rápido desenvolvido na UFPE e no HC pode detectar
+  a Covid-19
 date: 2020-07-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Coordenadora da pesquisa é a professora da UFPE Rejane Pereira Neves.
 

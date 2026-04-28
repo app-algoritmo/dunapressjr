@@ -1,12 +1,14 @@
 ---
-title: "Parque Regional de Manutenção da 8ª Região Militar produz máscaras para prevenção ao COVID-19"
+title: Parque Regional de Manutenção da 8ª Região Militar produz máscaras para prevenção
+  ao COVID-19
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Belém (PA)** – O Parque Regional de Manutenção da 8ª
 Região Militar atendendo à demanda crescente por meios de proteção e prevenção

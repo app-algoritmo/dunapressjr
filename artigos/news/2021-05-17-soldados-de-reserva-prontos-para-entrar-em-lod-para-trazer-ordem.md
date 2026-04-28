@@ -1,11 +1,12 @@
 ---
-title: "Soldados de reserva prontos para entrar em Lod para trazer ordem"
+title: Soldados de reserva prontos para entrar em Lod para trazer ordem
 date: 2021-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Soldados da Brigada Alexandroni na fronteira de Gaza: Deixe os líderes darem as ordens certas e nós destruiremos o inimigo em todos os lugares.
 

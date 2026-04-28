@@ -1,11 +1,12 @@
 ---
-title: "Pandemia agravou casos de saúde mental entre estudantes, apontam especialistas"
+title: Pandemia agravou casos de saúde mental entre estudantes, apontam especialistas
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisas recentes mostram que cerca de 80% dos casos de saúde mental entre jovens de 15 a 29 anos no País ficam sem diagnóstico e, portanto, sem tratamento. Para os especialistas ouvidos pela Comissão de Educação da Câmara, é preciso entender que as consequências desse problema são prejudiciais para a vida das pessoas e para o País, pois há um aumento da evasão escolar.
 

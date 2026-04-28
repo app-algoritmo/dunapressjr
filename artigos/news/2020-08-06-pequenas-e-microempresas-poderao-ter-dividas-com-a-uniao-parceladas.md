@@ -1,11 +1,12 @@
 ---
-title: "Pequenas e microempresas poderão ter dívidas com a União parceladas"
+title: Pequenas e microempresas poderão ter dívidas com a União parceladas
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nova lei estende descontos sobre multas, juros e encargos e dá carência para início dos pagamentos de débitos.
 

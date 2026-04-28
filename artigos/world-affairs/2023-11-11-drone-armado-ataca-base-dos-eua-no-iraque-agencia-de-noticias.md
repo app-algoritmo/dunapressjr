@@ -1,11 +1,12 @@
 ---
-title: "Drone armado ataca base dos EUA no Iraque – agência de notícias"
+title: Drone armado ataca base dos EUA no Iraque – agência de notícias
 date: 2023-11-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo a Reuters, estamos falando da base aérea de Al-Harir, onde estão localizadas forças americanas e internacionais.
 

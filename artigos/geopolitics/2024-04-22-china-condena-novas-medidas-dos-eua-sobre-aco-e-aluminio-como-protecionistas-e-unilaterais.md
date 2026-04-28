@@ -1,11 +1,13 @@
 ---
-title: "China Condena Novas Medidas dos EUA sobre Aço e Alumínio como Protecionistas e Unilaterais"
+title: China Condena Novas Medidas dos EUA sobre Aço e Alumínio como Protecionistas
+  e Unilaterais
 date: 2024-04-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministério do Comércio da China emitiu uma forte oposição às novas medidas restritivas dos Estados Unidos sobre produtos chineses de aço e alumínio, anunciadas na quinta-feira. As novas medidas, que possivelmente triplicarão as tarifas sobre esses produtos, foram descritas como ações unilaterais e protecionistas pelos representantes chineses.
 

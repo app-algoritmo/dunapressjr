@@ -1,11 +1,13 @@
 ---
-title: "Ultrapassam os 12 mil estudantes do Piauí que receberam kits da alimentação escolar"
+title: Ultrapassam os 12 mil estudantes do Piauí que receberam kits da alimentação
+  escolar
 date: 2020-08-05
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Alimentos entregues pelas secretarias municipais de educação foram adquiridos com recursos do PNAE.
 

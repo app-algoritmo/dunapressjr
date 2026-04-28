@@ -1,13 +1,14 @@
 ---
-title: "A ascensão do Senhor, o que é e como é celebrado"
+title: A ascensão do Senhor, o que é e como é celebrado
 date: 2023-04-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - Education
-  - History
+- Culture and History
+- Education
+- History
 ---
+
 
 A ascensão de Jesus Cristo é um evento central na religião cristã que marca o momento em que ele subiu aos céus após sua ressurreição. Acredita-se que este evento tenha ocorrido cerca de quarenta dias após a Páscoa, e é comemorado anualmente pelos cristãos no dia da Ascensão, que cai quarenta dias após a Páscoa.
 

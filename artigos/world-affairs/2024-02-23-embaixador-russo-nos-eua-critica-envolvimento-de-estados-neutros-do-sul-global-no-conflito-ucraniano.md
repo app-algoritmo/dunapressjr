@@ -1,11 +1,13 @@
 ---
-title: "Embaixador Russo nos EUA Critica Envolvimento de Estados Neutros do Sul Global no Conflito Ucraniano"
+title: Embaixador Russo nos EUA Critica Envolvimento de Estados Neutros do Sul Global
+  no Conflito Ucraniano
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O embaixador russo nos Estados Unidos, Anatoly Antonov, lançou críticas à administração do presidente Joe Biden, acusando-a de tentar arrastar estados neutros do Sul Global para o conflito ucraniano. Em declarações aos jornalistas, Antonov destacou a preocupação com as tentativas de Washington e seus aliados de intensificar o conflito, em vez de concentrarem esforços na prestação eficaz de assistência aos parceiros.
 

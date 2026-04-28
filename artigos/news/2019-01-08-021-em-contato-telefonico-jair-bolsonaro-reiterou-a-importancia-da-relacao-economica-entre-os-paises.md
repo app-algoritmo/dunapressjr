@@ -1,11 +1,13 @@
 ---
-title: "02.1 Em contato telefônico, Jair Bolsonaro reiterou a importância da relação econômica entre os países"
+title: 02.1 Em contato telefônico, Jair Bolsonaro reiterou a importância da relação
+  econômica entre os países
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente da Colômbia propõe aprofundar relações com o Brasil
 

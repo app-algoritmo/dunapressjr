@@ -1,11 +1,13 @@
 ---
-title: "Governo Lula vira ‘cabide de emprego’ para deputados não eleitos e petistas esquecidos"
+title: Governo Lula vira ‘cabide de emprego’ para deputados não eleitos e petistas
+  esquecidos
 date: 2023-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Somente no Ministério da Justiça de Flávio Dino, dos sete secretários da pasta, cinco são parlamentares que não conseguiram se eleger em outubro.
 

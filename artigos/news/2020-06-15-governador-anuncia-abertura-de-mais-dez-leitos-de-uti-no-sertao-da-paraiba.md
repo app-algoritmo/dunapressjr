@@ -1,11 +1,12 @@
 ---
-title: "Governador anuncia abertura de mais dez leitos de UTI no Sertão da Paraíba"
+title: Governador anuncia abertura de mais dez leitos de UTI no Sertão da Paraíba
 date: 2020-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Oito respiradores serão destinados para o Complexo Hospitalar Regional Deputado Janduhy Carneiro, em Patos, e dois para o Hospital Regional de Cajazeiras.
 

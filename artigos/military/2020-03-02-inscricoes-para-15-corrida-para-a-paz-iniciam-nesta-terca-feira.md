@@ -1,11 +1,12 @@
 ---
-title: "Inscrições para 15ª Corrida para a Paz iniciam nesta terça feira"
+title: Inscrições para 15ª Corrida para a Paz iniciam nesta terça feira
 date: 2020-03-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 02/03/2020 -**
 As inscrições para participar da 15ª Corrida para a Paz serão abertas nesta

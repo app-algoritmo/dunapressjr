@@ -1,11 +1,13 @@
 ---
-title: "Presidente da Câmara afirma que perda de mandato de Deltan Dallagnol será analisada pela Corregedoria"
+title: Presidente da Câmara afirma que perda de mandato de Deltan Dallagnol será analisada
+  pela Corregedoria
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **Procedimentos para análise da decisão do TSE serão conduzidos de acordo com o regulamento interno**
 

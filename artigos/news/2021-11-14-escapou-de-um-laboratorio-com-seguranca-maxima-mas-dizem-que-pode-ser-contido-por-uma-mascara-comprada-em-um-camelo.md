@@ -1,11 +1,13 @@
 ---
-title: "Escapou de um laboratório com segurança máxima, mas dizem que pode ser contido por uma máscara comprada em um camelô"
+title: Escapou de um laboratório com segurança máxima, mas dizem que pode ser contido
+  por uma máscara comprada em um camelô
 date: 2021-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ### -O dano de mascarar crianças pode ser irreparável 
 

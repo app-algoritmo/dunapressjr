@@ -1,11 +1,12 @@
 ---
-title: "Nascidos de 1968 a 1983 podem agendar saque de valores esquecidos"
+title: Nascidos de 1968 a 1983 podem agendar saque de valores esquecidos
 date: 2022-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É necessário login prata ou ouro no Portal Gov.br para fazer retirada.
 

@@ -1,11 +1,12 @@
 ---
-title: "Educação norueguesa fortalece as disciplinas práticas e estéticas"
+title: Educação norueguesa fortalece as disciplinas práticas e estéticas
 date: 2019-08-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 O Governo norueguês lançou o programa *strategien Skaperglede* (alegria), *engasjement* (engajamento) og *utforskertrang *(exploração), parte do Conteúdo Prático e Estético (*praktiske og estetiske fag og arbeidsforme*r) na Educação Infantil, na Escola e na Formação de Professores. O trabalho criativo e inventivo, tanto nas disciplinas práticas e estéticas, quanto como na forma de trabalho em todas as disciplinas, ajuda a dar aos alunos habilidades criativas e inovadoras.
 

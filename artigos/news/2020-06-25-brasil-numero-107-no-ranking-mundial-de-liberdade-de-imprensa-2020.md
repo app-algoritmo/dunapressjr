@@ -1,12 +1,13 @@
 ---
-title: "Brasil número 107 no ranking mundial de liberdade de imprensa 2020"
+title: Brasil número 107 no ranking mundial de liberdade de imprensa 2020
 date: 2020-06-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Índice Mundial da Liberdade de Imprensa 2020: “Entrando em uma década decisiva para o jornalismo, exacerbada pelo coronavírus”.
 

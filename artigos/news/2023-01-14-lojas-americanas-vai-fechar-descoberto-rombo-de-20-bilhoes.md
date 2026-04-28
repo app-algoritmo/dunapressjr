@@ -1,11 +1,12 @@
 ---
-title: "Lojas Americanas vai fechar? Descoberto rombo de 20 Bilhões"
+title: Lojas Americanas vai fechar? Descoberto rombo de 20 Bilhões
 date: 2023-01-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Justiça do Rio suspende bloqueio de bens do Grupo Americanas.
 

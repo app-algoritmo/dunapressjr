@@ -1,11 +1,12 @@
 ---
-title: "A cultura do trigo será avaliada no Monitor do Seguro Rural"
+title: A cultura do trigo será avaliada no Monitor do Seguro Rural
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa coordenada pelo Departamento de Gestão de Riscos tem a participação e o apoio das entidades representativas dos produtores rurais, cooperativas e companhias seguradoras.
 

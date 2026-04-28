@@ -1,11 +1,12 @@
 ---
-title: "Democratas recorrerão à cantora Taylor Swift para tentar impedir Donald Trump"
+title: Democratas recorrerão à cantora Taylor Swift para tentar impedir Donald Trump
 date: 2024-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Você notou algo estranho ultimamente nas redes sociais? Por exemplo, sem ter ouvido (conscientemente) uma única nota da cantora americana **Taylor Swift** ou demonstrar o menor interesse pelo personagem, você o encontra em todos os lugares? Não se preocupe, provavelmente não é culpa sua, nem resultado do acaso. A mais recente "teoria da conspiração" sustenta que a superexposição da estrela da música na mídia é parte de uma "operação psicológica" levada a cabo por democratas desesperados para impedir uma vitória de Donald Trump nas eleições presidenciais de novembro.
 

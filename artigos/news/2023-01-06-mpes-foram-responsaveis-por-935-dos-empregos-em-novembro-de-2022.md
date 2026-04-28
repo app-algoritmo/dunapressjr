@@ -1,11 +1,12 @@
 ---
-title: "MPEs foram responsáveis por 93,5% dos empregos em novembro de 2022"
+title: MPEs foram responsáveis por 93,5% dos empregos em novembro de 2022
 date: 2023-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram criados 135 mil postos de trabalho no período, diz Sebrae.
 

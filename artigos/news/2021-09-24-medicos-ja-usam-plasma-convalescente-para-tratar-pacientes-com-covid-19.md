@@ -1,11 +1,12 @@
 ---
-title: "Médicos já usam plasma convalescente para tratar pacientes com Covid-19"
+title: Médicos já usam plasma convalescente para tratar pacientes com Covid-19
 date: 2021-09-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Usar o plasma convalescente doado por pacientes curados de Covid-19 para tratar pessoas infectadas com o SARS-CoV-2 é uma técnica utilizada em várias partes do mundo. No Brasil, o uso dessa parte do sangue rica em anticorpos ainda é uma terapia recente, mas efetiva. Marco Antônio Paes, 54 anos, de Itu, uma das cidades do estado de São Paulo cadastradas na rede de municípios para uso do plasma convalescente, organizada pelo Instituto Butantan, foi um dos primeiros pacientes a receber o tratamento. Aproximadamente 120 pessoas já utilizaram o plasma convalescente em todo o estado, utilizando 143 bolsas do líquido.  
 

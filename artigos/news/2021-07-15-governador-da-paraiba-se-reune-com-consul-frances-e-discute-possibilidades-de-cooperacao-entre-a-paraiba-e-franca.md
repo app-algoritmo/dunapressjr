@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba se reúne com cônsul francês e discute possibilidades de cooperação entre a Paraíba e França"
+title: Governador da Paraíba se reúne com cônsul francês e discute possibilidades
+  de cooperação entre a Paraíba e França
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo recebeu, nesta quarta-feira (14), em João Pessoa, o cônsul geral da França no Nordeste, Hugues Fantou, ocasião em que discutiu possibilidades de cooperação entre a Paraíba e o país em áreas estratégicas, como cultura, agricultura familiar, energias renováveis e saneamento básico. Na oportunidade, o chefe do Executivo estadual também apresentou oportunidades de negócios e investimentos realizados pelo governo em diversos segmentos. 
 

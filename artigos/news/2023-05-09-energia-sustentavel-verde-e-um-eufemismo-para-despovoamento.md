@@ -1,11 +1,12 @@
 ---
-title: "“Energia sustentável verde” é um eufemismo para despovoamento"
+title: “Energia sustentável verde” é um eufemismo para despovoamento
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Na semana passada, a Alemanha fechou seus últimos três reatores nucleares. Em meio à maior crise energética auto-infligida, desencadeada por demandas para cortar o fornecimento barato de gás russo à Europa, o ministro do Meio Ambiente da Alemanha, Steffi Lemke, declarou com toda a confiança de um devoto membro de culto: "A posição do governo alemão é clara: a energia nuclear não é verde. E também não é sustentável… Estamos no início de uma nova era na produção de energia.”
 

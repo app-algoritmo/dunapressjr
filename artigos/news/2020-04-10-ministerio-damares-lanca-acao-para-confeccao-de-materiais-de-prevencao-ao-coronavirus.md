@@ -1,11 +1,12 @@
 ---
-title: "Ministério Damares lança ação para confecção de materiais de prevenção ao coronavírus"
+title: Ministério Damares lança ação para confecção de materiais de prevenção ao coronavírus
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) iniciou, nesta quarta-feira (8), a ação "Tecidos para confecção de materiais de prevenção ao COVID-19".
 

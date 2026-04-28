@@ -1,13 +1,14 @@
 ---
-title: "Especial de natal, ARTIGO 142 faz temblar a república"
+title: Especial de natal, ARTIGO 142 faz temblar a república
 date: 2022-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - News
-  - Policy
+- Chronicle
+- News
+- Policy
 ---
+
 
 ## Os militares não precisam de autorização para intervenção constitucional.
 

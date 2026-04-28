@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro zera PIS e Cofins do diesel e do gás de cozinha"
+title: Bolsonaro zera PIS e Cofins do diesel e do gás de cozinha
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas foi publicada em edição extra do Diário Oficial.
 

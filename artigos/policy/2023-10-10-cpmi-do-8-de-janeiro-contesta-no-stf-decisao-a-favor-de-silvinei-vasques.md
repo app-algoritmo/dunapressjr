@@ -1,11 +1,12 @@
 ---
-title: "CPMI do 8 de Janeiro contesta no STF decisão a favor de Silvinei Vasques"
+title: CPMI do 8 de Janeiro contesta no STF decisão a favor de Silvinei Vasques
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Advocacia do Senado (Advosf), pediu nesta quinta-feira (5) ao Supremo Tribunal Federal (STF) a revogação da decisão liminar que suspendeu as quebras de sigilo do ex-diretor da Polícia Rodoviária Federal (PRF), Silvinei Vasques, impostas pela CPMI do 8 de janeiro. Segundo o agravo regimental, não haverá tempo para referendar a decisão antes do relatório final da CPMI, que deve ser lido em 17 de outubro.
 

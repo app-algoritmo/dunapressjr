@@ -1,11 +1,13 @@
 ---
-title: "Alexandre de Moraes: A Ascensão Meteórica e o Poder da Coragem na Política Brasileira"
+title: 'Alexandre de Moraes: A Ascensão Meteórica e o Poder da Coragem na Política
+  Brasileira'
 date: 2023-09-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A principal qualidade ressaltada por Guzzo em Moraes é a coragem. Ele desafia adversidades, assume riscos e não recua diante de desafios. Em um cenário político onde a maioria é vista como covardes, a destemida atitude do ministro se destaca e faz a diferença.
 

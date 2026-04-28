@@ -1,11 +1,13 @@
 ---
-title: "Esquecida escola para meninas nazistas do pré-guerra na costa do Reino Unido inspira novo filme de espionagem arrepiante"
+title: Esquecida escola para meninas nazistas do pré-guerra na costa do Reino Unido
+  inspira novo filme de espionagem arrepiante
 date: 2021-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 ## Eddie Izzard co-escreve e estrela em 'Six Minutes to Midnight', exibido em 26 de março, ambientado em Bexhill-on-Sea, onde as filhas de oficiais de Hitler estudaram para ganhar poder brando.
 

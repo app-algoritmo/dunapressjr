@@ -1,11 +1,12 @@
 ---
-title: "Produção brasileira de aço cresceu 11% em janeiro"
+title: Produção brasileira de aço cresceu 11% em janeiro
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para este ano, a projeção é aumento da produção de 6,7%.
 

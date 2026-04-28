@@ -1,11 +1,12 @@
 ---
-title: "<strong>Levantamento do Confaz mostra resultados do comércio interestadual</strong>"
+title: <strong>Levantamento do Confaz mostra resultados do comércio interestadual</strong>
 date: 2022-08-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Divulgação apresenta dados do primeiro quadrimestre do ano.
 

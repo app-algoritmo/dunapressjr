@@ -1,11 +1,12 @@
 ---
-title: "PF incinera 4,5 toneladas de drogas no Rio Grande do Sul"
+title: PF incinera 4,5 toneladas de drogas no Rio Grande do Sul
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre/RS - A Polícia Federal incinerou, na quarta-feira (25/6), 4,5 toneladas de drogas apreendidas no Rio Grande do Sul. A queima da droga ocorreu em Guaíba, na CMPC, e em Passo Fundo, na BSBIOS, empresas que apoiaram a ação.
 

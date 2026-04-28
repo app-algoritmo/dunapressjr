@@ -1,11 +1,12 @@
 ---
-title: "O Tamoyo, jornal andradino"
+title: O Tamoyo, jornal andradino
 date: 2022-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Também bicentenária, certa imprensa foi intrínseca ao processo de Independência do Brasil, no século XIX. O periódico O Tamoyo, lançado no Rio de Janeiro (RJ) em 12 de agosto de 1823, foi um exemplo e tanto nesse sentido. Fundado pelo estadista José Bonifácio de Andrada e Silva assim que acabou afastado do cargo de ministro do Reino e dos negócios estrangeiros, o jornal tinha função de defender a figura de seu dono, bem como de sustentar seu irmão, o também político Antônio Carlos Ribeiro de Andrada Machado e Silva, e demais figuras ligadas à dupla. Os redatores, entretanto, não eram os Andrada, mas dois amigos de José Bonifácio: Vasconcelos Drumond e França Miranda. Dado o complexo e turbulento contexto político que deu início ao Primeiro Reinado, o órgão impresso era mais do que necessário aos Andradas, sobretudo pelos ataques que recebiam do articulista português João Soares Lisboa, o redator do Correio do Rio de Janeiro.
 

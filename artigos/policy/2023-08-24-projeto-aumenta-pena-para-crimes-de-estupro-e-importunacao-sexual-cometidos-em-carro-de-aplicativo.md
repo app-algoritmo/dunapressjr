@@ -1,11 +1,13 @@
 ---
-title: "Projeto aumenta pena para crimes de estupro e importunação sexual cometidos em carro de aplicativo"
+title: Projeto aumenta pena para crimes de estupro e importunação sexual cometidos
+  em carro de aplicativo
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Pena máxima do estupro nesse caso passa de 10 para 12 anos; de importunação, de 5 para 6 anos.
 

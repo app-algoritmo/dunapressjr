@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Cuiabá e Mato Grosso"
+title: 'Série Fatos Da Independência: Cuiabá e Mato Grosso'
 date: 2023-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As notícias da Revolução do Porto chegaram às cidades de Cuiabá e Mato Grosso no final de maio de 1821 e, em 3 de junho daquele ano, o governador-geral Magessi organizou uma cerimônia de juramento às bases da nova constituição portuguesa. Nas ruas, corriam boatos de que o documento traria mudanças para a organização da administração colonial. Um episódio acabou por inflamar as discussões que já tomavam conta da cena pública em Cuiabá e Mato Grosso: no dia 18 de agosto de 1821, chegou a Cuiabá o comerciante Antônio Navarro de Abreu, que trouxe notícias sobre o sucesso das decisões das Cortes de Lisboa na Bahia e em São Paulo. Em ambos os locais, houve adesão ao novo modelo de governo proposto: o de Juntas de Governo. Na Bahia, ainda em fevereiro de 1821, o governador-geral foi deposto e uma Junta, eleita. O mesmo correu em São Paulo, em junho de 1821. Dois dias depois da chegada de Navarro de Abreu, batia à porta de Magessi um grupo armado, que o depôs. Segundo documento sobre a deposição do governador-geral, a “Tropa da Primeira e Segunda Linha, o clero, a nobreza e o povo” haviam deliberado e resolveram estabelecer uma Junta de Governo. O governador não resistiu e, assim, a Junta estabeleceu-se em Cuiabá.
 

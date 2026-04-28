@@ -1,11 +1,12 @@
 ---
-title: "Justiça nega novo recurso do BTG Pactual contra o Grupo Americanas"
+title: Justiça nega novo recurso do BTG Pactual contra o Grupo Americanas
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão é da desembargadora Leila Santos Lopes.
 

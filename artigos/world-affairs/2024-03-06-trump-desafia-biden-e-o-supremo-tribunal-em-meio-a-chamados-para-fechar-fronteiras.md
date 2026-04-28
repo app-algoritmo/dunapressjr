@@ -1,11 +1,12 @@
 ---
-title: "Trump desafia Biden e o Supremo Tribunal em meio a chamados para fechar fronteiras"
+title: Trump desafia Biden e o Supremo Tribunal em meio a chamados para fechar fronteiras
 date: 2024-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, lançou um apelo direto a Joe Biden, instando-o a enfrentar seus desafios sem recorrer a procuradores e juízes, enquanto o Supremo Tribunal dos Estados Unidos tomou uma decisão favorável a Trump em meio à contenda política em torno das primárias republicanas.
 

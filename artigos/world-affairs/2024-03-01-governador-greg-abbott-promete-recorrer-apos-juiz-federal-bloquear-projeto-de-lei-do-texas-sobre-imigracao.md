@@ -1,11 +1,13 @@
 ---
-title: "Governador Greg Abbott Promete Recorrer Após Juiz Federal Bloquear Projeto de Lei do Texas sobre Imigração"
+title: Governador Greg Abbott Promete Recorrer Após Juiz Federal Bloquear Projeto
+  de Lei do Texas sobre Imigração
 date: 2024-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governador Greg Abbott emitiu uma forte declaração em resposta à decisão de um juiz federal de bloquear o Projeto de Lei 4 do Senado do Texas, sancionado por ele em dezembro de 2023, enfatizando o direito constitucional do estado de se defender. Abbott afirmou que o Texas apelará imediatamente da decisão e não recuará em sua luta para proteger o estado e a nação da crise fronteiriça atribuída à administração Biden.
 

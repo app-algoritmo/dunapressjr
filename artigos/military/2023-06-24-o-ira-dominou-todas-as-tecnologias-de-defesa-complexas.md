@@ -1,11 +1,12 @@
 ---
-title: "O Irã dominou todas as tecnologias de defesa complexas"
+title: O Irã dominou todas as tecnologias de defesa complexas
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Comandante da Força Aeroespacial do IRGC, Brigadeiro-General Amir-Ali Hajizadeh disse que o alcance dos mísseis hipersônicos iranianos pode aumentar para 2.000 quilômetros, acrescentando que o Irã dominou todas as tecnologias avançadas no campo das indústrias de defesa.
 

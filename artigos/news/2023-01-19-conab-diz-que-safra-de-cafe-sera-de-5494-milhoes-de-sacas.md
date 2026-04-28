@@ -1,11 +1,12 @@
 ---
-title: "Conab diz que safra de café será de 54,94 milhões de sacas"
+title: Conab diz que safra de café será de 54,94 milhões de sacas
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Número pode ser 7,9% maior que o total colhido em 2022.
 

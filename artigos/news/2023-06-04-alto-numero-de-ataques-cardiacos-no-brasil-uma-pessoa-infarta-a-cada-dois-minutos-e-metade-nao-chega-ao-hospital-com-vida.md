@@ -1,11 +1,13 @@
 ---
-title: "Alto número de ataques cardíacos no Brasil: uma pessoa infarta a cada dois minutos e metade não chega ao hospital com vida"
+title: 'Alto número de ataques cardíacos no Brasil: uma pessoa infarta a cada dois
+  minutos e metade não chega ao hospital com vida'
 date: 2023-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Administrar uma loja de ferragens, passar mais tempo em família e reservar finais de semana para curtir a praia com a esposa. Até o dia 18 de março, a vida do comerciante Emilio Gaspari Filho, de 71 anos, era bastante ativa e rodeada por pregos, parafusos e acabamentos residenciais. Uma rotina intensa que foi interrompida inesperadamente por um infarto agudo do miocárdio, que evoluiu para um tromboembolismo pulmonar. Em estado grave, Emilio precisou travar uma batalha incansável enquanto permanecia internado no Hospital Universitário Cajuru, em Curitiba (PR). Foram 42 dias, entre cateterismo, intubação, traqueostomia e angioplastia, até receber a notícia mais aguardada: estava pronto para voltar para casa e sem nenhuma sequela. 
 

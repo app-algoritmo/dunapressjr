@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Fazenda discute tributação do comércio digital em reunião com Instituto para o Desenvolvimento do Varejo"
+title: Ministro da Fazenda discute tributação do comércio digital em reunião com Instituto
+  para o Desenvolvimento do Varejo
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Debate sobre alíquota de importação busca garantir isonomia e evitar impactos negativos no varejo e na indústria.
 

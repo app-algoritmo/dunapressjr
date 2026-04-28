@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem primeira queda semanal em um mês"
+title: Dólar tem primeira queda semanal em um mês
 date: 2020-10-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu nesta sexta, mas fechou semana em alta.
 

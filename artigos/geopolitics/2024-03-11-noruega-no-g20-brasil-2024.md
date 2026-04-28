@@ -1,12 +1,13 @@
 ---
-title: "Noruega no G20 Brasil 2024"
+title: Noruega no G20 Brasil 2024
 date: 2024-03-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Technology
+- Geopolitics
+- Technology
 ---
+
 
 A delegação norueguesa está pronta para marcar presença na próxima reunião do Grupo de Trabalho de Investigação e Inovação do G20, agendada para os dias 11 e 12 de Março. Este evento promete ser um ponto de convergência para líderes e especialistas em todo o mundo, unidos pelo objetivo comum de impulsionar a investigação e a inovação em escala global.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senador Irajá aponta situação crítica da saúde no Tocantins"
+title: Senador Irajá aponta situação crítica da saúde no Tocantins
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta terça-feira (28), o senador Irajá (PSD-TO) afirmou que a situação da saúde pública no Tocantins é "crítica". O parlamentar denunciou a gravidade da crise nos hospitais, que segundo ele enfrentam dificuldades para atender a demanda de pacientes, resultando em corredores lotados, filas de espera para leitos de UTI e aumento do número de óbitos por falta de atendimento. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Reforma Tributária pode avançar ainda mais na redução do Imposto de Renda de empresas, diz ministro da Economia"
+title: Reforma Tributária pode avançar ainda mais na redução do Imposto de Renda de
+  empresas, diz ministro da Economia
 date: 2021-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo Guedes, enfrentar o fim de subsídios hoje concedido a poucas empresas é essencial para permitir queda mais acentuada do IRPJ.
 

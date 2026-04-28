@@ -1,11 +1,12 @@
 ---
-title: "Bolsa recua 1,86% com ata do Fed e atinge menor nível desde janeiro"
+title: Bolsa recua 1,86% com ata do Fed e atinge menor nível desde janeiro
 date: 2023-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar encosta em R$ 5,17 e acumula alta de 1,81%.
 

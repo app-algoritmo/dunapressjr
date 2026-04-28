@@ -1,11 +1,12 @@
 ---
-title: "Crescente Crise na Alemanha: A Onda de Criminalidade e os Desafios da Multiculturalidade"
+title: 'Crescente Crise na Alemanha: A Onda de Criminalidade e os Desafios da Multiculturalidade'
 date: 2024-04-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 À medida que a Alemanha enfrenta uma crescente onda de criminalidade, alimentada por uma população estrangeira em ascensão, o debate sobre os desafios da multiculturalidade atinge um ponto crítico. Recentemente divulgadas pelo Ministério do Interior, estatísticas alarmantes revelam um aumento de 18% no número de criminosos estrangeiros, totalizando 923.000 no último ano. No entanto, mais preocupante do que os números é a natureza dos crimes, com crimes violentos atingindo níveis recordes.
 

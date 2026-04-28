@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro publica novas diretrizes para campanhas antidrogas"
+title: Governo Bolsonaro publica novas diretrizes para campanhas antidrogas
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todos os programas educacionais e preventivos devem ser fundamentados em evidências científicas e devem respeitar as diferenças, garantindo a diversidade. Campanhas devem cumprir as diretrizes estabelecidas pela Nova Política Nacional sobre Drogas.
 

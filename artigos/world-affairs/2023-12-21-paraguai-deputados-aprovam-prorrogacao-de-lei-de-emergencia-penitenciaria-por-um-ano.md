@@ -1,11 +1,13 @@
 ---
-title: "Paraguai: Deputados aprovam prorrogação de lei de emergência penitenciária por um ano"
+title: 'Paraguai: Deputados aprovam prorrogação de lei de emergência penitenciária
+  por um ano'
 date: 2023-12-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Câmara dos Deputados aprovou a prorrogação da declaração de emergência em todos os estabelecimentos penitenciários, o que garante recursos ao Ministério da Justiça e o uso de forças públicas para o plano de segurança.
 

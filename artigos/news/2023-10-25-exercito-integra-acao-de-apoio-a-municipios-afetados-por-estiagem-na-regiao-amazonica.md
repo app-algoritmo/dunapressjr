@@ -1,11 +1,13 @@
 ---
-title: "Exército integra ação de apoio a municípios afetados por estiagem na Região Amazônica"
+title: Exército integra ação de apoio a municípios afetados por estiagem na Região
+  Amazônica
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Milhares de cestas de alimentos foram encaminhadas a municípios em estado de emergência por causa da seca que atinge a Bacia do Rio Amazonas. A iniciativa integra ações das Forças Armadas em apoio à Defesa Civil do Amazonas, na Operação Estiagem.
 

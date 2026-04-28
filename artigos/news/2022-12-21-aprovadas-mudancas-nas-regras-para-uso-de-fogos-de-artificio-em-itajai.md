@@ -1,11 +1,12 @@
 ---
-title: "Aprovadas mudanças nas regras para uso de fogos de artifício em Itajaí"
+title: Aprovadas mudanças nas regras para uso de fogos de artifício em Itajaí
 date: 2022-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais um retrocesso em Itajaí, desta vez não são só os animais que serão prejudicados por mais descaso com a causa animal, idosos, autistas e demais pessoas que são prejudicadas com a queima de fogos e a soltura de fogos de artifício.
 

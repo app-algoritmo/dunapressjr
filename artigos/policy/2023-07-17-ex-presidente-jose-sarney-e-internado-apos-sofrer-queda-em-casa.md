@@ -1,11 +1,12 @@
 ---
-title: "Ex-presidente José Sarney é internado após sofrer queda em casa"
+title: Ex-presidente José Sarney é internado após sofrer queda em casa
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Médicos afirmam que ele está bem e com previsão de alta.
 

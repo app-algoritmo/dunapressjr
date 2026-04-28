@@ -1,11 +1,12 @@
 ---
-title: "Comissão de Orçamento deve receber até domingo relatórios setoriais"
+title: Comissão de Orçamento deve receber até domingo relatórios setoriais
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista de Orçamento deve receber até domingo os 16 relatórios setoriais do Orçamento de 2023. O objetivo é votar todos eles entre 7 e 8 de dezembro para manter o cronograma de votação do relatório final até o dia 16 de dezembro.
 

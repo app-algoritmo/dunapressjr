@@ -1,11 +1,12 @@
 ---
-title: "A Guarda do Rei HM Harald da Noruega"
+title: A Guarda do Rei HM Harald da Noruega
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Guarda do Rei "Garden", é o protetor militar, que garante a segurança da Família Real em tempos de paz, crise e guerra.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Legado de Abílio Diniz: Uma Era do Varejo que se Despede"
+title: 'O Legado de Abílio Diniz: Uma Era do Varejo que se Despede'
 date: 2024-02-23
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 ## Morreu o doutor Abílio, filho do “seu” Santos.
 

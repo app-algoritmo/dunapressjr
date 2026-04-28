@@ -1,11 +1,12 @@
 ---
-title: "Carlos Viana celebra aprovação da reforma tributária"
+title: Carlos Viana celebra aprovação da reforma tributária
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Viana (Podemos-MG) comemorou, em pronunciamento na quarta-feira (8), a aprovação no Plenário Senado da Proposta de Emenda à Constituição (PEC) [45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930) da reforma tributária. O senador informou que seu partido votou favoravelmente confiantes de que a reforma vai unificar os impostos e simplificar a vida dos geradores de emprego e renda no Brasil. A matéria segue agora para nova análise na Câmara dos Deputados.
 

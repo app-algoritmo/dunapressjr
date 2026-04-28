@@ -1,11 +1,13 @@
 ---
-title: "Escândalo e Demissão: O Caso do Primeiro-Ministro Peruano e os Desafios de Dina Boluarte"
+title: 'Escândalo e Demissão: O Caso do Primeiro-Ministro Peruano e os Desafios de
+  Dina Boluarte'
 date: 2024-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro peruano, Alberto Otárola, renunciou nesta terça-feira após um escândalo envolvendo alegações de favorecimento e oferecimento de emprego a uma jovem. Sua saída representa um golpe para o governo de Dina Boluarte, que perde seu principal apoio, especialmente após a crise desencadeada pela repressão aos protestos contra sua ascensão ao poder em dezembro de 2022, sucedendo ao demitido e preso Pedro Castillo.
 

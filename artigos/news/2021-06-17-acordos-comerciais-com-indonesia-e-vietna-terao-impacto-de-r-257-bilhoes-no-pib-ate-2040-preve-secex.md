@@ -1,11 +1,13 @@
 ---
-title: "Acordos comerciais com Indonésia e Vietnã terão impacto de R$ 25,7 bilhões no PIB até 2040, prevê Secex"
+title: Acordos comerciais com Indonésia e Vietnã terão impacto de R$ 25,7 bilhões
+  no PIB até 2040, prevê Secex
 date: 2021-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudos foram publicados nesta quarta-feira (16/6), com estimativas de alta para PIB, investimentos, salário real, exportações e importações totais, além de queda de preços ao consumidor
 

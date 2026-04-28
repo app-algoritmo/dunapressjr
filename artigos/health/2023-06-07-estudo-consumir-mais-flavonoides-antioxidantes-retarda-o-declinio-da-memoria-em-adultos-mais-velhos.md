@@ -1,11 +1,13 @@
 ---
-title: "Estudo: Consumir mais flavonoides antioxidantes retarda o declínio da memória em adultos mais velhos"
+title: 'Estudo: Consumir mais flavonoides antioxidantes retarda o declínio da memória
+  em adultos mais velhos'
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Um estudo recente publicado na revista *PNAS* vinculou  [a perda de memória relacionada à idade a uma dieta pobre em flavonoides](https://scitechdaily.com/forget-me-not-how-flavanols-fight-age-related-memory-loss/).
 

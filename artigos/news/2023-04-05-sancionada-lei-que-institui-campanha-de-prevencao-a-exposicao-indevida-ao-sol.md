@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei que institui campanha de prevenção à exposição indevida ao sol"
+title: Sancionada lei que institui campanha de prevenção à exposição indevida ao sol
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi sancionado a [Lei 14.539/23](https://www2.camara.gov.br/legin/fed/lei/2023/lei-14539-31-marco-2023-793983-norma-pl.html), que institui a Campanha Nacional de Prevenção da Exposição Indevida ao Sol, a ser veiculada anualmente pelo poder público nos meios de comunicação durante as férias escolares. A medida entra em vigor em 180 dias.
 

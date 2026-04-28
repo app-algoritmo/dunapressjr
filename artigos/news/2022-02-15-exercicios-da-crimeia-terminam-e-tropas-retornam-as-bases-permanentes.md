@@ -1,11 +1,12 @@
 ---
-title: "Exercícios da Crimeia terminam e tropas retornam às bases permanentes"
+title: Exercícios da Crimeia terminam e tropas retornam às bases permanentes
 date: 2022-02-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Os trens especiais entregarão o equipamento militar às regiões onde as tropas estão permanentemente estacionadas, em particular, no Daguestão e na Ossétia do Norte.
 

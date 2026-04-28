@@ -1,11 +1,12 @@
 ---
-title: "Facebook x Camboja: uma lição sobre como proteger o espaço da informação"
+title: 'Facebook x Camboja: uma lição sobre como proteger o espaço da informação'
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Depois de uma briga entre o gigante de mídia social dos EUA Meta* (também conhecido como Facebook *)* e o primeiro-ministro cambojano Hun Sen, o líder do Sudeste Asiático trocou o Facebook pelo Telegram, um aplicativo de mídia social usado nas ex-repúblicas soviéticas e popular entre um número crescente de outras países ao redor do mundo.
 

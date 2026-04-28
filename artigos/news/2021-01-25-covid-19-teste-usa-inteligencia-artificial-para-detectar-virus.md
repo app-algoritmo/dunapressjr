@@ -1,11 +1,12 @@
 ---
-title: "COVID-19: Teste usa inteligência artificial para detectar vírus"
+title: 'COVID-19: Teste usa inteligência artificial para detectar vírus'
 date: 2021-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior da (CAPES), alunos da Universidade Federal de Uberlândia (UFU),desenvolveram um teste rápido para a COVID-19 que usa a inteligência artificial para fazer o diagnóstico, a partir de uma pequena amostra de saliva e sem a necessidade de reagentes. O resultado sai em menos de dois minutos.
 

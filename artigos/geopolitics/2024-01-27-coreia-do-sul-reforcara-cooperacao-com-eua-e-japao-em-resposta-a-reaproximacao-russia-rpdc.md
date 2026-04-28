@@ -1,11 +1,13 @@
 ---
-title: "Coreia do Sul reforçará cooperação com EUA e Japão em resposta à reaproximação Rússia-RPDC"
+title: Coreia do Sul reforçará cooperação com EUA e Japão em resposta à reaproximação
+  Rússia-RPDC
 date: 2024-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## “O fortalecimento das capacidades de defesa em resposta às ameaças e provocações da Coreia do Norte é uma medida natural para proteger a nossa população”, diz o comunicado.
 

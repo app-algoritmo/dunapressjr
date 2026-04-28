@@ -1,11 +1,12 @@
 ---
-title: "Militares americanos embarcaram em Boeing C-17 para o Exercício CORE em Macapá"
+title: Militares americanos embarcaram em Boeing C-17 para o Exercício CORE em Macapá
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Na tarde deste domingo (29), parte da tropa militar norte-americana que está em Belém embarcou rumo a Macapá, no estado do Amapá, para a realização do Exercício CORE 23. 
 

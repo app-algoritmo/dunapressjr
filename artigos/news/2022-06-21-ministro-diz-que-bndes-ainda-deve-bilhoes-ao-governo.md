@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que BNDES ainda deve bilhões ao governo"
+title: Ministro diz que BNDES ainda deve bilhões ao governo
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes participou da comemoração dos 70 anos do banco.
 

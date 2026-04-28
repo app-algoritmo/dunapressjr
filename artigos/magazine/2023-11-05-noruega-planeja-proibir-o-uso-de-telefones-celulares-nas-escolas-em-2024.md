@@ -1,13 +1,14 @@
 ---
-title: "Noruega Planeja Proibir o Uso de Telefones Celulares nas Escolas em 2024"
+title: Noruega Planeja Proibir o Uso de Telefones Celulares nas Escolas em 2024
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
-  - Technology
+- Magazine
+- Policy
+- Technology
 ---
+
 
 A possível proibição do uso de telefones celulares nas escolas norueguesas é um movimento significativo que visa melhorar o desempenho acadêmico dos alunos e criar um ambiente de aprendizado mais seguro. As preocupações com o bullying online e os resultados acadêmicos ruins sendo número** [5 no ranking mundial](https://wisevoter.com/country-rankings/education-rankings-by-country/#norway)** ([Education Rankings by Country](https://wisevoter.com/country-rankings/education-rankings-by-country/#norway)) têm levado o [Ministério da Educação](https://www.regjeringen.no/en/dep/kd/id586/) a tomar medidas para estabelecer diretrizes nacionais que recomendem a retirada dos dispositivos móveis das salas de aula. Embora a recepção seja mista, essa iniciativa representa um esforço para promover uma educação mais focada e livre de distrações, com o bem-estar dos alunos em mente.
 

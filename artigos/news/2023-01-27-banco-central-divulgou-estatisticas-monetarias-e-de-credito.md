@@ -1,11 +1,12 @@
 ---
-title: "Banco Central divulgou Estatísticas Monetárias e de Crédito"
+title: Banco Central divulgou Estatísticas Monetárias e de Crédito
 date: 2023-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os dados divulgados são referentes até dezembro de 2022.
 

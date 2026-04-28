@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresceu 10,9% em 2021, informa o IBGE"
+title: Setor de serviços cresceu 10,9% em 2021, informa o IBGE
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a maior taxa desde o início da série histórica em 2012.
 

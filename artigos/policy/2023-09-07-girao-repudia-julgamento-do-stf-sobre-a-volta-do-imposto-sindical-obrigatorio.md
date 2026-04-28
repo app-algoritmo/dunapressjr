@@ -1,11 +1,12 @@
 ---
-title: "Girão repudia julgamento do STF sobre a volta do imposto sindical obrigatório"
+title: Girão repudia julgamento do STF sobre a volta do imposto sindical obrigatório
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) manifestou por videoconferência, nesta segunda-feira (4) na sessão plenária, seu repúdio ao julgamento do Supremo Tribunal Federal (STF), em que ministros formaram maioria a favor da contribuição assistencial para os sindicatos. Segundo ele, trata-se do retorno da cobrança obrigatória da contribuição sindical, fixada em até 1% do rendimento anual do trabalhador. 
 

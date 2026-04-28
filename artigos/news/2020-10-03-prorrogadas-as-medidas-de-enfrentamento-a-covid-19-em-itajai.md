@@ -1,11 +1,12 @@
 ---
-title: "Prorrogadas as medidas de enfrentamento à COVID-19 em Itajaí"
+title: Prorrogadas as medidas de enfrentamento à COVID-19 em Itajaí
 date: 2020-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí informa que estão prorrogadas as medidas de enfrentamento ao coronavírus (COVID-19), por meio do **Decreto Municipal n° 12.022/2020**. Não houve alterações nas proibições e/ou liberações desde o decreto anterior. A prorrogação decorre da Avaliação do Risco Potencial para COVID-19 realizada pelo Governo do Estado de Santa Catarina, visto que a Região da Foz do Rio Itajaí permanece com a indicação de Risco Potencial GRAVE. As prorrogações valem até 07 de outubro.
 

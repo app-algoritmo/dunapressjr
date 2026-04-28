@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro cria Tele-UTI que ajudará médicos do SUS nos atendimentos de Covid-19"
+title: Governo Bolsonaro cria Tele-UTI que ajudará médicos do SUS nos atendimentos
+  de Covid-19
 date: 2020-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto de Tele-UTI, do Ministério da Saúde, já está à disposição para todos os hospitais do País que possuem leitos de Unidades de Terapia Intensiva (UTI) para pacientes com Covid-19. A medida auxiliará os médicos do Sistema Único de Saúde (SUS) nos atendimentos dos casos de coronavírus. Os profissionais terão uma linha telefônica para ser acessada 24 horas ou poderão fazer consultas por meio de videoconferências com as equipes dos hospitais de excelência.
 

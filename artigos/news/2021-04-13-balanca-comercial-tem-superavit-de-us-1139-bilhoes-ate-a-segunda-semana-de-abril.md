@@ -1,11 +1,13 @@
 ---
-title: "Balança Comercial tem superávit de US$ 11,39 bilhões até a segunda semana de abril"
+title: Balança Comercial tem superávit de US$ 11,39 bilhões até a segunda semana de
+  abril
 date: 2021-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio anual atinge US$ 117,25 bilhões, com exportações no valor de US$ 64,32 bilhões e importações de US$ 52,93 bilhões.
 

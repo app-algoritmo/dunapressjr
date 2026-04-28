@@ -1,11 +1,13 @@
 ---
-title: "A perda de fertilidade não é apenas uma preocupação para os solteiros mais velhos"
+title: A perda de fertilidade não é apenas uma preocupação para os solteiros mais
+  velhos
 date: 2021-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Não apenas solteiros mais velhos: o instituto de preservação da fertilidade diz que a perda de fertilidade não é uma preocupação apenas para mulheres solteiras.
 

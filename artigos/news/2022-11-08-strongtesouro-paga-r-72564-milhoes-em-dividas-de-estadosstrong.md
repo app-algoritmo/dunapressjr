@@ -1,11 +1,12 @@
 ---
-title: "<strong>Tesouro paga R$ 725,64 milhões em dívidas de estados</strong>"
+title: <strong>Tesouro paga R$ 725,64 milhões em dívidas de estados</strong>
 date: 2022-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Este ano, a União já quitou R$ 7,41 bilhões de dívidas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal enviará SMS com orientações sobre o coronavírus"
+title: Governo Federal enviará SMS com orientações sobre o coronavírus
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo, Rio de Janeiro e Ceará, estados com o maior número de casos confirmados, serão os primeiros a receber os avisos pelo celular. A mensagem reforça cuidados que os cidadãos devem ter para conter o avanço da contaminação pelo vírus
 

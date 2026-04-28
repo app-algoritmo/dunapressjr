@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra a segunda fase da Operação Rastreio"
+title: PF deflagra a segunda fase da Operação Rastreio
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Marabá/PA - A Polícia Federal deflagrou nesta quinta-feira, 28/5, a Operação Rastreio II, objetivando desarticular organização criminosa (ORCRIM) que realizava assaltos a caminhões de transportes de encomendas da Empresa Brasileira de Correios e Telégrafos (Correios) nas estradas do Pará.
 

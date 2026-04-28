@@ -1,11 +1,12 @@
 ---
-title: "Seif diz que governo deveria ajudar Israel em conflito contra o Hamas"
+title: Seif diz que governo deveria ajudar Israel em conflito contra o Hamas
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) afirmou, em pronunciamento na terça-feira (10), que o governo federal “não fez mais que a sua obrigação” ao resgatar cidadãos brasileiros em Israel com aviões das Forças Aérea Brasileira (FAB). Para o parlamentar, o governo deveria enviar o Exército para auxiliar os israelenses no conflito contra o grupo palestino Hamas. Seif lembrou que soldados israelenses vieram ao Brasil ajudar na tragédia de Brumadinho (MG) em 2019.
 

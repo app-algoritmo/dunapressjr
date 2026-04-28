@@ -1,11 +1,13 @@
 ---
-title: "Senadora Damares Alves critica atuação do ministro Alexandre de Moraes em manifestação pró-Bolsonaro"
+title: Senadora Damares Alves critica atuação do ministro Alexandre de Moraes em manifestação
+  pró-Bolsonaro
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Damares Alves (Republicanos-DF) fez um pronunciamento nesta segunda-feira (22), destacando o apoio expresso ao ex-presidente Jair Bolsonaro durante um ato no Rio de Janeiro, no domingo (21). Ela enfatizou que muitos manifestantes foram às ruas para expressar descontentamento em relação ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).
 

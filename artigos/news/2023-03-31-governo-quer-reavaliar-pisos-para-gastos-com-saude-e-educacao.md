@@ -1,11 +1,12 @@
 ---
-title: "Governo quer reavaliar pisos para gastos com saúde e educação"
+title: Governo quer reavaliar pisos para gastos com saúde e educação
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças ocorreriam por emenda constitucional a partir de 2025.
 

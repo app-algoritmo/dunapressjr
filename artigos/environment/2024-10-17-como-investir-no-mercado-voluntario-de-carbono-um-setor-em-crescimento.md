@@ -1,11 +1,12 @@
 ---
-title: "Como Investir no Mercado Voluntário de Carbono: Um Setor em Crescimento"
+title: 'Como Investir no Mercado Voluntário de Carbono: Um Setor em Crescimento'
 date: 2024-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 Nos últimos anos, o mercado de carbono, tanto o regulado quanto o voluntário, vem ganhando destaque como uma das principais ferramentas de combate às mudanças climáticas. O mercado voluntário de carbono, em especial, tem se tornado uma alternativa promissora para investidores que buscam alinhar seus portfólios com práticas de sustentabilidade.
 

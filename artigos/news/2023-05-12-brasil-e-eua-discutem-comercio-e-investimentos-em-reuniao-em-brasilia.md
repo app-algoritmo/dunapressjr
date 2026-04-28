@@ -1,11 +1,12 @@
 ---
-title: "Brasil e EUA discutem comércio e investimentos em reunião em Brasília"
+title: Brasil e EUA discutem comércio e investimentos em reunião em Brasília
 date: 2023-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Representantes discutem acordos bilaterais e renovação do Sistema Geral de Preferências (SGP) para impulsionar comércio entre os países.
 

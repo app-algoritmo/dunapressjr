@@ -1,11 +1,12 @@
 ---
-title: "Receita abre consulta a lote residual de restituição do IR"
+title: Receita abre consulta a lote residual de restituição do IR
 date: 2021-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 175 mil contribuintes receberão R$ 285 milhões.
 

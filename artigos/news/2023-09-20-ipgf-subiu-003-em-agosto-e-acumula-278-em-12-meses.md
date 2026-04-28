@@ -1,11 +1,12 @@
 ---
-title: "IPGF subiu 0,03% em agosto e acumula 2,78% em 12 meses"
+title: IPGF subiu 0,03% em agosto e acumula 2,78% em 12 meses
 date: 2023-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Índice revela sutil reaceleração da inflação, mas se mantém abaixo do IPCA.
 

@@ -1,11 +1,13 @@
 ---
-title: "O Japão agora está usando a tecnologia de 'detecção comportamental' para prevenir o crime com antecedência"
+title: O Japão agora está usando a tecnologia de 'detecção comportamental' para prevenir
+  o crime com antecedência
 date: 2023-07-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Tecnologia distópica em nome da segurança.
 

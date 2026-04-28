@@ -1,11 +1,13 @@
 ---
-title: "Campanha Nacional de vacina contra gripe começou nesta segunda-feira em todo o País"
+title: Campanha Nacional de vacina contra gripe começou nesta segunda-feira em todo
+  o País
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Começou, nesta segunda-feira (23), a Campanha Nacional de Vacinação contra a Gripe. Neste ano, a imunização dos brasileiros será dividida em três etapas. Neste primeiro momento, os públicos prioritários são os idosos e trabalhadores da saúde. A meta do Ministério da Saúde é vacinar 90% de todos os públicos prioritários da campanha. Cerca de 67,6 milhões de pessoas devem procurar os postos de saúde até o dia 22 de maio para se vacinar. Para garantir a imunização da população, o ministério adquiriu 75 milhões de doses da vacina, que já estão sendo distribuídos para os estados. 
 

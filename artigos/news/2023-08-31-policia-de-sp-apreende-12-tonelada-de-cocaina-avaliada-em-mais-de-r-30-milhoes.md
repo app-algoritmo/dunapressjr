@@ -1,11 +1,12 @@
 ---
-title: "Polícia de SP apreende 1,2 tonelada de cocaína avaliada em mais de R$ 30 milhões"
+title: Polícia de SP apreende 1,2 tonelada de cocaína avaliada em mais de R$ 30 milhões
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Droga estava em um galpão em Guarulhos; quatro homens foram presos em flagrante.
 

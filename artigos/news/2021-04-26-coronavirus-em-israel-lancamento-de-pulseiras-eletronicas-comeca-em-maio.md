@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus em Israel: lançamento de pulseiras eletrônicas começa em maio"
+title: 'Coronavírus em Israel: lançamento de pulseiras eletrônicas começa em maio'
 date: 2021-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um porta-voz da SuperCom disse que eles têm 5.000 kits prontos para serem implantados assim que o governo desejar.
 

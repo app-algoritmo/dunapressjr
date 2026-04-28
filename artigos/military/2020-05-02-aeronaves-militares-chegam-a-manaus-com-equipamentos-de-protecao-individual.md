@@ -1,11 +1,12 @@
 ---
-title: "Aeronaves Militares chegam a Manaus com Equipamentos de Proteção Individual"
+title: Aeronaves Militares chegam a Manaus com Equipamentos de Proteção Individual
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 02/05/2020 -** Neste sábado (02), como parte das ações do Governo Federal, que, por meio do Ministério da Defesa, vem priorizando o transporte de material de saúde, duas aeronaves Embraer KC-390 Millennium, da Força Aérea Brasileira (FAB), chegam a Manaus com grande quantidade de material de saúde. As aeronaves realizam o transporte de cerca de 452 mil Equipamentos de Proteção Individual (EPI’s), sendo 300 mil unidades de máscaras cirúrgicas, 17 mil unidades de máscaras N95, 130 mil unidades de luvas, 4.080 óculos e 1.300 aventais, além de 1.080 litros de álcool em gel, doados pela Fundação Itaú para Educação e Cultura.
 

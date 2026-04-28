@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal inaugura sistema de abastecimento em município baiano"
+title: Governo Federal inaugura sistema de abastecimento em município baiano
 date: 2020-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Empreendimento em Campo Alegre de Lourdes recebeu R$ 90 milhões de investimentos; mais de 40 mil pessoas serão beneficiadas com água tratada e regular.
 

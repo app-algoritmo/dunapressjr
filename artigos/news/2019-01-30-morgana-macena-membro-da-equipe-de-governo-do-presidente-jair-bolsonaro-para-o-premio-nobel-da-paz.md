@@ -1,11 +1,13 @@
 ---
-title: "Morgana Macena, membro da equipe de governo do Presidente Jair Bolsonaro para o Prêmio Nobel da Paz"
+title: Morgana Macena, membro da equipe de governo do Presidente Jair Bolsonaro para
+  o Prêmio Nobel da Paz
 date: 2019-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Reconhecida por seu trabalho e ações contra todos os obstáculos que impedem as crianças de terem bem-estar, saúde, proteção, educação e todas as garantias dos Direitos Universais da Criança. Por mais de duas décadas Morgana Macena dedica sua vida para defender a infância e evitar que sofram violência, abusos sexuais, estupro, exploração e tráfico (comércio).
 

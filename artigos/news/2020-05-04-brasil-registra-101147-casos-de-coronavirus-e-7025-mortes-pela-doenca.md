@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 101.147 casos de coronavírus e 7.025 mortes pela doença"
+title: Brasil registra 101.147 casos de coronavírus e 7.025 mortes pela doença
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As informações foram atualizadas pelas Secretarias Estaduais de Saúde até as 14h deste domingo (3). Do total de casos confirmados, 42.991 estão recuperados e outros 51.131 estão em acompanhamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Embaixador Russo nos EUA Destaca Crescente Fadiga Ocidental em Apoiar a Ucrânia"
+title: Embaixador Russo nos EUA Destaca Crescente Fadiga Ocidental em Apoiar a Ucrânia
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O embaixador da Rússia nos Estados Unidos, Anatoly Antonov, alertou sobre a crescente fadiga nos países ocidentais em relação ao apoio financeiro à Ucrânia. Em declarações à imprensa, Antonov observou que os americanos comuns estão cada vez mais questionando o motivo de trabalharem arduamente e pagarem impostos, apenas para verem esses recursos serem destinados ao apoio financeiro e militar a um país distante no Leste Europeu.
 

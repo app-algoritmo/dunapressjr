@@ -1,11 +1,12 @@
 ---
-title: "Apreensão de drogas cresce 10,3% em sete meses no Estado de São Paulo"
+title: Apreensão de drogas cresce 10,3% em sete meses no Estado de São Paulo
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ao todo, 153 toneladas de entorpecentes foram apreendidas; total é o segundo maior em 23 anos.
 

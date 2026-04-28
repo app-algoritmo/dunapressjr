@@ -1,11 +1,12 @@
 ---
-title: "Apoio em mais 60 projetos de iniciação tecnológica pelo MEC"
+title: Apoio em mais 60 projetos de iniciação tecnológica pelo MEC
 date: 2020-06-12
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Cada projeto selecionado receberá cerca de R$ 123 mil.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IPC-S acelera em sete capitais em novembro"
+title: Inflação pelo IPC-S acelera em sete capitais em novembro
 date: 2020-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento médio dos preços foi de 0,94%, diz FGV.
 

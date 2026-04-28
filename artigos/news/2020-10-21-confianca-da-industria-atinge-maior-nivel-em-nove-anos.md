@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria atinge maior nível em nove anos"
+title: Confiança da indústria atinge maior nível em nove anos
 date: 2020-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice de Confiança da Indústria brasileira sobe 4 pontos.
 

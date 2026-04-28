@@ -1,11 +1,12 @@
 ---
-title: "Quase 4 milhões de novos negócios foram abertos em 2021"
+title: Quase 4 milhões de novos negócios foram abertos em 2021
 date: 2022-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento do Sebrae mostra recorde de micro e pequenas empresas.
 

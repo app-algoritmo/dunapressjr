@@ -1,11 +1,12 @@
 ---
-title: "Moraes manda periciar imagens de 8 de janeiro captadas pelo GSI"
+title: Moraes manda periciar imagens de 8 de janeiro captadas pelo GSI
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Polícia Federal tem prazo de 30 dias para cumprir determinação.
 

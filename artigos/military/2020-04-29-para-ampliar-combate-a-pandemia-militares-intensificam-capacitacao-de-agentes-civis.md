@@ -1,11 +1,13 @@
 ---
-title: "Para ampliar combate à pandemia, militares intensificam capacitação de agentes civis"
+title: Para ampliar combate à pandemia, militares intensificam capacitação de agentes
+  civis
 date: 2020-04-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação COVID-19 chega ao 40º dia de atividade com mais de 29 mil militares engajados, além do emprego de 1.022 viaturas, 102 embarcações e 32 aeronaves. Para ampliar o esforço na luta contra o novo Coronavírus, as Forças Armadas têm investido em capacitação não só do público interno, mas também de agentes civis. Eles são treinados desinfecção de ambientes públicos.
 

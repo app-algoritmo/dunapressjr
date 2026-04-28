@@ -1,11 +1,12 @@
 ---
-title: "Paraíba fecha 1º semestre com 157,5 mil empresas ativas"
+title: Paraíba fecha 1º semestre com 157,5 mil empresas ativas
 date: 2021-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Entre as atividades econômicas de maior representatividade mostram que o varejo permanece liderando ao concentrar as inscrições estaduais.
 

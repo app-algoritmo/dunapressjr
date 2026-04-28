@@ -1,11 +1,13 @@
 ---
-title: "Capitães brasileiros concluem Curso de Comandante de Subunidade do Exército Alemão"
+title: Capitães brasileiros concluem Curso de Comandante de Subunidade do Exército
+  Alemão
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Cinco oficiais do Exército Brasileiro concluíram o Curso Internacional de Comandante de Subunidade da Escola de Oficiais do Exército Alemão. Ao longo de quatro semanas, 18 oficiais de diferentes países aprenderam sobre liderança operacional e tática, com foco no processo decisório em operações de combate terrestre. O curso tem nível equivalente ao Aperfeiçoamento de Oficiais, com ênfase no planejamento e ações de estado-maior. 
 

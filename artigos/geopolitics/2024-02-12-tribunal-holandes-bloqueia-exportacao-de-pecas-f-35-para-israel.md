@@ -1,11 +1,12 @@
 ---
-title: "Tribunal Holandês Bloqueia Exportação de Peças F-35 para Israel"
+title: Tribunal Holandês Bloqueia Exportação de Peças F-35 para Israel
 date: 2024-02-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Tribunal de Apelações holandês surpreendeu o mundo ao ordenar o bloqueio da exportação de peças do caça F-35 para Israel. Esta decisão histórica surge após várias organizações de direitos humanos terem intentado ações judiciais contra o Estado no ano anterior, alegando que tal exportação violaria o direito internacional. Com um prazo de sete dias dado ao governo para cumprir a ordem, esta decisão abre um precedente significativo e levanta questões sobre o comércio de armas em contextos de conflito.
 

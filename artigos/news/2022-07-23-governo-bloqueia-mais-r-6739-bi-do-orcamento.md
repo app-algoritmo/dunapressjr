@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia mais R$ 6,739 bi do Orçamento"
+title: Governo bloqueia mais R$ 6,739 bi do Orçamento
 date: 2022-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor ficou abaixo do inicialmente informado por presidente.
 

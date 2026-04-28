@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços avança 0,7% em agosto, segundo o IBGE"
+title: Volume de serviços avança 0,7% em agosto, segundo o IBGE
 date: 2022-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta foi puxada por atividades de informação e comunicação.
 

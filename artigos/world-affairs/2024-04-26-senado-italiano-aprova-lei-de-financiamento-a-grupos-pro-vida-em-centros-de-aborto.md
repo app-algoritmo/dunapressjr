@@ -1,11 +1,13 @@
 ---
-title: "Senado Italiano Aprova Lei de Financiamento a Grupos Pró-Vida em Centros de Aborto"
+title: Senado Italiano Aprova Lei de Financiamento a Grupos Pró-Vida em Centros de
+  Aborto
 date: 2024-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Senado Italiano Aprova Lei de Apoio à Maternidade em Centros de Aborto.
 

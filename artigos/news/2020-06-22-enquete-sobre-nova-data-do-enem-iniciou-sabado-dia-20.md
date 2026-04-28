@@ -1,11 +1,12 @@
 ---
-title: "Enquete sobre nova data do Enem iniciou sábado, dia 20"
+title: Enquete sobre nova data do Enem iniciou sábado, dia 20
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará, a partir das 10h deste sábado, 20 de junho, enquete para que os inscritos no Exame Nacional do Ensino Médio (Enem) 2020 contribuam, de forma voluntária, para a escolha das novas datas de aplicação do exame. A enquete será realizada na Página do Participante e os inscritos poderão participar até as 23h59 do dia 30 de junho, escolhendo uma das opções apresentadas, com o adiamento das provas em 30, 60 ou 180 dias das datas previstas nos editais.
 

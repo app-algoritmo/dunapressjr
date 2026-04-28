@@ -1,11 +1,13 @@
 ---
-title: "Secretários de Fazenda definem alíquota única para operações com plataformas de importação de remessas expressas"
+title: Secretários de Fazenda definem alíquota única para operações com plataformas
+  de importação de remessas expressas
 date: 2023-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa agilizar o processo de importação, incentivar a produção nacional e combater a concorrência desleal
 

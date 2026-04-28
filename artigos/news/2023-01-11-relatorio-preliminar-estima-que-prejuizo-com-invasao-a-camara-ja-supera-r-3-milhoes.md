@@ -1,11 +1,13 @@
 ---
-title: "Relatório preliminar estima que prejuízo com invasão à Câmara já supera R$ 3 milhões"
+title: Relatório preliminar estima que prejuízo com invasão à Câmara já supera R$
+  3 milhões
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Relatório preliminar divulgado pela Câmara dos Deputados aponta que o custo para reparação dos danos causados pela invasão ocorrida no domingo (8) já ultrapassa R$ 3 milhões, considerados apenas os objetos e equipamentos que podem ser repostos, como computadores, vidros, veículos e outros itens de mobiliário. Para se ter uma ideia, 400 computadores foram destruídos no ataque, com custo de reposição estimado em mais de R$ 2 milhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk em Batalha Contra o Regime Ditatorial Brasileiro"
+title: Elon Musk em Batalha Contra o Regime Ditatorial Brasileiro
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Elon Musk, o visionário por trás de empresas como Tesla e SpaceX, mais uma vez se posiciona em defesa das liberdades de expressão, desta vez em uma batalha direta contra o regime ditatorial no Brasil. Em uma série de tweets recentes, Musk anunciou que todas as restrições da sua empresa, referida como "𝕏", estariam sendo levantadas no país sul-americano.
 

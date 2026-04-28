@@ -1,11 +1,13 @@
 ---
-title: "Operação Novos Rumos desmantela grupo criminoso e apreende mais de 1.470 kg de cocaína no Rio de Janeiro"
+title: Operação Novos Rumos desmantela grupo criminoso e apreende mais de 1.470 kg
+  de cocaína no Rio de Janeiro
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal desarticula organização responsável pelo tráfico de drogas para a Europa.
 

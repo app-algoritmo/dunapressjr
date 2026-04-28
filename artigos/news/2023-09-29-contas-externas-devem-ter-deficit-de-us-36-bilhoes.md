@@ -1,11 +1,12 @@
 ---
-title: "Contas externas devem ter déficit de US$ 36 bilhões"
+title: Contas externas devem ter déficit de US$ 36 bilhões
 date: 2023-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco Central conta com cenário econômico mais favorável.
 

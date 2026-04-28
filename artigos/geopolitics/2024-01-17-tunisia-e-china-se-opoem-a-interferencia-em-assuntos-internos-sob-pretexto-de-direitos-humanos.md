@@ -1,11 +1,13 @@
 ---
-title: "Tunísia e China se opõem à interferência em assuntos internos sob pretexto de direitos humanos"
+title: Tunísia e China se opõem à interferência em assuntos internos sob pretexto
+  de direitos humanos
 date: 2024-01-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente da Tunísia, Kais Saied, e o ministro das Relações Exteriores da China, Wang Yi, em visita ao país, expressaram na segunda-feira sua oposição à interferência nos assuntos internos de outros países sob o pretexto de direitos humanos e democracia.
 

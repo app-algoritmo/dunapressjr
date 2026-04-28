@@ -1,11 +1,13 @@
 ---
-title: "Tutor cria 'Vakinha' Online para operar cachorra que foi atingida por tiros por um suposto policial em Itajaí/SC"
+title: Tutor cria 'Vakinha' Online para operar cachorra que foi atingida por tiros
+  por um suposto policial em Itajaí/SC
 date: 2021-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ocorrência foi na quarta-feira, dia 03/11 no bairro São Vicente, em Itajaí. Um cachorro boxer e uma filhote de pitbull fugiram da casa de seu tutor, quando alguém esqueceu o portão da casa entreaberto.
 

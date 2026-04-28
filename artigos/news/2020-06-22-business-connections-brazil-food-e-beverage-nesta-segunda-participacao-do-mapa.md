@@ -1,11 +1,13 @@
 ---
-title: "Business Connections Brazil: Food e Beverage nesta segunda – Participação do Mapa"
+title: 'Business Connections Brazil: Food e Beverage nesta segunda – Participação
+  do Mapa'
 date: 2020-06-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Evento reunirá, de forma virtual, empresas brasileiras e compradores internacionais dos setores de alimentos e bebidas. Organizado pelo BID, tem o apoio do Mapa, ME, MRE, Apex-Brasil, Sebrae e CNI.
 

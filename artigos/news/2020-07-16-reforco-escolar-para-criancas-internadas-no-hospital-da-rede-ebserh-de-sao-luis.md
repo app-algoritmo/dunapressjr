@@ -1,11 +1,13 @@
 ---
-title: "Reforço escolar para crianças internadas no hospital da Rede Ebserh de São Luís"
+title: Reforço escolar para crianças internadas no hospital da Rede Ebserh de São
+  Luís
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Profissionais do hospital deram continuidade de forma adaptada aos estudos desses pacientes, mesmo com o cenário atípico provocado pela Covid-19.
 

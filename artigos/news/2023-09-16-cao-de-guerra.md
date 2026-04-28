@@ -1,11 +1,12 @@
 ---
-title: "Cão de guerra"
+title: Cão de guerra
 date: 2023-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No início de 1941, o soldado Jim Moody, 2/1o Batalhão de Metralhadoras encontrou um cachorrinho na área de Ikingi Mariut, no Deserto Ocidental, Egito. "Horrie" tornou-se a mascote não oficial do batalhão, viajando com eles do Egito para a Grécia, Creta, Palestina e Síria e depois de volta para a Austrália em 1942.
 

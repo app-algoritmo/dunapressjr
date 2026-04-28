@@ -1,11 +1,12 @@
 ---
-title: "Novas regras para atuar no comércio exterior passam a vigorar a partir de dezembro"
+title: Novas regras para atuar no comércio exterior passam a vigorar a partir de dezembro
 date: 2020-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instrução Normativa regulamenta a habilitação para atuar no comércio exterior prevê menos burocracia.
 

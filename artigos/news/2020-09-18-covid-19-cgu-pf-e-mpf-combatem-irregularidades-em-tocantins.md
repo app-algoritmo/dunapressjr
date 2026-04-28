@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU, PF e MPF combatem irregularidades em Tocantins"
+title: 'Covid-19: CGU, PF e MPF combatem irregularidades em Tocantins'
 date: 2020-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Cama de Tut investiga fraude em aquisição de equipamentos hospitalares pela Secretaria de Saúde do Estado. Prejuízo é de R$ 7,4 milhões.
 

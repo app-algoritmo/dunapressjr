@@ -1,11 +1,13 @@
 ---
-title: "Estudo da Epagri com UFSM sobre produtividade do milho insere SC em projeto mundial de segurança alimentar"
+title: Estudo da Epagri com UFSM sobre produtividade do milho insere SC em projeto
+  mundial de segurança alimentar
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Epagri e a equipe FieldCrops da **[Universidade Federal de Santa Maria (UFSM)](https://www.ufsm.br/)** se uniram para estimar o potencial de produção e identificar lacunas de produtividade do milho em Santa Catarina. A pesquisa está sendo realizada nas lavouras de produtores em 42 municípios do estado para buscar formas de elevar a produção desse grão por meio do manejo, considerando a atual área de cultivo.
 

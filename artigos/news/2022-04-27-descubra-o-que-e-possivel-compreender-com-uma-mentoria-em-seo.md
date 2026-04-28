@@ -1,11 +1,12 @@
 ---
-title: "Descubra o que é possível compreender com uma mentoria em SEO"
+title: Descubra o que é possível compreender com uma mentoria em SEO
 date: 2022-04-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Toda vez que você está a procura de alguma coisa, seja informação ou produto, geralmente aparecem vários links no topo da página com a informação e você clica logo nos primeiros, correto? Pois bem, isso já faz parte da essência do que vamos comentar no decorrer do texto.
 

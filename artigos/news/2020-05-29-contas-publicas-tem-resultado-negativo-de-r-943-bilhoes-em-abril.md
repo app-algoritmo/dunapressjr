@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm resultado negativo de R$ 94,3 bilhões em abril"
+title: Contas públicas têm resultado negativo de R$ 94,3 bilhões em abril
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pandemia do novo coronavírus contribuiu para aumento dos gastos.
 

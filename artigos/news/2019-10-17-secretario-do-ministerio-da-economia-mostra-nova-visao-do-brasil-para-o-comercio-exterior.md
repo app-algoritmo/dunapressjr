@@ -1,11 +1,13 @@
 ---
-title: "Secretário do Ministério da Economia mostra nova visão do Brasil para o comércio exterior"
+title: Secretário do Ministério da Economia mostra nova visão do Brasil para o comércio
+  exterior
 date: 2019-10-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em fórum da OMC, Lucas Ferraz defende abordagem ampla para melhorar acesso a bens e serviços a custos menores 
 

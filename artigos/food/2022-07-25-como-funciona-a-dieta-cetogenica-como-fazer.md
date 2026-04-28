@@ -1,11 +1,12 @@
 ---
-title: "Como funciona a dieta cetogênica? Como fazer?"
+title: Como funciona a dieta cetogênica? Como fazer?
 date: 2022-07-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Food
+- Food
 ---
+
 
 A dieta cetogênica ou dieta cetônica ou dieta cetônica é uma proposta para reduzir a quantidade de carboidratos consumidos e elevar o consumo de gorduras e proteínas. Estas alterações de cardápio proporcionam a perda de peso, objetivo de quem as adota.
 

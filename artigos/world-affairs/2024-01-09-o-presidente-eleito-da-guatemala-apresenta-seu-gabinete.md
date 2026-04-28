@@ -1,11 +1,12 @@
 ---
-title: "O presidente eleito da Guatemala apresenta seu gabinete"
+title: O presidente eleito da Guatemala apresenta seu gabinete
 date: 2024-01-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente eleito da [Guatemala](https://gaceta.es/iberosfera/la-oea-aprueba-aplicar-la-carta-democratica-por-la-continua-persecucion-politica-en-guatemala-20231212-2329/) , Bernardo Arévalo, e o seu 'número dois', Karin Herrera, [apresentaram](https://www.europapress.es/internacional/noticia-presidente-electo-guatemala-presenta-nuevo-gabinete-ministros-antes-toma-posesion-20240108201525.html) esta segunda-feira o seu novo gabinete de ministros antes da inauguração, **que terá lugar este domingo** e porá fim ao processo de transição iniciado após a vitória do Movimento Semilla nas eleições de junho.
 

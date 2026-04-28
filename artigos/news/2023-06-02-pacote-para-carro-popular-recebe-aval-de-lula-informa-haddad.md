@@ -1,11 +1,12 @@
 ---
-title: "Pacote para carro popular recebe aval de Lula, informa Haddad"
+title: Pacote para carro popular recebe aval de Lula, informa Haddad
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo ministro, programa durará cerca de quatro meses
 

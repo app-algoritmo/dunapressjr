@@ -1,11 +1,12 @@
 ---
-title: "Senado aprovou  em primeiro turno o ‘orçamento de guerra’ contra coronavírus"
+title: Senado aprovou  em primeiro turno o ‘orçamento de guerra’ contra coronavírus
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário do Senado aprovou nesta quarta-feira (15) em primeiro turno, por 58 votos a 21, o substitutivo do senador Antonio Anastasia (PSD-MG) à Proposta de Emenda à Constituição (PEC) [10/2020](http://www25.senado.leg.br/web/atividade/materias/-/materia/141443), que facilita os gastos do governo para o combate à pandemia de coronavírus. A proposta, que ficou conhecida como “PEC do Orçamento de Guerra”, institui um regime extraordinário financeiro e de contratações para facilitar a execução dos gastos relacionados às medidas emergenciais.
 

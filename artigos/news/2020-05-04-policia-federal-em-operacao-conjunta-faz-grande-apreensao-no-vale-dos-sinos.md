@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal em operação conjunta, faz grande apreensão no Vale dos Sinos"
+title: Polícia Federal em operação conjunta, faz grande apreensão no Vale dos Sinos
 date: 2020-05-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre/RS - Operação conjunta da Polícia Federal, Receita Federal e Brigada Militar apreendeu nessa sexta-feira (1/5) um caminhão carregado com cigarros de origem estrangeira, produtos falsificados, eletrônicos e vestuário, sem documentação fiscal.
 

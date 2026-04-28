@@ -1,11 +1,12 @@
 ---
-title: "Vendas do varejo paraibano mantêm crescimento em julho"
+title: Vendas do varejo paraibano mantêm crescimento em julho
 date: 2021-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice de crescimento do setor paraibano ficou acima da média nacional (1,2%).
 

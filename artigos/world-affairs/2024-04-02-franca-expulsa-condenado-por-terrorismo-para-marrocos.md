@@ -1,11 +1,12 @@
 ---
-title: "França expulsa condenado por terrorismo para Marrocos"
+title: França expulsa condenado por terrorismo para Marrocos
 date: 2024-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As autoridades francesas tomaram uma medida decisiva neste sábado, 31 de março de 2024, ao expulsar do país o cidadão marroquino Rachid Aït El Hadj. El-Hadj, condenado por terrorismo em 2007 e posteriormente privado da nacionalidade francesa, foi alvo de uma operação coordenada que culminou em sua expulsão para Marrocos.
 

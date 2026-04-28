@@ -1,11 +1,13 @@
 ---
-title: "Mais 8 leitos de UTI e 10 de enfermaria para pacientes com Covid-19 disponibilizados pelo HUB"
+title: Mais 8 leitos de UTI e 10 de enfermaria para pacientes com Covid-19 disponibilizados
+  pelo HUB
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Para a ampliação, remanejou leitos e colaboradores e recebeu reforço de profissionais temporários contratados pela Ebserh.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo lança plataforma para oferta de produtos e serviços gratuitos à população"
+title: Governo lança plataforma para oferta de produtos e serviços gratuitos à população
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Está no ar a plataforma *Todos por Todos*, no qual empresas, entidades e associações e órgãos públicos de todo o país podem oferecer à população serviços e produtos de graça ou em caráter de emergência. O objetivo é reduzir ao máximo os impactos negativos, sejam sociais ou econômicos, no contexto da pandemia de coronavírus. 
 

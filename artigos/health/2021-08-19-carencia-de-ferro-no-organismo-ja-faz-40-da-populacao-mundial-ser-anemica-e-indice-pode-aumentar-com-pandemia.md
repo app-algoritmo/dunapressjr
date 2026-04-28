@@ -1,11 +1,13 @@
 ---
-title: "Carência de ferro no organismo já faz 40% da população mundial ser anêmica e índice pode aumentar com pandemia"
+title: Carência de ferro no organismo já faz 40% da população mundial ser anêmica
+  e índice pode aumentar com pandemia
 date: 2021-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Em países em desenvolvimento, como o Brasil, a falta de ferro é responsável por 95% dos casos de anemia da população. Alimentação inadequada é a principal causa.
 

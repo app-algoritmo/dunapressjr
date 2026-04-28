@@ -1,11 +1,12 @@
 ---
-title: "Consulta ao décimo terceiro do INSS está aberta"
+title: Consulta ao décimo terceiro do INSS está aberta
 date: 2022-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Primeira parcela começa a ser paga na próxima segunda-feira (25).
 

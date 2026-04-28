@@ -1,11 +1,12 @@
 ---
-title: "A agricultura é vital para evitar as mudanças climáticas catastróficas"
+title: A agricultura é vital para evitar as mudanças climáticas catastróficas
 date: 2024-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O impacto direto do colapso da agricultura: mudanças climáticas extremas e imprevisíveis. Ao interromper a agricultura, estamos desencadeando uma cadeia de eventos que afetam não apenas a disponibilidade de alimentos, mas também a estabilidade ambiental global.
 

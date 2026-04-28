@@ -1,13 +1,15 @@
 ---
-title: "Carioca Shopping e Aliansce Sonae + brMalls anunciam nova fase do projeto “Leitura para Todos”"
+title: Carioca Shopping e Aliansce Sonae + brMalls anunciam nova fase do projeto “Leitura
+  para Todos”
 date: 2023-06-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Books
-  - Culture and History
-  - Education
+- Books
+- Culture and History
+- Education
 ---
+
 
 ## Shopping da Zona Norte vai realizar contação de história do livro “Encanto”.
 

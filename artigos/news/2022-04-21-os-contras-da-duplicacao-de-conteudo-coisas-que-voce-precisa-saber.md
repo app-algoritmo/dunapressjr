@@ -1,11 +1,12 @@
 ---
-title: "Os contras da duplicação de conteúdo: coisas que você precisa saber"
+title: 'Os contras da duplicação de conteúdo: coisas que você precisa saber'
 date: 2022-04-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Plágio é um ato que pode arruinar tudo - uma vez que aparece em seu conteúdo. Você não pode ficar totalmente seguro, pois toneladas de dados estão inundando on-line e há 60% de chances de que suas palavras sejam correspondidas com alguém que escreveu a mesma coisa antes. Ajudaria se você não fizesse isso, mas alguns estudos fizeram uma implementação de cair o queixo em relação às vantagens e desvantagens da duplicação de conteúdo. Apesar de conhecer as consequências, fundamentos e aspectos relacionados ao plágio, você deve sentar e ler este post para ver o que a tendência diz sobre isso. 
 

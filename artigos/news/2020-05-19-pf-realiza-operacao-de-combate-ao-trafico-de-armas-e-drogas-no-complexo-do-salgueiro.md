@@ -1,11 +1,13 @@
 ---
-title: "PF realiza operação de combate ao tráfico de armas e drogas no Complexo do Salgueiro"
+title: PF realiza operação de combate ao tráfico de armas e drogas no Complexo do
+  Salgueiro
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Gonçalo/RJ - Nesta terça-feira, 19/5, a Polícia Federal, com o apoio do GAM (Grupamento Aero-Móvel) da Polícia Militar do Rio de Janeiro, realizou operação de combate ao tráfico de drogas e armas no Complexo do Salgueiro, em São Gonçalo/RJ.
 

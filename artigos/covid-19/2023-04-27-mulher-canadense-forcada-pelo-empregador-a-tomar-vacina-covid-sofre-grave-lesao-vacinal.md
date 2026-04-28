@@ -1,12 +1,14 @@
 ---
-title: "Mulher canadense forçada pelo empregador a tomar vacina COVID sofre grave lesão vacinal"
+title: Mulher canadense forçada pelo empregador a tomar vacina COVID sofre grave lesão
+  vacinal
 date: 2023-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 Uma mulher canadense continua sofrendo ferimentos causados ​​pela vacina contra o coronavírus Wuhan (COVID-19) depois que seu empregador [não aceitou as cartas que ela enviou](https://www.lifesitenews.com/news/canadian-mother-suffers-severe-injury-after-employer-forced-her-to-take-covid-shots/) para uma isenção de vacina.
 

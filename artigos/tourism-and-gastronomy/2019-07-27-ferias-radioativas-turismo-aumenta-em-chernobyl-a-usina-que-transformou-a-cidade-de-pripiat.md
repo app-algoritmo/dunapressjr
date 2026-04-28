@@ -1,11 +1,13 @@
 ---
-title: "Férias radioativas, turismo aumenta em Chernobyl, a usina que transformou a cidade de Prípiat"
+title: Férias radioativas, turismo aumenta em Chernobyl, a usina que transformou a
+  cidade de Prípiat
 date: 2019-07-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## A zona de exclusão de Chernobyl foi aberta para visitas no início dos anos 2000, depois que a atividade na fábrica parou completamente. Desde então, o turismo só cresceu.
 

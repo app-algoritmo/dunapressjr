@@ -1,11 +1,12 @@
 ---
-title: "'Escola da fruta' começará no próximo outono na Noruega"
+title: '''Escola da fruta'' começará no próximo outono na Noruega'
 date: 2019-08-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## *Skolefrukt* é uma oferta para todas as escolas primárias norueguesas com o intuito de incluir no cotidiano das  crianças  frutas e legumes.
 

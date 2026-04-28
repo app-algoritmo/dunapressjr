@@ -1,11 +1,12 @@
 ---
-title: "Bancos têm piora na rentabilidade e crédito desacelera no 1º semestre"
+title: Bancos têm piora na rentabilidade e crédito desacelera no 1º semestre
 date: 2023-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é positiva para os próximos trimestres, diz BC.
 

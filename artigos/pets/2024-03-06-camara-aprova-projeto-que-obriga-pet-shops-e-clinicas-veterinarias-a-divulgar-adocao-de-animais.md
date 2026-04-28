@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar adoção de animais"
+title: Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar
+  adoção de animais
 date: 2024-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou o [Projeto de Lei 50/19](https://www.camara.leg.br/noticias/561701-PROJETO-OBRIGA-PET-SHOPS-E-CLINICAS-VETERINARIAS-A-INFORMAR-CLIENTES-SOBRE-ANIMAIS-PARA-ADOCAO), do deputado Fred Costa (Patriota-MG), que obriga pet shops, clínicas veterinárias e estabelecimentos semelhantes a fixarem em suas instalações cartazes que facilitem e incentivem a adoção de animais domésticos. O texto será enviado para análise do Senado.
 

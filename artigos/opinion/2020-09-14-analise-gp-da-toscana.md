@@ -1,12 +1,13 @@
 ---
-title: "Análise: GP da Toscana"
+title: 'Análise: GP da Toscana'
 date: 2020-09-14
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
-  - Sports
+- Opinion
+- Sports
 ---
+
 
 **Hamilton vence e cola no recorde de Schumi; batidas causam bandeiras vermelhas**
 

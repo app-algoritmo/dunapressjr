@@ -1,11 +1,12 @@
 ---
-title: "Antonieta de Barros, primeira mulher a ser eleita deputada no Brasil"
+title: Antonieta de Barros, primeira mulher a ser eleita deputada no Brasil
 date: 2020-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O feito impressiona por ter acontecido em 1935, apenas três anos após as brasileiras ganharem o direito de votar e por ela ser negra em uma época  onde o racismo ainda tinha uma força maior, vir de uma família pobre e ser a primeira a participar de uma Assembleia Constituinte em Santa Catarina. 
 

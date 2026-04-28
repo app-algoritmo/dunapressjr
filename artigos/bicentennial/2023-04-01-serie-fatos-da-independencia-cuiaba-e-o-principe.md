@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Cuiabá e o Príncipe"
+title: 'Série Fatos Da Independência: Cuiabá e o Príncipe'
 date: 2023-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Antes de mais nada, é preciso dizer: os cuiabanos eram precavidos. Eles também procuraram comprovar diretamente com às Cortes de Lisboa, a legitimidade de sua própria Junta de Governo. O argumento era poderoso: a maioria das vilas e arraiais da capitania haviam optado por aderir à Cuiabá. Não ficaram só nisso. Diferente dos mato-grossenses, cujo contato com o Rio de Janeiro era raro, os cuiabanos enviaram para o próprio Dom Pedro, na sede do Reino do Brasil, em 7 de dezembro de 1821, um pedido pelo reconhecimento de sua junta. E eles conseguiram. Há aqui, porém, um aspecto curioso: na documentação enviada, não há sequer uma menção ao governo estabelecido da cidade de Mato Grosso, ainda que os cuiabanos soubessem da existência da outra junta desde outubro. Cuiabá jogou com a distância: o caminho do Rio de Janeiro até a província era longo e, assim, as notícias demoravam para chegar. Era muito pouco provável que Dom Pedro já soubesse da junta mato-grossense, então, os cuiabanos só fingiram que não sabiam de nada também.
 

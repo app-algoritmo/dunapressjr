@@ -1,12 +1,13 @@
 ---
-title: "Tênis brasileiro ganha Memorial, com Museu, Biblioteca e Hall da Fama"
+title: Tênis brasileiro ganha Memorial, com Museu, Biblioteca e Hall da Fama
 date: 2023-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 Após 133 anos do início do tênis no Brasil, com a vinda dos ingleses para trabalhar em empresas de energia, transportes, ferrovias e outras companhias, só agora em 2023, no Dia do Tenista, comemorado nesta sexta-feira (9), a modalidade ganha a consolidação da criação de um Memorial. Foram quase 10 anos para que o professor e jornalista Walmor Elias, idealizador e fundador do Memorial Tênis Brasileiro, colocasse em prática e reunisse um grupo de cofundadores, pioneiros e apoiadores que o seguissem e acreditassem que o projeto seria possível.
 

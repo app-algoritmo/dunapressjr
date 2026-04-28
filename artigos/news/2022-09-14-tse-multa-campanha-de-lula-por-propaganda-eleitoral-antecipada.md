@@ -1,11 +1,12 @@
 ---
-title: "TSE multa campanha de Lula por propaganda eleitoral antecipada"
+title: TSE multa campanha de Lula por propaganda eleitoral antecipada
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Tribunal manteve decisão proferida pela ministra Maria Bucchianeri.
 

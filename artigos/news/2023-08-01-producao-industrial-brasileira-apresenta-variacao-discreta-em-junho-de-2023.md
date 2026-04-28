@@ -1,11 +1,12 @@
 ---
-title: "Produção Industrial Brasileira apresenta variação discreta em junho de 2023"
+title: Produção Industrial Brasileira apresenta variação discreta em junho de 2023
 date: 2023-08-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alguns ramos industriais avançam, enquanto outros demandam recuperação consistente.
 

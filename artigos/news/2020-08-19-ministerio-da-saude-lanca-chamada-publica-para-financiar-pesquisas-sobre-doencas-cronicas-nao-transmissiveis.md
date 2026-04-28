@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde lança chamada pública para financiar pesquisas sobre doenças crônicas não transmissíveis"
+title: Ministério da Saúde lança chamada pública para financiar pesquisas sobre doenças
+  crônicas não transmissíveis
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Serão disponibilizados R$ 15 milhões para custear projetos que proponham a organização e qualificação do cuidado às pessoas com diabetes, hipertensão e obesidade.
 

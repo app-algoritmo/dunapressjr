@@ -1,11 +1,12 @@
 ---
-title: "Petrobras paralisa parte de construção de gasoduto e do Comperj"
+title: Petrobras paralisa parte de construção de gasoduto e do Comperj
 date: 2020-04-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com isso, foi possível afastar cerca de 4 mil trabalhadores
 

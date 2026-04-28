@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 tem inflação de 0,36% em dezembro"
+title: IGP-10 tem inflação de 0,36% em dezembro
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Nacional de Custo da Construção subiu para 0,36%.
 

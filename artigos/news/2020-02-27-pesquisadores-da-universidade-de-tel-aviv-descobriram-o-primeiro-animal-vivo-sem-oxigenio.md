@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores da Universidade de Tel Aviv  descobriram o primeiro animal vivo sem oxigênio"
+title: Pesquisadores da Universidade de Tel Aviv  descobriram o primeiro animal vivo
+  sem oxigênio
 date: 2020-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Pesquisadores israelenses anunciaram que descobriram o primeiro animal na Terra a sobreviver sem oxigênio.*
 

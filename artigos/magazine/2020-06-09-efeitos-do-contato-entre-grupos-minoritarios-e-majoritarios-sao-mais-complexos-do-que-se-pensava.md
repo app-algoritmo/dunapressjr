@@ -1,11 +1,13 @@
 ---
-title: "Efeitos do contato entre grupos minoritários e majoritários são mais complexos do que se pensava"
+title: Efeitos do contato entre grupos minoritários e majoritários são mais complexos
+  do que se pensava
 date: 2020-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Por mais de 50 anos, cientistas sociais e profissionais sugeriram que ter membros de diferentes grupos interagindo entre si pode ser uma ferramenta eficaz para reduzir o preconceito. Mas pesquisas emergentes apontam para uma compreensão mais complexa e diferenciada dos efeitos do contato entre os grupos, afirma Linda Tropp, da Universidade de Massachusetts Amherst, e Tabea Hässler, líder de uma equipe de pesquisa multinacional sediada na Universidade de Zurique, na Suíça.
 

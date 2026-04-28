@@ -1,11 +1,12 @@
 ---
-title: "O que são deepfakes?"
+title: O que são deepfakes?
 date: 2023-03-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 ## Tecnologia Deepfake: o que são deepfakes? Como eles fazem deepfakes?
 

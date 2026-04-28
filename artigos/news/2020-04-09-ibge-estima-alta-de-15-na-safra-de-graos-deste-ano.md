@@ -1,11 +1,12 @@
 ---
-title: "IBGE estima alta de 1,5% na safra de grãos deste ano"
+title: IBGE estima alta de 1,5% na safra de grãos deste ano
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A safra nacional de cereais, leguminosas e oleaginosas deve fechar o ano em 245,2 milhões de toneladas, ou seja, uma alta de 1,5% em relação ao ano anterior, informou hoje (9) o Instituto Brasileiro de Geografia e Estatística (IBGE). A estimativa feita em março, apesar de ainda estimar uma alta na safra, é inferior à previsão feita em fevereiro.
 

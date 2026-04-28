@@ -1,12 +1,13 @@
 ---
-title: "Argentina: Eleições Presidenciais 2023"
+title: 'Argentina: Eleições Presidenciais 2023'
 date: 2023-10-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - World Affairs
+- Geopolitics
+- World Affairs
 ---
+
 
 Apoiadores de Javier Milei (La Libertad Avanza) e Sergio Massa (Unión por la Patria) estão se reunindo perto de suas respectivas sedes enquanto o escrutínio continua.
 

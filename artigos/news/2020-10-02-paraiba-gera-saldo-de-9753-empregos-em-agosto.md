@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo de 9.753 empregos em agosto"
+title: Paraíba gera saldo de 9.753 empregos em agosto
 date: 2020-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É maior alta no índice relativo do País.
 

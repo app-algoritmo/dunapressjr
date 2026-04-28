@@ -1,11 +1,12 @@
 ---
-title: "Vaza vídeo do Ex Presidente do Brasil com propostas de como governar o país"
+title: Vaza vídeo do Ex Presidente do Brasil com propostas de como governar o país
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Não se conhece no mundo um líder partidário com ideias tão explícitas para destruir seu próprio povo e pátria.
 

@@ -1,11 +1,12 @@
 ---
-title: "Arrecadação de impostos tem queda de 2,7% em fevereiro"
+title: Arrecadação de impostos tem queda de 2,7% em fevereiro
 date: 2020-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Menor resultado para o mês desde 2018
 

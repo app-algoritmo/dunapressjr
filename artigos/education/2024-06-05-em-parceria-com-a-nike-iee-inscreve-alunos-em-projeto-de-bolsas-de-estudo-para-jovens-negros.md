@@ -1,12 +1,14 @@
 ---
-title: "Em parceria com a Nike, IEE inscreve alunos em projeto de bolsas de estudo para jovens negros"
+title: Em parceria com a Nike, IEE inscreve alunos em projeto de bolsas de estudo
+  para jovens negros
 date: 2024-06-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## É o terceiro ano em que o Instituto Esporte e Educação participa da iniciativa, realizada juntamente com o Somos CIEE e o Corinthians. Bolsista do projeto, a ex-aluna Daniela Divino é hoje estagiária do Núcleo Jaguaré e cursa educação física.
 

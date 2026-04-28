@@ -1,11 +1,12 @@
 ---
-title: "Cinco mitos e verdades sobre meio ambiente e sustentabilidade"
+title: Cinco mitos e verdades sobre meio ambiente e sustentabilidade
 date: 2021-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A preocupação com o meio ambiente e as buscas por formas mais sustentáveis de praticar as atividades do dia a dia é uma preocupação constante de ambientalistas, mas nem sempre a população sabe como agir. Segundo pesquisa realizada no final de 2020 pelo Instituto de Tecnologia e Sociedade do Rio de Janeiro, em parceria com o Programa de Comunicação de Mudanças Climáticas da Universidade de Yale, proteger o meio ambiente é prioridade para 77% dos brasileiros. Porém, algumas discussões sobre o tema ainda estão presas a conceitos sem fundamentos, assim, confundindo as pessoas sobre o que realmente é eficaz nessa luta. 
 

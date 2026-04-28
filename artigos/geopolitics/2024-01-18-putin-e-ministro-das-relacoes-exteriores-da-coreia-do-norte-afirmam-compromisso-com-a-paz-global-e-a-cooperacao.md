@@ -1,11 +1,13 @@
 ---
-title: "Putin e ministro das Relações Exteriores da Coreia do Norte afirmam compromisso com a paz global e a cooperação"
+title: Putin e ministro das Relações Exteriores da Coreia do Norte afirmam compromisso
+  com a paz global e a cooperação
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## A mídia enfatizou que “a conversa transcorreu em um ambiente amigável e repleto de sentimentos de amizade”.
 

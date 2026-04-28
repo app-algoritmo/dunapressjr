@@ -1,11 +1,12 @@
 ---
-title: "5 dicas de planejamento financeiro para jovens"
+title: 5 dicas de planejamento financeiro para jovens
 date: 2022-07-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 O planejamento **financeiro** é um processo que deve ser realizado para organizar as suas finanças, controlar os seus gastos e entender os seus ganhos para ter mais segurança e disciplina em relação ao seu dinheiro.
 

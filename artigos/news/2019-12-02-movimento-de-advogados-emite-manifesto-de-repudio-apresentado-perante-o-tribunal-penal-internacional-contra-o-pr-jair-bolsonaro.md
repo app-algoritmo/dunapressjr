@@ -1,11 +1,13 @@
 ---
-title: "Movimento de advogados emite manifesto de repúdio apresentado perante o Tribunal Penal Internacional contra o PR Jair Bolsonaro"
+title: Movimento de advogados emite manifesto de repúdio apresentado perante o Tribunal
+  Penal Internacional contra o PR Jair Bolsonaro
 date: 2019-12-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## MANIFESTO EM DEFESA DO PRESIDENTE JAIR BOLSONARO.
 

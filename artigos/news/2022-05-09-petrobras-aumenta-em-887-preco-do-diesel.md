@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aumenta em 8,87% preço do diesel"
+title: Petrobras aumenta em 8,87% preço do diesel
 date: 2022-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gasolina e o gás de cozinha tiveram seus preços mantidos.
 

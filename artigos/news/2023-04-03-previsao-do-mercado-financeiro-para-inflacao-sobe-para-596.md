@@ -1,11 +1,12 @@
 ---
-title: "Previsão do mercado financeiro para inflação sobe para 5,96%"
+title: Previsão do mercado financeiro para inflação sobe para 5,96%
 date: 2023-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa de expansão da economia ficou em 0,9%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Antecipação de crédito para fornecedores da União começa a funcionar"
+title: Antecipação de crédito para fornecedores da União começa a funcionar
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo governo, programa pode adiantar R$ 45 bi na economia.
 

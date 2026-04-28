@@ -1,11 +1,12 @@
 ---
-title: "Saiba como obter o selo do Inmetro"
+title: Saiba como obter o selo do Inmetro
 date: 2022-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Registro atesta conformidade de requisitos técnicos e segurança de produtos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Reforma do IR provocará perda de R$ 20 bi para União, diz secretário"
+title: Reforma do IR provocará perda de R$ 20 bi para União, diz secretário
 date: 2021-09-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IFI calcula perda maior, de R$ 21,8 bi para 2022 e R$ 52,2 bi até 2024.
 

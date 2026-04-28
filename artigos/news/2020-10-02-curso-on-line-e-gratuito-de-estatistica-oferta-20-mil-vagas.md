@@ -1,11 +1,12 @@
 ---
-title: "Curso on-line e gratuito de estatística oferta 20 mil vagas"
+title: Curso on-line e gratuito de estatística oferta 20 mil vagas
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Inscrições podem ser feitas até essa sexta-feira (2). A iniciativa visa minimizar possíveis déficits na educação causados pela crise da Covid-19.
 

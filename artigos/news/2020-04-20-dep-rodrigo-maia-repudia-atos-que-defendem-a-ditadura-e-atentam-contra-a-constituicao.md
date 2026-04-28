@@ -1,11 +1,13 @@
 ---
-title: "Dep. Rodrigo Maia repudia atos que defendem a 'ditadura' e atentam contra a Constituição"
+title: Dep. Rodrigo Maia repudia atos que defendem a 'ditadura' e atentam contra a
+  Constituição
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maia afirmou: “No Brasil, temos de lutar contra o corona e o vírus do autoritarismo. É mais trabalhoso, mas venceremos”, disse o presidente da Câmara
 

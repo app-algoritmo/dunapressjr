@@ -1,11 +1,12 @@
 ---
-title: "Marinho critica anúncio do país entrar na Opep durante evento da COP 28"
+title: Marinho critica anúncio do país entrar na Opep durante evento da COP 28
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Rogerio Marinho (PL-RN) manifestou, em pronunciamento na terça-feira (5), preocupação com as "políticas ambientais equivocadas e a visão geopolítica ultrapassada do governo". O senador criticou o anúncio de que o Brasil se juntaria à Organização dos Países Exportadores de Petróleo (Opep) durante Conferência das Nações Unidas sobre Mudanças Climáticas, a COP 28. Marinho afirmou ser contra essa decisão e ressaltou a incoerência de o governo comunicar a participação do país na Opep em uma conferência focada no meio ambiente. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Programa Conta Pra Mim: histórias e músicas para crianças"
+title: 'Programa Conta Pra Mim: histórias e músicas para crianças'
 date: 2020-08-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Uma oportunidade para que os pais participem junto com os filhos de novas aventuras por meio de histórias e músicas. O programa Conta pra Mim do Ministério da Educação disponibilizou nesta terça-feira (25) uma série de programas para o acesso de pais, crianças e profissionais de educação. Entre os produtos, estão músicas interpretadas pelo cantor e compositor Toquinho que também narra fábulas escritas por Monteiro Lobato.
 

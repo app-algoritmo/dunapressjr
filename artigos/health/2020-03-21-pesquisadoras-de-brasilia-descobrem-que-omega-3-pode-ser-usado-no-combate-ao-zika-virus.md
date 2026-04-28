@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadoras de Brasília descobrem que ômega-3 pode ser usado no combate ao zika vírus"
+title: Pesquisadoras de Brasília descobrem que ômega-3 pode ser usado no combate ao
+  zika vírus
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O surto do vírus da zika, transmitido pelo mosquito Aedes aegypti, preocupou toda a população brasileira, principalmente as gestantes. Segundo o Ministério da Saúde, mais de três mil casos foram confirmados entre 2015 e 2019. A boa notícia é que o projeto de pesquisadoras de Brasília descobriu que o ômega-3 pode ser usado no combate vírus.
 

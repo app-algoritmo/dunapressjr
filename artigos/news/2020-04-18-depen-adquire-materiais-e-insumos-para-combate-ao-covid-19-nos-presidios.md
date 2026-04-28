@@ -1,11 +1,12 @@
 ---
-title: "Depen adquire materiais e insumos para combate ao Covid-19 nos presídios"
+title: Depen adquire materiais e insumos para combate ao Covid-19 nos presídios
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) adquiriu Equipamentos de Proteção Individual (EPI) para servidores do sistema prisional e demais materiais para prevenção e combate ao Covid-19 nas unidades prisionais brasileiras. Os materiais serão para o Sistema Penitenciário Federal, Sistemas Estaduais e Distrital de todo o país e serão realizadas entregas parceladas e descentralizadas. 
 

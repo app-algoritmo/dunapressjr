@@ -1,11 +1,13 @@
 ---
-title: "Brasil está adiantado, mas tem de prosseguir nas reformas para entrar na OCDE, diz Erivaldo Gomes"
+title: Brasil está adiantado, mas tem de prosseguir nas reformas para entrar na OCDE,
+  diz Erivaldo Gomes
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Secretário de Assuntos Econômicos Internacionais do Ministério da Economia avalia que reformas já aprovadas facilitam acessão do país à entidade, mas aponta desafios pela frente.
 

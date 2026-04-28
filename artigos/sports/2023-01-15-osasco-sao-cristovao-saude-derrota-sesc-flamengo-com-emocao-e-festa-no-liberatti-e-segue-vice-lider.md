@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde derrota Sesc Flamengo, com emoção e festa no Liberatti e segue vice-líder"
+title: Osasco São Cristóvão Saúde derrota Sesc Flamengo, com emoção e festa no Liberatti
+  e segue vice-líder
 date: 2023-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Uma vitória do jeito que o torcedor osasquense gosta. Suada, sofrida e maiúscula. No clássico mais tradicional do vôlei brasileiro, o Osasco São Cristóvão Saúde derrotou O Sesc Flamengo por 3 sets a 1, parciais de 25/23, 27/25, 29/31 e 30/28, em 2h27min da partida que abriu o returno da Superliga 1XBET 2022/23. Um José Liberatti lotado (público de 3.928) na noite desta sexta-feira 13, as comandadas de Luizomar não deram sopa para o azar e seguraram com unhas e dentes a vice-liderança da competição.
 

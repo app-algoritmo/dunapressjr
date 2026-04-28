@@ -1,11 +1,13 @@
 ---
-title: "Desigualdade como diferença experimentada: uma reformulação do coeficiente de Gini"
+title: 'Desigualdade como diferença experimentada: uma reformulação do coeficiente
+  de Gini'
 date: 2020-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Pesquisadores propõem uma nova reviravolta no amplamente utilizado **"*coeficiente de Gini*"** - uma medida estatística para determinar a diferença entre os que têm e os que não têm.
 

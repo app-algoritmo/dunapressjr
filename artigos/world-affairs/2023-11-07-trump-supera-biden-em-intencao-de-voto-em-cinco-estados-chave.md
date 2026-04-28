@@ -1,11 +1,12 @@
 ---
-title: "Trump supera Biden em intenção de voto em cinco estados-chave"
+title: Trump supera Biden em intenção de voto em cinco estados-chave
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **O ex-presidente dos Estados Unidos Donald Trump lidera o atual presidente, Joe Biden, na intenção de voto em cinco estados críticos para alcançar a Presidência** , segundo uma pesquisa realizada pelo jornal ‘ *The New York Times* ’ e pela universidade norte-americana Siena College.
 

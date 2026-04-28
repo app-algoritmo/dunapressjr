@@ -1,11 +1,13 @@
 ---
-title: "Marinha do Brasil capacita funcionários do Aeroporto do Galeão para atuarem no combate à pandemia da Covid-19"
+title: Marinha do Brasil capacita funcionários do Aeroporto do Galeão para atuarem
+  no combate à pandemia da Covid-19
 date: 2020-04-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Marinha do Brasil (MB) ministrou, na manhã de sexta-feira (24), instruções teóricas e práticas de ações de Defesa *Nuclear, Biológica, Química e Radiológica (*NBQR) para as equipes que atuam no Aeroporto Internacional Galeão/Tom Jobim, no Rio de Janeiro-RJ.
 

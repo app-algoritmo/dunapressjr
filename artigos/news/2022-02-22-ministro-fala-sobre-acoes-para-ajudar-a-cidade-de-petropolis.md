@@ -1,11 +1,12 @@
 ---
-title: "Ministro fala sobre ações para ajudar a cidade de Petrópolis"
+title: Ministro fala sobre ações para ajudar a cidade de Petrópolis
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Município foi devastado por enxurrada que deixou quase 180 mortos.
 

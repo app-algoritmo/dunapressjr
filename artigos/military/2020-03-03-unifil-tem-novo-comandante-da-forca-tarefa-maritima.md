@@ -1,11 +1,12 @@
 ---
-title: "UNIFIL tem novo Comandante da Força-Tarefa Marítima"
+title: UNIFIL tem novo Comandante da Força-Tarefa Marítima
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 03/03/2020** – Após
 seis meses de preparo para a prontificação dos membros do Estado-Maior da

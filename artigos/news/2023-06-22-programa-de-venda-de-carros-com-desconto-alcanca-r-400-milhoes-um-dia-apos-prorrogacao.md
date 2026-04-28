@@ -1,11 +1,13 @@
 ---
-title: "Programa de venda de carros com desconto alcança R$ 400 milhões um dia após prorrogação"
+title: Programa de venda de carros com desconto alcança R$ 400 milhões um dia após
+  prorrogação
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Montante corresponde a 80% dos créditos tributários disponíveis, enquanto empresas aplicam margens maiores nos descontos.
 

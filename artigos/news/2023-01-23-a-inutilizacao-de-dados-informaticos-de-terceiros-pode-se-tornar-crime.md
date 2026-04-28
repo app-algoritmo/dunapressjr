@@ -1,11 +1,12 @@
 ---
-title: "A Inutilização de dados informáticos de terceiros pode se tornar crime"
+title: A Inutilização de dados informáticos de terceiros pode se tornar crime
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de atualizar a legislação e aumentar a punição para delitos na internet, o senador Carlos Viana (PL-MG) apresentou projeto que introduz no [Código Penal](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848) o crime de sequestro de dados informáticos e também define uma pena específica para invasão de dispositivo informático quando dela resultar a obtenção de dados pessoais. O [PL 879/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/152669) aguarda tramitação desde abril de 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Missão Brasileira de Cooperação em Engenharia Militar apoia Exército do Senegal"
+title: Missão Brasileira de Cooperação em Engenharia Militar apoia Exército do Senegal
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 A Missão Brasileira de Cooperação em Engenharia Militar conduziu o Estágio de Topografia para militares das unidades de engenharia do Exército Senegalês. O Estágio ocorreu de 25 de setembro a 6 de outubro, nas instalações da École d’Application du Génie, na cidade de Bargny.
 

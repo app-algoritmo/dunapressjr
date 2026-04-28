@@ -1,11 +1,12 @@
 ---
-title: "NATO Adverte: Ucrânia Deve Resistir até 2025 para um Contra-Ataque"
+title: 'NATO Adverte: Ucrânia Deve Resistir até 2025 para um Contra-Ataque'
 date: 2024-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Comité Militar da NATO, Rob Bauer, lançou uma advertência sombria à Ucrânia, instando o país a resistir por mais um ano de guerra para permitir a produção de armas no Ocidente e um contra-ataque planejado para 2025. Esta declaração ressalta os desafios enfrentados pela Ucrânia e a complexidade da situação no terreno.
 

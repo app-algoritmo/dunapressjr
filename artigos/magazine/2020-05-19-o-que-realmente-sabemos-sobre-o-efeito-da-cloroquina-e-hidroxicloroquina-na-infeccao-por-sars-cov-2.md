@@ -1,11 +1,13 @@
 ---
-title: "O que realmente sabemos sobre o efeito da cloroquina e hidroxicloroquina na infecção por SARS-CoV-2?"
+title: O que realmente sabemos sobre o efeito da cloroquina e hidroxicloroquina na
+  infecção por SARS-CoV-2?
 date: 2020-05-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 [A Ph.D Dra. Karen A. Boldingh Debernard e a MD Dra. Marie Randulff Nielsen](https://relis.no/content/3592/RELIS-Sor-Ost), apresentam um estudo preparado com base na literatura e recursos disponíveis no momento da publicação em 31.03.2020. O conteúdo do relatório não é atualizado após a publicação. O pessoal de saúde é responsável por usar o conteúdo da avaliação em aconselhamento ou atendimento ao paciente.
 

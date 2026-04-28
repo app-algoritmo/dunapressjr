@@ -1,11 +1,12 @@
 ---
-title: "A história e arquitetura do Palácio Real de Oslo"
+title: A história e arquitetura do Palácio Real de Oslo
 date: 2020-08-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Palácio Real é um dos edifícios individuais mais emblemático do país e um símbolo importante da história da Noruega depois de 1814. As obras começaram em 1824 e foi o rei Carl Johan quem lançou a pedra fundamental em 1 de outubro de 1825. O castelo foi inaugurado pelo rei Oscar I, em 26 de julho de 1849, O Palácio Real está localizado em Bellevue Hill, no final da rua principal Karl Johan - Oslo. 
 

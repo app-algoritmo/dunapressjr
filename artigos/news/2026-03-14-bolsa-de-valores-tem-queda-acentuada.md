@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de Valores tem queda acentuada"
+title: Bolsa de Valores tem queda acentuada
 date: 2026-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar continua em alta.
 

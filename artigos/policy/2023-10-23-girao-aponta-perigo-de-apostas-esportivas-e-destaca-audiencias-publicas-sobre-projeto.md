@@ -1,11 +1,13 @@
 ---
-title: "Girão aponta perigo de apostas esportivas e destaca audiências públicas sobre projeto"
+title: Girão aponta perigo de apostas esportivas e destaca audiências públicas sobre
+  projeto
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) alertou, em pronunciamento nesta quarta-feira (18), para o perigo das apostas esportivas, conhecidas pelo termo em inglês *bets*. Para ele, o Senado tem o dever “político e moral” de aprofundar a questão “em defesa da sociedade brasileira”. E nesta quinta (19), às 16h, a Comissão de Assuntos Econômicos (CAE) promove audiência pública justamente para discutir o [PL 3.626/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160197), que regulamenta as chamadas apostas de quota fixa. A audiência é aberta à participação do público por meio do telefone da Ouvidoria do Senado (0800 061 2211) ou pelo [Portal e‑Cidadania](/ecidadania). 
 

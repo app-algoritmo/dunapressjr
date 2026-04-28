@@ -1,11 +1,13 @@
 ---
-title: "Saldo das garantias concedidas pela União atinge R$ 264,94 bilhões no primeiro quadrimestre de 2023"
+title: Saldo das garantias concedidas pela União atinge R$ 264,94 bilhões no primeiro
+  quadrimestre de 2023
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relatório do Tesouro Nacional revela bancos federais como principais credores e São Paulo como o estado com maior saldo devedor em operações de crédito garantidas.
 

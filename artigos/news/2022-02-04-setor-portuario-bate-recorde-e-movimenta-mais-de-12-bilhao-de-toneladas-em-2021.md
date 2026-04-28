@@ -1,11 +1,13 @@
 ---
-title: "Setor portuário bate recorde e movimenta mais de 1,2 bilhão de toneladas em 2021"
+title: Setor portuário bate recorde e movimenta mais de 1,2 bilhão de toneladas em
+  2021
 date: 2022-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Montante representa um crescimento de 4,8% em relação a 2020, com destaque para granéis, carga geral e, principalmente, contêineres.
 

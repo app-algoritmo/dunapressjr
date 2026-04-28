@@ -1,11 +1,12 @@
 ---
-title: "Ascensão da China na Indústria de Semicondutores: Um Desafio para os EUA"
+title: 'Ascensão da China na Indústria de Semicondutores: Um Desafio para os EUA'
 date: 2024-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ascensão da China na indústria de semicondutores é um fenômeno notável que está redefinindo o panorama global da tecnologia. As palavras do renomado cientista-chefe da TSMC e professor da Universidade de Stanford, Philipp Wong, ecoam a transformação impressionante que testemunhamos nas últimas décadas.
 

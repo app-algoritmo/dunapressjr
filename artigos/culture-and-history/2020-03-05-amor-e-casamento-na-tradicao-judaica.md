@@ -1,11 +1,12 @@
 ---
-title: "Amor e casamento na tradição judaica"
+title: Amor e casamento na tradição judaica
 date: 2020-03-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 O casamento é a base da existência humana. É o que nos permite constituir família e encontrar alegria e realização na vida. É algo de profundo valor, pelo qual vale a pena lutar.
 

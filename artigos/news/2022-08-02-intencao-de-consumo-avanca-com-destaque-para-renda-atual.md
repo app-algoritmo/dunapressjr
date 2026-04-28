@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo avança, com destaque para renda atual"
+title: Intenção de consumo avança, com destaque para renda atual
 date: 2022-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Percepção positiva do mercado de trabalho segue em crescimento.
 

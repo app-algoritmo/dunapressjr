@@ -1,11 +1,12 @@
 ---
-title: "Olaf Scholz Pede Unidade à Coligação Alemã Após Revés nas Eleições Europeias"
+title: Olaf Scholz Pede Unidade à Coligação Alemã Após Revés nas Eleições Europeias
 date: 2024-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chanceler alemão, Olaf Scholz, apelou à sua coligação para que “se recomponha” imediatamente após o revés sofrido nas últimas eleições europeias, marcadas pelo sucesso da direita soberana Alternativa para a Alemanha (AfD).
 

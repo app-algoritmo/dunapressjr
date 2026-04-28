@@ -1,11 +1,12 @@
 ---
-title: "As Mortes do Triples - Investigação Paralela - Episódio 4"
+title: As Mortes do Triples - Investigação Paralela - Episódio 4
 date: 2022-06-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

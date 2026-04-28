@@ -1,11 +1,12 @@
 ---
-title: "A Romênia confiscou vagões da Ucrânia com organismos geneticamente modificados"
+title: A Romênia confiscou vagões da Ucrânia com organismos geneticamente modificados
 date: 2023-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O ministro da Agricultura, Petre Daea, defendeu os ucranianos, alegando que foi informado pela ANSVSA de que todos os seus produtos estão em conformidade. 
 

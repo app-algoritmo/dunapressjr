@@ -1,11 +1,12 @@
 ---
-title: "Twitter perde venda da plataforma por representações falsas e enganosas"
+title: Twitter perde venda da plataforma por representações falsas e enganosas
 date: 2022-07-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O fundador da Tesla e da SpaceX, Elon Musk, cancelou seu acordo de US$ 44 bilhões previamente acordado para comprar o Twitter, acusando a empresa de mídia social de *“violação material de várias disposições”* do acordo de fusão em uma carta na noite de sexta-feira.
 

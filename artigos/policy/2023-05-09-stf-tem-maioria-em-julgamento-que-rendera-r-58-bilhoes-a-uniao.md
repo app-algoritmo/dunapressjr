@@ -1,11 +1,12 @@
 ---
-title: "STF tem maioria em julgamento que renderá R$ 5,8 bilhões à União"
+title: STF tem maioria em julgamento que renderá R$ 5,8 bilhões à União
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Faltam votar os ministros Nunes Marques e Rosa Weber.
 

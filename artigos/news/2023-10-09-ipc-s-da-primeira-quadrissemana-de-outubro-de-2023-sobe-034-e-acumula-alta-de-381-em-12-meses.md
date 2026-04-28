@@ -1,11 +1,13 @@
 ---
-title: "IPC-S da primeira quadrissemana de outubro de 2023 sobe 0,34% e acumula alta de 3,81% em 12 meses"
+title: IPC-S da primeira quadrissemana de outubro de 2023 sobe 0,34% e acumula alta
+  de 3,81% em 12 meses
 date: 2023-10-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Educação e passagem aérea lideram aumento de preços, enquanto transportes e comunicação recuam.
 

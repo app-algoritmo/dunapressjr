@@ -1,11 +1,13 @@
 ---
-title: "Proposta prevê validade indeterminada para laudo de autismo ou deficiência permanente"
+title: Proposta prevê validade indeterminada para laudo de autismo ou deficiência
+  permanente
 date: 2023-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 507/23 determina validade por prazo indeterminado ao laudo médico pericial que atestar Transtorno do Espectro do Autismo (TEA) ou deficiência de caráter permanente, bem como as requisições médicas de tratamento. A proposta tramita na Câmara dos Deputados.
 

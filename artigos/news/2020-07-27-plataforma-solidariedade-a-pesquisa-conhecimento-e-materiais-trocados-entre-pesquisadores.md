@@ -1,11 +1,13 @@
 ---
-title: "Plataforma Solidariedade à Pesquisa: Conhecimento e materiais trocados entre pesquisadores"
+title: 'Plataforma Solidariedade à Pesquisa: Conhecimento e materiais trocados entre
+  pesquisadores'
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O serviço Solidariedade à Pesquisa permite compartilhamento de insumos e facilita andamento de pesquisas e trabalhos científicos.
 

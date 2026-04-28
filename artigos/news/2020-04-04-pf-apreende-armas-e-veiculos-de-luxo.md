@@ -1,11 +1,12 @@
 ---
-title: "PF apreende armas e veículos de luxo"
+title: PF apreende armas e veículos de luxo
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uberlândia/MG – Nesta sexta-feira (3/4), a Polícia Federal cumpriu, em Ribeirão Preto/SP, um mandado judicial de busca e apreensão, expedido pela Justiça Federal de Paracatu/MG.
 

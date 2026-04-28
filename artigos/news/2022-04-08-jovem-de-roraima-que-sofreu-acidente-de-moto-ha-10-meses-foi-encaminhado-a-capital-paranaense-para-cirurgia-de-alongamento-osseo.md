@@ -1,11 +1,13 @@
 ---
-title: "Jovem de Roraima que sofreu acidente de moto há 10 meses foi encaminhado à capital paranaense para cirurgia de alongamento ósseo"
+title: Jovem de Roraima que sofreu acidente de moto há 10 meses foi encaminhado à
+  capital paranaense para cirurgia de alongamento ósseo
 date: 2022-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O dia 29 de abril foi um divisor de águas para a família do estudante Isaac Soares, 17 anos, morador de Boa Vista (RR). Após sofrer um acidente de moto, ele ficou com uma fratura exposta na perna esquerda. Foram mais de dois meses de internação, antes da notícia de que a cirurgia que o garoto precisava - enxerto e alongamento ósseo - só poderia ser feita em outro estado. A família entrou na Justiça para garantir o procedimento, que foi realizado no Hospital Marcelino Champagnat, em Curitiba (PR), um dos centros de referência em reconstrução óssea no Brasil. 
 

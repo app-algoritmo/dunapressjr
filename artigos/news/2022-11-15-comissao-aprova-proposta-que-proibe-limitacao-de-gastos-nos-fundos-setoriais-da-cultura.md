@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que proíbe limitação de gastos nos fundos setoriais da cultura"
+title: Comissão aprova proposta que proíbe limitação de gastos nos fundos setoriais
+  da cultura
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Cultura da Câmara dos Deputados aprovou o [Projeto de Lei Complementar (PLP) 58/22](https://www.camara.leg.br/noticias/869794-proposta-proibe-limitacao-de-gastos-nos-fundos-setoriais-da-cultura), que veda a limitação de empenho e movimentação financeira de despesas vinculadas aos fundos setoriais da cultura estabelecidos pela [Lei Rouanet](https://www2.camara.leg.br/legin/fed/lei/1991/lei-8313-23-dezembro-1991-363660-norma-pl.html). O texto altera a [Lei de Responsabilidade Fiscal (LRF)](https://www2.camara.leg.br/legin/fed/leicom/2000/leicomplementar-101-4-maio-2000-351480-norma-pl.html).
 

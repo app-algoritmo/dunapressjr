@@ -1,11 +1,12 @@
 ---
-title: "Relator do Orçamento propõe salário mínimo de R$ 1.210 em 2022"
+title: Relator do Orçamento propõe salário mínimo de R$ 1.210 em 2022
 date: 2021-12-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parlamentar não acatou pedido de reajuste para servidores.
 

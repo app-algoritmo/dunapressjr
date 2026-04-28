@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção fica em 0,04% em outubro"
+title: Inflação da construção fica em 0,04% em outubro
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Taxa é inferior à de setembro.
 

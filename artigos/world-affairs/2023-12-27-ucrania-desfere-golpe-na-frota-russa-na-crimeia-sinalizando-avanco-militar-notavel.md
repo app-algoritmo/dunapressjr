@@ -1,11 +1,13 @@
 ---
-title: "Ucrânia Desfere Golpe na Frota Russa na Crimeia, Sinalizando Avanço Militar Notável"
+title: Ucrânia Desfere Golpe na Frota Russa na Crimeia, Sinalizando Avanço Militar
+  Notável
 date: 2023-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um acontecimento marcante na escalada do conflito entre Ucrânia e Rússia, forças ucranianas realizaram um audacioso ataque aéreo noturno contra um grande navio de guerra russo na Crimeia ocupada, causando danos significativos e aumentando a pressão sobre a já debilitada frota de Moscou no Mar Negro. O ataque destaca a capacidade de Kiev em desferir golpes bem atrás das linhas russas, evidenciando a habilidade de atingir alvos estratégicos.
 

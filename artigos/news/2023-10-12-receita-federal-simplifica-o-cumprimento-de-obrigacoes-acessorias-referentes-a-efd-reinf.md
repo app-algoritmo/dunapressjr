@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal simplifica o cumprimento de obrigações acessórias referentes à EFD-Reinf"
+title: Receita Federal simplifica o cumprimento de obrigações acessórias referentes
+  à EFD-Reinf
 date: 2023-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças representam um marco importante para pequenas e médias empresas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Como poderia ser a solução para o conflito na Ucrânia do ponto de vista russo"
+title: Como poderia ser a solução para o conflito na Ucrânia do ponto de vista russo
 date: 2023-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Ministério das Relações Exteriores da Rússia respondeu a um inquérito da imprensa sobre a possibilidade de uma solução negociada para o conflito na Ucrânia.
 

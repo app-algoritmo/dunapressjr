@@ -1,11 +1,12 @@
 ---
-title: "A obra-prima renascentista que foi feita para enfrentar o inimigo no portão"
+title: A obra-prima renascentista que foi feita para enfrentar o inimigo no portão
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 O David de Michelangelo tende a impressionar quem a vê - evocando um sentimento de medo, desejo ou admiração. Mas também foi adulterado - reimpresso em milhões de ímãs de geladeira e toalhas de chá, e apropriado como um símbolo de ersatz da alta cultura. O Books and Arts Daily convocou um painel de especialistas para tentar descobrir o que David realmente representa.
 

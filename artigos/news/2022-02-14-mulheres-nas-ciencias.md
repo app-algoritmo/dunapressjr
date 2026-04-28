@@ -1,11 +1,12 @@
 ---
-title: "Mulheres nas ciências"
+title: Mulheres nas ciências
 date: 2022-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde pelo menos o final do século XX, a figura de mulheres cientistas vem ganhando mais projeção dentro da historiografia das ciências e consolidando-se como um campo de estudos bastante complexo. Certos métodos, teorias e modelos, até então bastante utilizados em pesquisas na área de história das ciências, têm sido colocados em xeque por novas abordagens do tema, derivadas, sobretudo, das teorias feministas. 
 

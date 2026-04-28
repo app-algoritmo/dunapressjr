@@ -1,11 +1,12 @@
 ---
-title: "PF incinera mais de 5 toneladas de maconha em MG"
+title: PF incinera mais de 5 toneladas de maconha em MG
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Montes Claros/MG – Nesta quinta-feira, 21/5, a Polícia Federal, com o apoio da Polícia Militar de Minas Gerais, do Exército Brasileiro, da Polícia Rodoviária Federal e da Prefeitura de Montes Claros, realizou a incineração de aproximadamente 5.900 Kg de maconha.
 

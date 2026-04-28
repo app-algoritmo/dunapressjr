@@ -1,11 +1,12 @@
 ---
-title: "Etiópia entra para a lista de países que transformam lixo em energia elétrica"
+title: Etiópia entra para a lista de países que transformam lixo em energia elétrica
 date: 2021-03-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A Etiópia já tem uma usina inovadora que transforma resíduos em energia | Maneiras de mudar o mundo
 

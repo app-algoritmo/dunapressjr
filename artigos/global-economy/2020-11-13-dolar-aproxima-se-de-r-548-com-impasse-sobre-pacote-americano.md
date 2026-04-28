@@ -1,11 +1,12 @@
 ---
-title: "Dólar aproxima-se de R$ 5,48 com impasse sobre pacote americano"
+title: Dólar aproxima-se de R$ 5,48 com impasse sobre pacote americano
 date: 2020-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 2,35% em dia de tensão no mercado.
 

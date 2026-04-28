@@ -1,11 +1,12 @@
 ---
-title: "Empresas norueguesas investem 25,5 bilhões de dólares no Brasil"
+title: Empresas norueguesas investem 25,5 bilhões de dólares no Brasil
 date: 2019-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Relatório 2019 emitido pelo Real Consulado da Noruega no Rio de Janeiro  indica os investimentos das empresas norueguesas no Brasil de US$ 25,5 bilhões de dólares sem transferências de ativos. Durante 2017-2018, as empresas norueguesas contribuíram com mais de US$ 900 milhões em receitas tributárias empregando diretamente 27.000 pessoas no país.
 

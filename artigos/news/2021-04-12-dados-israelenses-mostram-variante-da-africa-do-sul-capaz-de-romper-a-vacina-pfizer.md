@@ -1,11 +1,13 @@
 ---
-title: "Dados israelenses mostram variante da África do Sul capaz de 'romper' a vacina Pfizer"
+title: Dados israelenses mostram variante da África do Sul capaz de 'romper' a vacina
+  Pfizer
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A variante sul-africana do coronavírus é notavelmente mais adepta de "romper" a vacina Pfizer-BioNTech do que outras variantes, descobriram cientistas israelenses, em um estudo inédito no mundo real.
 

@@ -1,11 +1,12 @@
 ---
-title: "Médicos e hospitais acusados ​​de assassinato"
+title: Médicos e hospitais acusados ​​de assassinato
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Alguns médicos e hospitais enfrentam acusações de assassinato, anunciou o advogado Warner Mendenhall na segunda-feira no Good Morning CHD. Durante a crise do corona, surgiram situações que justificaram a acusação de assassinato, disse o advogado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado debate autocontrole do agronegócio nesta segunda-feira"
+title: Senado debate autocontrole do agronegócio nesta segunda-feira
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Está marcada para segunda-feira (5), no Senado, uma sessão de debate sobre o[ PL 1.293/2021](http://www25.senado.leg.br/web/atividade/materias/-/materia/153048), projeto de lei que prevê o autocontrole dos produtores rurais sobre sua própria produção. O novo modelo transformaria o atual sistema de defesa do setor, que hoje é exclusivamente estatal, em um sistema híbrido. A sessão está marcada para começar às 10h.
 

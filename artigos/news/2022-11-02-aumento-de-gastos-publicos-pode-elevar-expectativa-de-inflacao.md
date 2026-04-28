@@ -1,11 +1,12 @@
 ---
-title: "Aumento de gastos públicos pode elevar expectativa de inflação"
+title: Aumento de gastos públicos pode elevar expectativa de inflação
 date: 2022-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão de inflação para 2023 é de 4,8%, acima do teto da meta.
 

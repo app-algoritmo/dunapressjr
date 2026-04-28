@@ -1,11 +1,13 @@
 ---
-title: "Dinheiro ocidental para a Ucrânia não vai mudar nada em operação especial, diz Kremlin"
+title: Dinheiro ocidental para a Ucrânia não vai mudar nada em operação especial,
+  diz Kremlin
 date: 2023-12-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Este dinheiro está a ser atribuído em detrimento das economias da UE, que já enfrentam tempos difíceis”, enfatizou Dmitry Peskov.
 

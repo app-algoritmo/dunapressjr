@@ -1,12 +1,14 @@
 ---
-title: "Reguladores alemães revisam suas recomendações de vacinação contra a Covid pela 25ª vez"
+title: Reguladores alemães revisam suas recomendações de vacinação contra a Covid
+  pela 25ª vez
 date: 2023-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## [A Comissão Permanente de Vacinação (STIKO), autoridade supervisora ​​alemã de vacinas, publicou](https://www.sueddeutsche.de/gesundheit/stiko-corona-impfung-kinder-erwachsene-schwangere-kranke-1.5820520) um rascunho de suas recomendações atualizadas de vacinação contra a Covid.
 

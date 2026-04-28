@@ -1,11 +1,12 @@
 ---
-title: "Histórico Sísmico de Portugal: Impacto do Terremoto de 26 de Agosto de 2024"
+title: 'Histórico Sísmico de Portugal: Impacto do Terremoto de 26 de Agosto de 2024'
 date: 2024-08-26
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na manhã de 26 de agosto de 2024, um terremoto de magnitude 5.5 atingiu a região costeira de Portugal, com epicentro no Oceano Atlântico, ao largo de Lisboa. Este tremor foi suficientemente forte para ser sentido em várias áreas de Portugal, bem como no sul da Espanha, especialmente em Galícia, Andaluzia, e até no Marrocos.
 

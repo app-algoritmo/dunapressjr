@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende produto de contrabando"
+title: PF, em ação conjunta, apreende produto de contrabando
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na quarta-feira (8/4), policiais federais e da FNSP, em patrulhamento no Rio Paraná, no âmbito da Operação Hórus e Programa VIGIA, avistaram um veículo com dois indivíduos, em um porto clandestino denominado Porto do Dentão, no final da Rua Tiradentes, em Foz do Iguaçu.
 

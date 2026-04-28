@@ -1,11 +1,12 @@
 ---
-title: "Receitas e Despesas: Variações desafiam equilíbrio fiscal"
+title: 'Receitas e Despesas: Variações desafiam equilíbrio fiscal'
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Redução em receitas primárias e aumento de despesas demandam ações do governo para manter estabilidade orçamentária.
 

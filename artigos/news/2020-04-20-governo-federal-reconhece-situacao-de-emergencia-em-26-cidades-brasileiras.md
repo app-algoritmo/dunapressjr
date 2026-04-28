@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal reconhece situação de emergência em 26 cidades brasileiras"
+title: Governo Federal reconhece situação de emergência em 26 cidades brasileiras
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Municípios nos estados da Bahia, Ceará, Maranhão, Minas Gerais e Rio Grande do Sul foram atingidos por desastres naturais e poderão receber apoio da Defesa Civil Nacional.
 

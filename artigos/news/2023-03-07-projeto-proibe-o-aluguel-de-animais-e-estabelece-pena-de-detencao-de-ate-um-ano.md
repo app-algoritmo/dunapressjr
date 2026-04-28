@@ -1,11 +1,13 @@
 ---
-title: "Projeto proíbe o aluguel de animais e estabelece pena de detenção de até um ano"
+title: Projeto proíbe o aluguel de animais e estabelece pena de detenção de até um
+  ano
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 219/23 proíbe a prática de aluguel de animais. “A finalidade é coibir um modelo de negócio penoso para muitos cães, que são submetidos a trabalhar como máquinas, sem direito a afeto e muitas vezes sem comida e água, correndo ainda o risco de serem envenenados. A sua função: cães de guarda de aluguel”, afirmam os autores, deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494) e do deputado licenciado [Delegado Bruno Lima (SP)](https://www.camara.leg.br/deputados/220642), no texto que acompanha a proposta.
 

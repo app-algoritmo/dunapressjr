@@ -1,11 +1,13 @@
 ---
-title: "Operação Verde Brasil 2 reprime delitos ambientais com foco no desmatamento ilegal"
+title: Operação Verde Brasil 2 reprime delitos ambientais com foco no desmatamento
+  ilegal
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Os primeiros 15 dias de implementação da Operação Verde Brasil 2 foram avaliados durante videoconferência presidida pelo Ministro da Defesa, Fernando Azevedo, na quarta-feira (27). A reunião ocorreu a partir da sede da Defesa e reuniu, por meio de chamada de vídeo, representantes das agências envolvidas nas ações e dos três Comandos Conjuntos ativados para operacionalizar a missão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo eleva previsão de crescimento da economia para 2,7%"
+title: Governo eleva previsão de crescimento da economia para 2,7%
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Projeção para inflação recuou de 7,2% para 6,3%.
 

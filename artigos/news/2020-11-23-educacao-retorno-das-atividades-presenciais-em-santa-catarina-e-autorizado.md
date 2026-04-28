@@ -1,11 +1,12 @@
 ---
-title: "Educação: retorno das atividades presenciais em Santa Catarina é autorizado"
+title: 'Educação: retorno das atividades presenciais em Santa Catarina é autorizado'
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após uma série de reuniões com setores envolvidos, lideradas pela governadora Daniela Reinehr, o Estado publicou neste final de semana duas portarias com objetivo de autorizar a retomada segura das atividades escolares presenciais no estado. A portaria nº 900, assinada em conjunto pelo secretário de Estado da Saúde, André Motta Ribeiro, e pelo secretário de Educação, Natalino Uggioni, e a portaria nº 901, da Secretaria de Estado da Saúde (SES), alteram as regulamentações anteriores previstas nas portarias nº 592 e nº 778.
 

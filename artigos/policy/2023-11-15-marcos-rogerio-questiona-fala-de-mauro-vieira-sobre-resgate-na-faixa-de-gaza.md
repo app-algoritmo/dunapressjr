@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério questiona fala de Mauro Vieira sobre resgate na Faixa de Gaza"
+title: Marcos Rogério questiona fala de Mauro Vieira sobre resgate na Faixa de Gaza
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) questionou informações dadas pelo ministro de Relações Exteriores, Mauro Vieira, em entrevista sobre o resgate dos 32 brasileiros que estavam na Faixa de Gaza, zona de conflito entre o grupo palestino Hamas e Israel. Em pronunciamento nesta segunda-feira (13), o parlamentar também destacou o esforço da diplomacia brasileira no caso.
 

@@ -1,11 +1,13 @@
 ---
-title: "Aposentados e pensionistas recebem segunda parcela do 13º salário na segunda-feira (25)"
+title: Aposentados e pensionistas recebem segunda parcela do 13º salário na segunda-feira
+  (25)
 date: 2020-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de trinta milhões (30.811.482) de aposentados e pensionistas começam a receber, a partir de segunda-feira (25), a segunda parcela do 13º salário. O valor a ser injetado na economia equivale a R$ 23,8 bilhões. A liberação antecipada dos recursos é uma das medidas anunciadas pelo Governo Federal para o enfrentamento da pandemia do novo coronavírus. 
 

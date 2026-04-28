@@ -1,11 +1,12 @@
 ---
-title: "Moderna Recebe Aprovação para Nova Vacina de mRNA Contra RSV"
+title: Moderna Recebe Aprovação para Nova Vacina de mRNA Contra RSV
 date: 2024-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Moderna Lança Nova Vacina de mRNA Contra RSV e Desenvolve Vacinas Combinadas**.
 

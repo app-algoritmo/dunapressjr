@@ -1,11 +1,12 @@
 ---
-title: "PF apura desvios no combate à Covid-19 no Oiapoque/AP"
+title: PF apura desvios no combate à Covid-19 no Oiapoque/AP
 date: 2020-06-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou, na manhã de hoje (14/6), a Operação Panaceia*, para combater desvio de medicamentos, de teste de diagnósticos para Covid-19, além do uso indevido de serviços públicos de saúde, em Oiapoque/AP.
 

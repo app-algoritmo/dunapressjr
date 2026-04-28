@@ -1,11 +1,12 @@
 ---
-title: "Entrega da Declaração do Imposto de Renda começa no dia 15 de março"
+title: Entrega da Declaração do Imposto de Renda começa no dia 15 de março
 date: 2023-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contribuintes terão acesso ao documento pré-preenchido no primeiro dia.
 

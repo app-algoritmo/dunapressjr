@@ -1,11 +1,12 @@
 ---
-title: "Obras de recuperação e pavimentação são concluídas na BR-426/PB"
+title: Obras de recuperação e pavimentação são concluídas na BR-426/PB
 date: 2020-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trecho vai garantir segurança aos usuários e facilitar escoamento de produtos agropecuários produzidos na região.
 

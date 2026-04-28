@@ -1,12 +1,13 @@
 ---
-title: "9º Batalhão Logístico mobiliza apoio ao combate da COVID-19"
+title: 9º Batalhão Logístico mobiliza apoio ao combate da COVID-19
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Santiago (RS)**
 – Paralelamente ao apoio de abastecimento d’água prestado às localidades

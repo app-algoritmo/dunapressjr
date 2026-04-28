@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança sobe 40,3% e chega a US$ 54,52 bilhões no ano"
+title: Superávit da balança sobe 40,3% e chega a US$ 54,52 bilhões no ano
 date: 2021-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados até a terceira semana de setembro mostram corrente de comércio de US$ 352,30 bilhões, em alta de 36,7%, com US$ 203,41 bilhões em exportações e US$ 148,89 bilhões em importações.
 

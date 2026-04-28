@@ -1,11 +1,12 @@
 ---
-title: "<strong>Confiança da indústria cai 3,8 pontos em outubro</strong>"
+title: <strong>Confiança da indústria cai 3,8 pontos em outubro</strong>
 date: 2022-10-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Índice de Expectativas recuou três pontos e chegou a 95.
 

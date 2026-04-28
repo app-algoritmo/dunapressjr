@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cresce 0,7 ponto na prévia de fevereiro"
+title: Confiança da indústria cresce 0,7 ponto na prévia de fevereiro
 date: 2020-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Indicador chegou a 101,6 pontos, mesmo patamar de setembro de 2013*
 

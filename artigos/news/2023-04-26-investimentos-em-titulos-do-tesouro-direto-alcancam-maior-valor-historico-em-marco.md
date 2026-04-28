@@ -1,11 +1,13 @@
 ---
-title: "Investimentos em títulos do Tesouro Direto alcançam maior valor histórico em março"
+title: Investimentos em títulos do Tesouro Direto alcançam maior valor histórico em
+  março
 date: 2023-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tesouro Selic lidera vendas e investimentos de até R$1 mil representam mais da metade das operações no mês.
 

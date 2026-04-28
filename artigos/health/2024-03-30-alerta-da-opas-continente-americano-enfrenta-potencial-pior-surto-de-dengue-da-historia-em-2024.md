@@ -1,11 +1,13 @@
 ---
-title: "Alerta da Opas: Continente Americano enfrenta potencial pior surto de dengue da história em 2024"
+title: 'Alerta da Opas: Continente Americano enfrenta potencial pior surto de dengue
+  da história em 2024'
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A Organização Pan-americana da Saúde (Opas) lançou um alerta nesta quinta-feira (28) sobre a possibilidade de o continente americano enfrentar o pior surto de dengue já registrado em sua história, com mais de 3,5 milhões de casos contabilizados nos primeiros três meses deste ano. Esse número representa um aumento significativo em relação ao mesmo período do ano anterior, com um acumulado três vezes maior.
 

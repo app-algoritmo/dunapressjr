@@ -1,11 +1,12 @@
 ---
-title: "Forças Especiais do Brasil e dos EUA realizam atividade de integração na Amazônia"
+title: Forças Especiais do Brasil e dos EUA realizam atividade de integração na Amazônia
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 o dia 2 de novembro de 2023, o 2º Destacamento de Operações de Forças Especiais da 3ª Companhia de Forças Especiais participou de uma atividade de integração com uma unidade do 7º Grupo de Forças Especiais do Exército Americano. A ação integra a Operação CORE 23 (*Combined Operation and Rotation Exercise*).
 

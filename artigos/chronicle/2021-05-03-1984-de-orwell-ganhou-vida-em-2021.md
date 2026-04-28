@@ -1,11 +1,12 @@
 ---
-title: "1984 de Orwell ganhou vida em 2021"
+title: 1984 de Orwell ganhou vida em 2021
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ## [O livro Orwell´s 1984](https://dunapress.org/?r3d=1984-george-orwell-duna-writers-editora-flipbook)
 

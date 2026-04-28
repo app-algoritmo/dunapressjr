@@ -1,11 +1,12 @@
 ---
-title: "Heinze alerta para incoerência nas decisões do STF"
+title: Heinze alerta para incoerência nas decisões do STF
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Luís Carlos Heinze (PP-RS) destacou, em pronunciamento no Plenário nessa terça-feira (21),  casos de ataques às instituições por movimentos ligados à esquerda e observou que nenhum deles foi considerado golpe de Estado.
 

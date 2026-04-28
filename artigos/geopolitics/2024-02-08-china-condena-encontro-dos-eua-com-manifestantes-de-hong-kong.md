@@ -1,11 +1,12 @@
 ---
-title: "China condena encontro dos EUA com manifestantes de Hong Kong"
+title: China condena encontro dos EUA com manifestantes de Hong Kong
 date: 2024-02-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O porta-voz do Ministério das Relações Exteriores da China, Wang Wenbin, expressou a forte oposição e deploração da China à recente reunião de altos funcionários dos Estados Unidos com manifestantes anti-China fugidos de Hong Kong. Em uma coletiva de imprensa regular, Wang destacou que esses manifestantes são suspeitos de representar uma ameaça à segurança nacional e enfatizou que a emissão de mandados de prisão pela polícia de Hong Kong está em conformidade com o direito internacional e a prática consuetudinária.
 

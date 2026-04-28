@@ -1,11 +1,12 @@
 ---
-title: "A asma pode matar se não for tratada corretamente"
+title: A asma pode matar se não for tratada corretamente
 date: 2021-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 “Essa é uma doença inflamatória crônica das vias aéreas e se não for tratada com o devido cuidado, pode levar a óbito”, explicou a Tatiana Galvão, diretora de comunicação da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT). 
 

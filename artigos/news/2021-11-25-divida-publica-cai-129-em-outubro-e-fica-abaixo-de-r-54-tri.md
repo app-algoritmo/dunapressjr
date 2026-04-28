@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 1,29% em outubro e fica abaixo de R$ 5,4 tri"
+title: Dívida Pública cai 1,29% em outubro e fica abaixo de R$ 5,4 tri
 date: 2021-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vencimento de títulos prefixados provocou queda.
 

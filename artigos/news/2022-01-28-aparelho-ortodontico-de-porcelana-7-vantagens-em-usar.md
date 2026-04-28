@@ -1,11 +1,12 @@
 ---
-title: "Aparelho ortodôntico de porcelana: 7 vantagens em usar"
+title: 'Aparelho ortodôntico de porcelana: 7 vantagens em usar'
 date: 2022-01-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O **aparelho ortodôntico de porcelana **é uma excelente alternativa ao aparelho tradicional. Não à toa, é um dos tratamentos odontológicos mais procurados atualmente. Independentemente da faixa etária, todos desejam dentes alinhados e saudáveis.
 

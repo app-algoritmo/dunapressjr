@@ -1,11 +1,12 @@
 ---
-title: "Advogado passa 200 dias internado na luta contra Covid-19"
+title: Advogado passa 200 dias internado na luta contra Covid-19
 date: 2021-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Em março, em alguns hospitais, mais de 38% dos pacientes com a doença precisaram de UTI; período de internação chega a quatro vezes maior que o normal e impacta na demanda por leitos.
 

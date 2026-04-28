@@ -1,11 +1,12 @@
 ---
-title: "Seis aprendizados em um ano de home office"
+title: Seis aprendizados em um ano de home office
 date: 2021-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Como empresas e especialistas avaliam o primeiro ano de trabalho em casa e o que levar em conta daqui para frente.
 

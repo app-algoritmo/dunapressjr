@@ -1,11 +1,12 @@
 ---
-title: "Governadora Daniela Reinehr testa positivo para Covid-19"
+title: Governadora Daniela Reinehr testa positivo para Covid-19
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A governadora Daniela Reinehr testou positivo para Covid-19. O resultado do teste realizado nesta segunda-feira, 16, pelo Laboratório Central de Saúde Pública (Lacen) foi liberado na manhã desta terça-feira. A governadora apresentou sintomas leves, passa por avaliação médica e, em isolamento, cumprirá a agenda de reuniões por videoconferência.
 

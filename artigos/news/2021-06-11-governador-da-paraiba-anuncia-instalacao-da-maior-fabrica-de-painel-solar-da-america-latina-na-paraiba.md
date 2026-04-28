@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba anuncia instalação da maior fábrica de painel solar da América Latina na Paraíba"
+title: Governador da Paraíba anuncia instalação da maior fábrica de painel solar da
+  América Latina na Paraíba
 date: 2021-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Chefe do Executivo estadual ressaltou que a Paraíba se tornará referência nacional com os empreendimentos que serão instalados no estado.
 

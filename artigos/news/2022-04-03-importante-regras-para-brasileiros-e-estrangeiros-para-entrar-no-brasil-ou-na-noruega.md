@@ -1,12 +1,14 @@
 ---
-title: "IMPORTANTE: Regras para brasileiros e estrangeiros para entrar no Brasil ou na Noruega"
+title: 'IMPORTANTE: Regras para brasileiros e estrangeiros para entrar no Brasil ou
+  na Noruega'
 date: 2022-04-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Neste vídeo são apresentadas as regras para a entrada no Brasil e na Noruega.
 

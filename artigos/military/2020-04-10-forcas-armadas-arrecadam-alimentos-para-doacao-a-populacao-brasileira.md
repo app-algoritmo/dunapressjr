@@ -1,11 +1,12 @@
 ---
-title: "Forças Armadas arrecadam alimentos para doação à população brasileira"
+title: Forças Armadas arrecadam alimentos para doação à população brasileira
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em todo o Brasil, Organizações Militares das Forças Armadas participaram de campanhas para levar alimentos à população brasileira durante o surto da COVID-19, doença causada pelo novo coronavírus. Nesta semana, em diversas localidades, unidades participaram de ações que visaram desde a arrecadação de mantimentos para famílias vulneráveis até o provimento de refeições para profissionais atuando na linha de frente de combate à pandemia.
 

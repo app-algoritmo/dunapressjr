@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mercado financeiro projeta inflação de 6% em 2022</strong>"
+title: <strong>Mercado financeiro projeta inflação de 6% em 2022</strong>
 date: 2022-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### PIB fechará ano em 2,65%, segundo Boletim Focus.
 

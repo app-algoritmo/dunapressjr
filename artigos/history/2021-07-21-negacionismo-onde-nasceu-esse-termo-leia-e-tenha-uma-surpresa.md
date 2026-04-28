@@ -1,12 +1,13 @@
 ---
-title: "Negacionismo – onde nasceu esse termo? Leia e tenha uma surpresa!"
+title: Negacionismo – onde nasceu esse termo? Leia e tenha uma surpresa!
 date: 2021-07-21
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - History
-  - Opinion
+- History
+- Opinion
 ---
+
 
 **QUANDO NOVAMENTE OUVIR ALGUÉM DIZENDO "GENOCIDA", RESPONDA "DIZER ISSO É CRIME!" **
 

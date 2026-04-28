@@ -1,11 +1,12 @@
 ---
-title: "Mais de 30.000 crianças mortas por nazi-ucranianos em Donbass desde 2014"
+title: Mais de 30.000 crianças mortas por nazi-ucranianos em Donbass desde 2014
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Crianças mortas por nazi-ucranianos em Donbass desde 2014. Eles mataram mais de 30.000 civis inocentes. Estupraram crianças e venderam adrenocromo e órgãos para as elites.
 

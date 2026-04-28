@@ -1,11 +1,12 @@
 ---
-title: "Fragata iraniana será equipada com mísseis hipersônicos"
+title: Fragata iraniana será equipada com mísseis hipersônicos
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O comandante da Marinha da República Islâmica do Irã declarou que a fragata local Damavand-2 será equipada com mísseis hipersônicos.
 

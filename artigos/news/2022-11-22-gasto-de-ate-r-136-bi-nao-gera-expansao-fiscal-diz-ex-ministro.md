@@ -1,11 +1,12 @@
 ---
-title: "Gasto de até R$ 136 bi não gera expansão fiscal, diz ex-ministro"
+title: Gasto de até R$ 136 bi não gera expansão fiscal, diz ex-ministro
 date: 2022-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nelson Barbosa, da equipe de transição, cita proporção gasto/PIB.
 

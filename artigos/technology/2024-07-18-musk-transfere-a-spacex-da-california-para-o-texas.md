@@ -1,12 +1,13 @@
 ---
-title: "Musk transfere a SpaceX da Califórnia para o Texas"
+title: Musk transfere a SpaceX da Califórnia para o Texas
 date: 2024-07-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
-  - World Affairs
+- Technology
+- World Affairs
 ---
+
 
 Elon Musk anunciou planos de transferir a sede da SpaceX e a plataforma de mídia social X, anteriormente conhecida como Twitter, para o estado da estrela solitária.
 

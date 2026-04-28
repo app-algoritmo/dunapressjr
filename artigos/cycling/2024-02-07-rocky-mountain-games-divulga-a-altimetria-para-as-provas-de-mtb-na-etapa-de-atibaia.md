@@ -1,12 +1,14 @@
 ---
-title: "Rocky Mountain Games divulga a altimetria para as provas de MTB na etapa de Atibaia"
+title: Rocky Mountain Games divulga a altimetria para as provas de MTB na etapa de
+  Atibaia
 date: 2024-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Maior festival de esportes e cultura de montanha do Brasil abre a temporada 2024 dias 9 e 10 de março, na Pedra Grande. Atletas intensificam treinos e já podem simular o percurso.
 

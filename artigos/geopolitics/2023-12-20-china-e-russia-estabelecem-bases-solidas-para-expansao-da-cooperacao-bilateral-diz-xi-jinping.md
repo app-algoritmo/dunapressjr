@@ -1,11 +1,13 @@
 ---
-title: "China e Rússia estabelecem bases sólidas para expansão da cooperação bilateral, diz Xi Jinping"
+title: China e Rússia estabelecem bases sólidas para expansão da cooperação bilateral,
+  diz Xi Jinping
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Segundo o líder chinês, as partes precisam de aumentar os efeitos positivos das suas relações políticas de alto nível, avançando juntas em termos de desenvolvimento social e económico e de esforços para construir uma comunidade que ofereça uma visão de um futuro partilhado para a humanidade.
 

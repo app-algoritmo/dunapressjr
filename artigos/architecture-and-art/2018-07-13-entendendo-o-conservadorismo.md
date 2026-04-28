@@ -1,11 +1,12 @@
 ---
-title: "Entendendo o Conservadorismo"
+title: Entendendo o Conservadorismo
 date: 2018-07-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Há exatos quatro dias atrás Donald Trump, Presidente dos Estados Unidos, indicou o ex-assessor do ex-presidente George W. Bush, Brett Kavanaugh, para juiz da Suprema Corte, o que gerou o comentário de que sua bancada está cada vez mais inclinada, politicamente, à direita e, portanto, mais conservadora.
 

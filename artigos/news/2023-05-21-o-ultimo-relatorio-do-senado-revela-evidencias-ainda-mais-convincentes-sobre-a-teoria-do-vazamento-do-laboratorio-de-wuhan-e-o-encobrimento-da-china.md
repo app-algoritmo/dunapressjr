@@ -1,11 +1,13 @@
 ---
-title: "O último relatório do Senado revela evidências ainda mais convincentes sobre a teoria do vazamento do laboratório de Wuhan e o encobrimento da China"
+title: O último relatório do Senado revela evidências ainda mais convincentes sobre
+  a teoria do vazamento do laboratório de Wuhan e o encobrimento da China
 date: 2023-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O último relatório do Senado dos Estados Unidos sobre as origens do coronavírus Wuhan (COVID-19) revela que o Instituto de Virologia de Wuhan (WIV) teve um “sério [incidente de biocontenção](http://www.dailymail.co.uk/news/article-12094249/MORE-evidence-Wuhan-leak-revealed-Senate-report.html) ” em 2019, estava com falta de pessoal e contaminado por questões de segurança.
 

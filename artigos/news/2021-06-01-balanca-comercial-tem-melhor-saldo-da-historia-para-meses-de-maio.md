@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem melhor saldo da história para meses de maio"
+title: Balança comercial tem melhor saldo da história para meses de maio
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País exportou US$ 9,29 bilhões a mais do que importou.
 

@@ -1,11 +1,12 @@
 ---
-title: "Por que são feitas tantas cesarianas no Brasil?"
+title: Por que são feitas tantas cesarianas no Brasil?
 date: 2021-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Organização Mundial da Saúde (OMS) vem alertando para o crescente número de [cesarianas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/231-por-que-sao-feitas-tantas-cesarianas-no-brasil#) no Brasil, que hoje ultrapassa metade dos nascimentos. Segundo a Organização, a cesariana é uma intervenção efetiva para salvar a vida de mães e bebês apenas quando indicada por motivos clínicos, ou seja, em situações específicas. A OMS recomenda que a taxa de cesarianas de países ou serviços de saúde não ultrapassasse 15%, pois taxas maiores não seriam justificadas sob o ponto de vista clínico e não implicariam em melhores condições de saúde materna ou [neonatal](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/231-por-que-sao-feitas-tantas-cesarianas-no-brasil#). Ao contrário, diversos estudos apontam que a cesárea, sobretudo quando feita nos casos em que não é necessária, está associada à consequências negativas sobre a saúde materna e infantil, além de apresentar custos maiores ao sistema de saúde.
 

@@ -1,11 +1,12 @@
 ---
-title: "KC-390 Millennium e C-105 Amazonas realizam Transporte Aéreo Logístico"
+title: KC-390 Millennium e C-105 Amazonas realizam Transporte Aéreo Logístico
 date: 2020-04-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Duas aeronaves da Força Aérea Brasileira realizaram missão durante essa sexta-feira (10/04). O KC-390 Millennium, avião multimissão da FAB, decolou às 12h da Ala 11 - Base Aérea do Galeão (RJ) com destino à Ala 8 - Base Aérea de Manaus (AM), transportando 6,9 toneladas de equipamentos hospitalares e uma ambulância. Já o C-105 Amazonas decolou às 15h da Base Aérea de São Paulo, em Guarulhos (SP), para Fortaleza (CE), com 30 respiradores hospitalares, aproximadamente uma tonelada de carga.
 

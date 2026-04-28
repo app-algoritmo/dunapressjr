@@ -1,11 +1,12 @@
 ---
-title: "Empresas Offshore: O Que São e Como Podem Beneficiar Seu Negócio"
+title: 'Empresas Offshore: O Que São e Como Podem Beneficiar Seu Negócio'
 date: 2024-08-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Finances
+- Finances
 ---
+
 
 ### O Que São Empresas Offshore?
 

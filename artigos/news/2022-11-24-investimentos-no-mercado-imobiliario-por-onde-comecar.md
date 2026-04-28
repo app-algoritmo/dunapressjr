@@ -1,11 +1,12 @@
 ---
-title: "Investimentos no mercado imobiliário: por onde começar?"
+title: 'Investimentos no mercado imobiliário: por onde começar?'
 date: 2022-11-24
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O **mercado imobiliário** é tradicionalmente um dos mais procurados na área de investimento. 
 

@@ -1,11 +1,13 @@
 ---
-title: "A Câmara de Vereadores de Itajaí aprovou projeto que apresenta estimativa de receita e fixa despesas para 2021"
+title: A Câmara de Vereadores de Itajaí aprovou projeto que apresenta estimativa de
+  receita e fixa despesas para 2021
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou com 18 votos favoráveis e uma abstenção, em primeira discussão, o [Projeto de Lei Ordinária (PLO) nº 137/2020](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria137_2020.pdf), de autoria do Executivo Municipal. O PLO estima a receita e fixas despesas do orçamento do Município para 2021 e é conhecido como Lei Orçamentária Anual (LOA).
  

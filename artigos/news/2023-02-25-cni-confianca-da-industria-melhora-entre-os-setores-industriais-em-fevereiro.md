@@ -1,11 +1,12 @@
 ---
-title: "CNI: Confiança da indústria melhora entre os setores industriais em fevereiro"
+title: 'CNI: Confiança da indústria melhora entre os setores industriais em fevereiro'
 date: 2023-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O ICEI setorial aponta que 19 de 29 setores industriais voltaram a um estado de confiança. A melhora foi puxada por expectativas mais otimistas em relação aos próximos seis meses.
 

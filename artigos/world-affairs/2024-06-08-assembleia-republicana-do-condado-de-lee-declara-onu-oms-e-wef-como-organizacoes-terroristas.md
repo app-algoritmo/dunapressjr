@@ -1,11 +1,13 @@
 ---
-title: "Assembleia Republicana do Condado de Lee Declara ONU, OMS e WEF como Organizações Terroristas"
+title: Assembleia Republicana do Condado de Lee Declara ONU, OMS e WEF como Organizações
+  Terroristas
 date: 2024-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em um movimento ousado, a Assembleia Republicana do Condado de Lee, uma organização republicana conservadora de base, aprovou uma resolução polêmica que declara as Nações Unidas (ONU), a Organização Mundial da Saúde (OMS) e o Fórum Econômico Mundial (WEF) como organizações terroristas. A resolução, apresentada por Joseph Sansone, denuncia a cooperação com essas entidades como uma traição aos Estados Unidos e ao estado da Flórida.
 

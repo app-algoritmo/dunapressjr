@@ -1,11 +1,12 @@
 ---
-title: "O Homem de Lata: O Desejo de um Coração"
+title: 'O Homem de Lata: O Desejo de um Coração'
 date: 2024-08-08
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Technology
+- Technology
 ---
+
 
 No livro "O Mágico de Oz", escrito por L. Frank Baum, o Homem de Lata é um dos companheiros de Dorothy em sua jornada para encontrar o Mágico. Ele era originalmente um lenhador humano, mas após um feitiço que o transformou em lata, ele perdeu seu coração. Seu maior desejo é recuperar um coração, acreditando que isso o tornará capaz de sentir amor e emoção, algo que ele considera essencial para ser realmente “humano”.
 

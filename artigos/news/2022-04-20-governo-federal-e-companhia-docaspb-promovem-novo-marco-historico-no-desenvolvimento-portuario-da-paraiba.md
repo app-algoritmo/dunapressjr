@@ -1,11 +1,13 @@
 ---
-title: "Governo federal e Companhia Docas/PB promovem novo marco histórico no desenvolvimento portuário da Paraíba"
+title: Governo federal e Companhia Docas/PB promovem novo marco histórico no desenvolvimento
+  portuário da Paraíba
 date: 2022-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contrato de cessão torna o Porto de Cabedelo o primeiro complexo portuário do Brasil a ter 100% das áreas continentais regularizadas.
 

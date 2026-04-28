@@ -1,11 +1,12 @@
 ---
-title: "O que é planejamento empresarial?"
+title: O que é planejamento empresarial?
 date: 2022-09-08
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 **SIGNIFICADO DO PLANEJAMENTO DE NEGÓCIOS**
 

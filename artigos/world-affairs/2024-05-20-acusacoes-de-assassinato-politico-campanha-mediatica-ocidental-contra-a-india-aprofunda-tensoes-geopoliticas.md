@@ -1,11 +1,13 @@
 ---
-title: "Acusações de Assassinato Político: Campanha Mediática Ocidental Contra a Índia Aprofunda Tensões Geopolíticas"
+title: 'Acusações de Assassinato Político: Campanha Mediática Ocidental Contra a Índia
+  Aprofunda Tensões Geopolíticas'
 date: 2024-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os Estados Unidos e seus aliados ocidentais desencadearam uma intensa campanha mediática acusando a Índia de perseguir uma política de assassinato de dissidentes que vivem no exterior. Essas alegações, que têm prejudicado gravemente as relações políticas, têm como alvo principalmente membros da diáspora Sikh, uma comunidade significativa nos EUA, Canadá e Reino Unido.
 

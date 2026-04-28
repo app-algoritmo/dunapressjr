@@ -1,11 +1,12 @@
 ---
-title: "Estão sendo desenvolvidos vírus que matam seletivamente etnicamente?"
+title: Estão sendo desenvolvidos vírus que matam seletivamente etnicamente?
 date: 2023-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## É sabido que os corpos de pessoas de diferentes origens, diferentes grupos étnicos, têm mais ou menos problemas, por exemplo, quando lidam com o álcool. A formação de vitamina D também depende da cor da pele. Então, é possível desenvolver vírus que são inofensivos para alguns, mas matam outros?
 

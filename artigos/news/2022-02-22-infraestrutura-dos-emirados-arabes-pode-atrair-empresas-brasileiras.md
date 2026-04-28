@@ -1,11 +1,12 @@
 ---
-title: "Infraestrutura dos Emirados Árabes pode atrair empresas brasileiras"
+title: Infraestrutura dos Emirados Árabes pode atrair empresas brasileiras
 date: 2022-02-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apex-Brasil defende aprofundamento das relações entre nações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Multitudinária participação de apoio ao ex-presidente Bolsonaro"
+title: Multitudinária participação de apoio ao ex-presidente Bolsonaro
 date: 2024-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 No último domingo (25), a emblemática Avenida Paulista, em São Paulo, foi palco de um evento que refletiu os contornos complexos da política brasileira contemporânea. Apoiadores do ex-presidente Jair Bolsonaro (PL) se reuniram em massa para expressar seu apoio ao líder controverso, em um momento em que ele enfrenta uma série de desafios, incluindo investigações da Polícia Federal (PF) por supostas tentativas de golpe de Estado.
 

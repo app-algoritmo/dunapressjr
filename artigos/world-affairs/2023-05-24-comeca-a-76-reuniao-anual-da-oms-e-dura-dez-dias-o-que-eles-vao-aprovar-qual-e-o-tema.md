@@ -1,11 +1,13 @@
 ---
-title: "Começa a 76ª reunião anual da OMS e dura dez dias. O que eles vão aprovar? Qual é o tema?"
+title: Começa a 76ª reunião anual da OMS e dura dez dias. O que eles vão aprovar?
+  Qual é o tema?
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As emendas ao RSI adotadas no ano passado foram decididas nos bastidores, sem votação formal. O que você está aprontando dessa vez? O cartão de vacinação/identificação digital se tornará uma diretriz da OMS?
 

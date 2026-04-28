@@ -1,12 +1,13 @@
 ---
-title: "Relatividade da Democracia"
+title: Relatividade da Democracia
 date: 2023-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 Em um rincão distante, onde as sombras dançam ao ritmo da censura, surge uma narrativa que desafia a ideia convencional de democracia. Nesse terreno árido, a Democracia é uma figura enigmática, vestida com a roupagem da relatividade.
 

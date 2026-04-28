@@ -1,11 +1,12 @@
 ---
-title: "Anvisa autoriza retomada de testes da vacina de Oxford"
+title: Anvisa autoriza retomada de testes da vacina de Oxford
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes. No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes. 
 

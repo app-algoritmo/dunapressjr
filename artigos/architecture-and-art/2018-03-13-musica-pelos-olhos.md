@@ -1,11 +1,12 @@
 ---
-title: "Música pelos olhos"
+title: Música pelos olhos
 date: 2018-03-13
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 No 23° Encontro de Coros da Bairrada, em Águeda, Portugal inova formato e coloca no palco quase 400 cantores.
 

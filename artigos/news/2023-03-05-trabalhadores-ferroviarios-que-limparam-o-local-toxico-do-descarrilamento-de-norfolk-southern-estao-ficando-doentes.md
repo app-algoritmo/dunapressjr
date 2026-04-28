@@ -1,11 +1,13 @@
 ---
-title: "Trabalhadores ferroviários que limparam o local tóxico do descarrilamento de Norfolk Southern estão ficando doentes"
+title: Trabalhadores ferroviários que limparam o local tóxico do descarrilamento de
+  Norfolk Southern estão ficando doentes
 date: 2023-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Após o acidente de trem e a 'queima controlada' em East Palestine, Ohio, as autoridades locais e federais correram para dizer que estava tudo bem.
 

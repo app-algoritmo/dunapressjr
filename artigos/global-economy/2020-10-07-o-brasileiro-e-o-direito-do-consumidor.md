@@ -1,11 +1,12 @@
 ---
-title: "O brasileiro e o direito do consumidor"
+title: O brasileiro e o direito do consumidor
 date: 2020-10-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Código de Defesa do Consumidor foi criado em 1990 e constitui um conjunto de normas que visa proteger o consumidor e estabelecer padrões de conduta entre os fornecedores (fabricantes de produtos ou prestadores de serviços) e o consumidor final.
 

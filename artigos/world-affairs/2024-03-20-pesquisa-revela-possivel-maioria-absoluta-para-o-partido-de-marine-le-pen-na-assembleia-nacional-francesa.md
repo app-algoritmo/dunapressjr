@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa revela possível maioria absoluta para o partido de Marine Le Pen na Assembleia Nacional francesa"
+title: Pesquisa revela possível maioria absoluta para o partido de Marine Le Pen na
+  Assembleia Nacional francesa
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma pesquisa recente conduzida pela Ipsos em nome dos Republicanos enviou ondas de choque pelo cenário político francês, ao revelar que o partido soberanista Reunião Nacional, liderado por Marine Le Pen, poderia garantir uma maioria absoluta na Assembleia Nacional.
 

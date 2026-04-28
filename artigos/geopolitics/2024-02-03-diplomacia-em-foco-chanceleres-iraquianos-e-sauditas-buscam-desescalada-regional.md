@@ -1,11 +1,12 @@
 ---
-title: "Diplomacia em Foco: Chanceleres Iraquianos e Sauditas Buscam Desescalada Regional"
+title: 'Diplomacia em Foco: Chanceleres Iraquianos e Sauditas Buscam Desescalada Regional'
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em meio a crescentes tensões na região, os ministros das Relações Exteriores do Iraque, Fuad Hussein, e da Arábia Saudita, Faisal Bin Farhan, realizaram uma crucial conversa telefônica visando abordar e reduzir as atuais hostilidades. Este diálogo entre os principais diplomatas ocorre após o recente ataque de drones a uma base dos EUA na Jordânia, resultando em três soldados americanos mortos e mais de 40 feridos, gerando ameaças de retaliação por parte de Washington.
 

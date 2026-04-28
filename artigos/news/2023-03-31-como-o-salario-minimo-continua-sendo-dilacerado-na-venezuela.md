@@ -1,11 +1,12 @@
 ---
-title: "Como o salário mínimo continua sendo dilacerado na Venezuela"
+title: Como o salário mínimo continua sendo dilacerado na Venezuela
 date: 2023-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O salário mínimo na Venezuela, que aumentou nos últimos anos de 7 bolívares (1,60 dólares) para 130 bolívares (29,68 dólares), tem sido reduzido em 82% no seu equivalente em dólar americano - referência no país para definir preços - para 5,31 dólares, como resultado da desvalorização da moeda local.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro lança plano de contingência com R$ 4,7 bilhões para povos e comunidades tradicionais durante pandemia"
+title: Governo Bolsonaro lança plano de contingência com R$ 4,7 bilhões para povos
+  e comunidades tradicionais durante pandemia
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal lança, nesta segunda-feira (13), no Palácio do Planalto, um pano de contingência com R$ 4,7 bilhões destinados a povos e comunidades tradicionais durante a pandemia do novo coronavírus (Covid-19).
 

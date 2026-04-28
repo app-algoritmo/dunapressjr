@@ -1,11 +1,12 @@
 ---
-title: "Oposição diz ter votos para derrubar veto ao marco temporal das terras indígenas"
+title: Oposição diz ter votos para derrubar veto ao marco temporal das terras indígenas
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A sessão do Congresso Nacional desta quinta-feira (23) foi adiada para a próxima semana. Na pauta, estão 34 vetos e 7 projetos que liberam créditos extras no Orçamento. A oposição reclamou do cancelamento, alegando que o governo teme a derrubada de alguns vetos. Entre eles, segundo o senador Marcos Rogério (PL-RO), estão os relativos ao marco temporal das terras indígenas (vetado na [Lei 14.701, de 2023](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-10-20;14701)). Ele ressaltou que o governo teme ser alvo de críticas por uma derrota antes da COP 28 — Conferência sobre Mudanças Climáticas das Nações Unidas.
 

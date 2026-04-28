@@ -1,11 +1,13 @@
 ---
-title: "Boletim Focus: Mercado financeiro eleva expectativa de crescimento do PIB em 2023 e inflação acima da meta"
+title: 'Boletim Focus: Mercado financeiro eleva expectativa de crescimento do PIB
+  em 2023 e inflação acima da meta'
 date: 2023-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções indicam aumento da Selic e valorização do dólar até 2024.
 

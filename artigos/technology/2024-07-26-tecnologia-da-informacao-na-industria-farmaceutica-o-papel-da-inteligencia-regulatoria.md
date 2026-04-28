@@ -1,11 +1,13 @@
 ---
-title: "Tecnologia da Informação na Indústria Farmacêutica: O Papel da Inteligência Regulatória"
+title: 'Tecnologia da Informação na Indústria Farmacêutica: O Papel da Inteligência
+  Regulatória'
 date: 2024-07-26
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Technology
+- Technology
 ---
+
 
 Atualmente observa-se que a tecnologia da informação (IT) vem proporcionando cada vez mais uma vantagem competitiva, pois a forma de criação de produtos e serviços pode ser influenciada ao ser introduzida na cadeia de valor da empresa – o chamado marketing competitivo.
 

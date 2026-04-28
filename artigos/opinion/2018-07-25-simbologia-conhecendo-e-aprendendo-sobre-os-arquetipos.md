@@ -1,11 +1,12 @@
 ---
-title: "Simbologia – Conhecendo e aprendendo sobre os arquétipos"
+title: Simbologia – Conhecendo e aprendendo sobre os arquétipos
 date: 2018-07-25
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Utilizar arquétipos podem ajudar sua vida e de sua família.
 

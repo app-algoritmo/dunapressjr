@@ -1,11 +1,12 @@
 ---
-title: "Soldados, espiões ... Essas mulheres judias que desafiaram os nazistas na Polônia"
+title: Soldados, espiões ... Essas mulheres judias que desafiaram os nazistas na Polônia
 date: 2021-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Em 2007, a autora Judy Batalion descobriu nas prateleiras da Biblioteca Britânica de Londres um livro intitulado *Freuen in di Ghettos* . Publicado em 1946 em Nova York, era uma coleção de histórias (em iídiche) contando as histórias de jovens judias que desafiaram os nazistas participando de vários atos de resistência.
 

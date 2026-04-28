@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A aclamação da independência em Sergipe"
+title: 'Série Fatos Da Independência: A aclamação da independência em Sergipe'
 date: 2024-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em agosto de 1822, o general Pedro Labatut - militar francês contratado por Dom Pedro para comandar o Exército Pacificador nas guerras de Independência - desembarcou em Maceió, em Alagoas, após ser rechaçado da Bahia. Seu plano era organizar o exército a partir de Sergipe para efetuar novas incursões no recôncavo baiano. O movimento das tropas foi interrompido às margens do Rio São Francisco, em Vila Nova, onde se deparou com forças portuguesas comandadas por Bento de Mello Pereira. No entanto, a resistência não estava mobilizada. Alguns soldados chegaram a desertar e passar para o lado de Labatut, o que deu livre passagem para as tropas leais a Dom Pedro e a consequente aclamação do novo imperador do Brasil em Sergipe já em outubro de 1822.
 

@@ -1,11 +1,12 @@
 ---
-title: "Departamento de Estado Americano divulga os acordos alcançados com Brasil"
+title: Departamento de Estado Americano divulga os acordos alcançados com Brasil
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ESTADOS UNIDOS E BRASIL: PARCEIROS PARA UM HEMISFÉRIO PROSPERO
 

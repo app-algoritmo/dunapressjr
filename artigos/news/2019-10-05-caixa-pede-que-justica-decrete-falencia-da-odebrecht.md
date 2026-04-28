@@ -1,11 +1,12 @@
 ---
-title: "Caixa pede que Justiça decrete falência da Odebrecht"
+title: Caixa pede que Justiça decrete falência da Odebrecht
 date: 2019-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Caixa Econômica Federal pediu a falência do conglomerado
 Odebrecht, de acordo com documentos judiciais vistos pela Reuters, no que pode

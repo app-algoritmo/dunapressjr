@@ -1,11 +1,12 @@
 ---
-title: "Girão questiona suposta interferência do governo Lula em empréstimo à Argentina"
+title: Girão questiona suposta interferência do governo Lula em empréstimo à Argentina
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (10), o senador Eduardo Girão (Novo-CE) classificou como “suspeitas” supostas ações do governo brasileiro em relação à liberação de um empréstimo de US$ 1 bilhão para a Argentina por meio do Banco de Desenvolvimento da América Latina (CAF). O senador informou que apresentou requerimento para ouvir a ministra do Planejamento e Orçamento, Simone Tebet, e enfatizou a importância de obter esclarecimentos sobre o assunto.
 

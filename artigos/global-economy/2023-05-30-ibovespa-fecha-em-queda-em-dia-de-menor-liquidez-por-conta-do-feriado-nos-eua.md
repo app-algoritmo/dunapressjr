@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda em dia de menor liquidez por conta do feriado nos EUA"
+title: Ibovespa fecha em queda em dia de menor liquidez por conta do feriado nos EUA
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar apresenta leve alta e acordo para elevar limite da dívida americana traz alívio aos investidores.
 

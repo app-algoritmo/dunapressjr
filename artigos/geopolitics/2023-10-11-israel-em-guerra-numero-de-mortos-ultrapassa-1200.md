@@ -1,11 +1,12 @@
 ---
-title: "Israel em guerra: número de mortos ultrapassa 1.200"
+title: 'Israel em guerra: número de mortos ultrapassa 1.200'
 date: 2023-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Israel entrou no seu quinto dia de guerra depois de vários grupos terroristas palestinianos terem atacado, num ataque surpresa e multifacetado liderado pelo Hamas, a partir da Faixa de Gaza. A quarta-feira veio com apoio ocidental, com advertências para o grupo terrorista libanês Hezbollah.
 

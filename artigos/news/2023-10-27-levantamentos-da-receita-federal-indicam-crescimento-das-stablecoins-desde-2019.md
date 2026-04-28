@@ -1,11 +1,13 @@
 ---
-title: "Levantamentos da Receita Federal indicam crescimento das Stablecoins desde 2019"
+title: Levantamentos da Receita Federal indicam crescimento das Stablecoins desde
+  2019
 date: 2023-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Criptomoedas estáveis ganham destaque no mercado, com o Tether liderando as negociações.
 

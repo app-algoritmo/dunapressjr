@@ -1,11 +1,12 @@
 ---
-title: "Israel abrirá suas portas aos turistas no próximo mês"
+title: Israel abrirá suas portas aos turistas no próximo mês
 date: 2021-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Todos os turistas vacinados terão permissão para entrar em Israel a partir do mês que vem, enquanto a maioria das restrições de viagens aéreas aos israelenses serão retiradas.
 

@@ -1,11 +1,12 @@
 ---
-title: "5 om dagen norueguês"
+title: 5 om dagen norueguês
 date: 2019-08-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 5 om dagen significa 5 por dia, 5 alimentos saudáveis por dia, isto é: frutas, legumes e verduras. É uma matemática bastante fácil:
 

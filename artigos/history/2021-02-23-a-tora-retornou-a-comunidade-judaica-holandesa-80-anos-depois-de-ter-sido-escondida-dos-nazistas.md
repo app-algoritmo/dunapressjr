@@ -1,11 +1,13 @@
 ---
-title: "A Torá retornou à comunidade judaica holandesa 80 anos depois de ter sido escondida dos nazistas"
+title: A Torá retornou à comunidade judaica holandesa 80 anos depois de ter sido escondida
+  dos nazistas
 date: 2021-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Um rolo da Torá que desapareceu de uma sinagoga holandesa após a invasão nazista da Holanda foi redescoberto 80 anos depois e devolvido à comunidade judaica.
 

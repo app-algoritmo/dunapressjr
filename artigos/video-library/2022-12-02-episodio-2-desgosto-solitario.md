@@ -1,11 +1,12 @@
 ---
-title: "Episodio 2 - Desgosto Solitário"
+title: Episodio 2 - Desgosto Solitário
 date: 2022-12-02
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

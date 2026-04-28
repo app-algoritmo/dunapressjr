@@ -1,11 +1,13 @@
 ---
-title: "Legislador do Partido Republicano diz que Biden 'advogou' em meio a investigação de suborno"
+title: Legislador do Partido Republicano diz que Biden 'advogou' em meio a investigação
+  de suborno
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um importante legislador republicano chamou a atenção no domingo quando foi às redes sociais para alegar que o presidente Joe Biden havia “advogado” enquanto os investigadores do Partido Republicano afirmam estar acumulando mais evidências de que ele pode ter aceitado suborno como vice-presidente.
 

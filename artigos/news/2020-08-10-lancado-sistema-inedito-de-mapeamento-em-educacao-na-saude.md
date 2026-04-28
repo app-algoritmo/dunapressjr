@@ -1,11 +1,12 @@
 ---
-title: "Lançado sistema inédito de mapeamento em educação na saúde"
+title: Lançado sistema inédito de mapeamento em educação na saúde
 date: 2020-08-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A ferramenta, que vai estar interligada a cinco banco de dados, permitirá melhoria da qualidade da formação de profissionais da área, além de identificar demandas para cursos da área.
 

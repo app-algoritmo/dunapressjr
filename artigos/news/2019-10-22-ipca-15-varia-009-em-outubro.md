@@ -1,11 +1,12 @@
 ---
-title: "IPCA-15 varia 0,09% em outubro"
+title: IPCA-15 varia 0,09% em outubro
 date: 2019-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15)
 variou 0,09% em outubro, mesmo percentual registrado em setembro. Este é o

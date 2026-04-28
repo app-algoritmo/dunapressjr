@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba discute expansão de investimentos em tecnologia 4G com representantes da Tim"
+title: Governador da Paraíba discute expansão de investimentos em tecnologia 4G com
+  representantes da Tim
 date: 2020-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As ações devem contemplar 68 municípios, dos quais 44 serão beneficiados até o final do ano.
 

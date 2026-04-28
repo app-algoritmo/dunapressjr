@@ -1,12 +1,13 @@
 ---
-title: "Willow: Na Terra da Magia"
+title: 'Willow: Na Terra da Magia'
 date: 2022-12-20
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

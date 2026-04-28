@@ -1,11 +1,12 @@
 ---
-title: "Capes auxilia no desenvolvimento do país"
+title: Capes auxilia no desenvolvimento do país
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em comemoração ao aniversário da CAPES, que completou 69 anos no último sábado, o presidente Benedito Aguiar faz um balanço das ações nos primeiros seis meses de 2020.
 

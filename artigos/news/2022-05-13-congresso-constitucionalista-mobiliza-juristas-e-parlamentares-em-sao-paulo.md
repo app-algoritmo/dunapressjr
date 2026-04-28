@@ -1,11 +1,12 @@
 ---
-title: "Congresso Constitucionalista mobiliza juristas e parlamentares em São Paulo"
+title: Congresso Constitucionalista mobiliza juristas e parlamentares em São Paulo
 date: 2022-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Discussões sobre a Nova Constituição, a Libertadora, tem como principais debatedores o prof. Ives Gandra Martins, o Dr. Modesto Carvalhosa e o deputado Luiz Philippe de Orleans e Bragança.
 

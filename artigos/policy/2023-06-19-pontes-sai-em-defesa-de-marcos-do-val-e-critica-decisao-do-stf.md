@@ -1,11 +1,12 @@
 ---
-title: "Pontes sai em defesa de Marcos do Val e critica decisão do STF"
+title: Pontes sai em defesa de Marcos do Val e critica decisão do STF
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Astronauta Marcos Pontes (PL-SP), em pronunciamento no Plenário nesta segunda-feira (19), criticou a operação da Polícia Federal, na semana passada, no gabinete do senador Marcos do Val (Podemos-ES). Pontes afirmou que a ação da PF coloca em risco a harmonia entre os Poderes e a democracia, pois o sistema político brasileiro prevê a separação de prerrogativas das esferas do governo. 
 

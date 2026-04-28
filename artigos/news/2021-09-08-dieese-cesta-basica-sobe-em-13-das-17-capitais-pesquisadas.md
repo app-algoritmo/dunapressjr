@@ -1,11 +1,12 @@
 ---
-title: "Dieese: cesta básica sobe em 13 das 17 capitais pesquisadas"
+title: 'Dieese: cesta básica sobe em 13 das 17 capitais pesquisadas'
 date: 2021-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cesta mais cara é a de Porto Alegre, que custa R$ 664,67.
 

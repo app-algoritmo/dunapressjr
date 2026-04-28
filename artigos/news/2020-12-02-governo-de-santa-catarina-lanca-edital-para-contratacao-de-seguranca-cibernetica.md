@@ -1,11 +1,12 @@
 ---
-title: "Governo de Santa Catarina lança edital para contratação de segurança cibernética"
+title: Governo de Santa Catarina lança edital para contratação de segurança cibernética
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para garantir confiabilidade e integridade dos dados, a Secretaria de Estado da Fazenda (SEF/SC) está lançando um edital para contratação de empresa especializada no fornecimento de solução de segurança integrada em ambientes críticos, incluindo serviços de implantação da solução, repasse de conhecimento, garantia e suporte. As propostas devem ser apresentadas até o dia 14 de dezembro, às 13h30.
 

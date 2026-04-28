@@ -1,11 +1,12 @@
 ---
-title: "Safra de café deve registrar aumento de 16,8% em 2022, diz Conab"
+title: Safra de café deve registrar aumento de 16,8% em 2022, diz Conab
 date: 2022-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2021, o volume total produzido foi de 47,7 milhões de sacas.
 

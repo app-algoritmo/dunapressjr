@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha com leve queda após dados positivos no Brasil"
+title: Dólar fecha com leve queda após dados positivos no Brasil
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa caiu 0,35% em dia de realização de lucros.
 

@@ -1,12 +1,13 @@
 ---
-title: "Educação domiciliar, direito natural, primordial e originário"
+title: Educação domiciliar, direito natural, primordial e originário
 date: 2019-05-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Books
-  - Education
+- Books
+- Education
 ---
+
 
 O Homeschooling é de fato a forma de Educação mais antiga que a humanidade conhece, pois é anterior às escolas físicas, sistemas de ensino, estatização da educação e mesmo engessamento dos conteúdos, livros e materiais para ensino.
 

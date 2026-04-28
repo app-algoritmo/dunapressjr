@@ -1,13 +1,15 @@
 ---
-title: "O Mundo em Colapso: Quando o Caos Político Gera uma Sociedade Estressada e Violenta"
+title: 'O Mundo em Colapso: Quando o Caos Político Gera uma Sociedade Estressada e
+  Violenta'
 date: 2023-09-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Policy
-  - World Affairs
+- Geopolitics
+- Policy
+- World Affairs
 ---
+
 
 Num passado não tão distante, o mundo era um lugar relativamente estável, onde as políticas governamentais eram construídas com base em princípios sólidos e na busca pelo bem-estar da sociedade. No entanto, os tempos mudaram drasticamente, e hoje nos encontramos em um mundo caótico, onde as pessoas estão profundamente insatisfeitas com as políticas caóticas que governam suas vidas. Este cenário desolador de descontentamento generalizado está transformando o nosso mundo em um lugar estressante e violento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice Geral de Preços - Disponibilidade Interna sobe 0,62% em junho"
+title: Índice Geral de Preços - Disponibilidade Interna sobe 0,62% em junho
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta da inflação ao produtor em 12 meses é de 11,12%.
 

@@ -1,11 +1,13 @@
 ---
-title: "SEFAZ deflagra a 4ª etapa da “Operação Concorrência Legal” nas rodovias do Estado"
+title: SEFAZ deflagra a 4ª etapa da “Operação Concorrência Legal” nas rodovias do
+  Estado
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Fazenda (Sefaz) deflagrou na tarde, desta terça-feira (15), a 4ª etapa da chamada “Operação Concorrência Legal”, com o objetivo de coibir a sonegação fiscal e promover a concorrência de forma mais leal entre as empresas do Estado neste final de ano.  Cerca de 130 auditores fiscais participam desta nova etapa da operação com uma série de blitz em postos fiscais e em pontos estratégicos de rodovias federais e estaduais nas cinco regiões fiscais da Paraíba. Será mantida também a parceria e apoio dos postos da Polícia Rodoviária Federal (PRF).
 

@@ -1,11 +1,12 @@
 ---
-title: "CAE vota proibição de o BNDES financiar projetos estrangeiros"
+title: CAE vota proibição de o BNDES financiar projetos estrangeiros
 date: 2019-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Está agendado para ser votado nesta terça-feira (12) pela
 Comissão de Assuntos Econômicos (CAE) o [PLS

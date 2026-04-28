@@ -1,11 +1,12 @@
 ---
-title: "Girão diz que Foro de São Paulo atenta contra a soberania brasileira"
+title: Girão diz que Foro de São Paulo atenta contra a soberania brasileira
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) registrou, em pronunciamento em Plenário nesta quinta-feira (15), que apresentou requerimentos para convocar os ministros da Casa Civil, Rui Costa, e das Relações Exteriores, Mauro Vieira, para prestar esclarecimentos sobre a realização da 26ª edição do Foro de São Paulo, em Brasília, nos dias 29 de junho a 2 de julho. O senador destacou que o evento receberá representantes de partidos "que defendem ditaduras", como o Partido Comunista de Cuba, Partido Socialista Unido da Venezuela e a Frente Sandinista de Libertação Nacional, do presidente da Nicarágua, Daniel Ortega.
 

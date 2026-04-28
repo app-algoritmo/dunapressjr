@@ -1,11 +1,12 @@
 ---
-title: "3.600 anos depois, a autópsia no Egito indica que um faraó foi executado cerimonialmente"
+title: 3.600 anos depois, a autópsia no Egito indica que um faraó foi executado cerimonialmente
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Um estudo de alta tecnologia ofereceu novas pistas sobre a morte de um faraó que governou o Egito há mais de três milênios, disse o ministério de antiguidades do Egito na quarta-feira.
 

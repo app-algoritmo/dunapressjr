@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal inicia na quarta-feira consulta ao primeiro lote de restituição do IRPF 2023"
+title: Receita Federal inicia na quarta-feira consulta ao primeiro lote de restituição
+  do IRPF 2023
 date: 2023-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Primeiro lote contempla mais de 4 milhões de contribuintes, totalizando R$ 7,5 bilhões em restituições, com prioridade para idosos, professores e utilização do PIX.
 

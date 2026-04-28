@@ -1,11 +1,13 @@
 ---
-title: "Luiz Philippe de Orleans e Bragança concede entrevista no programa contraponto com soluções chave para o gigante sul americano"
+title: Luiz Philippe de Orleans e Bragança concede entrevista no programa contraponto
+  com soluções chave para o gigante sul americano
 date: 2021-11-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -O programa Contraponto da empresa Brasil Paralelo entrevistou o deputado [Luiz Philippe de Orleans e Bragança](https://pt.wikipedia.org/wiki/Luiz_Philippe_de_Orléans_e_Bragança). Além de ser descendente da linhagem real, Luiz Philippe também é cientista político, escritor e mestre pela Stanford University. Após ter se tornado deputado federal de São Paulo no ano de 2018, Luiz Philippe de Orleans e Bragança busca combater a corrupção, defender a liberdade de expressão e preservar os valores universais da família, propriedade livre e os direitos naturais.
 

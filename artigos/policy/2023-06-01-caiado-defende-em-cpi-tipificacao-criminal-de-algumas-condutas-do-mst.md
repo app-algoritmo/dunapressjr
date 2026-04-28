@@ -1,11 +1,12 @@
 ---
-title: "Caiado defende em CPI tipificação criminal de algumas condutas do MST"
+title: Caiado defende em CPI tipificação criminal de algumas condutas do MST
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O governador de Goiás também sugeriu aos deputados investigar a origem dos recursos que financiam o movimento dos sem terra.
 

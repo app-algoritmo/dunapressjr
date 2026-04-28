@@ -1,11 +1,12 @@
 ---
-title: "Custo da cesta básica aumenta em 15 capitais em abril"
+title: Custo da cesta básica aumenta em 15 capitais em abril
 date: 2021-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Florianópolis lidera ranking no custo de kit básico de alimentação.
 

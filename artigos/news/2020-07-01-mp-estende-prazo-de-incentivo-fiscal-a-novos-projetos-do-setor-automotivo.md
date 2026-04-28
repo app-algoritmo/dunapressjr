@@ -1,11 +1,12 @@
 ---
-title: "MP estende prazo de incentivo fiscal a novos projetos do setor automotivo"
+title: MP estende prazo de incentivo fiscal a novos projetos do setor automotivo
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para terem direito ao crédito, as empresas precisam respeitar valores mínimos de investimentos em pesquisa, desenvolvimento e inovação tecnológica na região.
 

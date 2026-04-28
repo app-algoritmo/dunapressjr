@@ -1,11 +1,12 @@
 ---
-title: "Tesouro pagou em setembro R$ 685,47 milhões em dívidas de estados"
+title: Tesouro pagou em setembro R$ 685,47 milhões em dívidas de estados
 date: 2022-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Este ano, a União já pagou R$ 6,68 bilhões de dívidas.
 

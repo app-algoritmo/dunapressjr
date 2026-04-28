@@ -1,11 +1,12 @@
 ---
-title: "PF cumpre 6 mandados de prisão contra fraudes em contratações na saúde"
+title: PF cumpre 6 mandados de prisão contra fraudes em contratações na saúde
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mandados ocorrem em Goiânia, Brasília e no estado de São Paulo.
 

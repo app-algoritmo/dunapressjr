@@ -1,11 +1,12 @@
 ---
-title: "Quer se tornar um juiz na Noruega?, relate seu interesse até 1º de março de  2020"
+title: Quer se tornar um juiz na Noruega?, relate seu interesse até 1º de março de  2020
 date: 2020-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Juízes da ou os membros da equipe são residentes regulares que ajudam a tomar decisões em processos judiciais. Os co-juízes para o período 2021-2024 serão eleitos na primavera de 2020, e o prazo para a apresentação de seus interesses é 1º de março. 
 

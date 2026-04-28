@@ -1,11 +1,13 @@
 ---
-title: "Mortes, lesões cerebrais e distúrbios sociais   provocados pela venda e o uso de drogas"
+title: Mortes, lesões cerebrais e distúrbios sociais   provocados pela venda e o uso
+  de drogas
 date: 2021-05-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -É um desafio fornecer uma visão geral da enorme quantidade de problemas e lesões relacionados às drogas. Estudos apontam que há diferenças entre as consequências do uso, seja ele moderado ou intensivo. Que desafios existem nas condições de vida enfrentados em alguns grupos? Quem na população geralmente se beneficia com isso e quem na população geralmente perde com isso?. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Senso crítico também se aprende na infância"
+title: Senso crítico também se aprende na infância
 date: 2022-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Ler e escrever são apenas o primeiro passo para que uma pessoa se desenvolva como indivíduo crítico, cidadão e membro de uma sociedade, dizem especialistas. E, mesmo antes que uma criança conheça as letras e sílabas, é possível usar brincadeiras e livros com desenhos para começar a formar seu senso crítico.
 

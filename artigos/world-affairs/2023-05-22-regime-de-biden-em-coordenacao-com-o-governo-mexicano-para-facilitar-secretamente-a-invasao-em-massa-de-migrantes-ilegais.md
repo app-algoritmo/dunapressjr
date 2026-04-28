@@ -1,11 +1,13 @@
 ---
-title: "Regime de Biden em coordenação com o governo mexicano para facilitar secretamente a invasão em massa de migrantes ilegais"
+title: Regime de Biden em coordenação com o governo mexicano para facilitar secretamente
+  a invasão em massa de migrantes ilegais
 date: 2023-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Inicialmente, pensava-se que as políticas de fronteira aberta de Joe Biden eram ruins o suficiente para contribuir para um número recorde de migrantes entrando nos Estados Unidos ilegalmente durante seu mandato até agora, mas acontece que há muito mais do que isso.
 

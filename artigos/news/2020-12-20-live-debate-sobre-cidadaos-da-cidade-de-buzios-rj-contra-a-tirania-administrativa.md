@@ -1,11 +1,12 @@
 ---
-title: "Live debate sobre cidadãos da cidade de Búzios-RJ contra a tirania administrativa"
+title: Live debate sobre cidadãos da cidade de Búzios-RJ contra a tirania administrativa
 date: 2020-12-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Justiça do Rio de Janeiro determinou na quarta-feira (16), que Búzios, na Região dos Lagos do Rio, voltasse para a Bandeira Vermelha - Risco 3 de combate à pandemia da Covid-19. Com isso, os turistas hospedados na cidade deveriam deixar os hotéis, pousadas e imóveis de aluguel para temporada do município em até 72 horas, sem embargo a decisão foi suspensa pelo Tribunal de Justiça de fazer lockdown em Búzios. Após uma quinta-feira (17) com protestos no município, o desembargador Claudio de Mello Tavares retirou a liminar que determinava o fechamento de tudo na cidade.
 

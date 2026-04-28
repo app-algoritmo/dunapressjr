@@ -1,11 +1,12 @@
 ---
-title: "Milagre na cela 7:  Seja você o real milagre"
+title: 'Milagre na cela 7:  Seja você o real milagre'
 date: 2020-04-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Milagre, essa palavra possui tanto apelo aos desesperados, esquecidos e aos invisíveis que rondam nossa sociedade e, ao mesmo tempo, é tão esquecida e menosprezada pelos que disfrutam do poder, por aqueles que vivem como deuses sendo apenas meros humanos. A palavra remete ao transcendente e divino, é um vocábulo que usamos, geralmente, para expressar tudo que nos surge como mágico, maravilhoso, único e impossível. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Prati-Donaduzzi traz palestrante do Reino Unido para falar sobre epilepsia"
+title: Prati-Donaduzzi traz palestrante do Reino Unido para falar sobre epilepsia
 date: 2024-06-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Helen Cross é presidente da Liga Internacional de Epilepsia e abordou sobre o canabidiol no tratamento da doença.
 

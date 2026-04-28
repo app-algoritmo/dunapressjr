@@ -1,11 +1,12 @@
 ---
-title: "China rivaliza com EUA os lançamentos de naves para o espaço"
+title: China rivaliza com EUA os lançamentos de naves para o espaço
 date: 2020-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Ambos países planejam enviar veículos para Marte neste verão.
 

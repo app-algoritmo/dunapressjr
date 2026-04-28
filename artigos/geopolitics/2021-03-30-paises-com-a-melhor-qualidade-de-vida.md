@@ -1,11 +1,12 @@
 ---
-title: "Países com a melhor qualidade de vida"
+title: Países com a melhor qualidade de vida
 date: 2021-03-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 -Os países nórdicos foram os pioneiros em um modelo social e de governança que concilia crescimento e dinamismo com igualdade e paz social. Além de um modelo socioeconômico baseado em assistência médica universal gratuita, educação de qualidade e moradia acessível, eles também promovem o nacionalismo construtivo.
 

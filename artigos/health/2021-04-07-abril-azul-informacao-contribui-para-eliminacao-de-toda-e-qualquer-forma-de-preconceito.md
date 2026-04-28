@@ -1,11 +1,13 @@
 ---
-title: "Abril Azul: informação contribui para eliminação de toda e qualquer forma de preconceito"
+title: 'Abril Azul: informação contribui para eliminação de toda e qualquer forma
+  de preconceito'
 date: 2021-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## **Sete livros que falam sobre autismo e ajudam a praticar a inclusão**.
 

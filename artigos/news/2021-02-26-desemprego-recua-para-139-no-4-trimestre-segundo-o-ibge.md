@@ -1,11 +1,12 @@
 ---
-title: "Desemprego recua para 13,9% no 4º trimestre, segundo o IBGE"
+title: Desemprego recua para 13,9% no 4º trimestre, segundo o IBGE
 date: 2021-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa média de desocupação em 2020 é a maior, desde 2012.
 

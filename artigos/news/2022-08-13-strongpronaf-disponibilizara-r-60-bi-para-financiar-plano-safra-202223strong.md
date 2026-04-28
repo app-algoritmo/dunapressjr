@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pronaf disponibilizará R$ 60 bi para financiar Plano Safra 2022/23</strong>"
+title: <strong>Pronaf disponibilizará R$ 60 bi para financiar Plano Safra 2022/23</strong>
 date: 2022-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Parte desses recursos serão provenientes de bancos, diz Mapa.
 

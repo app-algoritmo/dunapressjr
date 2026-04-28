@@ -1,11 +1,12 @@
 ---
-title: "Vanderlan apoia criminalização de posse de drogas e mandato fixo para o Supremo"
+title: Vanderlan apoia criminalização de posse de drogas e mandato fixo para o Supremo
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Vanderlan Cardoso (PSD-GO) elogiou a proposta de emenda à Constituição (PEC) apresentada pelo presidente do Senado, Rodrigo Pacheco, que criminaliza o porte e a posse de substância ilícita em qualquer quantidade. Em pronunciamento na terça-feira (3), Vanderlan afirmou que a proposta representa um “alívio para a sociedade, que é, em sua maioria, conservadora”.
 

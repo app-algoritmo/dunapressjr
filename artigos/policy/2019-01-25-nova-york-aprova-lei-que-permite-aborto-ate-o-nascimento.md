@@ -1,11 +1,12 @@
 ---
-title: "Nova York aprova lei que permite aborto até o nascimento"
+title: Nova York aprova lei que permite aborto até o nascimento
 date: 2019-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Se toda mulher tivesse barriga de vidro, nenhuma aprovaria o aborto; pois poderia ver o milagre que carrega em seu ventre. 
 

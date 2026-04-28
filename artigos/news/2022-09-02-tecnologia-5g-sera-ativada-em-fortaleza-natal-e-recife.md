@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia 5G será ativada em Fortaleza, Natal e Recife"
+title: Tecnologia 5G será ativada em Fortaleza, Natal e Recife
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Início das operações foi autorizado a partir do dia 5 de setembro.
 

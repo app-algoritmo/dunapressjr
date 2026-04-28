@@ -1,11 +1,12 @@
 ---
-title: "Cotação do Bitcoin cai para abaixo de US$ 20 mil"
+title: Cotação do Bitcoin cai para abaixo de US$ 20 mil
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor é o menor desde dezembro de 2020.
 

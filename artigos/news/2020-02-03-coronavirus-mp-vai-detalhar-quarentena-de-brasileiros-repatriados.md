@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: MP vai detalhar quarentena de brasileiros repatriados"
+title: 'Coronavírus: MP vai detalhar quarentena de brasileiros repatriados'
 date: 2020-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Emergência em Saúde Pública agilizará trâmites*
 

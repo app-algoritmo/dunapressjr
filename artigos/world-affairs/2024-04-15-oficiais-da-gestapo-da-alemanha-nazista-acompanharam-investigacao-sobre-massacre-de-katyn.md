@@ -1,11 +1,13 @@
 ---
-title: "Oficiais da Gestapo da Alemanha nazista acompanharam investigação sobre massacre de Katyn"
+title: Oficiais da Gestapo da Alemanha nazista acompanharam investigação sobre massacre
+  de Katyn
 date: 2024-04-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Documentos desclassificados recentemente pelo Serviço Federal de Segurança (FSB) revelaram que oficiais da polícia secreta de estado da Alemanha nazista (Gestapo) estiveram envolvidos na investigação do massacre de Katyn, onde soldados e oficiais poloneses foram assassinados em massa. Segundo os depoimentos de um técnico de laboratório, o alferes sênior do exército alemão Ludwig Schneider, a presença da Gestapo foi significativa durante o processo.
 

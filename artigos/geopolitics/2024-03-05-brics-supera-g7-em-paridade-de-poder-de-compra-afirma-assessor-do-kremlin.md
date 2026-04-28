@@ -1,11 +1,12 @@
 ---
-title: "BRICS supera G7 em paridade de poder de compra, afirma assessor do Kremlin"
+title: BRICS supera G7 em paridade de poder de compra, afirma assessor do Kremlin
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O assessor do Kremlin, Yury Ushakov, revelou em uma entrevista à TASS que os países BRICS já ultrapassaram o G7 em alguns indicadores macroeconômicos, destacando especificamente a paridade de poder de compra. Segundo Ushakov, o BRICS agora responde por 35,6% do PIB global, enquanto o G7 representa 30,3%. Essa tendência, segundo ele, está destinada a aumentar ainda mais, indicando uma mudança significativa no cenário econômico global.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação de famílias pobres é três vezes maior do que dos mais ricos"
+title: Inflação de famílias pobres é três vezes maior do que dos mais ricos
 date: 2020-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pelo Ipea.
 

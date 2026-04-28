@@ -1,11 +1,12 @@
 ---
-title: "Agência Brasil explica o que é arcabouço fiscal"
+title: Agência Brasil explica o que é arcabouço fiscal
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novas regras para as contas e dívida públicas foram anunciadas hoje.
 

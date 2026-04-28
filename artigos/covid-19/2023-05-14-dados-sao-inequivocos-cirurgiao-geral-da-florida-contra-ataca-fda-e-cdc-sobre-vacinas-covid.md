@@ -1,11 +1,13 @@
 ---
-title: "'Dados são inequívocos': cirurgião geral da Flórida contra-ataca FDA e CDC sobre vacinas COVID"
+title: '''Dados são inequívocos'': cirurgião geral da Flórida contra-ataca FDA e CDC
+  sobre vacinas COVID'
 date: 2023-05-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Alegando que a “falta de transparência só prejudica a fé dos americanos na ciência”, o Cirurgião Geral da Flórida Joseph Ladapo, MD, Ph.D., pediu esta semana mais uma vez que as principais autoridades de saúde pública do país expliquem “publicamente” 12 questões-chave relacionadas para o lançamento da vacina COVID-19.
 

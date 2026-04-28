@@ -1,11 +1,12 @@
 ---
-title: "Hell recheia pizza com insetos e sofre boicote"
+title: Hell recheia pizza com insetos e sofre boicote
 date: 2023-04-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 Movendo-se sobre o abacaxi, há uma nova cobertura com insetos na pizzaria mais odiada da cidade.
 

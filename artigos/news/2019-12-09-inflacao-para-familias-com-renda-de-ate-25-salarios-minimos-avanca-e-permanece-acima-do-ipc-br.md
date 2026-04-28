@@ -1,11 +1,13 @@
 ---
-title: "Inflação para famílias com renda de até 2,5 salários mínimos avança e permanece acima do IPC-BR"
+title: Inflação para famílias com renda de até 2,5 salários mínimos avança e permanece
+  acima do IPC-BR
 date: 2019-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Com este resultado, o indicador acumula alta de 3,64% no ano e 3,98% nos últimos 12 meses *
 

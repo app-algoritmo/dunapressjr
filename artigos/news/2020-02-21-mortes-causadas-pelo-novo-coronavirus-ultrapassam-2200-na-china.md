@@ -1,11 +1,12 @@
 ---
-title: "Mortes causadas pelo novo coronavírus ultrapassam 2.200 na China"
+title: Mortes causadas pelo novo coronavírus ultrapassam 2.200 na China
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Mais 115 mortes foram confirmadas nessa quinta-feira
 

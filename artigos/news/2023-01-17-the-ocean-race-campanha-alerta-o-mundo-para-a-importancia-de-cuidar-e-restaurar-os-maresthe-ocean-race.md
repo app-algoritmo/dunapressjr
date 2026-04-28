@@ -1,11 +1,13 @@
 ---
-title: "The Ocean Race: Campanha alerta o mundo para a importância de cuidar e restaurar os maresThe Ocean Race:"
+title: 'The Ocean Race: Campanha alerta o mundo para a importância de cuidar e restaurar
+  os maresThe Ocean Race:'
 date: 2023-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 One Blue Voice ou simplesmente Uma Voz Azul. Esse é o tema de uma importante campanha realizada pela organização da The Ocean Race, buscando a preservação dos oceanos e a proteção da vida no planeta. O lançamento em Alicante, na Espanha, ocorreu durante evento em que a comitiva catarinense participou junto a atletas, equipes de apoio e imprensa. O objetivo é unir esforços para elaborar uma Declaração Universal dos Direitos dos Oceanos, a ser apresentada aos membros da Assembleia Geral da Organização das Nações Unidas (ONU), em setembro de 2023.
 

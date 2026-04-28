@@ -1,12 +1,14 @@
 ---
-title: "Novo estudo sugere que o acúmulo de dióxido de carbono pelo uso de máscaras aumenta o risco de natimortos, disfunção testicular e deterioração cognitiva"
+title: Novo estudo sugere que o acúmulo de dióxido de carbono pelo uso de máscaras
+  aumenta o risco de natimortos, disfunção testicular e deterioração cognitiva
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 **A intensa propaganda para coagi-lo a usar uma máscara facial não é baseada na ciência. ** É um puro jogo de poder político projetado para forçar você e seus filhos à submissão.
 

@@ -1,11 +1,13 @@
 ---
-title: "Autópsia de dois adolescentes que morreram logo após a segunda injeção da Pfizer revela 'danos no músculo cardíaco'"
+title: Autópsia de dois adolescentes que morreram logo após a segunda injeção da Pfizer
+  revela 'danos no músculo cardíaco'
 date: 2023-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Uma análise das autópsias de dois adolescentes que morreram no ano passado logo após a segunda vacinação contra Covid da Pfizer descobriu que a miocardite difere da miocardite típica não induzida por vacinação.
 

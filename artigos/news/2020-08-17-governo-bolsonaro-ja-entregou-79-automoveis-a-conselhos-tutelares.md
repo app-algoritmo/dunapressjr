@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro já entregou 79 automóveis a conselhos tutelares"
+title: Governo Bolsonaro já entregou 79 automóveis a conselhos tutelares
 date: 2020-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta semana, 17 municípios da Bahia receberam, do Governo Federal, automóveis zero quilômetro. Os veículos são destinados a conselhos tutelares, para fortalecer ações de promoção e defesa dos direitos das crianças e adolescentes.
 

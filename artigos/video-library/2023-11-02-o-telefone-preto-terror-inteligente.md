@@ -1,11 +1,12 @@
 ---
-title: "O Telefone Preto – Terror Inteligente"
+title: O Telefone Preto – Terror Inteligente
 date: 2023-11-02
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

@@ -1,11 +1,13 @@
 ---
-title: "Conferência dos Exércitos Americanos prepara militares para emprego de sistema alternativo de comunicação"
+title: Conferência dos Exércitos Americanos prepara militares para emprego de sistema
+  alternativo de comunicação
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – A Conferência dos Exércitos Americanos (CEA)
 realizou o Exercício de Comunicações “WEBEX e HF”, do XXXIV Ciclo, empregando o

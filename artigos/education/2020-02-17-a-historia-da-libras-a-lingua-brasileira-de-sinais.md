@@ -1,11 +1,12 @@
 ---
-title: "A história da LIBRAS - a Língua Brasileira de Sinais"
+title: A história da LIBRAS - a Língua Brasileira de Sinais
 date: 2020-02-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 *Embora a maioria dos brasileiros não saiba, o Brasil foi pioneiro, em relação a estudos e projetos, D. Pedro II, que sempre demostrou preocupação,  foi um grande incentivador, quando o assunto era melhorar a qualidade de vida dos deficientes auditivos. *
 

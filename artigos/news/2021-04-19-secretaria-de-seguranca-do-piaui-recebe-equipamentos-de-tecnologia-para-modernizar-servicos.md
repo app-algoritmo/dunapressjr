@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Segurança do Piauí recebe equipamentos de tecnologia para modernizar serviços"
+title: Secretaria de Segurança do Piauí recebe equipamentos de tecnologia para modernizar
+  serviços
 date: 2021-04-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A ideia é acelerar audiências que foram afetadas pela pandemia do novo coronavírus.
 

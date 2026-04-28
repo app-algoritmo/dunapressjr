@@ -1,11 +1,12 @@
 ---
-title: "Nova lei institui Semana Nacional de Conscientização sobre Depressão"
+title: Nova lei institui Semana Nacional de Conscientização sobre Depressão
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Semana Nacional de Conscientização sobre a Depressão, a ser celebrada na semana que compreender o dia 10 de outubro, o Dia Mundial da Saúde Mental. A nova norma foi publicada no Diário Oficial da União nesta terça-feira (4).
 

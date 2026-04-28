@@ -1,11 +1,12 @@
 ---
-title: "Girão critica julgamento de réus do 8 de janeiro em sessão virtual no STF"
+title: Girão critica julgamento de réus do 8 de janeiro em sessão virtual no STF
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento no Plenário na quarta-feira (20), a decisão do Supremo Tribunal Federal (STF) de realizar o julgamento dos próximos réus das invasões às sedes dos três Poderes em sessão virtual. O parlamentar classificou a medida como “chocante” e disse se tratar de uma “brutal inconsistência jurídica”.
 

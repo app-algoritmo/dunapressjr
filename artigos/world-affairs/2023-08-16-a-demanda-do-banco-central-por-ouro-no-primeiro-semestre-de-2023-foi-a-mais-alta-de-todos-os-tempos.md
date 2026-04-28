@@ -1,11 +1,13 @@
 ---
-title: "A demanda do banco central por ouro no primeiro semestre de 2023 foi a mais alta de todos os tempos"
+title: A demanda do banco central por ouro no primeiro semestre de 2023 foi a mais
+  alta de todos os tempos
 date: 2023-08-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os bancos centrais adicionaram uma quantidade recorde de ouro às suas reservas no primeiro semestre do ano, apesar das fortes vendas da Turquia, que desaceleraram as compras líquidas do banco central no segundo trimestre.
 

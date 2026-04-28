@@ -1,11 +1,12 @@
 ---
-title: "ANS Limita em 9,63% o Reajuste para Planos de Saúde Individuais e Familiares"
+title: ANS Limita em 9,63% o Reajuste para Planos de Saúde Individuais e Familiares
 date: 2023-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida afeta contratos de quase 8 milhões de beneficiários, representando 16% dos consumidores de planos de assistência médica no Brasil.
 

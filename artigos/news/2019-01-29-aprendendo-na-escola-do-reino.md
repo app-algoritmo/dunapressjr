@@ -1,11 +1,12 @@
 ---
-title: "Aprendendo na Escola do Reino"
+title: Aprendendo na Escola do Reino
 date: 2019-01-29
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 [gallery ids="11475,11476,11477,11478,11479,11480,11481" type="rectangular" orderby="rand"]
 

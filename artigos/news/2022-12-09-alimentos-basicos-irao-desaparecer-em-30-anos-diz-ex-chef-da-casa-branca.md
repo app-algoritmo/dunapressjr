@@ -1,11 +1,12 @@
 ---
-title: "Alimentos básicos irão desaparecer em 30 anos, diz ex-chef da Casa Branca"
+title: Alimentos básicos irão desaparecer em 30 anos, diz ex-chef da Casa Branca
 date: 2022-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os alimentos básicos vão desaparecer, alerta o ex-chef da Casa Branca e consultor de política nutricional, Sam Kass.
 

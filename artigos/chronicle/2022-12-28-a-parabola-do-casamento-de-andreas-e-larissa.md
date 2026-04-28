@@ -1,11 +1,12 @@
 ---
-title: "A parábola do casamento de Andreas e Larissa (Ο γάμος του Ανδρέας της Λάρισα)"
+title: A parábola do casamento de Andreas e Larissa (Ο γάμος του Ανδρέας της Λάρισα)
 date: 2022-12-28
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Queremos, na prática, aquilo que dizemos querer na teoria? Uma reflexão seríssima para você e a sociedade na qual você vive. Analise essa história e verifique se a teoria condiz com a prática, em nossos próprios movimentos, grupos e ambientes.**
 

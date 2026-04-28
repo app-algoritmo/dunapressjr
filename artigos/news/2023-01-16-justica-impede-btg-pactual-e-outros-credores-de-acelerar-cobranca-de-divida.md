@@ -1,11 +1,12 @@
 ---
-title: "Justiça impede BTG Pactual e outros credores de acelerar cobrança de dívida"
+title: Justiça impede BTG Pactual e outros credores de acelerar cobrança de dívida
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Justiça do Rio de Janeiro, a pedido da Americanas, decidiu impedir que os credores da companhia possam antecipar a cobrança de dívidas da empresa.
 

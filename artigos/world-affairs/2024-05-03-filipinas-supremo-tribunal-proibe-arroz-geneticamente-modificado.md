@@ -1,11 +1,12 @@
 ---
-title: "Filipinas: Supremo Tribunal proíbe arroz geneticamente modificado"
+title: 'Filipinas: Supremo Tribunal proíbe arroz geneticamente modificado'
 date: 2024-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 19 de abril de 2024, a Suprema Corte das Filipinas emitiu uma ordem de cessar e desistir contra a propagação comercial de arroz dourado geneticamente modificado e berinjela geneticamente modificada no país. Esta decisão judicial não só interrompeu a disseminação desses organismos geneticamente modificados (OGM), mas também questionou a agenda de desenvolvimento que os promove.
 

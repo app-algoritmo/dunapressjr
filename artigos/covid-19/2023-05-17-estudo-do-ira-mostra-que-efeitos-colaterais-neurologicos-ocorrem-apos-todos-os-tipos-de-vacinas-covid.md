@@ -1,11 +1,13 @@
 ---
-title: "Estudo do Irã mostra que efeitos colaterais neurológicos ocorrem após todos os tipos de vacinas Covid"
+title: Estudo do Irã mostra que efeitos colaterais neurológicos ocorrem após todos
+  os tipos de vacinas Covid
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um estudo dos efeitos adversos da injeção de Covid relatados em bancos de dados internacionais descobriu que efeitos adversos neurológicos foram relatados após todos os tipos de injeções de Covid, mais efeitos adversos foram relatados após a segunda dose do que após a primeira e que as mulheres após a vacinação foram mais comumente afetadas por complicações neurológicas.
 

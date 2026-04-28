@@ -1,11 +1,12 @@
 ---
-title: "Dia 4 de maio é o prazo final para alterações no cadastro eleitoral"
+title: Dia 4 de maio é o prazo final para alterações no cadastro eleitoral
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As eleitoras e os eleitores brasileiros têm até o dia 4 de maio para emitir, transferir e regularizar o título de eleitor. Esse também é o prazo final para que pessoas travestis ou transexuais solicitem o uso no nome social no documento. Todas as operações podem ser feitas on-line pelo sistema Título Net, disponível na Portal do Tribunal Superior Eleitoral (TSE).
 

@@ -1,11 +1,12 @@
 ---
-title: "Hoje Ministra Damares debate saúde mental com psicólogo em live"
+title: Hoje Ministra Damares debate saúde mental com psicólogo em live
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta-feira (17), a partir das 19h, a ministra Damares Alves fará uma transmissão ao vivo com o psicólogo especialista em uso imoderado de tecnologias, Cristiano Nabuco. O tema do debate será “Saúde mental em tempos de Covid: desafios para a família, amigos e sociedade”.
 

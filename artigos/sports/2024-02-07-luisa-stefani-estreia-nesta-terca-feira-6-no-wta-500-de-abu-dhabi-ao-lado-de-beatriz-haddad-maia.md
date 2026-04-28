@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani estreia nesta terça-feira (6) no WTA 500 de Abu Dhabi ao lado de Beatriz Haddad Maia"
+title: Luisa Stefani estreia nesta terça-feira (6) no WTA 500 de Abu Dhabi ao lado
+  de Beatriz Haddad Maia
 date: 2024-02-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Brasileiras enfrentam dupla da cazaque Anna Danilina e da ucraniana Nadiia Kichenok, a partir das 4h (horário de Brasília).
 

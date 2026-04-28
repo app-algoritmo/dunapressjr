@@ -1,11 +1,12 @@
 ---
-title: "Campanha contra gripe supera sua meta de vacinação do público-alvo"
+title: Campanha contra gripe supera sua meta de vacinação do público-alvo
 date: 2020-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Idosos foram o grupo que teve melhor desempenho, com cobertura de 119,72%.
 

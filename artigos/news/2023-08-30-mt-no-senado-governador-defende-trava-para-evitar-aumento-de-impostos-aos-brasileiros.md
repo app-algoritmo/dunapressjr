@@ -1,11 +1,13 @@
 ---
-title: "MT: No Senado, governador defende 'trava' para evitar aumento de impostos aos brasileiros"
+title: 'MT: No Senado, governador defende ''trava'' para evitar aumento de impostos
+  aos brasileiros'
 date: 2023-08-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Mauro Mendes pede que texto seja aperfeiçoado e combata a desindustrialização.
 

@@ -1,11 +1,12 @@
 ---
-title: "Militares de Artilharia realizam Estágio de Operações na Selva"
+title: Militares de Artilharia realizam Estágio de Operações na Selva
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Manaus (AM)** – de 8 a 13 de março, militares do 12º Grupo
 de Artilharia Antiaérea de Selva,

@@ -1,11 +1,12 @@
 ---
-title: "Cigarros eletrônicos também são vilões da saúde bucal"
+title: Cigarros eletrônicos também são vilões da saúde bucal
 date: 2023-10-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mesmo proibidos, uso de vapes segue em constante crescimento e traz danos a médio e longo prazos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 3,02%"
+title: Mercado financeiro eleva projeção da inflação para 3,02%
 date: 2020-11-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A expectativa é que a Selic encerre 2020 em 2% ao ano.
 

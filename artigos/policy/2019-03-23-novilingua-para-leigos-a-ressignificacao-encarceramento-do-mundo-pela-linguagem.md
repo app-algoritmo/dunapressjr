@@ -1,11 +1,12 @@
 ---
-title: "Novilíngua para leigos: A ressignificação (encarceramento) do mundo pela linguagem"
+title: 'Novilíngua para leigos: A ressignificação (encarceramento) do mundo pela linguagem'
 date: 2019-03-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Policy
+- Policy
 ---
+
 
 Quem
 são os inteligentinhos? São descendentes daqueles que Otto Maria Carpeaux

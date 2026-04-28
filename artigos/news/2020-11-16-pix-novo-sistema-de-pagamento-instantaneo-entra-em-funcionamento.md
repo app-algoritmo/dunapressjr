@@ -1,11 +1,12 @@
 ---
-title: "Pix: novo sistema de pagamento instantâneo entra em funcionamento"
+title: 'Pix: novo sistema de pagamento instantâneo entra em funcionamento'
 date: 2020-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Clientes de 734 instituições podem fazer pagamentos e transferências.
 

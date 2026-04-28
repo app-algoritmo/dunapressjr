@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores buscam vacina contra a febre maculosa"
+title: Pesquisadores buscam vacina contra a febre maculosa
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo é baseado em proteína do carrapato-estrela.
 

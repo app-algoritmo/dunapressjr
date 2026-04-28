@@ -1,11 +1,12 @@
 ---
-title: "Crescimento econômico é disseminado no país, com exceção do Sudeste"
+title: Crescimento econômico é disseminado no país, com exceção do Sudeste
 date: 2022-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado negativo de São Paulo freou crescimento, diz BC.
 

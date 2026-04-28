@@ -1,11 +1,12 @@
 ---
-title: "Câmara de Itajaí recebe certificação do Selo Social nesta sexta-feira"
+title: Câmara de Itajaí recebe certificação do Selo Social nesta sexta-feira
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí recebe nesta sexta-feira (27) a certificação do programa Selo Social. Promovido pela Prefeitura de Itajaí, o evento reconhece instituições públicas e privadas do município que desenvolvem ações que contribuem com os Objetivos do Desenvolvimento Sustentável (ODS). O Legislativo participou pela primeira vez em 2020 e receberá a certificação por três projetos inscritos abordarem seis dos 17 ODS.
  

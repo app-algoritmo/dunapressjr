@@ -1,11 +1,12 @@
 ---
-title: "Petróleo: reservas provadas crescem 11% em 2021 no Brasil"
+title: 'Petróleo: reservas provadas crescem 11% em 2021 no Brasil'
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### São  13,24 bilhões de barris de petróleo de reservas provadas.
 

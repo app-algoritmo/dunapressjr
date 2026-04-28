@@ -1,11 +1,12 @@
 ---
-title: "Novo site do MEC está no ar – Acesso em gov.br/mec"
+title: Novo site do MEC está no ar – Acesso em gov.br/mec
 date: 2020-05-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Portal do Ministério da Educação (MEC) está de cara nova. Para unificar conteúdos, centralizar serviços e simplificar a vida do cidadão, o portal passa a integrar a plataforma única do governo federal, gov.br.
 

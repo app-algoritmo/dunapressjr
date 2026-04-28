@@ -1,12 +1,13 @@
 ---
-title: "Seu Jorge é impedido de colocar nome no seu filho, entenda"
+title: Seu Jorge é impedido de colocar nome no seu filho, entenda
 date: 2023-01-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## A terapeuta Karina Barbieri, namorada de Seu Jorge deu à luz no último final de semana, em São Paulo, mas o casal enfrenta dificuldades para registrar o nome do filho. 
 

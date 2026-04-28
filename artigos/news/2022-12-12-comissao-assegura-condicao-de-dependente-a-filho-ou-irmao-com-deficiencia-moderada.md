@@ -1,11 +1,12 @@
 ---
-title: "Comissão assegura condição de dependente a filho ou irmão com deficiência moderada"
+title: Comissão assegura condição de dependente a filho ou irmão com deficiência moderada
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou proposta que inclui o filho ou o irmão com deficiência moderada como dependente do segurado do Regime Geral de Previdência Social (RGPS) mesmo após os 21 anos de idade.
 

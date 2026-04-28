@@ -1,11 +1,13 @@
 ---
-title: "Centro Tecnológico do Corpo de Fuzileiros Navais utiliza impressoras 3D na produção de máscaras para profissionais da saúde"
+title: Centro Tecnológico do Corpo de Fuzileiros Navais utiliza impressoras 3D na
+  produção de máscaras para profissionais da saúde
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O uso da tecnologia na prevenção e no combate ao coronavírus vem sendo uma das prioridades da Marinha do Brasil. Pensando nisso, o Centro Tecnológico do Corpo de Fuzileiros Navais (CTecCFN) vem atuando na fabricação de máscaras *face shield*, que garantem a cobertura completa do rosto, a partir de impressoras 3D. Estão sendo fabricadas cerca de 30 máscaras por dia, que serão doadas aos profissionais da Saúde engajados no combate à pandemia.
 

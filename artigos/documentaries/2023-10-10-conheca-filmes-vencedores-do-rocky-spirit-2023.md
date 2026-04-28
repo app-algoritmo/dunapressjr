@@ -1,13 +1,14 @@
 ---
-title: "Conheça filmes vencedores do Rocky Spirit 2023"
+title: Conheça filmes vencedores do Rocky Spirit 2023
 date: 2023-10-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Documentaries
-  - Features
-  - Sports
+- Documentaries
+- Features
+- Sports
 ---
+
 
 ## O brasileiro "10/03, a história de David" e o norte-americano "Resistance" foram os eleitos na escolha do júri do maior festival nacional de documentários sobre vida ao ar livre e esportes de aventura.
 

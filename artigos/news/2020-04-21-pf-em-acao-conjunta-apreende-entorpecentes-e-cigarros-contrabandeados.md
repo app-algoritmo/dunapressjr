@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende entorpecentes e cigarros contrabandeados"
+title: PF, em ação conjunta, apreende entorpecentes e cigarros contrabandeados
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Naviraí/MS** - A Polícia Federal, o 12º Batalhão da Polícia Militar de Naviraí e do Departamento de Operações de Fronteira (DOF/MS), em atuação conjunta no escopo da Operação HÓRUS/MS, apreenderam aproximadamente 3,5 toneladas de maconha, realizando a prisão de um indivíduo e apreensão de um menor.
 

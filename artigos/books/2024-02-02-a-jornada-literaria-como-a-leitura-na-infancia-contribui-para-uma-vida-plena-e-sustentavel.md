@@ -1,13 +1,15 @@
 ---
-title: "A Jornada Literária: Como a Leitura na Infância Contribui para uma Vida Plena e Sustentável"
+title: 'A Jornada Literária: Como a Leitura na Infância Contribui para uma Vida Plena
+  e Sustentável'
 date: 2024-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Environment
-  - Literature
+- Books
+- Environment
+- Literature
 ---
+
 
 A leitura na infância não apenas molda mentes brilhantes, mas também desempenha um papel crucial na formação de cidadãos conscientes e comprometidos com a **[sustentabilidade e a proteção do meio ambiente](https://dunapress.org/2020/02/13/o-sistema-de-saneamento-noruegues-um-modelo-mundial-de-excelencia/)**. Ao cultivar o hábito da leitura desde cedo, as crianças são expostas a narrativas que não apenas enriquecem suas vidas, mas também as sensibilizam para a importância da preservação ambiental.
 

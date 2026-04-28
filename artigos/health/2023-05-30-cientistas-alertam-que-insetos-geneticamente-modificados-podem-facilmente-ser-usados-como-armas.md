@@ -1,11 +1,13 @@
 ---
-title: "Cientistas alertam que insetos geneticamente modificados podem facilmente ser usados ​​como armas"
+title: Cientistas alertam que insetos geneticamente modificados podem facilmente ser
+  usados ​​como armas
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 *"GE Insects" significa "Insetos geneticamente modificados" ou em alemão "insetos geneticamente modificados".*
 

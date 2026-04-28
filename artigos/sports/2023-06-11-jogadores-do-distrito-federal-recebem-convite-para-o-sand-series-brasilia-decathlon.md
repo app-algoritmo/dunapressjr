@@ -1,11 +1,12 @@
 ---
-title: "Jogadores do Distrito Federal recebem convite para o Sand Series Brasília Decathlon"
+title: Jogadores do Distrito Federal recebem convite para o Sand Series Brasília Decathlon
 date: 2023-06-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O ITF Sand Series Brasília Classic Decathlon'23, o maior evento oficial de Beach Tennis no mundo, definiu nesta sexta-feira (9) os 20 primeiros wild cards para a chave principal e o qualifying - no masculino e no feminino -, anunciados pelos organizadores. Dos 20 jogadores convidados para o torneio, 18 são do Distrito Federal. A competição será realizada a partir do dia 14 e até o dia 18, na PlayTennis, centro esportivo localizado na Arena BRB BSB, em um espaço especialmente montado para a disputa, com mais de 10 mil m².
 

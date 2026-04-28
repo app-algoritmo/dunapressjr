@@ -1,11 +1,13 @@
 ---
-title: "Técnicas modernas em dinâmica de grupo podem auxiliar empresa na escolha do bom candidato"
+title: Técnicas modernas em dinâmica de grupo podem auxiliar empresa na escolha do
+  bom candidato
 date: 2022-08-10
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 Empresas utilizam as dinâmicas de grupo como ferramentas para treinamentos e processos seletivos. O intuito da atividade é identificar habilidades e características que integram o perfil comportamental dos participantes. Para isso, existem diversos tipos de propostas que se adequam aos objetivos específicos dos recrutadores e auxiliam na escolha do futuro colaborador que mais se encaixa na vaga. 
 

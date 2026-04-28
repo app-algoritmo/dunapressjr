@@ -1,11 +1,13 @@
 ---
-title: "Diferente dos índices de rotatividade na área de TI, que alcançam 15%, profissional segue há 5 anos na mesma companhia"
+title: Diferente dos índices de rotatividade na área de TI, que alcançam 15%, profissional
+  segue há 5 anos na mesma companhia
 date: 2022-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Disputa por salários altos nas empresas tecnológicas faz com que a rotatividade dos profissionais seja grande. Porém, benefícios e salário alto não contam para Diego Ramon na decisão de se manter na companhia de tecnologia onde trabalha. Carreira e clima organizacional são os principais motivos que fazem o desenvolvedor estar há 5 anos na mesma empresa. Ao contrário de outros profissionais de TI que permanecem, em média, 2,6 anos numa corporação - a rotatividade de funcionários no setor de tecnologia alcança 15%, o maior índice no mercado, segundo relatório do LinkedIn.
 

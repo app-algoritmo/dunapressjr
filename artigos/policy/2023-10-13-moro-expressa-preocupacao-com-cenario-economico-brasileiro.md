@@ -1,11 +1,12 @@
 ---
-title: "Moro expressa preocupação com cenário econômico brasileiro"
+title: Moro expressa preocupação com cenário econômico brasileiro
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sérgio Moro (União-PR) manifestou preocupação com o atual cenário econômico do Brasil. O pronunciamento foi feito no Plenário, nesta terça-feira (10). Moro também destacou os riscos associados à situação internacional gerados pela desaceleração da economia chinesa e pelas guerras na Ucrânia e no Oriente Médio.
 

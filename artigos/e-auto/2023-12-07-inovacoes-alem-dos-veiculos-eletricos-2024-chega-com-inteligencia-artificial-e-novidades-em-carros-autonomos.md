@@ -1,11 +1,13 @@
 ---
-title: "Inovações além dos veículos elétricos: 2024 chega com inteligência artificial e novidades em carros autônomos"
+title: 'Inovações além dos veículos elétricos: 2024 chega com inteligência artificial
+  e novidades em carros autônomos'
 date: 2023-12-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Seguindo as principais tendências e transformações ao redor do mundo, mercado automotivo terá novidades no próximo ano.
 

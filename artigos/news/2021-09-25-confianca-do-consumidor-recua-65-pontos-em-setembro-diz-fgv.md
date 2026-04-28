@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor recua 6,5 pontos em setembro, diz FGV"
+title: Confiança do consumidor recua 6,5 pontos em setembro, diz FGV
 date: 2021-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice registrou o menor patamar desde abril deste ano (72,1 pontos).
 

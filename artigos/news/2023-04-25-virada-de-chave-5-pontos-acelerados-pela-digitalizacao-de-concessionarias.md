@@ -1,11 +1,12 @@
 ---
-title: "Virada de chave: 5 pontos acelerados pela digitalização de concessionárias"
+title: 'Virada de chave: 5 pontos acelerados pela digitalização de concessionárias'
 date: 2023-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A indústria automotiva está diante de um grande desafio: desenvolver experiências digitais e garantir maior conectividade em seus produtos. De acordo com o relatório *Trends in Automotive*, produzido pela empresa de *softwares* Salesforce, nos próximos anos o setor deve se dedicar a buscar soluções que tragam eficiência e autonomia aos processos. Para seguir pelo caminho da inovação, o olhar de concessionárias de automóveis precisa estar voltado para ferramentas que aumentam a produtividade, contribuam na tomada de decisões e coloquem a experiência do cliente no centro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Seymour Hersh: Sobrinho Zevzec Zelenski chantageia vovô Biden!"
+title: 'Seymour Hersh: Sobrinho Zevzec Zelenski chantageia vovô Biden!'
 date: 2023-08-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O conhecido jornalista investigativo americano divulgou uma nova divulgação na qual revela o papel crucial desempenhado pelos serviços dos EUA nos dois ataques à ponte do estreito de Kerch.
 

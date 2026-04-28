@@ -1,11 +1,12 @@
 ---
-title: "Menor consumo de sódio pode diminuir mortalidade no Brasil"
+title: Menor consumo de sódio pode diminuir mortalidade no Brasil
 date: 2021-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O pesquisador da Universidade de São Paulo, Eduardo Nilson, foi o vencedor do [Prêmio Capes de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) de Doutorado na área de Saúde Coletiva em 2021 com um trabalho que estima o impacto da redução do consumo de sódio sobre a saúde dos brasileiros. De acordo com a pesquisa, “a redução voluntária do sódio nos alimentos industrializados preveniria, ao longo dos próximos 20 anos, aproximadamente 180 mil casos de doenças cardiovasculares associadas à hipertensão e impediria 2.600 mortes por essas doenças, além de outras 12 mil mortes provocadas por outras causas”.
 

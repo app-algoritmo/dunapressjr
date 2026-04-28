@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda pela décima terceira vez consecutiva"
+title: Ibovespa fecha em queda pela décima terceira vez consecutiva
 date: 2023-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar oscila diante de incertezas globais.
 

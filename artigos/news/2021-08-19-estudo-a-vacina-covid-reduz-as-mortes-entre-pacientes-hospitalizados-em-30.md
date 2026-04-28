@@ -1,11 +1,12 @@
 ---
-title: "Estudo: A vacina COVID reduz as mortes entre pacientes hospitalizados em 30%"
+title: 'Estudo: A vacina COVID reduz as mortes entre pacientes hospitalizados em 30%'
 date: 2021-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo do mundo real de pacientes hospitalizados na Índia mostra hospitalização precoce, a vacinação aumenta significativamente as chances de sobrevivência.
 

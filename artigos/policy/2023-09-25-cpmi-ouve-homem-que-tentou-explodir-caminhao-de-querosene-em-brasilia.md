@@ -1,11 +1,12 @@
 ---
-title: "CPMI ouve homem que tentou explodir caminhão de querosene em Brasília"
+title: CPMI ouve homem que tentou explodir caminhão de querosene em Brasília
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPMI que investiga os atos golpistas de 8 de janeiro vai ouvir Alan Diego dos Santos Rodrigues [na quinta-feira (28), a partir das 9h](https://legis.senado.leg.br/comissoes/reuniao?reuniao=11902&codcol=2606). Ele foi preso no final do ano passado por participar da tentativa de explosão de uma bomba colocada em um caminhão-tanque de querosene no aeroporto de Brasília. Foi condenado a mais de cinco anos de prisão.
 

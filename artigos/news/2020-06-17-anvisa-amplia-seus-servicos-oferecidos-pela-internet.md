@@ -1,11 +1,12 @@
 ---
-title: "Anvisa amplia seus serviços oferecidos pela internet"
+title: Anvisa amplia seus serviços oferecidos pela internet
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais 18 serviços começam a ser disponibilizados na plataforma digital do Governo Federal.
 

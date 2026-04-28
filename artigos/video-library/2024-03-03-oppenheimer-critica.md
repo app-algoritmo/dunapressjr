@@ -1,11 +1,12 @@
 ---
-title: "Oppenheimer | Crítica"
+title: Oppenheimer | Crítica
 date: 2024-03-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Christopher Nolan testa os limites de si próprio e do público em um filme complexo e histórico
 

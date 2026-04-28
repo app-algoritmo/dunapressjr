@@ -1,11 +1,12 @@
 ---
-title: "Defesa dá sequência a ações de preservação e proteção da Amazônia Legal"
+title: Defesa dá sequência a ações de preservação e proteção da Amazônia Legal
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em 2020, o Ministério da Defesa reafirma o envolvimento das Forças Armadas com o meio ambiente atuando na Operação Verde Brasil 2. A data, reconhecida como o Dia Mundial do Meio Ambiente, foi estabelecida em 1972, durante a Conferência de Estocolmo sobre o Meio Ambiente Humano da Organização das Nações Unidas (ONU), na Suécia.
 

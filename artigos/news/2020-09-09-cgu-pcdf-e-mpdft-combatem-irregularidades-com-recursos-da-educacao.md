@@ -1,11 +1,12 @@
 ---
-title: "CGU, PCDF e MPDFT combatem irregularidades com recursos da educação"
+title: CGU, PCDF e MPDFT combatem irregularidades com recursos da educação
 date: 2020-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Fames – 2ª Fase e Operação Self-Service apuram existência de conluio entre agentes públicos e privados para fraudar procedimentos licitatórios.
 

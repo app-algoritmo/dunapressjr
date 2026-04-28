@@ -1,11 +1,12 @@
 ---
-title: "<strong>Público&nbsp;terá quatro dias para ver coração de D. Pedro I no Itamaraty</strong>"
+title: <strong>Público&nbsp;terá quatro dias para ver coração de D. Pedro I no Itamaraty</strong>
 date: 2022-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Órgão vem de Portugal para o Bicentenário da Independência.
 

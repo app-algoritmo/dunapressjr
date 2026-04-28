@@ -1,11 +1,12 @@
 ---
-title: "Mensagem do Comandante do Exército aos novos Recrutas"
+title: Mensagem do Comandante do Exército aos novos Recrutas
 date: 2020-03-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Recrutas da Classe de 2001, bem-vindos à Força Terrestre!
 

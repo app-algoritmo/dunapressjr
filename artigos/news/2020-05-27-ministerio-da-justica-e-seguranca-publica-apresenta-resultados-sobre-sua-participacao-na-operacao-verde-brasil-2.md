@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Justiça e Segurança Pública apresenta resultados sobre sua participação na Operação Verde Brasil 2"
+title: Ministério da Justiça e Segurança Pública apresenta resultados sobre sua participação
+  na Operação Verde Brasil 2
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A atuação do Ministério da Justiça e Segurança Pública contribuiu para os resultados positivos da Operação Verde Brasil 2, deflagrada no dia 11 de maio.
 

@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Índice Nacional da Construção Civil foi de 0,20% em março"
+title: 'IBGE: Índice Nacional da Construção Civil foi de 0,20% em março'
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A região Nordeste registrou a maior variação.
 

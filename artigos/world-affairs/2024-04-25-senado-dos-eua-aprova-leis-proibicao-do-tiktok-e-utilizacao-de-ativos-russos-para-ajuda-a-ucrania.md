@@ -1,11 +1,13 @@
 ---
-title: "Senado dos EUA Aprova Leis Proibição do TikTok e Utilização de Ativos Russos para Ajuda à Ucrânia"
+title: Senado dos EUA Aprova Leis Proibição do TikTok e Utilização de Ativos Russos
+  para Ajuda à Ucrânia
 date: 2024-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na última terça-feira, o Senado dos Estados Unidos tomou medidas decisivas em relação ao TikTok e à crise geopolítica entre os EUA, a China e a Rússia. Aprovou-se uma legislação que poderia levar à proibição nacional do TikTok, a menos que sua empresa-mãe chinesa, a ByteDance, se dissociasse da plataforma. Além disso, deu-se luz verde a outra regulamentação que permitiria ao governo dos EUA apropriar-se do TikTok.
 

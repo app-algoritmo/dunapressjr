@@ -1,11 +1,13 @@
 ---
-title: "Operação Cobiça Fatal desarticula associação criminosa envolvida em fraude à licitação"
+title: Operação Cobiça Fatal desarticula associação criminosa envolvida em fraude
+  à licitação
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Luís/MA – A Polícia Federal, com o apoio da Controladoria Geral da União - CGU, deflagrou nesta terça-feira (9/6), nas cidades de São Luís/MA e São José do Ribamar/MA, a Operação Cobiça Fatal, com a finalidade de desarticular associação criminosa voltada à fraude em licitações. As investigações foram iniciadas para verificar possíveis desvios de recursos públicos federais que seriam usados no enfrentamento do novo coronavírus (COVID-19) em São Luís/MA.
 

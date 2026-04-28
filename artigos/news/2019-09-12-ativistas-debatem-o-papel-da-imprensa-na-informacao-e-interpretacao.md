@@ -1,11 +1,12 @@
 ---
-title: "Ativistas debatem o papel da imprensa na informação e interpretação"
+title: Ativistas debatem o papel da imprensa na informação e interpretação
 date: 2019-09-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -O canal Spotniks entrou com novo quadro para dinamizar a já polêmica relação entre a grande imprensa e os ativistas de direita.
 

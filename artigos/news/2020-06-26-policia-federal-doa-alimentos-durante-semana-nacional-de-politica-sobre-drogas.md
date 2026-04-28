@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal doa alimentos durante Semana Nacional de Política sobre Drogas"
+title: Polícia Federal doa alimentos durante Semana Nacional de Política sobre Drogas
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Luís/MA - Foram entregues nesta quinta-feira (25/6) os produtos arrecadados na campanha organizada pelo Grupo de Prevenção ao Uso Indevido de Drogas da Polícia Federal no Maranhão (GPRED/MA). No total, foram doadas 80 cestas básicas, mais 185 quilos de alimentos, além de material de higiene pessoal e de limpeza (144 unidades de sabonete, 60 tubos de creme dental, 210 rolos de papel higiênico, 30 litros de desinfetante e 12 kg de sabão em pó e 20 kg de sabão em barra). 
 

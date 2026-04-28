@@ -1,11 +1,12 @@
 ---
-title: "Mix Festival Caxias agita o Caxias Shopping no dia 25 de junho"
+title: Mix Festival Caxias agita o Caxias Shopping no dia 25 de junho
 date: 2023-06-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Filipe Ret, Belo, MC Cabelinho, Vitinho e BIN são as vozes da primeira edição do festival.
 

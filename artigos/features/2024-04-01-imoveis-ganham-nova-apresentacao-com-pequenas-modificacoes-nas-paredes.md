@@ -1,11 +1,12 @@
 ---
-title: "Imóveis ganham nova apresentação com pequenas modificações nas paredes"
+title: Imóveis ganham nova apresentação com pequenas modificações nas paredes
 date: 2024-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Detalhes como pinturas, boiseries e outras técnicas são capazes de transformar a decoração de um ambiente.
 

@@ -1,11 +1,13 @@
 ---
-title: "Navio-Patrulha Oceânico “Apa” realiza requalificação das Equipes de Manobra com Helicópteros"
+title: Navio-Patrulha Oceânico “Apa” realiza requalificação das Equipes de Manobra
+  com Helicópteros
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 16 de abril, o Navio-Patrulha Oceânico “Apa”, subordinado ao Comando do Grupamento de Patrulha Naval do Sudeste, realizou a Comissão de Manutenção e Requalificação de Equipes de Manobra e Crash, com o propósito de conduzir operações aéreas em proveito dos navios subordinados ao Comando do 1º Distrito Naval.
 

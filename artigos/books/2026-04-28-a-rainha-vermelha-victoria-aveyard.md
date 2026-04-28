@@ -1,11 +1,12 @@
 ---
-title: "A Rainha Vermelha – Victoria Aveyard"
+title: A Rainha Vermelha – Victoria Aveyard
 date: 2026-04-28
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
+- Books
 ---
+
 
 Num mundo dividido pela cor do sangue Mare Barrow nasceu do lado errado do mundo, ela é uma vermelha. No início do livro formulei mil perguntas e a resposta era a mais simples. A cor do sangue. Nessa distopia, coisa que adoro, distopias. Vamos ver um mundo, que não reconhecemos. Mas é porque estamos olhando de muito longe, por uma janela embasada, onde tudo foi distorcido.
 

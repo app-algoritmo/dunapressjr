@@ -1,12 +1,13 @@
 ---
-title: "Shoppings do Rio promovem projeto “Leitura Para Todos”"
+title: Shoppings do Rio promovem projeto “Leitura Para Todos”
 date: 2023-10-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Shopping
+- Education
+- Shopping
 ---
+
 
 ## Desde 2021, projeto já distribuiu mais de 500 mil livros.
 

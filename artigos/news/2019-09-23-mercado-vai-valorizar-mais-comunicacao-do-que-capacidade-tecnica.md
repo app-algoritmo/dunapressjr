@@ -1,11 +1,12 @@
 ---
-title: "Mercado vai valorizar mais comunicação do que capacidade técnica"
+title: Mercado vai valorizar mais comunicação do que capacidade técnica
 date: 2019-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No Brasil, 7,2 milhões deverão ser treinados em novas habilidades.
 

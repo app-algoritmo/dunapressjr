@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai pelo segundo dia e perde 2,48% em agosto"
+title: Bolsa cai pelo segundo dia e perde 2,48% em agosto
 date: 2021-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar fecha a R$ 5,17, no menor valor em quase um mês.
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasil e Paraguai discutem ações conjuntas para o combate ao tráfico de crianças e adolescentes"
+title: Brasil e Paraguai discutem ações conjuntas para o combate ao tráfico de crianças
+  e adolescentes
 date: 2020-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estratégias para a proteção de crianças e adolescentes em situação de tráfico de pessoas foram tratadas durante a reunião bilateral promovida, nesta quinta-feira (16), por meio de videoconferência. Na ocasião, representantes do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e do Ministerio de la Niñez y la Adolescencia da República do Paraguai discutiram a atual situação dos dois países, com o objetivo de implementar ações conjuntas.
 

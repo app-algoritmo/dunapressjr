@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço da gasolina em R$ 0,20 por litro nas refinarias"
+title: Petrobras reduz preço da gasolina em R$ 0,20 por litro nas refinarias
 date: 2022-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Empresa anuncia primeira redução da gasolina desde dezembro.
 

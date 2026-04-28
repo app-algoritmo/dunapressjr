@@ -1,11 +1,12 @@
 ---
-title: "Membro da Família Imperial é infectado por vírus – De onde veio a cura?"
+title: Membro da Família Imperial é infectado por vírus – De onde veio a cura?
 date: 2020-06-22
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Membro da Família Imperial atingido por Covid-19: De onde veio a cura?**
 

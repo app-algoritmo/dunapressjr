@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra operação contra fraudes a benefícios previdenciários na Bahia"
+title: Polícia Federal deflagra operação contra fraudes a benefícios previdenciários
+  na Bahia
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Salvador/BA** – A Polícia Federal, em trabalho conjunto com a Secretaria Especial de Previdência e Trabalho do Ministério da Economia, deflagrou na manhã desta terça-feira (7/7) a **Operação Teia de Aranha**, que visa desarticular uma organização criminosa que fraudava benefícios previdenciários na Bahia.
 

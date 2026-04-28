@@ -1,11 +1,12 @@
 ---
-title: "CAE autoriza US$ 173 milhões em empréstimos externos para a Paraíba"
+title: CAE autoriza US$ 173 milhões em empréstimos externos para a Paraíba
 date: 2020-10-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Assuntos Econômicos (CAE) autorizou nesta terça-feira (20) operações de crédito externo do governo da Paraíba com o Banco Interamericano de Desenvolvimento (BID) e com o Banco Mundial. O dinheiro do Banco Mundial, US$ 126,9 milhões, será usado na melhoria da infraestrutura hídrica e de saneamento, enquanto o empréstimo com o BID destina outros US$ 45,2 milhões para a melhoria da gestão do Sistema Único de Saúde (SUS) e na consolidação da Rede de Atenção à Saúde no estado. Os projetos de resolução que autorizam o endividamento do governo paraibano seguem com pedido de urgência para votação no Plenário do Senado.
 

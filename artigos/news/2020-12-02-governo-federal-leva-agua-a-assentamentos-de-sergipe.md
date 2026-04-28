@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal leva água a assentamentos de Sergipe"
+title: Governo Federal leva água a assentamentos de Sergipe
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em uma ação inédita no estado, o Instituto Nacional de Colonização e Reforma Agrária (Incra) está abrindo, de maneira coordenada, 40 poços artesianos em assentamentos de todas as regiões de Sergipe. Serão atendidas 21 áreas de reforma agrária. O investimento é de R$ 1,8 milhão.
 

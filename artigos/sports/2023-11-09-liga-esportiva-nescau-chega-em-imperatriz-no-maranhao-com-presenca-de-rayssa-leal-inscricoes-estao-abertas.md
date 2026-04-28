@@ -1,11 +1,13 @@
 ---
-title: "Liga Esportiva NESCAU® chega em Imperatriz, no Maranhão, com presença de Rayssa Leal; inscrições estão abertas"
+title: Liga Esportiva NESCAU® chega em Imperatriz, no Maranhão, com presença de Rayssa
+  Leal; inscrições estão abertas
 date: 2023-11-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Marcado para 25 de novembro no Complexo Esportivo Barjonas Lobão, maior campeonato poliesportivo estudantil contará com 22 atividades gratuitas para jovens entre 7 e 17 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Reforma tributária promulgada: principais mudanças dependem de novas leis"
+title: 'Reforma tributária promulgada: principais mudanças dependem de novas leis'
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Com a primeira reforma ampla do sistema tributário realizada sob a Constituição Federal de 1988, os parlamentares esperam simplificar a cobrança de impostos sobre o consumo para incentivar o crescimento econômico. A promulgação da Emenda Constitucional 132 nessa quarta-feira (20) estabelece as bases de uma longa transição para unir impostos sobre o consumo de estados e municípios, acabar com a guerra fiscal e dar mais transparência aos tributos pagos.
 

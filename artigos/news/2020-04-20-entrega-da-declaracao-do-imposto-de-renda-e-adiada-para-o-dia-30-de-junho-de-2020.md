@@ -1,11 +1,13 @@
 ---
-title: "Entrega da declaração do Imposto de Renda é adiada para o dia 30 de junho de 2020"
+title: Entrega da declaração do Imposto de Renda é adiada para o dia 30 de junho de
+  2020
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O prazo final foi prorrogado por 60 dias, após relatos de dificuldades dos contribuintes confinados por causa da pandemia do coronavírus. 
 

@@ -1,11 +1,12 @@
 ---
-title: "10 filmes e séries para entender a importância do compliance"
+title: 10 filmes e séries para entender a importância do compliance
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Seleção de especialistas traz produções que mostram o que a falta de compliance pode causar em famílias, empresas, países e até no mundo inteiro.
 

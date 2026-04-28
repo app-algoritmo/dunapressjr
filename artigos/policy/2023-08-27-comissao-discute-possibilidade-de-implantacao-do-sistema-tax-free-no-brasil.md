@@ -1,11 +1,12 @@
 ---
-title: "Comissão discute possibilidade de implantação do sistema Tax Free no Brasil"
+title: Comissão discute possibilidade de implantação do sistema Tax Free no Brasil
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Benefício reembolsa parte do valor pago em impostos nas compras feitas por turistas estrangeiros.
 

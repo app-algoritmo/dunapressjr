@@ -1,11 +1,13 @@
 ---
-title: "Desaceleração econômica e queda na taxa de natalidade desaceleram expansão chinesa"
+title: Desaceleração econômica e queda na taxa de natalidade desaceleram expansão
+  chinesa
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A política do filho único vigente até 2015 deixou consequências para a taxa de natalidade na China. 
 

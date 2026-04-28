@@ -1,11 +1,12 @@
 ---
-title: "A defasagem da tabela do Imposto de Renda"
+title: A defasagem da tabela do Imposto de Renda
 date: 2022-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cobrado dos assalariados, o Imposto de Renda da Pessoa Física recebe críticas por ter se tornado fonte de desigualdade tributária. A tabela que prevê as alíquotas de contribuição para cada faixa salarial não é reajustada desde 2014. Estudo da Consultoria Legislativa da Câmara dos Deputados analisa o tamanho dessa defasagem.
 

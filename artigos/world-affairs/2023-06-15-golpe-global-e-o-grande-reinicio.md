@@ -1,11 +1,12 @@
 ---
-title: "Golpe global e o “Grande Reinício”"
+title: Golpe global e o “Grande Reinício”
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O texto a seguir é o Capítulo XII do livro de Michel Chossudovsky intitulado.
 

@@ -1,11 +1,13 @@
 ---
-title: "Destaques dos principais feitos do governo Bolsonaro até o momento apresentados na abertura da Assembleia Geral da ONU"
+title: Destaques dos principais feitos do governo Bolsonaro até o momento apresentados
+  na abertura da Assembleia Geral da ONU
 date: 2019-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # PR Bolsonaro apresenta "Um novo Brasil"
 

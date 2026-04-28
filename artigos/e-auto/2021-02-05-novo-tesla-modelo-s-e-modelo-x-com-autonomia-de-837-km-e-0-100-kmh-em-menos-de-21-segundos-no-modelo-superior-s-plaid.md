@@ -1,11 +1,13 @@
 ---
-title: "Novo Tesla modelo S e modelo X com autonomia de 837 km e 0-100 km/h em menos de 2,1 segundos no modelo superior S Plaid+"
+title: Novo Tesla modelo S e modelo X com autonomia de 837 km e 0-100 km/h em menos
+  de 2,1 segundos no modelo superior S Plaid+
 date: 2021-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 EV | Depois de quase uma década no mercado, o Tesla Model S já leva uma longa vida. Mas este ano finalmente chega uma nova edição. No entanto, Tesla faz as coisas do seu jeito. O design básico exterior é mais ou menos o ponto semelhante ao modelo atual.
 

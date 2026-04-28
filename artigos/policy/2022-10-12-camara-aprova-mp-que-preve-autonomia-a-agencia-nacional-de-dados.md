@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova MP que prevê autonomia à agência nacional de dados"
+title: Câmara aprova MP que prevê autonomia à agência nacional de dados
 date: 2022-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ### Matéria segue para o Senado e deve ser votada até o dia 24.
 

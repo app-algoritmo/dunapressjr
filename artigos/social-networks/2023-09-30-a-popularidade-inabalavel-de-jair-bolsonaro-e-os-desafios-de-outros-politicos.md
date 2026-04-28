@@ -1,11 +1,12 @@
 ---
-title: "A Popularidade Inabalável de Jair Bolsonaro e os Desafios de Outros Políticos"
+title: A Popularidade Inabalável de Jair Bolsonaro e os Desafios de Outros Políticos
 date: 2023-09-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 O cenário político brasileiro sempre foi marcado por uma diversidade de opiniões e tendências. No entanto, nos últimos anos, uma figura política tem se destacado de forma inegável: o ex-presidente Jair Bolsonaro. Sua popularidade parece inquebrável, e ele consegue reunir milhares de seguidores por onde passa. Enquanto isso, outros políticos, como o atual presidente Lula, seu vice Alckmin e a primeira-dama Janja, enfrentam desafios para circular nas ruas sem enfrentar hostilidades da população.
 

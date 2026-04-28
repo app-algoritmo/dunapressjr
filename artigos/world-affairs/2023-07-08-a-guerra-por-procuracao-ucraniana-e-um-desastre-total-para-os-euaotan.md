@@ -1,11 +1,12 @@
 ---
-title: "A guerra por procuração ucraniana é um desastre total para os EUA/OTAN"
+title: A guerra por procuração ucraniana é um desastre total para os EUA/OTAN
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A guerra por procuração na Ucrânia contra a Rússia pode cada vez mais ser vista como uma derrota desastrosa para os Estados Unidos e a OTAN. Este resultado surpreendente ganhou as manchetes em todo o mundo. Em vez disso, a máquina da mídia ocidental está girando a uma velocidade vertiginosa em torno de um motim fracassado na Rússia que é relativamente insignificante na escala objetiva de grandes eventos em comparação com a colossal confusão EUA/OTAN.
 

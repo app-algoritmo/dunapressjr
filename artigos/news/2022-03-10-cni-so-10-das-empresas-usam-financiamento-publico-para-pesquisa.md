@@ -1,11 +1,12 @@
 ---
-title: "CNI: só 10% das empresas usam financiamento público para pesquisa"
+title: 'CNI: só 10% das empresas usam financiamento público para pesquisa'
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento ouviu 196 empresas com mais de 50 funcionários.
 

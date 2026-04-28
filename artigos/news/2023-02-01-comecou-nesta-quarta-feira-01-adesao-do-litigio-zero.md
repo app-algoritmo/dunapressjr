@@ -1,11 +1,12 @@
 ---
-title: "Começou nesta quarta-feira (01) adesão do Litígio Zero"
+title: Começou nesta quarta-feira (01) adesão do Litígio Zero
 date: 2023-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O governo anunciou a renegociação no dia 12 de janeiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vendas para China preveniram choque nas exportações, diz Guedes"
+title: Vendas para China preveniram choque nas exportações, diz Guedes
 date: 2020-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Para ministro, Ásia compensou queda nas vendas para outras regiões**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona auxílio emergencial sem mudanças no valor ou nos critérios"
+title: Governo sanciona auxílio emergencial sem mudanças no valor ou nos critérios
 date: 2020-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governo decidiu vetar três pontos da proposta, mas não alteram valores nem critérios do programa
 

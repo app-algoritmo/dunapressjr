@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa global de percepção aponta Brasil como a segunda nação mais fora da realidade em  todo o mundo"
+title: Pesquisa global de percepção aponta Brasil como a segunda nação mais fora da
+  realidade em  todo o mundo
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A pesquisa global Perigos da Percepção 2017 foi realizada em 38 países. No ranking, que compara opiniões da população com dados da realidade, os brasileiros só estão atrás dos sul-africanos.
 

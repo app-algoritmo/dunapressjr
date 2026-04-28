@@ -1,11 +1,13 @@
 ---
-title: "Judia britânica de 101 anos conta como foi ser vizinha de Hitler na década de 1930 em Munique"
+title: Judia britânica de 101 anos conta como foi ser vizinha de Hitler na década
+  de 1930 em Munique
 date: 2020-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 *Em entrevista ao Daily Mail, Alice Frank Stock lembra-se de ter visto os guardas da SS empurrando o líder nazista para dentro do prédio, 'aterrorizado ... com alguém que tentasse matá-lo'.*
 

@@ -1,11 +1,12 @@
 ---
-title: "Diego Arria acusa a “acomodação” do Governo Biden com a narcotirania de Maduro"
+title: Diego Arria acusa a “acomodação” do Governo Biden com a narcotirania de Maduro
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-embaixador da Venezuela na Organização das Nações Unidas (ONU), [Diego Arria](https://x.com/Diego_Arria/status/1737571514155692506?s=20) , denunciou **o acordo estabelecido** entre a Administração Joe Biden e o regime ditatorial de Nicolás Maduro que resultou na libertação e posterior envio a Caracas de quem foi identificado como o principal figura de proa do chavismo, [Alex Saab](https://gaceta.es/iberosfera/maduro-recibe-al-empresario-alex-saab-en-caracas-tras-ser-liberado-por-eeuu-20231221-1019/) , em troca da libertação de 10 norte-americanos e vinte dissidentes venezuelanos que estavam presos no país caribenho.
 

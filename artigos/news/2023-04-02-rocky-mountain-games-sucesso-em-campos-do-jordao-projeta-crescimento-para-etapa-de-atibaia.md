@@ -1,11 +1,13 @@
 ---
-title: "Rocky Mountain Games: sucesso em Campos do Jordão projeta crescimento para etapa de Atibaia"
+title: 'Rocky Mountain Games: sucesso em Campos do Jordão projeta crescimento para
+  etapa de Atibaia'
 date: 2023-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A primeira etapa da temporada 2023 do Rocky Mountain Games chegou ao fim neste domingo (2), em Campos do Jordão, em grande estilo, alto astral e mais um dia de sol e calor. E já deixa um gostinho de quero mais para os mais de 800 atletas, seus familiares e amigos, que totalizarem um público de 1.800 pessoas em dois dias de evento. E as tribos do bikers e corredores não precisarão esperar muito para voltar a se reunir no maior festival de esportes e cultura de montanha do Brasil. A segunda etapa do circuito está marcada os dias 20 e 21 de maio, na Pedra Grande, em Atibaia.
 

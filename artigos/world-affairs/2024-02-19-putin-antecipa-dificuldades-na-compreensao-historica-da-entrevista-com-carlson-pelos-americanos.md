@@ -1,11 +1,13 @@
 ---
-title: "Putin Antecipa Dificuldades na Compreensão Histórica da Entrevista com Carlson pelos Americanos"
+title: Putin Antecipa Dificuldades na Compreensão Histórica da Entrevista com Carlson
+  pelos Americanos
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, expressou sua preocupação de que os americanos terão dificuldade em compreender as referências históricas feitas em sua **[entrevista](http://Essa declaração de Putin ressalta a gravidade da situação na região, destacando as profundas preocupações e interesses da Rússia em relação à Ucrânia.)** com o jornalista norte-americano Tucker Carlson. Em uma conversa com o jornalista da All-Russia State Television and Radio Broadcasting Company, Pavel Zarubin, Putin destacou a complexidade da questão histórica apresentada na entrevista.
 

@@ -1,11 +1,12 @@
 ---
-title: "Yom Kipur agora faz parte do calendário oficial do estado de S.Paulo"
+title: Yom Kipur agora faz parte do calendário oficial do estado de S.Paulo
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Dário Oficial publicou nesta terça-feira (13) a lei 17.361 que incluiu no calendário oficial do estado de S.Paulo o Yom Kipur (Dia do Perdão) a ser realizado no décimo dia a partir de Rosh Hashaná – primeiro dia do Ano Novo Judaico.
 

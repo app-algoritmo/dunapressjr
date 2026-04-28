@@ -1,12 +1,13 @@
 ---
-title: "A Velha dos gatos"
+title: A Velha dos gatos
 date: 2024-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Nunca, jamais, vou esquecer o que aconteceu com a velha dos gatos…
 Era uma mulher muito pobre, que vivia longe do centro da cidade, numa casa que era praticamente uma cabana de lama.

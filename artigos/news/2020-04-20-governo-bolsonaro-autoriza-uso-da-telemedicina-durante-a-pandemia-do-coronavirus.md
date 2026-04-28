@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro autoriza uso da telemedicina durante a pandemia do coronavírus"
+title: Governo Bolsonaro autoriza uso da telemedicina durante a pandemia do coronavírus
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As consultas seguirão os padrões usuais do atendimento presencial. Governo autorizou uso da telemedicina, em caráter emergencial, durante a crise causada pelo coronavírus.
 

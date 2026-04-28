@@ -1,11 +1,12 @@
 ---
-title: "PF combate o tráfico de drogas em Céu Azul/PR"
+title: PF combate o tráfico de drogas em Céu Azul/PR
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na noite desta terça-feira (5/5), policiais federais prenderam um indivíduo por tráfico de drogas. O flagrante ocorreu no posto da PRF em Céu Azul/PR.
 

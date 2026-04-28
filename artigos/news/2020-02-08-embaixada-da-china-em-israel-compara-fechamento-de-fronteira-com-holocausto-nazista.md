@@ -1,11 +1,13 @@
 ---
-title: "Embaixada da China em Israel compara fechamento de fronteira com Holocausto nazista"
+title: Embaixada da China em Israel compara fechamento de fronteira com Holocausto
+  nazista
 date: 2020-02-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *A Embaixada da China em Israel pediu desculpas por afirmar que a decisão de Israel  de fechar suas fronteiras aos visitantes da China devido à disseminação do coronavírus é "uma reminiscência do Holocausto" no domingo, (02/02) segundo a emissora de Tv, Canal 13.*
 

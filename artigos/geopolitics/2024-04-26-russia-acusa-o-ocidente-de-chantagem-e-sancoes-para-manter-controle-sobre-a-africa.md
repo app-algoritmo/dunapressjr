@@ -1,11 +1,13 @@
 ---
-title: "Rússia Acusa o Ocidente de Chantagem e Sanções para Manter Controle sobre a África"
+title: Rússia Acusa o Ocidente de Chantagem e Sanções para Manter Controle sobre a
+  África
 date: 2024-04-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante a sessão plenária do 3º Fórum Internacional da Juventude 'Rússia- África: o que vem a seguir?', Vsevolod Tkachenko, Diretor do Departamento de África do Ministério dos Negócios Estrangeiros da Rússia, lançou duras críticas ao comportamento do Ocidente em relação à África. Tkachenko destacou que, apesar dos avanços, os vestígios do sistema colonial ainda estão presentes na economia global e são explorados pelo Ocidente para manter sua influência sobre o continente africano.
 

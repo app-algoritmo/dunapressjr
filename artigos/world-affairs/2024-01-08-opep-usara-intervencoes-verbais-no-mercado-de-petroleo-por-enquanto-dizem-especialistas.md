@@ -1,11 +1,13 @@
 ---
-title: "OPEP+ usará intervenções verbais no mercado de petróleo por enquanto, dizem especialistas"
+title: OPEP+ usará intervenções verbais no mercado de petróleo por enquanto, dizem
+  especialistas
 date: 2024-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Numa reunião realizada em 30 de novembro de 2023, vários membros da OPEP+ concordaram em cortes voluntários adicionais de produção de 2,2 milhões de barris por dia para o primeiro trimestre de 2024.
 

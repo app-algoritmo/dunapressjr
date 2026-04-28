@@ -1,11 +1,12 @@
 ---
-title: "1# O que é Filosofia: Uma breve introdução"
+title: '1# O que é Filosofia: Uma breve introdução'
 date: 2020-05-17
 status: publish
 author: Vitor Guerino
 categories:
-  - Philosophy
+- Philosophy
 ---
+
 
 A filosofia etimologicamente nos fala sobre o amor de um homem ao conhecimento, ou seja, a afeição que este indivíduo tem para aprender sempre mais, principalmente sobre si mesmo. Entretanto, esta origem provida dos Gregos sofreu fortes mutações ao longo dos séculos, ao ponto de hoje ela ser facilmente multi-interpretrada pelas pessoas.
 

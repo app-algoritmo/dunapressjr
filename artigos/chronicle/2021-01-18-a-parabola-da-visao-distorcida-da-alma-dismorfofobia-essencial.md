@@ -1,11 +1,12 @@
 ---
-title: "A parábola da visão distorcida da alma | Dismorfofobia Essencial"
+title: A parábola da visão distorcida da alma | Dismorfofobia Essencial
 date: 2021-01-18
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Da série *Introspectĭo***
 

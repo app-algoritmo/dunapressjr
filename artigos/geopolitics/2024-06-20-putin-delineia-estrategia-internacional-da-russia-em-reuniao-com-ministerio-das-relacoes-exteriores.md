@@ -1,11 +1,13 @@
 ---
-title: "Putin Delineia Estratégia Internacional da Rússia em Reunião com Ministério das Relações Exteriores"
+title: Putin Delineia Estratégia Internacional da Rússia em Reunião com Ministério
+  das Relações Exteriores
 date: 2024-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Presidente russo destaca a necessidade de uma ordem mundial multipolar e o fortalecimento da segurança na Eurásia**.
 

@@ -1,11 +1,13 @@
 ---
-title: "Em seis meses, hospitais universitários disponibilizaram mais de 1,8 mil leitos para atendimento"
+title: Em seis meses, hospitais universitários disponibilizaram mais de 1,8 mil leitos
+  para atendimento
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Com 40 hospitais espalhados pelo País, Rede Ebserh ofereceu atendimento a mais de 40 mil pessoas com Covid-19 ou suspeita da doença. Hospitais universitários contam com infraestrutura planejada especialmente para atender casos de Covid-19.
 

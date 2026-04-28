@@ -1,11 +1,12 @@
 ---
-title: "Itamaraty articula para auxiliar brasileiros impedidos de voltar ao Brasil"
+title: Itamaraty articula para auxiliar brasileiros impedidos de voltar ao Brasil
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério das Relações Exteriores (MRE), ciente e atento às diversas limitações à circulação de pessoas entre países estabelecidas nos últimos dias em decorrência da pandemia do Coronavírus (COVID-19), criou o Grupo Especial de Crise para auxiliar os cidadãos brasileiros que estão impedidos de retornar ao Brasil.
  

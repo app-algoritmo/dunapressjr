@@ -1,11 +1,13 @@
 ---
-title: "A Bíblia sem Jesus? Como duas religiões podem ler o mesmo texto de maneiras dissonantes"
+title: A Bíblia sem Jesus? Como duas religiões podem ler o mesmo texto de maneiras
+  dissonantes
 date: 2020-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Um livro publicado recentemente, “A Bíblia com e sem Jesus: como judeus e cristãos lêem as mesmas histórias de maneira diferente”, procura oferecer algumas dicas sobre como duas religiões podem ter entendimentos tão díspares do mesmo texto.
 

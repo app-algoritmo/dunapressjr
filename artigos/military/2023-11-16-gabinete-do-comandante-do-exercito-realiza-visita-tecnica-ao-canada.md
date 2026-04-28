@@ -1,11 +1,12 @@
 ---
-title: "Gabinete do Comandante do Exército realiza visita técnica ao Canadá"
+title: Gabinete do Comandante do Exército realiza visita técnica ao Canadá
 date: 2023-11-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No período de 30 de outubro a 2 de novembro, a Aditância de Defesa, Naval, do Exército e Aeronáutica do Brasil recebeu a visita de orientação técnica de comitiva da Assessoria de Pessoal do Gabinete do Comandante do Exército, a fim de verificar as condições de execução das missões de militares do Exército Brasileiro no Canadá, bem como verificar as possibilidades para incrementar o intercâmbio entre os Exércitos dessas duas Nações Amigas.
 

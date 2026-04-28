@@ -1,11 +1,12 @@
 ---
-title: "Internado para cirurgia, Toffoli apresenta sintomas de covid-19"
+title: Internado para cirurgia, Toffoli apresenta sintomas de covid-19
 date: 2020-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 De acordo com o STF, ele retirou pequeno abscesso e passa bem.
 

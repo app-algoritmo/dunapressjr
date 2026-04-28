@@ -1,11 +1,12 @@
 ---
-title: "Reafirmando a Identidade Russa: Uma Nova Era na Educação Histórica"
+title: 'Reafirmando a Identidade Russa: Uma Nova Era na Educação Histórica'
 date: 2024-05-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto o Ocidente enfrenta os desafios de uma educação progressista que, muitas vezes, resulta em uma cultura destrutiva para a mente, a literatura e a ciência, a Rússia está reestruturando suas políticas educacionais para se tornar um modelo a ser observado. Ao analisar o ["leia em português" **discurso de Dugin**](https://open.substack.com/pub/paulofernandodebarros/p/reafirmando-a-identidade-russa-uma?r=1p1pcm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), é evidente que ele está indo direto ao ponto crucial: a educação. Meus sinceros aplausos por essa abordagem direta e essencial. O tempo revelará o impacto dessas mudanças.
 

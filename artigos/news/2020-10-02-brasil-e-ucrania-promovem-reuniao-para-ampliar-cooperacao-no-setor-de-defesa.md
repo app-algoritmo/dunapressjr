@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Ucrânia promovem reunião para ampliar cooperação no setor de Defesa"
+title: Brasil e Ucrânia promovem reunião para ampliar cooperação no setor de Defesa
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Representantes do setor de Defesa do Brasil e da Ucrânia realizaram, na quinta-feira, 24, uma videoconferência, com o objetivo de debater o estado atual da cooperação no setor entre os dois países, bem como as formas de ampliá-la. Representando o Ministério da Defesa (MD), participaram o Secretário de Produtos de Defesa (SEPROD), Marcos Degaut, e o Diretor do Departamento de Promoção Comercial da SEPROD, General de Divisão Luís Antônio Duizit Brito.
 

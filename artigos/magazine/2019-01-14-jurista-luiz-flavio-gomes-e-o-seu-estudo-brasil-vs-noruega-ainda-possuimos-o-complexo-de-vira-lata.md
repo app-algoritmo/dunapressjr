@@ -1,12 +1,14 @@
 ---
-title: "Jurista Luiz Flávio Gomes e o seu estudo Brasil vs. Noruega: ainda possuímos o complexo de vira-lata?"
+title: 'Jurista Luiz Flávio Gomes e o seu estudo Brasil vs. Noruega: ainda possuímos
+  o complexo de vira-lata?'
 date: 2019-01-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 Faz quatro anos que o grande Jurista brasileiro, Doutor e Mestre em Direito Penal e Professor Luiz Flávio Gomes publicou um artigo com estudos comparativos entre a República do Brasil e o Reino da Noruega. 
 

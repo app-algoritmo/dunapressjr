@@ -1,11 +1,12 @@
 ---
-title: "Governador de São Paulo processa motorista de aplicativo"
+title: Governador de São Paulo processa motorista de aplicativo
 date: 2020-04-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 *Cena:* O governador, que mora em uma mansão em bairro de São Paulo, com sua cara plastificada e terno pago com dinheiro público, usa seu cargo e seus advogados, também pagos com dinheiro público, para dar queixa-crime contra um rapaz desempregado, que faz bico como motorista de aplicativos e paga imposto para sustentar o governador e seus advogados, para estes o processarem.
 

@@ -1,11 +1,13 @@
 ---
-title: "Suprema Corte de Nova York reintegra trabalhadores demitidos por não serem vacinados"
+title: Suprema Corte de Nova York reintegra trabalhadores demitidos por não serem
+  vacinados
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A Suprema Corte do estado de Nova York ordenou que todos os funcionários da cidade de Nova York que foram demitidos por não terem sido vacinados contra o coronavírus Wuhan (COVID-19) fossem [reintegrados com salários atrasados](https://www.foxnews.com/us/new-york-supreme-court-reinstates-all-employees-fired-being-unvaccinated-orders-backpay) . A Suprema Corte estadual divulgou a ordem no final do mês passado após concluir que ser vacinado não impede uma pessoa “de contrair ou transmitir COVID-19”.
 

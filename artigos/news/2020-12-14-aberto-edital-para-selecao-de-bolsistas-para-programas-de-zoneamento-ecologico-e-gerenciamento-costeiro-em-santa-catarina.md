@@ -1,11 +1,13 @@
 ---
-title: "Aberto edital para seleção de bolsistas para programas de zoneamento ecológico e gerenciamento costeiro em Santa Catarina"
+title: Aberto edital para seleção de bolsistas para programas de zoneamento ecológico
+  e gerenciamento costeiro em Santa Catarina
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Executiva do Meio Ambiente (Sema) abriu o edital para a seleção de bolsistas de pesquisa, desenvolvimento e inovação para atuação nos programas Zoneamento Econômico Ecológico (ZEE) e Gerenciamento Costeiro (Gerco). A chamada pública, lançada pela Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina (Fapesc), tem até 11 de janeiro de 2021 para a submissão das candidaturas.
 

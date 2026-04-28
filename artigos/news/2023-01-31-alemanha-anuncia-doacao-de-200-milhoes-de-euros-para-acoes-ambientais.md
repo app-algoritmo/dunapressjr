@@ -1,11 +1,12 @@
 ---
-title: "Alemanha anuncia doação de 200 milhões de euros para ações ambientais"
+title: Alemanha anuncia doação de 200 milhões de euros para ações ambientais
 date: 2023-01-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Comunicado foi feito hoje pela ministra alemã Svenja Schulze.
 

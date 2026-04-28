@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Defesa acompanha atuação do Comando de Operações Aeroespaciais"
+title: Ministro da Defesa acompanha atuação do Comando de Operações Aeroespaciais
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Dez Comandos Conjuntos que cobrem todo o território nacional e o Comando de Operações Aeroespaciais, o COMAE, de funcionamento permanente, atuam integrados na Operação Covid-19. A iniciativa, deflagrada pelo Ministério da Defesa, por meio do Centro de Operações Conjuntas, atua no combate ao novo coronavírus. Na manhã desta terça-feira (23), o Ministro da Defesa, Fernando Azevedo, esteve na sede do Comando que gerencia todas as missões de emprego da Força Aérea Brasileira, como transporte de material hospitalar, pessoal e insumos.
 

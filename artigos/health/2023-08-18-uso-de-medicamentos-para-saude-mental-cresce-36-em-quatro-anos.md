@@ -1,11 +1,12 @@
 ---
-title: "Uso de medicamentos para saúde mental cresce 36% em quatro anos"
+title: Uso de medicamentos para saúde mental cresce 36% em quatro anos
 date: 2023-08-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Cenário demanda busca por formulações que reduzam efeitos colaterais e aumentem eficácia; farmacêutica investe R$ 80 milhões em pesquisas e desenvolvimento de novos produtos.
 

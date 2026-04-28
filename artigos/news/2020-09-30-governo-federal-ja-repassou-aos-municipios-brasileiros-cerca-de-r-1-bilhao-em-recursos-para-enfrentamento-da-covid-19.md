@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal já repassou aos municípios brasileiros cerca de R$ 1 bilhão em recursos para enfrentamento da Covid-19"
+title: Governo Federal já repassou aos municípios brasileiros cerca de R$ 1 bilhão
+  em recursos para enfrentamento da Covid-19
 date: 2020-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recursos podem ser utilizados para aquisição de Equipamentos de Proteção Individual (EPIs), compra de alimentos e promoção de ações socioassistenciais. 
 

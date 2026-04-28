@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IPC-S sobe para 1,08% em novembro, diz FGV"
+title: Inflação medida pelo IPC-S sobe para 1,08% em novembro, diz FGV
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta foi puxada pelos setores de transportes e habitação.
 

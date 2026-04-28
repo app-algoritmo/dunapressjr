@@ -1,11 +1,12 @@
 ---
-title: "Mais leitos de CTI no Hospital das Clínicas em Porto Alegre"
+title: Mais leitos de CTI no Hospital das Clínicas em Porto Alegre
 date: 2020-06-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## MEC fez repasse de R$ 57 milhões para ampliar atendimento.
 

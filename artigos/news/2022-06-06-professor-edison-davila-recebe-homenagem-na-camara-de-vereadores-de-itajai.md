@@ -1,11 +1,12 @@
 ---
-title: "Professor Edison d’Ávila recebe homenagem na Câmara de Vereadores de Itajaí"
+title: Professor Edison d’Ávila recebe homenagem na Câmara de Vereadores de Itajaí
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí aprovou por unanimidade, na noite desta terça-feira (31), a [Moção nº 14/2022](https://www.cvi.sc.gov.br/public/elegis2/pdf/mocao14_2022.pdf) de congratulação, agradecimento e reconhecimento ao professor Edison d’Ávila, pelos relevantes serviços prestados ao Município de Itajaí. A homenagem foi proposta pela vereadora Fabi Henrique (Progressistas).  
  

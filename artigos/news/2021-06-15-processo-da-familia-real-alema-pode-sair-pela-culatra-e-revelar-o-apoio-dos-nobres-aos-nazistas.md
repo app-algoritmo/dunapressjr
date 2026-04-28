@@ -1,11 +1,13 @@
 ---
-title: "Processo da família real alemã pode sair pela culatra e revelar o apoio dos nobres aos nazistas"
+title: Processo da família real alemã pode sair pela culatra e revelar o apoio dos
+  nobres aos nazistas
 date: 2021-06-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Embora a aristocracia seja frequentemente elogiada pelo complô de julho de 1944 para matar Hitler, as evidências em um pedido de indenização buscado pela casa dos Hohenzollern podem expor um armário cheio de esqueletos.
 

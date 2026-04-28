@@ -1,11 +1,12 @@
 ---
-title: "Pedro Guimarães oficializa demissão como presidente da Caixa"
+title: Pedro Guimarães oficializa demissão como presidente da Caixa
 date: 2022-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Daniella Marques Consentino é a substituta.
 

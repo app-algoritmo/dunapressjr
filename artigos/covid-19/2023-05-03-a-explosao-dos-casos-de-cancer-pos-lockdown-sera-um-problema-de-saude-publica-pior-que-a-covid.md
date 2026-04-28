@@ -1,11 +1,13 @@
 ---
-title: "A explosão dos casos de câncer pós Lockdown será um problema de saúde pública pior que a Covid"
+title: A explosão dos casos de câncer pós Lockdown será um problema de saúde pública
+  pior que a Covid
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Relatos de um médico britânico.
 

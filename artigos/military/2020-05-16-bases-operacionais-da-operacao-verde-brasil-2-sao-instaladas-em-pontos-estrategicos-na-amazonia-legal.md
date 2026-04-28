@@ -1,11 +1,13 @@
 ---
-title: "Bases operacionais da Operação Verde Brasil 2 são instaladas em pontos estratégicos na Amazônia Legal"
+title: Bases operacionais da Operação Verde Brasil 2 são instaladas em pontos estratégicos
+  na Amazônia Legal
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Menos de uma semana após ser deflagrada, a Operação Verde Brasil 2 conta com diversas bases estabelecidas na Amazônia Legal. Trata-se de pontos de irradiação para emprego de tropas e meios no combate a delitos ambientais em pontos críticos e estratégicos.
 

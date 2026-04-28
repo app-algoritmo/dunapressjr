@@ -1,11 +1,12 @@
 ---
-title: "O Empate na Ofensiva Ucraniana: Reflexões sobre a Situação Atual"
+title: 'O Empate na Ofensiva Ucraniana: Reflexões sobre a Situação Atual'
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A contra-ofensiva ucraniana estagnou. Os contratempos estão se acumulando. O exército ucraniano não consegue romper as defesas russas e está pagando um preço muito alto por isso.
 

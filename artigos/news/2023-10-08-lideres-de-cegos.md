@@ -1,12 +1,13 @@
 ---
-title: "Líderes de cegos"
+title: Líderes de cegos
 date: 2023-10-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Esta é uma foto a preto e branco de Morris Frank e Buddy a desembarcar de um navio. É graças aos esforços de Morris que os manipuladores de cães guia têm o mesmo direito de viajar que qualquer outra pessoa.
 

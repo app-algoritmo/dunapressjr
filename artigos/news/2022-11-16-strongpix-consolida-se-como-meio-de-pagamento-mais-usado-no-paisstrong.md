@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pix consolida-se como meio de pagamento mais usado no país</strong>"
+title: <strong>Pix consolida-se como meio de pagamento mais usado no país</strong>
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em dois anos, foram feitas 26 bilhões de transações pela ferramenta.
 

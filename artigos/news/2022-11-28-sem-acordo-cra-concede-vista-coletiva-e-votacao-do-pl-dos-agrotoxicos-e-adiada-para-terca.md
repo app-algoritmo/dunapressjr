@@ -1,11 +1,13 @@
 ---
-title: "Sem acordo, CRA concede vista coletiva e votação do PL dos Agrotóxicos é adiada para terça"
+title: Sem acordo, CRA concede vista coletiva e votação do PL dos Agrotóxicos é adiada
+  para terça
 date: 2022-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com pedido de vista coletiva acatado, a votação do projeto que flexibiliza as regras de aprovação e comercialização de agrotóxicos pela Comissão de Agricultura (CRA) foi adiada. Em reunião nesta quinta-feira (23), o relator do [PL 1.459/2022 ](https://www25.senado.leg.br/web/atividade/materias/-/materia/153396)e presidente do colegiado, senador Acir Gurgacz (PDT-RO), apresentou novo relatório e já marcou a deliberação para a próxima terça-feira (29).
 

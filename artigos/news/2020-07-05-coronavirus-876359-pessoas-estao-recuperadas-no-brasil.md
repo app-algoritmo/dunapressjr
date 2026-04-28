@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: 876.359 pessoas estão recuperadas no Brasil"
+title: 'Coronavírus: 876.359 pessoas estão recuperadas no Brasil'
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Número representa mais da metade do total de casos acumulados (55,6%). Informações foram atualizadas até as 18h30 deste sábado (4/7).
 

@@ -1,11 +1,13 @@
 ---
-title: "Agências ambientais e órgãos de segurança integram informações para combate a crimes na Amazônia"
+title: Agências ambientais e órgãos de segurança integram informações para combate
+  a crimes na Amazônia
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Verde Brasil 2 recebe importante apoio de equipe de 11 agências ambientais e órgãos de segurança pública. Esses profissionais fazem a integração de dados e informações visando otimizar o trabalho das equipes de campo, durante a operação de Garantia da Lei e da Ordem (GLO) para combate a crimes ambientais na Amazônia.
 

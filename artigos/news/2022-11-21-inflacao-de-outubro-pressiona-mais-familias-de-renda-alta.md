@@ -1,11 +1,12 @@
 ---
-title: "Inflação de outubro pressiona mais famílias de renda alta"
+title: Inflação de outubro pressiona mais famílias de renda alta
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reajuste de passagens aéreas e de planos de saúde influencia cenário.
 

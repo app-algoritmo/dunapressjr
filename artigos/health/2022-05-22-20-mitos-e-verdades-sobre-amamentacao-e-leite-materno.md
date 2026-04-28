@@ -1,11 +1,12 @@
 ---
-title: "20 Mitos e verdades sobre amamentação e leite materno"
+title: 20 Mitos e verdades sobre amamentação e leite materno
 date: 2022-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 - *Existe leite fraco?*** MITO. **Não existe leite fraco. Até uma mãe com desnutrição leve ou moderada é capaz de produzir um bom leite. Todos têm a mesma constituição. O que acontece é que o leite materno é mais ralo que o leite de vaca. Mas, lembre-se: o leite de vaca foi feito para o bezerro! Cada espécie se alimenta com o leite produzido pela sua mãe. O leite materno tem todas as substâncias na quantidade certa de que o bebê precisa para crescer e se desenvolver sadio. O leite do início da mamada é mais “ralo”, pois contém mais água, menos gordura e grande quantidade de fatores de defesa. Contém também mais vitaminas e sais minerais. O leite do fim da mamada é mais grosso, visto que tem mais gordura e engorda o bebê. O bebê precisa do leite do começo e do fim da mamada.
 - *Só o meu leite não sustenta e o bebê chora com fome.***  MITO. **Nem sempre que o bebê chora é porque está com fome. Ele pode estar com cólica, frio ou calor, molhado, ou simplesmente querendo carinho (colo). Lembre-se de que o choro é a única forma de o bebê se comunicar nos primeiros meses de vida. O importante é que ele esteja crescendo bem, o que pode ser verificado pelos gráficos na Caderneta da Criança, e urinando mais do que seis vezes a cada 24 horas.

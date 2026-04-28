@@ -1,11 +1,12 @@
 ---
-title: "Lira anuncia votação da PEC da Transição para a próxima terça-feira"
+title: Lira anuncia votação da PEC da Transição para a próxima terça-feira
 date: 2022-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Câmara, [Arthur Lira (PP-AL)](https://www.camara.leg.br/deputados/160541), anunciou para a próxima terça-feira (20) a votação da PEC da Transição (PEC 32/22). Ele pediu ao presidente do Congresso, senador Rodrigo Pacheco, que convoque sessão para esta sexta-feira (16) para tratar de assuntos orçamentários e lembrou que na segunda-feira haverá diplomação dos deputados federais eleitos, o que esvaziará o Parlamento. “Fiz um apelo ao presidente Pacheco para que ele faça o favor de convocar o Congresso para amanhã já que na segunda-feira será o dia das diplomações”, disse.
 

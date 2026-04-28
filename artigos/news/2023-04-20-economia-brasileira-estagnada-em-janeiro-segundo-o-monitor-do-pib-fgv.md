@@ -1,11 +1,12 @@
 ---
-title: "Economia brasileira estagnada em janeiro, segundo o Monitor do PIB-FGV"
+title: Economia brasileira estagnada em janeiro, segundo o Monitor do PIB-FGV
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Análise desagregada dos setores e componentes da demanda aponta para desafios em meio a perspectiva de recessão global.
 

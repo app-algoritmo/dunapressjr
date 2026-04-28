@@ -1,11 +1,13 @@
 ---
-title: "A Nova Batalha pelo Controle da Informação: O Envolvimento dos EUA na África para Combater a Desinformação"
+title: 'A Nova Batalha pelo Controle da Informação: O Envolvimento dos EUA na África
+  para Combater a Desinformação'
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A África está se tornando um campo de jogo crucial para potências mundiais que buscam ganhar ou manter influência. Nesse contexto, os Estados Unidos, sob a administração Biden, decidiram intensificar seu envolvimento no continente, focando em um método específico: combater a desinformação.
 

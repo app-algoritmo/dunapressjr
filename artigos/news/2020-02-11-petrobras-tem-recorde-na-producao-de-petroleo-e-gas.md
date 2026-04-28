@@ -1,11 +1,12 @@
 ---
-title: "Petrobras tem recorde na produção de petróleo e gás"
+title: Petrobras tem recorde na produção de petróleo e gás
 date: 2020-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Total ficou acima da meta de 2,7 milhões de boe diários*
 

@@ -1,11 +1,12 @@
 ---
-title: "Sancionada lei que regulamenta vacinação em estabelecimentos privados"
+title: Sancionada lei que regulamenta vacinação em estabelecimentos privados
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Nova norma lista os direitos dos vacinados e as obrigações dos serviços privados.
 

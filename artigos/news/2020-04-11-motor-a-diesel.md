@@ -1,11 +1,12 @@
 ---
-title: "Motor a Diesel"
+title: Motor a Diesel
 date: 2020-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Motor a Diesel
 

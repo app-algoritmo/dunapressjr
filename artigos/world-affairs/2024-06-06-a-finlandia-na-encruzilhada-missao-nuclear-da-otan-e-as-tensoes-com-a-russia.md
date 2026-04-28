@@ -1,11 +1,12 @@
 ---
-title: "A Finlândia na Encruzilhada: Missão Nuclear da OTAN e as Tensões com a Rússia"
+title: 'A Finlândia na Encruzilhada: Missão Nuclear da OTAN e as Tensões com a Rússia'
 date: 2024-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A adesão da Finlândia à OTAN, acompanhada da possibilidade de implantação de mísseis nucleares americanos em seu território, levanta preocupações sobre a segurança regional e o futuro das relações internacionais na Europa. Em outubro de 2022, foi noticiado que a Finlândia permitiu a instalação de mísseis nucleares americanos em seu território, a apenas 507 milhas de Moscou. Esta decisão transformou a Finlândia em um alvo potencial para ataques russos em caso de um conflito nuclear.
 

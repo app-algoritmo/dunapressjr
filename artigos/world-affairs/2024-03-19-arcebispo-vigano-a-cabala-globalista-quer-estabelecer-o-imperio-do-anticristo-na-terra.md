@@ -1,11 +1,13 @@
 ---
-title: "Arcebispo Viganò: A cabala globalista quer estabelecer o império do Anticristo na terra"
+title: 'Arcebispo Viganò: A cabala globalista quer estabelecer o império do Anticristo
+  na terra'
 date: 2024-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 “Estes assassinos em breve terão que responder pelos seus crimes, se não perante o Tribunal Universal, pelo menos perante Deus”, escreveu o Arcebispo Carlo Maria Viganò.
 

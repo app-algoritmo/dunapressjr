@@ -1,11 +1,13 @@
 ---
-title: "Prazo estendido para pedidos de livros didáticos no sistema de reserva técnica pelo FNDE"
+title: Prazo estendido para pedidos de livros didáticos no sistema de reserva técnica
+  pelo FNDE
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Materiais serão distribuídos após a reabertura das escolas.
 

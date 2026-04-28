@@ -1,11 +1,13 @@
 ---
-title: "Alunos  brasileiros criam chiclete com pimenta para astronautas e ganham prêmio da Nasa"
+title: Alunos  brasileiros criam chiclete com pimenta para astronautas e ganham prêmio
+  da Nasa
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Quem diria que um chiclete de pimenta poderia ajudar astronautas a sentirem o gosto da comida e o cheiro das coisas no espaço? Essa é a criação dos estudantes do SESI Vila Canaã, em Goiânia. A equipe Gametech Canaã, formada por alunos do ensino médio, venceu um torneio de robótica na Universidade da Nasa, nos Estados Unidos, depois de apresentar o projeto.
 

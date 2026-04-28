@@ -1,11 +1,13 @@
 ---
-title: "Uma adição de inspiração biológica impede os danos causados ​​pelo congelamento e descongelamento do concreto"
+title: Uma adição de inspiração biológica impede os danos causados ​​pelo congelamento
+  e descongelamento do concreto
 date: 2020-06-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O concreto é um dos materiais de construção mais abundantes e duráveis ​​usados ​​nas infraestruturas modernas, mas possui uma fraqueza - o gelo - que pode causar a desintegração e fragmentação. Agora, inspirados por organismos que sobrevivem em ambientes abaixo de zero, os pesquisadores do Colorado estão introduzindo moléculas de polímero com habilidades anticongelantes no concreto. O método, que testa se o novo concreto pode impedir os danos causados ​​pelo congelamento e degelo.
 

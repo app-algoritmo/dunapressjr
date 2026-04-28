@@ -1,11 +1,12 @@
 ---
-title: "Pressão dos EUA sobre Rússia e China é 'inútil', diz Kremlin"
+title: Pressão dos EUA sobre Rússia e China é 'inútil', diz Kremlin
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Dmitry Peskov destacou que “há certamente certas nuances na posição da China em relação à Ucrânia”, mas a Rússia está “unida à China pela semelhança ideológica absoluta nas suas opiniões sobre assuntos globais”.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministra dos Negócios Estrangeiros francês pede ao Irã que interrompa 'atos desestabilizadores'"
+title: Ministra dos Negócios Estrangeiros francês pede ao Irã que interrompa 'atos
+  desestabilizadores'
 date: 2024-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A ministra das Relações Exteriores da França, Catherine Colonna, exigiu de seu homólogo iraniano, Hossein Amir-Abdollahian, que "o Irã e seus afiliados" cessassem os "atos desestabilizadores" que representam um risco significativo de escalada do conflito regional no Oriente Médio.
 

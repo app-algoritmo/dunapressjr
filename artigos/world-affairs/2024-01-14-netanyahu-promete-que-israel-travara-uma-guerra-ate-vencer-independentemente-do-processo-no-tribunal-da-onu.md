@@ -1,11 +1,13 @@
 ---
-title: "Netanyahu promete que Israel travará uma guerra até vencer, independentemente do processo no tribunal da ONU"
+title: Netanyahu promete que Israel travará uma guerra até vencer, independentemente
+  do processo no tribunal da ONU
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “O Estado de Israel, as Forças de Defesa de Israel e as forças de segurança israelitas estão a travar uma guerra moral e justa contra os monstros do Hamas”, disse o primeiro-ministro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Urgente: Organização internacional de jornalismo ataca e culpa Bolsonaro e Trump por clima de ódio"
+title: 'Urgente: Organização internacional de jornalismo ataca e culpa Bolsonaro e
+  Trump por clima de ódio'
 date: 2020-06-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## RFS é a raiz do problema e da disseminação da desinformação contra os PRs Bolsonaro e Trump.
 

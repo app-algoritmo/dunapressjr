@@ -1,12 +1,13 @@
 ---
-title: "Nestlé: Revelando os Segredos Sombrios da Gigante Alimentícia"
+title: 'Nestlé: Revelando os Segredos Sombrios da Gigante Alimentícia'
 date: 2023-10-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
-  - Social networks
+- Food
+- Social networks
 ---
+
 
 Nas últimas semanas, um vídeo intitulado "Nestlé: O Negócio mais DIABÓLICO que existe…" tem viralizado nas redes sociais, provocando discussões acaloradas e gerando preocupações sobre as práticas da gigante alimentícia Nestlé. O vídeo, um webdocumentário, alega que jovens podem ganhar dinheiro significativo com apenas três horas de trabalho por dia, criando vídeos para o YouTube. No entanto, mais do que promessas de lucros fáceis, o vídeo explora os segredos sombrios da Nestlé, revelando por que muitos a consideram a empresa mais maligna do mundo.
 

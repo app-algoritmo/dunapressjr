@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val denuncia uso da PF para perseguir brasileiros de direita"
+title: Marcos do Val denuncia uso da PF para perseguir brasileiros de direita
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (18), o senador Marcos do Val (Podemos-ES) fez denúncias contra o ministro da Justiça, Flávio Dino, em relação a uma suposta instrumentalização da Polícia Federal para perseguir membros de grupos de direita. O parlamentar afirmou que o ministro estaria replicando práticas que já adotava no Maranhão, onde foi governador, utilizando a polícia local para atender a seus interesses.
 

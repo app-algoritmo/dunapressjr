@@ -1,11 +1,13 @@
 ---
-title: "EUA anunciam novo pacote de ajuda militar de 300 milhões de dólares para a Ucrânia"
+title: EUA anunciam novo pacote de ajuda militar de 300 milhões de dólares para a
+  Ucrânia
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Administração dos Estados Unidos revelou nesta terça-feira um novo pacote de ajuda militar no valor de 300 milhões de dólares para as Forças Armadas da Ucrânia, utilizando fundos provenientes de economias nos contratos de armas do Pentágono. Jake Sullivan, conselheiro de Segurança Nacional da Casa Branca, detalhou o pacote durante uma conferência de imprensa, destacando que inclui munições de artilharia, mísseis antiaéreos e sistemas anti-blindados, entre outras capacidades essenciais.
 

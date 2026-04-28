@@ -1,11 +1,12 @@
 ---
-title: "PF prende suspeito de atuar na logística do garimpo em terra indígena ianomâmi"
+title: PF prende suspeito de atuar na logística do garimpo em terra indígena ianomâmi
 date: 2020-07-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR – A Polícia Federal prendeu em flagrante, nesta sexta-feira (3/7), um suspeito de atuar na logística aérea para apoio a atividades de mineração ilegal em reserva indígena ianomâmi e de ser proprietário de garimpo na região.
 

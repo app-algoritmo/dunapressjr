@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido vai parar de prescrever bloqueadores de puberdade para crianças com disforia de gênero"
+title: Reino Unido vai parar de prescrever bloqueadores de puberdade para crianças
+  com disforia de gênero
 date: 2023-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Reino Unido está [tomando medidas para deixar de prescrever rotineiramente bloqueadores de puberdade](https://redstate.com/jeffc/2023/06/09/game-changer-united-kingdom-stops-routine-prescribing-of-puberty-blockers-to-kids-n758813) para crianças que sofrem de disforia de gênero.
 

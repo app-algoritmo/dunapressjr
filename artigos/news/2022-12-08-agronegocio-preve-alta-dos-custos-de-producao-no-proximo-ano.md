@@ -1,11 +1,12 @@
 ---
-title: "Agronegócio prevê alta dos custos de produção no próximo ano"
+title: Agronegócio prevê alta dos custos de produção no próximo ano
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## CNA apresentou balanço da atividade agropecuária em 2022.
 

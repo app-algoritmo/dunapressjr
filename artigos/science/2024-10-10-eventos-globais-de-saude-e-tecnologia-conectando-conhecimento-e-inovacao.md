@@ -1,12 +1,13 @@
 ---
-title: "Eventos Globais de Saúde e Tecnologia: Conectando Conhecimento e Inovação"
+title: 'Eventos Globais de Saúde e Tecnologia: Conectando Conhecimento e Inovação'
 date: 2024-10-10
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 Entre setembro e outubro de 2024, diversos eventos, congressos e feiras profissionais significativos ocorreram nas áreas de saúde e tecnologia em todo o mundo. Esses encontros serviram como plataformas para troca de conhecimentos, networking e a apresentação das mais recentes inovações tecnológicas no setor.
 

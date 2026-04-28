@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe pela quinta vez seguida e fecha a R$ 5,08"
+title: Dólar sobe pela quinta vez seguida e fecha a R$ 5,08
 date: 2021-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 0,55% em dia de feriado nos EUA.
 

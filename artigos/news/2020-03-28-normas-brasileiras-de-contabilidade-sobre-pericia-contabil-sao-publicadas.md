@@ -1,11 +1,12 @@
 ---
-title: "Normas Brasileiras de Contabilidade sobre perícia contábil são publicadas"
+title: Normas Brasileiras de Contabilidade sobre perícia contábil são publicadas
 date: 2020-03-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foram publicadas no Diário Oficial da União (DOU), desta
 sexta-feira (27), as Normas Brasileiras de Contabilidade NBC TP 01 (R1), que

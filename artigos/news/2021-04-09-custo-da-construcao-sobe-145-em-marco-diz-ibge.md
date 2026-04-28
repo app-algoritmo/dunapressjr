@@ -1,11 +1,12 @@
 ---
-title: "Custo da construção sobe 1,45% em março, diz IBGE"
+title: Custo da construção sobe 1,45% em março, diz IBGE
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula inflação de 4,84% no ano e de 14,46% em 12 meses.
 

@@ -1,11 +1,13 @@
 ---
-title: "IGP-M acelera em outubro, atingindo 0,50% e sinalizando mudanças no cenário econômico"
+title: IGP-M acelera em outubro, atingindo 0,50% e sinalizando mudanças no cenário
+  econômico
 date: 2023-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Commodities e Alimentação desempenham papéis cruciais na trajetória do índice.
 

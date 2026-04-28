@@ -1,11 +1,12 @@
 ---
-title: "Marinha participa de mais um exercício de segurança marítima no Golfo da Guiné"
+title: Marinha participa de mais um exercício de segurança marítima no Golfo da Guiné
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Navio-Patrulha Oceânico “Amazonas” realiza atividades com Marinhas de países da costa africana.
 

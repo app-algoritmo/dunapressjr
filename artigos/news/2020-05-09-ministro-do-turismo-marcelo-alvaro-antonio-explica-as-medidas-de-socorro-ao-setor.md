@@ -1,11 +1,13 @@
 ---
-title: "Ministro do Turismo, Marcelo Álvaro Antônio, explica as medidas de socorro ao setor"
+title: Ministro do Turismo, Marcelo Álvaro Antônio, explica as medidas de socorro
+  ao setor
 date: 2020-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia Nacional do Turismo, o ministro da pasta, Marcelo Álvaro Antônio, anunciou ações do Governo Federal para socorrer o setor, segundo ele, o mais afetado até este momento pela pandemia do novo coronavírus. O ministro falou durante a coletiva de imprensa desta sexta-feira (8) no Palácio do Planalto.
 

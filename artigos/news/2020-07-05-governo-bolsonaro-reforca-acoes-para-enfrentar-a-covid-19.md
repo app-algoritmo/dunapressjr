@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro reforça ações para enfrentar a Covid-19"
+title: Governo Bolsonaro reforça ações para enfrentar a Covid-19
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal assumiu o compromisso com a população brasileira para garantir a efetividade de ações de enfrentamento da Covid-19 desde o início da pandemia. Foi instituído o Comitê de Operações de Emergência (COE), que produz, de forma integrada entre as secretarias do Ministério da Saúde e a gestão tripartite, uma série de orientações e protocolos que obedecem a critérios técnicos e embasam a gestão da pasta na tomada de decisões estratégicas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo libera mais de R$ 32 milhões para obra em Petrolina (PE)"
+title: Ministério do Turismo libera mais de R$ 32 milhões para obra em Petrolina (PE)
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Durante visita à cidade, Álvaro Antônio inaugurou a primeira etapa de revitalização do bodódromo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Concurso internacional de arquitetura para reconstrução de Notre-Dame de Paris"
+title: Concurso internacional de arquitetura para reconstrução de Notre-Dame de Paris
 date: 2019-04-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Primeiro-Ministro da França anunciou hoje lançamento de um concurso internacional de arquitetura para reconstrução da torre da Catedral de Notre-Dame. 
 

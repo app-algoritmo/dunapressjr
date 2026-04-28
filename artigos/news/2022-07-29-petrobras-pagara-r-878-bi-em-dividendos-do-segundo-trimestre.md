@@ -1,11 +1,12 @@
 ---
-title: "Petrobras pagará R$ 87,8 bi em dividendos do segundo trimestre"
+title: Petrobras pagará R$ 87,8 bi em dividendos do segundo trimestre
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### União receberá R$ 32,1 bi, elevando a R$ 49 bi total recebido no ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fed eleva taxa básica em 0,25 ponto"
+title: Fed eleva taxa básica em 0,25 ponto
 date: 2023-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## BC dos EUA destaca que política monetária precisa ficar em terreno restritivo para inflação voltar à meta.
 

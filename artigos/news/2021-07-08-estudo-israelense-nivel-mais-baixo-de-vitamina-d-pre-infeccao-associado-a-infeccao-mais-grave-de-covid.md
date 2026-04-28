@@ -1,11 +1,13 @@
 ---
-title: "Estudo israelense: nível mais baixo de vitamina D pré-infecção associado a infecção mais grave de Covid"
+title: 'Estudo israelense: nível mais baixo de vitamina D pré-infecção associado a
+  infecção mais grave de Covid'
 date: 2021-07-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Bar-Ilan U, pesquisadores do Galilee Medical Center encontraram associação de baixos níveis de vitamina D pré-infecção com infecção por Covid-19 mais grave.
 

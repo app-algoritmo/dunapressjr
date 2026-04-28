@@ -1,11 +1,13 @@
 ---
-title: "Carne cultivada a partir de células de frango em laboratórios deve assumir os restaurantes e supermercados dos EUA com o início do Global Food RESET"
+title: Carne cultivada a partir de células de frango em laboratórios deve assumir
+  os restaurantes e supermercados dos EUA com o início do Global Food RESET
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Algumas grandes questões presidem se a nova carne de frango “cultivada” falsa será rotulada como tal quando for servida em todos os principais restaurantes e vendida em supermercados em todo o país em breve, agora que foi aprovada para “fabricação” de células de frango em laboratório. . Os defensores da saúde natural chamam isso [de carne de Franken](https://www.zerohedge.com/technology/lab-grown-meat-gets-green-light-us-menus) , porque apenas o próprio *Frankenstein*  seria burro o suficiente para comer coisas experimentais, preparadas em laboratório e feitas de células de frango, lixo da ciência.
 

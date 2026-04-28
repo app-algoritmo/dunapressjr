@@ -1,11 +1,12 @@
 ---
-title: "O que o CRM estratégico pode fazer pelo seu negócio?"
+title: O que o CRM estratégico pode fazer pelo seu negócio?
 date: 2022-08-01
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Não adianta fugir: a tecnologia ajuda todo negócio a crescer mais no mercado. Assim como o CRM estratégico, ela tem como foco aumentar a produtividade das equipes e fornecer dados para um melhor gerenciamento da área.
 

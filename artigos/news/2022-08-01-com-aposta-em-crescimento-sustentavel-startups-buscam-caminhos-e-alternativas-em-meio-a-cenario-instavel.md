@@ -1,11 +1,13 @@
 ---
-title: "Com aposta em crescimento sustentável, startups buscam caminhos e alternativas em meio a cenário instável"
+title: Com aposta em crescimento sustentável, startups buscam caminhos e alternativas
+  em meio a cenário instável
 date: 2022-08-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Até 2021, as *startups* brasileiras viveram um período de euforia. Juntas, elas captaram US$ 9,4 bilhões ao longo do ano, segundo dados da empresa de inovação Distrito. O que alimentou contratações e expansão de atividades, mas não permitiu perceber riscos que se materializaram posteriormente. A escalada dos juros têm deixado os fundos de *venture capital*, patrocinadores tradicionais desse mercado, receosos em assinar cheques. No último mês de maio, as *startups* brasileiras captaram US$ 298,5 milhões, uma queda de cerca de 60% em relação aos US$ 772,6 milhões registrados em maio de 2021.
 

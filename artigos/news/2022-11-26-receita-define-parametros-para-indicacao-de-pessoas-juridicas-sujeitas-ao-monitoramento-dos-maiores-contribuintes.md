@@ -1,11 +1,13 @@
 ---
-title: "Receita define parâmetros para indicação de pessoas jurídicas sujeitas ao monitoramento dos maiores contribuintes"
+title: Receita define parâmetros para indicação de pessoas jurídicas sujeitas ao monitoramento
+  dos maiores contribuintes
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ato também atualiza valores dos parâmetros de indicação para acompanhamento diferenciado em 2023.
 

@@ -1,11 +1,13 @@
 ---
-title: "MJSP libera aos estados e DF R$ 502 milhões para investimentos em segurança pública"
+title: MJSP libera aos estados e DF R$ 502 milhões para investimentos em segurança
+  pública
 date: 2020-06-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública (MJSP) liberou aos 26 estados e Distrito Federal, R$ 502 milhões para investimentos na área de segurança pública. São recursos do Fundo Nacional de Segurança Pública (FNSP) repassados diretamente aos fundos estaduais e distrital. O valor deverá ser investido na compra de equipamentos modernos, novas tecnologias, viaturas mais seguras, capacitações dos profissionais de segurança pública, entre outros.
 

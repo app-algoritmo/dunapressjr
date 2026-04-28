@@ -1,11 +1,12 @@
 ---
-title: "Epilepsia: conheça a doença e os tratamentos disponíveis"
+title: 'Epilepsia: conheça a doença e os tratamentos disponíveis'
 date: 2022-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com a Organização Mundial de Saúde (OMS), a doença acomete cerca de 2% da população brasileira e cerca de 50 milhões de pessoas no mundo. A epilepsia é uma alteração temporária e reversível do funcionamento do cérebro, que não é causada por febre, drogas ou distúrbios metabólicos. Durante alguns segundos ou minutos, uma parte do cérebro emite sinais incorretos, que podem ficar restritos a esse local ou espalhar-se.
 

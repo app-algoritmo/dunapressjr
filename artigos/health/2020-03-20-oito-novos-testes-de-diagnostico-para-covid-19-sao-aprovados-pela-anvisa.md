@@ -1,11 +1,12 @@
 ---
-title: "Oito novos testes de diagnóstico para Covid-19 são aprovados pela Anvisa"
+title: Oito novos testes de diagnóstico para Covid-19 são aprovados pela Anvisa
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Oito kits específicos para o diagnóstico do novo coronavírus (Covid-19) foram aprovados pela Agência Nacional de Vigilância Sanitária (Anvisa). São testes rápidos onde os resultados podem ser verificados em até 15 minutos. A leitura do diagnóstico deve ser feita por um profissional de saúde, com auxílio de informações clínicas do paciente e de outros exames.  A oferta e a produção dos kits irão depender da capacidade de cada empresa que recebeu o registro para comercialização do produto no Brasil.
 

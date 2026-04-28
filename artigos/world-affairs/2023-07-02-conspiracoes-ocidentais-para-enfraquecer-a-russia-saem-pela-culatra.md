@@ -1,11 +1,12 @@
 ---
-title: "Conspirações ocidentais para enfraquecer a Rússia saem pela culatra"
+title: Conspirações ocidentais para enfraquecer a Rússia saem pela culatra
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Um analista político argumenta que os planos ocidentais para enfraquecer Moscou saíram pela culatra e acabaram enfraquecendo a União Europeia em vez da Rússia.
 

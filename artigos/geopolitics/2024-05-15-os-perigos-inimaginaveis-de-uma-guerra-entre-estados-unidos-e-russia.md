@@ -1,11 +1,12 @@
 ---
-title: "Os Perigos Inimagináveis de uma Guerra entre Estados Unidos e Rússia"
+title: Os Perigos Inimagináveis de uma Guerra entre Estados Unidos e Rússia
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Num mundo cada vez mais interconectado e interdependente, a ideia de uma guerra entre duas potências nucleares como os Estados Unidos e a Rússia é assustadora, para dizer o mínimo. Os impactos de um conflito armado entre essas nações transcenderiam fronteiras e afetariam todas as facetas da vida global.
 

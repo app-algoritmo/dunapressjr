@@ -1,11 +1,12 @@
 ---
-title: "Projeto permite concessão de reajuste de 9% aos servidores do Executivo"
+title: Projeto permite concessão de reajuste de 9% aos servidores do Executivo
 date: 2023-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei do Congresso Nacional (PLN) 2/23, do Poder Executivo, que viabiliza a concessão de um reajuste de 9% aos servidores do Executivo a partir de maio. O impacto neste ano será de R$ 11,6 bilhões e já estava praticamente todo incluído no Orçamento de 2023.
 

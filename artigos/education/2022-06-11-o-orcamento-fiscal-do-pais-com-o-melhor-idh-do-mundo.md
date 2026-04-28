@@ -1,13 +1,14 @@
 ---
-title: "O Orçamento Fiscal do país com o melhor IDH do mundo"
+title: O Orçamento Fiscal do país com o melhor IDH do mundo
 date: 2022-06-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Magazine
-  - Policy
+- Education
+- Magazine
+- Policy
 ---
+
 
 ## Na Noruega, O **Orçamento Fiscal** anual ou simplesmente o Orçamento – é uma das responsabilidades mais importantes do parlamento, conheça algumas informações sobre como e quando o Orçamento é considerado e aprovado.
 

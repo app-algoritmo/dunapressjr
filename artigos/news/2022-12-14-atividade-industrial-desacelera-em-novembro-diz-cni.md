@@ -1,11 +1,12 @@
 ---
-title: "Atividade industrial desacelera em novembro, diz CNI"
+title: Atividade industrial desacelera em novembro, diz CNI
 date: 2022-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção industrial ficou em 48,7 pontos.
 

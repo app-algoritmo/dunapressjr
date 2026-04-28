@@ -1,11 +1,12 @@
 ---
-title: "IBGE: 70% das indústrias investiram em inovação em 2021"
+title: 'IBGE: 70% das indústrias investiram em inovação em 2021'
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova pesquisa Pintec avalia indústria extrativista e de transformação.
 

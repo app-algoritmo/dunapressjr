@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova regulamentação da profissão de sanitarista"
+title: CCJ aprova regulamentação da profissão de sanitarista
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, na quarta-feira (14), proposta que regulamenta a profissão de sanitarista. Segundo o texto, o exercício da profissão passará a exigir registro prévio em órgão competente do Sistema Único de Saúde (SUS). Para se registrar, o profissional deverá apresentar documentos que comprovem a qualificação exigida ou experiência profissional na área.
 

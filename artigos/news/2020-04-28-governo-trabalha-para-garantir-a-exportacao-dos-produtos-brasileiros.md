@@ -1,11 +1,12 @@
 ---
-title: "Governo trabalha para garantir a exportação dos produtos brasileiros"
+title: Governo trabalha para garantir a exportação dos produtos brasileiros
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal vem adotando medidas que visam assegurar alimentos para a mesa dos brasileiros e para exportação em meio à pandemia do novo coronavírus.
 

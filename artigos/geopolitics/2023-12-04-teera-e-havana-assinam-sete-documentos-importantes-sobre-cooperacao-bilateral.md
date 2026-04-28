@@ -1,11 +1,12 @@
 ---
-title: "Teerã e Havana assinam sete documentos importantes sobre cooperação bilateral"
+title: Teerã e Havana assinam sete documentos importantes sobre cooperação bilateral
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Especifica-se que os memorandos e documentos assinados pelo Irão e Cuba abordam as áreas da ciência, tecnologia, saúde, agricultura, energia, mineração, comunicações e medicina.
 

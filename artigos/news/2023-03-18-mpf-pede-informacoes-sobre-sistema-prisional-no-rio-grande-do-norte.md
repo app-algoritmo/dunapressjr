@@ -1,11 +1,12 @@
 ---
-title: "MPF pede informações sobre sistema prisional no Rio Grande do Norte"
+title: MPF pede informações sobre sistema prisional no Rio Grande do Norte
 date: 2023-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estado vive onda de atentados praticados por organização criminosa.
 

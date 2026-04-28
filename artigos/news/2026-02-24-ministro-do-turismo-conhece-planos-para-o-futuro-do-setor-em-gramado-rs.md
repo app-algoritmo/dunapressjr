@@ -1,11 +1,12 @@
 ---
-title: "Ministro do Turismo conhece planos para o futuro do setor em Gramado (RS)"
+title: Ministro do Turismo conhece planos para o futuro do setor em Gramado (RS)
 date: 2026-02-24
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Roteiros de cicloturismo, rota turística inteligente e gestão de experiência e sustentabilidade estão entre as ações.
 

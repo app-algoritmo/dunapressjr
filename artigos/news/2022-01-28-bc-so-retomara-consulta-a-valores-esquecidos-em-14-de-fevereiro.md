@@ -1,11 +1,12 @@
 ---
-title: "BC só retomará consulta a valores esquecidos em 14 de fevereiro"
+title: BC só retomará consulta a valores esquecidos em 14 de fevereiro
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Transferências só poderão ser agendadas a partir de 7 de março.
 

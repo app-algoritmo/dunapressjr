@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro participou da inauguração de Hospital de Campanha em Goiás para pacientes com Covid-19"
+title: Presidente Jair Bolsonaro participou da inauguração de Hospital de Campanha
+  em Goiás para pacientes com Covid-19
 date: 2020-06-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, participou, nesta sexta-feira (5), da inauguração do primeiro hospital de campanha construído pelo Governo Federal para atender pacientes com Covid-19. A unidade fica em Águas Lindas de Goiás (GO). 
 

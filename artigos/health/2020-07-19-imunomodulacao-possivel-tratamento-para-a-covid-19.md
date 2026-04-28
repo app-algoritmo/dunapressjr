@@ -1,11 +1,12 @@
 ---
-title: "Imunomodulação: possível tratamento para a COVID-19?"
+title: 'Imunomodulação: possível tratamento para a COVID-19?'
 date: 2020-07-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A COVID-19, doença causada pelo novo coronavírus (SARS-CoV-2), é responsável pela crise global de saúde mais importante desde a gripe espanhola em 1918. No entanto, a severidade da doença varia consideravelmente de pessoa para pessoa. Por exemplo, muitos desenvolvem sintomas semelhantes a uma gripe leve, enquanto alguns apresentam forte crise respiratória que pode levar à morte.
 

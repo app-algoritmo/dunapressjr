@@ -1,11 +1,12 @@
 ---
-title: "Festa Della Liberazione 2° Edição"
+title: Festa Della Liberazione 2° Edição
 date: 2019-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Festa Della Liberazione comemorada na Itália em
 abril, terá sua comemoração realizada através do Instituto Padre Pedro Stepien,

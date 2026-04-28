@@ -1,11 +1,12 @@
 ---
-title: "Disney anuncia reformulação estratégica em seu calendário de filmes e séries"
+title: Disney anuncia reformulação estratégica em seu calendário de filmes e séries
 date: 2024-02-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Em uma jogada estratégica, a gigante do entretenimento está ajustando seu foco, diminuindo a produção de novos conteúdos originais e concentrando-se nas ricas histórias e personagens já existentes.
 

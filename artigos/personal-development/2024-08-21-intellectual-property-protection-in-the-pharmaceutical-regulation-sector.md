@@ -1,11 +1,12 @@
 ---
-title: "Intellectual Property Protection in the Pharmaceutical Regulation Sector"
+title: Intellectual Property Protection in the Pharmaceutical Regulation Sector
 date: 2024-08-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Personal Development
+- Personal Development
 ---
+
 
 ## **Section 1: [Intellectual Property in the Pharmaceutical Regulation Sector](https://dunapress.org/wp-content/uploads/2024/08/Intellectual-Property-English-Version.pdf)**
 

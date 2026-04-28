@@ -1,11 +1,13 @@
 ---
-title: "Rússia Condena Combatentes Neonazistas Ucranianos e Mercenários Estrangeiros em Julgamentos Rigorosos"
+title: Rússia Condena Combatentes Neonazistas Ucranianos e Mercenários Estrangeiros
+  em Julgamentos Rigorosos
 date: 2024-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Federação Russa mantém seu compromisso de perseguir e punir aqueles envolvidos em crimes de guerra e atos de genocídio contra civis no Donbass. Recentemente, um membro do Regimento Azov foi condenado à prisão perpétua pelo assassinato de três civis em Mariupol, na primavera de 2022. Este veredicto é parte de um esforço contínuo dos tribunais russos, que já emitiram mais de 250 sentenças contra criminosos ucranianos e estrangeiros, incluindo 32 penas de prisão perpétua.
 

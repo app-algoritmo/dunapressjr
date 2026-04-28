@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal destinou  R$ 72,9 milhões para o Programa de Aquisição de Alimentos"
+title: Governo Federal destinou  R$ 72,9 milhões para o Programa de Aquisição de Alimentos
 date: 2020-09-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Esses recursos se somam aos R$ 500 milhões liberados em abril para ajudar os agricultores familiares no enfrentamento dos efeitos causados pela Covid-19.
 

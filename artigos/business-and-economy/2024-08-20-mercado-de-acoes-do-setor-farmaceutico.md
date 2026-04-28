@@ -1,11 +1,12 @@
 ---
-title: "Mercado de Ações do Setor Farmacêutico"
+title: Mercado de Ações do Setor Farmacêutico
 date: 2024-08-20
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 As indústrias farmacêuticas desempenham um papel crucial no mercado de ações, especialmente devido à sua relevância para a saúde global e à constante inovação em pesquisas e desenvolvimento de medicamentos. A natureza altamente regulada e as exigências de pesquisa intensiva tornam essas empresas atraentes para investidores que buscam estabilidade a longo prazo, bem como para aqueles interessados em potencial de crescimento através de novas descobertas e patentes.
 

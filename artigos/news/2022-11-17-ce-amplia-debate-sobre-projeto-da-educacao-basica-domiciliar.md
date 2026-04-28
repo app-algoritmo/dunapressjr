@@ -1,11 +1,12 @@
 ---
-title: "CE amplia debate sobre projeto da educação básica domiciliar"
+title: CE amplia debate sobre projeto da educação básica domiciliar
 date: 2022-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O debate interativo foi conduzido pelo senador Flávio Arns (Podemos-PR).
 

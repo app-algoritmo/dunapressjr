@@ -1,11 +1,12 @@
 ---
-title: "Cuidados com a saúde das articulações e coluna no home office"
+title: Cuidados com a saúde das articulações e coluna no home office
 date: 2026-04-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Desde o começo da pandemia, a maioria dos trabalhos alteraram o seu modelo para o **home office**, isto é, uma modalidade na qual todos os colaboradores têm a oportunidade de trabalhar em casa.
 

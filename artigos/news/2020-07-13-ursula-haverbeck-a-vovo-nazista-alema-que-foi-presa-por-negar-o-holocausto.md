@@ -1,11 +1,12 @@
 ---
-title: "Ursula Haverbeck: A 'vovó nazista' alemã que foi presa por negar o Holocausto"
+title: 'Ursula Haverbeck: A ''vovó nazista'' alemã que foi presa por negar o Holocausto'
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A "avó nazista" Ursula Haverbeck foi condenada por incitação a um tribunal na cidade de Verden, no norte de 2017, e começou a cumprir sua sentença em 2018.
 

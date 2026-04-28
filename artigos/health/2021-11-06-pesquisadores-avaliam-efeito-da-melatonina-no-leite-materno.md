@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores avaliam efeito da melatonina no leite materno"
+title: Pesquisadores avaliam efeito da melatonina no leite materno
 date: 2021-11-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sintetizada pela glândula pineal, localizada no cérebro, a melatonina tem papel relevante para o funcionamento do organismo humano. É um hormônio natural, secretado principalmente à noite, na ausência de luz, e distribuído para vários tecidos do corpo. Relacionado diretamente com o chamado ‘relógio biológico’ de cada pessoa, possui  propriedades anti-inflamatórias, antioxidantes, anticancerígenas, e também afeta a qualidade do sono e do humor. A baixa quantidade dessa substância em mulheres que acabaram de ter bebês pode ser uma das causas do estresse, da ansiedade e da depressão no pós-parto.
 

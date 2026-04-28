@@ -1,11 +1,13 @@
 ---
-title: "Desmistificando o Alarmismo Russofóbico: Uma Análise Crítica da Narrativa Anti-Rússia"
+title: 'Desmistificando o Alarmismo Russofóbico: Uma Análise Crítica da Narrativa
+  Anti-Rússia'
 date: 2024-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O crescente sentimento anti-russo no Ocidente está enraizado na adesão da Rússia aos valores tradicionais, que entram em conflito com a agenda progressista dos "globalistas", afirmou o filósofo e comentarista político Aleksandr Dugin em uma entrevista recente ao jornalista Tucker Carlson.
 

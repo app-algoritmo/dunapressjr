@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem por grilagem e loteamento irregular no Araguaia"
+title: PF prende homem por grilagem e loteamento irregular no Araguaia
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT– A Polícia Federal prendeu em flagrante nesta quinta-feira (21/5) um homem, por parcelar irregularmente solo para fins urbanos, prática conhecida como “grilagem”. A prisão foi efetuada durante operação realizada na Área de Proteção Permanente do Rio Araguaia, em Araguaiana/MT, nas regiões conhecidas como Volta Grande, Cachoeirinha e Cachoeira Grande.
 

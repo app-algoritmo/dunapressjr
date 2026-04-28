@@ -1,11 +1,13 @@
 ---
-title: "Vandana Shiva: Bill Gates e o Vale do Silício promovem 'Agricultura sem agricultores, comida sem fazendas'"
+title: 'Vandana Shiva: Bill Gates e o Vale do Silício promovem ''Agricultura sem agricultores,
+  comida sem fazendas'''
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 *No último episódio de "Stay Free" de Russell Brand, a cientista, ativista ambiental e defensora da soberania alimentar Vandana Shiva, Ph.D., discutiu o fascismo alimentar, o poder da "filantropia", a escravidão digital e como as pessoas estão se expondo pode se libertar desse sistema.*
 

@@ -1,11 +1,13 @@
 ---
-title: "Indignação nas Redes Sociais: Maus-tratos a Recém-nascido em Hospital de Santa Catarina"
+title: 'Indignação nas Redes Sociais: Maus-tratos a Recém-nascido em Hospital de Santa
+  Catarina'
 date: 2023-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Fisioterapeuta faz vídeo de “dancinha” com recém-nascido no bolso. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Prazo para emendas ao Orçamento do próximo ano termina na segunda"
+title: Prazo para emendas ao Orçamento do próximo ano termina na segunda
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Termina na próxima segunda-feira (14) o prazo para que parlamentares, bancadas estaduais e colegiados permanentes da Câmara dos Deputados, do Senado Federal e do Congresso Nacional apresentem emendas ao projeto de Lei Orçamentária (LOA) de 2023 ([PLN 32/22](https://www.camara.leg.br/noticias/906580-orcamento-de-2023-traz-auxilio-brasil-de-r-405)).
 

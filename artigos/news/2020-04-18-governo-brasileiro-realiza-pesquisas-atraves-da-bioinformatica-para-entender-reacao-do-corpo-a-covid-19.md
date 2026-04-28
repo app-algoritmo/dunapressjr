@@ -1,11 +1,13 @@
 ---
-title: "Governo Brasileiro realiza pesquisas através da Bioinformática para entender reação do corpo à COVID-19"
+title: Governo Brasileiro realiza pesquisas através da Bioinformática para entender
+  reação do corpo à COVID-19
 date: 2020-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Modelos em 3D podem ajudar na elaboração de uma vacina contra o novo coronavírus. Bolsista e ex-bolsista da CAPES integram a pesquisa da UFRGS e Unilasalle.
 

@@ -1,11 +1,13 @@
 ---
-title: "Moro discute medidas anti-Covid com secretários de administração penitenciária de todo o país"
+title: Moro discute medidas anti-Covid com secretários de administração penitenciária
+  de todo o país
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, Sergio Moro, participou, nesta quinta (16), de uma reunião por videoconferência com secretários de administração penitenciária de todo o País e representantes do Conselho Nacional dos Secretários de Estado da Justiça, Cidadania, Direitos Humanos e Administração Penitenciária (Consej). Na pauta a atualização das medidas de proteção contra o coronavírus que estão sendo adotadas nos presídios.
 

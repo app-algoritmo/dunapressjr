@@ -1,12 +1,13 @@
 ---
-title: "Desdobramentos da Operação Tempus Veritatis: O Dia que Abalou a Política Brasileira"
+title: 'Desdobramentos da Operação Tempus Veritatis: O Dia que Abalou a Política Brasileira'
 date: 2024-02-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - Social networks
+- Policy
+- Social networks
 ---
+
 
 Por determinação do Supremo Tribunal Federal (STF), uma série de mandados de busca e apreensão e prisões preventivas estão sendo executados em nove estados e no Distrito Federal. A Operação Tempus Veritatis, desencadeada nesta quinta-feira, 8 de fevereiro, pela Polícia Federal, tem como alvo figuras proeminentes da política e das Forças Armadas brasileiras.
 

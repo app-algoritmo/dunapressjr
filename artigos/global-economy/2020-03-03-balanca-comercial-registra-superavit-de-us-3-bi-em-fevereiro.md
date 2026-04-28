@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial registra superávit de US$ 3 bi em fevereiro"
+title: Balança comercial registra superávit de US$ 3 bi em fevereiro
 date: 2020-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Exportações chegaram a US$ 16,355 bilhões, com aumento de 15,5% em relação a fevereiro de 2019, e de 38,4% sobre janeiro de 2020
 

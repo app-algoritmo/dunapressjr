@@ -1,11 +1,12 @@
 ---
-title: "CNC: Intenção de consumo cresce, mas otimismo perde fôlego"
+title: 'CNC: Intenção de consumo cresce, mas otimismo perde fôlego'
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Avaliação da renda atual se mantém estável, e famílias apontam mais dificuldade de acesso ao crédito; otimismo do público feminino avançou mais.
 

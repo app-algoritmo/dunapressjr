@@ -1,11 +1,12 @@
 ---
-title: "PF e Receita miram contribuintes que fraudaram dados"
+title: PF e Receita miram contribuintes que fraudaram dados
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa é que prejuízo ao erário chegue a R$ 62 milhões.
 

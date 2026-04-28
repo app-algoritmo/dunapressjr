@@ -1,11 +1,13 @@
 ---
-title: "David Martin: Não houve doença SARS-Cov2, apenas um conjunto de sintomas e uma campanha de marca"
+title: 'David Martin: Não houve doença SARS-Cov2, apenas um conjunto de sintomas e
+  uma campanha de marca'
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Dr David Martin foi apontado como prova de que "a SARS foi desenvolvida por pessoas no laboratório da Universidade da Carolina do Norte e depois usada como uma arma para atacar pessoas" **. de sintomas e uma campanha de branding** “ aí. Simplificando, **é um vírus falso** que foi usado apenas para convencer muitas pessoas a serem vacinadas.
 

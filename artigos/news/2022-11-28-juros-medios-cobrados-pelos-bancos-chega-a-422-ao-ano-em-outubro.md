@@ -1,11 +1,12 @@
 ---
-title: "Juros médios cobrados pelos bancos chega a 42,2% ao ano em outubro"
+title: Juros médios cobrados pelos bancos chega a 42,2% ao ano em outubro
 date: 2022-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Endividamento das famílias ficou em 49,9% em setembro.
 

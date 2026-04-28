@@ -1,12 +1,14 @@
 ---
-title: "Descubra como ficar anônimo usando o Tails, um sistema recomendado por Edward Snowden"
+title: Descubra como ficar anônimo usando o Tails, um sistema recomendado por Edward
+  Snowden
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
-  - Technology
+- Social networks
+- Technology
 ---
+
 
 ## Protegendo sua Privacidade Online: O Poder do Tails
 

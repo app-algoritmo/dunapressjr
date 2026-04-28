@@ -1,11 +1,12 @@
 ---
-title: "Anac autoriza testes para deliverys feitos com drones"
+title: Anac autoriza testes para deliverys feitos com drones
 date: 2020-08-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para realizar os voos experimentais, o operador da precisa seguir as regras previstas no Regulamento Brasileiro de Aviação Civil Especial.
 

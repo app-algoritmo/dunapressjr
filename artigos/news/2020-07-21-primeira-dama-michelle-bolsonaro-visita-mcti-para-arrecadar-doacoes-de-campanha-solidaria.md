@@ -1,11 +1,13 @@
 ---
-title: "Primeira Dama Michelle Bolsonaro visita MCTI para arrecadar doações de campanha solidária"
+title: Primeira Dama Michelle Bolsonaro visita MCTI para arrecadar doações de campanha
+  solidária
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A primeira-dama, Michelle Bolsonaro, esteve nessa segunda-feira, 20, no ministério da Ciência Tecnologia e Inovações (MCTI) para receber as doações de cobertores e sandálias da campanha “Arrecadação Solidária”. Michelle, que é coordenadora do programa Pátria Voluntária veio receber o material que foi arrecadado pelo MCTI.
 

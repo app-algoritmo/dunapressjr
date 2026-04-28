@@ -1,11 +1,12 @@
 ---
-title: "Judeus oram no Monte do Templo durante o Tisha B'Av"
+title: Judeus oram no Monte do Templo durante o Tisha B'Av
 date: 2021-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## PM permite que os judeus continuem a visitar o Monte do Templo; Protesto do Movimento Islâmico e da Lista Árabe Unida: 'O Monte do Templo está sob propriedade islâmica.'
 

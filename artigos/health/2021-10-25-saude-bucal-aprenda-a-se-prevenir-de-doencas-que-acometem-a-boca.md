@@ -1,11 +1,12 @@
 ---
-title: "Saúde bucal: aprenda a se prevenir de doenças que acometem a boca"
+title: 'Saúde bucal: aprenda a se prevenir de doenças que acometem a boca'
 date: 2021-10-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Muitas pessoas cuidam da saúde do corpo, mas esquecem uma importante parte dele: a boca. Escovação correta, uso do fio-dental e visitas periódicas ao dentista são ações simples que evitam patologias como a cárie e a doença periodontal. E o Dia Nacional da Saúde Bucal, lembrado no dia 25 de outubro, objetiva alertar as pessoas sobre estes problemas.
 

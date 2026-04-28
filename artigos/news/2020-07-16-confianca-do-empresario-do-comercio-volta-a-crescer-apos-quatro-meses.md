@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário do comércio volta a crescer após quatro meses"
+title: Confiança do empresário do comércio volta a crescer após quatro meses
 date: 2020-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo confederação, crescimento foi de 6,6% em julho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil recua em agosto e atinge 0,58%"
+title: Índice Nacional da Construção Civil recua em agosto e atinge 0,58%
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Acumulado nos doze meses chegou a 13,61%.
 

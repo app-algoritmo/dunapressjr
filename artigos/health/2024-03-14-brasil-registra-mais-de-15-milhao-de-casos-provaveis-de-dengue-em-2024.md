@@ -1,11 +1,12 @@
 ---
-title: "Brasil Registra Mais de 1,5 Milhão de Casos Prováveis de Dengue em 2024"
+title: Brasil Registra Mais de 1,5 Milhão de Casos Prováveis de Dengue em 2024
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O Brasil enfrenta um aumento alarmante de casos de dengue neste ano, com 1,538 milhão de casos prováveis e 391 mortes confirmadas até o momento, de acordo com dados atualizados do Painel de Monitoramento de Arboviroses divulgados pelo Ministério da Saúde nesta segunda-feira. Além disso, outras 854 mortes estão sob investigação.
 

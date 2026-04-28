@@ -1,11 +1,12 @@
 ---
-title: "Comentários de CEO da Pfizer Levantam Questionamentos sobre Futuras Pandemias"
+title: Comentários de CEO da Pfizer Levantam Questionamentos sobre Futuras Pandemias
 date: 2024-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Quando o CEO da Pfizer, Albert Bourla, afirmou que a COVID-19 era "apenas um teste", suas palavras passaram quase despercebidas. No entanto, esse comentário pode ser mais um alerta do que uma observação casual. Bourla disse: "Eu realmente acho que os melhores dias da Pfizer estão à nossa frente porque a COVID foi, para mim, como um ensaio, um prove generali, como você pode mobilizar uma organização e fazer o impossível, possível, contra uma doença principal".
 

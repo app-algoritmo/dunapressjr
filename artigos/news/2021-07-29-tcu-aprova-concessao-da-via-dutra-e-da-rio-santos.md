@@ -1,11 +1,12 @@
 ---
-title: "TCU aprova concessão da via Dutra e da Rio Santos"
+title: TCU aprova concessão da via Dutra e da Rio Santos
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corte analisou e aprovou os estudos da ANTT.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto proíbe veiculação de imagens de pessoas fumando na TV aberta"
+title: Projeto proíbe veiculação de imagens de pessoas fumando na TV aberta
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 3005/22 proíbe a veiculação de imagens de pessoas fumando (derivados de tabaco ou outros) por emissoras de TV aberta. A proibição alcança obras audiovisuais, filmes e séries de alcance local, regional ou nacional.
 

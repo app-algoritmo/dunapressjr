@@ -1,11 +1,12 @@
 ---
-title: "Relator da LDO de 2024 busca alternativas para financiamento do Fundo Eleitoral"
+title: Relator da LDO de 2024 busca alternativas para financiamento do Fundo Eleitoral
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Comissão reservou R$ 5 bilhões de emendas estaduais para gastos com eleições municipais no ano que vem.
 

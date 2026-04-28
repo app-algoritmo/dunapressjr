@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha dia em alta sem reverter queda semanal"
+title: Ibovespa fecha dia em alta sem reverter queda semanal
 date: 2023-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Juros futuros americanos derrubaram ativos de risco e elevou dólar na semana.
 

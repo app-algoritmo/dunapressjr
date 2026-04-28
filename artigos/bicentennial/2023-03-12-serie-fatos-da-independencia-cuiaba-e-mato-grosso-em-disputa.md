@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Cuiabá e Mato Grosso em disputa"
+title: 'Série Fatos Da Independência: Cuiabá e Mato Grosso em disputa'
 date: 2023-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A fundação de Vila Bela alterou a dinâmica interna da capitania do Mato Grosso, cujo povoamento ocorreu majoritariamente em torno da Vila Real de Cuiabá, e consolidou uma divisão. De um lado, Cuiabá como centro econômico e populacional, do outro Vila Bela, ponto político e administrativo. A principal importância da capital era geográfica: servir como uma presença portuguesa estabelecida na fronteira com a América hispânica para impedir os avanços espanhóis nas terras da Coroa. Por essa razão, Portugal buscou encorajar como pôde o povoamento de Vila Bela e das áreas ao seu redor, dando como incentivo a isenção no pagamento de impostos, por exemplo. E de fato, em seus anos iniciais, a capital cumpriu bem o seu papel, barrando as investidas contra seu território. Mas, a principal consequência da instalação da nova vila, ainda que de modo informal, foi partir a região recém-emancipada em duas: a capitania passou a ser denominada como de Cuiabá e Mato Grosso.
 

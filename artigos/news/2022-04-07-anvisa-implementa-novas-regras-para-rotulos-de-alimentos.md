@@ -1,11 +1,12 @@
 ---
-title: "Anvisa implementa novas regras para rótulos de alimentos"
+title: Anvisa implementa novas regras para rótulos de alimentos
 date: 2022-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A regra é clara: o Código de Defesa do Consumidor estabelece que um dos direitos básicos do cidadão é a "informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço”. E, ainda, "que a oferta e a apresentação de produtos ou serviços devem assegurar informações corretas, claras, precisas, ostensivas e em língua portuguesa sobre suas características, qualidades, quantidade, composição, preço, garantia, prazos de validade e origem, entre outros dados, bem como sobre os riscos que apresentam à saúde e segurança dos consumidores". 
 

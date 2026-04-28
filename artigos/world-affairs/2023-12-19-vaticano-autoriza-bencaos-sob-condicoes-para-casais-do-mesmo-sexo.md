@@ -1,11 +1,12 @@
 ---
-title: "Vaticano autoriza bênçãos sob condições para casais do mesmo sexo"
+title: Vaticano autoriza bênçãos sob condições para casais do mesmo sexo
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Vaticano autorizou oficialmente pela primeira vez na segunda-feira a bênção de casais do mesmo sexo, com a condição de que seja realizada fora dos ritos litúrgicos , um gesto sem precedentes na Igreja Católica, que permanece firme na sua oposição ao casamento homossexual.
 

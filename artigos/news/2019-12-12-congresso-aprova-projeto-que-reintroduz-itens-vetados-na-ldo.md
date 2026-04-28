@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova projeto que reintroduz itens vetados na LDO"
+title: Congresso aprova projeto que reintroduz itens vetados na LDO
 date: 2019-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Entre os pontos incluídos na LDO está o que torna de execução obrigatória as emendas de comissões permanentes *
 

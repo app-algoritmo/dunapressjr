@@ -1,11 +1,12 @@
 ---
-title: "Aberta seleção para doutorado-sanduíche no exterior"
+title: Aberta seleção para doutorado-sanduíche no exterior
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Está aberto o processo seletivo para o Programa Doutorado-Sanduíche no Exterior (PDSE) oferecido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes). A seleção prevista no Edital nº 19/2020 permite que alunos matriculados em cursos de doutorado avaliados com nota quatro ou maior na última quadrienal, que comprovem fluência na língua estrangeira da instituição de destino, façam parte da formação no exterior.
 

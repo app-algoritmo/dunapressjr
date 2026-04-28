@@ -1,11 +1,13 @@
 ---
-title: "Perspectivas Sombrias à Medida que Zelensky Enfrenta um Futuro Incerto no Campo de Batalha"
+title: Perspectivas Sombrias à Medida que Zelensky Enfrenta um Futuro Incerto no Campo
+  de Batalha
 date: 2024-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A análise do Washington Post pintou um quadro sombrio para o futuro da Ucrânia sob a liderança do Presidente Volodymyr Zelensky, destacando a falta de opções viáveis para avançar e vencer a guerra em curso. Com a reconquista militar das áreas ocupadas pela Rússia se tornando cada vez mais improvável, e a recusa de Zelensky em negociar com Putin, o país se vê em um impasse.
 

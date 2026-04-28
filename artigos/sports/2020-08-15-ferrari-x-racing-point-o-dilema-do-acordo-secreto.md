@@ -1,11 +1,12 @@
 ---
-title: "Ferrari x Racing Point: O dilema do acordo “secreto'"
+title: 'Ferrari x Racing Point: O dilema do acordo “secreto'''
 date: 2020-08-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Depois do acordo "secreto" com FIA sobre motor, Ferrari quer "transparência" no caso da Racing Point**
 

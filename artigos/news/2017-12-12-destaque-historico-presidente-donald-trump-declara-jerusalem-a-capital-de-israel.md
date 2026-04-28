@@ -1,11 +1,13 @@
 ---
-title: "Destaque histórico - Presidente Donald Trump declara -  Jerusalém a Capital de Israel"
+title: Destaque histórico - Presidente Donald Trump declara -  Jerusalém a Capital
+  de Israel
 date: 2017-12-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Café com DUNA nos jardins do fiordo, caderno de opinião destaque para: Professora Clarissa Xavier, fundadora do projeto mulher com livro, escritora e editora em Duna Escritores Editora, membro do CSA Conselho Social Administrativo de DUNA ONG Corp, COO MG e Editora Colunista em Duna Press Periódico, onde aborda com precisão a importância da decisão do presidente dos Estados Unidos da América Donald Trump ao declarar oficialmente Jerusalém como a Capital de Israel.
 

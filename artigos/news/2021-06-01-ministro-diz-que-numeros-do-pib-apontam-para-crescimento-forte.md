@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que números do PIB apontam para crescimento forte"
+title: Ministro diz que números do PIB apontam para crescimento forte
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IBGE informou hoje que o PIB cresceu 1,2% no primeiro trimestre.
 

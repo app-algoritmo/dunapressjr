@@ -1,11 +1,13 @@
 ---
-title: "Fontes de energia renovável: vantagens e desvantagens das usadas atualmente no Brasil"
+title: 'Fontes de energia renovável: vantagens e desvantagens das usadas atualmente
+  no Brasil'
 date: 2022-04-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O setor de energia vem se atualizando já há alguns anos, e ganhando investimentos no mundo todo. O Brasil, que não fica atrás desses avanços, se destaca desde muito cedo, principalmente por receber uma série de novas tecnologias focadas no aproveitamento de energias renováveis. Dentre as aplicadas no país estão: a biomassa da cana (representando 19,1%), a maior delas, seguida pela hidráulica (com 12,6%), lenha e carvão vegetal (8,9%), além de outras (7,7%) como a solar - que deve aumentar exponencialmente nos próximos anos. Mas a pergunta que fica é: será que todas são eficientes e adaptáveis no Brasil?
 

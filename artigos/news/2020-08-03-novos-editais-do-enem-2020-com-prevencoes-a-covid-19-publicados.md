@@ -1,11 +1,12 @@
 ---
-title: "Novos editais do Enem 2020 com prevenções à COVID-19 publicados"
+title: Novos editais do Enem 2020 com prevenções à COVID-19 publicados
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Em decorrência da pandemia do novo coronavírus, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, no Diário Oficial da União desta sexta-feira, 31 de julho, os novos editais do Exame Nacional do Ensino Médio (Enem) 2020. A publicação formaliza as datas já anunciadas pelo Ministério da Educação (MEC) e pelo Inep, e apresenta as diretrizes e os procedimentos de prevenção à COVID-19, inclusive durante a identificação dos participantes nos dias de provas. O exame será realizado nos dias 17 e 24 de janeiro de 2021 (versão impressa) e nos dias 31 de janeiro e 7 de fevereiro de 2021 (versão digital).
 

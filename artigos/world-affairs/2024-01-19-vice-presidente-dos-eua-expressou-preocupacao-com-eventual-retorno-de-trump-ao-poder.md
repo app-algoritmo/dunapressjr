@@ -1,11 +1,13 @@
 ---
-title: "Vice-presidente dos EUA expressou preocupação com eventual retorno de Trump ao poder"
+title: Vice-presidente dos EUA expressou preocupação com eventual retorno de Trump
+  ao poder
 date: 2024-01-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A vice-Presidente dos Estados Unidos, Kamala Harris, revelou a sua preocupação com a possibilidade do antigo Presidente republicano Donald Trump regressar ao poder em novembro, razão pela qual apelou à “luta” para evitar que isso aconteça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Noruega e Alemanha assinam acordo de cooperação para operações espaciais militares"
+title: Noruega e Alemanha assinam acordo de cooperação para operações espaciais militares
 date: 2019-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A carta assinada pelos dois países regula a cooperação nas três áreas de comunicação via satélite, vigilância espacial e desenvolvimento de competências.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mata Atlântica produz 50% dos alimentos consumidos no país, diz estudo"
+title: Mata Atlântica produz 50% dos alimentos consumidos no país, diz estudo
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa revela que emissão de gases no bioma é menor que no Cerrado.
 

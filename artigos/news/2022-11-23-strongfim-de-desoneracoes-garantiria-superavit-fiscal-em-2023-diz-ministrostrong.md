@@ -1,11 +1,12 @@
 ---
-title: "<strong>Fim de desonerações garantiria superávit fiscal em 2023, diz ministro</strong>"
+title: <strong>Fim de desonerações garantiria superávit fiscal em 2023, diz ministro</strong>
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Guedes não comentou corte de R$ 5,7 bi ao prestar contas da gestão.
 

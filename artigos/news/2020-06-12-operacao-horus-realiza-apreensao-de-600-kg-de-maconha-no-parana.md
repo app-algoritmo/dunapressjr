@@ -1,11 +1,12 @@
 ---
-title: "Operação Hórus realiza apreensão de 600 kg de maconha no Paraná"
+title: Operação Hórus realiza apreensão de 600 kg de maconha no Paraná
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pato Bragado/PR – Na tarde desta quarta-feira (10/6), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Preços da indústria recuam 0,85% em outubro, diz IBGE"
+title: Preços da indústria recuam 0,85% em outubro, diz IBGE
 date: 2022-11-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Das 24 atividades, metade mostrou deflação e a outra, inflação.
 

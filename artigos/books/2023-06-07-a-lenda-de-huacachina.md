@@ -1,12 +1,13 @@
 ---
-title: "A Lenda de Huacachina"
+title: A Lenda de Huacachina
 date: 2023-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
-  - Features
+- Books
+- Features
 ---
+
 
 A Huacachina é um oásis, não um deserto de Ica, nem do Peru. Seu nome significa "Mulher que chora" porque diz que uma bela jovem chamada Huacachina, uma mulher que gostava de cantar pelos campos de girassóis, dançar, ajudar os necessitados, mas sobretudo cantar, e foi o seu canto que atraiu um jovem guerreiro Inca, que ao ver a beleza da dita mulher, apaixonou-se profundamente por ela.
 Eles continuaram se vendo e o amor entre eles cresceu, a Huacachina era um tesouro que nem todos os homens podiam ter. Tudo era perfeito, mas infelizmente nessa época os espanhóis chegaram em terras peruanas e o jovem foi recrutado para lutar e então defender seu povo. Antes de partir, ele prometeu à sua amada que voltaria e eles se casariam para formar uma família.

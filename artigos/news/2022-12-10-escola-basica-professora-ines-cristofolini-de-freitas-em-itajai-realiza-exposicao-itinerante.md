@@ -1,11 +1,13 @@
 ---
-title: "Escola Básica Professora Inês Cristofolini de Freitas em Itajaí realiza exposição itinerante"
+title: Escola Básica Professora Inês Cristofolini de Freitas em Itajaí realiza exposição
+  itinerante
 date: 2022-12-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Humanos é o nome da exposição que começou dentro da Escola Básica Professora Inês Cristofolini de Freitas e, em 2023, irá ganhar destaque em outros prédios públicos e no shopping da cidade. A mostra da unidade do bairro Itaipava também passou pelo prédio administrativo da Secretaria de Educação neste ano. O objetivo da iniciativa é trabalhar as desigualdades sociais e a diversidade de pessoas.
 

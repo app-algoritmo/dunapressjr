@@ -1,11 +1,12 @@
 ---
-title: "Programa Academia e Futebol atenderá crianças, adolescentes e pessoas com deficiência"
+title: Programa Academia e Futebol atenderá crianças, adolescentes e pessoas com deficiência
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As instituições federais selecionadas para o Programa Academia e Futebol já foram selecionadas. Foi publicada esta semana [portaria com o resultado final da homologação das inscrições](https://www.in.gov.br/en/web/dou/-/portaria-n-2-de-25-de-novembro-de-2020-290327276) para apoio à estruturação e ao funcionamento da iniciativa da Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor, da Secretaria Especial do Esporte do Ministério da Cidadania. O projeto tem como objetivo proporcionar a prática do futebol, futsal e beach soccer a crianças e adolescentes e pessoas com deficiência. Também apoia a produção de conhecimentos sobre a modalidade e incentiva a participação dos pesquisadores em congressos e a promoção de cursos e eventos.
 

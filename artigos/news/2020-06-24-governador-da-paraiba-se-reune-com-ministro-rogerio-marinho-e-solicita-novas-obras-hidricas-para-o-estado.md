@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba se reúne com ministro Rogério Marinho e solicita novas obras hídricas para o Estado"
+title: Governador da Paraíba se reúne com ministro Rogério Marinho e solicita novas
+  obras hídricas para o Estado
 date: 2020-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Também foi solicitado a conclusão da transposição.
 

@@ -1,11 +1,13 @@
 ---
-title: "Empresa de identificação biométrica se orgulha de ser membro do Fórum Econômico Mundial"
+title: Empresa de identificação biométrica se orgulha de ser membro do Fórum Econômico
+  Mundial
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Fingerprint Cards, empresa sueca de biometria, alcançou um marco significativo ao ser incluída na Comunidade de Novos Campeões do Fórum Econômico Mundial (WEF). Esta comunidade é constituída por médias empresas e o WEF está fortemente empenhado em promover formas biométricas de identificação digital. Ao ser reconhecida como a primeira empresa biométrica na comunidade, a Fingerprint Cards aspira ser líder em tecnologia biométrica e visa promover a 'inclusão social'.
 

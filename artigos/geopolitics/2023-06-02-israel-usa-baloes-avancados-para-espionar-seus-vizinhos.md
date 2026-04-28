@@ -1,11 +1,12 @@
 ---
-title: "Israel usa balões avançados para espionar seus vizinhos"
+title: Israel usa balões avançados para espionar seus vizinhos
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O balão espião é o maior já construído. Ele opera paralelamente ao triângulo fronteiriço com a Síria e a Jordânia e pode monitorar a área por centenas de quilômetros.
 

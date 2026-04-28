@@ -1,11 +1,13 @@
 ---
-title: "Governo de Santa Catarina quer ampliar vagas em grupo de inativos da segurança pública"
+title: Governo de Santa Catarina quer ampliar vagas em grupo de inativos da segurança
+  pública
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Entrou em tramitação nesta semana na Assembleia Legislativa a proposta do governo estadual que possibilitará a abertura de mais mil vagas no Corpo Temporário de Inativos da Segurança Pública (Ctisp). A medida está prevista no [Projeto de Lei Complementar (PLC) 22/2020](http://www.alesc.sc.gov.br/legislativo/tramitacao-de-materia/PLC/0022.2/2020), apresentado pelo Poder Executivo na semana passada.
 

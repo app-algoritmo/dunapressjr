@@ -1,11 +1,12 @@
 ---
-title: "Série Rainha Elizabeth II visita o Brasil"
+title: Série Rainha Elizabeth II visita o Brasil
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 **Quarta Parte Visita a Salvador**
 

@@ -1,11 +1,13 @@
 ---
-title: "Contadores de histórias levam universo lúdico para dentro de hospitais SUS e escolas municipais"
+title: Contadores de histórias levam universo lúdico para dentro de hospitais SUS
+  e escolas municipais
 date: 2023-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todos os dias, voluntários se dedicam a contar histórias que possam mudar a vida de alguém. Nos corredores de hospitais de Curitiba (PR), um grupo de contadores de histórias são os personagens principais de uma viagem lúdica que tem os pacientes como espectadores. Num lugar onde a dor precisa ser encarada de frente, a tristeza é amenizada pela convicção de que não estão sozinhos. "A ação é muito mais que contar histórias, já que traz humanização e bem estar emocional para os pacientes", afirma a idealizadora do projeto Instituto História Viva, Roseli Bassi. 
 

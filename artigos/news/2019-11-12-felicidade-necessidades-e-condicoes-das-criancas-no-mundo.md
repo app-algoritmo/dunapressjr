@@ -1,11 +1,12 @@
 ---
-title: "Felicidade, necessidades e condições das crianças no mundo"
+title: Felicidade, necessidades e condições das crianças no mundo
 date: 2019-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa internacional realizada pelo projeto Children's Worlds em 15 países ao redor do mundo
 

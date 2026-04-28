@@ -1,11 +1,12 @@
 ---
-title: "Raul Castro renuncia, encerrando o reinado da família Castro em Cuba"
+title: Raul Castro renuncia, encerrando o reinado da família Castro em Cuba
 date: 2021-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O irmão de Fidel Castro renuncia ao cargo de chefe do Partido Comunista, pondo fim ao reinado da família que governa Cuba desde 1959.
 

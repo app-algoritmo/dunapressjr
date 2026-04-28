@@ -1,11 +1,12 @@
 ---
-title: "As revoluções coloridas ocidentais não funcionarão na Rússia, sublinha Putin"
+title: As revoluções coloridas ocidentais não funcionarão na Rússia, sublinha Putin
 date: 2023-12-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Presidente disse que a Rússia conseguiu responder aos desafios.
 

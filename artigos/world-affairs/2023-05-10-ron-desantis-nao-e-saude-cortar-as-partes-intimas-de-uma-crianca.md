@@ -1,11 +1,12 @@
 ---
-title: "Ron DeSantis: 'Não é saúde cortar as partes íntimas de uma criança'"
+title: 'Ron DeSantis: ''Não é saúde cortar as partes íntimas de uma criança'''
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ##  “Não é saúde cortar as partes íntimas de uma criança”, o governador da Flórida, Ron DeSantis (R), enfatizou novamente no fim de semana, enquanto ativistas de extrema esquerda lamentam algumas das ações que a legislatura da Flórida aprovou para proteger as crianças da ideologia radical de gênero.
 

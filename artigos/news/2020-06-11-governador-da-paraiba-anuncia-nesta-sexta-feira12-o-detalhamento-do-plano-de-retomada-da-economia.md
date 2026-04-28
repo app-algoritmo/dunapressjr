@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba anuncia nesta sexta-feira(12) o detalhamento do plano de retomada da economia"
+title: Governador da Paraíba anuncia nesta sexta-feira(12) o detalhamento do plano
+  de retomada da economia
 date: 2020-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O plano irá orientar a retomada gradual nos 223 municípios.
 

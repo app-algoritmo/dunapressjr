@@ -1,11 +1,12 @@
 ---
-title: "Fundo de Ajuda Ibero-americano recebe inscrições de projetos de artes cênicas"
+title: Fundo de Ajuda Ibero-americano recebe inscrições de projetos de artes cênicas
 date: 2020-07-21
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Artistas e produtores têm até o dia 15 de outubro para participar da seleção.
 

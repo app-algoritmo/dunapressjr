@@ -1,11 +1,13 @@
 ---
-title: "Policiais vítimas  no exercício da profissão receberão apoio do programa 'Pra Viver'"
+title: Policiais vítimas  no exercício da profissão receberão apoio do programa 'Pra
+  Viver'
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lançado nessa quarta-feira (16), no Ginásio do Centro de Desporto da Academia da Polícia Militar do Estado do Rio de Janeiro (PMERJ), o programa “Pra Viver” dará apoio aos policiais que sofreram algum tipo de dano no exercício da profissão e também às suas famílias. A iniciativa, que tem o apoio do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), prevê ações por meio do esporte, apresentações culturais, além de retaguarda jurídica.
 

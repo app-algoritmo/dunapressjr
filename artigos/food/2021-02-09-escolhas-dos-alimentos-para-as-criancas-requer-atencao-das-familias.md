@@ -1,11 +1,12 @@
 ---
-title: "Escolhas dos alimentos para as crianças requer atenção das famílias"
+title: Escolhas dos alimentos para as crianças requer atenção das famílias
 date: 2021-02-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Com tanta oferta de alimentos embalados em caixas coloridas e com preparo fácil, prático e rápido, o hábito de ingerir produtos saudáveis, in natura ou minimamente processados, está cada vez mais raro. Para a nutricionista da UERJ - Universidade do Estado do Rio de Janeiro, Ines Rugani, uma das medidas para combater a obesidade é incentivar as pessoas a frequentar feiras de frutas e hortaliças dos bairros onde vivem. “A escolha saudável deve ser uma escolha fácil. Cabe à sociedade e ao poder público fazer com que essa escolha seja fácil. Não há possibilidade de combater a obesidade na infância sem interferir nos ambientes”, reforça.
 

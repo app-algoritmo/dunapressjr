@@ -1,11 +1,12 @@
 ---
-title: "Intenção de Consumo das Famílias cresce 0,6% em março"
+title: Intenção de Consumo das Famílias cresce 0,6% em março
 date: 2021-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice passou para 73,8 pontos, em uma escala de zero a 200 pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido diz não a um segundo referendo para Escócia"
+title: Reino Unido diz não a um segundo referendo para Escócia
 date: 2020-01-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O primeiro-ministro do Reino Unido, Boris Johnson, enviou uma carta ao principal ministro da Escócia, Nicola Sturgeon, na qual informa que se recusa a transferir os poderes para que o território britânico realize um segundo referendo de independência.
 

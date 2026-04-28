@@ -1,11 +1,12 @@
 ---
-title: "Passagem de comando e promoção do Batalhão Escolar"
+title: Passagem de comando e promoção do Batalhão Escolar
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Fortaleza
 (CE)** – A esperada formatura de promoção do Batalhão Escolar do

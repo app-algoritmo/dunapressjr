@@ -1,11 +1,12 @@
 ---
-title: "Alan Rick critica Supremo por julgar a descriminalização do porte de drogas"
+title: Alan Rick critica Supremo por julgar a descriminalização do porte de drogas
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Alan Rick (União-AC) afirmou nesta terça-feira (23), em pronunciamento no Plenário, que "a descriminalização de drogas ilícitas será um desastre para o Brasil, pois favorecerá o tráfico e contribuirá para a destruição de famílias". Ao mencionar o julgamento pelo STF sobre a descriminalização do porte de drogas para consumo próprio, que deve ser retomado nesta quarta, o senador afirmou que esse assunto já estava resolvido pelo Congresso.
 

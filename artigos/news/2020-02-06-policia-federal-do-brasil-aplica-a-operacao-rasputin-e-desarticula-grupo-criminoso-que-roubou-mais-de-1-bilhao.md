@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal do Brasil aplica a Operação Rasputin e  desarticula grupo criminoso que roubou mais de 1 bilhão"
+title: Polícia Federal do Brasil aplica a Operação Rasputin e  desarticula grupo criminoso
+  que roubou mais de 1 bilhão
 date: 2020-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Operação Rasputin investiga irregularidades na obtenção de benefícios previdenciários de segurados especiais rurais
 

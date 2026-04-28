@@ -1,11 +1,12 @@
 ---
-title: "Cigarro eletrônico causa dependência? Tire suas dúvidas"
+title: Cigarro eletrônico causa dependência? Tire suas dúvidas
 date: 2021-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O cigarro eletrônico não é um produto inócuo, tem substâncias cancerígenas e aditivos com sabores, com efeitos tóxicos ainda desconhecidos sobre a saúde, informa o Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA).
 

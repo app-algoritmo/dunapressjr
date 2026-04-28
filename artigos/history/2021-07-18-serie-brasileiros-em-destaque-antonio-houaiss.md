@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Antônio Houaiss"
+title: 'Série Brasileiros em Destaque: Antônio Houaiss'
 date: 2021-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Filólogo.
 

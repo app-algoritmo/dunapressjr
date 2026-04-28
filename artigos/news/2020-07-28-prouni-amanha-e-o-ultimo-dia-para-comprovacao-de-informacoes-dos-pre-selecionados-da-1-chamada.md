@@ -1,11 +1,13 @@
 ---
-title: "Prouni: amanhã é o último dia para comprovação de informações dos pré-selecionados da 1ª chamada"
+title: 'Prouni: amanhã é o último dia para comprovação de informações dos pré-selecionados
+  da 1ª chamada'
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O resultado da 2ª chamada será divulgado dia 4, e da lista de espera, dia 24 de agosto.
 

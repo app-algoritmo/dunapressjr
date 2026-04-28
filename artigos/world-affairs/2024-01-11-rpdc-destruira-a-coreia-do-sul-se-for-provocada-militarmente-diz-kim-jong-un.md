@@ -1,11 +1,13 @@
 ---
-title: "RPDC destruirá a Coreia do Sul se for provocada militarmente, diz Kim Jong Un"
+title: RPDC destruirá a Coreia do Sul se for provocada militarmente, diz Kim Jong
+  Un
 date: 2024-01-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder norte-coreano observou que Pyongyang não pretende provocar "unilateralmente" "grandes eventos com [sua] força supressora" na Península Coreana, mas "também não vai evitar uma guerra".
 

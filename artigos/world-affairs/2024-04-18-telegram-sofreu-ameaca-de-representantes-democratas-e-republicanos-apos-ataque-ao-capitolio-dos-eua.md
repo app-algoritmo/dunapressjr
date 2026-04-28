@@ -1,11 +1,13 @@
 ---
-title: "Telegram Sofreu Ameaça de Representantes Democratas e Republicanos Após Ataque ao Capitólio dos EUA"
+title: Telegram Sofreu Ameaça de Representantes Democratas e Republicanos Após Ataque
+  ao Capitólio dos EUA
 date: 2024-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Após os tumultos ocorridos em 6 de janeiro de 2021 no Capitólio dos EUA, o Telegram, plataforma de mensagens instantâneas, encontrou-se no centro de uma batalha política entre os partidos Democrata e Republicano. Em uma entrevista concedida a Tucker Carlson, o cofundador do Telegram, Pavel Durov, revelou que a empresa recebeu ameaças de ambos os lados do espectro político.
 

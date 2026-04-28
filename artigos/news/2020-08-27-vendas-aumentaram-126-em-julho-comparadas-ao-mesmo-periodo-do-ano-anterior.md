@@ -1,11 +1,12 @@
 ---
-title: "Vendas aumentaram 12,6% em julho comparadas ao mesmo período do ano anterior"
+title: Vendas aumentaram 12,6% em julho comparadas ao mesmo período do ano anterior
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### A média diária de vendas atingiu o maior patamar do ano segundo boletim da Receita Federal. Os resultados foram divulgados pela Receita Federal, no Boletim Impactos da Covid-19.
 

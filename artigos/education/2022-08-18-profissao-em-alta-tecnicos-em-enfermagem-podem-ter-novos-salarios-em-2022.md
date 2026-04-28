@@ -1,12 +1,13 @@
 ---
-title: "Profissão em alta: técnicos em enfermagem podem ter novos salários em 2022"
+title: 'Profissão em alta: técnicos em enfermagem podem ter novos salários em 2022'
 date: 2022-08-18
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Education
-  - Health
+- Education
+- Health
 ---
+
 
 Voltada ao piso da Enfermagem, a Proposta de Emenda Constitucional (PEC) n.º 11 de 2022 foi aprovada pelo Senado Federal e aguarda sanção presidencial. O texto define o piso salarial do enfermeiro, da parteira, do auxiliar e do [técnico em enfermagem](https://prozeducacao.com.br/curso/tecnico-em-enfermagem/). A categoria recebeu mais atenção devido à atuação no combate à pandemia, mas a demanda pelo piso é de mais de 20 anos. 
 

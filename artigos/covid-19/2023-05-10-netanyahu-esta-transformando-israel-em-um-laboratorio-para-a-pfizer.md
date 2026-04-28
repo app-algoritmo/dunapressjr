@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu está transformando Israel em um laboratório para a Pfizer"
+title: Netanyahu está transformando Israel em um laboratório para a Pfizer
 date: 2023-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O primeiro-ministro de Israel, Benjamin Netanyahu, revelou recentemente que transformou o povo de Israel em um gigante “laboratório para a Pfizer” humano no final de 2020, compartilhando dados médicos e genéticos israelenses com a Pfizer para vacinas COVID-19.
 

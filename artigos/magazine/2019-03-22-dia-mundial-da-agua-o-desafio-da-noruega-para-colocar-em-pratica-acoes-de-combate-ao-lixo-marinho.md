@@ -1,12 +1,14 @@
 ---
-title: "Dia Mundial da Água: o desafio da Noruega para colocar em prática ações de combate ao lixo marinho"
+title: 'Dia Mundial da Água: o desafio da Noruega para colocar em prática ações de
+  combate ao lixo marinho'
 date: 2019-03-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 ## -Em virtude de sua proeminência sem precedentes na área de Meio Ambiente, Estudos Marítimos, Biologia Marinha e Biodiversidade, recentemente, a Noruega foi convidada, pela primeira vez, para a reunião ministerial ambiental dos países do G7.
 

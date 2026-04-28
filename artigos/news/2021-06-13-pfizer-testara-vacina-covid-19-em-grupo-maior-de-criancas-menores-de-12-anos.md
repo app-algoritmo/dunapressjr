@@ -1,11 +1,12 @@
 ---
-title: "Pfizer testará vacina COVID-19 em grupo maior de crianças menores de 12 anos"
+title: Pfizer testará vacina COVID-19 em grupo maior de crianças menores de 12 anos
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O estudo vai inscrever até 4.500 crianças em mais de 90 centros clínicos nos Estados Unidos, Finlândia, Polônia e Espanha.
 

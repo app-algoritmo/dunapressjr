@@ -1,11 +1,12 @@
 ---
-title: "Portugal se Recusa a Pagar Reparações pelo Passado Colonial e Escravidão"
+title: Portugal se Recusa a Pagar Reparações pelo Passado Colonial e Escravidão
 date: 2024-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo português tomou uma decisão firme ao recusar iniciar o processo de pagamento de reparações pelo seu passado colonial e envolvimento no comércio de escravos, contrariando a declaração anterior do presidente sobre o assunto, relatou a Reuters.
 

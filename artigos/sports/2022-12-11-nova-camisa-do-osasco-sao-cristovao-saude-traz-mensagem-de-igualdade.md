@@ -1,11 +1,12 @@
 ---
-title: "Nova camisa do Osasco São Cristóvão Saúde traz mensagem de igualdade"
+title: Nova camisa do Osasco São Cristóvão Saúde traz mensagem de igualdade
 date: 2022-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Equipe feminina mais tradicional do vôlei feminino brasileiro, Osasco sempre colocou a mulher como protagonista ao longo de sua história. Mais do que conquista de campeonatos e vitórias quadras, o projeto ressalta a força do sexo feminino em todos os sentidos. Para a temporada 2022/23, o Osasco São Cristóvão Saúde estampa esse sentimento com o novo uniforme. A coleção chamada Igualdade foi apresentada nesta sexta-feira (9), em vídeo no Youtube e faz sua estreia logo mais, às 20h, no ginásio José Liberatti, em partida contra Barueri, válida pela Superliga 1XBET.
 

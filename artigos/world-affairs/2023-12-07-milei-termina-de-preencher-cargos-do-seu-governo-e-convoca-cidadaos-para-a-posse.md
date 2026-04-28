@@ -1,11 +1,13 @@
 ---
-title: "Milei termina de preencher cargos do seu Governo e convoca cidadãos para a posse"
+title: Milei termina de preencher cargos do seu Governo e convoca cidadãos para a
+  posse
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente eleito, Javier Milei, continuou com múltiplas reuniões no Hotel Libertador de Buenos Aires, onde está finalizando os detalhes de sua posse em 10 de dezembro, e convocou os cidadãos a comparecerem à cerimônia neste domingo no proximidades do Congresso com bandeiras argentinas.
 

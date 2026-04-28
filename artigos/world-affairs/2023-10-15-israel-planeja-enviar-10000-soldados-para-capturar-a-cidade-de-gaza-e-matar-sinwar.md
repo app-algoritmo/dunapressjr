@@ -1,11 +1,13 @@
 ---
-title: "Israel planeja enviar 10.000 soldados para capturar a cidade de Gaza e matar Sinwar"
+title: Israel planeja enviar 10.000 soldados para capturar a cidade de Gaza e matar
+  Sinwar
 date: 2023-10-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Israel planeia enviar 10.000 soldados para capturar a Cidade de Gaza e “destruir” a liderança da Faixa, [***informa o New York Times***](https://www.nytimes.com/2023/10/14/world/middleeast/israel-gaza-invasion.html?partner=slack&smid=sl-share) , citando oficiais militares israelitas que falaram publicamente.
 

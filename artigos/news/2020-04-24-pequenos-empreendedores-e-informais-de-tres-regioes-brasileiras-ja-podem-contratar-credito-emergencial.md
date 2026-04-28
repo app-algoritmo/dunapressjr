@@ -1,11 +1,13 @@
 ---
-title: "Pequenos empreendedores e informais de três regiões brasileiras já podem contratar crédito emergencial"
+title: Pequenos empreendedores e informais de três regiões brasileiras já podem contratar
+  crédito emergencial
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pequenos empreendedores e cooperativas das regiões Centro-Oeste, Nordeste e Norte do País já podem acessar a linha emergencial de crédito destinada ao enfrentamento de impactos econômicos da Covid-19. Para os informais, está disponível uma opção de microcrédito. Os recursos, da ordem de R$6 bilhões, são disponibilizados por meio dos Fundos Constitucionais de Financiamento, geridos pelo Ministério do Desenvolvimento Regional (MDR), e contemplam estados com emergência ou calamidade pública reconhecidos pela Secretaria Nacional de Proteção e Defesa Civil (Sedec).
 

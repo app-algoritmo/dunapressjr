@@ -1,11 +1,12 @@
 ---
-title: "Um flash azul foi visto no céu antes do terremoto na Turquia e na Síria"
+title: Um flash azul foi visto no céu antes do terremoto na Turquia e na Síria
 date: 2023-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Usuários de mídia social postaram imagens e vídeos de um flash azul que teria aparecido no céu perto da fronteira turco-síria na noite de segunda-feira antes do terremoto.
 

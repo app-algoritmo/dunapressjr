@@ -1,11 +1,12 @@
 ---
-title: "PF combate a pornografia infantil na internet em Santa Catarina"
+title: PF combate a pornografia infantil na internet em Santa Catarina
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Criciúma/SC – A Polícia Federal deflagrou na terça-feira (26/5) operação destinada à repressão ao compartilhamento e à posse de imagens e   vídeos   com   conteúdo   de   abuso   sexual   infanto-juvenil, praticada   por   usuário   da   internet   residente   em   São Ludgero/SC.
 

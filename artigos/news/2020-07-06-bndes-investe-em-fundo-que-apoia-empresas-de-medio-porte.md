@@ -1,11 +1,12 @@
 ---
-title: "BNDES investe em fundo que apoia empresas de médio porte"
+title: BNDES investe em fundo que apoia empresas de médio porte
 date: 2020-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Empresas terão suporte de R$ 300 milhões.
 

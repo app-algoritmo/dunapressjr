@@ -1,11 +1,12 @@
 ---
-title: "A verdade insidiosa por trás das refeições escolares gratuitas"
+title: A verdade insidiosa por trás das refeições escolares gratuitas
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## *A ONU está pressionando por refeições escolares gratuitas universais, mas esse controle pode ser facilmente abusado.*
 

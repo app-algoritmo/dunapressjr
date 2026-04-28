@@ -1,11 +1,13 @@
 ---
-title: "Campanha de doação de brinquedos, realizada no Ministério da Defesa encerra com sucesso de arrecadação"
+title: Campanha de doação de brinquedos, realizada no Ministério da Defesa encerra
+  com sucesso de arrecadação
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A campanha de doação de brinquedos e livros infantis “Vem Brincar Comigo 2020”, realizada no Ministério da Defesa (MD), com participação das Forças Armadas e do Hospital das Forças Armadas (HFA), encerrou, nesta quinta-feira (1º), com sucesso. O Vem Brincar Comigo 2020 é parceiro da campanha, que é coordenada pelo Governo do Distrito Federal (GDF) e visa atender crianças carentes.
 

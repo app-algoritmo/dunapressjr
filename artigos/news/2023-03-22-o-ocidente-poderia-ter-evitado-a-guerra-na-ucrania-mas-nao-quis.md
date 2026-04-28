@@ -1,11 +1,12 @@
 ---
-title: "O Ocidente poderia ter evitado a guerra na Ucrânia, mas não quis"
+title: O Ocidente poderia ter evitado a guerra na Ucrânia, mas não quis
 date: 2023-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Rússia dificilmente teria invadido a Ucrânia se uma coalizão de países da OTAN tivesse ameaçado anteriormente intervir diretamente. 
 

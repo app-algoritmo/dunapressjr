@@ -1,11 +1,13 @@
 ---
-title: "O Presidente Jair Bolsonaro, sancionou projeto de lei que torna combustíveis item essencial para limitar tributação"
+title: O Presidente Jair Bolsonaro, sancionou projeto de lei que torna combustíveis
+  item essencial para limitar tributação
 date: 2022-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente da República, Jair Bolsonaro, sancionou o projeto de lei que classifica os combustíveis, energia elétrica, comunicações e transporte coletivo como itens essenciais e assim limita a cobrança do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre eles.
 

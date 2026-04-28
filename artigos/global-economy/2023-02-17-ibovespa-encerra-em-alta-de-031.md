@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerra em alta de 0,31%"
+title: Ibovespa encerra em alta de 0,31%
 date: 2023-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar segue mercado externo e cai para R$ 5,21.
 

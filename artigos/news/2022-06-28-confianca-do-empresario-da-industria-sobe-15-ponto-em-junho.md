@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário da indústria sobe 1,5 ponto em junho"
+title: Confiança do empresário da indústria sobe 1,5 ponto em junho
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice de Expectativas cresce e atinge 100,2 pontos.
 

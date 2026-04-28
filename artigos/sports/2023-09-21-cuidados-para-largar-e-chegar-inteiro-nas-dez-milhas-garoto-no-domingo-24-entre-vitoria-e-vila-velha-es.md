@@ -1,11 +1,13 @@
 ---
-title: "Cuidados para largar e chegar 'inteiro' nas Dez Milhas Garoto no domingo (24), entre Vitória e Vila Velha (ES)"
+title: Cuidados para largar e chegar 'inteiro' nas Dez Milhas Garoto no domingo (24),
+  entre Vitória e Vila Velha (ES)
 date: 2023-09-21
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Todos os corredores, especialmente os iniciantes, precisam seguir regras básicas para aproveitar cada quilômetro até a linha de chegada da prova deste domingo (24), entre Vitória e Vila Velha.
 

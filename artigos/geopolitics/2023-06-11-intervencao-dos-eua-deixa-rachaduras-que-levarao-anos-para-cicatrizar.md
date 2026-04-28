@@ -1,11 +1,12 @@
 ---
-title: "Intervenção dos EUA deixa rachaduras que levarão anos para cicatrizar"
+title: Intervenção dos EUA deixa rachaduras que levarão anos para cicatrizar
 date: 2023-06-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Dado que tantos países ao redor do mundo ainda estão sob influência dos EUA, literalmente ocupados por forças militares dos EUA ou governados por um governo que chegou ao poder com ajuda significativa dos EUA (ou uma combinação de ambos), e dado que tantos países são os alvo de uma mudança de regime potencialmente apoiada pelos EUA e interferência da Carta da ONU, é importante olhar para a história da ocupação dos EUA e as cicatrizes indeléveis que ela deixa nos países e seus povos, mesmo décadas depois que os EUA finalmente partiram.
 

@@ -1,12 +1,14 @@
 ---
-title: "Marinhas da OTAN realizam exercício anual de defesa coletiva da Costa Norte no Mar Báltico"
+title: Marinhas da OTAN realizam exercício anual de defesa coletiva da Costa Norte
+  no Mar Báltico
 date: 2023-09-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - Military
+- Geopolitics
+- Military
 ---
+
 
 No último sábado, 9 de setembro de 2023, teve início o exercício naval anual denominado "Northern Coasts" no Mar Báltico, ao largo das costas da Estônia e da Letônia. Este evento, organizado pela Marinha Alemã, é um dos maiores exercícios militares da região e tem como foco central a guerra de alto nível e a defesa coletiva dos Aliados da NATO.
 

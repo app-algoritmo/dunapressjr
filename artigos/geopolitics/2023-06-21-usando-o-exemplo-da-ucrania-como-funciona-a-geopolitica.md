@@ -1,11 +1,12 @@
 ---
-title: "Usando o exemplo da Ucrânia: como funciona a geopolítica"
+title: 'Usando o exemplo da Ucrânia: como funciona a geopolítica'
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Continuo descobrindo que a maioria das pessoas realmente não sabe o que é geopolítica ou como ela funciona. Portanto, quero dizer algumas coisas básicas para compreensão.
 

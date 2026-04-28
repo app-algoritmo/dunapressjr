@@ -1,11 +1,12 @@
 ---
-title: "Mercado projeta queda do PIB em 6,50% este ano"
+title: Mercado projeta queda do PIB em 6,50% este ano
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Previsão é de crescimento de 3,50% para o próximo ano.
 

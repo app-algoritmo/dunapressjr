@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Região Norte começa a apresentar queda sustentável da doença"
+title: 'Covid-19: Região Norte começa a apresentar queda sustentável da doença'
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Também houve queda no Nordeste, já nas regiões Centro-Oeste e Sul os números continuam em crescimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão anuncia audiência sobre situação de presos pelo vandalismo de 8 janeiro"
+title: Girão anuncia audiência sobre situação de presos pelo vandalismo de 8 janeiro
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento no Plenário nesta segunda-feira (10), informou a realização de audiência pública na Comissão de Segurança Pública (CSP), dia 13 de julho, para debater a prisão de envolvidos na invasão e ataque às sedes dos Três Poderes, no dia 8 de janeiro deste ano, assim como a violação às prerrogativas dos advogados que estão atuando nos casos supracitados. 
 

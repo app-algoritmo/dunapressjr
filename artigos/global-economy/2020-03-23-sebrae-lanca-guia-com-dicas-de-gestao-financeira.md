@@ -1,11 +1,12 @@
 ---
-title: "Sebrae lança guia com dicas de gestão financeira"
+title: Sebrae lança guia com dicas de gestão financeira
 date: 2020-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 É para apoiar donos de pequenos negócios em razão da instabilidade
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita paga nesta quarta primeiro lote de restituição do IR 2023"
+title: Receita paga nesta quarta primeiro lote de restituição do IR 2023
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valores estão depositados na conta-corrente indicada pelo contribuinte
 

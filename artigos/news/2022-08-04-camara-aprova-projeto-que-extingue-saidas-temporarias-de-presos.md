@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que extingue saídas temporárias de presos"
+title: Câmara aprova projeto que extingue saídas temporárias de presos
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Proposta inicial limitava o benefício, mas deputados o extinguiram.
 

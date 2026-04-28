@@ -1,11 +1,12 @@
 ---
-title: "OTAN vs BRICS, Armagedom Nuclear!"
+title: OTAN vs BRICS, Armagedom Nuclear!
 date: 2023-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A humanidade chegou a um ponto em que nada é dado como certo - negociação, diplomacia, moderação, tudo agora está sendo substituído por ameaças, ataques militares, sabotagem e preparativos para a guerra. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Prontuário afetivo auxilia na recuperação de pacientes com atendimento humanizado"
+title: Prontuário afetivo auxilia na recuperação de pacientes com atendimento humanizado
 date: 2021-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Equipes de hospitais se unem para acolher usando iniciativas personalizadas, a partir de características pessoais de cada paciente.
 

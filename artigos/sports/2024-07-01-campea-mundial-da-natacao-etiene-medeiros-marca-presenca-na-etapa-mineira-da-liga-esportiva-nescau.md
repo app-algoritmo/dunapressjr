@@ -1,11 +1,13 @@
 ---
-title: "Campeã mundial da natação, Etiene Medeiros marca presença na etapa mineira da Liga Esportiva NESCAU®"
+title: Campeã mundial da natação, Etiene Medeiros marca presença na etapa mineira
+  da Liga Esportiva NESCAU®
 date: 2024-07-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Quinta fase do circuito nacional do maior campeonato poliesportivo estudantil do país será neste sábado (29) em Belo Horizonte, e contará também com a participação do skatista Amorinha.
 

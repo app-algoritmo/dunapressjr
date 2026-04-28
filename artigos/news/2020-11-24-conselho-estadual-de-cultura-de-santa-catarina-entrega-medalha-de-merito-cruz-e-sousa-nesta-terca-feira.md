@@ -1,11 +1,13 @@
 ---
-title: "Conselho Estadual de Cultura de Santa Catarina entrega Medalha de Mérito Cruz e Sousa nesta terça-feira"
+title: Conselho Estadual de Cultura de Santa Catarina entrega Medalha de Mérito Cruz
+  e Sousa nesta terça-feira
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Estadual de Cultura de Santa Catarina (CEC/SC) entregará simbolicamente a Medalha de Mérito Cultural Cruz e Sousa aos agraciados deste ano em uma solenidade virtual. O ato ocorre nesta terça-feira, 24 de novembro, dia do aniversário do poeta simbolista que dá nome à honraria. A transmissão começa às 19h e poderá ser acompanhada pelo público por meio do [**canal do Conselho no YouTube**](https://www.youtube.com/channel/UCXPIHJbtr4yTBwDRMtTLp_g).
 

@@ -1,11 +1,12 @@
 ---
-title: "Em defesa do SUS: um chamado à ação coletiva"
+title: 'Em defesa do SUS: um chamado à ação coletiva'
 date: 2024-07-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## A escassez de recursos na saúde pública brasileira é um problema crônico. Desde o início do Plano Real, em 1994, a tabela do Sistema Único de Saúde (SUS) e seus incentivos foram reajustados, em média, em 93%.
 

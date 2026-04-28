@@ -1,11 +1,13 @@
 ---
-title: "Cientista italiana diz que hidroxicloroquina pode tornar as pessoas imunes ao vírus"
+title: Cientista italiana diz que hidroxicloroquina pode tornar as pessoas imunes
+  ao vírus
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O COVID-19 danifica a hemoglobina, prejudicando a capacidade dos glóbulos vermelhos de transportar oxigênio por todo o corpo, comprometendo os pulmões e resultando em Síndrome do Desconforto Respiratório Agudo (SDRA), explicou a estudiosa de farmacologia italiana Annalisa Chiusolo ao *The Jerusalem Post* .
 

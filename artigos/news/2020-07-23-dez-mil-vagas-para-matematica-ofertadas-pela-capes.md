@@ -1,11 +1,12 @@
 ---
-title: "Dez mil vagas para Matemática ofertadas pela Capes"
+title: Dez mil vagas para Matemática ofertadas pela Capes
 date: 2020-07-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As vagas para os cursos de Português e TICs já foram preenchidas. As inscrições vão até sexta-feira (24).
 

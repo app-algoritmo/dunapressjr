@@ -1,11 +1,12 @@
 ---
-title: "Joaquim Nabuco - Parte II: Vida Adulta e Morte"
+title: 'Joaquim Nabuco - Parte II: Vida Adulta e Morte'
 date: 2020-02-24
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Em 1876 obteve seu primeiro cargo público: o de adido de
 legação, por meio do qual passa cerca de um ano nos Estados Unidos. Em março de

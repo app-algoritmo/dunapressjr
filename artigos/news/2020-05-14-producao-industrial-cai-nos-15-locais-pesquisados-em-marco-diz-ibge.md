@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial cai nos 15 locais pesquisados em março, diz IBGE"
+title: Produção industrial cai nos 15 locais pesquisados em março, diz IBGE
 date: 2020-05-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Este recuo é o primeiro desde início da série histórica em 2012
 

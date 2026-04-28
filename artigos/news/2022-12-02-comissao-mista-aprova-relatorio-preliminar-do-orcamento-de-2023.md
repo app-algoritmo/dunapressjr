@@ -1,11 +1,12 @@
 ---
-title: "Comissão mista aprova relatório preliminar do Orçamento de 2023"
+title: Comissão mista aprova relatório preliminar do Orçamento de 2023
 date: 2022-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista de Orçamento avançou no cronograma do Orçamento de 2023 ([PLN 32/22](https://www.camara.leg.br/noticias/906580-projeto-do-orcamento-de-2023-preve-salario-minimo-de-r-1-302/)) com a aprovação do relatório preliminar. Os parlamentares dispensaram o prazo normal de dois dias após a apresentação do relatório para a votação. O objetivo é acelerar a tramitação à espera da votação da PEC da Transição ([PEC 32/22](https://www.camara.leg.br/noticias/922937-RELATOR-DO-ORCAMENTO-PROTOCOLA-PEC-QUE-PERMITE-A-CONTINUIDADE-DO-AUXILIO-BRASIL-DE-R$-600)), que deve abrir espaço nas despesas.
 

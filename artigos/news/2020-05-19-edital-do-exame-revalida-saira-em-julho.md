@@ -1,11 +1,12 @@
 ---
-title: "Edital do exame Revalida sairá em Julho"
+title: Edital do exame Revalida sairá em Julho
 date: 2020-05-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida) terá novo edital publicado em julho. A prova será aplicada em 11 de outubro.  
 

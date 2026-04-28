@@ -1,11 +1,13 @@
 ---
-title: "Engenheiros desenvolvem sistema de GPS de baixo custo e alta precisão para robôs médicos flexíveis"
+title: Engenheiros desenvolvem sistema de GPS de baixo custo e alta precisão para
+  robôs médicos flexíveis
 date: 2020-06-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Os roboticistas da Universidade da Califórnia em San Diego desenvolveram um sistema acessível e fácil de usar para rastrear a localização de robôs cirúrgicos flexíveis dentro do corpo humano. O sistema tem um desempenho tão bom quanto os métodos atuais, mas é muito mais barato. Muitos métodos atuais também exigem exposição à radiação, enquanto este sistema não.
 

@@ -1,11 +1,12 @@
 ---
-title: "O papel da poluição do ar na pandemia de coronavírus"
+title: O papel da poluição do ar na pandemia de coronavírus
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Obesidade, hipertensão e diabetes são fatores de risco conhecidos. Mas os pobres que vivem em cidades do interior têm outro risco a enfrentar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa espacial brasileira é premiada na China"
+title: Pesquisa espacial brasileira é premiada na China
 date: 2023-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Danilo Almeida Machado é mestre em Ciências e Tecnologias Espaciais pelo Instituto Tecnológico de Aeronáutica (ITA) e, com bolsa de Demanda Social da CAPES, faz doutorado em Engenharia e Tecnologia Espacial no Instituto Nacional de Pesquisas Espaciais (Inpe). Com 12 anos de experiência na área espacial, atuou por oito no desenvolvimento de veículos hipersônicos no Instituto de Estudos Avançados e nos últimos quatro anos desenvolve injetores de motores-foguete. Sua pesquisa conquistou um importante prêmio durante congresso realizado na China, em 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Jogo eletrônico ajuda na alfabetização de crianças"
+title: Jogo eletrônico ajuda na alfabetização de crianças
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aliar brincadeira, tecnologia e aprendizado. Com esse objetivo, foi lançado nesta sexta-feira (27), pelo Ministério da Educação (MEC), o GraphoGame, uma ferramenta, com jogos, voltada para a alfabetização de crianças. “Esse projeto é uma maneira lúdica de levar as crianças a se envolverem com a alfabetização”, explica o ministro da Educação, Milton Ribeiro.
 

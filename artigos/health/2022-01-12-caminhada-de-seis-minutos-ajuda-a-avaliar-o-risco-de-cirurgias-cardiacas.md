@@ -1,11 +1,12 @@
 ---
-title: "Caminhada de seis minutos ajuda a avaliar o risco de cirurgias cardíacas"
+title: Caminhada de seis minutos ajuda a avaliar o risco de cirurgias cardíacas
 date: 2022-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Nos últimos anos, foram alcançados avanços importantes no tratamento de pacientes com [cardiopatias congênitas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#), principalmente em relação ao diagnóstico dessas doenças e procedimentos cirúrgicos. Inovações nas técnicas de cirurgias e nos cuidados pós-operatórios contribuíram com o sucesso de correções de doenças cardíacas congênitas que antes eram consideradas inoperáveis. Isso permitiu que a [sobrevida](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#) desses pacientes aumentasse de modo significativo.
 

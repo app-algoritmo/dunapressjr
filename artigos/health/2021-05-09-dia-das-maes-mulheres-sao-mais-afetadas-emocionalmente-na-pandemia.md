@@ -1,11 +1,12 @@
 ---
-title: "Dia das Mães: mulheres são mais afetadas emocionalmente na pandemia"
+title: 'Dia das Mães: mulheres são mais afetadas emocionalmente na pandemia'
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mito da "mulher heroína multitarefas", que concilia trabalhos domésticos, vida profissional e maternidade, impacta saúde mental e, também, a física.
 

@@ -1,11 +1,12 @@
 ---
-title: "Iniciados os ensaios clínicos com vacina BGC para a prevenção da Covid-19"
+title: Iniciados os ensaios clínicos com vacina BGC para a prevenção da Covid-19
 date: 2020-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministro da Ciência e Tecnologia acompanhou os trabalhos no Rio de Janeiro e inaugurou laboratório de campanha. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Vírus da Zika pode combater câncer cerebral infantil"
+title: Vírus da Zika pode combater câncer cerebral infantil
 date: 2021-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudo realizado pela pesquisadora Carolini Kaid, do Programa de Pós-Graduação em Ciências Biológicas da Universidade de São Paulo (USP) descobriu que o vírus da Zika é capaz de infectar e matar as células de tumores cerebrais com eficácia, sem causar danos às células saudáveis. A pesquisa faz parte da tese de doutorado vencedora do Prêmio Capes de Tese 2020 na área de Biologia Genética.
 

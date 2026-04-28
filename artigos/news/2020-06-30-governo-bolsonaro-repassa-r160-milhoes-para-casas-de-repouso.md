@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro repassa R$160 milhões para casas de repouso"
+title: Governo Bolsonaro repassa R$160 milhões para casas de repouso
 date: 2020-06-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Recurso irá subsidiar ações de enfrentamento à Covid-19 em Instituições de Longa Permanência para Idosos.
 

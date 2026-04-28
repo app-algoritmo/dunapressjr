@@ -1,11 +1,12 @@
 ---
-title: "Documento Nacional de Identidade começa a ser emitido em março"
+title: Documento Nacional de Identidade começa a ser emitido em março
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa é resultado do trabalho conjunto do Ministério da Economia, do TSE e do Serpro.
 

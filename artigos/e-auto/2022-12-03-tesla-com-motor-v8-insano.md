@@ -1,12 +1,13 @@
 ---
-title: "Tesla com motor V8, insano"
+title: Tesla com motor V8, insano
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
-  - News
+- E-auto
+- News
 ---
+
 
 ## Quando se fala da Tesla, o que lhe vem a cabeça? Carros elétricos, certo?
 

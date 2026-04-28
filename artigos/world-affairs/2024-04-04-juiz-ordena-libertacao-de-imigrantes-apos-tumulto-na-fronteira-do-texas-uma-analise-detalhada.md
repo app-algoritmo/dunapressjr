@@ -1,11 +1,13 @@
 ---
-title: "Juiz ordena libertação de imigrantes após tumulto na fronteira do Texas: Uma análise detalhada"
+title: 'Juiz ordena libertação de imigrantes após tumulto na fronteira do Texas: Uma
+  análise detalhada'
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No dia 22 de março, a fronteira sul dos Estados Unidos testemunhou um confronto de grande escala entre imigrantes e a Guarda Nacional do Texas em El Paso. O incidente, descrito como o mais sério na região, trouxe à tona questões urgentes sobre segurança e jurisdição. A maioria dos envolvidos eram homens venezuelanos, que desafiaram as autoridades ao romper barreiras físicas e legais, incluindo arame farpado ao longo do Rio Grande.
 

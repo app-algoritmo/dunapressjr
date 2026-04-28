@@ -1,11 +1,12 @@
 ---
-title: "Como funciona a economia?"
+title: Como funciona a economia?
 date: 2022-01-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Hoje trazemos este excelente vídeo do canal Jovens de Negócio desenvolvido por Breno Perrucho, onde você já deve ter se perguntado como funciona a economia.
 

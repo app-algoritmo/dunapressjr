@@ -1,11 +1,12 @@
 ---
-title: "FBI alertou autoridades brasileiras sobre ameaça de ataque terrorista"
+title: FBI alertou autoridades brasileiras sobre ameaça de ataque terrorista
 date: 2023-11-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Justiça confirma suspeita de envolvimento de brasileiros com Hezbollah.
 

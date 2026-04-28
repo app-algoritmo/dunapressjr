@@ -1,11 +1,12 @@
 ---
-title: "Medida restringe a entrada de estrangeiros pelos portos brasileiros"
+title: Medida restringe a entrada de estrangeiros pelos portos brasileiros
 date: 2020-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os ministros da Casa Civil, Braga Netto; da Justiça e Segurança Pública, Sergio Moro; da Infraestrutura, Tarcísio Gomes, e da Saúde, Luiz Henrique Mandetta, editaram, na quinta-feira (26), [nova portaria](http://www.in.gov.br/web/dou/-/portaria-n-47-de-26-de-marco-de-2020-249861855) que restringe a entrada de estrangeiros no Brasil por meio dos portos. Não haverá prejuízo ao desembarque de cargas.
 

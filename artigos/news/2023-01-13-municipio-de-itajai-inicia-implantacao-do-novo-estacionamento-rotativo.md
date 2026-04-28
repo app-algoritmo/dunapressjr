@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí inicia implantação do novo estacionamento rotativo"
+title: Município de Itajaí inicia implantação do novo estacionamento rotativo
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí deu início à implantação do novo sistema de estacionamento rotativo. Os parquímetros e a sinalização de áreas e vagas começaram a ser instalados nesta semana. Ao todo, serão 4.807 vagas regulamentadas em diversos pontos da cidade. A previsão é que o sistema já comece a operar no início do mês de fevereiro com a zona azul. A retomada garantirá um serviço mais moderno e eficaz, além de atender às demandas da comunidade e dos lojistas no Centro e bairros.
 

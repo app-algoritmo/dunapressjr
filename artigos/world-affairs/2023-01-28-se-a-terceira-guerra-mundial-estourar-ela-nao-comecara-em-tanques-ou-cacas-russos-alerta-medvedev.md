@@ -1,11 +1,13 @@
 ---
-title: "Se a Terceira Guerra Mundial estourar, ela não começará em tanques ou caças russos, alerta Medvedev"
+title: Se a Terceira Guerra Mundial estourar, ela não começará em tanques ou caças
+  russos, alerta Medvedev
 date: 2023-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O vice-presidente do Conselho de Segurança da Rússia criticou as tentativas ocidentais de justificar a entrega de armas a Kiev como um suposto esforço para evitar uma guerra mundial
 

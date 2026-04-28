@@ -1,11 +1,13 @@
 ---
-title: "Funcionários aposentados do FBI acusam Joe Biden de ter facilitado a “invasão suave” de homens em idade militar"
+title: Funcionários aposentados do FBI acusam Joe Biden de ter facilitado a “invasão
+  suave” de homens em idade militar
 date: 2024-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Devo estar a perder alguma coisa, porque o Texas contestou uma decisão do Governo dos Estados Unidos e uma decisão do Supremo Tribunal, acusando pública e oficialmente o primeiro de grave abandono de funções, **apoiado (por enquanto) por metade dos estados** , alguns dos quais Até enviaram tropas para ajudar o governador do Texas... e os meios de comunicação mal cobrem o assunto, como se não existisse ou fosse um assunto menor, embora tenha todas as características de uma rebelião plena.
 

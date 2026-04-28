@@ -1,11 +1,12 @@
 ---
-title: "Audiências públicas sobre a reforma da Previdência dominam a semana da CCJ"
+title: Audiências públicas sobre a reforma da Previdência dominam a semana da CCJ
 date: 2019-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A CCJ promoverá seis eventos de debates em três dias.
 

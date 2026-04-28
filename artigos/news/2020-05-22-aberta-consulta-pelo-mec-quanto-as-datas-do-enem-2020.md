@@ -1,11 +1,12 @@
 ---
-title: "Aberta consulta pelo MEC quanto as datas do Enem 2020"
+title: Aberta consulta pelo MEC quanto as datas do Enem 2020
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os estudantes que se inscreverem no Exame Nacional do Ensino Médio (Enem) 2020 vão poder opinar sobre a data de realização da prova. O Ministério da Educação (MEC) fará uma consulta com os inscritos na última semana de junho. O anúncio foi feito pelo ministro da Educação, Abraham Weintraub, nesta terça-feira, 19 de maio, quando mais de 4 milhões de estudantes já fizeram a inscrição.
 

@@ -1,11 +1,12 @@
 ---
-title: "Papai Noel dos Correios será digital este ano"
+title: Papai Noel dos Correios será digital este ano
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Natal se aproxima e, com a chegada dele, também tem início uma das campanhas de solidariedade mais queridas do Brasil: o Papai Noel dos Correios. Em função da Covid-19, este ano a estatal promoveu adaptações para assegurar a realização, com segurança, de um dos maiores projetos sociais do país.
 

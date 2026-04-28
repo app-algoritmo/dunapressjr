@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,14 e fecha sexta semana em baixa"
+title: Dólar cai para R$ 5,14 e fecha sexta semana em baixa
 date: 2022-02-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa recuou 0,57% com tensões geopolíticas na Ucrânia.
 

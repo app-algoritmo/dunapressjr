@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,73% em meio a incertezas"
+title: Ibovespa cai 0,73% em meio a incertezas
 date: 2023-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha a R$ 4,86.
 

@@ -1,11 +1,12 @@
 ---
-title: "Câmara dos Deputados aprova regime de urgência para substituir o teto de gastos"
+title: Câmara dos Deputados aprova regime de urgência para substituir o teto de gastos
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **Projeto de lei complementar propõe novo arcabouço fiscal para garantir estabilidade econômica e sustentabilidade da dívida**
 

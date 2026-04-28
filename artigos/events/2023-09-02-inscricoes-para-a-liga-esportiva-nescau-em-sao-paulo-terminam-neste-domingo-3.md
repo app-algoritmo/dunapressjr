@@ -1,12 +1,14 @@
 ---
-title: "Inscrições para a Liga Esportiva NESCAU®, em São Paulo, terminam neste domingo (3)"
+title: Inscrições para a Liga Esportiva NESCAU®, em São Paulo, terminam neste domingo
+  (3)
 date: 2023-09-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## Maior campeonato multiesportivo estudantil do Brasil será nos dias 16 e 17 de setembro, na capital paulista. Crianças e jovens entre sete e 17 anos podem garantir participação pelo site do evento.
 

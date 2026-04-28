@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção cresce 3,7 pontos em outubro, diz FGV"
+title: Confiança da construção cresce 3,7 pontos em outubro, diz FGV
 date: 2020-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice atingiu 95,2 pontos, em uma escala de zero a 200 pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia R$ 200 bilhões para socorrer trabalhadores e empresas"
+title: Governo anuncia R$ 200 bilhões para socorrer trabalhadores e empresas
 date: 2020-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Medidas provisórias e auxílio de R$ 600 devem sair até amanhã
 

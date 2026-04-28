@@ -1,11 +1,12 @@
 ---
-title: "Caixa paga abono salarial para trabalhadores nascidos em fevereiro"
+title: Caixa paga abono salarial para trabalhadores nascidos em fevereiro
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Calendário de liberação segue mês de nascimento e vai até 31 de março.
 

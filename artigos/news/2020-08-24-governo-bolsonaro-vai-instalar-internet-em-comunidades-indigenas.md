@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro vai instalar internet em comunidades indígenas"
+title: Governo Bolsonaro vai instalar internet em comunidades indígenas
 date: 2020-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é facilitar a comunicação com as comunidades de difícil acesso para trazer agilidade no atendimento à saúde indígena. Projeto é uma parceria com o Ministério das Comunicações.
 

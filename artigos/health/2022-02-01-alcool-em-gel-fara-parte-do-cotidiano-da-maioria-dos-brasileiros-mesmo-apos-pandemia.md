@@ -1,11 +1,13 @@
 ---
-title: "Álcool em gel fará parte do cotidiano da maioria dos brasileiros mesmo após pandemia"
+title: Álcool em gel fará parte do cotidiano da maioria dos brasileiros mesmo após
+  pandemia
 date: 2022-02-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Teorias indicam que são necessários pelo menos 21 dias para criar um novo hábito. Após quase dois anos intensificando os cuidados para evitar a covid-19, uma pesquisa realizada pela Xlear aponta que 64% dos brasileiros pretende manter a lavagem das mãos e 50% o uso do álcool em gel mesmo após o fim da pandemia. 
 

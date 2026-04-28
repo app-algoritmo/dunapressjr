@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro projeta queda de 5,62% na economia este ano"
+title: Mercado financeiro projeta queda de 5,62% na economia este ano
 date: 2020-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para 2021, a estimativa de inflação permanece em 3%, diz BC.
 

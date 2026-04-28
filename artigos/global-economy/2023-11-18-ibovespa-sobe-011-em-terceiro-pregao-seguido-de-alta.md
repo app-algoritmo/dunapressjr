@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 0,11% em terceiro pregão seguido de alta"
+title: Ibovespa sobe 0,11% em terceiro pregão seguido de alta
 date: 2023-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar volta a R$ 4,90.
 

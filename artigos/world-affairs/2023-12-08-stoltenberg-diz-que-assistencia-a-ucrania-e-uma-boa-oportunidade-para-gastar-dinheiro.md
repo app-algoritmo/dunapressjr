@@ -1,11 +1,13 @@
 ---
-title: "Stoltenberg diz que assistência à Ucrânia é uma boa oportunidade para gastar dinheiro"
+title: Stoltenberg diz que assistência à Ucrânia é uma boa oportunidade para gastar
+  dinheiro
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Na cimeira de Vilnius, em Julho de 2023, foi decidido que 2% do PIB deveria ser um nível mínimo de despesas com a defesa para os países da NATO, em vez de um objectivo a atingir.
 

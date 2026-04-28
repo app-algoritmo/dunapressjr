@@ -1,11 +1,12 @@
 ---
-title: "Entenda como e se compensa realizar uma portabilidade de financiamento"
+title: Entenda como e se compensa realizar uma portabilidade de financiamento
 date: 2022-08-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Esta alternativa pode ser a saída para conseguir juros mais baixos e maior prazo para quitação do financiamento
 

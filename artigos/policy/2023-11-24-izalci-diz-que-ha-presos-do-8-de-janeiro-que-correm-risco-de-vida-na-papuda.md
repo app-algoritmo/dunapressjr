@@ -1,11 +1,12 @@
 ---
-title: "Izalci diz que há presos do 8 de janeiro que correm risco de vida na Papuda"
+title: Izalci diz que há presos do 8 de janeiro que correm risco de vida na Papuda
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) afirmou, em pronunciamento na terça-feira (21), que existem oito presos pela invasão das sedes dos três Poderes em 8 de janeiro correndo risco de vida. O parlamentar lembrou do caso de Cleriston Pereira da Cunha, de 46 anos, que morreu no Complexo Penitenciário da Papuda, em Brasília, após uma parada cardíaca na segunda-feira (20). Izalci ressaltou que Cleriston tinha parecer de soltura da Procuradoria-Geral da República (PGR).
 

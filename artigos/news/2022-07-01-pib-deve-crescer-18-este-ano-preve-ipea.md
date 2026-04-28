@@ -1,11 +1,12 @@
 ---
-title: "PIB deve crescer 1,8% este ano, prevê Ipea"
+title: PIB deve crescer 1,8% este ano, prevê Ipea
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para 2023, a previsão de crescimento é de 1,3%.
 

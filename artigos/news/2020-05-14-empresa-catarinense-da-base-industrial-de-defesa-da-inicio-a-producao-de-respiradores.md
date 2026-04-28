@@ -1,11 +1,12 @@
 ---
-title: "Empresa catarinense da Base Industrial de Defesa dá início à produção de respiradores"
+title: Empresa catarinense da Base Industrial de Defesa dá início à produção de respiradores
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Base Industrial de Defesa (BID) atendeu ao chamado do Ministério da Defesa (MD) e promove várias iniciativas para colaborar com o governo federal no combate à COVID-19. No estado de Santa Catarina, uma grande empresa de Defesa finalizou o primeiro respirador no último sábado (09). A meta é produzir entre 500 de mil unidades por mês. Outra empresa catarinense confeccionou e entregou 40 mil máscaras face shield.
 

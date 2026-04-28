@@ -1,11 +1,12 @@
 ---
-title: "5 dicas para estudar em casa"
+title: 5 dicas para estudar em casa
 date: 2022-01-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 É inegável que boa parte da nossa vida é voltada para **estudar** e aprender novas técnicas úteis durante a vida adulta e no exercício das nossas profissões. No entanto, mesmo após a finalização da faculdade percebemos que seguir aprendendo é uma necessidade primordial.
 

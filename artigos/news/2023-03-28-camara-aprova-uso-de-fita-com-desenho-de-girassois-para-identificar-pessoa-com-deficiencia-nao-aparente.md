@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova uso de fita com desenho de girassóis para identificar pessoa com deficiência não aparente"
+title: Câmara aprova uso de fita com desenho de girassóis para identificar pessoa
+  com deficiência não aparente
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (22) projeto de lei que institui o cordão de fita com desenhos de girassóis como símbolo nacional de identificação de pessoas com deficiências ocultas. A proposta será enviada ao Senado.
 

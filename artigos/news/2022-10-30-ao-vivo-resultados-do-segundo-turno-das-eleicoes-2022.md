@@ -1,12 +1,13 @@
 ---
-title: "Ao vivo: resultados do segundo turno das eleições 2022"
+title: 'Ao vivo: resultados do segundo turno das eleições 2022'
 date: 2022-10-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Acompanhe [ao vivo](https://youtu.be/pOyAs5539T4) os resultados das apurações dos votos nas eleições Brasil 2022 a partir das 16:45h.
 

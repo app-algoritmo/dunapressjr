@@ -1,11 +1,12 @@
 ---
-title: "Conluio entre CIA e Big Tech: Uma Ameaça à Liberdade de Expressão?"
+title: 'Conluio entre CIA e Big Tech: Uma Ameaça à Liberdade de Expressão?'
 date: 2024-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma recente investigação revelou um conluio alarmante entre o braço de inteligência do governo dos EUA e grandes empresas de tecnologia para impor censura doméstica. Diferentemente do FBI, que opera sob restrições legais mais brandas, a CIA é estritamente proibida de realizar operações clandestinas contra cidadãos americanos. No entanto, os chamados "Arquivos do Twitter" expuseram um esquema envolvendo membros do Conselho de Curadores de uma empresa de capital de risco ligada à CIA e ex-analistas da agência, visando controlar o sistema de gerenciamento de conteúdo do Twitter entre 2021 e 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto inclui violência obstétrica na Lei Maria da Penha"
+title: Projeto inclui violência obstétrica na Lei Maria da Penha
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 422/23 inclui a violência obstétrica entre os tipos de violência previstos na [Lei Maria da Penha](https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-norma-pl.html). A lei institui mecanismos para coibir a violência doméstica e familiar contra a mulher. A proposta está em análise na Câmara dos Deputados.
 

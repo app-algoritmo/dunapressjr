@@ -1,11 +1,12 @@
 ---
-title: "O que fazer quando a tirania do Covid voltar?"
+title: O que fazer quando a tirania do Covid voltar?
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um colega comentou recentemente: “Ainda estou muito zangado com o que aconteceu com minha família e comigo por me recusar a ser vacinado neste país [Canadá]. 
 

@@ -1,11 +1,12 @@
 ---
-title: "FFAA e PRF movimentam o Diário Oficial com mais aquisições"
+title: FFAA e PRF movimentam o Diário Oficial com mais aquisições
 date: 2022-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Bolsonaro está equipando as FFAA e a PRF pra entregar de bandeja para o Lula? Acredito que não.
 

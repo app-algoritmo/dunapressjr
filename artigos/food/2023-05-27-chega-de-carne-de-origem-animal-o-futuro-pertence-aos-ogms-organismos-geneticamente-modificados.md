@@ -1,11 +1,13 @@
 ---
-title: "Chega de carne de origem animal! O futuro pertence aos OGMs, organismos geneticamente modificados"
+title: Chega de carne de origem animal! O futuro pertence aos OGMs, organismos geneticamente
+  modificados
 date: 2023-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Empresas privadas e governos nacionais estão trabalhando lado a lado para aproveitar os avanços da biotecnologia para permitir que interesses (poderosos e especiais) controlem o suprimento mundial de alimentos. Estamos falando de uma série de avanços biotecnológicos que vão além da engenharia genética de sementes, que se tornou corriqueira na cadeia agrícola nas últimas duas décadas. Hoje, trabalha-se intensamente para um futuro em que não haja mais carne animal.
 

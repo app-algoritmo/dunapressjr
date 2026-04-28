@@ -1,11 +1,13 @@
 ---
-title: "Ferramenta, em uso pela Polícia Federal, permite guiar ações de combate ao crime organizado"
+title: Ferramenta, em uso pela Polícia Federal, permite guiar ações de combate ao
+  crime organizado
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O programa Brasil M.A.I.S (Meio Ambiente Integrado e Seguro), um dos projetos estratégicos do Ministério da Justiça e Segurança Pública, já está disponível para adesão dos órgãos federais, estaduais e municipais, bem como de todos os integrantes do Sistema Único de Segurança Pública (SUSP).
 

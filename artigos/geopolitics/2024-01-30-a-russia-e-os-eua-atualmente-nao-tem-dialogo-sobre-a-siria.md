@@ -1,11 +1,12 @@
 ---
-title: "A Rússia e os EUA atualmente não têm diálogo sobre a Síria"
+title: A Rússia e os EUA atualmente não têm diálogo sobre a Síria
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Os contatos são mantidos, mas apenas através deste mecanismo entre o comandante do nosso grupo na Síria e o comando da chamada coligação internacional", disse o representante especial do presidente russo para o colonato sírio, Alexander Lavrentiev.
 

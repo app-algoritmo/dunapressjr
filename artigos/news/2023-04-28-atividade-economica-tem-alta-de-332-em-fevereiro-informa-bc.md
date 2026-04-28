@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica tem alta de 3,32% em fevereiro, informa BC"
+title: Atividade econômica tem alta de 3,32% em fevereiro, informa BC
 date: 2023-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, o indicador ficou positivo em 3,08%.
 

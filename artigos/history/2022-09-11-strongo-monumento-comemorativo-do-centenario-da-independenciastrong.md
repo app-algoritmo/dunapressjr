@@ -1,11 +1,12 @@
 ---
-title: "<strong>O Monumento Comemorativo do Centenário da Independência</strong>"
+title: <strong>O Monumento Comemorativo do Centenário da Independência</strong>
 date: 2022-09-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Para comemorar o centenário da Independência do Brasil, o governo paulista organizou um concurso para apresentação de projetos de um monumento escultórico que se pretendia erigir na colina do Ipiranga, na cidade de São Paulo.
 

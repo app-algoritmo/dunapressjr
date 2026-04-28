@@ -1,11 +1,12 @@
 ---
-title: "Post Malone anuncia quinto álbum 'Austin' e novo single 'Mourning'"
+title: Post Malone anuncia quinto álbum 'Austin' e novo single 'Mourning'
 date: 2023-05-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## "[É] um dos discos mais desafiadores, gratificantes e emocionantes em que trabalhei", explicou a estrela,  que também confirmou uma turnê norte-americana em 2023.
 

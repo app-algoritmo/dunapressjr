@@ -1,11 +1,12 @@
 ---
-title: "O Rei do Mar Estreito 1X4"
+title: O Rei do Mar Estreito 1X4
 date: 2022-09-15
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 O Jogo do Trono Começou
 

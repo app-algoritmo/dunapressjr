@@ -1,11 +1,12 @@
 ---
-title: "IGP-10 acumula taxa de 31,16% em 12 meses, diz FGV"
+title: IGP-10 acumula taxa de 31,16% em 12 meses, diz FGV
 date: 2021-03-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice registrou inflação de 2,99% em março deste ano.
 

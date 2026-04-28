@@ -1,11 +1,12 @@
 ---
-title: "<strong>Malha aérea internacional do Brasil atinge maior volume desde 2019</strong>"
+title: <strong>Malha aérea internacional do Brasil atinge maior volume desde 2019</strong>
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Embratur quer recuperar 100% da conectividade.
 

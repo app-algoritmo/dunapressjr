@@ -1,11 +1,12 @@
 ---
-title: "Projetos ambientais nos 200 dias de governo Bolsonaro"
+title: Projetos ambientais nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Projeto “Juntos pelo Araguaia” ganha destaque no eixo ambiental
 

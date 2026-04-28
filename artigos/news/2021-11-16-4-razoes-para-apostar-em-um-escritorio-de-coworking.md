@@ -1,11 +1,12 @@
 ---
-title: "4 razões para apostar em um escritório de coworking"
+title: 4 razões para apostar em um escritório de coworking
 date: 2021-11-16
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Espaços abertos e colaborativos tendem a ser mais baratos. No entanto, eles têm suas desvantagens e não são adequados para todos os profissionais. O  coworking está surgindo como uma alternativa  para muitas empresas e freelancers que desejam economizar dinheiro compartilhando um espaço de trabalho.
 

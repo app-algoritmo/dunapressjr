@@ -1,11 +1,12 @@
 ---
-title: "Alta da Selic impactou lucro da Caixa, diz vice-presidente do banco"
+title: Alta da Selic impactou lucro da Caixa, diz vice-presidente do banco
 date: 2022-08-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Recorde no crédito imobiliário e agrícola compensou redução nos ganhos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Habilitadas mais três plantas brasileiras, pela China, para exportação de pescado"
+title: Habilitadas mais três plantas brasileiras, pela China, para exportação de pescado
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Lista de estabelecimentos do Brasil que poderão exportar pescados para o país asiático chegou a 110 empresas.
 

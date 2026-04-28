@@ -1,11 +1,13 @@
 ---
-title: "Escola Superior de Guerra promove Curso de Direito Internacional dos Conflitos Armados"
+title: Escola Superior de Guerra promove Curso de Direito Internacional dos Conflitos
+  Armados
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Na última terça feira (17), foi realizada a aula inaugural do Curso de Direito Internacional dos Conflitos Armados (CDICA), na Escola Superior de Guerra (ESG). O evento é voltado para 36 estagiários, entre civis e militares. Está em sua quinta semana, que acontece de 16 a 27 de março, das 9h às 17h. As palestras envolvem temas, como: Guerra Cibernética, Responsabilidade no Comando, Tratados Internacionais, Estrutura da ONU, entre outros assuntos.
 

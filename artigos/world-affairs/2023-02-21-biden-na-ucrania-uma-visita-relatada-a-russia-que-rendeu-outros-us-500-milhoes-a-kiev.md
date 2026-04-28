@@ -1,11 +1,13 @@
 ---
-title: "Biden na Ucrânia: uma visita relatada à Rússia que rendeu outros US$ 500 milhões a Kiev"
+title: 'Biden na Ucrânia: uma visita relatada à Rússia que rendeu outros US$ 500 milhões
+  a Kiev'
 date: 2023-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, anunciou nesta segunda-feira durante sua visita surpresa a Kiev 500 milhões de dólares em ajuda adicional à Ucrânia e anunciou que esta semana anunciará mais sanções contra a Rússia.
 

@@ -1,11 +1,13 @@
 ---
-title: "Agricultura familiar: Governo do Brasil disponibiliza o programa de aquisição de alimentos"
+title: 'Agricultura familiar: Governo do Brasil disponibiliza o programa de aquisição
+  de alimentos'
 date: 2020-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Programa de Aquisição de Alimentos (PAA) é uma das principais políticas de apoio e incentivo à agricultura familiar no Brasil. Por meio dessa iniciativa, agricultores, cooperativas e associações vendam seus produtos para órgãos públicos. Em 2019, o Ministério da Cidadania disponibilizou mais de R$ 285 milhões para a Compra Institucional, uma das modalidades do programa. O valor é o mais alto registrado desde a criação do PAA.
 

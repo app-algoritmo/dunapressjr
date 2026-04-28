@@ -1,11 +1,13 @@
 ---
-title: "Comunidade Judaica Ortodoxa em Nova York desafia as novas restrições impostas pelo estado às sinagogas, escolas e negócios não essenciais"
+title: Comunidade Judaica Ortodoxa em Nova York desafia as novas restrições impostas
+  pelo estado às sinagogas, escolas e negócios não essenciais
 date: 2020-10-13
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 "Será que o cidadão deve, ainda que por um momento e em grau mínimo, abrir mão de sua consciência em prol do legislador? Nesse caso, por que cada homem dispõe de uma consciência? Penso que devemos ser primeiro homens, e só depois súditos. Não é desejável cultivar tanto respeito pela lei quanto pelo que é direito. A única obrigação que tenho o direito de assumir é a de fazer em qualquer tempo o que julgo ser correto."  (A Desobediência Civil – Henry Thoreau)
 

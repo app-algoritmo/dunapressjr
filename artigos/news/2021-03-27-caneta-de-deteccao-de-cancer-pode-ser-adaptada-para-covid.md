@@ -1,11 +1,12 @@
 ---
-title: "Caneta de detecção de câncer pode ser adaptada para Covid"
+title: Caneta de detecção de câncer pode ser adaptada para Covid
 date: 2021-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ofertar um teste rápido, eficiente e com baixa margem de erro de detecção do vírus corona é o objetivo do estudo ‘Validação multicêntrica de biomarcadores diagnósticos e prognósticos de COVID-19 utilizando a nova caneta analítica MasSpec Pen e espectrometria de massas’. Desenvolvido pela Universidade Presbiteriana Mackenzie, em São Paulo, em conjunto com as Universidade São Francisco (USF), em Bragança Paulista, e do Texas, nos Estados Unidos, o projeto é um dos presentes no resultado final do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
 

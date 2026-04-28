@@ -1,11 +1,12 @@
 ---
-title: "A fase final do império americano"
+title: A fase final do império americano
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Não é uma experiência agradável testemunhar as fases finais de um império em declínio, desmoronando e debatendo-se nos estertores da dívida, da maldade e da negação. Mas é apenas o ciclo da história que se desenrola novamente. O nome do Império mudou, outros vilões e tolos, conflitos civis e internacionais e uma crise da dívida para acabar com todas as crises da dívida. Como mostra o gráfico abaixo, a ordem social que tem sido controlada e dominada pelos Estados Unidos desde o início do século XX está rapidamente a chegar ao fim. Arrastados por um tsunami de dívidas, caos social e guerra global. É assim que funciona o Quarto Turno.
 

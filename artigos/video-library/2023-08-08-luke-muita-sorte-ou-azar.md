@@ -1,11 +1,12 @@
 ---
-title: "Luke - Muita Sorte ou Azar?"
+title: Luke - Muita Sorte ou Azar?
 date: 2023-08-08
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://www.youtube.com/watch?v=D-9ldjC_rkM
 

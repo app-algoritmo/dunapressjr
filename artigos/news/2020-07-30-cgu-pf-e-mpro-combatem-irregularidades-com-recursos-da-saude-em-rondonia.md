@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPRO combatem irregularidades com recursos da saúde em Rondônia"
+title: CGU, PF e MPRO combatem irregularidades com recursos da saúde em Rondônia
 date: 2020-07-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Polígrafo investiga fraudes na aquisição, por dispensa de licitação, de 100 mil kits de teste rápido para Covid-19, no valor de R$ 10,5 milhões.
 

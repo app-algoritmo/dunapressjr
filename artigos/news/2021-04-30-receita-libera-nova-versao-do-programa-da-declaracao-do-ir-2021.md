@@ -1,11 +1,12 @@
 ---
-title: "Receita libera nova versão do programa da declaração do IR 2021"
+title: Receita libera nova versão do programa da declaração do IR 2021
 date: 2021-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atualização permite gerar guias com novas datas de pagamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Proteínas da chia ajudam a deter doenças cardiovasculares"
+title: Proteínas da chia ajudam a deter doenças cardiovasculares
 date: 2022-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A pesquisadora da Universidade Federal de Viçosa (UFV), Mariana Grancieri, foi a vencedora do Prêmio CAPES de Tese 2021 na área de Nutrição. Seu  trabalho trata dos benefícios produzidos pelas  proteínas da chia, um tipo de semente, sobre a saúde humana. Elas provocam alterações metabólicas significativas que contribuem diretamente para evitar, sobretudo, doenças cardiovasculares.
 

@@ -1,11 +1,13 @@
 ---
-title: "A voracidade por ocupar áreas como Educação e   Cultura visa ter o poder de reescrever a História, Maurício Waissman"
+title: A voracidade por ocupar áreas como Educação e   Cultura visa ter o poder de
+  reescrever a História, Maurício Waissman
 date: 2020-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Eu concedi a entrevista para que o público tivesse um diagnóstico geral da importância da Política de Cultura em vigor no Brasil, além de ressaltar a importância de que o bloco de servidores exonerados é o primeiro caso de servidores leais ao presidente sendo perseguidos politicamente, não se sabe por quais grupos internos nos bastidores, “exatamente e unicamente” por serem LEAIS ao presidente Bolsonaro e realmente conservadores. Nenhuma outra razão houve, além dessa. Foram exonerados apenas por serem Bolsonaristas. Na realidade as pessoas que ali estavam e saíram no dia 03 de março eram verdadeiros soldados do Bolsonaro, pessoas realmente comprometidas em defender o presidente. 
 

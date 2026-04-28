@@ -1,11 +1,12 @@
 ---
-title: "Qual o impacto do coronavírus na China? E as possíveis implicações para Israel?"
+title: Qual o impacto do coronavírus na China? E as possíveis implicações para Israel?
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O coronavírus até agora infectou mais de 200.000 pessoas e reivindicou quase 10.000 vidas. Além do grande desafio colocado aos sistemas de saúde pública em todo o mundo, já está claro que a presença maciça da China no cenário internacional e a interdependência da economia global significam que o vírus provavelmente causará conseqüências econômicas e geopolíticas de longo alcance. para espalhar, inclusive aqui em Israel.
 

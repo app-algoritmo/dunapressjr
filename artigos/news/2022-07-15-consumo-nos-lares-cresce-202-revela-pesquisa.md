@@ -1,11 +1,12 @@
 ---
-title: "Consumo nos lares cresce 2,02%, revela pesquisa"
+title: Consumo nos lares cresce 2,02%, revela pesquisa
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estudo é da Associação Brasileira de Supermercados.
 

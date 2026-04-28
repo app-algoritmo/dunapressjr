@@ -1,12 +1,13 @@
 ---
-title: "A decadência das cidades americanas devido ao consumo de drogas"
+title: A decadência das cidades americanas devido ao consumo de drogas
 date: 2023-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - Policy
+- Health
+- Policy
 ---
+
 
 A decadência de muitas cidades americanas devido ao consumo de drogas é um fenômeno complexo e multifacetado, que envolve uma combinação de fatores econômicos, sociais, políticos e de saúde pública. Filadélfia, na Pensilvânia, é uma das cidades que experimentou desafios significativos associados ao consumo de drogas. "**Vídeo no final do artigo**"
 

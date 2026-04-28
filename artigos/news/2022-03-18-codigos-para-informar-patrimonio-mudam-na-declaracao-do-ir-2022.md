@@ -1,11 +1,12 @@
 ---
-title: "Códigos para informar patrimônio mudam na declaração do IR 2022"
+title: Códigos para informar patrimônio mudam na declaração do IR 2022
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reorganização da ficha de bens e direitos causa dificuldades.
 

@@ -1,11 +1,12 @@
 ---
-title: "CNC: após período de quedas, confiança do comércio volta a subir"
+title: 'CNC: após período de quedas, confiança do comércio volta a subir'
 date: 2021-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Indicador acumulou alta de 10,9% em 2021.
 

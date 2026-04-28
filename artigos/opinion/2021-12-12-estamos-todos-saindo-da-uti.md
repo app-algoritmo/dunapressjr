@@ -1,11 +1,12 @@
 ---
-title: "Estamos todos saindo da UTI?"
+title: Estamos todos saindo da UTI?
 date: 2021-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## Por: Jarbas da Silva Motta Junior.
 

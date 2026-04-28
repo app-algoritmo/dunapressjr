@@ -1,11 +1,12 @@
 ---
-title: "Um olhar sobre o Mundo Mágico de Lewis- Introdução"
+title: Um olhar sobre o Mundo Mágico de Lewis- Introdução
 date: 2019-03-31
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **Introdução**
 

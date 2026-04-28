@@ -1,11 +1,13 @@
 ---
-title: "UE Propõe Monitoramento Rigoroso de Serviços de Comunicação em Meio a Preocupações com Privacidade de Dados"
+title: UE Propõe Monitoramento Rigoroso de Serviços de Comunicação em Meio a Preocupações
+  com Privacidade de Dados
 date: 2024-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um recente projeto da União Europeia (UE) está gerando controvérsia ao propor uma monitorização mais intensa dos serviços de comunicação, levantando preocupações entre defensores da privacidade de dados. O documento, vazado recentemente, revela detalhes da política da UE sobre a implementação do Regulamento sobre Abuso Sexual Infantil, mas também levanta questões sobre um possível "controle de chat" que poderia permitir pesquisas em massa de comunicações privadas sob o pretexto de procurar conteúdos ilegais.
 

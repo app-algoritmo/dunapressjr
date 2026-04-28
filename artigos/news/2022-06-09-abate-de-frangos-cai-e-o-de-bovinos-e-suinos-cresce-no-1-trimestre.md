@@ -1,11 +1,12 @@
 ---
-title: "Abate de frangos cai e o de bovinos e suínos cresce no 1º trimestre"
+title: Abate de frangos cai e o de bovinos e suínos cresce no 1º trimestre
 date: 2022-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Produção de suínos teve recorde para o período.
 

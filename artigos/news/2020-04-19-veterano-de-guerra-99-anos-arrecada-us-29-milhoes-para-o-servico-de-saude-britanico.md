@@ -1,11 +1,13 @@
 ---
-title: "Veterano de guerra, 99 anos arrecada  US $ 29 milhões para o serviço de saúde britânico"
+title: Veterano de guerra, 99 anos arrecada  US $ 29 milhões para o serviço de saúde
+  britânico
 date: 2020-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O capitão Tom Moore, um veterano de guerra britânico de 99 anos que levantou mais de US $ 29 milhões para o serviço de saúde caminhando 100 voltas de seu jardim, será um convidado de honra na abertura de um novo hospital de campanha na próxima semana.
 

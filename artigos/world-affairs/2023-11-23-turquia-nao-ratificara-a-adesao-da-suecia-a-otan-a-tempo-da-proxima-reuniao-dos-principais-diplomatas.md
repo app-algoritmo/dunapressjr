@@ -1,11 +1,13 @@
 ---
-title: "Turquia não ratificará a adesão da Suécia à OTAN a tempo da próxima reunião dos principais diplomatas"
+title: Turquia não ratificará a adesão da Suécia à OTAN a tempo da próxima reunião
+  dos principais diplomatas
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O projeto de lei deve primeiro ser ratificado pela comissão parlamentar turca, depois todo o parlamento irá votá-lo.
 

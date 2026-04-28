@@ -1,11 +1,13 @@
 ---
-title: "Ministra Damares Alves promete trabalhar para que o Brasil seja o melhor lugar no mundo para ser mulher"
+title: Ministra Damares Alves promete trabalhar para que o Brasil seja o melhor lugar
+  no mundo para ser mulher
 date: 2020-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 A ministra Damares Alves ressaltou,  a atuação do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) para mudar a realidades das mulheres do Brasil.
 

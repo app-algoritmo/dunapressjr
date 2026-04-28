@@ -1,11 +1,12 @@
 ---
-title: "Espanha Urgente: Rei Filipe VI deverá convocar novas eleições"
+title: 'Espanha Urgente: Rei Filipe VI deverá convocar novas eleições'
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Pedro Sánchez, PM espanhol, não logra maioria para governar
 

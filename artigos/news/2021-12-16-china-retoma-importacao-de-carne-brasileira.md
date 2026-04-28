@@ -1,11 +1,12 @@
 ---
-title: "China retoma importação de carne brasileira"
+title: China retoma importação de carne brasileira
 date: 2021-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País é o principal destino da exportação de carne bovina.
 

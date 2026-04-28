@@ -1,11 +1,12 @@
 ---
-title: "Girão critica pauta da ONU a favor do aborto em tempo de guerras e pandemias"
+title: Girão critica pauta da ONU a favor do aborto em tempo de guerras e pandemias
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou, em pronunciamento nesta segunda-feira (23), a postura da Organização das Nações Unidas (ONU) em relação a descriminalização do aborto. O parlamentar afirmou que a organização tenta impor, desde os anos 90, a agenda do aborto às nações do mundo, querendo transformar a prática em um direito humano.
 

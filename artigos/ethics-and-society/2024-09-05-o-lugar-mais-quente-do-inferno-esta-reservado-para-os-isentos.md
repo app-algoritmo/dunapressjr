@@ -1,11 +1,12 @@
 ---
-title: "O Lugar Mais Quente do Inferno Está Reservado para os Isentos"
+title: O Lugar Mais Quente do Inferno Está Reservado para os Isentos
 date: 2024-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Ethics and Society
+- Ethics and Society
 ---
+
 
 A famosa frase "O lugar mais quente do inferno está reservado para os isentos" evoca uma profunda reflexão sobre a apatia e a neutralidade em momentos de crise. Embora seja muitas vezes atribuída a Dante Alighieri, autor da *Divina Comédia*, a citação, tal como é conhecida, não faz parte de sua obra. Contudo, o espírito por trás dessa frase encontra ressonância no pensamento filosófico e moral de muitos escritores e pensadores ao longo dos séculos. Neste artigo, exploraremos o significado dessa afirmação e sua relevância na sociedade contemporânea.
 

@@ -1,11 +1,12 @@
 ---
-title: "Processo de regularização fundiária na Amazônia em cartilha"
+title: Processo de regularização fundiária na Amazônia em cartilha
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Elaborado pelo Mapa e Incra, material traz informações sobre como será o processo de concessão do ´título definitivo para pequenos produtores que vivem na Amazônia.
 

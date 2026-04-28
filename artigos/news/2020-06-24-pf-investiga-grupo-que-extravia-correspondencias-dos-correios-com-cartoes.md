@@ -1,11 +1,12 @@
 ---
-title: "PF investiga grupo que extravia correspondências dos Correios com cartões"
+title: PF investiga grupo que extravia correspondências dos Correios com cartões
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio de Janeiro/RJ - A Polícia Federal deflagrou nesta quarta-feira (24/6) a Operação Registrado, com o objetivo de desarticular associação criminosa que alicia funcionários dos Correios para estes furtarem correspondências com cartões, os quais são utilizados em fraudes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Parceria levará direitos de crianças e adolescentes a pessoas surdas"
+title: Parceria levará direitos de crianças e adolescentes a pessoas surdas
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pessoas surdas e com deficiência auditiva poderão conhecer os direitos de crianças e adolescentes por meio da Língua Brasileira de Sinais (Libras). Uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Organização dos Estados Ibero-americanos para a Educação, a Ciência e a Cultura (OEI) produzirá material informativo adaptado sobre o tema.
 

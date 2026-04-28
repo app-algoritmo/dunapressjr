@@ -1,11 +1,13 @@
 ---
-title: "Mercado financeiro eleva crescimento do PIB e reduz estimativa de inflação no Brasil"
+title: Mercado financeiro eleva crescimento do PIB e reduz estimativa de inflação
+  no Brasil
 date: 2023-06-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções indicam aumento contínuo do PIB e queda da inflação, enquanto taxa de juros e cotação do dólar também são previstas pelo mercado financeiro.
 

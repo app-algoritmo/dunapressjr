@@ -1,11 +1,13 @@
 ---
-title: "PF e CGU combatem fraudes na área da saúde em municípios do Estado do Acre e Amazonas"
+title: PF e CGU combatem fraudes na área da saúde em municípios do Estado do Acre
+  e Amazonas
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/AC – A Polícia Federal deflagrou, nesta quarta-feira (3/6), em Cruzeiro do Sul (AC), a Operação Off-Label. O trabalho é realizado em parceria com a Controladoria-Geral da União (CGU) para combater fraudes na área da saúde nos municípios de Cruzeiro do Sul (AC), Rodrigues Alves (AC), Marechal Thaumaturgo (AC), Xapuri (AC), Epitaciolândia (AC), Bujari (AC), Rio Branco (AC), Jordão (AC) e Boca do Acre (AM), Pauiní (AM) e Guajará (AM).
 

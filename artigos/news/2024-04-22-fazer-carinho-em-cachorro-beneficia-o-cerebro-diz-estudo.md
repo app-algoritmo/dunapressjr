@@ -1,12 +1,13 @@
 ---
-title: "Fazer carinho em cachorro beneficia o cérebro, diz estudo"
+title: Fazer carinho em cachorro beneficia o cérebro, diz estudo
 date: 2024-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 É amplamente conhecido que a interação com cães é benéfica para a saúde física e mental. Um time de cientistas da Suíça está atualmente pesquisando o impacto dos peludos na atividade do córtex pré-frontal e, em suas primeiras descobertas, constataram que acariciar um cachorro e até mesmo estar em sua companhia é benéfico para o cérebro.
 O córtex pré-frontal, situado na parte frontal do cérebro, atrás da testa, representa a área mais recentemente desenvolvida no cérebro humano, a qual nos distingue de outros animais.

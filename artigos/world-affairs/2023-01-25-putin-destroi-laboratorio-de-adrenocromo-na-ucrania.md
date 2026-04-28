@@ -1,11 +1,12 @@
 ---
-title: "Putin destrói laboratório de adrenocromo na Ucrânia"
+title: Putin destrói laboratório de adrenocromo na Ucrânia
 date: 2023-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As Forças Especiais Russas invadiram e destruíram na terça-feira uma “fazenda Adrenochrome” perto da cidade ucraniana de Shostka, onde forças sinistras torturaram crianças russas sequestradas para coletar fluido de suas glândulas supra-renais, disse uma fonte de Mar-a-Lago que afirma que o presidente russo, Vladimir Putin, informou Trump da operação depois que Spetznas resgatou 50 crianças do laboratório medonho.
 

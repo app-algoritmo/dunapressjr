@@ -1,11 +1,13 @@
 ---
-title: "Ex-Agente Democrata Allison Huynh Declara Apoio a Trump e Critica Gestão de Biden"
+title: Ex-Agente Democrata Allison Huynh Declara Apoio a Trump e Critica Gestão de
+  Biden
 date: 2024-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Allison Huynh, uma ex-agente democrata que arrecadou milhões para a campanha do ex-presidente Barack Obama, anunciou sua intenção de apoiar o ex-presidente republicano Donald Trump. Em uma aparição no programa "Fox & Friends First", Huynh expressou seu descontentamento com a administração do atual presidente Joe Biden, descrevendo-o como "dormindo ao volante".
 

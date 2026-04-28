@@ -1,11 +1,12 @@
 ---
-title: "Plano Marshall, a reconstrução da Europa"
+title: Plano Marshall, a reconstrução da Europa
 date: 2020-03-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 O **Plano Marshall**, também conhecido como "Ajuda Marshall na verdade, "o programa de recuperação Europeia (ERP)" é o nome do Programa de Recuperação Europeia após a Segunda Guerra Mundial.  O programa de ajuda americano em grande escala deveu-se à necessidade da Europa de dólares para poder fornecer os bens necessários para a reconstrução após a devastação da guerra. O plano ajudou a estabilizar a situação econômica e política na Europa Ocidental. Ao mesmo tempo, ajudou a aprofundar o fosso entre os Aliados da Segunda Guerra Mundial e, assim, representou um passo importante no desenvolvimento da Guerra Fria.
 

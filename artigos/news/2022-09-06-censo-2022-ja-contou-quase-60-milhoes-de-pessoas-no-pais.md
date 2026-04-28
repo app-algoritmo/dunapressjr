@@ -1,11 +1,12 @@
 ---
-title: "Censo 2022 já contou quase 60 milhões de pessoas no país"
+title: Censo 2022 já contou quase 60 milhões de pessoas no país
 date: 2022-09-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O IBGE está divulgando o primeiro balanço da coleta do Censo Demográfico 2022. Desde o início da operação, em 1º de agosto, até ontem (29), foram recenseadas 58.291.842 pessoas, em 20.290.359 domicílios no país. Destas, 36,51% estavam na região Nordeste, 35,51% no Sudeste, 11,87% no Sul, 9,44% no Norte e 6,67% no Centro-Oeste. Na manhã de hoje (30), o total de população recenseada já era de 59.616.994.
 

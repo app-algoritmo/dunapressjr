@@ -1,11 +1,12 @@
 ---
-title: "Anvisa autoriza mais dois estudos com medicamentos contra Covid-19"
+title: Anvisa autoriza mais dois estudos com medicamentos contra Covid-19
 date: 2020-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Duas novas possibilidades contra a Covid-19. A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a realização de dois novos estudos clínicos para testar medicamentos para o tratamento de pacientes hospitalizados com quadros graves provocados pela doença. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Monarquia no Brasil, é possível?"
+title: Monarquia no Brasil, é possível?
 date: 2020-07-24
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 *Ações coordenadas, disciplina, mais conhecimento e união dos monarquistas podem fazer o sonho se tornar realidade a médio e longo prazo.*
 

@@ -1,11 +1,12 @@
 ---
-title: "Cardápio inédito chega para aquecer menu do Five Lounge"
+title: Cardápio inédito chega para aquecer menu do Five Lounge
 date: 2024-07-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Com sabores marcantes, wine & cocktail bar do NH Curitiba The Five anuncia sete novas criações para a estação mais fria do ano*
 

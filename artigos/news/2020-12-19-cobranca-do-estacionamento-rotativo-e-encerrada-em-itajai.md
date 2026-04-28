@@ -1,11 +1,12 @@
 ---
-title: "Cobrança do estacionamento rotativo é encerrada em Itajaí"
+title: Cobrança do estacionamento rotativo é encerrada em Itajaí
 date: 2020-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí informa que a partir desta quarta-feira (16) o sistema de cobrança do estacionamento rotativo Zona Azul está encerrado. O contrato com a empresa que opera o serviço na cidade terminou na terça-feira (15) e não será prorrogado. Um novo processo de licitação, que vai contemplar melhorias e novas facilidades ao serviço, será lançado nas próximas semanas.
 

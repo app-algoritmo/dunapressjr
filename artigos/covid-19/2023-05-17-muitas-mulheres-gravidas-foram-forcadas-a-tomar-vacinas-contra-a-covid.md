@@ -1,11 +1,12 @@
 ---
-title: "Muitas mulheres grávidas foram forçadas a tomar vacinas contra a COVID"
+title: Muitas mulheres grávidas foram forçadas a tomar vacinas contra a COVID
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O conteúdo da vacina COVID-19 é biodistribuído na corrente sanguínea em horas e atravessa “todas as barreiras fisiológicas, incluindo a barreira materno-placentária-fetal e as barreiras hematoencefálicas na mãe e no feto”, de acordo com o especialista em medicina materno-fetal Dr. James Thorp.
 

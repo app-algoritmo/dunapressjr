@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia atinge posições russas perto de Soledar com munições químicas"
+title: Ucrânia atinge posições russas perto de Soledar com munições químicas
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Andrey Marochko apontou que especialistas das forças russas de defesa contra radiação, química e biológica estão atualmente determinando o tipo de veneno usado pelos militares ucranianos no ataque.
 

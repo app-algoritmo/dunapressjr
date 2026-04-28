@@ -1,11 +1,12 @@
 ---
-title: "Presidente Francês Anuncia Projeto de Lei para Legalizar Morte Assistida"
+title: Presidente Francês Anuncia Projeto de Lei para Legalizar Morte Assistida
 date: 2024-03-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente francês, Emmanuel Macron, revelou em uma entrevista conjunta aos jornais franceses 'La Croix' e 'Libération' que apresentará um projeto de lei sobre a morte assistida nas próximas semanas. Caso aprovado, a França se tornaria o próximo país europeu a legalizar a prática para doentes terminais. Macron explicou que o texto será enviado ao Conselho de Estado dentro de um prazo de oito a dez dias, com previsão de ser discutido em Conselho de Ministros em abril e passar pela primeira leitura em maio.
 

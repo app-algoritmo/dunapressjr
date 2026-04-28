@@ -1,11 +1,12 @@
 ---
-title: "Primeiro Grupo de Defesa Aérea completa 41 anos"
+title: Primeiro Grupo de Defesa Aérea completa 41 anos
 date: 2020-04-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Neste mês de abril, o Primeiro Grupo de Defesa Aérea (1º GDA) – Esquadrão Jaguar, sediado na Ala 2 – Base Aérea de Anápolis (GO), completa 41 anos de atuação na Força Aérea Brasileira (FAB). A sua história surge em 1972, com os oito *Dijon Boys* – pilotos que realizaram, na cidade de Dijon, no leste da França, o curso de pilotagem do primeiro avião supersônico da Força Aérea Brasileira, o Mirage IIIE/D.
 

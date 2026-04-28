@@ -1,11 +1,12 @@
 ---
-title: "Prisão de Donald Trump fortalece candidatura para presidente dos EUA"
+title: Prisão de Donald Trump fortalece candidatura para presidente dos EUA
 date: 2023-08-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Quando se pensa em política, especialmente em cenários tão dinâmicos como os Estados Unidos, é raro prever todos os desdobramentos e repercussões de um evento. A "prisão" de Donald Trump, ex-presidente dos EUA, é um desses episódios que, contra todas as expectativas, fortalece ainda mais sua candidatura para a presidência. dos EUA em 2024
 

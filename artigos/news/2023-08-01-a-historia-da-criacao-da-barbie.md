@@ -1,11 +1,12 @@
 ---
-title: "A história da criação da Barbie"
+title: A história da criação da Barbie
 date: 2023-08-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ruth Handler (criadora da Barbie), o marido é os filhos Ken Handler (o Ken) e Bárbara Handler (a Barbie).
 

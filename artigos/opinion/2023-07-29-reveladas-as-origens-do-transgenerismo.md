@@ -1,12 +1,13 @@
 ---
-title: "Reveladas as origens do transgenerismo"
+title: Reveladas as origens do transgenerismo
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
-  - World Affairs
+- Opinion
+- World Affairs
 ---
+
 
 **Chocante: As origens do transgenerismo são reveladas**
 

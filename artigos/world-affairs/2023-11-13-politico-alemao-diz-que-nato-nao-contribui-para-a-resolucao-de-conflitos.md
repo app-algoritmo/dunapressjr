@@ -1,11 +1,12 @@
 ---
-title: "Político alemão diz que NATO não contribui para a resolução de conflitos"
+title: Político alemão diz que NATO não contribui para a resolução de conflitos
 date: 2023-11-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## "Em vez disso, precisamos de uma aliança defensiva que promova o desarmamento e um equilíbrio de interesses, e não o aumento de armas e a escalada de conflitos. Precisamos de uma aliança defensiva em termos de igualdade, e não de europeus que sigam cegamente os EUA", disse Sahra Wagenknecht.
 

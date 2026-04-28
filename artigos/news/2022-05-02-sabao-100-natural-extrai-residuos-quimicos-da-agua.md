@@ -1,11 +1,12 @@
 ---
-title: "Sabão 100% natural extrai resíduos químicos da água"
+title: Sabão 100% natural extrai resíduos químicos da água
 date: 2022-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um processo que usa uma espécie de sabão natural, feito à base de gordura animal e vegetal, acaba de ser patenteado pelo Instituto Nacional de Propriedade Industrial (INPI). O produto foi criado por pesquisadores da Universidade Federal do Rio Grande do Norte (UFRN) e tem o poder de extrair até 97% das impurezas tóxicas geradas pelos corantes usados no processo de fabricação da indústria têxtil. A novidade, 100% natural, foi desenvolvida no Programa de Pós-graduação em Engenharia Química da UFRN e conta com a participação dos cientistas Tereza Neuma, Afonso Avelino Dantas Neto, Eduardo Lins de Barros Neto, Shirley Katia da Silva Nunes e Ricardo Paulo Fonseca Melo.
 

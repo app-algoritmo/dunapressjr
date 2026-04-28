@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem ao receber dinheiro falso pelos Correios"
+title: PF prende homem ao receber dinheiro falso pelos Correios
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE - A Polícia Federal prendeu em flagrante nesta terça-feira (5/5), na Praia do Futuro, na capital cearense, um homem com R$ 1 mil em cédulas de dinheiro falsas.
 

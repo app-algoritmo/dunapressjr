@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança sobe 64,4% e chega a US$ 34,28 bilhões no ano"
+title: Superávit da balança sobe 64,4% e chega a US$ 34,28 bilhões no ano
 date: 2021-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da Secex até a terceira semana de junho mostram corrente de comércio de US$ 219,76 bilhões, em alta de 31,2%, com US$ 127,02 bilhões em exportações e US$ 92,74 bilhões em importações.
 

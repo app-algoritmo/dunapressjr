@@ -1,11 +1,13 @@
 ---
-title: "Programa Você Não Está Sozinha visa enfrentar e evitar a violência doméstica durante a pandemia"
+title: Programa Você Não Está Sozinha visa enfrentar e evitar a violência doméstica
+  durante a pandemia
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De olho no aumento de casos de violência doméstica em meio à pandemia do novo coronavírus, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) firmou uma parceria com o Instituto Avon e outras 10 instituições da sociedade civil e do poder público para integrar o programa Você Não está Sozinha. 
 

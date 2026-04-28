@@ -1,12 +1,13 @@
 ---
-title: "Herói de Guerra"
+title: Herói de Guerra
 date: 2023-05-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Sargento. TEUBOSO
 HERÓI DE CÃO DE GUERRA!

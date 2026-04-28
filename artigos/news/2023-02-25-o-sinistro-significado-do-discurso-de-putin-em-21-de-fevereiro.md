@@ -1,11 +1,12 @@
 ---
-title: "O sinistro significado do discurso de Putin em 21 de fevereiro"
+title: O sinistro significado do discurso de Putin em 21 de fevereiro
 date: 2023-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Na terça-feira, 21 de fevereiro, o presidente Putin fez o que se esperava ser um discurso muito importante.
 

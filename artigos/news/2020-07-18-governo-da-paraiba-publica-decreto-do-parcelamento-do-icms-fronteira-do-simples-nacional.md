@@ -1,11 +1,13 @@
 ---
-title: "Governo da Paraíba publica decreto do parcelamento do ICMS-Fronteira do Simples Nacional"
+title: Governo da Paraíba publica decreto do parcelamento do ICMS-Fronteira do Simples
+  Nacional
 date: 2020-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O parcelamento refere-se aos meses de junho e julho.
 

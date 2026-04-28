@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços cresce 4,4% na Paraíba em setembro, revela IBGE"
+title: Setor de serviços cresce 4,4% na Paraíba em setembro, revela IBGE
 date: 2020-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As maiores altas vieram de serviços prestados às famílias, Outros serviços, serviços de informação e comunicação. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Testes em brasileiros trazidos da China dão negativos para coronavírus"
+title: Testes em brasileiros trazidos da China dão negativos para coronavírus
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Os exames foram feitos pelo laboratório Lacen de Goiás*
 

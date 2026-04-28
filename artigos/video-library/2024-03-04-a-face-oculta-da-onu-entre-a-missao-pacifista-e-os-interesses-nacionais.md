@@ -1,11 +1,12 @@
 ---
-title: "A face oculta da ONU: Entre a Missão Pacifista e os Interesses Nacionais"
+title: 'A face oculta da ONU: Entre a Missão Pacifista e os Interesses Nacionais'
 date: 2024-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Video library
+- Video library
 ---
+
 
 A eclosão da Segunda Guerra Mundial em 1939 abalou os compromissos de paz estabelecidos duas décadas antes pela Liga das Nações. Com o fim da guerra, a necessidade de um organismo intergovernamental para promover a paz entre as nações tornou-se evidente para as grandes potências. Assim, em 1945, surgiu a Organização das Nações Unidas (ONU), um colossal edifício diplomático com a missão de garantir a paz e a cooperação global.
 

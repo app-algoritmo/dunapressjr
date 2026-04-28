@@ -1,11 +1,12 @@
 ---
-title: "De hacker a generais e ex-ministros, CPMI já ouviu 19 depoentes; veja a lista"
+title: De hacker a generais e ex-ministros, CPMI já ouviu 19 depoentes; veja a lista
 date: 2023-10-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A comissão parlamentar mista de inquérito (CPMI) que investiga atos e omissões durante os ataques antidemocráticos de 8 de janeiro de 2023 já colheu 19 depoimentos desde que iniciou seus trabalhos, no final de maio, até esta última semana de setembro. A lista *(veja abaixo)* inclui hacker, condenados por tentativa de explosão de bomba, oficiais das Forças Armadas, integrantes das polícias (militar, civil, rodoviária e Federal) e até ex-ministros. Restam agora sete semanas para o prazo final de funcionamento, em 20 de novembro.
 

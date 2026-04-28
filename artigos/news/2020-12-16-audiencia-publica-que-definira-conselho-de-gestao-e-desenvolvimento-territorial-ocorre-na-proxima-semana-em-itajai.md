@@ -1,11 +1,13 @@
 ---
-title: "Audiência pública que definirá Conselho de Gestão e Desenvolvimento Territorial ocorre na próxima semana em Itajaí"
+title: Audiência pública que definirá Conselho de Gestão e Desenvolvimento Territorial
+  ocorre na próxima semana em Itajaí
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conselho de Gestão e Desenvolvimento Territorial dos anos 2021 e 2022 será eleito na próxima semana. A audiência está marcada para segunda-feira (21), às 18h30, no auditório da Prefeitura de Itajaí. O evento seguirá todas as recomendações sanitárias de distanciamento social e ocupação máxima dos ambientes em cumprimento às determinações com relação ao coronavírus (COVID-19).
 

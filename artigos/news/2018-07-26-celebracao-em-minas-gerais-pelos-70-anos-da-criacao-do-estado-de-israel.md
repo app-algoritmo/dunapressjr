@@ -1,11 +1,12 @@
 ---
-title: "Celebração em Minas Gerais pelos 70 anos da criação do Estado de Israel"
+title: Celebração em Minas Gerais pelos 70 anos da criação do Estado de Israel
 date: 2018-07-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 *Por Rebecka Nizia Estanislau de Freitas, BH-MG*
 "A cidade de Belo Horizonte (Minas Gerais, Brasil) sediará a comemoração dos 70 anos do Estado de Israel! O congresso ocorrerá no mês de agosto, nos dias 08 (às 19h30min) e no dia 09 (às 15h00min). Embora o evento seja independente, ele acontecerá na Igreja Batista da Lagoinha (inscrições poderão ser feitas pelo site. [Clique aqui](http://www.eventim.com.br/israel70anos.) para fazer sua inscrição). Como Palestrantes convidados estão Robert Ilatov  (Israel),  Chaim Silberstein (Israel), Michele Bachaman (EUA), Mario Bramnick (EUA), Márcio Valadão (Brasil) e Jane Silva (Brasil).

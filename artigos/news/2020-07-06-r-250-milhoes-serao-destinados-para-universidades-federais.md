@@ -1,11 +1,12 @@
 ---
-title: "R$ 250 milhões serão destinados para universidades federais"
+title: R$ 250 milhões serão destinados para universidades federais
 date: 2020-07-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A maior parte dos recursos será utilizada em projetos definidos pelo MEC, em alinhamento com as IFES, como prioritários.
 

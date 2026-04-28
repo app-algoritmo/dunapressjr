@@ -1,11 +1,12 @@
 ---
-title: "Contato constante entre família e escola pode evitar evasão"
+title: Contato constante entre família e escola pode evitar evasão
 date: 2023-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma ligação, uma mensagem de texto, um alô nas redes sociais. Em uma sociedade hiperconectada, esses pequenos contatos do dia a dia são fundamentais para o funcionamento de uma série de instituições. Inclusive a escola, como defendem especialistas. Em alguns países, como o Reino Unido, as mensagens de texto enviadas pelo celular têm sido usadas para reduzir, por exemplo, os índices de evasão escolar, que aumentaram com a pandemia de covid-19.
 

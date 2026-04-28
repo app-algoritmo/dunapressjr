@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços no Brasil apresenta variação de -0,9% em agosto de 2023"
+title: Volume de serviços no Brasil apresenta variação de -0,9% em agosto de 2023
 date: 2023-10-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor de Serviços mantém crescimento anual, mas registra retração no mês, revelam dados do IBGE.
 

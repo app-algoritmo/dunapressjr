@@ -1,11 +1,12 @@
 ---
-title: "PF realiza erradicação de 103 mil pés de maconha"
+title: PF realiza erradicação de 103 mil pés de maconha
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Recife/PE - A Polícia Federal, com apoio da Polícia Militar/PE e Polícia Civil/PE, vem promovendo ações de identificação e consequente erradicação de plantios de maconha no sertão pernambucano. O Objetivo é reduzir a produção e oferta de maconha no sertão Pernambucano. As operações constantes são desdobramentos da Operação Muçambê.
 

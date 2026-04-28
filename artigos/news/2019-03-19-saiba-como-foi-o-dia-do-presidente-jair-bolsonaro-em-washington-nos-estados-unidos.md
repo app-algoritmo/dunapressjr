@@ -1,11 +1,13 @@
 ---
-title: "Saiba como foi o dia do presidente Jair Bolsonaro em Washington, nos Estados Unidos"
+title: Saiba como foi o dia do presidente Jair Bolsonaro em Washington, nos Estados
+  Unidos
 date: 2019-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro foi a Casa Branca, reuniu-se com o presidente Donald Trump, momento este que se torna histórico, nunca líderes dos dois países tiveram um perfil tão parecido,  ambos conservadores, que sofreram, e sofrem, uma perseguição covarde da mídia, que incansavelmente divulgam fake News, procurando diminuir a popularidade de ambos. 
 

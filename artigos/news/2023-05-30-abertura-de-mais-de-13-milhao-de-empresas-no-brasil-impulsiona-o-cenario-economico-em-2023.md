@@ -1,11 +1,13 @@
 ---
-title: "Abertura de mais de 1,3 milhão de empresas no Brasil impulsiona o cenário econômico em 2023"
+title: Abertura de mais de 1,3 milhão de empresas no Brasil impulsiona o cenário econômico
+  em 2023
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tempo médio de abertura diminui, impulsionando o empreendedorismo e a simplificação de processos
 

@@ -1,11 +1,12 @@
 ---
-title: "Militares atuam em desinfecção em grandes áreas urbanas no Brasil"
+title: Militares atuam em desinfecção em grandes áreas urbanas no Brasil
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 23/04/2020 -** Desde a ativação da Operação COVID-19 pelo Ministério da Defesa (MD), em 20 de março, os militares da Marinha do Brasil (MB), do Exército Brasileiro (EB) e da Força Aérea Brasileira (FAB) atuam em conjunto para atenuar os efeitos da pandemia sobre a população. Uma das áreas com maior número de ações por parte das Forças Armadas é na desinfecção e descontaminação de áreas públicas, nos centros urbanos de todo o Brasil. Nesta quinta-feira (23), o Comando Conjunto atuando em Pernambuco deu continuidade a uma grande atividade de desinfecção nas plataformas do sistema metroviário do Recife (PE).
 

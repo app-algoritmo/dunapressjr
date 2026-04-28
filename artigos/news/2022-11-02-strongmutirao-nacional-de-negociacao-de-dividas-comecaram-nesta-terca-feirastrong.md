@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mutirão nacional de negociação de dívidas começaram nesta terça-feira</strong>"
+title: <strong>Mutirão nacional de negociação de dívidas começaram nesta terça-feira</strong>
 date: 2022-11-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### BC, Procon e vários órgãos promovem ação conjunta.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil gera 180.005 empregos formais em abril, aponta Novo Caged"
+title: Brasil gera 180.005 empregos formais em abril, aponta Novo Caged
 date: 2023-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados divulgados pelo Ministério do Trabalho revelam recuperação do mercado de trabalho em 23 estados e 5 setores econômicos.
 

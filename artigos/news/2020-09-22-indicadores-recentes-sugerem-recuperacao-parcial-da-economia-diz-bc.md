@@ -1,11 +1,12 @@
 ---
-title: "Indicadores recentes sugerem recuperação parcial da economia, diz BC"
+title: Indicadores recentes sugerem recuperação parcial da economia, diz BC
 date: 2020-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em ata, Copom diz que inflação deve se elevar no curto prazo.
 

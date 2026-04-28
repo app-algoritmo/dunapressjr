@@ -1,11 +1,12 @@
 ---
-title: "Adesão a parcelamento especial do Simples é prorrogado para 31 de maio"
+title: Adesão a parcelamento especial do Simples é prorrogado para 31 de maio
 date: 2022-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prazo de entrega da declaração de microempreendedor também foi adiado.
 

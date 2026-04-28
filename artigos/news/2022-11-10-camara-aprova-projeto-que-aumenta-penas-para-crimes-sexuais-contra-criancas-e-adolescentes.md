@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova projeto que aumenta penas para crimes sexuais contra crianças e adolescentes"
+title: Câmara aprova projeto que aumenta penas para crimes sexuais contra crianças
+  e adolescentes
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta quarta-feira (9) o projeto de lei que aumenta as penas de vários crimes sexuais contra crianças e adolescentes, classificando-os como hediondos. A proposta será enviada ao Senado. Trata-se do Projeto de Lei 1776/15, de autoria dos deputados [Paulo Freire Costa (PL-SP)](https://www.camara.leg.br/deputados/160558) e [Clarissa Garotinho (União-RJ)](https://www.camara.leg.br/deputados/178939). O projeto foi aprovado na forma de um substitutivo do relator, deputado [Charlles Evangelista (PP-MG)](https://www.camara.leg.br/deputados/204490).
 

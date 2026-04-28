@@ -1,11 +1,12 @@
 ---
-title: "Comando Conjunto inicia ação de combate a crimes na fronteira oeste"
+title: Comando Conjunto inicia ação de combate a crimes na fronteira oeste
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando Conjunto Oeste iniciou neste dia 20 de setembro a Operação Ágata Oeste 2023, nos estados do Mato Grosso e Mato Grosso do Sul. A Operação, coordenada pelo Ministério da Defesa, acontece em um ambiente conjunto e interagências, com o emprego da Marinha, Exército e Força Aérea Brasileira em apoio aos órgãos de segurança pública e fiscalização. A Operação tem o objetivo de fortalecer a presença do Estado na região da fronteira oeste e promover ações de apoio à população local.
 

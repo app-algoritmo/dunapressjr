@@ -1,11 +1,13 @@
 ---
-title: "Califórnia proibirá aditivos causadores de câncer encontrados em doces e outros produtos alimentícios"
+title: Califórnia proibirá aditivos causadores de câncer encontrados em doces e outros
+  produtos alimentícios
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Califórnia está decidida a proibir aditivos perigosos usados ​​em doces populares, como Skittles e Sour Patch Kids – com um projeto de lei para esse empreendimento se aproximando de se tornar lei.
 

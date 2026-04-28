@@ -1,11 +1,13 @@
 ---
-title: "<strong>Music in the Park leva jazz ao Parque do Povo com patrocínio de grandes marcas</strong>"
+title: <strong>Music in the Park leva jazz ao Parque do Povo com patrocínio de grandes
+  marcas</strong>
 date: 2022-11-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 ## Evento será dias 19 e 20 de novembro, na cidade de São Paulo, com shows de oito bandas sem cobrança de ingresso.
 

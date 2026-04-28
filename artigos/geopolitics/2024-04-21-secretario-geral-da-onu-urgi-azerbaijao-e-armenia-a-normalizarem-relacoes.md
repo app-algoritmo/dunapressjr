@@ -1,11 +1,12 @@
 ---
-title: "Secretário-Geral da ONU Urgi Azerbaijão e Arménia a Normalizarem Relações"
+title: Secretário-Geral da ONU Urgi Azerbaijão e Arménia a Normalizarem Relações
 date: 2024-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O secretário-geral da ONU, António Guterres, emitiu um apelo aos governos do Azerbaijão e da Arménia, instando-os a resolverem questões bilaterais remanescentes para alcançar a normalização total das relações entre os dois países. 
 

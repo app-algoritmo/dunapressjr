@@ -1,11 +1,12 @@
 ---
-title: "Cerca de 30 países querem estabelecer laços de parceria com o BRICS, diz Lavrov"
+title: Cerca de 30 países querem estabelecer laços de parceria com o BRICS, diz Lavrov
 date: 2023-12-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Segundo o ministro dos Negócios Estrangeiros russo, a aspiração de muitos países de se aproximarem da aliança é “natural, dado que os BRICS operam numa base genuinamente democrática e de respeito mútuo”.
 

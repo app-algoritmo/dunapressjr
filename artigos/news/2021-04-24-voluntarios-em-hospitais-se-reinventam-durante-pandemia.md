@@ -1,11 +1,12 @@
 ---
-title: "Voluntários em hospitais se reinventam durante pandemia"
+title: Voluntários em hospitais se reinventam durante pandemia
 date: 2021-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a pandemia do coronavírus, a busca por ações sociais aumentou no ano de 2020. Uma pesquisa divulgada pelo Benchmarking do Investimento Social Corporativo (BISC), ainda antes do encerramento do ano, já indicava que o volume de doações dobraria no ano passado, em comparação com 2019. O estudo também apontou que houve uma mobilização maior para ajudar com  recursos ações na área da saúde, principalmente no combate à Covid-19. Especialistas em ação social apontam essa mobilização como um legado da pandemia que deve se expandir nos próximos anos.
 

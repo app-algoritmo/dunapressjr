@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial sobe 0,6% na passagem de junho para julho"
+title: Produção industrial sobe 0,6% na passagem de junho para julho
 date: 2022-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Houve expansão no Pará, Mato Grosso, Santa Catarina e no Rio.
 

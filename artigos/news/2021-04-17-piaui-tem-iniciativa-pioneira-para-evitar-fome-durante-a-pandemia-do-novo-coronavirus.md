@@ -1,11 +1,12 @@
 ---
-title: "Piauí tem iniciativa pioneira para evitar fome durante a pandemia do novo coronavírus"
+title: Piauí tem iniciativa pioneira para evitar fome durante a pandemia do novo coronavírus
 date: 2021-04-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Pesquisa divulgada esta semana mostra que a situação de insegurança alimentar atinge mais de 59% dos domicílios no Brasil. O Banco de Alimentos da Nova Ceasa atua de forma constante e consistente para minimizar essa realidade com a distribuição de comida para famílias no Piauí.
 

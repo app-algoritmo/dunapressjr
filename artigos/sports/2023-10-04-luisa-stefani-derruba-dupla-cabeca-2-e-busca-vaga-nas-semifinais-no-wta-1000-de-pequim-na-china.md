@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani derruba dupla cabeça 2 e busca vaga nas semifinais no WTA 1000 de Pequim, na China"
+title: Luisa Stefani derruba dupla cabeça 2 e busca vaga nas semifinais no WTA 1000
+  de Pequim, na China
 date: 2023-10-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Ao lado de carioca Ingrid Martins, dupla brasileira eliminou norte-americanas Pegula e Gauff e jogam na sexta-feira contra mais uma dupla favorita.
 

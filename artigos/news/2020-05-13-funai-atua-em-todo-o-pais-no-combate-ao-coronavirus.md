@@ -1,11 +1,12 @@
 ---
-title: "Funai atua em todo o País no combate ao coronavírus"
+title: Funai atua em todo o País no combate ao coronavírus
 date: 2020-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação já distribuiu cestas de alimentos a famílias indígenas, investiu em atividades ligadas ao etnodesenvolvimento e lançou a campanha Empresa Solidária para arrecadar doações.
 

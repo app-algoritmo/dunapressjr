@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança Empresarial (ICE) do FGV IBRE cai para o menor nível desde maio"
+title: Índice de Confiança Empresarial (ICE) do FGV IBRE cai para o menor nível desde
+  maio
 date: 2023-11-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda de 1,2 pontos em outubro reforça a desaceleração da economia no último trimestre.
 

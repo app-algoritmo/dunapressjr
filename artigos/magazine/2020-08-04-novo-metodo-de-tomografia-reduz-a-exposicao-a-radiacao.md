@@ -1,11 +1,12 @@
 ---
-title: "Novo método de tomografia reduz a exposição à radiação"
+title: Novo método de tomografia reduz a exposição à radiação
 date: 2020-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A técnica de tomografia computadorizada cicloidal divide um feixe de raio X completo em feixes finos pode oferecer a mesma qualidade de imagem a uma dose de radiação muito reduzida, de acordo com um novo estudo da UCL.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senacon fiscaliza pirataria e práticas abusivas em plataformas de venda digitais"
+title: Senacon fiscaliza pirataria e práticas abusivas em plataformas de venda digitais
 date: 2020-04-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 22/04/2020 -** A Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública recomendou, às plataformas de comércio eletrônico, a implantação de medidas repressivas e preventivas no combate à venda de produtos falsificados, bem como mapeou ações adotadas e omissões das empresas.
 

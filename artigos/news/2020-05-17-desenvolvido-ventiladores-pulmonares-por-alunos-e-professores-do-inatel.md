@@ -1,11 +1,12 @@
 ---
-title: "Desenvolvido ventiladores pulmonares por alunos e professores do Inatel"
+title: Desenvolvido ventiladores pulmonares por alunos e professores do Inatel
 date: 2020-05-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Contrário ao medo e notícia ruim, é imperioso trazer notícias boas, falar das novas descobertas e projetos realizados em cada canto do país. Inovação faz parte do nosso sangue. Assim, já que o lock down seria para criar estrutura e principalmente providenciar respiradores artificiais para os pacientes, os brasileiros vem ajudando e muito a superar todo este pânico.
 

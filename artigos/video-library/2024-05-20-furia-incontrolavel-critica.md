@@ -1,11 +1,12 @@
 ---
-title: "Fúria Incontrolável | Crítica"
+title: Fúria Incontrolável | Crítica
 date: 2024-05-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Um thriller intenso que expõe os perigos de um dia comum e a necessidade urgente de empatia.
 

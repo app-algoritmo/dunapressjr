@@ -1,11 +1,13 @@
 ---
-title: "Presidentes da Venezuela e Guiana realizarão conversações sobre disputa territorial em 14 de dezembro"
+title: Presidentes da Venezuela e Guiana realizarão conversações sobre disputa territorial
+  em 14 de dezembro
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “Os presidentes se reunirão em [na nação insular de] São Vicente e Granadinas na quinta-feira, 14 de dezembro de 2023, sob os auspícios da CELAC e da CARICOM”, disse o governo do país em comunicado.
 

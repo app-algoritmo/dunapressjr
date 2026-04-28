@@ -1,11 +1,13 @@
 ---
-title: "Os EUA não são mais capazes de manter uma 'ordem baseada em regras' semelhante à máfia"
+title: Os EUA não são mais capazes de manter uma 'ordem baseada em regras' semelhante
+  à máfia
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 que exatamente é a ordem baseada em regras, o termo mais comumente usado na diplomacia dos Estados Unidos? Ela nunca foi devidamente definida até que um tweet recente revelou sua verdadeira natureza mafiosa.
 

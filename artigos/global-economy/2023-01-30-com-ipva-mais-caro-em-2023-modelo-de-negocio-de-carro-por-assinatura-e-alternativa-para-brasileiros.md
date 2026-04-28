@@ -1,11 +1,13 @@
 ---
-title: "Com IPVA mais caro em 2023, modelo de negócio de carro por assinatura é alternativa para brasileiros"
+title: Com IPVA mais caro em 2023, modelo de negócio de carro por assinatura é alternativa
+  para brasileiros
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O começo do ano é caracterizado por relevantes despesas fixas como renovação de seguro, matrícula escolar e impostos, em especial aqueles cobrados sobre propriedades, como o IPTU, DPVAT e IPVA. O Imposto sobre a Propriedade de Veículos Automotores (IPVA) é recolhido pelos Estados e Distrito Federal e calculado de acordo com cada veículo, podendo variar pelo modelo e ano de fabricação. Com a valorização dos carros novos e usados no Brasil, o IPVA aumentou nos últimos anos e será ainda mais caro em 2023. Corroborando ainda mais o entendimento de que adquirir um carro é custoso, um estudo inédito sobre a relação do brasileiro com o automóvel, realizado pela Serasa em parceria com o instituto Opinion Box em dezembro de 2022, revelou que os custos que envolvem a aquisição e manutenção de um carro estão entre os três maiores gastos anuais em 63% dos lares brasileiros. Ainda, 40% dos brasileiros consideram complexo realizar contas sobre os custos para manter o automóvel. Todavia, existe um novo modelo de locação mais prático, menos burocrático e que dispensa as despesas de manutenção e compra do carro.
 

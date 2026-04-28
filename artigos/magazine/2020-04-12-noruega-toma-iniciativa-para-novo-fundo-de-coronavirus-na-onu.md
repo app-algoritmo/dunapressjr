@@ -1,11 +1,12 @@
 ---
-title: "Noruega toma iniciativa para novo fundo de coronavírus na ONU"
+title: Noruega toma iniciativa para novo fundo de coronavírus na ONU
 date: 2020-04-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Noruega está tomando a iniciativa de criar um novo fundo de doadores múltiplos nas Nações Unidas para ajudar os países em desenvolvimento com sistemas de saúde fracos a enfrentar a crise do coronavírus.
 

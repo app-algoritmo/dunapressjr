@@ -1,11 +1,13 @@
 ---
-title: "Disparidade na representação de muçulmanos nas prisões do Reino Unido preocupa autoridades britânicas"
+title: Disparidade na representação de muçulmanos nas prisões do Reino Unido preocupa
+  autoridades britânicas
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentes dados divulgados pelo Governo britânico revelam uma disparidade preocupante na representação de muçulmanos no sistema prisional do Reino Unido. Embora os muçulmanos constituam apenas 6,5% da população do país, eles representam alarmantes 18% dos prisioneiros.
 

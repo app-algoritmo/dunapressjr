@@ -1,11 +1,13 @@
 ---
-title: "Atletas contam como caminho até medalhas precisa de estrutura e equipe para treinamento de alta performance"
+title: Atletas contam como caminho até medalhas precisa de estrutura e equipe para
+  treinamento de alta performance
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O surf ganhou status olímpico nas Olimpíadas de Tóquio, o que elevou o nível de competição nos principais campeonatos. A surfista catarinense Maya Carpinelli, de 15 anos, sabe disso e, sonhando com os mais altos pódios, treina diariamente há quase dois anos na cidade onde mora, em Garopaba (SC). “É preciso se destacar em grandes competições para conquistar apoiadores, pois sem isso, não se consegue competir. São custos altos, como os de viagens e inscrições, e quando você passa por uma etapa, precisa continuar, ir para a próxima. É necessário lutar muito”, conta Maya.
 

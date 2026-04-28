@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova MP que cria autarquia de proteção de dados"
+title: Senado aprova MP que cria autarquia de proteção de dados
 date: 2022-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é trazer mais confiabilidade ao sistema regulatório.
 

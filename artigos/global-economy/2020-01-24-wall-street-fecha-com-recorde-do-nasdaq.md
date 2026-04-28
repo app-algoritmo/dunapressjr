@@ -1,11 +1,12 @@
 ---
-title: "Wall Street fecha com recorde do Nasdaq"
+title: Wall Street fecha com recorde do Nasdaq
 date: 2020-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Wall Street fechou quase estável nesta quinta-feira, embora
 o Nasdaq tenha atingido um novo recorde, apesar da preocupação generalizada com

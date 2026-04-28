@@ -1,11 +1,12 @@
 ---
-title: "O Caminho de Moisés: Um Fenômeno Natural e Um Paraíso em Alagoas"
+title: 'O Caminho de Moisés: Um Fenômeno Natural e Um Paraíso em Alagoas'
 date: 2024-07-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Ao longo das costas de Maragogi, Alagoas, um fenômeno único se revela durante a maré baixa, transformando a Praia de Barra Grande em um verdadeiro paraíso terrestre. Conhecido como o Caminho de Moisés, este banco de areia natural se estende por centenas de metros mar adentro, criando uma experiência que parece saída de um cenário bíblico.
 

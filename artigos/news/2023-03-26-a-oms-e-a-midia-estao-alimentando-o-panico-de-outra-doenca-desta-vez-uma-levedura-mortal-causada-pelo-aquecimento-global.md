@@ -1,11 +1,13 @@
 ---
-title: "A OMS e a mídia estão alimentando o pânico de outra doença, desta vez uma levedura mortal causada pelo 'aquecimento global'"
+title: A OMS e a mídia estão alimentando o pânico de outra doença, desta vez uma levedura
+  mortal causada pelo 'aquecimento global'
 date: 2023-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Depois do Covid-19 e da varíola, dificilmente os cidadãos cairão em tais relatos de horror de propaganda.
 

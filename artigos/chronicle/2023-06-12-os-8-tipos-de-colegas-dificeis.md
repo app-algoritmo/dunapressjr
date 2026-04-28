@@ -1,11 +1,12 @@
 ---
-title: "Os 8 tipos de colegas 'difíceis'"
+title: Os 8 tipos de colegas 'difíceis'
 date: 2023-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 ## Pesquisador de Harvard diz que existem 8 tipos de pessoas ‘difíceis’ - e passivo-agressivo é o ‘pior absoluto’
 

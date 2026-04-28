@@ -1,11 +1,12 @@
 ---
-title: "Segundo Marina Silva, Brasil tem 120 milhões de pessoas passando fome"
+title: Segundo Marina Silva, Brasil tem 120 milhões de pessoas passando fome
 date: 2023-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Representando o Brasil no Fórum Econômico Mundial em Davos, na Suiça, a ministra do meio ambiente divulgou um dado falso sobre o número de pessoas que passam fome no Brasil.
 

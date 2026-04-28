@@ -1,11 +1,13 @@
 ---
-title: "A linha de frente na Ucrânia é puro “horror. Genocídio e matança”, diz o irlandês “Rambo”"
+title: A linha de frente na Ucrânia é puro “horror. Genocídio e matança”, diz o irlandês
+  “Rambo”
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O correspondente internacional da Sky News, John Sparks, falou com o voluntário irlandês Rhys Byrne, que luta nas linhas de frente no leste da Ucrânia há 17 meses e agora está deixando a Ucrânia "porque testemunhou atrocidades", relata Sparks. Byrne descreveu a luta que testemunhou como "terrível".
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai com exterior e incertezas sobre o futuro da Petrobras"
+title: Bolsa cai com exterior e incertezas sobre o futuro da Petrobras
 date: 2023-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## No campo positivo, os sinais de alta da China impulsionaram mineradoras e siderúrgicas
 

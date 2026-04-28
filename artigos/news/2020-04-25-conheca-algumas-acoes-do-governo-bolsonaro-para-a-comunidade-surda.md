@@ -1,11 +1,12 @@
 ---
-title: "Conheça algumas ações do Governo Bolsonaro para a comunidade surda"
+title: Conheça algumas ações do Governo Bolsonaro para a comunidade surda
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ações que nunca foram feitas em governos anteriores em favor das minorias.
 

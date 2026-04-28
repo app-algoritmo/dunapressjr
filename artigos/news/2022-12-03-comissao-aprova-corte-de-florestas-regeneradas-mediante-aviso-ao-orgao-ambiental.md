@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova corte de florestas regeneradas mediante aviso ao órgão ambiental"
+title: Comissão aprova corte de florestas regeneradas mediante aviso ao órgão ambiental
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados aprovou proposta que permite o corte de florestas regeneradas (vegetação secundária), sem necessidade de autorização prévia, desde que o proprietário informe a área a ser desmatada ao órgão ambiental estadual com até 90 dias de antecedência. A medida se aplica a áreas de uso alternativo do solo (agropecuárias, industriais, etc) em imóveis rurais com reserva legal preservada.
 

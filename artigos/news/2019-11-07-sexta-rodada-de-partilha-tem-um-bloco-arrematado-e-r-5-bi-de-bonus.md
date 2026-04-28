@@ -1,11 +1,12 @@
 ---
-title: "Sexta Rodada de Partilha tem um bloco arrematado e R$ 5 bi de bônus"
+title: Sexta Rodada de Partilha tem um bloco arrematado e R$ 5 bi de bônus
 date: 2019-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Consórcio da Petrobras com chinesa foi único a oferecer lance*
 

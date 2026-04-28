@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro esta preocupado com as pessoas em situação de rua durante pandemia"
+title: Governo Bolsonaro esta preocupado com as pessoas em situação de rua durante
+  pandemia
 date: 2020-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O contexto de vulnerabilidade social provoca um agravamento do risco de contaminação do novo coronavírus pela população em situação de rua. Para conseguir atender à demanda, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) busca o apoio de organizações religiosas e da sociedade civil para atendimento e acolhimento emergencial das mais de 140 mil pessoas que não têm moradia, segundo o CadÚnico.
 

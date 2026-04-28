@@ -1,11 +1,12 @@
 ---
-title: "Câncer turbo na gravidez: novas mães e sarcomas turbo agressivos"
+title: 'Câncer turbo na gravidez: novas mães e sarcomas turbo agressivos'
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## As vacinas de mRNA COVID-19 da Pfizer e Moderna causam cânceres agressivos chamados “cânceres turbo”.
 

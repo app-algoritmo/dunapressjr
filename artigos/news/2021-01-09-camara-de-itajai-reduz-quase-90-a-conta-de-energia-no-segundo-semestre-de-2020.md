@@ -1,11 +1,13 @@
 ---
-title: "Câmara de Itajaí reduz quase 90% a conta de energia no segundo semestre de 2020"
+title: Câmara de Itajaí reduz quase 90% a conta de energia no segundo semestre de
+  2020
 date: 2021-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara de Vereadores de Itajaí economizou em média 89% na conta de energia entre os meses de julho e dezembro de 2020, em comparação com o mesmo período do ano anterior. O valor gasto em energia no semestre passou de R$ 94,7 mil para R$ 10,7 mil. Dezembro foi o mês com a maior diferença, a conta passou de R$ 17,6 mil para R$ 981.
 

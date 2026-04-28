@@ -1,11 +1,13 @@
 ---
-title: "Índice Nacional da Construção Civil (Sinapi) registra variação de 0,02% em setembro"
+title: Índice Nacional da Construção Civil (Sinapi) registra variação de 0,02% em
+  setembro
 date: 2023-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Custos com materiais de construção apresentam queda, enquanto mão de obra tem aumento mais moderado.
 

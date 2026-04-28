@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção civil sobe para 0,87% em abril, diz FGV"
+title: Inflação da construção civil sobe para 0,87% em abril, diz FGV
 date: 2022-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O índice é superior à taxa de 0,73% registrada em março.
 

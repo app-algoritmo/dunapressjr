@@ -1,11 +1,12 @@
 ---
-title: "Países do Brics prometem enfrentar protecionismo unilateral"
+title: Países do Brics prometem enfrentar protecionismo unilateral
 date: 2019-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os países do Brics, principais economias emergentes,
 alertaram nesta quinta-feira que as tensões comerciais e a incerteza política

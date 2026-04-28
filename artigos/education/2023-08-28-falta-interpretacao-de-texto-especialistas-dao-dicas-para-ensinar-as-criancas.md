@@ -1,11 +1,12 @@
 ---
-title: "Falta interpretação de texto? Especialistas dão dicas para ensinar às crianças"
+title: Falta interpretação de texto? Especialistas dão dicas para ensinar às crianças
 date: 2023-08-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Compreensão e interpretação de texto são habilidades que precisam ser ensinadas e treinadas ainda no Ensino Básico.
 

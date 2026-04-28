@@ -1,11 +1,13 @@
 ---
-title: "Tucker Carlson: 'Algo muito ruim está chegando... Você já pensou no fim do mundo?'"
+title: 'Tucker Carlson: ''Algo muito ruim está chegando... Você já pensou no fim do
+  mundo?'''
 date: 2023-10-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O jornalista participou na festa da imprensa do Daily Caller e fez um discurso no qual alertou que os Estados Unidos caminhavam inexoravelmente para o colapso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Decreto de capacidade econômico-financeira vai incrementar o setor de saneamento"
+title: Decreto de capacidade econômico-financeira vai incrementar o setor de saneamento
 date: 2021-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Norma estabelece metodologia para comprovar a capacidade dos prestadores executarem os serviços de abastecimento de água e esgotamento sanitário e vai resultar na melhoria da qualidade de vida das pessoas.
 

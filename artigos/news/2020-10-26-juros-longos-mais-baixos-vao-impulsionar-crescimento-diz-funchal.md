@@ -1,11 +1,12 @@
 ---
-title: "Juros longos mais baixos vão impulsionar crescimento, diz Funchal"
+title: Juros longos mais baixos vão impulsionar crescimento, diz Funchal
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A medida dependerá da volta à trajetória de consolidação fiscal.
 

@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro não foi eleito para deixar país igual, diz chanceler Ernesto Araújo – Bloomberg, 7 de janeiro de 2019"
+title: Bolsonaro não foi eleito para deixar país igual, diz chanceler Ernesto Araújo
+  – Bloomberg, 7 de janeiro de 2019
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 "A política externa brasileira não pode mudar". Foi assim que um político brasileiro resumiu seu distanciamento em relação às posições de política externa do presidente Jair Bolsonaro e minhas. Essa opinião é sintomática daqueles que ficaram tão traumatizados com a política externa esquerdista e caótica dos governos de Luiz Inácio Lula da Silva e Dilma Rousseff (2003-2016) que preferem a inércia e a indiferença a qualquer tentativa de tornar o Brasil um ator global novamente. Estão tão acostumados a mudanças para pior que preferem não arriscar mudança nenhuma.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alan Rick condena julgamento sobre aborto e diz que STF usurpa competência"
+title: Alan Rick condena julgamento sobre aborto e diz que STF usurpa competência
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Alan Rick (União-AC) criticou, em pronunciamento na quarta quarta-feira (20), o Supremo Tribunal Federal (STF) por colocar em julgamento a descriminalização do aborto até a 12ª semana da gravidez. A presidente do STF, ministra Rosa Weber, marcou para a próxima sexta-feira (22) o julgamento da ação movida pelo PSol. Para Alan Rick, o STF está a usurpando a competência do Congresso Nacional.
 

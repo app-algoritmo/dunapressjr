@@ -1,11 +1,13 @@
 ---
-title: "EUA: Câmara Aprova Projeto de Lei para Limitar Emissão de Moeda Digital pelo Federal Reserve"
+title: 'EUA: Câmara Aprova Projeto de Lei para Limitar Emissão de Moeda Digital pelo
+  Federal Reserve'
 date: 2024-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Câmara dos Representantes Aprova Projeto de Lei que Restringe Emissão de Moeda Digital pelo Federal Reserve.
 

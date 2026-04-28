@@ -1,11 +1,13 @@
 ---
-title: "Estudo mostra que Lockdown prejudicará centenas de milhões de pessoas nos próximos anos"
+title: Estudo mostra que Lockdown prejudicará centenas de milhões de pessoas nos próximos
+  anos
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O dano colateral do combate à pandemia foi “substancial, de longo alcance e prejudicará centenas de milhões de pessoas”, de acordo com um novo [estudo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4447806) importante .
 

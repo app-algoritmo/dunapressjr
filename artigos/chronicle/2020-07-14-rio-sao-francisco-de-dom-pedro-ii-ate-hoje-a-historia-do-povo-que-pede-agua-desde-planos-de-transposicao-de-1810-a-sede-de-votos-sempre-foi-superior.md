@@ -1,11 +1,13 @@
 ---
-title: "Rio São Francisco | De Dom Pedro II até hoje | A história do povo que pede água desde planos de transposição de 1810 | A sede de votos sempre foi superior"
+title: Rio São Francisco | De Dom Pedro II até hoje | A história do povo que pede
+  água desde planos de transposição de 1810 | A sede de votos sempre foi superior
 date: 2020-07-14
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Queremos parabenizar esse grande homem que idealizou a transposição do Rio São Francisco.**
 

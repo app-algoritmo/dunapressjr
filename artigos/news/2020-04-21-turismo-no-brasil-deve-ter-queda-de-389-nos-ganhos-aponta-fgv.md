@@ -1,11 +1,12 @@
 ---
-title: "Turismo no Brasil deve ter queda de 38,9% nos ganhos, aponta FGV"
+title: Turismo no Brasil deve ter queda de 38,9% nos ganhos, aponta FGV
 date: 2020-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Após isolamento, mercado doméstico deve levar um ano para se recuperar
 

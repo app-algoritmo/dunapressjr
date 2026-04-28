@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani estreia com vitória e vai às quartas de final no WTA 500 de Berlim, na Alemanha"
+title: Luisa Stefani estreia com vitória e vai às quartas de final no WTA 500 de Berlim,
+  na Alemanha
 date: 2024-06-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs buscam vaga na semifinal contra dupla alemã.
 

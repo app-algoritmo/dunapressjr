@@ -1,11 +1,12 @@
 ---
-title: "2° Batalhão de Operações Ribeirinhas desenvolve protótipo de aparelho de descontaminação"
+title: 2° Batalhão de Operações Ribeirinhas desenvolve protótipo de aparelho de descontaminação
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O 2° Batalhão de Operações Ribeirinhas (2°BtlOpRib) concluiu, no dia 30 de abril, o desenvolvimento de um protótipo de borrifamento automático voltado para realizar a descontaminação diária dos militares e combater a proliferação do novo coronavírus (Covid-19). O mecanismo, de baixo custo, possibilita a descontaminação de pessoal e materiais, e poderá ser utilizado por diversos órgãos.
 

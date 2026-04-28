@@ -1,11 +1,12 @@
 ---
-title: "PF combate usurpação clandestina de manganês no Pará"
+title: PF combate usurpação clandestina de manganês no Pará
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Marabá/PA  - A Polícia Federal cumpriu no sábado (4/7) mandado judicial de busca e apreensão no Porto de Vila do Conde, em Barcarena. A ação ocorreu dentro do contexto da Operação Verde Brasil 2, dando continuidade à Operação Mn25, deflagrada no dia 23/6, com o objetivo de desarticular grupo criminoso responsável pela usurpação clandestina de manganês, com fim de exportação, no Estado do Pará.
 

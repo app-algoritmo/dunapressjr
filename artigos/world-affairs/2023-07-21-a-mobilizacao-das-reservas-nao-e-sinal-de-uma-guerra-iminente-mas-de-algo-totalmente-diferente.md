@@ -1,11 +1,13 @@
 ---
-title: "A mobilização das reservas não é sinal de uma guerra iminente, mas de algo totalmente diferente"
+title: A mobilização das reservas não é sinal de uma guerra iminente, mas de algo
+  totalmente diferente
 date: 2023-07-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Biden quer “missão cumprida” para garantir uma saída política da guerra por procuração na Ucrânia. A mobilização das reservas não é sinal de uma guerra iminente, mas de algo totalmente diferente.
 

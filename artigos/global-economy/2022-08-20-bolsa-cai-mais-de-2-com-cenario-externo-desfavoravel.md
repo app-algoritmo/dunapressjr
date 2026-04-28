@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai mais de 2% com cenário externo desfavorável"
+title: Bolsa cai mais de 2% com cenário externo desfavorável
 date: 2022-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar fechou praticamente estável a R$ 5,16.
 

@@ -1,11 +1,13 @@
 ---
-title: "Retiradas recordes na poupança: brasileiros continuam a sacar bilhões em meio a cenário econômico desafiador"
+title: 'Retiradas recordes na poupança: brasileiros continuam a sacar bilhões em meio
+  a cenário econômico desafiador'
 date: 2023-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maior retirada líquida desde 1995, a poupança registra saques de R$ 11,75 bilhões a mais do que depósitos em maio.
 

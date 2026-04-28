@@ -1,11 +1,13 @@
 ---
-title: "Na integra o primeiro discurso de Boris Johnson como primeiro-ministro em Downing Street"
+title: Na integra o primeiro discurso de Boris Johnson como primeiro-ministro em Downing
+  Street
 date: 2019-07-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tenho toda a confiança de que daqui 99 dias teremos logrado êxito, mas você sabe  que não vamos esperar 99 dias porque o povo britânico já esperou mais do que o suficiente. É chegada a hora de agir, de tomar decisões para dar uma liderança forte e mudar este país para melhor e, embora a Rainha tenha apenas me honrado com este extraordinário cargo de Estado, meu trabalho é servir vocês, o povo, porque se há um ponto que nós políticos precisamos lembrar é que o nosso patrão é o povo.
 

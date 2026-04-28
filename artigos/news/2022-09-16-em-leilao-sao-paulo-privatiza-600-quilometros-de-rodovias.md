@@ -1,11 +1,12 @@
 ---
-title: "Em leilão, São Paulo privatiza 600 quilômetros de rodovias"
+title: Em leilão, São Paulo privatiza 600 quilômetros de rodovias
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Lote arrematado saiu por mais de R$ 1,2 bilhão.
 

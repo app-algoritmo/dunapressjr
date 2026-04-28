@@ -1,11 +1,13 @@
 ---
-title: "Girão diz que relatório da CPMI do 8 de Janeiro é 'parcial' e 'eivado pelo ódio'"
+title: Girão diz que relatório da CPMI do 8 de Janeiro é 'parcial' e 'eivado pelo
+  ódio'
 date: 2023-10-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) disse ter ficado "impactado com a parcialidade" do relatório apresentado pela senadora Eliziane Gama (PSD-MA) na CPMI do 8 de Janeiro. Em pronunciamento na terça-feira (17), o parlamentar ressaltou que o parecer é “totalmente eivado pelo ódio”. O senador afirmou que a base do governo "não deixou que a comissão ouvisse algumas personalidades importantes" para realizar uma ampla investigação dos ataques aos Poderes da República, sem “blindar” ninguém.
 

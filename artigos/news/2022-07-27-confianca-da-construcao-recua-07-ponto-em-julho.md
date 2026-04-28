@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção recua 0,7 ponto em julho"
+title: Confiança da construção recua 0,7 ponto em julho
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda foi provocada pela piora das perspectivas.
 

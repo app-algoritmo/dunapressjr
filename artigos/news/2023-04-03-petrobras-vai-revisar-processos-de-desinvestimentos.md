@@ -1,11 +1,12 @@
 ---
-title: "Petrobras vai revisar processos de desinvestimentos"
+title: Petrobras vai revisar processos de desinvestimentos
 date: 2023-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Análise será no âmbito dos ajustes ao Planejamento Estratégico.
 

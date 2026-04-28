@@ -1,11 +1,13 @@
 ---
-title: "Enquanto o Mundo Capota Diante dos Olhos da ONU: Guerras e Fome por Todos os Lados"
+title: 'Enquanto o Mundo Capota Diante dos Olhos da ONU: Guerras e Fome por Todos
+  os Lados'
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em um cenário global repleto de desafios e crises, a Organização das Nações Unidas (ONU) continua a enfrentar um dos maiores dilemas da humanidade: guerras e fome generalizada. Conflitos armados em várias partes do mundo, juntamente com a fome que eles geram, representam uma das crises humanitárias mais urgentes e complexas de nossos tempos. Neste artigo, exploraremos a interligação desses dois problemas, destacando as regiões afetadas e os esforços da ONU para aliviar o sofrimento.
 

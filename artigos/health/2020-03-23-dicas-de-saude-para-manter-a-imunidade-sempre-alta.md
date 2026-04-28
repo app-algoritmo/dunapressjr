@@ -1,11 +1,12 @@
 ---
-title: "Dicas de saúde para manter a Imunidade sempre alta"
+title: Dicas de saúde para manter a Imunidade sempre alta
 date: 2020-03-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Health
+- Health
 ---
+
 
 Queremos neste momento de incertezas e medo por muitas pessoas, mas sempre pensando em acalmar a todos, ajudar, trazer boas dicas e melhorar a saúde de todos de forma preventiva e também no que tange aos hábitos, lhe trazer algumas pequenas dicas de saúde e imunidade.
 

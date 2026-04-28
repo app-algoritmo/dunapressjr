@@ -1,11 +1,13 @@
 ---
-title: "Alerta: Desembargador Sebastião Coelho faz Chamado à Ação pela Reconstrução do Brasil"
+title: 'Alerta: Desembargador Sebastião Coelho faz Chamado à Ação pela Reconstrução
+  do Brasil'
 date: 2024-03-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 - [Chamado nacional](#Chamada)
 

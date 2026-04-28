@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa se recupera com força após período de quedas"
+title: Ibovespa se recupera com força após período de quedas
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem queda significativa.
 

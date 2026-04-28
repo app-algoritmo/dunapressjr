@@ -1,11 +1,12 @@
 ---
-title: "Como gerenciar uma escola com sucesso?"
+title: Como gerenciar uma escola com sucesso?
 date: 2022-07-18
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 O gerenciamento de uma escola, diferente do que muitas pessoas pensam, é um processo bastante delicado, independente se a escola é pública ou particular. Pensando nisso, separamos aqui neste artigo alguns tópicos relacionados ao gerenciamento de uma escola com o objetivo de obter sucesso. Continue a leitura e fique por dentro. 
 

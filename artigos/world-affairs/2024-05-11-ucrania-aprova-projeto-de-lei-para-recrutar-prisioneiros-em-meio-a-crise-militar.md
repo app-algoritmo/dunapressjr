@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia Aprova Projeto de Lei para Recrutar Prisioneiros em Meio à Crise Militar"
+title: Ucrânia Aprova Projeto de Lei para Recrutar Prisioneiros em Meio à Crise Militar
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Ucrânia enfrenta uma crise preocupante em suas Forças Armadas, evidenciada pela recente decisão do governo de negar acesso consular aos homens ucranianos em idade militar no exterior que se recusam a retornar. Para enfrentar a escassez de pessoal, o parlamento ucraniano aprovou um projeto de lei permitindo que prisioneiros selecionados sejam liberados para servir no exército.
 

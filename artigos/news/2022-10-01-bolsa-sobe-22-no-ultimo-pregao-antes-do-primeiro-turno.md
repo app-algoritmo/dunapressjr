@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe 2,2% no último pregão antes do primeiro turno"
+title: Bolsa sobe 2,2% no último pregão antes do primeiro turno
 date: 2022-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dólar fecha a R$ 5,39, estável em relação à quinta-feira.
 

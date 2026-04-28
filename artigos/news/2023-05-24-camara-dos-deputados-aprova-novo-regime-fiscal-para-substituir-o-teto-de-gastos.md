@@ -1,11 +1,12 @@
 ---
-title: "Câmara dos Deputados aprova novo regime fiscal para substituir o teto de gastos"
+title: Câmara dos Deputados aprova novo regime fiscal para substituir o teto de gastos
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta estabelece limites de despesas e busca equilíbrio entre arrecadação e investimentos, gerando debates sobre impacto nas políticas públicas.
 

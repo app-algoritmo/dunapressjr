@@ -1,11 +1,12 @@
 ---
-title: "A participação do Brasil no Fórum Econômico Mundial"
+title: A participação do Brasil no Fórum Econômico Mundial
 date: 2023-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em participação no Fórum Econômico Mundial, em Davos na Suiça, o Brasil foi representado pelo o ministros da Economia, Fernando Haddad, e a Ministra do Meio Ambiente e Mudança Climática, Marina Silva.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto proíbe reconhecimento cultural de práticas cruéis contra animais"
+title: Projeto proíbe reconhecimento cultural de práticas cruéis contra animais
 date: 2021-08-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Texto também revoga lei que permite vaquejada e veda criação inadequada de pets.
 

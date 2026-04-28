@@ -1,11 +1,12 @@
 ---
-title: "Pacheco sugere cronograma de iniciativas para combater déficit público"
+title: Pacheco sugere cronograma de iniciativas para combater déficit público
 date: 2023-09-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Rodrigo Pacheco, sugeriu que representantes do Executivo e do Congresso Nacional estabeleçam um cronograma de iniciativas legislativas com foco na arrecadação, sem aumento de carga tributária, como forma de combater o déficit público. A sugestão de Pacheco ocorreu em uma rápida entrevista coletiva, nesta sexta-feira (1º), em Washington (EUA), depois de participar de um evento com empresários.
 

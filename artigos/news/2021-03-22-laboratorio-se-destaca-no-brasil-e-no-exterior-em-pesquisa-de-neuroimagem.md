@@ -1,11 +1,12 @@
 ---
-title: "Laboratório se destaca no Brasil e no exterior, em pesquisa de neuroimagem"
+title: Laboratório se destaca no Brasil e no exterior, em pesquisa de neuroimagem
 date: 2021-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O laboratório de neuroimagem *[Zimmer Neuroimaging Lab](https://zimmer-lab.org/)* foi criado em 2018, por Eduardo Zimmer, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Hoje, conta com uma equipe multidisciplinar – 16 alunos de pós-graduação e nove de iniciação científica – que estuda doenças neurodegenerativas, como a doença de Alzheimer (DA), a principal causa de demência no mundo. Segundo o pesquisador, acredita-se que existam 35 milhões de portadores da DA no mundo e quase dois milhões desses pacientes estão no Brasil.
 

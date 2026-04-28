@@ -1,11 +1,12 @@
 ---
-title: "Mercado da CPR Verde estima operações de até R$ 30 bi em quatro anos"
+title: Mercado da CPR Verde estima operações de até R$ 30 bi em quatro anos
 date: 2021-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cédula de Produto Rural Verde inclui ações que aumentem biodiversidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Theatro Municipal do Rio de Janeiro lança tour virtual"
+title: Theatro Municipal do Rio de Janeiro lança tour virtual
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Como as visitas presenciais ainda estão suspensas, o Theatro Municipal do Rio de Janeiro lançou nesta segunda-feira (1º.06) um tour virtual às suas dependências. O vídeo é uma parceria entre a Coordenação de Projetos Especiais do Theatro e a Secretaria de Estado de Cultura e Economia Criativa do RJ. O local tem um dos palcos mais conhecidos do Brasil e recebia cerca de 600 pessoas por semana, antes da pandemia.
 

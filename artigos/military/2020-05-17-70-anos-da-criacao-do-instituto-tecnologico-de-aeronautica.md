@@ -1,11 +1,12 @@
 ---
-title: "70 anos da criação do Instituto Tecnológico de Aeronáutica"
+title: 70 anos da criação do Instituto Tecnológico de Aeronáutica
 date: 2020-05-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 “Antes de produzirmos aeronaves, precisamos produzir engenheiros”. Foi sob este ideal que, o então, Coronel Casimiro Montenegro Filho assumiu a missão de fundar as bases de uma indústria de aviação nacional. Nascia, assim, o Centro Técnico de Aeronáutica (CTA) e o Instituto Tecnológico de Aeronáutica (ITA), a primeira escola de formação de engenheiros aeronáuticos do Brasil, no ano de 1950, na cidade de São José dos Campos - SP.
 

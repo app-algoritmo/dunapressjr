@@ -1,11 +1,13 @@
 ---
-title: "Microsoft interromperá a renovação de licenças para empresas russas após 30 de setembro"
+title: Microsoft interromperá a renovação de licenças para empresas russas após 30
+  de setembro
 date: 2023-08-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A Microsoft também renunciou e "não buscará a cobrança de qualquer valor devido à Microsoft durante este período de aviso prévio", diz o documento.
 

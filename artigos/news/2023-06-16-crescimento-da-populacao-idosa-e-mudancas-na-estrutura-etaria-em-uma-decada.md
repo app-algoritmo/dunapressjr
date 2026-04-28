@@ -1,11 +1,12 @@
 ---
-title: "Crescimento da população idosa e mudanças na estrutura etária em uma década"
+title: Crescimento da população idosa e mudanças na estrutura etária em uma década
 date: 2023-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo revela aumento da população com 65 anos ou mais e alterações nas proporções de diferentes faixas etárias, de acordo com dados do IBGE.
 

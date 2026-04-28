@@ -1,11 +1,12 @@
 ---
-title: "Plínio critica Marina e diz que ministra 'despreza' condições de vida na Amazônia"
+title: Plínio critica Marina e diz que ministra 'despreza' condições de vida na Amazônia
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) afirmou, em pronunciamento nesta terça-feira (5), que a participação da ministra do Meio Ambiente, Marina Silva, na CPI das ONGs deixou claro seu “absoluto desprezo pelas condições de vida dos moradores da Amazônia”. Segundo o parlamentar, a ministra minimizou o fato de ONGs internacionais enriquecerem na região enquanto os moradores passam por diversos tipos de sofrimento.
 

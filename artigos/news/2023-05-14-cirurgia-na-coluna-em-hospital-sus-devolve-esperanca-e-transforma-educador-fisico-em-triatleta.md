@@ -1,11 +1,13 @@
 ---
-title: "Cirurgia na coluna em hospital SUS devolve esperança e transforma educador físico em triatleta"
+title: Cirurgia na coluna em hospital SUS devolve esperança e transforma educador
+  físico em triatleta
 date: 2023-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 á faz mais de 5 anos desde que a vida de José Ribeiro Filho mudou completamente. Um acidente de trânsito o colocou como paciente em um hospital SUS de Curitiba (PR) e permitiu que descobrisse um novo propósito: ajudar outras pessoas. O educador físico de 63 anos deixou de ser paciente e virou voluntário do Hospital Universitário Cajuru, mesma instituição que o recebeu quando precisou passar por uma cirurgia na coluna. "Entrei no hospital para fazer a operação, com medo e dor, e fui acolhido por um voluntário. Ele conversou comigo, pegou minha mochila e me guiou até o quarto. Naquele momento eu chorei, porque nunca imaginei que alguém pudesse estar me esperando", lembra, emocionado.
 

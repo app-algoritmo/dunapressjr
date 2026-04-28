@@ -1,11 +1,13 @@
 ---
-title: "Ministério divulga resultado de seleção da nova gestora do Centro de Bionegócios da Amazônia"
+title: Ministério divulga resultado de seleção da nova gestora do Centro de Bionegócios
+  da Amazônia
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Certame procura transformar entidade, com foco em geração de trabalho e renda.
 

@@ -1,11 +1,13 @@
 ---
-title: "Menina de Itajaí/SC sobrevive a queda de piscina, mas preciso de ajuda para tratamento"
+title: Menina de Itajaí/SC sobrevive a queda de piscina, mas preciso de ajuda para
+  tratamento
 date: 2022-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lara tem 2 anos e 8 meses, no dia 22/10/22 foi pegar seu brinquedo e caiu na piscina, ficou 9 minutos submersa, e 15 minutos em parada cardiorrespiratória e contando com o tempo de deslocamento até o hospital minha família calcula que fiquei uns 30 minutos sem oxigênio.
 

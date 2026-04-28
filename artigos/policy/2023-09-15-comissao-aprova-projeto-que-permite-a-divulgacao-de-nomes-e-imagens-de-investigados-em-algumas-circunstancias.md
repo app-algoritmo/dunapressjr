@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que permite a divulgação de nomes e imagens de investigados em algumas circunstâncias"
+title: Comissão aprova projeto que permite a divulgação de nomes e imagens de investigados
+  em algumas circunstâncias
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Nos casos previstos na proposta, a divulgação de nome ou imagem não seria considerada abuso de autoridade.
 

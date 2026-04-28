@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cai pelo terceiro mês seguido em dezembro"
+title: Confiança da indústria cai pelo terceiro mês seguido em dezembro
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mesmo com recuo, setor tem leve otimismo com economia.
 

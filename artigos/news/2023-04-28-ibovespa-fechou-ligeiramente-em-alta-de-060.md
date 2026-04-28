@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fechou ligeiramente em alta de 0,60%"
+title: Ibovespa fechou ligeiramente em alta de 0,60%
 date: 2023-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Impulsionado por otimismo nos mercados globais e dados mais fracos do que o esperado sobre a economia dos EUA, dólar recua frente ao real.
 

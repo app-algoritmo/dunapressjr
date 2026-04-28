@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro entrega quase 8 mil ventiladores pulmonares"
+title: Governo Bolsonaro entrega quase 8 mil ventiladores pulmonares
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aparelhos são para uso em pacientes com Covid-19 e foram entregues aos estados e ao Distrito Federal.
 

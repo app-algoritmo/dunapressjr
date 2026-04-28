@@ -1,11 +1,12 @@
 ---
-title: "Viajar para Noruega"
+title: Viajar para Noruega
 date: 2023-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Se você está procurando um destino de viagem fascinante, repleto de paisagens deslumbrantes e cultura rica, a Noruega é o lugar ideal para você.
 

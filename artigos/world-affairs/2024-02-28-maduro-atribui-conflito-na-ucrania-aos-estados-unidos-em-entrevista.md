@@ -1,11 +1,12 @@
 ---
-title: "Maduro Atribui Conflito na Ucrânia aos Estados Unidos em Entrevista"
+title: Maduro Atribui Conflito na Ucrânia aos Estados Unidos em Entrevista
 date: 2024-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente venezuelano, Nicolás Maduro, atribuiu a responsabilidade pelo conflito militar na Ucrânia aos Estados Unidos, em uma entrevista transmitida pela Venezolana de Television na segunda-feira. Maduro alegou que os Estados Unidos criaram bases da CIA e assumiram o controle da Ucrânia como parte de uma estratégia para atacar a Rússia.
 

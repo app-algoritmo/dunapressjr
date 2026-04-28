@@ -1,11 +1,13 @@
 ---
-title: "PF investiga homem que obtinha senhas de cartão de crédito utilizando artifício malicioso"
+title: PF investiga homem que obtinha senhas de cartão de crédito utilizando artifício
+  malicioso
 date: 2020-04-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **João Pessoa/PB – **A Polícia Federal, na noite da sexta-feira (17/4), lavrou prisão em flagrante delito de pessoa que, mediante artifício malicioso, obtinha as senhas de cartões de crédito e débitos de correntistas de instituições financeiras, entre elas da Caixa Econômica Federal.
 

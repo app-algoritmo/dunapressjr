@@ -1,11 +1,13 @@
 ---
-title: "Avanço Conservador: Rally Nacional na França Lidera Sondagens para o Parlamento Europeu"
+title: 'Avanço Conservador: Rally Nacional na França Lidera Sondagens para o Parlamento
+  Europeu'
 date: 2024-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Rally Nacional, liderado pelo eurodeputado cessante Jordan Bardella, está prestes a conquistar seu melhor resultado nas próximas eleições para o Parlamento Europeu, segundo novas sondagens. De acordo com uma pesquisa da consultora Portland Communications, o partido poderá garantir impressionantes 33% dos votos, enquanto o Reconquista, liderado por Marion Maréchal, associado a Zemmour, poderia obter 6%.
 

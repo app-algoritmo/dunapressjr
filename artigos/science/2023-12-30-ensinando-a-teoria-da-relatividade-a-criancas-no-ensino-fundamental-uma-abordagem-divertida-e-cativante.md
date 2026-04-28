@@ -1,12 +1,14 @@
 ---
-title: "Ensinando a Teoria da Relatividade a Crianças no Ensino Fundamental: Uma Abordagem Divertida e Cativante"
+title: 'Ensinando a Teoria da Relatividade a Crianças no Ensino Fundamental: Uma Abordagem
+  Divertida e Cativante'
 date: 2023-12-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 A compreensão da teoria da relatividade pode parecer desafiadora, mas com a abordagem certa, até crianças no ensino fundamental podem explorar os fascinantes conceitos de Einstein. Neste artigo, discutiremos maneiras criativas de ensinar a teoria da relatividade às crianças, incluindo exemplos práticos, atividades em sala de aula e adaptações para o ensino a distância.
 

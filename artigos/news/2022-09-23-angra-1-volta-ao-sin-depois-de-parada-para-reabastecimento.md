@@ -1,11 +1,12 @@
 ---
-title: "Angra 1 volta ao SIN, depois de parada para reabastecimento"
+title: Angra 1 volta ao SIN, depois de parada para reabastecimento
 date: 2022-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Desligada em agosto, usina deve alcançar 100% de potência no domingo.
 

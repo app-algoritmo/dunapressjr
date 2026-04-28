@@ -1,11 +1,12 @@
 ---
-title: "Com 12 exemplos, Paraná é referência nacional em produtos com indicação geográfica"
+title: Com 12 exemplos, Paraná é referência nacional em produtos com indicação geográfica
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O Estado do Paraná possui 12 dos 101 produtos com certificação nacional emitida pelo INPI, que leva em conta critérios técnicos, econômicos e culturais. A Agência Estadual de Notícias (AEN) elaborou uma série de reportagens para tratar dos impactos do reconhecimento na cadeia produtiva regional.
 

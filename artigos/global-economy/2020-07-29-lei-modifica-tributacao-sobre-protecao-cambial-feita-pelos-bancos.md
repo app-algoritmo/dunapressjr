@@ -1,11 +1,12 @@
 ---
-title: "Lei modifica tributação sobre proteção cambial feita pelos bancos"
+title: Lei modifica tributação sobre proteção cambial feita pelos bancos
 date: 2020-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Medida está no Diário Oficial da União de hoje.
 

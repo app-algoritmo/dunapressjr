@@ -1,11 +1,12 @@
 ---
-title: "Quem precisa de crise?"
+title: Quem precisa de crise?
 date: 2024-03-07
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Nos Estados Unidos e no Brasil, tanto os níveis de desemprego como os de inflação estão baixos, menos de 10% ao ano, nada tão grave para ser considerado crise. Entretanto, outro fator comum é que ambos são governados por presidentes de esquerda, impopulares e que dificilmente irão se reeleger. Essa é uma boa notícia, porque indica a quebra de um padrão populista, a de que basta entregar pão, circo, benesses e empregos que a eleição estaria garantida. 
 

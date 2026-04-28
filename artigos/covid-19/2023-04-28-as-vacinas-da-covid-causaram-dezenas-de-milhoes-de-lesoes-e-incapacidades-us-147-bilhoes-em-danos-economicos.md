@@ -1,12 +1,14 @@
 ---
-title: "As “vacinas” da Covid causaram dezenas de milhões de lesões e incapacidades, US$ 147 bilhões em danos econômicos"
+title: As “vacinas” da Covid causaram dezenas de milhões de lesões e incapacidades,
+  US$ 147 bilhões em danos econômicos
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## A Phinance Technologies, uma empresa de pesquisa cofundada e cooperada pelo ex-gerente de portfólio da BlackRock, Ed Dowd, descobriu [que](https://www.zerohedge.com/markets/bombshell-vax-analysis-finds-147-billion-economic-damage-tens-millions-injured-or-disabled) os danos econômicos infligidos pelo desencadeamento das “vacinas” contra o coronavírus Wuhan (Covid-19) ultrapassaram US$ 147 bilhões em 2022.
 

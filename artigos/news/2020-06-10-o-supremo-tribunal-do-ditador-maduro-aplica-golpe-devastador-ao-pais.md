@@ -1,11 +1,12 @@
 ---
-title: "O Supremo Tribunal do ditador Maduro aplica golpe devastador ao país"
+title: O Supremo Tribunal do ditador Maduro aplica golpe devastador ao país
 date: 2020-06-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ### Supremo da Venezuela exclui o Parlamento, de maioria oposicionista, do processo eleitoral.
 

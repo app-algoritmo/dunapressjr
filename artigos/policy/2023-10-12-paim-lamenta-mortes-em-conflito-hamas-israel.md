@@ -1,11 +1,12 @@
 ---
-title: "Paim lamenta mortes em conflito Hamas-Israel"
+title: Paim lamenta mortes em conflito Hamas-Israel
 date: 2023-10-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Paulo Paim (PT-RS) lamentou, em pronunciamento nesta terça-feira (10), as quase 2 mil mortes causadas pelo conflito entre o grupo palestino Hamas e Israel. Segundo o parlamentar, a história evidencia que “qualquer conflito armado resulta em tragédias e crises humanitárias, sem distinção de quem a faz ou dos motivos que a fizeram acontecer”.
 

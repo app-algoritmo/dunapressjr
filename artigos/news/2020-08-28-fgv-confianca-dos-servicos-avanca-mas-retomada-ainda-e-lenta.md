@@ -1,11 +1,12 @@
 ---
-title: "FGV: Confiança dos Serviços avança, mas retomada ainda é lenta"
+title: 'FGV: Confiança dos Serviços avança, mas retomada ainda é lenta'
 date: 2020-08-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O índice avançou 6 pontos em agosto, para 85 pontos.
 

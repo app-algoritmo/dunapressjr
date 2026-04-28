@@ -1,11 +1,12 @@
 ---
-title: "A verdadeira política de Washington em relação à China"
+title: A verdadeira política de Washington em relação à China
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Depois de uma forte escalada entre os EUA e a China sobre a insistência dos EUA em "conter" a ascensão da China e, particularmente, a interferência dos EUA na província insular de Taiwan, o secretário de Estado dos EUA, Anthony Blinken, viajou a Pequim para supostamente reviver o governo dividido entre os EUA e a China, para melhorar os relacionamentos.
 

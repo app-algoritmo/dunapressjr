@@ -1,11 +1,12 @@
 ---
-title: "A guerra de Independência da Bahia"
+title: A guerra de Independência da Bahia
 date: 2022-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Proclamada a independência do Brasil por D. Pedro I, foi apenas uma questão de tempo para que a nova circunstância fosse reconhecida pelo governo português, sem que houvesse nenhum tipo de luta armada, certo? Na verdade, não foi bem assim. Como sói ocorrer quando uma colônia se declara livre de seus laços com a metrópole, também no Brasil diversos conflitos se seguiram para efetivar a independência, antes e depois do 7 de setembro de 1822. Um deles, de grande importância, foi a guerra de Independência da Bahia.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF apreendem cocaína transportada em caminhão"
+title: PF e PRF apreendem cocaína transportada em caminhão
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Campo Grande/MS - A Polícia Federal e a Polícia Rodoviária Federal, em ação conjunta, apreenderam neste sábado (6/6), aproximadamente 70 kg de cocaína no trevo da Rodovia BR-262 com a MS-080, próximo à cidade de Rochedo/MS. A droga estava escondida nos estepes de um caminhão que teria saído de Corumbá/MS. Dois homens (motorista e passageiro do veículo) foram presos em flagrante.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dolly Parton premiada pelo FBI por liderança comunitária"
+title: Dolly Parton premiada pelo FBI por liderança comunitária
 date: 2019-07-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Agradece por video ao FBI e aos ganhadores do Prêmio
 

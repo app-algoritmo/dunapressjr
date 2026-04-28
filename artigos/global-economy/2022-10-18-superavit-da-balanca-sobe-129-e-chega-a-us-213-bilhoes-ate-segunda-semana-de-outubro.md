@@ -1,11 +1,13 @@
 ---
-title: "Superávit da balança sobe 129% e chega a US$ 2,13 bilhões até segunda semana de outubro"
+title: Superávit da balança sobe 129% e chega a US$ 2,13 bilhões até segunda semana
+  de outubro
 date: 2022-10-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Corrente de comércio foi de US$ 23,94 bilhões no período, com US$ 13,04 bilhões de exportações e US$ 10,91 bilhões em importações; no ano, saldo é de US$ 49,84 bilhões.
 

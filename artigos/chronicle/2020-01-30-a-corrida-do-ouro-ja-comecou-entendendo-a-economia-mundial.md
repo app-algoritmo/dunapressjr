@@ -1,11 +1,12 @@
 ---
-title: "A Corrida do Ouro já começou – Entendendo a economia mundial"
+title: A Corrida do Ouro já começou – Entendendo a economia mundial
 date: 2020-01-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 A corrida do ouro já começou a nível mundial.
 

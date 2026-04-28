@@ -1,11 +1,12 @@
 ---
-title: "Desde 2001 já foram mais de 20 simulações de pandemias"
+title: Desde 2001 já foram mais de 20 simulações de pandemias
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Robert F. Kennedy Jr. expôs como as agências governamentais estão realizando simulações de pandemia para restringir os direitos das pessoas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Soldado nazista da Divisão Waffen-SS é aplaudido no parlamento canadense"
+title: Soldado nazista da Divisão Waffen-SS é aplaudido no parlamento canadense
 date: 2023-09-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Várias organizações de defesa dos judeus estão a condenar membros do Parlamento por aplaudirem de pé um homem que lutou por uma unidade nazi durante a Segunda Guerra Mundial.
 

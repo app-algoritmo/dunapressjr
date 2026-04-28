@@ -1,11 +1,13 @@
 ---
-title: "Caixa firma parceria para facilitar o acesso ao crédito para micro e pequenas empresas"
+title: Caixa firma parceria para facilitar o acesso ao crédito para micro e pequenas
+  empresas
 date: 2020-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O convênio utiliza as linhas de crédito disponibilizadas pela instituição econômica, e as garantias complementares serão concedidas pelo Sebrae
 

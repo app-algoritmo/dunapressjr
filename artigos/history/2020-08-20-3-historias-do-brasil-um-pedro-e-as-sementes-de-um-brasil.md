@@ -1,11 +1,12 @@
 ---
-title: "3. Histórias do Brasil: Um Pedro e as Sementes de um Brasil"
+title: '3. Histórias do Brasil: Um Pedro e as Sementes de um Brasil'
 date: 2020-08-20
 status: publish
-author: alessandroloiola
+author: Alessandro Loiola
 categories:
-  - History
+- History
 ---
+
 
 Em 1467, enquanto a Guerra de Ônin tinha início no Japão e o sultão Otomano Maomé II, o Conquistador, tentava invadir a Albânia pela segunda vez sem sucesso, nascia em Portugal o bebê Pedro Álvares Gouveia, filho de Isabel Gouveia e Fernão Cabral. O pai de Pedro possuía cargos no governo da região de Belmonte e garantiu uma boa educação ao filho e um acesso à corte portuguesa para onde Pedro foi enviado aos 12 anos de idade, perdendo para sempre o contato com o pai - Em 1492, Fernão seria morto na mal sucedida tomada de Tânger, no Marrocos.
 

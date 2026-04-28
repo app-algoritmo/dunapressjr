@@ -1,11 +1,13 @@
 ---
-title: "Índice Nacional da Construção Civil (SINAPI) registra variação de 0,18% em agosto, segundo IBGE"
+title: Índice Nacional da Construção Civil (SINAPI) registra variação de 0,18% em
+  agosto, segundo IBGE
 date: 2023-09-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Custos da construção apresentam ligeira queda em relação ao mês anterior.
 

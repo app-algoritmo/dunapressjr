@@ -1,11 +1,12 @@
 ---
-title: "Inácio, o santo da boa leitura"
+title: Inácio, o santo da boa leitura
 date: 2019-07-30
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 *O fim para que Deus ajuntou em Santo Inácio as perfeições de todos os santos, foi para que nele achássemos junto o que nos outros se acha dividido. Como o maná tinha o sabor de todos os manjares, Santo Inácio é um compêndio de todos os santos. (Sermão de Santo Inácio, canto VII)*
 

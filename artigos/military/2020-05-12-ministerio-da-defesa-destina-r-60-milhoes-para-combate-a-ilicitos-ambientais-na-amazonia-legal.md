@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Defesa destina R$ 60 milhões para combate a ilícitos ambientais na Amazônia Legal"
+title: Ministério da Defesa destina R$ 60 milhões para combate a ilícitos ambientais
+  na Amazônia Legal
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Sob coordenação da Vice-Presidência da República, foi deflagrada a Operação Verde Brasil 2. A missão desempenhada pelas Forças Armadas será em apoio aos órgãos de controle ambiental e de segurança pública para ações preventivas e repressivas contra delitos ambientais direcionadas ao desmatamento ilegal e focos de incêndio na Amazônia Legal.
 

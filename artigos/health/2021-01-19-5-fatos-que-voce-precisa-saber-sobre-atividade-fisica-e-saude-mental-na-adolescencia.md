@@ -1,11 +1,12 @@
 ---
-title: "5 fatos que você precisa saber sobre atividade física e saúde mental na adolescência"
+title: 5 fatos que você precisa saber sobre atividade física e saúde mental na adolescência
 date: 2021-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Não é novidade que a atividade física é uma grande aliada da nossa saúde física e mental. E, sem dúvida alguma, esse é um fato que vale para qualquer faixa etária. Mas quando falamos do aspecto psicológico, no período da adolescência as emoções estão ainda mais à flor da pele.
 

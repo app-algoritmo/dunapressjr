@@ -1,11 +1,13 @@
 ---
-title: "SP tem queda recorde de homicídio, com registros abaixo de 2 mil pela 2º vez em 23 anos"
+title: SP tem queda recorde de homicídio, com registros abaixo de 2 mil pela 2º vez
+  em 23 anos
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## De janeiro a setembro, as mortes intencionais caíram 9,6% em relação a 2022.
 

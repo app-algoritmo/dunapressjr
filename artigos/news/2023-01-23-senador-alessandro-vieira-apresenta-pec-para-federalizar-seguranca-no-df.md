@@ -1,11 +1,12 @@
 ---
-title: "Senador Alessandro Vieira apresenta PEC para federalizar segurança no DF"
+title: Senador Alessandro Vieira apresenta PEC para federalizar segurança no DF
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O senador Alessandro Vieira (PSDB-SE) anunciou a apresentação de proposta de emenda à Constituição (PEC) para federalizar a segurança pública do Distrito Federal. Segundo ele, a medida resulta das invasões e da depredação das sedes dos Três Poderes, em atos antidemocráticos, no domingo, 8 de janeiro. Em entrevista à Rádio Senado na quarta-feira (18), o parlamentar declarou que o intuito da proposição é resolver um “problema sério: a divergência de comando na segurança do Distrito Federal”. 
 

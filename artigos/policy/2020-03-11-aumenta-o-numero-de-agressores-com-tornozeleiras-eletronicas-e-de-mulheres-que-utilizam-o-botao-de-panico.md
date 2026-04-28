@@ -1,11 +1,13 @@
 ---
-title: "Aumenta o número de agressores com tornozeleiras eletrônicas e de mulheres que utilizam o botão de pânico"
+title: Aumenta o número de agressores com tornozeleiras eletrônicas e de mulheres
+  que utilizam o botão de pânico
 date: 2020-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Cresce o número de agressores de mulheres usando tornozeleiras eletrônicas e de mulheres com botão de pânico, dispositivo que a vítima de agressão utiliza para chamar socorro.
 

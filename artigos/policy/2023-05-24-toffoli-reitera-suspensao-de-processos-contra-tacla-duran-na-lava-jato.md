@@ -1,11 +1,12 @@
 ---
-title: "Toffoli reitera suspensão de processos contra Tacla Duran na Lava Jato"
+title: Toffoli reitera suspensão de processos contra Tacla Duran na Lava Jato
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Advogado é réu por lavagem de dinheiro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comitê avaliará indicação para presidência da Petrobras na sexta-feira"
+title: Comitê avaliará indicação para presidência da Petrobras na sexta-feira
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Governo indicou Caio Mário Paes de Andrade para o cargo.
 

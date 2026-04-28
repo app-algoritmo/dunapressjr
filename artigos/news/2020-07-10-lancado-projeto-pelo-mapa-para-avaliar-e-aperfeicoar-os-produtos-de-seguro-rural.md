@@ -1,11 +1,13 @@
 ---
-title: "Lançado projeto pelo Mapa para avaliar e aperfeiçoar os produtos de seguro rural"
+title: Lançado projeto pelo Mapa para avaliar e aperfeiçoar os produtos de seguro
+  rural
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O trabalho será coordenado pelo Departamento de Gestão de Riscos e terá a participação e o apoio das entidades representativas dos produtores rurais e de companhias seguradoras.
 

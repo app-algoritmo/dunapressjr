@@ -1,11 +1,12 @@
 ---
-title: "Ministro Onyx Lorenzoni realiza reunião com a Confederação Nacional de Municípios"
+title: Ministro Onyx Lorenzoni realiza reunião com a Confederação Nacional de Municípios
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 O encontro foi pautado pelo auxílio do Governo Federal repassado ao Sistema Único de Assistência Social (SUAS).
 

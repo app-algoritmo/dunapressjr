@@ -1,11 +1,12 @@
 ---
-title: "Turismo nacional cresce 43,5% em março, aponta FecomercioSP"
+title: Turismo nacional cresce 43,5% em março, aponta FecomercioSP
 date: 2022-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Faturamento foi de R$ 15,4 bilhões.
 

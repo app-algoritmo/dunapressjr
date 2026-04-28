@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Educação de da Silva acaba com a Secretaria de Alfabetização"
+title: Ministro da Educação de da Silva acaba com a Secretaria de Alfabetização
 date: 2023-01-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Órgão foi criado em 2019, durante o governo Bolsonaro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alan Rick pede que governo reconheça Hamas como grupo terrorista"
+title: Alan Rick pede que governo reconheça Hamas como grupo terrorista
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Alan Rick (União-AC) disse ter enviado um pedido de informações ao Itamaraty questionando o motivo de o governo brasileiro não reconhecer oficialmente o grupo palestino Hamas como terrorista e de não ter condenado oficialmente os ataques realizados pelo grupo a Israel. Em pronunciamento na terça-feira (10), o parlamentar lamentou a morte de inocentes e afirmou que o ataque foi um “assassinato em massa”.
 

@@ -1,11 +1,12 @@
 ---
-title: "BC tem R$ 4,6 bilhões esquecidos em bancos a serem devolvidos"
+title: BC tem R$ 4,6 bilhões esquecidos em bancos a serem devolvidos
 date: 2022-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sistema de Valores a Receber ainda não tem data para reabrir.
 

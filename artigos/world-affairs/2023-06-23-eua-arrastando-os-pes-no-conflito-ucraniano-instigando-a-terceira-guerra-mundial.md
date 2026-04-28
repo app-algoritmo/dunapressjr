@@ -1,11 +1,12 @@
 ---
-title: "EUA arrastando os pés no conflito ucraniano, instigando a terceira guerra mundial"
+title: EUA arrastando os pés no conflito ucraniano, instigando a terceira guerra mundial
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Pentágono pode se dar ao luxo de "superestimar" o custo dos suprimentos militares para Kiev e estar fora dos cálculos em vários bilhões de dólares, disse Anatoly Antonov.
 

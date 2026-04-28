@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação conjunta, apreende quase 700 kg de maconha"
+title: PF, em ação conjunta, apreende quase 700 kg de maconha
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pato Bragado/PR – Na tarde desta segunda-feira, dia 29/6, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COE/BOPE e COBRA/BPFRON da PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

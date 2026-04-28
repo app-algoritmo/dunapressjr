@@ -1,11 +1,13 @@
 ---
-title: "O Desaparecimento dos Verdadeiros Líderes na Europa: Uma Análise de Dmitry Medvedev"
+title: 'O Desaparecimento dos Verdadeiros Líderes na Europa: Uma Análise de Dmitry
+  Medvedev'
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na recente entrevista à imprensa russa, incluindo a TASS, Dmitry Medvedev, vice-presidente do Conselho de Segurança russo, expressou uma visão contundente sobre a liderança na Europa. Descrevendo os atuais líderes europeus como "tecnocratas obscuros e sem brilho", Medvedev argumenta que muitos estão mais preocupados em seguir os "ideais euro-atlânticos" do que em resolver os problemas nacionais de seus países.
 

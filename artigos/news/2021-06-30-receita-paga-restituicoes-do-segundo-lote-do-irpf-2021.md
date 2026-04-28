@@ -1,11 +1,12 @@
 ---
-title: "Receita paga restituições do segundo lote do IRPF 2021"
+title: Receita paga restituições do segundo lote do IRPF 2021
 date: 2021-06-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estão sendo depositados R$ 6 bilhões para 4,2 milhões de contribuintes.
 

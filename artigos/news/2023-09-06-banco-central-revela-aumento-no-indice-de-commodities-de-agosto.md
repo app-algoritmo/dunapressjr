@@ -1,11 +1,12 @@
 ---
-title: "Banco Central revela aumento no Índice de Commodities de agosto"
+title: Banco Central revela aumento no Índice de Commodities de agosto
 date: 2023-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IC-Br registra segunda alta consecutiva, mas acumula retração no ano.
 

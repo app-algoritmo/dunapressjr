@@ -1,11 +1,12 @@
 ---
-title: "Dia da Batalha Final! Trump vs Harris"
+title: Dia da Batalha Final! Trump vs Harris
 date: 2024-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 As redes sociais estão em chamas, americanos indo às urnas para escolher o próximo mandatário para a casa branca, hoje, 5 de novembro, marca um dia decisivo nos Estados Unidos: a batalha final para determinar o próximo presidente entre Kamala Harris e Donald Trump. Logo cedo, às 5h da manhã, as primeiras assembleias de voto abriram, dando início a uma maratona cívica que se estende por seis fusos horários, do Atlântico ao Pacífico. Em todos os cantos do país, milhões de americanos se preparam para exercer seu direito de voto e eleger o futuro comandante da nação.
 

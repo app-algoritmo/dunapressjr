@@ -1,11 +1,13 @@
 ---
-title: "Ranking do Saneamento: João Pessoa é 1º lugar entre as capitais do Nordeste e Campina Grande 16º no país"
+title: 'Ranking do Saneamento: João Pessoa é 1º lugar entre as capitais do Nordeste
+  e Campina Grande 16º no país'
 date: 2022-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### João Pessoa e Campina Grande também se destacam no indicador de perdas na distribuição de água captada.****
 

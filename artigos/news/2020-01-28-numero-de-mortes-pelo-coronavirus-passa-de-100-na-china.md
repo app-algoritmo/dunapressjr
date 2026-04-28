@@ -1,11 +1,12 @@
 ---
-title: "Número de mortes pelo coronavírus passa de 100 na China"
+title: Número de mortes pelo coronavírus passa de 100 na China
 date: 2020-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Mais de 4 mil pessoas já foram infectadas*
 

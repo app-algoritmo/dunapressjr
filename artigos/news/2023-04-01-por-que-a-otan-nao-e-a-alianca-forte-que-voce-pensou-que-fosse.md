@@ -1,11 +1,12 @@
 ---
-title: "Por que a OTAN não é a aliança forte que você pensou que fosse"
+title: Por que a OTAN não é a aliança forte que você pensou que fosse
 date: 2023-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A Hungria está trabalhando ativamente para tornar sua energia independente da UE/OTAN.
 

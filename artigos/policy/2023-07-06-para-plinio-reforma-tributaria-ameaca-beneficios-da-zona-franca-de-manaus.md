@@ -1,11 +1,12 @@
 ---
-title: "Para Plínio, reforma tributária ameaça benefícios da Zona Franca de Manaus"
+title: Para Plínio, reforma tributária ameaça benefícios da Zona Franca de Manaus
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) questionou, em pronunciamento no Plenário nesta quarta-feira (5), o possível risco de perda de receita da Zona Franca de Manaus com a aprovação da reforma tributária ([PEC 45/2019](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2196833)), prevista para ser votada esta semana pela Câmara dos Deputados. O senador destacou que a pauta defendida pelo governo como fundamental para impulsionar o crescimento econômico do país, com mudanças que propõem a redução das desigualdades sociais, pode acabar com benefícios e prejudicar principalmente estados da Região Norte que dependem economicamente da Zona Franca. 
 

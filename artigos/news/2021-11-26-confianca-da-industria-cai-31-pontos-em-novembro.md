@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria cai 3,1 pontos em novembro"
+title: Confiança da indústria cai 3,1 pontos em novembro
 date: 2021-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a quarta queda consecutiva do indicador.
 

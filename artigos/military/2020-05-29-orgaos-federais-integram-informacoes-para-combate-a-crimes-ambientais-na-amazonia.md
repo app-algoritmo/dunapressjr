@@ -1,11 +1,12 @@
 ---
-title: "Órgãos federais integram informações para combate a crimes ambientais na Amazônia"
+title: Órgãos federais integram informações para combate a crimes ambientais na Amazônia
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Representantes de dez órgãos federais estão integrando informações e dados visando apoio a equipes de campo que atuam no combate a crimes ambientais na Amazônia Legal durante a Operação Verde Brasil 2.
 

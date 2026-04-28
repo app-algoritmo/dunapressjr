@@ -1,11 +1,12 @@
 ---
-title: "A Importância da Paz Interior e da Presença do Espírito Santo"
+title: A Importância da Paz Interior e da Presença do Espírito Santo
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Se a Santíssima Trindade habitar na nossa alma, não nos faltará paz interior mesmo nos momentos mais difíceis. Esta mensagem foi central no sermão de Pentecostes do Arcebispo Carlo Maria Viganò, onde ele destacou a importância do Espírito Santo na vida dos fiéis e na renovação da Igreja.
 

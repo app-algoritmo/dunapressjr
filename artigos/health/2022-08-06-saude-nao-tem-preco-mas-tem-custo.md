@@ -1,11 +1,12 @@
 ---
-title: "Saúde não tem preço. Mas tem custo"
+title: Saúde não tem preço. Mas tem custo
 date: 2022-08-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A água de boa qualidade é como a saúde. Só percebemos o valor dela quando acaba. Problemas com financiamentos, superlotação e déficit recorrente são fatores que colocam em risco a qualidade e a história do Sistema Único de Saúde (SUS). Para se ter uma ideia, enquanto 75% dos brasileiros são atendidos pelo sistema público, segundo a Agência Nacional de Saúde, 54% de tudo que é pago em medicamentos, atendimentos, exames e procedimentos saem dos bolsos de empresas ou famílias que mantêm os hospitais. Se a saúde lhe parece cara, não queira saber o preço da sua ausência. Para evitar isso, precisamos que público e privado trabalhem juntos.
 

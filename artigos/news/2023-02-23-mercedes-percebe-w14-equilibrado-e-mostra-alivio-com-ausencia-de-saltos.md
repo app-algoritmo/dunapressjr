@@ -1,12 +1,13 @@
 ---
-title: "Mercedes percebe W14 equilibrado e mostra alívio com ausência de saltos"
+title: Mercedes percebe W14 equilibrado e mostra alívio com ausência de saltos
 date: 2023-02-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## Toto Wolff garantiu que os quiques que atormentaram a Mercedes em 2022 não apareceram na ida do W14 à pista, nesta quinta-feira (23), no Bahrein.
 

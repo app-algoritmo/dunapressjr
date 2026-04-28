@@ -1,11 +1,12 @@
 ---
-title: "A Rússia não tem ideia de como Trump pode resolver o conflito na Ucrânia"
+title: A Rússia não tem ideia de como Trump pode resolver o conflito na Ucrânia
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Donald Trump disse repetidamente que, caso vencesse as eleições presidenciais dos EUA, conseguiria pôr fim ao conflito na Ucrânia em 24 horas.
 

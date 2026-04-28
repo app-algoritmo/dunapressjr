@@ -1,11 +1,12 @@
 ---
-title: "Um herói anônimo"
+title: Um herói anônimo
 date: 2019-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Hoje quero relembrar o assassinato cruel de um herói que morreu fazendo seu trabalho, mas como infelizmente no nosso país os valores são invertidos, esta triste história foi esquecida.
 

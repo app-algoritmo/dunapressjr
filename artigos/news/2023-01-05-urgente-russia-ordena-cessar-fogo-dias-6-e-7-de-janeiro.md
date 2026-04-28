@@ -1,11 +1,12 @@
 ---
-title: "Urgente: Rússia ordena cessar fogo dias 6 e 7 de janeiro"
+title: 'Urgente: Rússia ordena cessar fogo dias 6 e 7 de janeiro'
 date: 2023-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Defesa da Rússia, General do Exército, Sergei Shoigu, ordenou a introdução de um cessar-fogo na linha de contato entre as partes na Ucrânia a partir das 12h00 de 6 de janeiro por 36 horas. Isso foi relatado a jornalistas do departamento militar russo na quinta-feira.
 

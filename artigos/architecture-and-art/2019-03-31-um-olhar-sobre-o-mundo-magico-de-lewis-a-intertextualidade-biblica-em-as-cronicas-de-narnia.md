@@ -1,11 +1,13 @@
 ---
-title: "Um Olhar sobre o mundo mágico de Lewis- A intertextualidade bíblica em as crônicas de Nárnia"
+title: Um Olhar sobre o mundo mágico de Lewis- A intertextualidade bíblica em as crônicas
+  de Nárnia
 date: 2019-03-31
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Leia antes as duas primeiras partes escritas sobre essa obra : [Um olhar sobre o Mundo Mágico de Lewis- Introdução](https://dunapress.org/2019/03/31/um-olhar-sobre-o-mundo-magico-de-lewis-introducao/) e [Um Olhar sobre o mundo mágico de Lewis- A construção ficcional](https://dunapress.org/2019/03/31/um-olhar-sobre-o-mundo-magico-de-lewis-a-construcao-ficcional/)
 

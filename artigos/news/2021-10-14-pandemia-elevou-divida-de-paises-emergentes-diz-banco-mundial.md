@@ -1,11 +1,12 @@
 ---
-title: "Pandemia elevou dívida de países emergentes, diz Banco Mundial"
+title: Pandemia elevou dívida de países emergentes, diz Banco Mundial
 date: 2021-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida chegou a US$ 860 bilhões em 2020.
 

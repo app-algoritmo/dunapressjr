@@ -1,12 +1,13 @@
 ---
-title: "The Witcher, Blood Origin - Episódio 1 - Sonetos, Socos e Sangue"
+title: The Witcher, Blood Origin - Episódio 1 - Sonetos, Socos e Sangue
 date: 2022-12-29
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 Escute a resenha Aqui:
 

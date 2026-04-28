@@ -1,11 +1,12 @@
 ---
-title: "Brics deve defender reforma do Conselho de Segurança, diz presidente"
+title: Brics deve defender reforma do Conselho de Segurança, diz presidente
 date: 2022-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bloco é formado por Brasil, Rússia, Índia, China e África do Sul.
 

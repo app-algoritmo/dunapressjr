@@ -1,11 +1,12 @@
 ---
-title: "Francisco: “no cristianismo o instinto sexual não é condenado”"
+title: 'Francisco: “no cristianismo o instinto sexual não é condenado”'
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco alertou que “o instinto sexual não é condenado no cristianismo” e criticou a “objetificação” e as relações tóxicas que a “luxúria” produz.
 

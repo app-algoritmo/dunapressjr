@@ -1,11 +1,12 @@
 ---
-title: "Haddad discute com Campos Neto parcelamento de dívidas pelo Pix"
+title: Haddad discute com Campos Neto parcelamento de dívidas pelo Pix
 date: 2023-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro diz que governo prepara 12 medidas para melhorar crédito.
 

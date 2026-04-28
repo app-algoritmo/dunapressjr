@@ -1,11 +1,13 @@
 ---
-title: "Técnicas pioneiras têm garantido qualidade de vida a pacientes cardiopatas com doenças genéticas"
+title: Técnicas pioneiras têm garantido qualidade de vida a pacientes cardiopatas
+  com doenças genéticas
 date: 2023-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pouco antes da pandemia da covid-19, Rudi Raupp Maia, que trabalha com logística, tinha 31 anos e estava focado no trabalho, em crescer profissionalmente. Começou a sentir um pouco de cansaço e dificuldade respiratória, mas achou que era apenas por falta de atividade física e pelo cigarro, já que tinha largado o mau hábito há pouco tempo. Por insistência da esposa, fez um check-up e o eletrocardiograma chamou a atenção do cardiologista. Exames complementares detectaram um problema genético conhecido como cardiomiopatia hipertrófica assimétrica, quando o coração cresce de forma desordenada, ficando maior que o normal. 
 

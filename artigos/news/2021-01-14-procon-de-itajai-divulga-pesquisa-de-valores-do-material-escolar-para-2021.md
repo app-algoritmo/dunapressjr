@@ -1,11 +1,12 @@
 ---
-title: "Procon de Itajaí divulga pesquisa de valores do material escolar para 2021"
+title: Procon de Itajaí divulga pesquisa de valores do material escolar para 2021
 date: 2021-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Procuradoria de Defesa do Consumidor (Procon) realizou nesta segunda-feira (11) a pesquisa de valores do material escolar para 2021. A pesquisa apontou uma variação de 194,69% entre a soma dos produtos mais baratos e mais caros nas oito papelarias pesquisadas. O material de maior variação é o esquadro plástico de 21 cm, que pode custar de R$0,99 a R$8,69. Em relação ao ano anterior, o kit com os 23 produtos escolares subiu 0,84% nos mais baratos e 2,04% nos mais caros.
 

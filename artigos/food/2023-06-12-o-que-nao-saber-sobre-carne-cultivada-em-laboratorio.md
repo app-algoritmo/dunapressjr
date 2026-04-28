@@ -1,12 +1,13 @@
 ---
-title: "O que não saber sobre carne cultivada em laboratório"
+title: O que não saber sobre carne cultivada em laboratório
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
-  - News
+- Food
+- News
 ---
+
 
 Eles trabalham duro para esconder esses fatos básicos de você, porque se os fatos sobre o setor de carne à base de células animais fossem divulgados, dificilmente alguém iria querer tocar nas coisas e muito menos comê-las.
 

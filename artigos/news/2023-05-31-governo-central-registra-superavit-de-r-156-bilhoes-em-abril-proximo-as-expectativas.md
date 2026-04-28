@@ -1,11 +1,13 @@
 ---
-title: "Governo Central registra superávit de R$ 15,6 bilhões em abril, próximo às expectativas"
+title: Governo Central registra superávit de R$ 15,6 bilhões em abril, próximo às
+  expectativas
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado contribui para o desempenho fiscal do ano, mas ainda abaixo da meta estabelecida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Turismo representa quase 10% do PIB paulista e gera 2,3 milhões de empregos"
+title: Turismo representa quase 10% do PIB paulista e gera 2,3 milhões de empregos
 date: 2023-09-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Dados foram apresentados pelo Governo de SP na Assembleia Legislativa; estimativa é de ativação de 52 setores econômicos.
 

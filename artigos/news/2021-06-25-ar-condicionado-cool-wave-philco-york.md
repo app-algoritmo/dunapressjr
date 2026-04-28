@@ -1,11 +1,12 @@
 ---
-title: "Ar condicionado “Cool Wave” Philco-York"
+title: Ar condicionado “Cool Wave” Philco-York
 date: 2021-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Ar condicionado “Cool Wave” Philco-York.
 

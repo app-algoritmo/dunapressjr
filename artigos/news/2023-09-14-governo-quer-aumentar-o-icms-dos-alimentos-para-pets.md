@@ -1,11 +1,12 @@
 ---
-title: "Governo quer aumentar o ICMS dos alimentos para pets"
+title: Governo quer aumentar o ICMS dos alimentos para pets
 date: 2023-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Assembleia Legislativa de Minas Gerais recebeu um projeto do Governo do Estado estabelecendo o adicional de dois pontos percentuais (2%) na alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) prevista para operação interna, que tenha como destinatário o consumidor final de produtos e serviços considerados SUPÉRFLUOS.
 

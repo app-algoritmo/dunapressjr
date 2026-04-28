@@ -1,11 +1,13 @@
 ---
-title: "PF investiga organização criminosa dedicada ao tráfico internacional de drogas no Amazonas"
+title: PF investiga organização criminosa dedicada ao tráfico internacional de drogas
+  no Amazonas
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Manaus/AM - A Polícia Federal (PF)  deflagrou, na manhã desta terça-feira (7/7), a Operação Schelde, para dar prosseguimento à fase ostensiva de Inquérito Policial, por meio do qual são investigados fatos relacionados a possíveis práticas de crimes, como pertencimento a organização criminosa, tráfico internacional de drogas, lavagem de dinheiro e uso de documentos ideologicamente falsos.
 

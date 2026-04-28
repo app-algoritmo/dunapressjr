@@ -1,11 +1,12 @@
 ---
-title: "Paradoxos Teológicos: Onipresença!"
+title: 'Paradoxos Teológicos: Onipresença!'
 date: 2020-09-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 *“Esconder-se-ia alguém em esconderijos, de modo que eu não o veja? diz o Senhor. Porventura não encho eu os céus e a terra? diz o Senhor”.*
 

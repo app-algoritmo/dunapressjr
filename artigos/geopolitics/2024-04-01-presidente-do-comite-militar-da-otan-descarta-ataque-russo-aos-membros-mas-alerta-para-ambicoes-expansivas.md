@@ -1,11 +1,13 @@
 ---
-title: "Presidente do Comitê Militar da OTAN Descarta Ataque Russo aos Membros, Mas Alerta para Ambições Expansivas"
+title: Presidente do Comitê Militar da OTAN Descarta Ataque Russo aos Membros, Mas
+  Alerta para Ambições Expansivas
 date: 2024-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O almirante holandês Rob Bauer, que lidera o Comitê Militar da OTAN, declarou que, atualmente, não há indícios de que a Rússia esteja planejando um ataque contra qualquer país membro da OTAN. Segundo o Baltic Times, Bauer afirmou que não há uma ameaça direta percebida nesse sentido.
 

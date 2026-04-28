@@ -1,11 +1,13 @@
 ---
-title: "Auxílio Emergencial: Fique atento e evite acessar links recebidos por mensagens no celular e redes sociais"
+title: 'Auxílio Emergencial: Fique atento e evite acessar links recebidos por mensagens
+  no celular e redes sociais'
 date: 2020-05-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Cidadãos devem utilizar exclusivamente os canais oficiais da Caixa ou do Governo para buscar informações e acesso aos serviços.
 

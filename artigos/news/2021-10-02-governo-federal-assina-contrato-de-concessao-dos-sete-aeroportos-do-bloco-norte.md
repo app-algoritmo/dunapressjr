@@ -1,11 +1,12 @@
 ---
-title: "Governo federal assina contrato de concessão dos sete aeroportos do Bloco Norte"
+title: Governo federal assina contrato de concessão dos sete aeroportos do Bloco Norte
 date: 2021-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bloco é formado por aeroportos do Amazonas, Rondônia, Acre e Roraima; empresa vencedora da licitação pagou ágio de 777% sobre o lance inicial.
 

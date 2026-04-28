@@ -1,11 +1,13 @@
 ---
-title: "Exército do Brasil reativa a 6ª Divisão  'Voluntários da Pátria', fundada pelo Império do Brasil em 1865"
+title: Exército do Brasil reativa a 6ª Divisão  'Voluntários da Pátria', fundada pelo
+  Império do Brasil em 1865
 date: 2020-02-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Voluntários da Pátria** é a denominação das Unidades militares criadas em 7 de janeiro de 1865, pelo Império do Brasil (1822-1889), para lutarem na Guerra do Paraguai (1864-1870); com as quais buscava-se reforçar o efetivo das forças militares do Exército Brasileiro.
 

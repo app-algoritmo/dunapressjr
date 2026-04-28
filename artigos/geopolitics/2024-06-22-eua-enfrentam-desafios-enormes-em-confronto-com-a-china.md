@@ -1,11 +1,12 @@
 ---
-title: "EUA Enfrentam Desafios Enormes em Confronto com a China"
+title: EUA Enfrentam Desafios Enormes em Confronto com a China
 date: 2024-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Estados Unidos Subestimam a China em Meio a Avanços Tecnológicos e Infraestruturais**.
 

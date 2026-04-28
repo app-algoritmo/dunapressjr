@@ -1,11 +1,12 @@
 ---
-title: "Decreto reforça parcerias comerciais entre Brasil e EUA"
+title: Decreto reforça parcerias comerciais entre Brasil e EUA
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Iniciativa tem por objetivo facilitar o comércio e investimento.
 

@@ -1,11 +1,12 @@
 ---
-title: "TCU libera crédito extraordinário para gastos sociais e trabalhistas"
+title: TCU libera crédito extraordinário para gastos sociais e trabalhistas
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pedido foi enviado pela Casa Civil no início do mês.
 

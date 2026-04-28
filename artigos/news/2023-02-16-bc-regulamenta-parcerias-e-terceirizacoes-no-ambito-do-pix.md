@@ -1,11 +1,12 @@
 ---
-title: "BC regulamenta parcerias e terceirizações no âmbito do Pix"
+title: BC regulamenta parcerias e terceirizações no âmbito do Pix
 date: 2023-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresas terão até 31 maio para ajustar terceirizações indevidas no Pix.
 

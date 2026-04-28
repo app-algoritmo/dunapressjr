@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário cai em fevereiro, diz CNI"
+title: Confiança do empresário cai em fevereiro, diz CNI
 date: 2021-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa acumula registra queda de 3,6 pontos entre janeiro e fevereiro.
 

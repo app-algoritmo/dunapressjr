@@ -1,12 +1,13 @@
 ---
-title: "Trilhas na Mata Atlântica garantem puro MTB no Rocky Mountain Games, em Juquitiba"
+title: Trilhas na Mata Atlântica garantem puro MTB no Rocky Mountain Games, em Juquitiba
 date: 2023-08-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Modalidade faz parte do maior festival de esportes e cultura de montanha do Brasil, que terá a terceira e última etapa no próximo dia 26, no Fazendão RMG.
 

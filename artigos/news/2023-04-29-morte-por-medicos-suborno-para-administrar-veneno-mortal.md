@@ -1,11 +1,12 @@
 ---
-title: "Morte por médicos: suborno para administrar veneno mortal"
+title: 'Morte por médicos: suborno para administrar veneno mortal'
 date: 2023-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Este documento prova que os médicos quebraram seu juramento e aceitaram subornos para coagir as pessoas a receber tratamento, embora não haja responsabilidade por negligência médica, portanto apenas o paciente estava em risco.
 

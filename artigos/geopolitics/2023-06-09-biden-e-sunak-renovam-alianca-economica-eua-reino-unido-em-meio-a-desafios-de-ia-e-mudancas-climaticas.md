@@ -1,11 +1,13 @@
 ---
-title: "Biden e Sunak renovam aliança econômica EUA-Reino Unido em meio a desafios de IA e mudanças climáticas"
+title: Biden e Sunak renovam aliança econômica EUA-Reino Unido em meio a desafios
+  de IA e mudanças climáticas
 date: 2023-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Declaração do Atlântico destaca cooperação em minerais críticos e inteligência artificial entre os líderes dos EUA e do Reino Unido.
 

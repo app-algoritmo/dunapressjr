@@ -1,11 +1,12 @@
 ---
-title: "Setor produtivo critica aumento dos juros básicos"
+title: Setor produtivo critica aumento dos juros básicos
 date: 2021-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta da Selic ameaça recuperação da economia, afirmam entidades.
 

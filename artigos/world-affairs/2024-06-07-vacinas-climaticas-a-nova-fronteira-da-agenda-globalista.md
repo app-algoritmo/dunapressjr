@@ -1,11 +1,12 @@
 ---
-title: "Vacinas Climáticas: A Nova Fronteira da Agenda Globalista"
+title: 'Vacinas Climáticas: A Nova Fronteira da Agenda Globalista'
 date: 2024-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Enquanto o mundo enfrenta desafios urgentes como as alterações climáticas, uma nova narrativa emerge das elites globalistas e bilionários como Bill Gates: a solução para salvar o planeta está nas vacinas.
 

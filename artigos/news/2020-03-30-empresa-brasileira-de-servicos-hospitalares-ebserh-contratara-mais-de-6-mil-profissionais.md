@@ -1,11 +1,13 @@
 ---
-title: "Empresa Brasileira de Serviços Hospitalares (Ebserh) contratará mais de 6 mil profissionais"
+title: Empresa Brasileira de Serviços Hospitalares (Ebserh) contratará mais de 6 mil
+  profissionais
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O edital com os detalhes da contratação deve ser publicado na próxima semana.
 

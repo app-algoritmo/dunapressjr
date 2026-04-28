@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philippe,  formaliza indicação de emenda constitucional que dá poder ao cidadão de revogar mandatos de políticos"
+title: Deputado Luiz Philippe,  formaliza indicação de emenda constitucional que dá
+  poder ao cidadão de revogar mandatos de políticos
 date: 2019-02-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em sua postagem no Instagram Luiz Philippe declarou: 
 

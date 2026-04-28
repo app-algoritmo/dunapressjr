@@ -1,11 +1,12 @@
 ---
-title: "Com novas cepas e sequelas pós-Covid, 'Geração Prateada' amplia busca por imunidade"
+title: Com novas cepas e sequelas pós-Covid, 'Geração Prateada' amplia busca por imunidade
 date: 2021-10-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudos apontam necessidade de aumento dos cuidados com a saúde e alimentação, principalmente, por parte das pessoas que já passaram dos 60 anos.
 

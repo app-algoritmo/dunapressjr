@@ -1,11 +1,12 @@
 ---
-title: "<strong>BNDES apoia capacitação de empreendedores de baixa renda</strong>"
+title: <strong>BNDES apoia capacitação de empreendedores de baixa renda</strong>
 date: 2022-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O investimento será de R$ 12,7 milhões.
 

@@ -1,11 +1,12 @@
 ---
-title: "Prazo até 14/08 para alunos e professores opinarem sobre aulas remotas"
+title: Prazo até 14/08 para alunos e professores opinarem sobre aulas remotas
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa com comunidade acadêmica começou em julho; um dos objetivos é entender a percepção dos alunos e professores sobre a nova rotina de aulas e estudos.
 

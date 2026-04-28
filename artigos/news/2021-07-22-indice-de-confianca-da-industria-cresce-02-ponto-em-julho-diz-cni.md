@@ -1,11 +1,12 @@
 ---
-title: "Índice de confiança da indústria cresce 0,2 ponto em julho, diz CNI"
+title: Índice de confiança da indústria cresce 0,2 ponto em julho, diz CNI
 date: 2021-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É o terceiro aumento consecutivo do indicador.
 

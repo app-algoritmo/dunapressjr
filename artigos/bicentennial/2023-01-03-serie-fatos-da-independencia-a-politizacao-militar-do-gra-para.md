@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A politização militar do Grã-Pará"
+title: 'Série Fatos Da Independência: A politização militar do Grã-Pará'
 date: 2023-01-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 No tempo em que permaneceram no território francês, as tropas paraenses tiveram acesso à grande parte dos livros, folhetos e jornais que circulavam na região. Com o passar do tempo, as ideias iluministas de liberdade e igualdade fizeram a cabeça desses militares a ponto de questionarem o alistamento obrigatório e as péssimas condições a que estavam submetidos durante a ocupação. Além disso, boa parte da população livre de Caiena era composta por *homens de cor*, como eram denominadas as populações não brancas à época. Esse contato resultou em uma identificação de mestiços, mulatos e tapuios das tropas do Grão-Pará com os colonos franceses, de tal sorte que passaram a questionar a própria realidade e condição de trabalho.
 

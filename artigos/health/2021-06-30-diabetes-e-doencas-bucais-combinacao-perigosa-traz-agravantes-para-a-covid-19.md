@@ -1,11 +1,12 @@
 ---
-title: "Diabetes e doenças bucais: combinação perigosa traz agravantes para a Covid-19"
+title: 'Diabetes e doenças bucais: combinação perigosa traz agravantes para a Covid-19'
 date: 2021-06-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Diabetes, doenças bucais e Covid-19 podem se mostrar uma combinação perigosa durante a pandemia. Um estudo publicado no Journal of Clinical Periodontology, a revista da Federação Europeia de Periodontologia (FEP), analisou 500 pacientes que foram infectados pelo coronavírus. Os pesquisadores descobriram que aqueles com problemas gengivais tinham 3,5 vezes mais possibilidade de serem internados por complicações da Covid e a probabilidade 4,5 vezes maior de precisarem de um ventilador mecânico. Além disso, o risco de morte aumentou nove vezes, comparado a pacientes infectados sem gengivite. 
 

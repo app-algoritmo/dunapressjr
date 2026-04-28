@@ -1,11 +1,13 @@
 ---
-title: "Educação inclusiva: série on-line e gratuita ensina professores a trabalhar com as diferenças em sala de aula"
+title: 'Educação inclusiva: série on-line e gratuita ensina professores a trabalhar
+  com as diferenças em sala de aula'
 date: 2023-09-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Produzido pelo Sistema Positivo de Ensino, Ciclo de Educação Inclusiva está disponível no YouTube.
 

@@ -1,11 +1,12 @@
 ---
-title: "Necessidade de financiamento do governo tem queda em 2019"
+title: Necessidade de financiamento do governo tem queda em 2019
 date: 2020-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Retração foi de 23,9%, de acordo com o IBGE.
 

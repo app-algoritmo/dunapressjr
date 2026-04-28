@@ -1,11 +1,12 @@
 ---
-title: "Avaliação do ciclo de vida da produção de biodiesel de dendê"
+title: Avaliação do ciclo de vida da produção de biodiesel de dendê
 date: 2022-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

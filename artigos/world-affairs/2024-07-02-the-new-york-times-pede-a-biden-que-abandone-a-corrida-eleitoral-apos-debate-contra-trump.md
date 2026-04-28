@@ -1,11 +1,13 @@
 ---
-title: "The New York Times Pede a Biden que Abandone a Corrida Eleitoral Após Debate Contra Trump"
+title: The New York Times Pede a Biden que Abandone a Corrida Eleitoral Após Debate
+  Contra Trump
 date: 2024-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A redação do jornal norte-americano *The New York Times* (NYT) pediu ao presidente Joe Biden que se retire da corrida eleitoral após seu desempenho no primeiro debate desta semana contra o rival republicano, Donald Trump. De acordo com o NYT, Biden mostrou-se incapaz de confrontar Trump de maneira eficaz e transmitir uma visão clara de seu plano de campanha.
 

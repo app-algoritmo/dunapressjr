@@ -1,11 +1,13 @@
 ---
-title: "Atendimento especializado para o Enem 2020 tem resultados dos recursos na Página do Participante"
+title: Atendimento especializado para o Enem 2020 tem resultados dos recursos na Página
+  do Participante
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Os participantes do Exame Nacional do Ensino Médio (Enem) 2020 que solicitaram recurso para atendimento especializado e/ou tratamento pelo nome social já podem conferir os resultados individuais na Página do Participante a partir desta quinta-feira (25). Com a publicação das respostas aos recursos, fica encerrada a etapa de inscrições para o exame.
 

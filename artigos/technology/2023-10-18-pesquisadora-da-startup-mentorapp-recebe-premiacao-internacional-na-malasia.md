@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora da startup Mentorapp recebe premiação internacional na Malásia"
+title: Pesquisadora da startup Mentorapp recebe premiação internacional na Malásia
 date: 2023-10-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Indicação dos projetos do Estado do Rio de Janeiro para concorrerem foi feita pela Assespro-RJ.
 

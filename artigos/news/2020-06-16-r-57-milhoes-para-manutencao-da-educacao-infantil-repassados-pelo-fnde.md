@@ -1,11 +1,12 @@
 ---
-title: "R$ 5,7 milhões para manutenção da educação infantil repassados pelo FNDE"
+title: R$ 5,7 milhões para manutenção da educação infantil repassados pelo FNDE
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## 15 municípios serão contemplados com os recursos, autorizados pelo Ministério da Educação.
 

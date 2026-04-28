@@ -1,11 +1,12 @@
 ---
-title: "Órgãos internacionais recomendam atenção ao saneamento básico"
+title: Órgãos internacionais recomendam atenção ao saneamento básico
 date: 2020-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Recomendações são feitas em nota do Banco Mundial, Unicef e Siwi**.
 

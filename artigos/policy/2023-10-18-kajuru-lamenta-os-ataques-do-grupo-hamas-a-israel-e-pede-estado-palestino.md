@@ -1,11 +1,12 @@
 ---
-title: "Kajuru lamenta os ataques do grupo Hamas a Israel e pede Estado palestino"
+title: Kajuru lamenta os ataques do grupo Hamas a Israel e pede Estado palestino
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) lamentou em discurso no Plenário nesta segunda-feira (16) a crise deflagrada no Oriente Médio após o ataque do grupo Hamas a Israel. Kajuru destacou que o presidente Lula em nenhum momento declarou que o Hamas "não é terrorista", mas sim que os palestinos não são terroristas.
 

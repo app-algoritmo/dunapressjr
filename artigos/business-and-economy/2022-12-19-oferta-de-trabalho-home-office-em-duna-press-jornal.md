@@ -1,12 +1,13 @@
 ---
-title: "Oferta de trabalho home office em Duna Press Jornal"
+title: Oferta de trabalho home office em Duna Press Jornal
 date: 2022-12-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - News
+- Business and Economy
+- News
 ---
+
 
 ## Comece 2023 com o pé direito!
 

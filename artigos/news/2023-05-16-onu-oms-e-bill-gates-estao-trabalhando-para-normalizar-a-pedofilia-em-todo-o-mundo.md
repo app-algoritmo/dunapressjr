@@ -1,11 +1,13 @@
 ---
-title: "ONU, OMS e Bill Gates estão trabalhando para normalizar a pedofilia em todo o mundo"
+title: ONU, OMS e Bill Gates estão trabalhando para normalizar a pedofilia em todo
+  o mundo
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A ONU, a OMS e ONGs como a Fundação Gates querem “sexualizar crianças pequenas” e “derrubar seus sistemas naturais de defesa” contra predadores sexuais, disse David Sorensen.
 

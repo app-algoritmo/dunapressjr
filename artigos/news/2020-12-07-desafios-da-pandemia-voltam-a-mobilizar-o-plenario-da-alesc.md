@@ -1,11 +1,12 @@
 ---
-title: "Desafios da pandemia voltam a mobilizar o Plenário da Alesc"
+title: Desafios da pandemia voltam a mobilizar o Plenário da Alesc
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pela segunda semana consecutiva a sessão desta quinta-feira (3) na Assembleia Legislativa teve a pandemia como tema principal. A preocupação com os alarmantes índices de contaminação, de transmissibilidade e de mortes causada pela Covid-19, bem como o desafio de manter a economia em funcionamento no Estado neste período marcou os debates entre os deputados.
 

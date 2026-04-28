@@ -1,11 +1,13 @@
 ---
-title: "Vídeo perturbador divulgado pelo denunciante da Pfizer - 'Minha vida está em perigo'!"
+title: Vídeo perturbador divulgado pelo denunciante da Pfizer - 'Minha vida está em
+  perigo'!
 date: 2023-08-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Karen Kingston trabalha para a Pfizer e fala sobre os perigos das vacinas contra o coronavírus há algum tempo. Ela contratou seguranças porque sabe que a indústria farmacêutica trata literalmente de cadáveres.
 

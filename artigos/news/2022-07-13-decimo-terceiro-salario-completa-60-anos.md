@@ -1,11 +1,12 @@
 ---
-title: "Décimo terceiro salário completa 60 anos"
+title: Décimo terceiro salário completa 60 anos
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gratificação foi criada em meio a disputa entre patrões e empregados.
 

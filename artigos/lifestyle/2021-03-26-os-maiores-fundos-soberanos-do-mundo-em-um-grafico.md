@@ -1,12 +1,13 @@
 ---
-title: "Os maiores fundos soberanos do mundo - em um gráfico"
+title: Os maiores fundos soberanos do mundo - em um gráfico
 date: 2021-03-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
-  - Magazine
+- Lifestyle
+- Magazine
 ---
+
 
 ## -O fundo norueguês único foi criado para investir as receitas do governo das indústrias de combustíveis fósseis em setores considerados mais sustentáveis.
 

@@ -1,11 +1,12 @@
 ---
-title: "IGP-M acumula inflação de 14,77% em 12 meses, diz FGV"
+title: IGP-M acumula inflação de 14,77% em 12 meses, diz FGV
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A taxa para o mês de março ficou em 1,74%.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Estrutura da ONU e seu Impacto no Contexto Econômico Internacional"
+title: A Estrutura da ONU e seu Impacto no Contexto Econômico Internacional
 date: 2024-09-26
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Organização das Nações Unidas (ONU) é a principal instituição internacional voltada para a promoção da paz, segurança e cooperação entre os países. Fundada em 1945, após a Segunda Guerra Mundial, a ONU foi criada com o objetivo de prevenir conflitos, promover o desenvolvimento sustentável e proteger os direitos humanos. No contexto econômico, seu papel é igualmente crucial, atuando na regulação de questões globais e facilitando o diálogo econômico entre nações. A estrutura da ONU, com suas diversas agências especializadas, é projetada para lidar com desafios econômicos e sociais globais, influenciando diretamente o cenário econômico mundial.
 

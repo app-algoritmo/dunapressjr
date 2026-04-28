@@ -1,11 +1,12 @@
 ---
-title: "Inadimplência das micro e pequenas empresas cai 0,9% em agosto"
+title: Inadimplência das micro e pequenas empresas cai 0,9% em agosto
 date: 2021-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são da Serasa Experian.
 

@@ -1,11 +1,13 @@
 ---
-title: "Bolsonaro's Coup Trial Takes Dramatic Turn: Justice Fux's Dissenting Vote Challenges Conviction Amid Evidence Concerns"
+title: 'Bolsonaro''s Coup Trial Takes Dramatic Turn: Justice Fux''s Dissenting Vote
+  Challenges Conviction Amid Evidence Concerns'
 date: 2025-09-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Politics and Society
+- Politics and Society
 ---
+
 
 ## Bolsonaro Coup Trial 2025: Justice Fux's Acquittal Vote Slams Lack of Evidence in Dramatic Supreme Court Split
 

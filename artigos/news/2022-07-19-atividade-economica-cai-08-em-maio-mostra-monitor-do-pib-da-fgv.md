@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica cai 0,8% em maio, mostra Monitor do PIB da FGV"
+title: Atividade econômica cai 0,8% em maio, mostra Monitor do PIB da FGV
 date: 2022-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Queda ocorre após três meses consecutivos de expansão.
 

@@ -1,11 +1,12 @@
 ---
-title: "Seminário no Rio de Janeiro debate futuro da energia nuclear"
+title: Seminário no Rio de Janeiro debate futuro da energia nuclear
 date: 2022-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Evento internacional avalia papel do setor nas mudanças climáticas.
 

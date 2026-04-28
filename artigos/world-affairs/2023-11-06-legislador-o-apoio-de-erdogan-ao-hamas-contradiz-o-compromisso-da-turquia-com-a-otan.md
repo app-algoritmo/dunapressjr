@@ -1,11 +1,13 @@
 ---
-title: "Legislador: O apoio de Erdogan ao Hamas contradiz o compromisso da Turquia com a OTAN"
+title: 'Legislador: O apoio de Erdogan ao Hamas contradiz o compromisso da Turquia
+  com a OTAN'
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O apoio do presidente turco, Recep Tayyip Erdogan, ao Hamas [contradiz o compromisso de Ancara](https://www.express.co.uk/news/world/1829926/erdogan-nato-concern-hamas-israel-turkey) com a Organização do Tratado do Atlântico Norte (OTAN), da qual é membro, segundo um legislador britânico.
 

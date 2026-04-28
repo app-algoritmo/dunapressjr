@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal alerta sobre inconsistências nas declarações de imposto de renda 2021"
+title: Receita Federal alerta sobre inconsistências nas declarações de imposto de
+  renda 2021
 date: 2021-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto Cartas 2021 inicia nesta semana e objetiva orientar contribuintes com a declaração do imposto de renda 2021 retida em malha.
 

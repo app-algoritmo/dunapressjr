@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica pautas do STF e propõe mudanças na minirreforma eleitoral"
+title: Cleitinho critica pautas do STF e propõe mudanças na minirreforma eleitoral
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na quarta-feira (20), o senador Cleitinho (Republicanos-MG) fez uma série de críticas ao Supremo Tribunal Federal (STF) relacionadas às pautas discutidas pela Corte. O senador enfatizou a importância do respeito entre os Poderes e reiterou a necessidade de preservar a integridade do Senado e sua capacidade de legislar e fiscalizar. Cleitinho citou especificamente quatro pautas em discussão: o marco temporal, a descriminalização das drogas, o aborto e a questão do imposto sindical. 
 

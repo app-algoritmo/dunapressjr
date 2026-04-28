@@ -1,11 +1,12 @@
 ---
-title: "Feliz Halloween, Feliz dia das Bruxas!"
+title: Feliz Halloween, Feliz dia das Bruxas!
 date: 2023-10-31
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a Resenha Aqui:
 

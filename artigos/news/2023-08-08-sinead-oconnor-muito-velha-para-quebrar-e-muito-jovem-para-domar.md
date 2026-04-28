@@ -1,11 +1,12 @@
 ---
-title: "Sinéad O'Connor, “muito velha para quebrar e muito jovem para domar”"
+title: Sinéad O'Connor, “muito velha para quebrar e muito jovem para domar”
 date: 2023-08-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em 1992, durante um concerto de aniversário de Bob Dylan, Sinéad O'Connor, uma das convidados para cantar no evento, deparou-se com uma multidão enfurecida ao subir ao palco do Madison Square Garden, em Nova Iorque.
 

@@ -1,11 +1,12 @@
 ---
-title: "70% das mulheres vítimas de feminicídio nunca denunciaram agressões"
+title: 70% das mulheres vítimas de feminicídio nunca denunciaram agressões
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em celebração ao "Dia Internacional pela Eliminação da Violência contra as Mulheres", a titular da Secretaria Nacional de Políticas para as Mulheres (SNPM), Cristiane Britto, participou de um webinário nesta quarta-feira (25) sobre o tema. O evento foi promovido pela Caixa Econômica Federal.
 

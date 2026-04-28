@@ -1,11 +1,12 @@
 ---
-title: "PF incinera quase 12 toneladas de maconha em Naviraí/MS"
+title: PF incinera quase 12 toneladas de maconha em Naviraí/MS
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naviraí/MS - A Polícia Federal, com o apoio da Força Nacional e da Polícia Militar de Naviraí, incinerou na sexta-feira (8/5), em Naviraí/MS, 12 toneladas de maconha. Acompanharam o ato autoridades locais.
 

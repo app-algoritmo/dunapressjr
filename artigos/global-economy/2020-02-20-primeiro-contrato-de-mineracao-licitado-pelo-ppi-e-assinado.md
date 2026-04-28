@@ -1,11 +1,12 @@
 ---
-title: "Primeiro contrato de mineração licitado pelo PPI é assinado"
+title: Primeiro contrato de mineração licitado pelo PPI é assinado
 date: 2020-02-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Concessão gerará 2,5 mil empregos no Tocantins
 

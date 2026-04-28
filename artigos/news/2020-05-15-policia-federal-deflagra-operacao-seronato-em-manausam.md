@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra Operação Seronato em Manaus/AM"
+title: Polícia Federal deflagra Operação Seronato em Manaus/AM
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Manaus/AM** - A Polícia Federal deflagrou, na manhã desta sexta-feira (15/5), a Operação ***Seronato***, inaugurando a fase ostensiva de dois Inquéritos Policiais instaurados em janeiro e maio de 2019, respectivamente, para investigar as possíveis práticas de crimes como corrupção passiva, falsidade ideológica e lavagem de dinheiro.
 

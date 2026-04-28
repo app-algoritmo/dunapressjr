@@ -1,11 +1,12 @@
 ---
-title: "Ganhar o debate, e daí? &nbsp;&nbsp;"
+title: Ganhar o debate, e daí? &nbsp;&nbsp;
 date: 2024-08-13
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Policy
+- Policy
 ---
+
 
 Depois de muitos anos, sabemos que a intenção dos debates políticos de TV não é apresentar propostas dos candidatos, mas revelar sua postura, comportamento e popularidade. O debate para valer acontece na sociedade.
 

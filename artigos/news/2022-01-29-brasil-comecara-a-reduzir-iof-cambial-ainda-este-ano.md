@@ -1,11 +1,12 @@
 ---
-title: "Brasil começará a reduzir IOF cambial ainda este ano"
+title: Brasil começará a reduzir IOF cambial ainda este ano
 date: 2022-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida faz parte de acordo para adesão à OCDE.
 

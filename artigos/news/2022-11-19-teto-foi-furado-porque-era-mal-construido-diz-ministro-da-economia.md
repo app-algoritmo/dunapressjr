@@ -1,11 +1,12 @@
 ---
-title: "Teto foi furado porque era mal construído, diz ministro da Economia"
+title: Teto foi furado porque era mal construído, diz ministro da Economia
 date: 2022-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Guedes fez balanço sobre quatro anos de gestão econômica.
 

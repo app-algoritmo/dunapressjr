@@ -1,11 +1,13 @@
 ---
-title: "Coreia do Norte Alardeia Avanços Militares: Novos Mísseis de Cruzeiro e Projéteis Antiaéreos Elevam a Tensão Global"
+title: 'Coreia do Norte Alardeia Avanços Militares: Novos Mísseis de Cruzeiro e Projéteis
+  Antiaéreos Elevam a Tensão Global'
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Coreia do Norte novamente captura as atenções globais com a recente divulgação do lançamento bem-sucedido de um míssil de cruzeiro de alta capacidade, capaz de transportar grandes ogivas, e a introdução de um novo tipo de projétil antiaéreo. Esses desenvolvimentos, anunciados pela Administração de Mísseis do país, destacam o rápido avanço tecnológico em várias áreas, levantando preocupações e gerando especulações sobre o potencial impacto desses sistemas de armas.
 

@@ -1,11 +1,12 @@
 ---
-title: "IGP-M varia 0,48% em janeiro de 2020"
+title: IGP-M varia 0,48% em janeiro de 2020
 date: 2020-01-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Com este resultado do primeiro mês de 2020, o índice acumula alta de 7,81% em 12 meses. Em janeiro de 2019, o índice havia sido de 0,01% e acumulava alta de 6,74 % em 12 meses.*
 

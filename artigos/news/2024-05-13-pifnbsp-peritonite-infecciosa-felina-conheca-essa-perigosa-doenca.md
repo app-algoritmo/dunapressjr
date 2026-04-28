@@ -1,12 +1,13 @@
 ---
-title: "PIF:&nbsp; Peritonite infecciosa felina, conheça essa perigosa doença"
+title: PIF:&nbsp; Peritonite infecciosa felina, conheça essa perigosa doença
 date: 2024-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 A **peritonite infecciosa felina** é uma doença perigosa que merece toda a atenção do tutor. Causada pelo coronavírus felino, a enfermidade causa danos ao sistema digestivo do pet e pode levá-lo à morte.
 

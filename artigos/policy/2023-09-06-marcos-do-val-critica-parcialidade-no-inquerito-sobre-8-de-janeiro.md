@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val critica 'parcialidade' no inquérito sobre 8 de janeiro"
+title: Marcos do Val critica 'parcialidade' no inquérito sobre 8 de janeiro
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) afirmou, em pronunciamento nesta segunda-feira (4), ter sido inserido de forma “totalmente parcial” em inquérito que investiga os atos de vandalismo contra as sedes dos três Poderes em 8 de janeiro. O parlamentar criticou o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), e afirmou que é preciso “trabalhar por um país livre, democrático e justo”.
 

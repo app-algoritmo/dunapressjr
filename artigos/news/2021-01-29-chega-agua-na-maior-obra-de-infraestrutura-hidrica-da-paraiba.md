@@ -1,11 +1,12 @@
 ---
-title: "Chega água na maior obra de infraestrutura hídrica da Paraíba"
+title: Chega água na maior obra de infraestrutura hídrica da Paraíba
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O primeiro teste com água no Canal Acauã-Araçagi ocorreu na tarde dessa terça-feira (26), se constituindo em mais uma ação importante do Governo do Estado para garantir a segurança hídrica do Agreste Paraibano. O dispositivo para liberação da água foi acionado pelo secretário da Infraestrutura, dos Recursos Hídricos e do Meio Ambiente, Deusdete Queiroga, que representou o governador João Azevêdo. A ação ocorreu no lote 1 da obra, no município de Itatuba (Agreste paraibano). 
 

@@ -1,12 +1,13 @@
 ---
-title: "Pedro Pascal se junta à sequência de 'Gladiador' de Ridley Scott na Paramount"
+title: Pedro Pascal se junta à sequência de 'Gladiador' de Ridley Scott na Paramount
 date: 2023-05-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Astro de The Last of Us, Pedro Pascal vai participar do próximo filme de sucesso "Gladiador".
 

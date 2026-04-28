@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal e Receita Federal apreendem 107 kg de cocaína no Porto de Paranaguá"
+title: Polícia Federal e Receita Federal apreendem 107 kg de cocaína no Porto de Paranaguá
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Paranaguá/PR - A Policia Federal e a Receita Federal apreenderam na quinta-feira, 11/6, cerca de 107 kg de cocaína no Porto de Paranaguá/PR.
 

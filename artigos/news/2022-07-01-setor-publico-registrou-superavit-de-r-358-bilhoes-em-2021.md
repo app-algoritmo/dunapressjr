@@ -1,11 +1,12 @@
 ---
-title: "Setor público registrou superávit de R$ 358 bilhões em 2021"
+title: Setor público registrou superávit de R$ 358 bilhões em 2021
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gastos com benefícios previdenciários assistenciais caíram.
 

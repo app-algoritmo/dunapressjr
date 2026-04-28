@@ -1,11 +1,12 @@
 ---
-title: "CNC projeta queda de 4,8% nas vendas para o Dia das Crianças"
+title: CNC projeta queda de 4,8% nas vendas para o Dia das Crianças
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Data é a terceira mais importante para o varejo nacional.
 

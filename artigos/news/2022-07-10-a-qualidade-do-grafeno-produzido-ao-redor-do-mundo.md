@@ -1,11 +1,12 @@
 ---
-title: "A qualidade do grafeno produzido ao redor do mundo"
+title: A qualidade do grafeno produzido ao redor do mundo
 date: 2022-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O grafeno foi o primeiro [nanomaterial bidimensional (2d)](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/349-a-qualidade-do-grafeno-produzido-ao-redor-do-mundo#) a ser isolado em laboratório. Segundo a Organização Internacional para Padronização (ISO) o grafeno é um material constituído de uma camada única [monocristalina](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/349-a-qualidade-do-grafeno-produzido-ao-redor-do-mundo#) de átomos de carbono organizados em uma estrutura hexagonal  (Figura 1). Em uma linguagem mais simples podemos dizer que o grafeno é uma folha de carbono plana, altamente fina e resistente. 
 

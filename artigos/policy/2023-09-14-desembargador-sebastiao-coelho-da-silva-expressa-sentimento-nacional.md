@@ -1,11 +1,12 @@
 ---
-title: "Desembargador Sebastião Coelho da Silva expressa sentimento nacional"
+title: Desembargador Sebastião Coelho da Silva expressa sentimento nacional
 date: 2023-09-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A crise democrática que assola o Brasil é um tema de grande relevância e preocupação para a grande maioria de seus cidadãos. Esta crise, que se apresenta como uma crise moral, orquestrada e sem precedentes, tem despertado a atenção de pessoas que buscam preservar os valores fundamentais da democracia. O desembargador aposentado **Sebastião Coelho da Silva** emergiu como uma figura notável ao trazer à luz os princípios essenciais da democracia, baseada na soberania exercida pelo povo, seja de forma direta ou indireta. No entanto, o que presenciamos nos dias de hoje é a ameaça à essência da democracia, uma ameaça que vem de autoridades que se autoproclamam como "defensores da democracia". Este artigo analisará a atual crise democrática no Brasil, destacando a necessidade de preservar seus valores e a coragem necessária para tal empreitada.
 

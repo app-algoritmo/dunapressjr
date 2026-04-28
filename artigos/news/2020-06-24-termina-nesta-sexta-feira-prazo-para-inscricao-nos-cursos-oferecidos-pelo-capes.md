@@ -1,11 +1,12 @@
 ---
-title: "Termina nesta sexta-feira prazo para inscrição nos cursos oferecidos pelo Capes"
+title: Termina nesta sexta-feira prazo para inscrição nos cursos oferecidos pelo Capes
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Coordenação oferece 25 mil vagas para três cursos on-line: Português, Matemática e Tecnologias da Informação e Comunicação.
 

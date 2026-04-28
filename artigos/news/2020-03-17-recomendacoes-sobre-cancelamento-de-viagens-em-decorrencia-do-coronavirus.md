@@ -1,11 +1,12 @@
 ---
-title: "Recomendações sobre cancelamento de viagens em decorrência do Coronavírus"
+title: Recomendações sobre cancelamento de viagens em decorrência do Coronavírus
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Lista aponta as principais medidas que as pessoas devem tomar em caso de desistência de viagens 
 

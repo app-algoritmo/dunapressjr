@@ -1,11 +1,12 @@
 ---
-title: "Norwegian Air Shuttle deseja operar no Brasil"
+title: Norwegian Air Shuttle deseja operar no Brasil
 date: 2018-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A norueguesa **Norwegian Air**, a segunda maior companhia aérea da Escandinávia e a terceira maior de baixo custo (*low cost*) da Europa, recentemente solicitou os direitos de tráfego para operação no Brasil. A companhia já opera na América do Norte e Central, e atualmente tem uma subsidiária na América do Sul (Argentina). A ANAC (Agência Nacional de Aviação Civil) declarou que a Norwegian pediu autorização para operar voos entre o Brasil e a Europa. O processo para autorização dura cerca de 120 dias, e após aprovação a companhia norueguesa poderá finalmente operar.
 

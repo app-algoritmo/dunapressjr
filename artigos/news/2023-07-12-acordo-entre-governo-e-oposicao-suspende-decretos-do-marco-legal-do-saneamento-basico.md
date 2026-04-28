@@ -1,11 +1,13 @@
 ---
-title: "Acordo entre governo e oposição suspende decretos do Marco Legal do Saneamento Básico"
+title: Acordo entre governo e oposição suspende decretos do Marco Legal do Saneamento
+  Básico
 date: 2023-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova negociação resulta na revogação dos decretos de Lula e edição de um novo texto. 
 

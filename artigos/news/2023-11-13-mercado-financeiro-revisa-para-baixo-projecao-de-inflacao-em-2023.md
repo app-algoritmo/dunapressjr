@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro revisa para baixo projeção de inflação em 2023"
+title: Mercado financeiro revisa para baixo projeção de inflação em 2023
 date: 2023-11-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus do Banco Central aponta queda na estimativa do IPCA para este ano.
 

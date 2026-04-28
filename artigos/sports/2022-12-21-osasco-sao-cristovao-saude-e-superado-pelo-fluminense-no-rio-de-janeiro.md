@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde é superado pelo Fluminense no Rio de Janeiro"
+title: Osasco São Cristóvão Saúde é superado pelo Fluminense no Rio de Janeiro
 date: 2022-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Osasco São Cristóvão Saúde foi superado pelo Fluminense por 3 sets a 1, na noite desta terça-feira (20), no ginásio da Hebraica, no Rio de Janeiro. A equipe carioca venceu com parciais de 20/25, 25/20, 25/20 e 25/21, em 1h54min, pela décima rodada da Superliga 1XBET 2022/23. Agora, a equipe de Fabiana, Natinha, Tifanny, Adenizia, Smarzek e cia. só volta a quadra no ano novo. Enfrenta o Brasília, dia 10 de janeiro, no ginásio José Liberatti quando vai em busca da reabilitação.
 

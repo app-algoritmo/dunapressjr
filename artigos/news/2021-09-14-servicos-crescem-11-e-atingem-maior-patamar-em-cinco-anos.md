@@ -1,11 +1,12 @@
 ---
-title: "Serviços crescem 1,1% e atingem maior patamar em cinco anos"
+title: Serviços crescem 1,1% e atingem maior patamar em cinco anos
 date: 2021-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa foi a quarta taxa de crescimento consecutiva do indicador.
 

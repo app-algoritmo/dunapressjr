@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal publica normas para apuração de CSLL de bancos e agências de fomento"
+title: Receita Federal publica normas para apuração de CSLL de bancos e agências de
+  fomento
 date: 2020-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Instrução Normativa regulamenta dispositivo da Emenda Constitucional nº 103/2019
 

@@ -1,11 +1,12 @@
 ---
-title: "Crise no Haiti: Uma Realidade que Rivaliza com Mad Max"
+title: 'Crise no Haiti: Uma Realidade que Rivaliza com Mad Max'
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A diretora da agência infantil da ONU, Catherine Russell, comparou a atual situação no Haiti a uma distopia pós-apocalíptica, semelhante ao caos retratado no filme "Mad Max". Segundo Russell, o país está imerso em uma onda de violência desencadeada por gangues armadas, resultando em uma crise humanitária sem precedentes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Celebridades esquerdistas aplaudem a Suprema Corte do Colorado"
+title: Celebridades esquerdistas aplaudem a Suprema Corte do Colorado
 date: 2023-12-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma Suprema Corte dividida do Colorado desqualificou recentemente o ex-presidente Donald Trump de ocupar o cargo de presidente sob a cláusula de insurreição da Constituição dos EUA. Portanto, seria um [“ato ilícito” listá](https://www.cbsnews.com/news/trump-colorado-supreme-court/) -lo como candidato nas primárias presidenciais de 2024.
 

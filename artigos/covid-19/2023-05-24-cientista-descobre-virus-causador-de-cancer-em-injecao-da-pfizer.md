@@ -1,11 +1,12 @@
 ---
-title: "Cientista descobre vírus causador de câncer em injeção da Pfizer"
+title: Cientista descobre vírus causador de câncer em injeção da Pfizer
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 **DISCLAIMER**
 Caro leitor,

@@ -1,11 +1,13 @@
 ---
-title: "Custos da construção civil apresentam leve alta em abril, impactando projetos e obras"
+title: Custos da construção civil apresentam leve alta em abril, impactando projetos
+  e obras
 date: 2023-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice Nacional da Construção Civil (Sinapi) registra aumento nos custos de materiais, com destaque para a região Nordeste e o estado de Sergipe.
 

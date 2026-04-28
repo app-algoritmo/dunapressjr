@@ -1,11 +1,12 @@
 ---
-title: "O gigante segue lutando..."
+title: O gigante segue lutando...
 date: 2019-06-21
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - News
+- News
 ---
+
 
 O gigante segue lutando... 
 

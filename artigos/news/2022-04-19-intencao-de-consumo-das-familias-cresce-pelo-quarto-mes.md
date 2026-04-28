@@ -1,11 +1,12 @@
 ---
-title: "Intenção de Consumo das Famílias cresce pelo quarto mês"
+title: Intenção de Consumo das Famílias cresce pelo quarto mês
 date: 2022-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicador atinge o maior nível desde maio de 2020.
 

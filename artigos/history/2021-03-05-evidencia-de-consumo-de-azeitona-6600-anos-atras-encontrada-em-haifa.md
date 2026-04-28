@@ -1,11 +1,12 @@
 ---
-title: "Evidência de consumo de azeitona 6.600 anos atrás encontrada em Haifa"
+title: Evidência de consumo de azeitona 6.600 anos atrás encontrada em Haifa
 date: 2021-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Arqueólogos israelenses encontraram evidências da produção mais antiga conhecida de azeitonas para consumo em vez de óleo, que data de 6.600 anos, de acordo com um estudo da Universidade de Haifa.
 

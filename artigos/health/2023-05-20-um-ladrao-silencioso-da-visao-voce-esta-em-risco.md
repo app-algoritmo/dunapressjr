@@ -1,11 +1,12 @@
 ---
-title: "Um ladrão silencioso da visão: você está em risco?"
+title: 'Um ladrão silencioso da visão: você está em risco?'
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## O glaucoma é a segunda principal causa de cegueira no mundo. É importante conhecer o seu risco e como evitar a hipertensão ocular, principal causa do glaucoma.
 

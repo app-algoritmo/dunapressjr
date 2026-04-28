@@ -1,11 +1,12 @@
 ---
-title: "Chega de teoria da conspiração: óxido de grafeno nas vacinas da Pfizer"
+title: 'Chega de teoria da conspiração: óxido de grafeno nas vacinas da Pfizer'
 date: 2023-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 De acordo com documentos oficiais do fabricante da vacina, o óxido de grafeno é usado na fabricação da vacina corona da Pfizer. Esta é provavelmente uma das razões pelas quais a empresa quis manter os documentos em sigilo por 75 anos.
 

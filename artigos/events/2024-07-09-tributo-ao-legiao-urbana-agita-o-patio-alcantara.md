@@ -1,12 +1,13 @@
 ---
-title: "Tributo ao Legião Urbana agita o Pátio Alcântara"
+title: Tributo ao Legião Urbana agita o Pátio Alcântara
 date: 2024-07-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Music
+- Events
+- Music
 ---
+
 
 ## Show gratuito no dia 12 de julho vai lembrar sucessos da banda.
 

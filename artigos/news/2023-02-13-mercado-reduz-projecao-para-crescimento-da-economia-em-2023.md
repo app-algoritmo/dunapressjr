@@ -1,11 +1,12 @@
 ---
-title: "Mercado reduz projeção para crescimento da economia em 2023"
+title: Mercado reduz projeção para crescimento da economia em 2023
 date: 2023-02-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa para o PIB caiu de 0,79% para 0,76%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Operação Hórus: Policiais apreendem caminhão com contrabando em Santa Helena/PR"
+title: 'Operação Hórus: Policiais apreendem caminhão com contrabando em Santa Helena/PR'
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Nasegunda-feira (15/6), por volta de 14h30, em patrulhamento terrestre na região do Lago de Itaipu, próximo a Sub Sede, Distrito de Santa Helena/PR, equipe de policiais federais e de policiais civis avistou um caminhão, que foi abordado.
 

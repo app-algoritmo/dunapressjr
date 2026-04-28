@@ -1,11 +1,13 @@
 ---
-title: "Tours virtuais disponíveis na internet, destinos e atrativos à distância de alguns cliques"
+title: Tours virtuais disponíveis na internet, destinos e atrativos à distância de
+  alguns cliques
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Limitações geradas pela pandemia do novo coronavírus ainda fazem com que muitos turistas tenham de adiar a vontade de colocar o pé na estrada e percorrer os diversos destinos nacionais. Entretanto, o eventual tempo livre durante este período pode ser uma ótima chance de ‘passear’ virtualmente por alguns atrativos brasileiros e, de quebra, planejar aquela merecida viagem em breve.
 

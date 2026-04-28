@@ -1,11 +1,12 @@
 ---
-title: "Pequenas empresas veem oportunidades geradas pela crise"
+title: Pequenas empresas veem oportunidades geradas pela crise
 date: 2021-03-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa foi feita pela Serasa Experian
 

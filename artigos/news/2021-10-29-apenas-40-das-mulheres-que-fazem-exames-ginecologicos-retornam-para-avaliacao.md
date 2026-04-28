@@ -1,11 +1,12 @@
 ---
-title: "Apenas 40% das mulheres que fazem exames ginecológicos retornam para avaliação"
+title: Apenas 40% das mulheres que fazem exames ginecológicos retornam para avaliação
 date: 2021-10-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Casos de câncer devem aumentar 42% nos próximos dez anos, no Brasil, subindo de 625 mil atuais para mais de 887 mil pessoas com a doença. É o que aponta um estudo realizado pelo *The Economist Intelligence Unit* em parceria com a *Varian Medical System*. Entre as justificativas para essa estimativa estão: o envelhecimento da população, a maior incidência do consumo de cigarro e bebidas alcoólicas e da obesidade, principalmente na pandemia de covid-19.
 

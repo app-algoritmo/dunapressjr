@@ -1,11 +1,12 @@
 ---
-title: "Girão pede revisão das prisões do 8 de janeiro e denuncia irregularidades"
+title: Girão pede revisão das prisões do 8 de janeiro e denuncia irregularidades
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) voltou a lamentar, em pronunciamento no Plenário nesta terça-feira (20), a situação enfrentada por presos envolvidos na invasão e ataque às sedes dos Três Poderes. Segundo o parlamentar, durante uma visita ao complexo penitenciário da Papuda e à Penitenciária Feminina do Distrito Federal, Colmeia, na última sexta-feira (16), foram observadas algumas irregularidades nas prisões. 
 

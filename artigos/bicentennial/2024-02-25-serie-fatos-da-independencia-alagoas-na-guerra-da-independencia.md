@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Alagoas na guerra da independência"
+title: 'Série Fatos Da Independência: Alagoas na guerra da independência'
 date: 2024-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 1822, as vilas em Alagoas não possuíam mais que cinco mil habitantes. As principais eram a capital, vila das Alagoas, Penedo e Porto Calvo. Maceió, um povoado recentemente separado da freguesia de Alagoas, em 1815, ainda que estivesse em pleno desenvolvimento em função do porto de Jaraguá, só se tornaria a capital em 1839.
 

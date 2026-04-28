@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem menor superávit para maio em três anos"
+title: Balança comercial tem menor superávit para maio em três anos
 date: 2022-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Exportações superaram importações em US$ 4,94 bilhões.
 

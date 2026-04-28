@@ -1,11 +1,12 @@
 ---
-title: "Alto diplomata iraniano sugere realização de referendo sobre o futuro da Palestina"
+title: Alto diplomata iraniano sugere realização de referendo sobre o futuro da Palestina
 date: 2023-11-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ali Bagheri Kani destacou que “a solução para a questão palestina deveria estar nas mãos dos próprios palestinos”, que “não precisam de guardiões externos”.
 

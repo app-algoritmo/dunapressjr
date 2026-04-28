@@ -1,11 +1,12 @@
 ---
-title: "Dívida pública deverá fechar ano acima da meta de R$ 4,9 trilhões"
+title: Dívida pública deverá fechar ano acima da meta de R$ 4,9 trilhões
 date: 2020-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo Tesouro, emissões recomporão caixa do governo.
 

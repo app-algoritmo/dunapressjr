@@ -1,11 +1,13 @@
 ---
-title: "A OMS planeja lançar o Certificado Global de Saúde Digital que exigirá o cumprimento de todas as vacinas"
+title: A OMS planeja lançar o Certificado Global de Saúde Digital que exigirá o cumprimento
+  de todas as vacinas
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Governos de todo o mundo tentaram controlar o público aplicando vacinação em massa e passaportes de vacinas no auge da pandemia de coronavírus de Wuhan (COVID-19).
 

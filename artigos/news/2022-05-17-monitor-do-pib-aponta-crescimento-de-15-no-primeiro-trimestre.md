@@ -1,11 +1,12 @@
 ---
-title: "Monitor do PIB aponta crescimento de 1,5% no primeiro trimestre"
+title: Monitor do PIB aponta crescimento de 1,5% no primeiro trimestre
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Na passagem de fevereiro para março aumento foi 1,8%, diz FGV.
 

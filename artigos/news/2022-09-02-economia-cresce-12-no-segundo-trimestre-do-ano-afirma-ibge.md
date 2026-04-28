@@ -1,11 +1,12 @@
 ---
-title: "Economia cresce 1,2% no segundo trimestre do ano, afirma IBGE"
+title: Economia cresce 1,2% no segundo trimestre do ano, afirma IBGE
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado é o quarto positivo consecutivo do indicador.
 

@@ -1,11 +1,12 @@
 ---
-title: "A cada minuto alguém deixa este mundo para trás"
+title: A cada minuto alguém deixa este mundo para trás
 date: 2019-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Não sabemos quantas pessoas estão na nossa frente.
 Não dá para voltar para o" fim da fila".

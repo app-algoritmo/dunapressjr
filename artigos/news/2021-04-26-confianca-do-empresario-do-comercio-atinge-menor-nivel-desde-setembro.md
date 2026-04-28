@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário do comércio atinge menor nível desde setembro"
+title: Confiança do empresário do comércio atinge menor nível desde setembro
 date: 2021-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice cai 6,4% de março para abril deste ano e chega a 95,7 pontos.
 

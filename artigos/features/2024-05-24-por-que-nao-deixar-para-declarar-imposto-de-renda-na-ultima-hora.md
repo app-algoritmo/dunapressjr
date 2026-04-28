@@ -1,11 +1,12 @@
 ---
-title: "Por que não deixar para declarar Imposto de Renda na última hora"
+title: Por que não deixar para declarar Imposto de Renda na última hora
 date: 2024-05-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Falta de internet e erros na documentação podem atrasar entrega da declaração anual e gerar multas.
 

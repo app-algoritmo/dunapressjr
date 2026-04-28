@@ -1,11 +1,12 @@
 ---
-title: "Girão denuncia manobras para liberação de jogos de azar no país"
+title: Girão denuncia manobras para liberação de jogos de azar no país
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE), em pronunciamento no Plenário nesta terça-feira (28), criticou o projeto de lei ([PL 3.626/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160197)) que regulamenta as apostas esportivas de cota fixa no Brasil, as chamadas bets. Para ele, a votação do projeto está sendo feita de maneira apressada e a inclusão do projeto entre as votações do final do ano não se justifica. A matéria está na pauta da Comissão de Constituição e Justiça (CCJ) desta quarta-feira (29). Mais que isso, para o senador, a proposta abre espaço para liberação de jogos de azar, que trariam diversos problemas de saúde e segurança pública, sem agregar benefícios para a economia, especialmente o turismo.
 

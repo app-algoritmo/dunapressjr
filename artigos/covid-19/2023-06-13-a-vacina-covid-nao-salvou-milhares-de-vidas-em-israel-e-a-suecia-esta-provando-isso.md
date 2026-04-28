@@ -1,11 +1,13 @@
 ---
-title: "A vacina Covid não salvou ,'milhares de vidas' em Israel e a Suécia está provando isso"
+title: A vacina Covid não salvou ,'milhares de vidas' em Israel e a Suécia está provando
+  isso
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [Em artigo](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00566-1/fulltext) publicado na revista Lancet Infectious Diseases , Haas e seus colegas afirmam que a vacina da Pfizer evitou mais de 5.000 mortes em Israel no primeiro trimestre de 2021, durante a onda de Covid que coincidiu com a primeira campanha de vacinação (Figura 1).
 

@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Educação de Itajaí, retorna distribuição de alimentos para alunos da Rede Municipal"
+title: Secretaria de Educação de Itajaí, retorna distribuição de alimentos para alunos
+  da Rede Municipal
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Serão 10 mil kits de alimentos para alunos do Bolsa Família e outros 35 mil kits com hortifrútis a todos os estudantes da rede municipal de ensino de Itajaí.
 

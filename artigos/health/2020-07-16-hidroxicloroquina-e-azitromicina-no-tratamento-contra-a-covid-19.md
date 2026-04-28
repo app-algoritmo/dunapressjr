@@ -1,11 +1,12 @@
 ---
-title: "Hidroxicloroquina e azitromicina no tratamento contra a COVID-19"
+title: Hidroxicloroquina e azitromicina no tratamento contra a COVID-19
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Com a emergência da COVID-19 causada pelo novo coronavírus (SARS-CoV-2), toda a comunidade científica passou a correr contra o tempo na busca de medicamentos que sejam eficazes no tratamento da doença.
 

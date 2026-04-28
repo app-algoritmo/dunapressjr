@@ -1,11 +1,12 @@
 ---
-title: "Mercado exportador de cachaça bate recorde em 2022"
+title: Mercado exportador de cachaça bate recorde em 2022
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atualmente, a cachaça é exportada para 72 países.
 

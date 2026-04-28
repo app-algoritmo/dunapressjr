@@ -1,11 +1,12 @@
 ---
-title: "A França e a guerra civil: uma possibilidade real que se preferiu ignorar"
+title: 'A França e a guerra civil: uma possibilidade real que se preferiu ignorar'
 date: 2023-07-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os últimos tumultos na França parecem o primeiro capítulo do próximo romance de Houellebecq. Uma faísca se acende em um subúrbio aleatório e está prestes a **arrastar o país para uma guerra civil** . Não é exagero, desde há muito que a realidade do nosso vizinho transpirenaico é mais estranha que a ficção.
 

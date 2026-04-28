@@ -1,11 +1,12 @@
 ---
-title: "A ONU prevê que o ano de 2023 será o mais quente já registrado"
+title: A ONU prevê que o ano de 2023 será o mais quente já registrado
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ano de 2023 poderá tornar-se o mais quente alguma vez registado e bater vários recordes, alertou hoje a ONU, exigindo medidas urgentes para travar o aquecimento global, coincidindo com a abertura da conferência sobre as alterações climáticas COP28 no Dubai.
 

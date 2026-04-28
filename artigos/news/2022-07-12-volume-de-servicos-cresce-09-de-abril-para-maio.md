@@ -1,11 +1,12 @@
 ---
-title: "Volume de serviços cresce 0,9% de abril para maio"
+title: Volume de serviços cresce 0,9% de abril para maio
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Na comparação com maio de 2021, houve alta de 9,2%.
 

@@ -1,11 +1,12 @@
 ---
-title: "África aposta forte no capitalismo"
+title: África aposta forte no capitalismo
 date: 2019-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Fórum de Empreendedorismo na Nigéria: milhares de empresários se comprometem com o futuro da África
 

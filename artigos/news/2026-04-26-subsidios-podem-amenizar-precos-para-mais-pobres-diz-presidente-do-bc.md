@@ -1,11 +1,12 @@
 ---
-title: "Subsídios podem amenizar preços para mais pobres, diz presidente do BC"
+title: Subsídios podem amenizar preços para mais pobres, diz presidente do BC
 date: 2026-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para Campos Neto, alimentos e energia poderiam ter ajuda temporária.
 

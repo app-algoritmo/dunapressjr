@@ -1,12 +1,13 @@
 ---
-title: "Brasil em risco - documentário proibido"
+title: Brasil em risco - documentário proibido
 date: 2022-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Há pouco fomos notificados pela plataforma you**tube que nosso vídeo (Brasil em Risco) não cumpre as regras da mesma, no entanto o mais importante é trazer ao leitor a verdade dos fatos. [Clique aqui para assistir a versão em Rumble](https://rumble.com/v1xoccz-brasil-em-risco-documentrio.html?mref=jmvwd&mc=25mu8) ou veja o vídeo abaixo:
 

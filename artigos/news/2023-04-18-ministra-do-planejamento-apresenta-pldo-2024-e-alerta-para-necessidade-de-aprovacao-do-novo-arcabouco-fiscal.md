@@ -1,11 +1,13 @@
 ---
-title: "Ministra do Planejamento apresenta PLDO 2024 e alerta para necessidade de aprovação do novo arcabouço fiscal"
+title: Ministra do Planejamento apresenta PLDO 2024 e alerta para necessidade de aprovação
+  do novo arcabouço fiscal
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Simone Tebet explica que PLDO respeita o teto de gastos vigente, mas destaca que valor extra só poderá ser custeado se o novo arcabouço fiscal for aprovado.
 

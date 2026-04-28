@@ -1,11 +1,13 @@
 ---
-title: "Mais de R$ 8 milhões investidos pela Ebserh em hospital de Florianópolis, disponibilizando mais 75 leitos para tratamento na pandemia"
+title: Mais de R$ 8 milhões investidos pela Ebserh em hospital de Florianópolis, disponibilizando
+  mais 75 leitos para tratamento na pandemia
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Do total de vagas contratualizadas com o SUS pelo HU-UFSC, 21 são para terapia intensiva.
 

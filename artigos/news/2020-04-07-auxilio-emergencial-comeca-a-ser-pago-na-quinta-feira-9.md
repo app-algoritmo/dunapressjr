@@ -1,11 +1,12 @@
 ---
-title: "Auxílio emergencial começa a ser pago na quinta-feira (9)"
+title: Auxílio emergencial começa a ser pago na quinta-feira (9)
 date: 2020-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Aplicativo para cadastro de informais, microempreendedores individuais (MEI) e contribuintes individuais do INSS já pode ser baixado gratuitamente
 

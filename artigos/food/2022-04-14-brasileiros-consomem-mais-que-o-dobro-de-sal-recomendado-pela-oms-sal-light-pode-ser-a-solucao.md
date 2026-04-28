@@ -1,11 +1,13 @@
 ---
-title: "Brasileiros consomem mais que o dobro de sal recomendado pela OMS. Sal light pode ser a solução"
+title: Brasileiros consomem mais que o dobro de sal recomendado pela OMS. Sal light
+  pode ser a solução
 date: 2022-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Aumento da pressão arterial - e, por consequência, da hipertensão arterial -, problemas cardiovasculares, risco de AVC, problemas renais, osteoporose e outras doenças relacionadas. Essas são alguns dos problemas que podem ser causados pelo excesso do consumo do sal, o mais democrático e polêmico dos temperos presente nas cozinhas - e pratos - dos brasileiros. Todavia, quando consumido em quantidade adequada, é fonte de minerais que participam de centenas de funções fisiológicas do corpo humano, sem que a falta dele pode causar distúrbio metabólico e endócrino, chamado hiponatremia.  
 

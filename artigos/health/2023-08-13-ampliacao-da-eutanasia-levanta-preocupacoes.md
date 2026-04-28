@@ -1,11 +1,12 @@
 ---
-title: "Ampliação da Eutanásia Levanta Preocupações"
+title: Ampliação da Eutanásia Levanta Preocupações
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## 
 Algo me diz que morrer com ajuda médica está cada vez mais fácil. "E isso me preocupa muito", escreve James Lyons-Weiler.

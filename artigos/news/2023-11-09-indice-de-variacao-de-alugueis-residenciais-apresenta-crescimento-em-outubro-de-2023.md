@@ -1,11 +1,13 @@
 ---
-title: "Índice de Variação de aluguéis residenciais apresenta crescimento em outubro de 2023"
+title: Índice de Variação de aluguéis residenciais apresenta crescimento em outubro
+  de 2023
 date: 2023-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IVAR revela aumento mensal e anual, destacando Porto Alegre.
 

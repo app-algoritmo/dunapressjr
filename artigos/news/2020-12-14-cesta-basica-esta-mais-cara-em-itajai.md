@@ -1,11 +1,12 @@
 ---
-title: "Cesta básica está mais cara em Itajaí"
+title: Cesta básica está mais cara em Itajaí
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mês de dezembro voltou a registrar alta nos alimentos que compõem a cesta básica em Itajaí. A variação média de preços ficou em 5,79% na soma dos produtos de menor valor e 2,04% na soma dos produtos com os preços mais altos da cesta. Os números registrados pela fiscalização da Procuradoria do Consumidor (Procon) de Itajaí são de 36 itens básicos do consumo dos brasileiros. Os fiscais estiveram em oito estabelecimentos nos dias 07 e 08 de dezembro.
 

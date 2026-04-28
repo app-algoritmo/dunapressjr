@@ -1,11 +1,13 @@
 ---
-title: "Donald Trump Ordenado a Pagar Multa de 355 Milhões de Dólares por Fraude Fiscal em Nova Iorque"
+title: Donald Trump Ordenado a Pagar Multa de 355 Milhões de Dólares por Fraude Fiscal
+  em Nova Iorque
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O juiz Arthur Engoron emitiu uma decisão histórica, ordenando que o ex-presidente dos Estados Unidos, Donald Trump, e sua empresa, a Trump Organization, paguem uma multa monumental de 355 milhões de dólares como resultado de um julgamento por fraude fiscal no estado de Nova Iorque. Além da multa financeira, Trump foi proibido de ocupar cargos em qualquer empresa sediada em Nova Iorque por um período de três anos, em uma tentativa de dissuadir futuras irregularidades.
 

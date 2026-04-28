@@ -1,12 +1,13 @@
 ---
-title: "República Brasileira: Uma Herança de Conflitos e Crise"
+title: 'República Brasileira: Uma Herança de Conflitos e Crise'
 date: 2024-11-14
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Culture and History
-  - Policy
+- Culture and History
+- Policy
 ---
+
 
 **Ordem, Progresso, Paz. Será?**
 

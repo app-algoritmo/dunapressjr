@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde destina R$ 260 milhões para reforçar atendimento a gestantes"
+title: Ministério da Saúde destina R$ 260 milhões para reforçar atendimento a gestantes
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Medida faz parte do Plano de Apoio à Gestação e Puerpério Saudáveis para garantir o cuidado adequado, incentivar testagem e ampliar acompanhamento pré-natal e pós-parto.
 

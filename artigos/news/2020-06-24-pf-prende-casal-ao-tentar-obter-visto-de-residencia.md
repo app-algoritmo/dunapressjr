@@ -1,11 +1,12 @@
 ---
-title: "PF prende casal ao tentar obter visto de residência"
+title: PF prende casal ao tentar obter visto de residência
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fortaleza/CE -A Polícia Federal prendeu em flagrante na segunda-feira (22/6) um homem, natural de Guiné Bissau e uma brasileira, natural do Ceará, pelo crime de falsidade ideológica durante os procedimentos de autorização de residência.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bielorrússia Declara Preparação Militar em Meio a Temores de Conflito"
+title: Bielorrússia Declara Preparação Militar em Meio a Temores de Conflito
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Alexander Lukashenko da Bielorrússia fez declarações incisivas sobre a prontidão militar do país, em meio a crescentes preocupações com a possibilidade de um conflito armado. Durante uma visita à região de Gomel, Lukashenko afirmou que o país está se preparando para a guerra e destacou a importância de estar preparado para qualquer eventualidade.
 

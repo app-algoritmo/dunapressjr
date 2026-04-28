@@ -1,11 +1,13 @@
 ---
-title: "Deficientes visuais podem solicitar leitura em tela na prova do Enem até dia 22 de Maio"
+title: Deficientes visuais podem solicitar leitura em tela na prova do Enem até dia
+  22 de Maio
 date: 2020-05-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Conheça os recursos de acessibilidade do principal exame de acesso ao ensino superior do país**
 

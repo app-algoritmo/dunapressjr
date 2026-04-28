@@ -1,11 +1,12 @@
 ---
-title: "Confúcio defende investimentos na expansão da malha ferroviária"
+title: Confúcio defende investimentos na expansão da malha ferroviária
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO), em pronunciamento no Plenário, nesta segunda-feira (23), defendeu a ampliação da malha ferroviária do Brasil. O parlamentar enfatizou que o investimento traria benefícios como a redução do custo do transporte, a diminuição da emissão de gases de efeito estufa e a queda dos índices de acidentes e mortes nas rodovias do país. Ele destacou o Plano Nacional de Logística (PNL), que estabelece metas "ambiciosas" até 2035. 
 

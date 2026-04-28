@@ -1,12 +1,14 @@
 ---
-title: "Beach Tennis: na estreia da dupla, Baran e Cappelletti estão nas quartas de final na Alemanha"
+title: 'Beach Tennis: na estreia da dupla, Baran e Cappelletti estão nas quartas de
+  final na Alemanha'
 date: 2023-08-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Catarinense e italiano jogaram as duas primeiras partidas juntos no Sand Series Saarlouis Classic. O dia de abertura do torneio, nesta sexta-feira (18), teve jogos da rodada inicial e das oitavas de final. Disputas seguem até este domingo (20).
 

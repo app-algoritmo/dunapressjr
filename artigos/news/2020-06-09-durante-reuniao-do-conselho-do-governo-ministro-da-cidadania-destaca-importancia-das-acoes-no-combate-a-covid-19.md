@@ -1,11 +1,13 @@
 ---
-title: "Durante reunião do Conselho do Governo, ministro da Cidadania destaca importância das ações no combate à Covid-19"
+title: Durante reunião do Conselho do Governo, ministro da Cidadania destaca importância
+  das ações no combate à Covid-19
 date: 2020-06-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro detalhou ações prioritárias da pasta e enfatizou o papel do Auxílio Emergencial, do Bolsa Família e do SUAS.
 

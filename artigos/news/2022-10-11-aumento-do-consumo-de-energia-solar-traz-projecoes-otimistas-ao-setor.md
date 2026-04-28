@@ -1,11 +1,12 @@
 ---
-title: "Aumento do consumo de energia solar traz projeções otimistas ao setor"
+title: Aumento do consumo de energia solar traz projeções otimistas ao setor
 date: 2022-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País supera marca de 19 gigawatts de potência instalada dessa fonte.
 

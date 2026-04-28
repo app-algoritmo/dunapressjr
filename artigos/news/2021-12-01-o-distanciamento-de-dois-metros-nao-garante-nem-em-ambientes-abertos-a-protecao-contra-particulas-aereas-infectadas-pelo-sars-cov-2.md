@@ -1,11 +1,13 @@
 ---
-title: "O distanciamento de dois metros não garante, nem em ambientes abertos, a proteção contra partículas aéreas infectadas pelo Sars-CoV-2"
+title: O distanciamento de dois metros não garante, nem em ambientes abertos, a proteção
+  contra partículas aéreas infectadas pelo Sars-CoV-2
 date: 2021-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 De acordo com os pesquisadores da Universidade de Cambridge, no Reino Unido, essa medida é arbitrária e não impede a transmissão na ausência de máscaras, sugerindo que liberar o uso do equipamento de segurança ao ar livre pode não ser uma boa ideia.
 

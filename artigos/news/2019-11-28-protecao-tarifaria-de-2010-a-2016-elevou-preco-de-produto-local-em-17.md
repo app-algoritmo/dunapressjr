@@ -1,11 +1,12 @@
 ---
-title: "Proteção tarifária de 2010 a 2016 elevou preço de produto local em 17%"
+title: Proteção tarifária de 2010 a 2016 elevou preço de produto local em 17%
 date: 2019-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Entre 2010 e 2016, as tarifas aplicadas aos produtos
 importados permitiram que o produtor local elevasse em média 17,4% o preço

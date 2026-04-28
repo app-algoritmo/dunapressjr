@@ -1,11 +1,13 @@
 ---
-title: "O aumento das importações ameaça a produção norueguesa sustentável de frutas e legumes"
+title: O aumento das importações ameaça a produção norueguesa sustentável de frutas
+  e legumes
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os legumes noruegueses são saudáveis ​​e puros e possuem qualidades exigidas pelos consumidores noruegueses. No entanto, a importação de frutas e legumes aumentou dramaticamente nos últimos cinco anos.
 

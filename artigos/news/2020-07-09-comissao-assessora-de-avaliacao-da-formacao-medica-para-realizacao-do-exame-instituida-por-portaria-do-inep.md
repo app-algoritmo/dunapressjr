@@ -1,11 +1,13 @@
 ---
-title: "Comissão Assessora de Avaliação da Formação Médica para realização do exame instituída por portaria do Inep"
+title: Comissão Assessora de Avaliação da Formação Médica para realização do exame
+  instituída por portaria do Inep
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) instituiu a Comissão Assessora de Avaliação da Formação Médica (CAAFM), de caráter consultivo, para a realização de atividades referentes ao Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida). A Portaria n.º 430, que contém a medida, foi publicada nesta quarta-feira, 8 de julho, no Diário Oficial da União.
 

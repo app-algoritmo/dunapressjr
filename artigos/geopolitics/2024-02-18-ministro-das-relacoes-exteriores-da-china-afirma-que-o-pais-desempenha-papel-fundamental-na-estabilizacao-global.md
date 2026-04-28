@@ -1,11 +1,13 @@
 ---
-title: "Ministro das Relações Exteriores da China Afirma que o País Desempenha Papel Fundamental na Estabilização Global"
+title: Ministro das Relações Exteriores da China Afirma que o País Desempenha Papel
+  Fundamental na Estabilização Global
 date: 2024-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Durante a Conferência de Segurança de Munique, o ministro das Relações Exteriores da China, Wang Yi, reiterou o compromisso do país em desempenhar um papel estabilizador crucial na arena internacional. Wang enfatizou que, apesar das convulsões globais de 2023 e dos inúmeros desafios enfrentados pela humanidade, a China permanece firme em seus princípios, buscando uma política consistente e sustentável para garantir a estabilidade em um mundo turbulento.
 

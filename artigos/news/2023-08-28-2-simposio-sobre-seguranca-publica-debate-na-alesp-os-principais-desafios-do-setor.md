@@ -1,11 +1,13 @@
 ---
-title: "'2º Simpósio sobre Segurança Pública' debate, na Alesp, os principais desafios do setor"
+title: '''2º Simpósio sobre Segurança Pública'' debate, na Alesp, os principais desafios
+  do setor'
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Troca de ideias entre profissionais que são referências na área é a matéria-prima para futuros Projetos de Lei na Casa.
 

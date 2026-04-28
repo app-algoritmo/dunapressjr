@@ -1,12 +1,14 @@
 ---
-title: "Liga Esportiva NESCAU® bate recordes e reúne cerca de 20 mil pessoas na capital paulista"
+title: Liga Esportiva NESCAU® bate recordes e reúne cerca de 20 mil pessoas na capital
+  paulista
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Maior campeonato poliesportivo estudantil do Brasil tem o dobro de participação infantojuvenil, com 57% de meninas e 10% de pessoas com deficiência em 2023.
 

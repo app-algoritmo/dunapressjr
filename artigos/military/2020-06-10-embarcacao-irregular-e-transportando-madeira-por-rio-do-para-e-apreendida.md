@@ -1,11 +1,12 @@
 ---
-title: "Embarcação irregular e transportando madeira por rio do Pará é apreendida"
+title: Embarcação irregular e transportando madeira por rio do Pará é apreendida
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma embarcação sem documentação, sem Comandante ou pessoal habilitado e que transportava madeira beneficiada além do volume que poderia comportar, foi apreendida por militares do Comando Conjunto Marechal Soares de Andrea. A abordagem, feita pela Patrulha Tucunaré, ocorreu nas proximidades de São Sebastião da Boa Vista. As várias irregularidades constatadas colocavam em risco a navegação nos rios sob jurisdição do Comando do 4º Distrito Naval.
 

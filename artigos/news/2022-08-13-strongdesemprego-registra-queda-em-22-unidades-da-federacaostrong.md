@@ -1,11 +1,12 @@
 ---
-title: "<strong>Desemprego registra queda em 22 unidades da federação</strong>"
+title: <strong>Desemprego registra queda em 22 unidades da federação</strong>
 date: 2022-08-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Maior recuo foi registrado em Tocantins.
 

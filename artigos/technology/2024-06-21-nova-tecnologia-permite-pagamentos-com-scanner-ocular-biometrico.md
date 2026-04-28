@@ -1,11 +1,12 @@
 ---
-title: "Nova Tecnologia Permite Pagamentos com Scanner Ocular Biométrico"
+title: Nova Tecnologia Permite Pagamentos com Scanner Ocular Biométrico
 date: 2024-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 **Mastercard Lança Programa de Pagamentos Biometricos na Europa, Iniciando pela Polônia**.
 

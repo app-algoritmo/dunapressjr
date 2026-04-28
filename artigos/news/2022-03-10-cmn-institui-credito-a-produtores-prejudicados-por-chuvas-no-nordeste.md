@@ -1,11 +1,12 @@
 ---
-title: "CMN institui crédito a produtores prejudicados por chuvas no Nordeste"
+title: CMN institui crédito a produtores prejudicados por chuvas no Nordeste
 date: 2022-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conselho também autorizou renegociações de dívidas de agricultores.
 

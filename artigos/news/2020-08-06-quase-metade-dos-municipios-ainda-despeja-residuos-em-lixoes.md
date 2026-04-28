@@ -1,11 +1,12 @@
 ---
-title: "Quase metade dos municípios ainda despeja resíduos em lixões"
+title: Quase metade dos municípios ainda despeja resíduos em lixões
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Brasil tem alto índice de destinação incorreta do lixo**.
 

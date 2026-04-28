@@ -1,11 +1,12 @@
 ---
-title: "A Casa Já Caiu: 'Minha Mãe e Minha Avó Já Diziam'"
+title: 'A Casa Já Caiu: ''Minha Mãe e Minha Avó Já Diziam'''
 date: 2024-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Diante da recente tragédia que assolou o estado do **[Rio Grande do Sul](https://dunapress.org/2024/05/07/sos-rio-grande-do-sul/)**, revelou-se um aspecto alarmante da gestão governamental no Brasil. Enquanto o governo estadual e federal são responsáveis por arrecadar impostos que representam, em muitos casos, até seis meses de trabalho de um cidadão médio, a resposta diante da calamidade surpreendeu e indignou. Em vez de mobilizar recursos já disponíveis para lidar com a emergência, foi anunciada a abertura de uma conta bancária via PIX para receber doações destinadas aos gastos gerais. Este evento não apenas expõe a fragilidade dos serviços públicos, mas também levanta questões sobre a transparência e a responsabilidade na administração dos recursos arrecadados dos contribuintes. [**#SOSRioGrandeDoSul**](https://dunapress.org/2024/05/07/sos-rio-grande-do-sul/)
 

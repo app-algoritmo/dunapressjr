@@ -1,11 +1,12 @@
 ---
-title: "A OMS também quer usar o certificado Corona em crises climáticas e outras “emergências”"
+title: A OMS também quer usar o certificado Corona em crises climáticas e outras “emergências”
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 A OMS compartilhará o Certificado Europeu de Viagem Corona com o resto do mundo. A UE introduziu o certificado digital que funciona com um código QR durante a "Pandemia de Corona" para tornar as viagens possíveis novamente.
 

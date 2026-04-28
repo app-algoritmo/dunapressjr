@@ -1,11 +1,13 @@
 ---
-title: "Certificados de exportação registra aumento da demanda, segundo relatório do Serviço de Inspeção Federal"
+title: Certificados de exportação registra aumento da demanda, segundo relatório do
+  Serviço de Inspeção Federal
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As atividades de inspeção e fiscalização seguem funcionando com todos os cuidados necessários para que não ocorram prejuízos à manutenção do abastecimento.
 

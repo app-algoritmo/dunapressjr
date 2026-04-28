@@ -1,11 +1,12 @@
 ---
-title: "AUXÍLIO EMERGENCIAL: cadastro já pode ser feito nas agências dos Correios"
+title: 'AUXÍLIO EMERGENCIAL: cadastro já pode ser feito nas agências dos Correios'
 date: 2020-06-10
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério da Cidadania firmou acordo com a estatal para chegar à população ainda mais vulnerável, sem acesso a meios digitais, que não conseguiu solicitar o benefício.
 

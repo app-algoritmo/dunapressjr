@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal doa 30 mil litros de bebidas alcoólicas para fabricação de álcool em gel"
+title: Receita Federal doa 30 mil litros de bebidas alcoólicas para fabricação de
+  álcool em gel
 date: 2020-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Material é trazido do Rio de Janeiro pela Marinha do Brasil. 60 mil litros já foram doados ao Instituto Federal do Sul de Minas para a prevenção do novo coronavírus
 

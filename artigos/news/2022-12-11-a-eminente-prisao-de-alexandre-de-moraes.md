@@ -1,11 +1,12 @@
 ---
-title: "A eminente prisão de Alexandre de Moraes"
+title: A eminente prisão de Alexandre de Moraes
 date: 2022-12-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Moraes não entrou com pedido de habeas corpus na Justiça Militar Vídeo distorce fatos e engana ao afirmar que presidente do TSE possa ser julgado pelo Supremo Tribunal Militar.
 

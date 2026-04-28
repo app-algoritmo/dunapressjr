@@ -1,11 +1,13 @@
 ---
-title: "Definida estratégia para investigar fraudes no Auxílio Emergencial cometidas por grupos criminosos"
+title: Definida estratégia para investigar fraudes no Auxílio Emergencial cometidas
+  por grupos criminosos
 date: 2020-07-23
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Governo Federal, órgãos de controle, Ministério Público e Polícia Federal criam novos instrumentos de combate a irregularidades no pagamento do benefício.
 

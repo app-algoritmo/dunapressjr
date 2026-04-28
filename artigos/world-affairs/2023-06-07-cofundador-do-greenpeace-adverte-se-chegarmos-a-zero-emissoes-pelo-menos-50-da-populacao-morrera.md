@@ -1,11 +1,13 @@
 ---
-title: "Cofundador do Greenpeace adverte: Se chegarmos a zero emissões, pelo menos 50% da população morrerá"
+title: 'Cofundador do Greenpeace adverte: Se chegarmos a zero emissões, pelo menos
+  50% da população morrerá'
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Trabalho árduo está sendo feito para reduzir as emissões a zero. Os estados membros europeus, incluindo a Suíça, concordaram que visam emissões zero até 2050. Mais e mais empresas estão declarando que estão visando o líquido zero.
 

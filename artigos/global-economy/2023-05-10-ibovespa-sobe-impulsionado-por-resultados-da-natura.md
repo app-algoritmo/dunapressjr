@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe impulsionado por resultados da Natura"
+title: Ibovespa sobe impulsionado por resultados da Natura
 date: 2023-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fechou o dia em queda de 0,55%.
 

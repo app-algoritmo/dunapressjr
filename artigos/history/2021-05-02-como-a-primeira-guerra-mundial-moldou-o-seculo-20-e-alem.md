@@ -1,11 +1,12 @@
 ---
-title: "Como a Primeira Guerra Mundial moldou o século 20 e além"
+title: Como a Primeira Guerra Mundial moldou o século 20 e além
 date: 2021-05-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 A 'guerra para acabar com todas as guerras' acabou sendo o oposto, pois o acordo do pós-guerra forneceu um terreno fértil para a ascensão do nazismo e seus horrores.
 

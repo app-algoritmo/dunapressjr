@@ -1,11 +1,12 @@
 ---
-title: "Atuação do governo Bolsonaro nos últimos 100 dias"
+title: Atuação do governo Bolsonaro nos últimos 100 dias
 date: 2020-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na cerimônia que marcou os 500 dias do governo do presidente Jair Bolsonaro, o ministro-chefe da Casa Civil, general Braga Netto, falou sobre o desafio do governo de mostrar as ações tomadas nos últimos 100 dias para mitigar os impactos econômicos da pandemia do novo coronavírus, demonstrando alguns resultados, mas sem fazer comemorações. Este, inclusive, foi o tom adotado por todos os ministros.
 

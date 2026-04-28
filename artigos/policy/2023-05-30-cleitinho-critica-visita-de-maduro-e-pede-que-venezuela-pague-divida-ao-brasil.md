@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica visita de Maduro e pede que Venezuela pague dívida ao Brasil"
+title: Cleitinho critica visita de Maduro e pede que Venezuela pague dívida ao Brasil
 date: 2023-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) pediu, em pronunciamento no Plenário nesta terça-feira (30), que o presidente da Venezuela, Nicolás Maduro, pague dívida que tem com o Brasil. O parlamentar chamou Maduro de “ditador” e disse que o presidente "acabou com a Venezuela e não pode ser recebido com honrarias" durante a cúpula de líderes da América do Sul. 
 

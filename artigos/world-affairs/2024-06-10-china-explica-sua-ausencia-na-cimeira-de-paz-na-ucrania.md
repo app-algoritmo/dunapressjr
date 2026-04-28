@@ -1,11 +1,12 @@
 ---
-title: "China Explica sua Ausência na Cimeira de Paz na Ucrânia"
+title: China Explica sua Ausência na Cimeira de Paz na Ucrânia
 date: 2024-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Posicionamento Chinês sobre a Cimeira de Paz na Ucrânia Organizada pela Suíça.
 

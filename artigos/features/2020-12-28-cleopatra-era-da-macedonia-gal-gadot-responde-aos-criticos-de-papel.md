@@ -1,11 +1,12 @@
 ---
-title: "'Cleópatra era da macedônia': Gal Gadot responde aos críticos de papel"
+title: '''Cleópatra era da macedônia'': Gal Gadot responde aos críticos de papel'
 date: 2020-12-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Usuários de mídia social no mundo árabe respondem furiosamente ao escalar a atriz israelense como icônica rainha egípcia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Nomeado novo ministro da Educação, Carlos Alberto Decotelli"
+title: Nomeado novo ministro da Educação, Carlos Alberto Decotelli
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Novo ministro é formado em Ciências Econômicas; tem doutorado, pós-doutorado, mestrado e MBA em Administração e foi presidente do FNDE em 2019.
 

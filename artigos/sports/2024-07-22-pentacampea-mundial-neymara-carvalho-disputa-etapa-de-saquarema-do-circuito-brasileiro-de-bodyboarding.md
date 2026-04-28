@@ -1,11 +1,13 @@
 ---
-title: "Pentacampeã mundial Neymara Carvalho disputa etapa de Saquarema do Circuito Brasileiro de Bodyboarding"
+title: Pentacampeã mundial Neymara Carvalho disputa etapa de Saquarema do Circuito
+  Brasileiro de Bodyboarding
 date: 2024-07-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Capixaba, com dez títulos brasileiros na carreira, estará participando, também, no Rio de Janeiro, de um aulão social. Baterias começam nesta quinta-feira (18) e seguem até domingo
 

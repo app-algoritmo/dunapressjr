@@ -1,11 +1,13 @@
 ---
-title: "Lavrov considera o Conselho de Segurança da ONU muito modesto por exigir apenas uma pausa humanitária em Gaza"
+title: Lavrov considera o Conselho de Segurança da ONU muito modesto por exigir apenas
+  uma pausa humanitária em Gaza
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “A Rússia insiste no fim imediato do derramamento de sangue e numa solução imediata para os problemas humanitários que literalmente gritam na Faixa de Gaza e agora também na Cisjordânia”, sublinhou o ministro dos Negócios Estrangeiros russo.
 

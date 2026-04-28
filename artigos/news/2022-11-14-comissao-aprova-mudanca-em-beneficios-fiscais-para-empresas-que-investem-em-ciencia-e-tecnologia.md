@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova mudança em benefícios fiscais para empresas que investem em ciência e tecnologia"
+title: Comissão aprova mudança em benefícios fiscais para empresas que investem em
+  ciência e tecnologia
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Ciência e Tecnologia, Comunicação e Informática da Câmara dos Deputados aprovou proposta que faz diversas alterações na [Lei do Bem](https://www2.camara.gov.br/legin/fed/lei/2005/lei-11196-21-novembro-2005-539221-norma-pl.html), que trata de incentivos à inovação tecnológica. A lei permite que empresas deduzam até 80% na base de cálculo do Imposto de Renda e da CSLL sobre a soma dos gastos realizados em ciência e tecnologia.
 

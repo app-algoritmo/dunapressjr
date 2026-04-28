@@ -1,11 +1,13 @@
 ---
-title: "Explosão de represa na Ucrânia gera temor de enchentes na região ocupada pela Rússia"
+title: Explosão de represa na Ucrânia gera temor de enchentes na região ocupada pela
+  Rússia
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Ação das forças russas causa danos à represa de Kakhovka e coloca milhões de pessoas em risco de inundação.
 

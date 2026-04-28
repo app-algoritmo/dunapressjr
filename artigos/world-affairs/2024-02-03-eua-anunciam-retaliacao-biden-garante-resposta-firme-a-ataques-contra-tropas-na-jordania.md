@@ -1,11 +1,13 @@
 ---
-title: "EUA Anunciam Retaliação: Biden Garante Resposta Firme a Ataques contra Tropas na Jordânia"
+title: 'EUA Anunciam Retaliação: Biden Garante Resposta Firme a Ataques contra Tropas
+  na Jordânia'
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, afirmou que o país continuará retaliando em resposta ao ataque às tropas americanas na Jordânia. Em um comunicado divulgado no site da Casa Branca, Biden anunciou que a resposta já teve início e persistirá em horários e locais escolhidos pelos Estados Unidos.
 

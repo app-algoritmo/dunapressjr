@@ -1,11 +1,13 @@
 ---
-title: "Laboratórios da Rede Integrada de Bancos de Perfis Genéticos irão contribuir nos diagnósticos do novo coronavírus"
+title: Laboratórios da Rede Integrada de Bancos de Perfis Genéticos irão contribuir
+  nos diagnósticos do novo coronavírus
 date: 2020-04-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para auxiliar o combate à disseminação do coronavírus, o Ministério da Justiça e Segurança Pública (MJSP) disponibilizou laboratórios do Instituto Nacional de Criminalística (INC) da Polícia Federal, em Brasília (DF), e do Setor Técnico-Científico da Superintendência da PF, em Porto Alegre (RS), para analisar as amostras de testes da Covid-19. Além da Polícia Federal, os 27 laboratórios estaduais da Rede Integrada de Bancos de Perfis Genéticos (RIBPG) poderão auxiliar nos diagnósticos conforme a possibilidade de cada região.
 

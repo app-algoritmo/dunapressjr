@@ -1,11 +1,13 @@
 ---
-title: "Receita libera nesta quinta-feira (25) programa da declaração do Imposto de Renda 2021"
+title: Receita libera nesta quinta-feira (25) programa da declaração do Imposto de
+  Renda 2021
 date: 2021-02-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo de entrega começa em 1º de março e vai até 30 de abril.
 

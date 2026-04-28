@@ -1,11 +1,13 @@
 ---
-title: "Leilão para privatização da CBTU-MG e para concessão dos serviços do Metrô-BH será realizado em 22/12"
+title: Leilão para privatização da CBTU-MG e para concessão dos serviços do Metrô-BH
+  será realizado em 22/12
 date: 2022-09-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Edital foi publicado no DOU e investimento projetado é de aproximadamente R$ 4 bilhões, ao longo de 30 anos de contrato.
 

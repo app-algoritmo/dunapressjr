@@ -1,11 +1,12 @@
 ---
-title: "Gigante do petróleo da Noruega deixará de operar na Rússia"
+title: Gigante do petróleo da Noruega deixará de operar na Rússia
 date: 2022-02-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A gigante do petróleo Equinor está interrompendo novos investimentos na Rússia e se retirará das colaborações existentes no país. A empresa ressalta que espera incorrer em perdas quando eles se retirarem.
 

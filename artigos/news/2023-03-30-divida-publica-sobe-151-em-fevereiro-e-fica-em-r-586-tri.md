@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública sobe 1,51% em fevereiro e fica em R$ 5,86 tri"
+title: Dívida Pública sobe 1,51% em fevereiro e fica em R$ 5,86 tri
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Baixo volume de vencimento contribuiu para alta.
 

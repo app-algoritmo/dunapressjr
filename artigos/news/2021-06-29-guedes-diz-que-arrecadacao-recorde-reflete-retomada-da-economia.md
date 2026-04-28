@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que arrecadação recorde reflete retomada da economia"
+title: Guedes diz que arrecadação recorde reflete retomada da economia
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Todos os setores da economia aumentaram a arrecadação.
 

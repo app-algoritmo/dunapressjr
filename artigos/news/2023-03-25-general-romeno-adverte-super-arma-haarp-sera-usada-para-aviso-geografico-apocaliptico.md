@@ -1,11 +1,13 @@
 ---
-title: "General romeno adverte: super arma HAARP será usada para aviso geográfico 'apocalíptico'"
+title: 'General romeno adverte: super arma HAARP será usada para aviso geográfico
+  ''apocalíptico'''
 date: 2023-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um general romeno alertou que o Programa de Pesquisa Auroral Ativa de Alta Frequência (HAARP) nunca foi encerrado, mas está sendo constantemente aprimorado e usado contra a população.
 

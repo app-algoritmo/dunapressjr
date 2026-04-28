@@ -1,11 +1,12 @@
 ---
-title: "IBGE: número de desempregados chega a 13,5 milhões em setembro"
+title: 'IBGE: número de desempregados chega a 13,5 milhões em setembro'
 date: 2020-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento foi de 4,3% no mês e de 33,1% desde maio, mostra pesquisa.
 

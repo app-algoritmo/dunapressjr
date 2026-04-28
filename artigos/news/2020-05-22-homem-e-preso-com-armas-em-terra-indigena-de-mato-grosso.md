@@ -1,11 +1,12 @@
 ---
-title: "Homem é preso com armas em terra indígena de Mato Grosso"
+title: Homem é preso com armas em terra indígena de Mato Grosso
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT - A Polícia Federal prendeu em flagrante nesta quinta-feira (21/5), em Rondonópolis/MT, um homem que estaria ameaçando índios da Terra Indígena Tadarimana.
 

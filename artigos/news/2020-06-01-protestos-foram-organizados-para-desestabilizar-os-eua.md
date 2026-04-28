@@ -1,11 +1,12 @@
 ---
-title: "Protestos foram organizados para desestabilizar os EUA"
+title: Protestos foram organizados para desestabilizar os EUA
 date: 2020-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na manhã de domingo, cerca de 25 cidades americanas estavam sob algum tipo de toque de recolher com tropas da Guarda Nacional em Minneapolis e na capital dos EUA após dias de protestos e distúrbios violentos. Em meio ao caos e à incerteza, vozes de ambos os lados do corredor político alegaram que a violência foi alimentada por conspirações e orquestrada por "profissionais".
 

@@ -1,11 +1,13 @@
 ---
-title: "Pandemia e isolamento: dicas para encarar esse período com mais leveza e valorizar ainda mais as relações"
+title: 'Pandemia e isolamento: dicas para encarar esse período com mais leveza e valorizar
+  ainda mais as relações'
 date: 2021-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Quando as pessoas iniciaram o confinamento em razão da pandemia, em março de 2020, uma das primeiras percepções foi quanto tempo elas passariam a mais com suas famílias. Paralelamente, ficou clara a importância de cuidar da saúde mental em tempos tão difíceis. Mais de um ano depois, essa preocupação permanece e as dificuldades para manter uma rotina saudável e equilibrada, em alguns momentos, parecem ainda maiores. Fica a dúvida: como se adaptar a essa situação sem deixar que tantas turbulências afetem a convivência familiar? 
 

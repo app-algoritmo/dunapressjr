@@ -1,11 +1,12 @@
 ---
-title: "Revista Radis destaca impactos nocivos dos agrotóxicos"
+title: Revista Radis destaca impactos nocivos dos agrotóxicos
 date: 2023-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma nuvem tóxica se espalhou pela comunidade quilombola de Jejum na tarde do dia 23 de março de 2021, em Poconé, município pantaneiro a 100 km de Cuiabá. Vizinhos a uma plantação de soja, os moradores começaram a reclamar de coceira nos olhos, náusea e dores de cabeça e garganta. Máquinas iniciavam a colheita do grão, lançando no ar uma camada densa de pó misturada ao dessecante, produto químico aplicado, dias antes, para acelerar a secagem da soja. A tempestade de poeira invadiu as casas, recobriu o solo e contaminou caixas d’água, poços artesianos e as hortas dos quintais.
 

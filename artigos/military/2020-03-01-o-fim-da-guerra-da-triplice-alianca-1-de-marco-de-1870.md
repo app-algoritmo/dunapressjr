@@ -1,11 +1,12 @@
 ---
-title: "O fim da Guerra da Tríplice Aliança – 1º de março de 1870"
+title: O fim da Guerra da Tríplice Aliança – 1º de março de 1870
 date: 2020-03-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em 1º de março de 1870, chegava ao fim o conflito
 armado do Paraguai contra a Tríplice Aliança (Brasil, Argentina e Uruguai), que

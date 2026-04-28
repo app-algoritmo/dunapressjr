@@ -1,11 +1,12 @@
 ---
-title: "Por que vacinar as crianças contra o sarampo?"
+title: Por que vacinar as crianças contra o sarampo?
 date: 2021-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sarampo é um vírus altamente contagioso e a infecção causada por ele pode ter sérias consequências para a saúde, sobretudo das crianças menores de um ano, podendo levar à morte. Mas, a boa notícia é que, mesmo sendo uma doença grave, é possível combatê-la com a vacina.
 

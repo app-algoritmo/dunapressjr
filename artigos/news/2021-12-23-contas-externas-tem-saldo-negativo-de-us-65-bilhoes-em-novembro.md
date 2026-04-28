@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo negativo de US$ 6,5 bilhões em novembro"
+title: Contas externas têm saldo negativo de US$ 6,5 bilhões em novembro
 date: 2021-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investimentos diretos no país somaram US$ 4,6 bilhões no mês passado.
 

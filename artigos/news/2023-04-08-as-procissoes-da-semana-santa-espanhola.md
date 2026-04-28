@@ -1,11 +1,12 @@
 ---
-title: "As procissões da semana santa espanhola"
+title: As procissões da semana santa espanhola
 date: 2023-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Semana Santa na Espanha** é celebrada  entre os meses de março e abril, já que as datas variam. Durante esses dias, a Espanha se transforma. Cada pessoa, em cada lugar, se entrega de corpo e alma para viver com intensidade uma das festas com mais tradição do país.
 

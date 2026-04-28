@@ -1,11 +1,12 @@
 ---
-title: "Capes tem inscrições abertas para treinamento e capacitação"
+title: Capes tem inscrições abertas para treinamento e capacitação
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As aulas para capacitação sobre o Portal de Periódicos da CAPES são gratuitas.
 

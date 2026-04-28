@@ -1,12 +1,14 @@
 ---
-title: "Shimano Fest 2024 vai receber etapa da Copa do Mundo de Mountain Bike XCE, em São Paulo"
+title: Shimano Fest 2024 vai receber etapa da Copa do Mundo de Mountain Bike XCE,
+  em São Paulo
 date: 2024-02-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Competição, que terá organização da Avelar Sports, vai integrar a programação da 13ª edição do maior festival da bicicleta da América Latina, entre 15 e 18 de agosto, em São Paulo.
 

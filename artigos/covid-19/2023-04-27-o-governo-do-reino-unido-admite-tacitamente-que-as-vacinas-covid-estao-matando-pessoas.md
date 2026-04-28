@@ -1,12 +1,14 @@
 ---
-title: "O governo do Reino Unido admite tacitamente que as vacinas COVID estão matando pessoas"
+title: O governo do Reino Unido admite tacitamente que as vacinas COVID estão matando
+  pessoas
 date: 2023-04-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## Seu completo silêncio sobre o número inflado de mortes no Reino Unido diz tudo o que você precisa saber. Não há outra intervenção que possa ter causado tais números. Por isso estão calados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 8,69%"
+title: Mercado financeiro eleva projeção da inflação para 8,69%
 date: 2021-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão para crescimento da economia caiu para 5,01% em 2021.
 

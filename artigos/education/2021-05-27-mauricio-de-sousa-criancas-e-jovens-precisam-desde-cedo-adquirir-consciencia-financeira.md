@@ -1,11 +1,13 @@
 ---
-title: "Maurício de Sousa: 'Crianças e jovens precisam desde cedo adquirir consciência financeira'"
+title: 'Maurício de Sousa: ''Crianças e jovens precisam desde cedo adquirir consciência
+  financeira'''
 date: 2021-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 ## Com série de gibis e desenhos animados sobre Educação Financeira, o criador da Turma da Mônica fala sobre a importância desse aprendizado começar cedo e de forma lúdica.
 

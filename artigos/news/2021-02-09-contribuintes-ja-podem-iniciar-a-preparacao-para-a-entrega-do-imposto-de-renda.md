@@ -1,11 +1,12 @@
 ---
-title: "Contribuintes já podem iniciar a preparação para a entrega do imposto de renda"
+title: Contribuintes já podem iniciar a preparação para a entrega do imposto de renda
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Declaração do Imposto sobre a Renda da Pessoa Física (DIRPF) começa no próximo mês. Contudo, o contribuinte já pode iniciar a preparação para o cumprimento dessa obrigação para evitar a correria e a falta de algum documento ou informação no momento do envio da declaração.
 

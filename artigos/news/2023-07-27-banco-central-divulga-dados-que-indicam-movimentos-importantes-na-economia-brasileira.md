@@ -1,11 +1,13 @@
 ---
-title: "Banco Central divulga dados que indicam movimentos importantes na economia brasileira"
+title: Banco Central divulga dados que indicam movimentos importantes na economia
+  brasileira
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saldo do crédito ampliado atinge R$15,2 trilhões em junho. 
 

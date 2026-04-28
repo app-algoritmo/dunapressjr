@@ -1,11 +1,12 @@
 ---
-title: "Izalci critica postura do governo com empresários e pede cautela com reforma"
+title: Izalci critica postura do governo com empresários e pede cautela com reforma
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) expressou, em pronunciamento no Plenário nesta segunda-feira (25), preocupação com a política econômica do país e a relação do governo com o setor empresarial. O parlamentar destacou a importância de o Poder Executivo construir um diálogo positivo para incentivar o desenvolvimento e a geração de empregos. Para Izalci, o governo deveria adotar uma postura que não "atrapalhe" a economia e as empresas, em vez de "criar obstáculos".
 

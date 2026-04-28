@@ -1,11 +1,12 @@
 ---
-title: "Ativos de brasileiros no exterior ultrapassam US$ 558 bilhões, diz BC"
+title: Ativos de brasileiros no exterior ultrapassam US$ 558 bilhões, diz BC
 date: 2021-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ativos são investimentos em ações, títulos, imóveis e moedas.
 

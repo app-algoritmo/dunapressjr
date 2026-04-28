@@ -1,11 +1,12 @@
 ---
-title: "Medida provisória abre crédito de R$ 12 bilhões para o Pronampe"
+title: Medida provisória abre crédito de R$ 12 bilhões para o Pronampe
 date: 2020-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O *Diário Oficial da União *publicou, nesta terça-feira (1º), a [**Medida Provisória (MP) nº 997,**](https://www.in.gov.br/en/web/dou/-/lei-n-14.043-de-19-de-agosto-de-2020-273219968) de 31 de agosto de 2020, que abre crédito extraordinário, no valor de R$ 12 bilhões, para integralizar cotas do Fundo Garantidor de Operações (FGO) do Programa de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe).
 

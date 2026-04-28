@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 5 pela primeira vez desde junho de 2021"
+title: Dólar fecha abaixo de R$ 5 pela primeira vez desde junho de 2021
 date: 2022-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa ultrapassa 116 mil pontos e atinge maior nível em seis meses.
 

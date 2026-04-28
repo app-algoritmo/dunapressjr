@@ -1,11 +1,12 @@
 ---
-title: "Itajaí realiza segunda edição do evento Janeiro Branco e as PICS"
+title: Itajaí realiza segunda edição do evento Janeiro Branco e as PICS
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí promove neste mês a segunda edição do evento Janeiro Branco e as PICS. A iniciativa é organizada pelo Centro de Práticas Integrativas em Saúde (CEPICS) da Secretaria Municipal de Saúde e o Instituto de Previdência de Itajaí (IPI). O encontro acontecerá no dia 31 deste mês, às 15h, no auditório da Superintendência do Porto de Itajaí, com entrada gratuita e aberta à comunidade.
 

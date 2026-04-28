@@ -1,11 +1,12 @@
 ---
-title: "CNC aponta melhorias no mercado de trabalho e retomada no consumo"
+title: CNC aponta melhorias no mercado de trabalho e retomada no consumo
 date: 2021-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice revela alta de 2,1% em junho, considerando ajuste sazonal.
 

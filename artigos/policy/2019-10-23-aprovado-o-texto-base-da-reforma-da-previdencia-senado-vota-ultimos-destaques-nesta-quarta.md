@@ -1,11 +1,13 @@
 ---
-title: "Aprovado o texto-base da reforma da Previdência; Senado vota últimos destaques nesta quarta"
+title: Aprovado o texto-base da reforma da Previdência; Senado vota últimos destaques
+  nesta quarta
 date: 2019-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *O ministro da Economia, Paulo Guedes, e a bancada governista junto à Mesa; o presidente do Senado, Davi Alcolumbre, anunciou o resultado: 60 a 19 votos*
 

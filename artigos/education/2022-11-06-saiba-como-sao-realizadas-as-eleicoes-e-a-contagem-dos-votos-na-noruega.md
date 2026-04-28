@@ -1,13 +1,14 @@
 ---
-title: "Saiba como são realizadas as eleições e a contagem dos votos na Noruega"
+title: Saiba como são realizadas as eleições e a contagem dos votos na Noruega
 date: 2022-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Geopolitics
-  - Policy
+- Education
+- Geopolitics
+- Policy
 ---
+
 
 ## O voto - da urna para o resultado.
 

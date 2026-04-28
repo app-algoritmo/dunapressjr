@@ -1,11 +1,12 @@
 ---
-title: "Caixa aumenta limite de empréstimos para o Pronampe"
+title: Caixa aumenta limite de empréstimos para o Pronampe
 date: 2020-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 São R$ 4,24 bilhões destinados a micro e pequenos empresários que precisam de apoio durante a pandemia.
 

@@ -1,11 +1,13 @@
 ---
-title: "IDF evacuará civis de 28 comunidades ao longo da fronteira libanesa em meio a ataques"
+title: IDF evacuará civis de 28 comunidades ao longo da fronteira libanesa em meio
+  a ataques
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As Forças de Defesa de Israel e o Ministério da Defesa anunciaram planos para evacuar civis que residem em cidades localizadas a até dois quilômetros da fronteira com o Líbano. Essa ação ocorre em resposta a uma série de repetidos ataques de foguetes e mísseis lançados pelo Hezbollah e facções palestinas aliadas nos últimos dias.
 

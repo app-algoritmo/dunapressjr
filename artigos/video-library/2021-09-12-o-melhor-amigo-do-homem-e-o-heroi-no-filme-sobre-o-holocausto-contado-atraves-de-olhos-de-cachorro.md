@@ -1,11 +1,13 @@
 ---
-title: "O melhor amigo do homem é o herói no filme sobre o Holocausto contado através de olhos de cachorro"
+title: O melhor amigo do homem é o herói no filme sobre o Holocausto contado através
+  de olhos de cachorro
 date: 2021-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## Baseado em um romance israelense de sucesso, o filme 'Pastor: a história de um cachorro judeu' analisa narrativas complexas para transmitir lições históricas e éticas para as gerações mais jovens.
 

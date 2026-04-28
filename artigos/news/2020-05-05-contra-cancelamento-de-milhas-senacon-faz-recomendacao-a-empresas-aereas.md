@@ -1,11 +1,12 @@
 ---
-title: "Contra cancelamento de milhas, Senacon faz recomendação a empresas aéreas"
+title: Contra cancelamento de milhas, Senacon faz recomendação a empresas aéreas
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 05/05/2020 -** A Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública recomendou às empresas aéreas a prorrogação imediata do prazo para expirar os pontos acumulados em programas de fidelidade.
 

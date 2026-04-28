@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo negativo de US$ 4,1 bilhões em julho"
+title: Contas externas têm saldo negativo de US$ 4,1 bilhões em julho
 date: 2022-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Investimentos diretos no país somaram US$ 7,7 bilhões.
 

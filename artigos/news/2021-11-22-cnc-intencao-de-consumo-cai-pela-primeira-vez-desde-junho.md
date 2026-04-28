@@ -1,11 +1,12 @@
 ---
-title: "CNC: intenção de consumo cai pela primeira vez desde junho"
+title: 'CNC: intenção de consumo cai pela primeira vez desde junho'
 date: 2021-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com queda mensal de 0,9%, o indicador registrou 73,4 pontos.
 

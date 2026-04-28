@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas e Órgãos de Segurança Pública se reúnem para planejamento integrado de ações"
+title: Forças Armadas e Órgãos de Segurança Pública se reúnem para planejamento integrado
+  de ações
 date: 2020-02-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Fortaleza (CE) – **Em 25 de fevereiro
 de 2020, o Comandante da Força-Tarefa (FT) Felipe Camarão, General de Brigada **Ulisses

@@ -1,11 +1,13 @@
 ---
-title: "Rio de Janeiro Declara Estado de Emergência devido a Epidemia de Dengue às Vésperas do Carnaval"
+title: Rio de Janeiro Declara Estado de Emergência devido a Epidemia de Dengue às
+  Vésperas do Carnaval
 date: 2024-02-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 No Rio de Janeiro, um estado de emergência foi anunciado, lançando uma sombra sobre as celebrações iminentes do carnaval mundialmente reconhecido. O prefeito da cidade, Eduardo Paes, emitiu um decreto, publicado no boletim online da prefeitura, declarando o estado de emergência na esfera da saúde devido à epidemia de dengue.
 

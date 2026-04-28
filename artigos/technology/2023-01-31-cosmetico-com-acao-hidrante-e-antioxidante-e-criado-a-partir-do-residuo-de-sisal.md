@@ -1,11 +1,13 @@
 ---
-title: "Cosmético com ação hidrante e antioxidante é criado a partir do resíduo de sisal"
+title: Cosmético com ação hidrante e antioxidante é criado a partir do resíduo de
+  sisal
 date: 2023-01-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Uma pesquisa realizada por Stella Maria Andrade Gomes Barreto, doutoranda em Farmácia, pela Universidade Federal do Rio Grande do Norte (UFRN/ CAPES) transformou os resíduos do processamento das folhas de sisal, um tipo de planta da caatinga brasileira, em um composto nanotecnológico de aplicação cosmética. A invenção tem ação hidratante, antioxidante e previne os sinais de envelhecimento precoce da pele.
 

@@ -1,11 +1,12 @@
 ---
-title: "Brasil é 4.º maior mercado de downloads de apps"
+title: Brasil é 4.º maior mercado de downloads de apps
 date: 2023-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mais de 78% dos consumidores no país acessaram a internet com seus dispositivos mobile em 2022. Ainda, a receita total dos aplicativos de dispositivos móveis atingiu US$ 3 bilhões no ano passado. Os dados são da plataforma Statista, que analisa e fornece dados de mercado e consumidores para empresas. Os números não param por aí: o Brasil tem hoje mais de um *smartphone *por habitante, segundo levantamento anual da FGV. São 242 milhões de celulares *versus *214 milhões de habitantes, de acordo com o IBGE. Fato é que os brasileiros são usuários vorazes dos próprios celulares, que perderam consideravelmente a função telefone, e são, hoje, verdadeiros focos de serviços: das compras *on-line* às redes sociais, passando por serviços de órgãos públicos, assinaturas e *streaming* de filmes, séries e músicas, *fintechs, *conteúdo educativo, prática de esportes, serviços de transporte, saúde e bem-estar, até entretenimento. Verdade seja dita: os *smartphones *tornaram-se comodidade na palma da mão.
 

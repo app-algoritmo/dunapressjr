@@ -1,11 +1,12 @@
 ---
-title: "A construção do cidadão em livro"
+title: A construção do cidadão em livro
 date: 2019-06-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 “ *O exemplo continua sendo a melhor maneira de educar. Se n*ó*s formos desregrados, sem limites e indisciplinados, como poderemos querer que nossos filhos sejam diferentes?*” 
 

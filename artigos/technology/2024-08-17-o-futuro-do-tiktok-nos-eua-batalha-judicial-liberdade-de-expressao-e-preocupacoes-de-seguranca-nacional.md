@@ -1,11 +1,13 @@
 ---
-title: "O Futuro do TikTok nos EUA: Batalha Judicial, Liberdade de Expressão e Preocupações de Segurança Nacional"
+title: 'O Futuro do TikTok nos EUA: Batalha Judicial, Liberdade de Expressão e Preocupações
+  de Segurança Nacional'
 date: 2024-08-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 A disputa judicial envolvendo o TikTok e o governo dos Estados Unidos se intensificou, centrando-se na questão da propriedade estrangeira da plataforma e suas implicações para a segurança nacional e a liberdade de expressão. O governo dos EUA, sob a administração Biden, aprovou uma lei que exige que a ByteDance, empresa-mãe do TikTok, venda a plataforma até abril de 2024 ou enfrente uma possível proibição no país. Esta lei foi impulsionada por preocupações de segurança, principalmente devido às conexões entre a ByteDance e o governo chinês.
 

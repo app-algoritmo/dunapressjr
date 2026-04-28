@@ -1,11 +1,12 @@
 ---
-title: "Governo lança obra da Ferrovia de Integração do Centro-Oeste"
+title: Governo lança obra da Ferrovia de Integração do Centro-Oeste
 date: 2021-09-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serão investidos R$ 2,7 bilhões na implantação de 383 quilômetros de linha férrea, que possibilitará escoamento da safra produzida no Centro-Oeste até portos das regiões Sudeste e Nordeste.
 

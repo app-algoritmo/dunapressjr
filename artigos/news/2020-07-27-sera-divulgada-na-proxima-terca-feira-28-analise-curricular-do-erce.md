@@ -1,11 +1,12 @@
 ---
-title: "Será divulgada na próxima terça-feira (28) análise curricular do Erce"
+title: Será divulgada na próxima terça-feira (28) análise curricular do Erce
 date: 2020-07-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O documento da análise curricular do Estudo Regional Comparativo e Explicativo (Erce) 2019 terá seu lançamento internacional na próxima terça-feira, 28 de julho. O evento virtual será promovido pelo Laboratório Latino-americano de Avaliação da Qualidade da Educação (LLECE), ligado à Oficina Regional de Educação para América Latina e Caribe (OREALC/UNESCO Santiago). No Brasil, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) é o responsável pela aplicação, da qual participa desde a primeira edição, em 1997.
 

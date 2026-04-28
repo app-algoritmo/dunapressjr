@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro lança programa Mineração e Desenvolvimento que vai estimular retomada do País"
+title: Governo Bolsonaro lança programa Mineração e Desenvolvimento que vai estimular
+  retomada do País
 date: 2020-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é atrair novos investimentos e promover o desenvolvimento e o crescimento sustentável no País. 
 

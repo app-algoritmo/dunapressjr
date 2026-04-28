@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem saldo de mais de 231 mil empresas abertas em outubro"
+title: Brasil tem saldo de mais de 231 mil empresas abertas em outubro
 date: 2020-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tempo médio para abrir novos negócios é de dois dias e 17 horas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Empresa norueguesa inicia comercializacao de alimentos made in brazil e abre novas oportunidades par"
+title: Empresa norueguesa inicia comercializacao de alimentos made in brazil e abre
+  novas oportunidades par
 date: 2022-08-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Holmestrand | 09.08.2022 - A economia do Brasil vai de vento em popa, graças aos acordos de livre comércio firmados pelo [governo Jair Bolsonaro do Brasil e o governo Erna Solberg da Noruega](https://twitter.com/jairbolsonaro/status/1164995659847688192?s=20&t=5php4K-SfAxXnt8ZxuE3Ig), a empresa [eDelicia Smaker](https://www.edelicia.no/) pertencente ao [Grupo Duna](https://dunasteia.no/), inaugurará neste outono a abertura de uma loja para comercialização de produtos alimentícios do Brasil na Noruega. Com distribuição desta fronteira para outros países da zona Euro e outros, a [eDelicia Smaker](https://www.edelicia.no/) comercializará os produtos brasileiros nos seguintes países: (CE: Dinamarca, Suécia, Finlândia, Portugal, Espanha, Itália, Alemanha, Holanda, Bélgica, Áustria, Nova Zelândia, Hong Kong, Austrália, Emirados Árabes Unidos, Israel, Malásia, Japão, Canadá, Singapura, Coreia do Sul, Suíça, Estados Unidos, Inglaterra), países onde brasileiros, consumidores e comerciantes locais podem a partir de agora com apenas alguns cliques obter os deempresa-norueguesa-inicia-comercializacao-de-alimentos-made-in-brazil-e-abre-novas-oportunidades-para-investidoresliciosos e exóticos produtos "Made in Brasil" diretamente na [loja online eDelicia Smaker](https://edelicia.com).
 

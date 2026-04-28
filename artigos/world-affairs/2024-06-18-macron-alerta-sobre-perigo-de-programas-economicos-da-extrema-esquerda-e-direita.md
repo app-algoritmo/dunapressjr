@@ -1,11 +1,13 @@
 ---
-title: "Macron Alerta sobre 'Perigo' de Programas Econômicos da Extrema Esquerda e Direita"
+title: Macron Alerta sobre 'Perigo' de Programas Econômicos da Extrema Esquerda e
+  Direita
 date: 2024-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da França, Emmanuel Macron, fez um alerta nesta sexta-feira sobre os programas políticos da Nova Frente Popular, um bloco de esquerda, e do Comício Nacional de Marine Le Pen, classificando-os como "um perigo muito grande" para a economia francesa.
 

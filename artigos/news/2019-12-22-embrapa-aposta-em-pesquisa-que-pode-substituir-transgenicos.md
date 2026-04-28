@@ -1,11 +1,12 @@
 ---
-title: "Embrapa aposta em pesquisa que pode substituir transgênicos"
+title: Embrapa aposta em pesquisa que pode substituir transgênicos
 date: 2019-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Novo presidente diz que empresa terá "agenda robusta" em 2020*
 

@@ -1,11 +1,13 @@
 ---
-title: "4.01 Legislação determina que as instituições de ensino devem oferecer alternativas para a realização das atividades"
+title: 4.01 Legislação determina que as instituições de ensino devem oferecer alternativas
+  para a realização das atividades
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente sanciona lei que permite ausência de alunos em provas ou aulas por motivos religiosos
 

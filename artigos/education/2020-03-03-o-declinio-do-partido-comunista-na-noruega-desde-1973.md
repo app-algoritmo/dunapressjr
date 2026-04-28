@@ -1,12 +1,13 @@
 ---
-title: "O Declínio do Partido Comunista na Noruega desde 1973"
+title: O Declínio do Partido Comunista na Noruega desde 1973
 date: 2020-03-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 ## -**Em 29 de fevereiro de 1948 Einar Gerhardsen**, definiu o Partido Comunista como um inimigo da "liberdade e democracia do povo norueguês.
 

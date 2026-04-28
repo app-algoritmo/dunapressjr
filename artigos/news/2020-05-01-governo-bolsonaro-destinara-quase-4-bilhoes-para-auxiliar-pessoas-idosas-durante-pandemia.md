@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro destinará quase $ 4 bilhões para auxiliar pessoas idosas durante pandemia"
+title: Governo Bolsonaro destinará quase $ 4 bilhões para auxiliar pessoas idosas
+  durante pandemia
 date: 2020-05-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante a entrevista coletiva do gabinete de crise do novo coronavírus (Covid-19), realizada nesta quinta-feira (30), no Palácio do Planalto, a ministra Damares Alves anunciou o investimento de R$ 3,96 bilhões em apoio à população idosa. A iniciativa será dividia em dois eixos, Saúde e Assistência Social, e compõe uma nova etapa do plano de contingência para pessoas vulneráveis durante a pandemia.
 

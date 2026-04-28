@@ -1,11 +1,12 @@
 ---
-title: "Lucas Barreto lamenta falta de licença de exploração de petróleo no Amapá"
+title: Lucas Barreto lamenta falta de licença de exploração de petróleo no Amapá
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Lucas Barreto (PSD-AP) lamentou, em pronunciamento nesta terça-feira (27), a não emissão da licença ambiental para prospecção de petróleo e gás da plataforma equatorial da Amazônia, na costa do Amapá. Ele observou que a Petrobras retirou do Amapá a sonda que faria a perfuração do poço na bacia da foz do Amazonas, após o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) negar o licenciamento ambiental.
 

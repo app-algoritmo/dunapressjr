@@ -1,11 +1,12 @@
 ---
-title: "Série Este homem quer ser presidente do Brasil - Parte I - Rodrigo Maia"
+title: Série Este homem quer ser presidente do Brasil - Parte I - Rodrigo Maia
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ao finalizar o inquérito, a Polícia Federal do Brasil atribui ao presidente do congresso nacional  [RODRIGO FELINTO IBARRA EPITÁCIO MAIA](https://www.camara.leg.br/deputados/74693/biografia), os crimes de: Corrupção, Lavagem de dinheiro e "Caixa Três". **O** **Relatório das  investigações foi encaminhado à PGR, que decide se denuncia o deputado ou arquiva o caso**.
 

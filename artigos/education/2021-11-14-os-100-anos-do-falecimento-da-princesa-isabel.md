@@ -1,11 +1,12 @@
 ---
-title: "Os 100 anos do falecimento da Princesa Isabel"
+title: Os 100 anos do falecimento da Princesa Isabel
 date: 2021-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 - 14/11/1921 - 14/11/2021 - 100 anos de falecimento da Princesa Isabel.
 

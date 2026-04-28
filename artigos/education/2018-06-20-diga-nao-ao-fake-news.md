@@ -1,11 +1,12 @@
 ---
-title: "Diga não ao fake news!"
+title: Diga não ao fake news!
 date: 2018-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## -O Professor responsável é antes de tudo um pesquisador que investiga minuciosamente todo o conteúdo da aula que vai lecionar.
 

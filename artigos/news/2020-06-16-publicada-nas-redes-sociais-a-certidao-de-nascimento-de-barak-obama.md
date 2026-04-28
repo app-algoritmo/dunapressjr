@@ -1,11 +1,12 @@
 ---
-title: "Publicada nas redes sociais a certidão de nascimento de Barak Obama"
+title: Publicada nas redes sociais a certidão de nascimento de Barak Obama
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 1. Trump sabia desde 2011 que Barack Hussein nasceu no Quênia, um usurpador, um [#NeverPresident](https://twitter.com/hashtag/NeverPresident?src=hashtag_click), Trump: "Se você não nasceu nos Estados Unidos, não pode ser presidente" "Ou esse cara tem uma certidão de nascimento ou não", disse o Trump.
 

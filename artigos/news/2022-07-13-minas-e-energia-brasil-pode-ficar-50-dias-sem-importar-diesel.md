@@ -1,11 +1,12 @@
 ---
-title: "Minas e Energia: Brasil pode ficar 50 dias sem importar diesel"
+title: 'Minas e Energia: Brasil pode ficar 50 dias sem importar diesel'
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País soma 1,6 milhão de metros cúbicos de estoques de diesel A S-10.
 

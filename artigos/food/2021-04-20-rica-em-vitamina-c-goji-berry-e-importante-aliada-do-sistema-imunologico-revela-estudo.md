@@ -1,11 +1,13 @@
 ---
-title: "Rica em vitamina C, goji berry é importante aliada do sistema imunológico, revela estudo"
+title: Rica em vitamina C, goji berry é importante aliada do sistema imunológico,
+  revela estudo
 date: 2021-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Usada tradicionalmente na medicina chinesa, a goji berry é um fruto da planta *Lycium barbarum*, com origem nas montanhas do Tibet, na Ásia. A pequena fruta vermelha ficou popularmente conhecida em outras regiões do mundo pelo alto teor de nutrientes, como vitaminas, minerais, fibras, aminoácidos e antioxidantes. Segundo estudo da Universidade de Sidney, a goji berry reúne diversos benefícios para a saúde e é considerada uma forte aliada do sistema imunológico.
 

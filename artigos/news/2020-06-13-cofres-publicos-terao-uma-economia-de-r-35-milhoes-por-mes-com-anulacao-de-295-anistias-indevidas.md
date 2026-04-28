@@ -1,11 +1,13 @@
 ---
-title: "Cofres públicos terão uma economia de R$ 3,5 milhões por mês, com anulação de 295 anistias indevidas"
+title: Cofres públicos terão uma economia de R$ 3,5 milhões por mês, com anulação
+  de 295 anistias indevidas
 date: 2020-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) economizou quase de R$ 3,5 milhões por mês para os cofres públicos ao anular, após autorização do Supremo Tribunal Federal (STF), 295 anistias políticas concedidas indevidamente a ex-cabos da Aeronáutica.
 

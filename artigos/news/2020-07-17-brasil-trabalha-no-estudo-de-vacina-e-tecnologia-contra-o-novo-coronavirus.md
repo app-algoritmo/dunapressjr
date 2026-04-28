@@ -1,11 +1,12 @@
 ---
-title: "Brasil trabalha no estudo de vacina e tecnologia contra o novo coronavírus"
+title: Brasil trabalha no estudo de vacina e tecnologia contra o novo coronavírus
 date: 2020-07-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) tem atuado em diferentes ações para o combate a Covid-19. O titular da pasta, Marcos Pontes, detalhou que, entre elas, está o financiamento de pesquisas para a busca de uma vacina contra a doença, o uso da tecnologia do novo acelerador de elétrons brasileiro, o Sirius, para pesquisar a estrutura do vírus e testes clínicos com um medicamento.
 

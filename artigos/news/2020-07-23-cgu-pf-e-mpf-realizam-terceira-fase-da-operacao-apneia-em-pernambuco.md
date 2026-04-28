@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF realizam terceira fase da Operação Apneia em Pernambuco"
+title: CGU, PF e MPF realizam terceira fase da Operação Apneia em Pernambuco
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Objetivo é combater irregularidades em contratos firmados pela Prefeitura de Recife (PE), de R$ 11,5 milhões, para aquisição de respiradores pulmonares.
 

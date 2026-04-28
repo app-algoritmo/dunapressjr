@@ -1,11 +1,12 @@
 ---
-title: "Plínio cobra ações estruturantes no AM para combate à estiagem"
+title: Plínio cobra ações estruturantes no AM para combate à estiagem
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta quarta-feira (4), o senador Plínio Valério (PSDB-AM) afirmou que o governo não apresenta medidas estruturantes para enfrentar a seca histórica que atinge o Amazonas. O parlamentar disse o Poder Executivo anunciou auxílios para moradores das regiões afetadas, mas impede obras como o asfaltamento da BR-319, que reduziria o isolamento dos habitantes.
 

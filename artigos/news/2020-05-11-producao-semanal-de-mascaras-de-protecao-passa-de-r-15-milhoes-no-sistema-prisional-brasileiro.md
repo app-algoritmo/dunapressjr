@@ -1,11 +1,13 @@
 ---
-title: "Produção semanal de máscaras de proteção passa de R$ 1,5 milhões no sistema prisional brasileiro"
+title: Produção semanal de máscaras de proteção passa de R$ 1,5 milhões no sistema
+  prisional brasileiro
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) atualizou levantamento sobre produção de materiais e insumos de combate ao Covid-19 por presos do sistema prisional brasileiro. Segundo informações das Unidades Federativas, estão produzindo, semanalmente, 1.591.200 milhões de** **máscaras. O material produzido irá para o próprio sistema prisional e demais forças de segurança, hospitais, venda ou doações.
 

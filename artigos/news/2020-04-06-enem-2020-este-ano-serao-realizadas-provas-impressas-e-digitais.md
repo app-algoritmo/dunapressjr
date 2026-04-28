@@ -1,11 +1,12 @@
 ---
-title: "Enem 2020: Este ano serão realizadas  provas impressas e digitais"
+title: 'Enem 2020: Este ano serão realizadas  provas impressas e digitais'
 date: 2020-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Serão disponibilizadas 100 mil inscrições para os primeiros participantes que optarem pelo modelo digital. Inscrições serão realizadas de 11 a 22 de maio.**
 

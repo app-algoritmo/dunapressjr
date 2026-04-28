@@ -1,11 +1,12 @@
 ---
-title: "Computação e psicologia são aliadas na alfabetização"
+title: Computação e psicologia são aliadas na alfabetização
 date: 2021-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Aliar componentes de jogos com psicologia pode ser um caminho para facilitar a alfabetização de pessoas com transtorno do espectro autista. É o que sinaliza o trabalho de mestrado de Laíza Ribeiro Silva, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e cientista do Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), em São Carlos.
 

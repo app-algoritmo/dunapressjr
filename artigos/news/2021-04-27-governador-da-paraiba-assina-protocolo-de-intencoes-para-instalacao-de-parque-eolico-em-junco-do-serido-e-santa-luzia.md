@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba assina protocolo de intenções para instalação de parque eólico em Junco do Seridó e Santa Luzia"
+title: Governador da Paraíba assina protocolo de intenções para instalação de parque
+  eólico em Junco do Seridó e Santa Luzia
 date: 2021-04-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## **O projeto irá gerar mais de 600 empregos e investimento de R$ 1 bilhão**.
 

@@ -1,11 +1,12 @@
 ---
-title: "MEC faz esclarecimentos sobre a TV INES"
+title: MEC faz esclarecimentos sobre a TV INES
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Educação (MEC) e o Instituto Nacional de Educação de Surdos (Ines) informam que a Associação Comunicativa Roquette Pinto (Acerp) possui contrato vigente de prestação de serviços com o Instituto, para execução da TV INES com encerramento previsto para novembro de 2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo declara transmissão comunitária nacional de Coronavírus"
+title: Governo declara transmissão comunitária nacional de Coronavírus
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde declarou, nesta sexta-feira (20), o reconhecimento da transmissão comunitária do coronavírus (Covid-19) em todo o território nacional. Isso significa que todo o Brasil deve se unir contra o vírus.
 

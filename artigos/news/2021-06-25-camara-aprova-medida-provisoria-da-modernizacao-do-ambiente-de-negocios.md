@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova Medida Provisória da modernização do ambiente de negócios"
+title: Câmara aprova Medida Provisória da modernização do ambiente de negócios
 date: 2021-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas aprovadas também alteram regras de abertura e funcionamento de empresas e de procedimentos para exportação e importação.
 

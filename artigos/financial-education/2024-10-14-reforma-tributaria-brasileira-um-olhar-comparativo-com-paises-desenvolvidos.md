@@ -1,12 +1,13 @@
 ---
-title: "Reforma Tributária Brasileira: Um Olhar Comparativo com Países Desenvolvidos"
+title: 'Reforma Tributária Brasileira: Um Olhar Comparativo com Países Desenvolvidos'
 date: 2024-10-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Financial Education
-  - Future and Innovation
+- Financial Education
+- Future and Innovation
 ---
+
 
 A reforma tributária é um tema central nas discussões econômicas do Brasil, especialmente em um cenário onde a complexidade do sistema tributário é frequentemente citada como um obstáculo ao crescimento econômico e à equidade social. Este artigo busca explorar as principais características da reforma tributária brasileira, a importância da educação fiscal desde a primeira infância e compará-las com os sistemas tributários de países desenvolvidos, como os Estados Unidos, Noruega e Dinamarca.
 

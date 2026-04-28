@@ -1,11 +1,12 @@
 ---
-title: "CNI defende bioeconomia para estimular produção e inovação no país"
+title: CNI defende bioeconomia para estimular produção e inovação no país
 date: 2020-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Tema será discutido em fórum no dia 26 deste mês.
 

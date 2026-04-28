@@ -1,11 +1,13 @@
 ---
-title: "Co-fundador do Telegram revela 'segredo' pelo qual há fuga em massa de usuários do WhatsApp para o seu aplicativo"
+title: Co-fundador do Telegram revela 'segredo' pelo qual há fuga em massa de usuários
+  do WhatsApp para o seu aplicativo
 date: 2021-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **Pavel Dorov diz que facebook é incapaz de competir com o Telegram em termos de qualidade e privacidade.**
 

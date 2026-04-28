@@ -1,11 +1,12 @@
 ---
-title: "Bill Clinton pagou a Paula Jones $ 850.000 em dinheiro e nunca foi cobrado"
+title: Bill Clinton pagou a Paula Jones $ 850.000 em dinheiro e nunca foi cobrado
 date: 2023-03-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O ex-presidente Bill Clinton pagou a Paula Jones US $ 850.000 para mantê-la quieta sobre as acusações de assédio sexual, mas nunca foi preso por isso.
 

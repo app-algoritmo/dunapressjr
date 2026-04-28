@@ -1,11 +1,12 @@
 ---
-title: "Policiais realizam apreensão de 800 caixas de cigarros paraguaios no Paraná"
+title: Policiais realizam apreensão de 800 caixas de cigarros paraguaios no Paraná
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Terra Roxa/PR – Na noite desta quarta-feira, dia 20/05, mais um grande trabalho foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

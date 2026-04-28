@@ -1,11 +1,13 @@
 ---
-title: "Decreto exclui do imposto de importação o valor da capatazia realizada em território nacional"
+title: Decreto exclui do imposto de importação o valor da capatazia realizada em território
+  nacional
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida abrange atividade de movimentação de mercadorias nas instalações dentro dos portos no país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Organizações da FAB recebem aeronaves civis em pátios operacionais"
+title: Organizações da FAB recebem aeronaves civis em pátios operacionais
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em consonância com a Medida Provisória nº 945, de 4 de abril de 2020, que dispõe sobre medidas temporárias em resposta à pandemia decorrente da COVID-19, a Ala 1 – Base Aérea de Brasília recebeu, nesta sexta-feira (17/04), oito aeronaves das empresas aéreas Latam e Gol.
 

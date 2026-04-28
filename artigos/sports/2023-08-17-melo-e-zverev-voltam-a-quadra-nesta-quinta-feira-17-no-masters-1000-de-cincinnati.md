@@ -1,12 +1,13 @@
 ---
-title: "Melo e Zverev voltam à quadra nesta quinta-feira (17) no Masters 1000 de Cincinnati"
+title: Melo e Zverev voltam à quadra nesta quinta-feira (17) no Masters 1000 de Cincinnati
 date: 2023-08-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Dupla vai em busca da vaga nas quartas de final. Jogo será por volta das 16h30 (horário de Brasília), diante de Hurkacz e Pavic.
 

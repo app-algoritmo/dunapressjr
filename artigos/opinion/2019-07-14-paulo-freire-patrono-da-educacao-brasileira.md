@@ -1,11 +1,12 @@
 ---
-title: "Paulo Freire, patrôno da educação brasileira"
+title: Paulo Freire, patrôno da educação brasileira
 date: 2019-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Em 2012, Paulo Freire foi nomeado pela esquerda como o patrono da educação brasileira. E, de fato, ele é mesmo. Ele realmente é o patrono da fracassada educação brasileira, a mesma que está nas piores colocações nos ranks internacionais relacionados à educação.
 

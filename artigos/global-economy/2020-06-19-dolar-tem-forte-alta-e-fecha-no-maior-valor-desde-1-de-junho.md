@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem forte alta e fecha no maior valor desde 1º de junho"
+title: Dólar tem forte alta e fecha no maior valor desde 1º de junho
 date: 2020-06-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Moeda reverte queda acumulada no mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Simplificação de obrigações tributárias para empresas vai a sanção"
+title: Simplificação de obrigações tributárias para empresas vai a sanção
 date: 2023-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de lei complementar busca reduzir burocracia e padronizar legislações e sistemas de tributação
 

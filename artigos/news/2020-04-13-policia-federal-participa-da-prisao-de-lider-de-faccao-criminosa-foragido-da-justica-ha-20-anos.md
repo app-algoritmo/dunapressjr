@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal participa da prisão de líder de facção criminosa foragido da justiça há 20 anos"
+title: Polícia Federal participa da prisão de líder de facção criminosa foragido da
+  justiça há 20 anos
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal prendeu, hoje (13/4), por meio de cooperação policial internacional, em Maputo/Moçambique, Gilberto Aparecido dos Santos, conhecido como “Fuminho”, que constava da lista de procurados divulgada pelo Ministério da Justiça e estava foragido há mais de 20 anos.
 

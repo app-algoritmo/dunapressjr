@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val convoca senadores a combater suposta censura do STF"
+title: Marcos do Val convoca senadores a combater suposta censura do STF
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos–ES), em pronunciamento no Plenário nesta quarta-feira (23), voltou a pedir apoio dos senadores contra a "censura" imposta a ele pelo Supremo Tribunal Federal (STF), que suspendeu suas contas nas redes sociais. O parlamentar convocou seus colegas a refletirem sobre a gravidade da situação, enfatizando que não se trata de um ataque individual, mas uma afronta à instituição do Senado e à democracia brasileira. 
 

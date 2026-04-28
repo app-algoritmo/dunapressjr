@@ -1,11 +1,12 @@
 ---
-title: "Recursos públicos são economizados com a migração de sites para o portal Gov.br"
+title: Recursos públicos são economizados com a migração de sites para o portal Gov.br
 date: 2020-06-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## No mês de maio, 9 sites institucionais foram migrados. Até o momento 25 órgãos já estão presentes no Portal.
 

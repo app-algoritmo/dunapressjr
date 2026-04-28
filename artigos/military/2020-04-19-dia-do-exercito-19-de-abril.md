@@ -1,11 +1,12 @@
 ---
-title: "Dia do Exército – 19 de Abril"
+title: Dia do Exército – 19 de Abril
 date: 2020-04-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Ordem do Dia**
 

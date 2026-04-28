@@ -1,11 +1,12 @@
 ---
-title: "PF apreende mais de R$ 18 mil em cédulas falsas em Macapá/AP"
+title: PF apreende mais de R$ 18 mil em cédulas falsas em Macapá/AP
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal prendeu em flagrante, na noite de ontem (11/5), dois homens, de 24 e 29 anos, e uma mulher, de 31 anos, que transportavam aproximadamente R$ 18 mil em cédulas falsas, em Macapá/AP.
 

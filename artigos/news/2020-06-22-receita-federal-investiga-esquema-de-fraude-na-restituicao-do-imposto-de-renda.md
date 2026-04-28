@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal investiga esquema de fraude na restituição do imposto de renda"
+title: Receita Federal investiga esquema de fraude na restituição do imposto de renda
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As deduções indevidas correspondem a um valor de 15 milhões.
 

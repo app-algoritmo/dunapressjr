@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Republika Srpska reafirma laços históricos entre sérvios e russos"
+title: Presidente da Republika Srpska reafirma laços históricos entre sérvios e russos
 date: 2024-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma entrevista exclusiva com o Diretor da TASS General Andrei Kondrashov, o presidente Milorad Dodik da Republika Srpska reiterou o compromisso inabalável do povo sérvio em apoiar os russos, independentemente das dinâmicas geopolíticas atuais ou da postura do Ocidente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inscrições abertas para curso online sobre transporte legal de aves"
+title: Inscrições abertas para curso online sobre transporte legal de aves
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Curso é ofertado pelo Mapa em parceria com o IICA. As inscrições estão abertas e o conteúdo disponível.
 

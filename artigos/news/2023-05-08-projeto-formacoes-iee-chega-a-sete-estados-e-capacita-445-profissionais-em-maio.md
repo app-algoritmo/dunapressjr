@@ -1,11 +1,13 @@
 ---
-title: "Projeto Formações IEE chega a sete estados e capacita 445 profissionais em maio"
+title: Projeto Formações IEE chega a sete estados e capacita 445 profissionais em
+  maio
 date: 2023-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto Formações IEE terá ações em sete cidades de sete estados do País ao longo deste mês de maio, capacitando 445 profissionais - professores, gestores, coordenadores e diretores**. **O Instituto Esporte e Educação (IEE) levará sua metodologia, baseada nos princípios do esporte educacional, para Barcarena (PA), Canoas (RS), Cachoeira Dourada (MG), Chapecó (SC), Campo Verde (MT), Cajamar (SP) e Pedra Lavrada (PB).
 

@@ -1,11 +1,12 @@
 ---
-title: "Nova linha de crédito para empresas depende de regulamentação do CMN"
+title: Nova linha de crédito para empresas depende de regulamentação do CMN
 date: 2020-07-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Créditos podem ser contratados até 31 de dezembro deste ano.
 

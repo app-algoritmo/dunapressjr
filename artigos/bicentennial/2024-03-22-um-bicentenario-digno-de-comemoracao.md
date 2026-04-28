@@ -1,12 +1,13 @@
 ---
-title: "Um Bicentenário digno de comemoração"
+title: Um Bicentenário digno de comemoração
 date: 2024-03-22
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Bicentennial
-  - Policy
+- Bicentennial
+- Policy
 ---
+
 
 Dia 25 de março vamos comemorar os 200 anos da Primeira Constituição do Brasil, datada de 1824. Vamos a um breve histórico para demonstrar que a constituição mais duradoura do país também foi a mais democrática. 
 

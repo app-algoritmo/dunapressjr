@@ -1,11 +1,13 @@
 ---
-title: "Trump oficializa candidatura à Casa Branca: Uma nação dividida enfrenta uma escolha crucial"
+title: 'Trump oficializa candidatura à Casa Branca: Uma nação dividida enfrenta uma
+  escolha crucial'
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-Presidente dos Estados Unidos, Donald Trump, confirmou oficialmente sua candidatura à Casa Branca, recebendo a notícia com "grande honra" e destacando a suposta unidade e força do Partido Republicano para enfrentar o atual presidente democrata, Joe Biden. Em declarações na rede Truth Social, Trump acusou Biden de transformar o país em "uma nação do Terceiro Mundo" e argumentou que sua administração representaria uma alternativa necessária.
 

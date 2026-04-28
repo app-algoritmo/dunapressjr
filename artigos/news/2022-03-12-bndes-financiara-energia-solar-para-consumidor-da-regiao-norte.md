@@ -1,11 +1,12 @@
 ---
-title: "BNDES financiará energia solar para consumidor da Região Norte"
+title: BNDES financiará energia solar para consumidor da Região Norte
 date: 2022-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A operação vai contribuir para democratizar o acesso à geração solar para os consumidores de energia da Região.
 

@@ -1,11 +1,13 @@
 ---
-title: "Suprimentos de limpeza naturais e eficazes que você pode usar para desinfetar sua casa com segurança"
+title: Suprimentos de limpeza naturais e eficazes que você pode usar para desinfetar
+  sua casa com segurança
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mantenha sua casa limpa com esses desinfetantes naturais eficazes que você pode usar em objetos e superfícies duras e inanimadas em sua casa. 
 

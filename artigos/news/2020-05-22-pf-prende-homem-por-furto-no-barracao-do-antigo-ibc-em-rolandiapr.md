@@ -1,11 +1,12 @@
 ---
-title: "PF prende homem por furto no Barracão do antigo IBC, em Rolândia/PR"
+title: PF prende homem por furto no Barracão do antigo IBC, em Rolândia/PR
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Londrina/PR - A Polícia Federal, a fim de apurar denúncia anônima de furto recebida nesta quinta-feira (21/5), efetuou diligências no interior do barracão abandonado do antigo Instituto Brasileiro do Café -IBC, na cidade de Rolândia/PR, o que levou a uma residência que fazia fundos ao IBC, onde prendeu em flagrante um homem (28), após confessar ser ele o autor do delito.
 

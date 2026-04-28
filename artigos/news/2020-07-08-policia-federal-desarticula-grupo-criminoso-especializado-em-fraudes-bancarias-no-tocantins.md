@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal desarticula grupo criminoso especializado em fraudes bancárias no Tocantins"
+title: Polícia Federal desarticula grupo criminoso especializado em fraudes bancárias
+  no Tocantins
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO – A Polícia Federal deflagrou na manhã desta terça-feira (7/7) a Operação “Xunxo”, que tem como objetivo desarticular grupo criminoso especializado em fraudes bancárias eletrônicas.
 

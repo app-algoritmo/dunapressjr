@@ -1,11 +1,13 @@
 ---
-title: "Contaminação de DNA de “vacinas” de mRNA representa um risco para todos no planeta"
+title: Contaminação de DNA de “vacinas” de mRNA representa um risco para todos no
+  planeta
 date: 2023-05-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Por que a descoberta perturbadora da contaminação do DNA plasmidial representa um sério risco para os 'vacinados' de mRNA e aqueles ao seu redor.
 

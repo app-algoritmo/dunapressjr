@@ -1,11 +1,13 @@
 ---
-title: "Governador da oposição na Bolívia é preso: eles denunciam 'sequestro' da polícia"
+title: 'Governador da oposição na Bolívia é preso: eles denunciam ''sequestro'' da
+  polícia'
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Camacho foi denunciado pelo suposto golpe contra Morales em um processo pelo qual a ex-presidente interina Jeanine Áñez está presa.
 

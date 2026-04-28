@@ -1,11 +1,12 @@
 ---
-title: "Paraguai aguarda resposta do Brasil para negociações sobre tarifa de Itaipu"
+title: Paraguai aguarda resposta do Brasil para negociações sobre tarifa de Itaipu
 date: 2024-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O chanceler Rubén Ramírez indicou que o Governo do Paraguai aguarda uma resposta do Brasil para continuar as negociações sobre a tarifa de venda de energia de Itaipu para 2024.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia inovadora permite avaliar a segurança de estruturas￼￼"
+title: Tecnologia inovadora permite avaliar a segurança de estruturas￼￼
 date: 2022-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

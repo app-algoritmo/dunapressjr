@@ -1,11 +1,12 @@
 ---
-title: "PF apreende eletrônicos na barranca do Rio Paraná"
+title: PF apreende eletrônicos na barranca do Rio Paraná
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Integrantes da Polícia Federal e da Força Nacional de Segurança Pública em policiamento terrestre, na última terça-feira (19/5), apreenderam grande quantidade de celulares e outros eletrônicos na barranca do Rio Paraná, em um porto clandestino no final da Rua Tiradentes, em Foz do Iguaçu.
 

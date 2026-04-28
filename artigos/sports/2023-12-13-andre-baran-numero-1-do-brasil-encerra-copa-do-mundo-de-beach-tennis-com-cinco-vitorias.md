@@ -1,11 +1,13 @@
 ---
-title: "André Baran, número 1 do Brasil, encerra Copa do Mundo de Beach Tennis com cinco vitórias"
+title: André Baran, número 1 do Brasil, encerra Copa do Mundo de Beach Tennis com
+  cinco vitórias
 date: 2023-12-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Catarinense integrou a equipe nacional nas duplas masculinas e duplas mistas ao longo do torneio. Título desta edição foi dividido entre brasileiros e italianos por causa da forte chuva que cancelou o terceiro e último jogo da final, neste domingo (10).
 

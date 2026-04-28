@@ -1,11 +1,12 @@
 ---
-title: "EUA aprova novo medicamento contra Alzheimer"
+title: EUA aprova novo medicamento contra Alzheimer
 date: 2021-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O FDA está isento de parecer questionando a eficácia do medicamento produzido pela Biogen na desaceleração da doença.
 

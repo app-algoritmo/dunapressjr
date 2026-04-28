@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Setores de Equipamentos e Material de Escritório e Tecidos, Vestuário e Calçados lideram queda no varejo em abril"
+title: 'IBGE: Setores de Equipamentos e Material de Escritório e Tecidos, Vestuário
+  e Calçados lideram queda no varejo em abril'
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças de comportamento e variações cambiais impactam negativamente as vendas, enquanto alguns setores se destacam com resultados positivos.
 

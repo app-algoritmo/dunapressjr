@@ -1,11 +1,13 @@
 ---
-title: "Operação Favens: Força-Tarefa combate organização criminosa e tráfico de drogas em Natal"
+title: 'Operação Favens: Força-Tarefa combate organização criminosa e tráfico de drogas
+  em Natal'
 date: 2023-07-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 100 policiais cumprem mandados de prisão e busca e apreensão em ação conjunta das forças de segurança para desmantelar facção criminosa e combater crimes graves na região.
 

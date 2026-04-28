@@ -1,11 +1,12 @@
 ---
-title: "Como funcionam as bandeiras tarifárias"
+title: Como funcionam as bandeiras tarifárias
 date: 2021-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sistema reflete custos variáveis da geração de energia.
 

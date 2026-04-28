@@ -1,11 +1,12 @@
 ---
-title: "Projeto inclui autistas na lei que prioriza atendimento de pessoas com deficiência"
+title: Projeto inclui autistas na lei que prioriza atendimento de pessoas com deficiência
 date: 2023-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 401/23 inclui as pessoas com Transtorno do Espectro do Autismo (TEA) entre os beneficiários da [Lei 10.048/00](https://www2.camara.leg.br/legin/fed/lei/2000/lei-10048-8-novembro-2000-376937-publicacaooriginal-1-pl.html), que dá prioridade de atendimento às pessoas com deficiência física, aos idosos com idade igual ou superior a 60 anos, gestantes, lactantes e pessoas acompanhadas por crianças de colo.
 

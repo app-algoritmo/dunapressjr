@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,49, mas cai pela quarta semana seguida"
+title: Dólar sobe para R$ 5,49, mas cai pela quarta semana seguida
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores tem primeira queda semanal após três semanas de alta.
 

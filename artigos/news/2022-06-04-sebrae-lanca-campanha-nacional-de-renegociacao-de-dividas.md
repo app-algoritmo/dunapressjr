@@ -1,11 +1,12 @@
 ---
-title: "Sebrae lança Campanha Nacional de Renegociação de Dívidas"
+title: Sebrae lança Campanha Nacional de Renegociação de Dívidas
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estimativa é beneficiar cerca de 14 mil empresas.
 

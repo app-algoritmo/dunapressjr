@@ -1,11 +1,12 @@
 ---
-title: "Instituições de ensino superior têm até 23 de junho para aderir ao Fies"
+title: Instituições de ensino superior têm até 23 de junho para aderir ao Fies
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Prazo está em Portaria do Ministério da Educação com regras para o processo seletivo deste segundo semestre.
 

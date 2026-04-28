@@ -1,11 +1,13 @@
 ---
-title: "Netshoes Run reúne 3 mil participantes no domingo (27) de muito frio na capital paulista"
+title: Netshoes Run reúne 3 mil participantes no domingo (27) de muito frio na capital
+  paulista
 date: 2023-08-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Corridas de 5 km e 10 km foram destaque, tomando conta da Marginal Pinheiros, com largada e chegada em frente ao Parque do Povo, onde foi realizada a Corrida Infantil, com convidados muito especiais: as Tartarugas Ninja.
 

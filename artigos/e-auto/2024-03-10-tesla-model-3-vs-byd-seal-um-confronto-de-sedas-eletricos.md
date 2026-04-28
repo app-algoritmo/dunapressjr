@@ -1,11 +1,12 @@
 ---
-title: "Tesla Model 3 vs BYD Seal: Um Confronto de Sedãs Elétricos"
+title: 'Tesla Model 3 vs BYD Seal: Um Confronto de Sedãs Elétricos'
 date: 2024-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 Recentemente, a BYD capturou os holofotes ao ultrapassar a Tesla como a marca com mais carros elétricos vendidos no 4º trimestre de 2023. Uma questão que naturalmente surge é: qual desses fabricantes de veículos elétricos produz o melhor sedã elétrico - a Tesla com o Model 3, ou a BYD com o Seal?
 

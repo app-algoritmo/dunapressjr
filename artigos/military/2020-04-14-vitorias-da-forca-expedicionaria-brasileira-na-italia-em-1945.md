@@ -1,11 +1,12 @@
 ---
-title: "Vitórias da Força Expedicionária Brasileira na Itália em 1945"
+title: Vitórias da Força Expedicionária Brasileira na Itália em 1945
 date: 2020-04-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Na jornada de 20 de março de 1945, o comandante da 1ª Divisão de Infantaria Expedicionária (1ª DIE), General Mascarenhas de Morais, compareceu ao Quartel-General do IV Corpo de Exército Americano para participar o plano ofensivo que culminaria na queda das linhas teuto-italianas e para deliberar sobre ele.
 

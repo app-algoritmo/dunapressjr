@@ -1,11 +1,12 @@
 ---
-title: "Zelensky aceita proposta de Putin, pronto para negociações de paz"
+title: Zelensky aceita proposta de Putin, pronto para negociações de paz
 date: 2022-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com seu secretário de imprensa Sergey Nikoforov, estão em andamento consultas sobre o local e a hora das negociações.
 

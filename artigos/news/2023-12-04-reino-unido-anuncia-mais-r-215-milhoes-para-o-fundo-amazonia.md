@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido anuncia mais R$ 215 milhões para o Fundo Amazônia"
+title: Reino Unido anuncia mais R$ 215 milhões para o Fundo Amazônia
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Contrato foi assinado na COP28 neste sábado.
 

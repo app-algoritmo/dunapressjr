@@ -1,11 +1,12 @@
 ---
-title: "Por que nem todas as vacinas podem ser em gotinhas?"
+title: Por que nem todas as vacinas podem ser em gotinhas?
 date: 2021-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Todo mundo tem uma recordação de quando era pequeno e tomou uma vacina em gotas, como a da poliomielite. Seria bem mais simples se algumas gotinhas fossem suficientes para nos proteger contra todas as doenças, certo? 
 

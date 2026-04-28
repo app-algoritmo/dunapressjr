@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova intervenção federal na segurança pública do DF"
+title: Câmara aprova intervenção federal na segurança pública do DF
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados confirmou em Plenário a intervenção federal na segurança pública do Distrito Federal decretada pelo presidente da República, Luiz Inácio Lula da Silva, como resposta aos atos de vandalismo ocorridos neste domingo em Brasília. A votação foi simbólica.
 

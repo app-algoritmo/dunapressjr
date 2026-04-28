@@ -1,11 +1,13 @@
 ---
-title: "Grupo Edmond de Rothschild Expande-se para a Arábia Saudita, Alinhando-se com a Visão Saudita 2030"
+title: Grupo Edmond de Rothschild Expande-se para a Arábia Saudita, Alinhando-se com
+  a Visão Saudita 2030
 date: 2024-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Grupo Edmond de Rothschild, um dos principais atores das finanças globais, anunciou a abertura de um novo escritório na Arábia Saudita dentro de um ano. Este movimento estratégico visa apoiar a transformação económica do país, alinhando-se com o ambicioso plano Visão Saudita 2030, liderado pelo príncipe herdeiro Mohammed Bin Salman. Este plano tem como objetivo diversificar a economia saudita, reduzindo a dependência das receitas do petróleo e promovendo investimentos em vários setores, incluindo infraestruturas, tecnologia e energias renováveis.
 

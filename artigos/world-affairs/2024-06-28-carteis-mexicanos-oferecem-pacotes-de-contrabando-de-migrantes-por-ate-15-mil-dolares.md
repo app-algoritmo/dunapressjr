@@ -1,11 +1,13 @@
 ---
-title: "Cartéis Mexicanos Oferecem Pacotes de Contrabando de Migrantes por até 15 mil Dólares"
+title: Cartéis Mexicanos Oferecem Pacotes de Contrabando de Migrantes por até 15 mil
+  Dólares
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os cartéis mexicanos estão oferecendo pacotes de contrabando de migrantes, com preços que variam entre 6.000 e 15.000 dólares por pessoa, utilizando túneis subterrâneos para garantir uma travessia relativamente mais segura e confiável. Esses pacotes, conhecidos como "VIP", utilizam uma rede de bueiros que se estende por 300 milhas e incluem códigos especiais para identificar o cartel responsável, ajudando os migrantes a evitar assédio de autoridades ou grupos rivais.
 

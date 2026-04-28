@@ -1,11 +1,12 @@
 ---
-title: "Celulose Microfibrilada pode ser útil na cura de queimaduras"
+title: Celulose Microfibrilada pode ser útil na cura de queimaduras
 date: 2021-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## O estudo identificou a celulose microfibrilada como antioxidante, antibacteriano e sua possibilidade de uso na cura de queimaduras.
 

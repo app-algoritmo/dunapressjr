@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal prende duas pessoas por invasão da Fazenda Nacional em Mato Grosso"
+title: Polícia Federal prende duas pessoas por invasão da Fazenda Nacional em Mato
+  Grosso
 date: 2020-04-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT – A Polícia Federal prendeu em flagrante, nesta terça-feira (28/4), dois homens por crime de invasão da terra pública “Fazenda Nacional”, localizada a 120 km de Água Boa/MT. Os indivíduos foram detidos no interior da propriedade.
 

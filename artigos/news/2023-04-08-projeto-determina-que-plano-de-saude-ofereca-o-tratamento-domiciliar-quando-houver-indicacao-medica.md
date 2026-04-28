@@ -1,11 +1,13 @@
 ---
-title: "Projeto determina que plano de saúde ofereça o tratamento domiciliar quando houver indicação médica"
+title: Projeto determina que plano de saúde ofereça o tratamento domiciliar quando
+  houver indicação médica
 date: 2023-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 706/23 determina que, havendo expressa indicação médica, os planos de saúde deverão arcar com todo o tratamento domiciliar, e qualquer cláusula de exclusão será considerada abusiva. O texto em análise na Câmara dos Deputados insere dispositivo na Lei dos Planos de Saúde ([Lei 9.656/98](https://www2.camara.gov.br/legin/fed/lei/1998/lei-9656-3-junho-1998-353439-norma-pl.html)).
 

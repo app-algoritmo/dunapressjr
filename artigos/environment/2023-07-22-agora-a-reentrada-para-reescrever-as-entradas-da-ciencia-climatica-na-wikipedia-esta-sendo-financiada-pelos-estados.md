@@ -1,11 +1,13 @@
 ---
-title: "Agora, a 'reentrada' para reescrever as entradas da ciência climática na Wikipedia está sendo financiada pelos estados"
+title: Agora, a 'reentrada' para reescrever as entradas da ciência climática na Wikipedia
+  está sendo financiada pelos estados
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Vários governos da Escandinávia e do Reino Unido estão financiando uma grande revisão da ciência publicada na Wikipédia, que é cética em relação à história do clima 'fixo'. A operação está sendo liderada pelo grupo de ativistas ecológicos Stockholm Environment Institute (SEI) como parte de um projeto chamado [Melhorando a forma como a Wikipédia comunica o conhecimento climático](https://en.wikipedia.org/wiki/Wikipedia:Meetup/SDGs/Communication_of_environment_SDGs) .
 

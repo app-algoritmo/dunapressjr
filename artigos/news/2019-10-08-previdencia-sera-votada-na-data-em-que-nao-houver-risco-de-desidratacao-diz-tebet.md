@@ -1,11 +1,13 @@
 ---
-title: "Previdência será votada na data em que não houver risco de desidratação, diz Tebet"
+title: Previdência será votada na data em que não houver risco de desidratação, diz
+  Tebet
 date: 2019-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A reforma da Previdência será votada em segundo turno pelo
 plenário do Senado no dia em que houver a garantia de que não sofrerá nenhuma

@@ -1,11 +1,12 @@
 ---
-title: "Abertura de usinas solares e parceria Brasil-Noruega para energia fotovoltaica"
+title: Abertura de usinas solares e parceria Brasil-Noruega para energia fotovoltaica
 date: 2018-09-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em novembro de 2017, Noruega fechou acordo com o Brasil para pesquisa em energia solar. Em janeiro de 2018, a estatal norueguesa Statkraft declarou que energia solar será mais barata que o carvão. Outra empresa, a Scatec, especializada em energia solar, afirmou que tem interesse em construir quatro usinas solares no Ceará.
 

@@ -1,11 +1,12 @@
 ---
-title: "Luisa Stefani e Gabriela Dabrowski arrasam na estreia em Indian Wells"
+title: Luisa Stefani e Gabriela Dabrowski arrasam na estreia em Indian Wells
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 30 do mundo, e a canadense Gabriela Dabrowski, 6ª colocada, estrearam com vitória arrasadora neste domingo (12) no WTA 1000 de Indian Wells, na Califórnia. A dupla derrotou a parceria da cazaque Anna Danilina e da norte-americana Asia Muhammad, atual vice-campeã do torneio (ao lado da japonesa Ena Shibahara), por 2 sets a 0, com parciais de 6/1 6/3, após 1h01min.
 

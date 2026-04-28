@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal prende homem por posse de arquivos de abuso e exploração sexual infantil em São Paulo"
+title: Polícia Federal prende homem por posse de arquivos de abuso e exploração sexual
+  infantil em São Paulo
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Campinas/SP** – A Polícia Federal prendeu, na manhã desta terça-feira, 7, na cidade de Várzea Paulista, SP, um homem que mantinha arquivos diversos com cenas de violência sexual contra crianças. As investigações tiveram início após informações oriundas dos órgãos centrais da Polícia Federal e da polícia americana.
 

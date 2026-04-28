@@ -1,11 +1,12 @@
 ---
-title: "Vital Brazil: 5 fatos históricos que vão te surpreender"
+title: 'Vital Brazil: 5 fatos históricos que vão te surpreender'
 date: 2022-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O médico e sanitarista Vital Brazil (1865-1950) fez história no tratamento de acidentes com animais peçonhentos, sendo reconhecido mundialmente como uma referência na criação de soros antiofídicos. Mas a sua história de vida, recheada de momentos impressionantes, é tão preciosa quanto seus feitos científicos. Abaixo, selecionamos cinco fatos incríveis sobre o fundador do Instituto Butantan, que faria 157 anos em 2022.
 

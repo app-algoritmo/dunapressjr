@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani busca vaga nas oitavas de dupla feminina neste sábado no US Open"
+title: Luisa Stefani busca vaga nas oitavas de dupla feminina neste sábado no US Open
 date: 2023-09-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana foi superada na noite desta sexta-feira (01.09) nas duplas mistas ao lado de britânico Joe Salisbury.
 

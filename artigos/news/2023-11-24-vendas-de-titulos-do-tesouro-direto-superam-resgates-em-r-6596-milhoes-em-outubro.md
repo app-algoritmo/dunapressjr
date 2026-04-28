@@ -1,11 +1,13 @@
 ---
-title: "Vendas de títulos do tesouro direto superam resgates em R$ 659,6 milhões em outubro"
+title: Vendas de títulos do tesouro direto superam resgates em R$ 659,6 milhões em
+  outubro
 date: 2023-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do Tesouro Nacional revelam alta procura por títulos corrigidos pela Selic e estoque total atinge R$ 125 bilhões.
 

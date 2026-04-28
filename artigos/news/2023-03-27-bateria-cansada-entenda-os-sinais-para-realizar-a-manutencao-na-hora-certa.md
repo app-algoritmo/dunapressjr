@@ -1,11 +1,13 @@
 ---
-title: "Bateria 'cansada': entenda os sinais para realizar a manutenção na hora certa"
+title: 'Bateria ''cansada'': entenda os sinais para realizar a manutenção na hora
+  certa'
 date: 2023-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todo mundo sabe que o cuidado e a preservação das peças de um automóvel  fazem toda a diferença na vida útil do veículo e, também, na valorização no momento da venda. Um dos itens vitais para o funcionamento do motor e de outros componentes é a bateria. Por isso, é primordial que ela seja vistoriada regularmente e, também, junto com o check-up geral do carro. Por mais que a durabilidade seja longa, é necessário se atentar aos problemas que a falta de manutenção na peça pode causar, pois muitas vezes os sinais que algo está errado são silenciosos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Trump critica administração atual dos EUA após ataque do Irã a Israel"
+title: Trump critica administração atual dos EUA após ataque do Irã a Israel
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante um comício na Pensilvânia, o ex-presidente dos Estados Unidos, Donald Trump, atribuiu o recente ataque do Irã contra Israel à suposta "grande fraqueza" demonstrada pela atual administração americana. Trump sugeriu que as autoridades iranianas não teriam tomado tal medida sem precedentes se ele ainda estivesse na Casa Branca.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em 2023, apreensão de drogas pela PCSC bate recordes"
+title: Em 2023, apreensão de drogas pela PCSC bate recordes
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O delegado-geral da Polícia Civil, Ulisses Gabriel, divulgou nesta segunda-feira (23) a análise de dados da Diretoria de Inteligência da PCSC que apontou o crescimento de 3.091% no volume de ecstasy apreendido em SC. Até o momento foram apreendidos 391.264 comprimidos em operações da PCSC no estado. No ano passado foram 12.259 unidades da droga. Os dados são relativos ao período de 01/01/2023 a 20/10/2023, comparado a igual período do ano passado. A apreensão de maconha aumentou 103% e a de haxixe 1.411%”.
 

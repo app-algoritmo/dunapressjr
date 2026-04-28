@@ -1,11 +1,13 @@
 ---
-title: "<strong>Receita abre nesta quarta-feira (23) consulta ao lote residual de restituição do imposto de renda de novembro</strong>"
+title: <strong>Receita abre nesta quarta-feira (23) consulta ao lote residual de restituição
+  do imposto de renda de novembro</strong>
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serão contemplados 556.685 contribuintes, entre prioritários e não prioritários. O valor total do crédito é de R$ 1,2 bilhão.
 

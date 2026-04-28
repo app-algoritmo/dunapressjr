@@ -1,11 +1,12 @@
 ---
-title: "O Conto de Natal, de Rubem Braga"
+title: O Conto de Natal, de Rubem Braga
 date: 2020-01-06
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Esperamos que o querido leitor tenha se deliciado com a análise da semana passada sobre o conto* Missa do Galo* de Machado de Assis. Agora, gostariamos de apresentar um autor que nos tem fascinado nos últimos anos. 
 

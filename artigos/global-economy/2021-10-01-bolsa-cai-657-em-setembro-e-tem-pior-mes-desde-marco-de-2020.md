@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 6,57% em setembro e tem pior mês desde março de 2020"
+title: Bolsa cai 6,57% em setembro e tem pior mês desde março de 2020
 date: 2021-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar subiu 5,36% no mês e fechou a R$ 5,44.
 

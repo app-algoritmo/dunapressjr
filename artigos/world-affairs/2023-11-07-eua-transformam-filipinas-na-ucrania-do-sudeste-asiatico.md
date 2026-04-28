@@ -1,11 +1,12 @@
 ---
-title: "EUA transformam Filipinas na “Ucrânia” do Sudeste Asiático"
+title: EUA transformam Filipinas na “Ucrânia” do Sudeste Asiático
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 À medida que a China cresce, o mesmo acontece com o Sudeste Asiático. O Sudeste Asiático transformou-se lentamente a nível económico, infra-estrutural, turístico, industrial e político ao longo das últimas duas décadas, à medida que a influência chinesa cresce e inevitavelmente desloca a influência dos EUA na região.
 

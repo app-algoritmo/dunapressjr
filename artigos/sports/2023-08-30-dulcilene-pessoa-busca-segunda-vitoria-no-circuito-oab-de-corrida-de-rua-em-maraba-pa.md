@@ -1,11 +1,13 @@
 ---
-title: "Dulcilene Pessoa busca segunda vitória no Circuito OAB de Corrida de Rua, em Marabá (PA)"
+title: Dulcilene Pessoa busca segunda vitória no Circuito OAB de Corrida de Rua, em
+  Marabá (PA)
 date: 2023-08-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Prova será realizada neste domingo (3), aberta a advogados e, também, corredores em geral. Paraense compete na categoria Advocacia - 50 a 59 anos-, em que comemorou o primeiro lugar na etapa de abertura, em Ananindeua.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão critica decisão do STF e defende PEC antidrogas"
+title: Girão critica decisão do STF e defende PEC antidrogas
 date: 2023-10-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta quarta-feira (25), o senador Eduardo Girão (Novo-CE) criticou a decisão do Supremo Tribunal Federal (STF) que fixa regime aberto e substituição de pena em caso de tráfico privilegiado. A decisão unânime, em julgamento virtual, vale para todos os juízes e instâncias do país. 
 

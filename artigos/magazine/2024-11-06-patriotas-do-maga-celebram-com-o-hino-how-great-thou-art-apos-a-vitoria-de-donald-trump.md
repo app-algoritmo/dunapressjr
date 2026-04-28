@@ -1,11 +1,13 @@
 ---
-title: "Patriotas do MAGA Celebram com o Hino 'How Great Thou Art' Após a Vitória de Donald Trump"
+title: Patriotas do MAGA Celebram com o Hino 'How Great Thou Art' Após a Vitória de
+  Donald Trump
 date: 2024-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Em uma reviravolta histórica, Donald Trump foi declarado vencedor das eleições presidenciais, gerando uma onda de comemorações em todo o país. Para seus apoiadores, a vitória de Trump representa mais do que uma vitória política; simboliza um retorno aos valores cristãos, à liberdade e à confiança na providência divina. A multidão de patriotas do movimento MAGA (Make America Great Again) não hesitou em expressar sua fé e gratidão, entoando em coro o hino “How Great Thou Art”.
 

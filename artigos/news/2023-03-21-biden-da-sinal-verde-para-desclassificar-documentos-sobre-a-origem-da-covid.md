@@ -1,11 +1,12 @@
 ---
-title: "Biden dá sinal verde para desclassificar documentos sobre a origem da Covid"
+title: Biden dá sinal verde para desclassificar documentos sobre a origem da Covid
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, aprovou nesta segunda-feira (20) a lei de desclassificação dos documentos sobre a origem da COVID-19 que o Congresso norte-americano aprovou no início do [mês](https://panampost.com/oriana-rivas/2023/03/10/congreso-de-eeuu-vota-proyecto-de-ley-sobre-coronavirus/).
 

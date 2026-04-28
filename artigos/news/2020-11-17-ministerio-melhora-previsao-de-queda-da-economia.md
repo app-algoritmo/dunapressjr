@@ -1,11 +1,12 @@
 ---
-title: "Ministério melhora previsão de queda da economia"
+title: Ministério melhora previsão de queda da economia
 date: 2020-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão de recuo do PIB passou de 4,7% em setembro para 4,5%.
 

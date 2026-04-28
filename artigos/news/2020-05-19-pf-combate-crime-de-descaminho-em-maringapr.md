@@ -1,11 +1,12 @@
 ---
-title: "PF combate crime de descaminho em Maringá/PR"
+title: PF combate crime de descaminho em Maringá/PR
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 PF faz prisão de dois homens transportando mercadorias estrangeiras irregulares
 

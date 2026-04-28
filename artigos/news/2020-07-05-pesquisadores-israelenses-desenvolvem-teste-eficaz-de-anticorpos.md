@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadores israelenses desenvolvem teste eficaz de anticorpos"
+title: Pesquisadores israelenses desenvolvem teste eficaz de anticorpos
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma equipe da Universidade de Tel Aviv afirma ser capaz de identificar os três principais anticorpos contra o coronavírus com uma precisão de até 99%.
 

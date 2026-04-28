@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 4,76 e tem maior queda trimestral desde 2009"
+title: Dólar cai para R$ 4,76 e tem maior queda trimestral desde 2009
 date: 2022-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa recua, mas tem melhor trimestre desde 2020.
 

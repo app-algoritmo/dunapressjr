@@ -1,11 +1,12 @@
 ---
-title: "Desvende seis mitos sobre as cobras"
+title: Desvende seis mitos sobre as cobras
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Desde pequenos, ouvimos diversas histórias sobre serpentes e mal sabemos os benefícios que elas trazem ao mundo. O veneno da jararaca, por exemplo, foi usado em um componente como modelo para a fabricação de um remédio muito usado para controlar pressão alta, e há pesquisas que indicam que na peçonha da cascavel pode estar um possível medicamento contra o câncer. Sem contar o quanto as serpentes são imprescindíveis para a manutenção do equilíbrio ambiental no planeta. Então por que tanta gente diz que não gosta de cobras? Muitas histórias foram espalhadas como verdade e colocam esses animais como inimigos do ser humano ou agressivos. Mas isso não é verdade. Conheça a seguir alguns mitos e verdades sobre as serpentes e saiba mais sobre esse animal tão importante para o mundo e para o homem. 
 

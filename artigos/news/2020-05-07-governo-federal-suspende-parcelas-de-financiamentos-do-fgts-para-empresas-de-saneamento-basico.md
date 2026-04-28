@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal suspende parcelas de financiamentos do FGTS para empresas de saneamento básico"
+title: Governo Federal suspende parcelas de financiamentos do FGTS para empresas de
+  saneamento básico
 date: 2020-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A expectativa é gerar um alívio mensal no caixa de R$ 658,2 milhões para empresas e concessionárias do setor.
 O Governo Federal decidiu suspender, por até seis meses, o pagamento dos financiamentos contratados junto ao Fundo de Garantia do Tempo de Serviço (FGTS) para empresas públicas, mistas e privadas do setor de saneamento básico que foram atendidas pelo Programa Saneamento para Todos. A medida foi tomada para apoiar as empresas e concessionárias de saneamento do País na prestação do serviço e na manutenção dos empregos no setor.

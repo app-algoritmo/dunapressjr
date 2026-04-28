@@ -1,11 +1,12 @@
 ---
-title: "O fim do crescimento exponencial e o declínio na propagação do COVID-19"
+title: O fim do crescimento exponencial e o declínio na propagação do COVID-19
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A seguir, o texto de um estudo do professor Isaac Ben-Israel, publicado em 16 de abril de 2020, ele apresentava sua pesquisa em um canal de TV israelense em 13 de abril, dizendo que estatísticas simples mostravam que a propagação o coronavírus diminuiu para quase zero após 70 dias, independentemente da localização e das medidas governamentais tomadas para tentar controlá-lo.
 

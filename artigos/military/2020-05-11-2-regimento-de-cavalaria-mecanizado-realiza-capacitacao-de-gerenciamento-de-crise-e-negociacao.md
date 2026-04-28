@@ -1,11 +1,13 @@
 ---
-title: "2° Regimento de Cavalaria Mecanizado realiza Capacitação de Gerenciamento de Crise e Negociação"
+title: 2° Regimento de Cavalaria Mecanizado realiza Capacitação de Gerenciamento de
+  Crise e Negociação
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Borja (RS)** – Entre os dias 4 e 8 de maio, o 2º Regimento de Cavalaria Mecanizado (2° RC Mec) realizou a Capacitação de Gerenciamento de Crise e Negociação para oficiais e sargentos da 1ª Brigada de Cavalaria Mecanizada (1ª Bda C Mec) e integrantes dos Órgãos de Segurança Pública (OSP) do município de São Borja.
 

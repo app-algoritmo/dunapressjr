@@ -1,11 +1,12 @@
 ---
-title: "Começam os testes em humanos para o tratamento com coronavírus"
+title: Começam os testes em humanos para o tratamento com coronavírus
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *O Remdesivir, antiviral, desenvolvido para o Ebola, está sendo testado em um paciente infectado com coronavírus no navio "Diamond Princess" e trazido para os EUA.*
 

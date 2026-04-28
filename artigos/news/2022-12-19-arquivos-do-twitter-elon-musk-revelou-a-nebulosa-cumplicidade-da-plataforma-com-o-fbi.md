@@ -1,12 +1,14 @@
 ---
-title: "Arquivos do Twitter: Elon Musk revelou a nebulosa cumplicidade da plataforma com o FBI"
+title: 'Arquivos do Twitter: Elon Musk revelou a nebulosa cumplicidade da plataforma
+  com o FBI'
 date: 2022-12-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## Elon Musk está revelando como o antigo conselho censurou usuários críticos ao  Partido Democrata (esquerda americana).
 

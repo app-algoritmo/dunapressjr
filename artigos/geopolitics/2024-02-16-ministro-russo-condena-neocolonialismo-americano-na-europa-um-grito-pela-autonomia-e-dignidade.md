@@ -1,11 +1,13 @@
 ---
-title: "Ministro Russo Condena Neocolonialismo Americano na Europa: Um Grito pela Autonomia e Dignidade"
+title: 'Ministro Russo Condena Neocolonialismo Americano na Europa: Um Grito pela
+  Autonomia e Dignidade'
 date: 2024-02-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro dos Negócios Estrangeiros russo, Sergey Lavrov, lançou críticas contundentes contra o que descreve como uma tentativa aberta dos Estados Unidos de extrair recursos dos países europeus. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Petro critica inelegibilidade de Machado na Venezuela"
+title: Petro critica inelegibilidade de Machado na Venezuela
 date: 2024-04-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante a investidura da conselheira de Estado Gloria María Gómez Montoya, o presidente Gustavo Petro enfatizou a necessidade crucial de preservar o direito a eleger, ser eleito e participar em igualdade de condições com o Estado, destacando que este direito é fundamental para toda a sociedade.
 

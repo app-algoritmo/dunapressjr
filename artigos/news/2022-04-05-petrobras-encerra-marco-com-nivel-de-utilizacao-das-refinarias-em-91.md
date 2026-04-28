@@ -1,11 +1,12 @@
 ---
-title: "Petrobras encerra março com nível de utilização das refinarias em 91%"
+title: Petrobras encerra março com nível de utilização das refinarias em 91%
 date: 2022-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Média de utilização foi de 89%, considerando todo o mês.
 

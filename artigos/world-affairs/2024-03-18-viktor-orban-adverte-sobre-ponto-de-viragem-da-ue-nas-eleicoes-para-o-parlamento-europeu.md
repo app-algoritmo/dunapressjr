@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán adverte sobre ponto de viragem da UE nas eleições para o Parlamento Europeu"
+title: Viktor Orbán adverte sobre ponto de viragem da UE nas eleições para o Parlamento
+  Europeu
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro da Hungria, Viktor Orbán, fez um discurso impactante no Dia Nacional da Hungria, delineando suas políticas-chave e alertando para um ponto crucial na trajetória da União Europeia. Orbán destacou a importância das eleições de junho para o Parlamento Europeu, descrevendo-as como uma oportunidade crucial para a Hungria preservar sua liberdade e soberania dentro da UE.
 

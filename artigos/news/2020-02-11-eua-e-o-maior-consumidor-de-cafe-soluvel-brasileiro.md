@@ -1,11 +1,12 @@
 ---
-title: "EUA é o maior consumidor de café solúvel brasileiro"
+title: EUA é o maior consumidor de café solúvel brasileiro
 date: 2020-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Em 2019, volume de exportações atingiu novo recorde para o setor cafeeiro do Brasil, com aumento de 7% em comparação com 2018*
 

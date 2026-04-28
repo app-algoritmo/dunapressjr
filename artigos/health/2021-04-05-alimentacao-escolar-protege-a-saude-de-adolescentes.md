@@ -1,11 +1,12 @@
 ---
-title: "Alimentação escolar protege a saúde de adolescentes"
+title: Alimentação escolar protege a saúde de adolescentes
 date: 2021-04-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estudo realizado pela nutricionista e bolsista da CAPES, Suelyne Rodrigues de Morais, em sua dissertação de mestrado, na Universidade Estadual do Ceará (Uece) avaliou a relação entre o consumo de alimentos fora de casa e o desenvolvimento de doenças cardiovasculares em adolescentes brasileiros.
 

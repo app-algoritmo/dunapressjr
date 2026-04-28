@@ -1,11 +1,13 @@
 ---
-title: "Proposta cria atividade nas escolas sobre a aplicação do conhecimento nas diferentes profissões"
+title: Proposta cria atividade nas escolas sobre a aplicação do conhecimento nas diferentes
+  profissões
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2746/22 cria um programa que visa levar profissionais de áreas diversas às escolas públicas de ensino básico para demonstrar aos estudantes as aplicações dos conhecimentos da Base Nacional Comum Curricular (BNCC).
 

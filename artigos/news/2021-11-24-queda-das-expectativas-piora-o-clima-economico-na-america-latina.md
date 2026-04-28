@@ -1,11 +1,12 @@
 ---
-title: "Queda das expectativas piora o clima econômico na América Latina"
+title: Queda das expectativas piora o clima econômico na América Latina
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Análise é do Indicador de Clima Econômico da América Latina.
 

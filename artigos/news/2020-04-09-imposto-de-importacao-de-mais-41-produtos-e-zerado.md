@@ -1,11 +1,12 @@
 ---
-title: "Imposto de Importação de mais 41 produtos é zerado"
+title: Imposto de Importação de mais 41 produtos é zerado
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Resolução eleva para 177 os itens com tarifa zerada para aumentar a oferta de bens, máquinas e insumos
 

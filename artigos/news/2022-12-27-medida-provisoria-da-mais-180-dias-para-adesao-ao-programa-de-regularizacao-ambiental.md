@@ -1,11 +1,13 @@
 ---
-title: "Medida provisória dá mais 180 dias para adesão ao Programa de Regularização Ambiental"
+title: Medida provisória dá mais 180 dias para adesão ao Programa de Regularização
+  Ambiental
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma medida provisória ([MP 1.150/2022](http://www25.senado.leg.br/web/atividade/materias/-/materia/155632)) publicada nesta segunda-feira (26) amplia o prazo para que proprietários rurais peçam adesão ao Programa de Regularização Ambiental (PRA). Mantido por União, estados e Distrito Federal, o PRA é um conjunto de ações para promover a adequação ambiental das propriedades.
 

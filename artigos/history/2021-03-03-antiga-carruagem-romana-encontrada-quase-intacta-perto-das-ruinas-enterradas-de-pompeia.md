@@ -1,11 +1,13 @@
 ---
-title: "Antiga carruagem romana encontrada 'quase intacta' perto das ruínas enterradas de Pompéia"
+title: Antiga carruagem romana encontrada 'quase intacta' perto das ruínas enterradas
+  de Pompéia
 date: 2021-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Uma carruagem romana ornamentada foi descoberta "quase intacta" perto da cidade italiana de Pompéia, o parque arqueológico anunciou no sábado, chamando-a de uma descoberta "sem paralelo" no país.
 

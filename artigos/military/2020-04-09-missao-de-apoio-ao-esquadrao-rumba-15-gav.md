@@ -1,11 +1,12 @@
 ---
-title: "Missão de apoio ao Esquadrão Rumba (1º/5º GAV)"
+title: Missão de apoio ao Esquadrão Rumba (1º/5º GAV)
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – Entre os dias 1º a 17 de março, nas cidades de Natal e Maxaranguape (RN), o Batalhão de Dobragem, Manutenção de Pára-quedas e Suprimento pelo Ar realizou um exercício de apoio ao adestramento dos instrutores do Esquadrão Rumba (1º/5º GAV) em lançamento de tropa semiautomático e livre.
 

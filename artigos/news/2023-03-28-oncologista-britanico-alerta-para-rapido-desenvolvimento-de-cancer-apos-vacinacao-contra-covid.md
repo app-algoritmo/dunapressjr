@@ -1,11 +1,13 @@
 ---
-title: "Oncologista britânico alerta para rápido desenvolvimento de câncer após vacinação contra Covid"
+title: Oncologista britânico alerta para rápido desenvolvimento de câncer após vacinação
+  contra Covid
 date: 2023-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## "Tenho experiência suficiente para saber que isso não é coincidência".
 

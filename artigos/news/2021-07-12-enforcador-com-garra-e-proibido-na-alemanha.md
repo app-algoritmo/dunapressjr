@@ -1,11 +1,12 @@
 ---
-title: "Enforcador com garra é proibido na Alemanha"
+title: Enforcador com garra é proibido na Alemanha
 date: 2021-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No dia 25 de junho de 2021, o ENFORCADOR com GARRAS, foi proibido na Alemanha, assim como também é proibido em outros países Europeus.
 

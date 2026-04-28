@@ -1,11 +1,12 @@
 ---
-title: "Se as tendências atuais se mantiverem, a guerra civil na Europa será inevitável"
+title: Se as tendências atuais se mantiverem, a guerra civil na Europa será inevitável
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Milhares de pessoas saíram às ruas em muitas das principais cidades europeias nos últimos dias para mostrar o seu apoio ao ataque do Hamas a Israel.
 

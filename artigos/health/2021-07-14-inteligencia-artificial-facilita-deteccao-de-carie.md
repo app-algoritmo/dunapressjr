@@ -1,11 +1,12 @@
 ---
-title: "Inteligência artificial facilita detecção de cárie"
+title: Inteligência artificial facilita detecção de cárie
 date: 2021-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Davi Clementino Carneiro, dentista e mestre em Ciências Odontológicas pela Universidade Federal da Paraíba (UFPB), criou um método de detecção de cárie dentária por fotoluminescência. A técnica usa processamento digital de imagem com inteligência artificial. Realizado com o apoio de bolsa do Programa Demanda Social (DS) da CAPES, o protótipo já se iguala a instrumentos comercializados no mercado mundial.
 

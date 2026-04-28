@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que permite trabalho de jovem junto a pais"
+title: Comissão aprova projeto que permite trabalho de jovem junto a pais
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A proposta ainda precisa ser analisada por outras comissões na Câmara dos Deputados.
 

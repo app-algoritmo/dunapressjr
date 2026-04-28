@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal reconhece estado de calamidade pública e de situação de emergência em seis estados"
+title: Governo Federal reconhece estado de calamidade pública e de situação de emergência
+  em seis estados
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional de Proteção e Defesa Civil (Sedec), do Ministério do Desenvolvimento Regional (MDR), já reconheceu o estado de calamidade pública e de situação de emergência em 18 municípios e seis estados brasileiros, por conta da pandemia de coronavírus.
 

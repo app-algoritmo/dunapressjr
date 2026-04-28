@@ -1,11 +1,13 @@
 ---
-title: "Governo do Brasil conclui entrega de 170 milhões de livros para as escolas públicas"
+title: Governo do Brasil conclui entrega de 170 milhões de livros para as escolas
+  públicas
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Foi concluída a entrega de 170 milhões de livros didáticos para as escolas públicas de todo o Brasil. A distribuição do material, que teve início no ano passado, é feita por meio de uma parceria com o Fundo Nacional de Desenvolvimento da Educação (FNDE), do Ministério da Educação.
 

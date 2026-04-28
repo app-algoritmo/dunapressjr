@@ -1,11 +1,12 @@
 ---
-title: "Lise Meitner, esquecida judia e física nuclear a quem foi negado o Prêmio Nobel"
+title: Lise Meitner, esquecida judia e física nuclear a quem foi negado o Prêmio Nobel
 date: 2021-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Depois de fugir da Alemanha nazista, Lise Meitner usou cartas para orientar seus colegas em Berlim para descobrir a fissão nuclear, mas ela não foi creditada quando as descobertas foram publicadas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar termina esta quarta-feira em queda e bolsa registra alta"
+title: Dólar termina esta quarta-feira em queda e bolsa registra alta
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda norte-americana fechou o dia em queda de 0,63%, a R$ 5,25. 
 

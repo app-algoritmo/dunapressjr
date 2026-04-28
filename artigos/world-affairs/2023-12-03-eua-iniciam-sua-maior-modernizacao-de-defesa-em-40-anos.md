@@ -1,11 +1,12 @@
 ---
-title: "EUA iniciam sua maior modernização de defesa em 40 anos"
+title: EUA iniciam sua maior modernização de defesa em 40 anos
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Isto inclui a produção de mísseis no Arizona; produção de veículos em Wisconsin e Indiana; e produção de projéteis de artilharia na Pensilvânia, Ohio e Texas, disse o secretário de Defesa dos EUA, Lloyd Austin
 

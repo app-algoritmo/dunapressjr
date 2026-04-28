@@ -1,11 +1,12 @@
 ---
-title: "BNDES tem lucro de R$ 12,5 bilhões em 2022"
+title: BNDES tem lucro de R$ 12,5 bilhões em 2022
 date: 2023-03-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mercadante defende aumento dos empréstimos para os próximos anos.
 

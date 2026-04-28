@@ -1,11 +1,12 @@
 ---
-title: "A Retórica na História: Cícero Versus Catilina"
+title: 'A Retórica na História: Cícero Versus Catilina'
 date: 2020-05-06
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 Há aqueles que estudam a arte da retórica, certamente provaram da fonte de Cícero, um dos filósofos e políticos mais prestigiados de Roma. E ao se debruçarem sobre ele, não deixaram, certamente, de estudar seu memorável confronto contra Catilina, seu principal rival em vida.
 

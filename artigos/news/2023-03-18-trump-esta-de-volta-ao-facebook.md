@@ -1,11 +1,12 @@
 ---
-title: "Trump está de volta ao Facebook"
+title: Trump está de volta ao Facebook
 date: 2023-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## "Me desculpe por ter deixado você esperando. Negócio complicado”, diz Trump no vídeo do Facebook.
 

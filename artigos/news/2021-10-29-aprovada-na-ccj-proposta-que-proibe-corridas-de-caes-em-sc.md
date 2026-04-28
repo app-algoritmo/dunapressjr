@@ -1,11 +1,12 @@
 ---
-title: "Aprovada na CCJ proposta que proíbe corridas de cães em SC"
+title: Aprovada na CCJ proposta que proíbe corridas de cães em SC
 date: 2021-10-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Durante a Comissão de Constituição e Justiça desta terça-feira (26), na Assembleia Legislativa, foi aprovado projeto de lei que altera o Código Estadual de Proteção aos Animais, para proibir a realização de competições de corridas de cães e abandono de animais domésticos. A iniciativa é de autoria do deputado Marcius Machado (PL).
 

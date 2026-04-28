@@ -1,11 +1,12 @@
 ---
-title: "Avanços nos 200 dias de governo Bolsonaro"
+title: Avanços nos 200 dias de governo Bolsonaro
 date: 2019-07-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O governo do presidente Jair Bolsonaro completa 200 dias de implementação de ações que representam não apenas grandes conquistas para a sociedade, mas também a concretização de antigos anseios do povo brasileiro. E o mais importante: essas realizações e a prestação de contas, que o governo permanentemente promove, evidenciam que as promessas de governo continuam sendo cumpridas desde o primeiro dia de gestão.
 

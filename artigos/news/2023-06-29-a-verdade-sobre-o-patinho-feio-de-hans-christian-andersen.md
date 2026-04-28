@@ -1,11 +1,12 @@
 ---
-title: "A verdade sobre o patinho feio de Hans Christian Andersen"
+title: A verdade sobre o patinho feio de Hans Christian Andersen
 date: 2023-06-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Andersen nasceu em Odense, Dinamarca, em 2 de abril de 1805. Filho de sapateiro e lavadeira, viveu sua infância cercado de extrema pobreza, de tal forma que às vezes era obrigado a mendigar e não tinha outro abrigo senão uma ponte. . No entanto, o poeta e escritor acreditava que ele não era filho de seu pai, mas sim filho legítimo do príncipe Christian Frederik, que mais tarde seria coroado Christian VIII da Dinamarca.
 Andersen era um menino feio e desengonçado com um nariz enorme e pés grandes, praticamente não tinha amigos enquanto crescia e sofreu bullying por anos. Ainda na juventude foi rejeitado como cantor de ópera e artista de palco, sendo ridicularizado por seus pares. No entanto, ele finalmente consegue ter sucesso como escritor e se eleva muito acima daqueles que riram dele.

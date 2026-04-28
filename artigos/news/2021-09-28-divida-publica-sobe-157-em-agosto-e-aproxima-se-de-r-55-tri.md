@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública sobe 1,57% em agosto e aproxima-se de R$ 5,5 tri"
+title: Dívida Pública sobe 1,57% em agosto e aproxima-se de R$ 5,5 tri
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta da Selic atraiu interesse em títulos vinculados a juros básicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Em SP, ocupação sobe 1,1% e desemprego cai no 3º trimestre"
+title: Em SP, ocupação sobe 1,1% e desemprego cai no 3º trimestre
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento da Fundação Seade mostra que 24,2 milhões de paulistas estavam trabalhando regularmente entre julho em setembro deste ano.
 

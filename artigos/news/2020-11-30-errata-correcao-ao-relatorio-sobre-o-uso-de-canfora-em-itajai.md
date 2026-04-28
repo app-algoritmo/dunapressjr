@@ -1,11 +1,12 @@
 ---
-title: "ERRATA: Correção ao relatório sobre o uso de Cânfora em Itajaí"
+title: 'ERRATA: Correção ao relatório sobre o uso de Cânfora em Itajaí'
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Errata ao Relatório do questionário de acompanhamento farmacoterapêutico aplicado na população de Itajaí referente a COVID-19 – Camphoraofficinallis 1M como medicamento profilático para COVID -19.
 

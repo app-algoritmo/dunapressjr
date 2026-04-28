@@ -1,11 +1,12 @@
 ---
-title: "Lenços desinfetantes são responsáveis por problemas de saúde"
+title: Lenços desinfetantes são responsáveis por problemas de saúde
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Lenços desinfetantes estão associados a problemas de saúde**
 

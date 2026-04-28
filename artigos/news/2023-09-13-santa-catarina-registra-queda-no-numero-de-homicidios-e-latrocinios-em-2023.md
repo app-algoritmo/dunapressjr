@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina registra queda no número de homicídios e latrocínios em 2023"
+title: Santa Catarina registra queda no número de homicídios e latrocínios em 2023
 date: 2023-09-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Polícia Civil de Santa Catarina divulgou nesta segunda-feira, 11, os dados de mortes violentas relativas ao período de 1º de janeiro a 11 de setembro deste ano. Os destaques ficam por conta da queda no número de homicídios, com -3,52% e de latrocínios, que ficaram em – 76,47%.
 

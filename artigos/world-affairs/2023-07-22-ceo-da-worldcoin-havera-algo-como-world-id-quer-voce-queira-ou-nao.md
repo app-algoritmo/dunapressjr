@@ -1,11 +1,12 @@
 ---
-title: "CEO da Worldcoin: 'Haverá algo como World ID... quer você queira ou não'"
+title: 'CEO da Worldcoin: ''Haverá algo como World ID... quer você queira ou não'''
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Atualmente, trata-se de quem voluntariamente dá seus dados biométricos e recebe “pequenas quantias” em Worldcoin em troca do registro no sistema World ID.
 

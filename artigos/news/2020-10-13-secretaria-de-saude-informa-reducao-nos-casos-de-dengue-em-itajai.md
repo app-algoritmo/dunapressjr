@@ -1,11 +1,12 @@
 ---
-title: "Secretaria de Saúde informa redução nos casos de dengue em Itajaí"
+title: Secretaria de Saúde informa redução nos casos de dengue em Itajaí
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Saúde de Itajaí informa redução no número dos casos de dengue do município. O último registro ocorreu no dia 1º de agosto. Ao todo, este ano já foram contabilizados 224 casos, sendo que 188 são autóctones (com transmissão dentro da cidade).
 

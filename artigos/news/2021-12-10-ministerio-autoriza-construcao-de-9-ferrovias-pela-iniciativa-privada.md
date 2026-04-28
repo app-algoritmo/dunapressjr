@@ -1,11 +1,12 @@
 ---
-title: "Ministério autoriza construção de 9 ferrovias pela iniciativa privada"
+title: Ministério autoriza construção de 9 ferrovias pela iniciativa privada
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A medida faz parte do Programa Pro Trilhos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no menor valor em quase um mês com eleições nos EUA"
+title: Dólar fecha no menor valor em quase um mês com eleições nos EUA
 date: 2020-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## A divisa está no menor valor de fechamento desde 9 de outubro.
 

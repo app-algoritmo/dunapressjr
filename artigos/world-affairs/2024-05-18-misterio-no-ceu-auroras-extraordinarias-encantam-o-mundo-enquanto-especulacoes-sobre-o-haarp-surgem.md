@@ -1,11 +1,13 @@
 ---
-title: "Mistério no Céu: Auroras Extraordinárias Encantam o Mundo Enquanto Especulações Sobre o HAARP Surgem"
+title: 'Mistério no Céu: Auroras Extraordinárias Encantam o Mundo Enquanto Especulações
+  Sobre o HAARP Surgem'
 date: 2024-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/RWMaloneMD/status/1789442346259517473?t=y4ps48dCzCaSsVX6ugOgSQ&s=19
 

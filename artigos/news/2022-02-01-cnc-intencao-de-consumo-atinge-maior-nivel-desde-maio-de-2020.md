@@ -1,11 +1,12 @@
 ---
-title: "CNC: intenção de consumo atinge maior nível desde maio de 2020"
+title: 'CNC: intenção de consumo atinge maior nível desde maio de 2020'
 date: 2022-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta foi de 1,1% em janeiro em relação ao mês anterior.
 

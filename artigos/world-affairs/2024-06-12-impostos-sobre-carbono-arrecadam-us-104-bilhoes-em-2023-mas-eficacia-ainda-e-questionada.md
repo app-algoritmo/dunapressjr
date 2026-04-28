@@ -1,11 +1,13 @@
 ---
-title: "Impostos sobre Carbono Arrecadam US$ 104 Bilhões em 2023, mas Eficácia Ainda É Questionada"
+title: Impostos sobre Carbono Arrecadam US$ 104 Bilhões em 2023, mas Eficácia Ainda
+  É Questionada
 date: 2024-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Fórum Econômico Mundial (FEM) anunciou que em 2023, US$ 104 bilhões foram arrecadados globalmente através de impostos sobre o carbono para financiar programas ambientais. Esse valor representa um novo recorde e mostra uma expansão significativa desses impostos, que agora cobrem 24% das emissões globais, em comparação com apenas 7% em 2013.
 

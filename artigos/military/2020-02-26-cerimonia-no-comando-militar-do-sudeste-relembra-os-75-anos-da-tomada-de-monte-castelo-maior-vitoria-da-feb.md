@@ -1,11 +1,13 @@
 ---
-title: "Cerimônia no Comando Militar do Sudeste relembra os 75 anos da Tomada de Monte Castelo, maior vitória da FEB"
+title: Cerimônia no Comando Militar do Sudeste relembra os 75 anos da Tomada de Monte
+  Castelo, maior vitória da FEB
 date: 2020-02-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **São Paulo (SP) **– O Comando Militar do Sudeste (CMSE) rememorou a Tomada de Monte
 Castelo na Segunda Guerra Mundial, em cerimônia realizada no dia 21 de

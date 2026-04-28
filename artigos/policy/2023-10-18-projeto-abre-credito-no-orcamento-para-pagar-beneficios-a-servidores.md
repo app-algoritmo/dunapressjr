@@ -1,11 +1,12 @@
 ---
-title: "Projeto abre crédito no Orçamento para pagar benefícios a servidores"
+title: Projeto abre crédito no Orçamento para pagar benefícios a servidores
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Crédito especial solicitado pelo governo totaliza R$ 387 mil.
 

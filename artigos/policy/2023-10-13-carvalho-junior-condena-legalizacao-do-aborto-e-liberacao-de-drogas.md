@@ -1,11 +1,12 @@
 ---
-title: "Carvalho Junior condena legalização do aborto e liberação de drogas"
+title: Carvalho Junior condena legalização do aborto e liberação de drogas
 date: 2023-10-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Mauro Carvalho Junior (União-MT) declarou ser contra a legalização do aborto e a liberação do porte de drogas para consumo pessoal. Em pronunciamento nesta terça-feira (10), o parlamentar disse não compactuar com o debate sobre o tema, pois o Brasil não tem “maturidade” para lidar com o assunto.
 

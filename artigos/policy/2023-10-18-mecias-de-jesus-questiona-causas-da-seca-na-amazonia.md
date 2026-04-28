@@ -1,11 +1,12 @@
 ---
-title: "Mecias de Jesus questiona causas da seca na Amazônia"
+title: Mecias de Jesus questiona causas da seca na Amazônia
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Mecias de Jesus (Republicanos-RR) destacou que a Amazônia brasileira está enfrentando a mais grave seca registrada em sua história. Em pronunciamento nesta segunda-feira (16), o parlamentar afirmou que a seca sempre atinge a região entre os meses de maio e setembro, deixando todos em estado de alerta.
 

@@ -1,13 +1,14 @@
 ---
-title: "Um olhar sobre o mundo,  a volta da monarquia brasileira"
+title: Um olhar sobre o mundo,  a volta da monarquia brasileira
 date: 2019-12-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 Desde 15 de novembro de 1889, reis, rainhas, príncipes e princesas tornaram-se um capítulo da História do Brasil, personagens de um tempo que passou. Mas será mesmo? Se depender de Dom Bertrand de Orleans e Bragança, não. Segundo na linha sucessória, caso a Monarquia voltasse a vigorar hoje no país.
 

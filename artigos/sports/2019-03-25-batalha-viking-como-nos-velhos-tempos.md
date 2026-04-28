@@ -1,11 +1,12 @@
 ---
-title: "Batalha viking como nos velhos tempos"
+title: Batalha viking como nos velhos tempos
 date: 2019-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 Só que dessa vez é no Futebol! Reino da Noruega X Reino da Suécia. 
 

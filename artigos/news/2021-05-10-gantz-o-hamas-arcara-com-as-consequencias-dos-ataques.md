@@ -1,11 +1,12 @@
 ---
-title: "Gantz: O Hamas arcará com as consequências dos ataques"
+title: 'Gantz: O Hamas arcará com as consequências dos ataques'
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O Ministro da Defesa promete uma resposta enérgica depois que terroristas de Gaza lançam dezenas de foguetes, incluindo sete em Jerusalém.
 

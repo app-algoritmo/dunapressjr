@@ -1,11 +1,12 @@
 ---
-title: "<strong>Veja 5 tecnologias que vão mudar nossas vidas</strong>"
+title: <strong>Veja 5 tecnologias que vão mudar nossas vidas</strong>
 date: 2022-09-30
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - News
+- News
 ---
+
 
 Nesse período de início e fim de ano, é comum a gente pensar em tudo que aconteceu no ciclo anterior, em quanta coisa mudou na nossa vida desde que comemoramos um *Reveillón*… Mas, se a gente resolver voltar mais 10 anos no tempo, então? Aí a diferença será impressionante! 
 

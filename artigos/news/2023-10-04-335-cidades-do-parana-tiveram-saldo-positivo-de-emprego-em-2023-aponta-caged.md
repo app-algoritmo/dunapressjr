@@ -1,11 +1,12 @@
 ---
-title: "335 cidades do Paraná tiveram saldo positivo de emprego em 2023, aponta Caged"
+title: 335 cidades do Paraná tiveram saldo positivo de emprego em 2023, aponta Caged
 date: 2023-10-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Curitiba foi a cidade com maior saldo positivo de vagas de emprego entre janeiro e agosto. Foram 14.817 novos trabalhos formais. Mais de 190 cidades geraram mais de 50 empregos, de acordo com a Secretaria do Trabalho, Qualificação e Renda.
 

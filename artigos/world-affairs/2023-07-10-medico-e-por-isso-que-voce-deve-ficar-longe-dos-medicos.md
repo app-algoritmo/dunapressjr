@@ -1,11 +1,12 @@
 ---
-title: "Médico: É por isso que você deve ficar longe dos médicos"
+title: 'Médico: É por isso que você deve ficar longe dos médicos'
 date: 2023-07-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Em um vídeo publicado nas redes sociais, o médico Suneel Dhand observa que o sistema de saúde é caótico em muitos países. 
 

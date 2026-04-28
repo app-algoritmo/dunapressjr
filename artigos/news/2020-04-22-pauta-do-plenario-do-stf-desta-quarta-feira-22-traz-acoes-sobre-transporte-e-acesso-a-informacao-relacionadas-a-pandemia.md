@@ -1,11 +1,13 @@
 ---
-title: "Pauta do Plenário do STF desta quarta-feira (22) traz ações sobre transporte e acesso à informação relacionadas à pandemia"
+title: Pauta do Plenário do STF desta quarta-feira (22) traz ações sobre transporte
+  e acesso à informação relacionadas à pandemia
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário do Supremo Tribunal Federal (STF) prossegue nesta quarta-feira (22) com o julgamento de diversas ações relacionadas ao novo coronavírus. A sessão será realizada por meio de videoconferência, a partir das 14h, com transmissão em tempo real pela [TV Justiça](http://tvjustica.jus.br/), pela [Rádio Justiça](http://radiojustica.jus.br/) e pelo [canal do STF](http://youtube.com/stf) no YouTube.
 

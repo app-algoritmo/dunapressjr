@@ -1,11 +1,13 @@
 ---
-title: "Chanceleres do Irã e da Argélia conferem sobre os últimos desenvolvimentos na região"
+title: Chanceleres do Irã e da Argélia conferem sobre os últimos desenvolvimentos
+  na região
 date: 2024-01-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministro dos Negócios Estrangeiros do Irão, Hossein Amirabdollahian, e o seu homólogo argelino, Ahmed Attaf, discutiram os últimos desenvolvimentos na região.
 

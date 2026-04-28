@@ -1,11 +1,13 @@
 ---
-title: "Festival Vamos Passear reúne mais de 4 mil pessoas no domingo (20) de sol em Salvador (BA)"
+title: Festival Vamos Passear reúne mais de 4 mil pessoas no domingo (20) de sol em
+  Salvador (BA)
 date: 2023-08-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Evento foi realizado pela terceira vez na capital baiana, na Praça de Piatã, na sexta e penúltima etapa deste ano, e a cidade novamente abraçou o festival. Edição 2023 termina no início de setembro, no Rio de Janeiro.
 

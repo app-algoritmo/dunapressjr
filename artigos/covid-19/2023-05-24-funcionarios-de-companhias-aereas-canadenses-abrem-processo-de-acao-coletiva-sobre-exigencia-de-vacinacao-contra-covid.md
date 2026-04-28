@@ -1,11 +1,13 @@
 ---
-title: "Funcionários de companhias aéreas canadenses abrem processo de ação coletiva sobre exigência de vacinação contra Covid"
+title: Funcionários de companhias aéreas canadenses abrem processo de ação coletiva
+  sobre exigência de vacinação contra Covid
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A Free to Fly Canada, uma organização que faz campanha contra a vacinação obrigatória para pilotos e outros trabalhadores da aviação, entrou com uma ação coletiva contra o governo canadense e a Secretaria de Transportes do Canadá em um tribunal federal na semana passada.
 

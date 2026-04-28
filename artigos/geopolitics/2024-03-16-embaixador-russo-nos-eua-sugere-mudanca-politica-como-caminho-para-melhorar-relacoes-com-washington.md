@@ -1,11 +1,13 @@
 ---
-title: "Embaixador Russo nos EUA Sugere Mudança Política como Caminho para Melhorar Relações com Washington"
+title: Embaixador Russo nos EUA Sugere Mudança Política como Caminho para Melhorar
+  Relações com Washington
 date: 2024-03-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O embaixador russo nos Estados Unidos, Anatoly Antonov, ofereceu uma perspectiva otimista sobre o futuro das relações entre Moscovo e Washington. Em uma entrevista ao Channel One, Antonov destacou que uma mudança no curso político dos EUA, especialmente em relação à situação na Ucrânia, poderia abrir caminho para o aprimoramento dos laços entre os dois países.
 

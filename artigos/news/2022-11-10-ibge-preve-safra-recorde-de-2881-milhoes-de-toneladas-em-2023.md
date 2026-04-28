@@ -1,11 +1,12 @@
 ---
-title: "IBGE prevê safra recorde de 288,1 milhões de toneladas em 2023"
+title: IBGE prevê safra recorde de 288,1 milhões de toneladas em 2023
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Estima-se queda na produção de arroz, milho e trigo.
 

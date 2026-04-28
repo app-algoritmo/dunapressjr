@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Petrobras diz que pode reduzir preço da gasolina"
+title: Presidente da Petrobras diz que pode reduzir preço da gasolina
 date: 2023-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresa investirá na infraestrutura de transporte.
 

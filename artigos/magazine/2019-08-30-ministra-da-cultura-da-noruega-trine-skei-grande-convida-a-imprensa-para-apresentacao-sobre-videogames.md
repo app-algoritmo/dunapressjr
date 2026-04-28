@@ -1,11 +1,13 @@
 ---
-title: "Ministra da Cultura da Noruega, Trine Skei Grande, convida a imprensa para apresentação sobre videogames"
+title: Ministra da Cultura da Noruega, Trine Skei Grande, convida a imprensa para
+  apresentação sobre videogames
 date: 2019-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Ministra Trine Skei Grande apresentará a nova estratégia do governo sobre o uso de videogames, por meio da qual os jogos de computador (games) serão considerados como veículo de expressão cultural independente, forma de arte, de indústria e de atividade de lazer.
 

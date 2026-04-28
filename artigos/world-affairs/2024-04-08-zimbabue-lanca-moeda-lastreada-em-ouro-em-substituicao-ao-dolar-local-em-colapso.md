@@ -1,11 +1,12 @@
 ---
-title: "Zimbábue Lança Moeda Lastreada em Ouro em Substituição ao Dólar Local em Colapso"
+title: Zimbábue Lança Moeda Lastreada em Ouro em Substituição ao Dólar Local em Colapso
 date: 2024-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Zimbábue está tomando medidas drásticas para conter a crise financeira, substituindo sua moeda local em colapso por uma nova, lastreada em ouro e moedas estrangeiras. A nova moeda, chamada Zimbabwe Gold (ZiG), será introduzida em circulação ao lado de moedas estrangeiras, com a esperança de estabilizar a economia e conter a inflação galopante que atingiu níveis alarmantes.
 

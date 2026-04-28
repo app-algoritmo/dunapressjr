@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,23, mas fecha semana com alta de quase 3%"
+title: Dólar cai para R$ 5,23, mas fecha semana com alta de quase 3%
 date: 2020-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Bolsa avança pela segunda semana consecutiva
 

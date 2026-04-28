@@ -1,11 +1,12 @@
 ---
-title: "Empregadores podem suspender pagamento de dívidas do FGTS"
+title: Empregadores podem suspender pagamento de dívidas do FGTS
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Conselho Curador do FGTS autorizou aos empregadores que tenham aderido ao parcelamento de débitos anteriores a possibilidade de optar por suspender o pagamento dessas obrigações de março a agosto de 2020. A medida garante que os empresários não tenham seus parcelamentos cancelados automaticamente em caso de inadimplência, como prevê a [resolução nº 940/2019](http://www.in.gov.br/web/dou/-/resolucao-n-940-de-8-de-outubro-de-2019-220788577).
 

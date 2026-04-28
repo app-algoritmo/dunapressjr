@@ -1,11 +1,12 @@
 ---
-title: "Brasil e EUA estreitam parceria em ciência e Tecnologia"
+title: Brasil e EUA estreitam parceria em ciência e Tecnologia
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Comissão mista entre os dois países possui grupos de trabalho para pesquisas sobre temas como saúde, espaço, tecnologias e agências de financiamentos.
 

@@ -1,12 +1,13 @@
 ---
-title: "Miss Polônia 2023: A Coroação de Uma Nova Rainha"
+title: 'Miss Polônia 2023: A Coroação de Uma Nova Rainha'
 date: 2023-09-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Beauty
-  - Fashion
+- Beauty
+- Fashion
 ---
+
 
 O prestigioso concurso Miss Polski 2023 chegou ao auge em uma espetacular gala no dia 16 de julho. Com 32 deslumbrantes concorrentes disputando a coroa nacional, a noite estava destinada a ser repleta de glamour, beleza e talento.
 

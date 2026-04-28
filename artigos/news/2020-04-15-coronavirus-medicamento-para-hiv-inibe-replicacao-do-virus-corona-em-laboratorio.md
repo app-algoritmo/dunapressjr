@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Medicamento para HIV inibe replicação do vírus corona em laboratório"
+title: 'Coronavírus: Medicamento para HIV inibe replicação do vírus corona em laboratório'
 date: 2020-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Pesquisa da Fiocruz, com financiamento da CAPES, indica que atazanavir pode ser útil no combate ao novo coronavírus. Programa de Combate às Epidemias concedeu bolsas para 10 programas de pós-graduação da instituição.*
 

@@ -1,11 +1,12 @@
 ---
-title: "Mudança Política na Dinamarca Reduz Fluxo de Imigrantes e Impacta Direita"
+title: Mudança Política na Dinamarca Reduz Fluxo de Imigrantes e Impacta Direita
 date: 2024-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Dinamarca, assim como muitos outros países europeus, experimentou recentemente uma migração massiva e o crescimento de partidos de direita. Contudo, diferentemente de outros, a Dinamarca assistiu a uma redução significativa na influência desses partidos, enquanto os sociais-democratas mantiveram uma faixa constante de apoio.
 

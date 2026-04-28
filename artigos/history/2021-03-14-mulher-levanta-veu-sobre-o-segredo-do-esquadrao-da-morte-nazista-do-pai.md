@@ -1,11 +1,12 @@
 ---
-title: "Mulher levanta véu sobre o segredo do esquadrão da morte nazista do pai"
+title: Mulher levanta véu sobre o segredo do esquadrão da morte nazista do pai
 date: 2021-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Após a morte de seu pai, a mulher alemã descobre que ele era membro do Einsatzgruppen, cuja 'força-tarefa' assassinou cerca de 1,5 milhão de judeus.
 

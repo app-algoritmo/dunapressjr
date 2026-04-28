@@ -1,12 +1,14 @@
 ---
-title: "Não apoie pré-candidato a prefeito/a e vereador/a que soltam fogos de artifício com estampido!"
+title: Não apoie pré-candidato a prefeito/a e vereador/a que soltam fogos de artifício
+  com estampido!
 date: 2024-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 **É muito importante saber as propostas de cada candidato em relação a esse assunto.**
 

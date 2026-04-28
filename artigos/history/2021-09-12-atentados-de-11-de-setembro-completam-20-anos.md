@@ -1,11 +1,12 @@
 ---
-title: "Atentados de 11 de setembro completam 20 anos"
+title: Atentados de 11 de setembro completam 20 anos
 date: 2021-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Mais de três mil pessoas morreram no dia 11 de setembro de 2001, quando ataques coordenados atingiram as torres do World Trade Center, em plena Nova York, e o Pentágono, sede do Departamento de Defesa dos Estados Unidos, em Arlington, Virginia. Além desses dois alvos, um avião de passageiros também acabou caindo na Pensilvânia. Assumidos mais tarde pela al-Qaeda, organização fundamentalista islâmica, os atentados daquele dia mudaram a história da sociedade contemporânea e foram o prelúdio do que ficou conhecido como a “Guerra ao Terror”. Vinte anos depois, a retomada do Afeganistão pelo Taliban, um dos apoiadores da al-Qaeda, traz de volta um questionamento: o mundo ocidental realmente foi capaz de vencer essa guerra? Para tentar responder essa e outras perguntas, uma boa dica é assistir debates recentes, documentários e programas especiais.
 

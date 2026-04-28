@@ -1,11 +1,12 @@
 ---
-title: "Itajaí promove o projeto Verão com Saúde 2023 a partir deste sábado (14)"
+title: Itajaí promove o projeto Verão com Saúde 2023 a partir deste sábado (14)
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Como forma de promover a atividade física e incentivar a população a fugir do sedentarismo, o Município de Itajaí retoma o projeto Verão com Saúde a partir deste sábado (14). Ao todo, serão quatro sábados com atividades ao ar livre, das 8h30 às 11h30, em diferentes praias de Itajaí. A primeira ação será na Praia do Atalaia, próximo aos Molhes da Barra.
 

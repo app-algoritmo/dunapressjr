@@ -1,11 +1,12 @@
 ---
-title: "CNI defende rápida regulamentação da Lei do Gás"
+title: CNI defende rápida regulamentação da Lei do Gás
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova lei foi publicada hoje no Diário Oficial da União.
 

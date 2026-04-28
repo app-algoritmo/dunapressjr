@@ -1,11 +1,12 @@
 ---
-title: "<strong>Site para mudar texto</strong>"
+title: <strong>Site para mudar texto</strong>
 date: 2022-08-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Às vezes, é necessário modificar alguns parágrafos de um artigo ou mesmo de um trabalho acadêmico. Isso pode ser necessário para deixar o texto mais coerente ou até para fugir do plágio.
 

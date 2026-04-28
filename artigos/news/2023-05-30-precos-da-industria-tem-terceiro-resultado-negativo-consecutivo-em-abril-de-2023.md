@@ -1,11 +1,13 @@
 ---
-title: "Preços da indústria têm terceiro resultado negativo consecutivo em abril de 2023"
+title: Preços da indústria têm terceiro resultado negativo consecutivo em abril de
+  2023
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda de preços em 12 das 24 atividades industriais impulsiona variação negativa no Índice de Preços ao Produtor (IPP).
 

@@ -1,11 +1,12 @@
 ---
-title: "Mitos e verdades sobre adoção de animais adultos"
+title: Mitos e verdades sobre adoção de animais adultos
 date: 2023-08-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Lifestyle
+- Lifestyle
 ---
+
 
 ## Sempre falamos aqui que adotar um animal adulto tem muitas vantagens por que é verdade.
 

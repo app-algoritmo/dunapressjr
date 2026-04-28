@@ -1,11 +1,12 @@
 ---
-title: "Militares Brasileiros concluem curso nos Estados Unidos da América"
+title: Militares Brasileiros concluem curso nos Estados Unidos da América
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Três praças do Exército Brasileiro concluíram o Curso de Adjunto de Comando (Senior Enlisted Advisor) do Exército dos Estados Unidos, no fim do mês de setembro. Os brasileiros foram escolhidos em rigoroso processo de seleção para realizar o curso ao longo de 10 semanas no Western Hemisphere Institute for Security Cooperation, em Fort Moore, na Geórgia. 
 

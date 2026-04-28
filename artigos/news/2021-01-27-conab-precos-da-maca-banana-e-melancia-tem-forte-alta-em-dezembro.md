@@ -1,11 +1,12 @@
 ---
-title: "Conab: preços da maçã, banana e melancia têm forte alta em dezembro"
+title: 'Conab: preços da maçã, banana e melancia têm forte alta em dezembro'
 date: 2021-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## As exportações de frutas, no geral, subiram no mês passado.
 

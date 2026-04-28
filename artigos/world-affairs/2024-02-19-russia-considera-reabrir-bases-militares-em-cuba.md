@@ -1,11 +1,12 @@
 ---
-title: "Rússia Considera Reabrir Bases Militares em Cuba?"
+title: Rússia Considera Reabrir Bases Militares em Cuba?
 date: 2024-02-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Uma Nova Fase na Geopolítica Global.
 

@@ -1,12 +1,14 @@
 ---
-title: "Shimano Fest transforma São Paulo na capital da bike na América Latina neste mês"
+title: Shimano Fest transforma São Paulo na capital da bike na América Latina neste
+  mês
 date: 2023-08-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Com entrada grátis ao público em geral, Shimano Fest 2023 será nos dias 19 e 20 de agosto (sábado e domingo), no Memorial da América Latina, com atrações para crianças e adultos. Nos dias 17 e 18 (quinta e sexta-feira) a feira é destinada exclusivamente aos profissionais do setor.
 

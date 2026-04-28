@@ -1,11 +1,12 @@
 ---
-title: "Damares manifesta indignação com ataques que vem sofrendo"
+title: Damares manifesta indignação com ataques que vem sofrendo
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na quarta-feira (12), a senadora Damares Alves (Republicanos-DF) demonstrou indignação com os constantes ataques que vem sofrendo ao longo do ano. A parlamentar disse que foi acusada pela mídia e por alguns políticos de terrorismo, genocídio, corrupção e tráfico de drogas.
 

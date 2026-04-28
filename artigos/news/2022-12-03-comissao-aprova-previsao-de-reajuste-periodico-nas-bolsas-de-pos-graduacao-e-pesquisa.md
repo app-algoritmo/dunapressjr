@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova previsão de reajuste periódico nas bolsas de pós-graduação e pesquisa"
+title: Comissão aprova previsão de reajuste periódico nas bolsas de pós-graduação
+  e pesquisa
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Ciência e Tecnologia, Comunicação e Informática da Câmara dos Deputados aprovou o [Projeto de Lei 4144/21](https://www.camara.leg.br/noticias/850592-projeto-preve-reajuste-periodico-nas-bolsas-de-pos-graduacao-e-pesquisa), que determina a correção monetária dos valores das bolsas de estudo e dos auxílios destinados à pós-graduação e à pesquisa científica, no máximo a cada dois anos e de acordo com o índice oficial de inflação (IPCA).
 

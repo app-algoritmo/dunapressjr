@@ -1,11 +1,13 @@
 ---
-title: "Cientistas coreanos criam o primeiro supercondutor de temperatura ambiente e pressão ambiente"
+title: Cientistas coreanos criam o primeiro supercondutor de temperatura ambiente
+  e pressão ambiente
 date: 2023-07-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
+- Science
 ---
+
 
 Uma equipe de físicos afiliados a várias instituições na Coreia do Sul afirma ter criado o indescritível material supercondutor de temperatura ambiente/pressão ambiente.
 

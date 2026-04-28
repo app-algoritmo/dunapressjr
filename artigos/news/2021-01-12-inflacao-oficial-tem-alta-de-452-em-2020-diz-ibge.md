@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial tem alta de 4,52% em 2020, diz IBGE"
+title: Inflação oficial tem alta de 4,52% em 2020, diz IBGE
 date: 2021-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Trata-se da maior alta desde 2016.
 

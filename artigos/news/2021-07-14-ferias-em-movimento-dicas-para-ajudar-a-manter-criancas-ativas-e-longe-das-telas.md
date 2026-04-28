@@ -1,11 +1,13 @@
 ---
-title: "Férias em movimento: dicas para ajudar a manter crianças ativas e longe das telas"
+title: 'Férias em movimento: dicas para ajudar a manter crianças ativas e longe das
+  telas'
 date: 2021-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Com viagens restritas, isolamento físico e escolas fechadas, crianças devem ficar mais tempo em casa; veja como estimular atividades que priorizam o desenvolvimento motor e o exercício corporal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dissertação mostra alternativa para artesanato tradicional"
+title: Dissertação mostra alternativa para artesanato tradicional
 date: 2021-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Samuel da Silva Miranda é ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Em seu mestrado em *Design* pela Universidade Federal do Maranhão (UFMA) estudou o processo de confecção de cerâmicas usado por um grupo tradicional de artesãs, com cinzas de taquipé em argila vermelha.
 

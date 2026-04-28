@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em R$ 5,23 em dia de disparada global da moeda"
+title: Dólar fecha em R$ 5,23 em dia de disparada global da moeda
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Ibovespa subiu 0,81% e recuperou os 110 mil pontos.
 

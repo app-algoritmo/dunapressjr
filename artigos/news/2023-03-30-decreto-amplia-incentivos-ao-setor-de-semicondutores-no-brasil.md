@@ -1,11 +1,12 @@
 ---
-title: "Decreto amplia incentivos ao setor de semicondutores no Brasil"
+title: Decreto amplia incentivos ao setor de semicondutores no Brasil
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Foi publicado no Diário Oficial da União desta quarta-feira (29) o [Decreto nº 11.456](https://www.in.gov.br/web/dou/-/decreto-n-11.456-de-28-de-marco-de-2023-473390191), que altera o Decreto nº 10.615, de janeiro de 2021, que trata do Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores (Padis). O objetivo é ampliar os incentivos fiscais e tributários para o setor, que é considerado estratégico para a economia brasileira.
 

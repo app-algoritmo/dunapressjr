@@ -1,11 +1,12 @@
 ---
-title: "IGP-M registra queda de preços de 0,56% em novembro, diz FGV"
+title: IGP-M registra queda de preços de 0,56% em novembro, diz FGV
 date: 2022-11-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice acumula taxa de inflação de 4,98% desde o início ano.
 

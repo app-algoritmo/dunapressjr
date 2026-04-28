@@ -1,11 +1,12 @@
 ---
-title: "Girão pede reação do Senado após STF pautar a descriminalização do aborto"
+title: Girão pede reação do Senado após STF pautar a descriminalização do aborto
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira (12),  o senador Eduardo Girão (Novo-CE) voltou a criticar o Supremo Tribunal Federal (STF) depois que a presidente da Corte, ministra Rosa Weber, autorizou o julgamento da ação movida pelo PSOL que trata da descriminalização do aborto até a 12ª semana da gravidez, da qual é relatora.
 

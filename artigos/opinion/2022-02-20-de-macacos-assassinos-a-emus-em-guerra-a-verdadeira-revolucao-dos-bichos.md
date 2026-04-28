@@ -1,11 +1,12 @@
 ---
-title: "De Macacos Assassinos à Emus em Guerra - A verdadeira Revolução dos Bichos!"
+title: De Macacos Assassinos à Emus em Guerra - A verdadeira Revolução dos Bichos!
 date: 2022-02-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Pouco tempo atrás os noticiários internacionais divulgaram uma notícia um tanto quanto inusitada. Na província de Maharashtra, na Índia, após uma matilha de cachorros de rua terem matado um filhote de macaco, os primatas em ato de vingança começaram a capturar os cães da região e arremessarem de lugares altos. Estima-se que mais de duzentos e cinquenta cães já tenham sido mortos. Sobraram poucos cães na região, e desta forma aparentemente a vida imita a arte, e em um arremedo ao que foi retratado no filme O Planeta dos Macacos, os símios começaram a atacar seres humanos, tendo atacado uma criança de oito anos, que só sobreviveu após os esforços dos moradores locais em afugentar os animais. Fato não é inédito na região, pois em 2018, em Agra, também na Índia, um macaco invadiu uma casa e arrancou do colo da mãe um bebê recém-nascido, que o primata assassinou com uma mordida na cabeça. São vários os relatos de ataques de primatas a seres humanos na índia, onde o mais recente ocorreu em nove de fevereiro, onde no estado de Uttar Pradesh, macacos feriram e mataram uma menina de cinco anos. Estaria a Índia sendo palco de uma revolução dos bichos?
 

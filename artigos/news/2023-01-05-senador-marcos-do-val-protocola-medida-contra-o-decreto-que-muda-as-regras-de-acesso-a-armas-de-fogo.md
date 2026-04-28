@@ -1,12 +1,14 @@
 ---
-title: "Senador Marcos do Val protocola medida contra o decreto que muda as regras de acesso a armas de fogo"
+title: Senador Marcos do Val protocola medida contra o decreto que muda as regras
+  de acesso a armas de fogo
 date: 2023-01-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 ## O decreto foi uma das primeiras ações do governo Lula.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério do Turismo abre credenciamento de novos agentes financeiros para o Fungetur"
+title: Ministério do Turismo abre credenciamento de novos agentes financeiros para
+  o Fungetur
 date: 2020-07-08
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Edital pode ser consultado na página do Fundo. Atualmente, 17 instituições financeiras ofertam crédito para o setor turístico.
 

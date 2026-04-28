@@ -1,11 +1,13 @@
 ---
-title: "Comando do 4o Distrito Naval realiza vistoria de segurança de aviação no Navio Auxiliar “Pará”"
+title: Comando do 4o Distrito Naval realiza vistoria de segurança de aviação no Navio
+  Auxiliar “Pará”
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 No período de 3 a 24 de março, a Seção de Investigação e Prevenção de
 Acidentes Aeronáuticos do Comando do 4º Distrito Naval realizou a vistoria de

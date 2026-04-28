@@ -1,11 +1,12 @@
 ---
-title: "Rússia e Irã assinam declaração para conter sanções dos EUA"
+title: Rússia e Irã assinam declaração para conter sanções dos EUA
 date: 2023-12-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O principal diplomata russo também disse que as conversações serão usadas para trocar opiniões sobre questões bilaterais e regionais urgentes.
 

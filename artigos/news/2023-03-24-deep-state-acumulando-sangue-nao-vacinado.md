@@ -1,11 +1,12 @@
 ---
-title: "Deep State acumulando sangue não vacinado"
+title: Deep State acumulando sangue não vacinado
 date: 2023-03-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

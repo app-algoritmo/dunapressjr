@@ -1,11 +1,12 @@
 ---
-title: "ITA e engenharia militar pesquisando e atuando na pandemia"
+title: ITA e engenharia militar pesquisando e atuando na pandemia
 date: 2020-07-17
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Alunos de instituições militares pesquisam a pandemia com bolsas emergenciais da CAPES.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caixa lança linha de antecipação de frete para caminhoneiros"
+title: Caixa lança linha de antecipação de frete para caminhoneiros
 date: 2022-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empréstimos terão taxas a partir de 1,99% ao mês.
 

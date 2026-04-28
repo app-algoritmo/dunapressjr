@@ -1,11 +1,12 @@
 ---
-title: "Brasil se destaca em segurança energética, diz ministro"
+title: Brasil se destaca em segurança energética, diz ministro
 date: 2022-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro da Ciência e Tecnologia Paulo Alvim participou de seminário.
 

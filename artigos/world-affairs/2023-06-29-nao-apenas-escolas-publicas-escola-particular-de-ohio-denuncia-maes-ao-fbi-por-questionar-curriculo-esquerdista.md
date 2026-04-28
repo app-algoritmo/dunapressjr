@@ -1,11 +1,13 @@
 ---
-title: "Não apenas escolas públicas: escola particular de Ohio denuncia mães ao FBI por questionar currículo esquerdista"
+title: 'Não apenas escolas públicas: escola particular de Ohio denuncia mães ao FBI
+  por questionar currículo esquerdista'
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Amy Gonzalez e Andrea Gross estão [processando a Columbus Academy](https://www.theblaze.com/news/school-reported-mothers-to-fbi-claiming-they-were-dangerous-after-questioning-leftist-curriculum-lawsuit-says) em Ohio por lançar uma campanha de retaliação contra elas após reclamações feitas sobre o currículo esquerdista da escola particular.
 

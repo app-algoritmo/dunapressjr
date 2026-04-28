@@ -1,11 +1,12 @@
 ---
-title: "Caixa oferece crédito de R$ 300 a R$ 1 mil pelo celular"
+title: Caixa oferece crédito de R$ 300 a R$ 1 mil pelo celular
 date: 2021-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nascidos em janeiro e fevereiro já podem pedir pelo app Caixa Tem.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem pequena queda e fecha em R$ 5,37"
+title: Dólar tem pequena queda e fecha em R$ 5,37
 date: 2021-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai pela terceira sessão consecutiva.
 

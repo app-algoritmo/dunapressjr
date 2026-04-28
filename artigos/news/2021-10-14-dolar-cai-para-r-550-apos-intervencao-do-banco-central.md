@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,50 após intervenção do Banco Central"
+title: Dólar cai para R$ 5,50 após intervenção do Banco Central
 date: 2021-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa sobe e ultrapassa 113 mil pontos pela primeira vez no mês.
 

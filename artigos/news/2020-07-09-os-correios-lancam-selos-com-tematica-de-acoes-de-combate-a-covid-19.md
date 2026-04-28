@@ -1,11 +1,12 @@
 ---
-title: "Os Correios lançam selos com temática de ações de combate à Covid-19"
+title: Os Correios lançam selos com temática de ações de combate à Covid-19
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São seis selos sobre meios de comunicação, principais sintomas da Covid-19, serviços essenciais, profissionais da saúde, ciência e tecnologia e unidades de terapia intensiva. Os correios farão uma tiragem de 60 mil blocos (com os seis selos).
 

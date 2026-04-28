@@ -1,11 +1,12 @@
 ---
-title: "Estudo analisa interação entre COVID-19 e arboviroses"
+title: Estudo analisa interação entre COVID-19 e arboviroses
 date: 2021-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um grupo de pesquisadores do Maranhão se propõe a avaliar a interação entre a COVID-19 e arboviroses, ou seja, doenças virais transmitidas por mosquitos, como dengue, zika e chikungunya. O estudo é de professores da Universidade Ceuma, em São Luís, e foi selecionado no Programa de Desenvolvimento da Pós-Graduação (PDPG) na Amazônia Legal.
 

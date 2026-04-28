@@ -1,11 +1,13 @@
 ---
-title: "Senacon, por meio do DPDC, notifica faculdades por utilização de inteligência artificial na correção das atividades"
+title: Senacon, por meio do DPDC, notifica faculdades por utilização de inteligência
+  artificial na correção das atividades
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública notificou as faculdades do Complexo Educacional FMU e a Universidade Anhembi Morumbi, todas do grupo Laureate Education, sobre a suposta utilização de inteligência artificial para a correção das atividades textuais dos alunos na plataforma de ensino a distância.
 

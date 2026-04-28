@@ -1,11 +1,13 @@
 ---
-title: "EUA investem US$ 1,5 bilhão para estimular o lançamento do 5G, apesar de novas evidências de problemas de saúde 'devastadores'"
+title: EUA investem US$ 1,5 bilhão para estimular o lançamento do 5G, apesar de novas
+  evidências de problemas de saúde 'devastadores'
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um novo estudo da Suécia mostrou que uma mulher previamente saudável desenvolveu sintomas de “síndrome do micro-ondas” logo após a instalação de uma torre de celular 5G a cerca de 60 metros de seu apartamento.
 

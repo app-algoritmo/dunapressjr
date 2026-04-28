@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal realiza grande apreensão de cigarros contrabandeados na fronteira com o Paraguai"
+title: Polícia Federal realiza grande apreensão de cigarros contrabandeados na fronteira
+  com o Paraguai
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Guaíra/PR** – A Polícia Federal apreendeu, nesse domingo, dia 05/07, três veículos e grande quantidade de cigarros contrabandeados do Paraguai, em ação realizada no âmbito da Operação Hórus.
 

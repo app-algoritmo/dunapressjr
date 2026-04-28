@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal cumpre mandados em operação contra lavagem de dinheiro com criptoativos"
+title: Polícia Federal cumpre mandados em operação contra lavagem de dinheiro com
+  criptoativos
 date: 2023-04-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investigações da Operação Halving apontam movimentação de 1,5 bilhão de reais em contas vinculadas aos suspeitos em São Paulo/SP e cidades da Paraíba.
 

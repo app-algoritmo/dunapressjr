@@ -1,11 +1,13 @@
 ---
-title: "Educação de SP deposita R$ 450 milhões em bônus para 181 mil profissionais da rede"
+title: Educação de SP deposita R$ 450 milhões em bônus para 181 mil profissionais
+  da rede
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Média paga é de R$ 2,4 mil; confira as novas regras para o pagamento da bonificação no ano que vem.
 

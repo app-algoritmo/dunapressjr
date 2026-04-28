@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo descobre que veteranos vacinados têm maior probabilidade de morrer de COVID"
+title: Novo estudo descobre que veteranos vacinados têm maior probabilidade de morrer
+  de COVID
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 É ainda pior ser impulsionado
 

@@ -1,11 +1,12 @@
 ---
-title: "Alunos em escolas do Reino Unido podem se identificar como animais"
+title: Alunos em escolas do Reino Unido podem se identificar como animais
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Alunos em diferentes escolas no Reino Unido estão [sendo autorizados a se identificar como animais](https://www.outkick.com/u-k-schools-allow-students-to-identify-as-cats-horses-dinosaurs-even-the-moon-report/) , um degrau acima da insanidade de poderem se identificar com o gênero que escolherem.
 

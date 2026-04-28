@@ -1,11 +1,12 @@
 ---
-title: "Putin Declara o Surgimento de uma Rússia Mais Soberana e Confidente"
+title: Putin Declara o Surgimento de uma Rússia Mais Soberana e Confidente
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, proclamou uma nova era para a Rússia, enfatizando o crescimento da soberania e da autoconfiança do país. Em uma declaração impactante, Putin destacou a evolução fundamental que está ocorrendo internamente na Rússia, tornando-a mais autossuficiente e autônoma.
 

@@ -1,11 +1,12 @@
 ---
-title: "Valmet apresenta soluções sustentáveis na produção de tissue e embalagem"
+title: Valmet apresenta soluções sustentáveis na produção de tissue e embalagem
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Multinacional finlandesa destaca inovações para uma economia livre de carbono nos Tissue e Packaging Summits, de 5 a 7 de março, em São Paulo.
 

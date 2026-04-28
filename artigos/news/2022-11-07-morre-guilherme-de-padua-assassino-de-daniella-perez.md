@@ -1,11 +1,12 @@
 ---
-title: "Morre Guilherme de Pádua, assassino de Daniella Pérez"
+title: Morre Guilherme de Pádua, assassino de Daniella Pérez
 date: 2022-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi confirmada a morte do assassino da atriz Daniela Perez, Guilherme de Padua.
 

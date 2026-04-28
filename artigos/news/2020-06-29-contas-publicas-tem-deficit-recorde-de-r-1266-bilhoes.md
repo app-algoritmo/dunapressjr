@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm déficit recorde de R$ 126,6 bilhões"
+title: Contas públicas têm déficit recorde de R$ 126,6 bilhões
 date: 2020-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Déficit de maio é causado pela queda na arrecadação e covid-19.
 

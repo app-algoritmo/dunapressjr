@@ -1,12 +1,13 @@
 ---
-title: "O Parlamento Alemão rejeita  proposta de lei Pró Judeus"
+title: O Parlamento Alemão rejeita  proposta de lei Pró Judeus
 date: 2020-02-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O Parlamento Alemão rejeitou a proposta de lei que alteraria o artigo da Constituição, que garantiria a naturalização de judeus alemães que haviam fugido do Nazismo
 

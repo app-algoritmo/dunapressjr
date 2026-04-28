@@ -1,11 +1,13 @@
 ---
-title: "Os EUA admitem o seu “erro” e estudam agora recuperar sanções contra o regime chavista"
+title: Os EUA admitem o seu “erro” e estudam agora recuperar sanções contra o regime
+  chavista
 date: 2024-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Estado norte-americano alertou este sábado que poderá recuperar as **sanções impostas à Venezuela** em resposta à desqualificação imposta à candidata presidencial da oposição María Corina Machado.
 

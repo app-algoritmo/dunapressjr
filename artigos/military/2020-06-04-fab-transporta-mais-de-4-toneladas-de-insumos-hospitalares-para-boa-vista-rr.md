@@ -1,11 +1,12 @@
 ---
-title: "FAB transporta mais de 4 toneladas de insumos hospitalares para Boa Vista (RR)"
+title: FAB transporta mais de 4 toneladas de insumos hospitalares para Boa Vista (RR)
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Às 08h45 desta quinta-feira (04), a aeronave FAB 2854 KC-390 Millennium, operada pelo Primeiro Grupo de Transporte de Tropa (1º GTT) – Esquadrão Zeus, decolou de Brasília (DF) com mais de 4.300 quilos de  insumos hospitalares. A aeronave seguiu para Boa Vista (RR). A missão de Transporte Aéreo Logístico ocorre em apoio à Operação COVID-19.
 

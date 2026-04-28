@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Constituição ou não?"
+title: 'Série Fatos Da Independência: Constituição ou não?'
 date: 2023-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A Revolução de 1817 deixou uma tensão no ar. O temor de novas agitações semelhantes rondava o Ceará e, de fato, elas não tardaram a acontecer. Em abril de 1821, um levante de tropas cercou a Câmara de Fortaleza e forçou o governador do Ceará a tomar uma atitude um tanto à contragosto: ele foi obrigado a jurar à Constituição que havia sido elaborada em Portugal. Nosso país, na época, era parte do Reino Unido de Portugal, Brasil e Algarve e, portanto, seria regido pela mesma Constituição que Portugal. O Ceará foi, assim, novamente sacudido, mas agora os ventos sopraram do além-mar: desde 1920, quando eclodiu a Revolução do Porto, o debate político girava em torno da construção de uma Constituição. O desejo pela independência não foi esquecido e grande parte da população e dos dirigentes do Ceará desejava mais autonomia. Quem organizou o tal levante de tropas havia sido, afinal, a Câmara de Fortaleza que, contrária ao alinhamento do governador do Ceará ao Antigo Regime, queria limitações aos poderes do rei.
 

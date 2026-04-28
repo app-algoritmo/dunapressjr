@@ -1,11 +1,12 @@
 ---
-title: "Viver no Tempo de Deus: Reflexões para o Mês Mariano"
+title: 'Viver no Tempo de Deus: Reflexões para o Mês Mariano'
 date: 2026-02-26
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Católico tem que viver no tempo de Deus
 

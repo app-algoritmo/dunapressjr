@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha no maior nível em quase cinco meses"
+title: Bolsa fecha no maior nível em quase cinco meses
 date: 2020-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar caiu para R$ 5,15 com expectativa de estímulos nos EUA.
 

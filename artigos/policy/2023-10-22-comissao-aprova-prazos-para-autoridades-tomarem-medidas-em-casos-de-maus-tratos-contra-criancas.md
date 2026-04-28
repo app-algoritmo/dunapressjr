@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova prazos para autoridades tomarem medidas em casos de maus-tratos contra crianças"
+title: Comissão aprova prazos para autoridades tomarem medidas em casos de maus-tratos
+  contra crianças
 date: 2023-10-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Projeto modifica o Código de Processo Penal e o Estatuto da Criança e do Adolescente (ECA) e ainda será analisado pela CCJ.
 

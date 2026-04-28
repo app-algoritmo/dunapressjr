@@ -1,11 +1,12 @@
 ---
-title: "Complexo Hospitalar de Patos/PB dobra oferta de leitos de UTI Covid-19"
+title: Complexo Hospitalar de Patos/PB dobra oferta de leitos de UTI Covid-19
 date: 2020-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em uma próxima etapa serão disponibilizados mais 10 leitos.
 

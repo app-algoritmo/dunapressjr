@@ -1,11 +1,13 @@
 ---
-title: "Governo da Paraíba firma parceria com laboratório alemão para monitoramento do ar"
+title: Governo da Paraíba firma parceria com laboratório alemão para monitoramento
+  do ar
 date: 2020-06-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O objetivo é fazer um diagnóstico preciso das condições do ar.
 

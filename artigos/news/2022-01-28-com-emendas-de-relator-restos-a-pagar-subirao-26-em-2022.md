@@ -1,11 +1,12 @@
 ---
-title: "Com emendas de relator, restos a pagar subirão 2,6% em 2022"
+title: Com emendas de relator, restos a pagar subirão 2,6% em 2022
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Verbas de outros anos para combate à covid serão de R$ 15,7 bilhões.
 

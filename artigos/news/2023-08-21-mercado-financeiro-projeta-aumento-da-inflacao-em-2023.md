@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro projeta aumento da inflação em 2023"
+title: Mercado financeiro projeta aumento da inflação em 2023
 date: 2023-08-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de expansão da economia é de 2,29%. 
 

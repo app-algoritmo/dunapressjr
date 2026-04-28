@@ -1,11 +1,13 @@
 ---
-title: "Convidados cobram mais políticas públicas de combate ao diabetes em sessão especial"
+title: Convidados cobram mais políticas públicas de combate ao diabetes em sessão
+  especial
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Senado realizou nesta sexta-feira (11) sessão especial semipresencial em comemoração à campanha de conscientização do mês do diabetes, o Novembro Diabetes Azul. O objetivo da campanha é ressaltar os esforços dos agentes envolvidos nas ações de conscientização, bem como destacar o grave impacto da doença no Brasil, seus fatores de risco e suas potenciais complicações.
 

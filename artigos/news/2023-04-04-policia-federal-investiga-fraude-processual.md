@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal investiga fraude processual"
+title: Polícia Federal investiga fraude processual
 date: 2023-04-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram cumpridos cinco mandados de busca e apreensão: quatro na cidade de João Pessoa/PB e um em Patos/PB.
 

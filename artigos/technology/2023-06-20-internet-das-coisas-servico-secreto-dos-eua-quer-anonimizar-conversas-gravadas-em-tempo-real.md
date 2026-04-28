@@ -1,11 +1,13 @@
 ---
-title: "Internet das Coisas: serviço secreto dos EUA quer “anonimizar” conversas gravadas em tempo real"
+title: 'Internet das Coisas: serviço secreto dos EUA quer “anonimizar” conversas gravadas
+  em tempo real'
 date: 2023-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Technology
+- Technology
 ---
+
 
 A Atividade de Projetos de Pesquisa Avançada de Inteligência dos EUA (IARPA) está montando um novo programa de pesquisa para anonimizar conversas gravadas por dispositivos IoT em tempo real para que o locutor não possa ser identificado.
 

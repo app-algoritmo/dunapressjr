@@ -1,11 +1,12 @@
 ---
-title: "Esperidião Amin critica decisões do STF sobre Lei das Estatais"
+title: Esperidião Amin critica decisões do STF sobre Lei das Estatais
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (12), voltou a criticar decisões monocráticas do Supremo Tribunal Federal (STF) e o tratamento dado pela Suprema Corte à [Lei das Estatais](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-06-30;13303).
 

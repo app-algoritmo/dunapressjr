@@ -1,11 +1,12 @@
 ---
-title: "Governo de Portugal renuncia ao plano de mudar 'lei do retorno' para judeus"
+title: Governo de Portugal renuncia ao plano de mudar 'lei do retorno' para judeus
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois de meses ameaçando inviabilizar a lei da nacionalidade de 2015 com requisitos draconianos, o Partido Socialista diz que, em vez disso, insistirá em que os candidatos demonstrem uma 'conexão genuína'.
 

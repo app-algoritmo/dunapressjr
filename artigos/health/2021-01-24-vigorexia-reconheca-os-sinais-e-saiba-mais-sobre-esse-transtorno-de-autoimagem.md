@@ -1,11 +1,12 @@
 ---
-title: "Vigorexia, reconheça os sinais e saiba mais sobre esse transtorno de autoimagem"
+title: Vigorexia, reconheça os sinais e saiba mais sobre esse transtorno de autoimagem
 date: 2021-01-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Segundo o [Blog da Saúde](http://www.blog.saude.gov.br/promocao-da-saude/32563-dismorfofobia-transtorno-causa-preocupacao-excessiva-com-a-aparencia), a vigorexia é um tipo de transtorno dismorfóbico – de distorção da autoimagem e faz com que os indivíduos que o possui fiquem exageradamente fortes, desenvolvendo muito alguns grupos musculares que tiram a uniformidade do corpo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Academia Militar das Agulhas Negras celebra mais de dois séculos de história formando líderes"
+title: Academia Militar das Agulhas Negras celebra mais de dois séculos de história
+  formando líderes
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Resende (RJ) **- Iniciada como Academia Real Militar, em 1811, no Rio de Janeiro, a Academia Militar das Agulhas Negras (AMAN) é protagonista no desenvolvimento do Brasil. As passagens pelo Largo São Francisco, Praia Vermelha e Realengo, antes de chegar à cidade de Resende, resultaram num legado importante na construção do currículo profissional militar conhecido atualmente. Em 1944, as páginas desse livro passaram a ser preenchidas pela idealização de um sonho.
 

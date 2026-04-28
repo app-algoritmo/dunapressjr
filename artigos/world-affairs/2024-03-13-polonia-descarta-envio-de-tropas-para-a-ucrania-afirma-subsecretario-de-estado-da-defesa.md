@@ -1,11 +1,13 @@
 ---
-title: "Polônia descarta envio de tropas para a Ucrânia, afirma subsecretário de Estado da Defesa"
+title: Polônia descarta envio de tropas para a Ucrânia, afirma subsecretário de Estado
+  da Defesa
 date: 2024-03-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Stanislaw Wziatek, subsecretário de Estado do Ministério da Defesa polaco, declarou que Varsóvia não tem planos de enviar tropas para a Ucrânia, nem mesmo para treinar militares ucranianos, em uma entrevista à Rádio Polskie. Ele enfatizou que a presença de soldados polacos na Ucrânia, mesmo para propósitos de treinamento, seria interpretada como uma participação na guerra.
 

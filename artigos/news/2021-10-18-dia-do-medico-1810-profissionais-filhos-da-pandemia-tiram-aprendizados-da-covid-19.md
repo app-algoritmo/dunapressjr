@@ -1,11 +1,13 @@
 ---
-title: "Dia do Médico (18/10): profissionais 'filhos' da pandemia tiram aprendizados da covid-19"
+title: 'Dia do Médico (18/10): profissionais ''filhos'' da pandemia tiram aprendizados
+  da covid-19'
 date: 2021-10-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## **Nova rotina imposta pelo coronavírus reforçou valor da profissão e destacou o papel do atendimento humanizado dentro dos hospitais brasileiros.**
 

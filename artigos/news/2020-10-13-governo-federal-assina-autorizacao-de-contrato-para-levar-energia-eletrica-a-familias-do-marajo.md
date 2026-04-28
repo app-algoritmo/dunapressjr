@@ -1,11 +1,13 @@
 ---
-title: "Governo federal assina autorização de contrato para levar energia elétrica a famílias do Marajó"
+title: Governo federal assina autorização de contrato para levar energia elétrica
+  a famílias do Marajó
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi dada a largada para o início dos serviços que vão levar energia elétrica à população dos municípios da Ilha do Marajó (PA), por meio do Programa Mais Luz para a Amazônia. A ação faz parte do Abrace o Marajó, do Governo Federal, que foi lançado, em Breves (PA), nesta sexta-feira (9), e conta com mais de cem iniciativas para a região.
 

@@ -1,11 +1,13 @@
 ---
-title: "Executivo da empresa de energia ucraniana Burisma fez várias gravações de Joe e Hunter Biden em suposto esquema de suborno como 'apólice de seguro'"
+title: Executivo da empresa de energia ucraniana Burisma fez várias gravações de Joe
+  e Hunter Biden em suposto esquema de suborno como 'apólice de seguro'
 date: 2023-06-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Se nosso sistema de justiça ainda funcionar e o que o senador Charles Grassley (R-Iowa) disse no plenário do Senado na segunda-feira for verdade, então Joe Biden e seu filho Hunter Biden enfrentarão uma séria pena de prisão.
 

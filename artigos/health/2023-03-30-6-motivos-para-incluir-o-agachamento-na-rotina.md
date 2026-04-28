@@ -1,11 +1,12 @@
 ---
-title: "6 motivos para incluir o agachamento na rotina"
+title: 6 motivos para incluir o agachamento na rotina
 date: 2023-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O agachamento é um exercício que pode trazer inúmeros benefícios para a saúde e aumentar a aptidão física. É a principal atividade física para o fortalecimento dos músculos do *core*, um complexo de 29 pares musculares que suportam e estabilizam o quadril, abdômen e as regiões lombar e pélvica, que têm como principal função manter a estabilidade do corpo e produzir a força necessária para que entre em movimento. Pode ser feito sem a necessidade de equipamentos especiais e modificado de acordo com as limitações físicas de cada pessoa, além de poder ser realizado em praticamente qualquer lugar.
 

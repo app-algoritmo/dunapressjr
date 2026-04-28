@@ -1,11 +1,12 @@
 ---
-title: "PRF apreende arsenal dentro de uma van na Fernão Dias, em Minas Gerais"
+title: PRF apreende arsenal dentro de uma van na Fernão Dias, em Minas Gerais
 date: 2020-02-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A maior apreensão de armas feita de pela Polícia Rodoviária
 Federal (PRF), em Minas Gerais, ocorreu na Rodovia Fernão Dias, nesse domingo

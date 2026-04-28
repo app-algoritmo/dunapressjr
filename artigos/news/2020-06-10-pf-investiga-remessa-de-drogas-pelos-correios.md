@@ -1,11 +1,12 @@
 ---
-title: "PF investiga remessa de drogas pelos Correios"
+title: PF investiga remessa de drogas pelos Correios
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal realizou nesta quarta-feira, 10/6, nova ação com o objetivo de combater a remessa de drogas pelos Correios.
 

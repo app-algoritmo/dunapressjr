@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova prazo para elaboração de plano de combate à violência contra crianças em pandemias"
+title: Comissão aprova prazo para elaboração de plano de combate à violência contra
+  crianças em pandemias
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto aprovado traz recomendação para que o Conselho Tutelar elabore e implemente estratégias de enfrentamento de violência doméstica.
 

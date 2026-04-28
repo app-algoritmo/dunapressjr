@@ -1,11 +1,12 @@
 ---
-title: "Dia mundial da alimentação - Todos podem e devem ajudar a erradicar a fome"
+title: Dia mundial da alimentação - Todos podem e devem ajudar a erradicar a fome
 date: 2018-10-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Health
+- Health
 ---
+
 
 Hoje, dia 16 de outubro, é celebrado o dia mundial da alimentação, data para conscientização, reflexão e compartilhamento de conhecimentos para combater a fome no planeta, bem como prover alimentação de qualidade a todas as pessoas.
 

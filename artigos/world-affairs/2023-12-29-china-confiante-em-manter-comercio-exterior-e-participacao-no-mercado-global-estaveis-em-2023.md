@@ -1,11 +1,13 @@
 ---
-title: "China confiante em manter comércio exterior e participação no mercado global estáveis em 2023"
+title: China confiante em manter comércio exterior e participação no mercado global
+  estáveis em 2023
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A China está confiante em manter seu volume de comércio exterior e sua participação no mercado global geralmente estáveis este ano, disse o Ministério do Comércio em uma coletiva de imprensa nesta quinta-feira.
 

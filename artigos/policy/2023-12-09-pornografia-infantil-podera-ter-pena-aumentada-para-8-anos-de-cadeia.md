@@ -1,11 +1,12 @@
 ---
-title: "Pornografia infantil poderá ter pena aumentada para 8 anos de cadeia"
+title: Pornografia infantil poderá ter pena aumentada para 8 anos de cadeia
 date: 2023-12-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Projeto que aumenta a pena de 5 para 8 anos de prisão, mais multa, para quem registrar, vender e expor pornografia infantil foi aprovado nesta quarta-feira (6) pela Comissão Comunicação e Direito Digital (CCDD). O texto, que também inclui a internet entre os possíveis meios de aliciamento, assédio, instigação ou constrangimento de crianças para atos sexuais, seguiu para análise da Comissão de Constituição e Justiça (CCJ). Do senador Flávio Bolsonaro (PL-RJ), o [PL 830/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/152628) recebeu parecer favorável do relator, senador Hamilton Mourão (Republicanos-RS). Os crimes já são previstos no Estatuto da Criança e do Adolescente (ECA), que pelo projeto é alterado para determinar penas maiores. 
 

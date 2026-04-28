@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal investiga esquema de extração e comercialização irregular de madeira"
+title: Receita Federal investiga esquema de extração e comercialização irregular de
+  madeira
 date: 2022-06-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Operação Micélio visa combater organização criminosa suspeita de praticar crimes de extração e venda ilegal de madeira, uso de documento falso e lavagem de dinheiro.
 

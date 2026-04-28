@@ -1,11 +1,13 @@
 ---
-title: "Feijoada em 5 minutos: marca desenvolve solução de cozimento a vapor inédito, inspirado no sous vide"
+title: 'Feijoada em 5 minutos: marca desenvolve solução de cozimento a vapor inédito,
+  inspirado no sous vide'
 date: 2023-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para muitos brasileiros que cozinham ou gostariam de aprender a cozinhar, a panela de pressão é um dos utensílios mais polêmicos e temidos. Com razão: se manuseada sem cautela, ela pode provocar acidentes graves. Quem tem o hábito de cozinhar sabe como essas panelas aceleram os processos, já que tornam os preparos dos alimentos mais rápidos e eficientes. E recorremos à pressão para um dos pratos mais seculares da gastronomia brasileira: o feijão. A empresa alimentícia Caldo Bom Alimentos criou um preparo inovador para o prato que reunindo segurança no preparo, qualidade de comida caseira e manutenção de propriedades nutritivas do alimento, além da agilidade e praticidade de uma feijoada pronta em 5 minutos. 
 

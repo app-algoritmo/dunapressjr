@@ -1,11 +1,13 @@
 ---
-title: "PGR pede ao STF inclusão do ex-presidente Jair Bolsonaro em inquérito que apura incitação a atos em Brasília"
+title: PGR pede ao STF inclusão do ex-presidente Jair Bolsonaro em inquérito que apura
+  incitação a atos em Brasília
 date: 2023-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Coordenador do Grupo Estratégico enviou ao relator do caso no Supremo representação assinada por membros do MPF sobre o tema.
 

@@ -1,11 +1,13 @@
 ---
-title: "4.01 Em entrevista ao SBT, presidente da República detalhou planos do governo federal para a alteração das regras previdenciárias"
+title: 4.01 Em entrevista ao SBT, presidente da República detalhou planos do governo
+  federal para a alteração das regras previdenciárias
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Contas podem entrar em colapso sem reforma da Previdência, afirma Bolsonaro
 

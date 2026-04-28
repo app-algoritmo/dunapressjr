@@ -1,11 +1,12 @@
 ---
-title: "Argentina cancela congelamento e sobe preço da gasolina"
+title: Argentina cancela congelamento e sobe preço da gasolina
 date: 2019-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Em meados de agosto o preço da gasolina havia sido congelado por 90 dias. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Juros atuais permitem manter inflação em queda, avaliam entidades"
+title: Juros atuais permitem manter inflação em queda, avaliam entidades
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Avaliação é que decisão do BC foi acertada.
 

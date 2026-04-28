@@ -1,11 +1,12 @@
 ---
-title: "Conselho de Ética arquiva processo do PL contra Sâmia Bomfim"
+title: Conselho de Ética arquiva processo do PL contra Sâmia Bomfim
 date: 2023-12-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Partido acusou a deputada de ofender General Girão em reunião da CPI do MST.
 

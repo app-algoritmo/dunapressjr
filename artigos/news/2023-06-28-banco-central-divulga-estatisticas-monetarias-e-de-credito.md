@@ -1,11 +1,12 @@
 ---
-title: "Banco Central divulga Estatísticas monetárias e de crédito"
+title: Banco Central divulga Estatísticas monetárias e de crédito
 date: 2023-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados revelam aumento do crédito ampliado e expansão das operações no Sistema Financeiro Nacional.
 

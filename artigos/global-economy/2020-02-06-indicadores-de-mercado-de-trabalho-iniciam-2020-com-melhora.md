@@ -1,11 +1,12 @@
 ---
-title: "Indicadores de mercado de trabalho iniciam 2020 com melhora"
+title: Indicadores de mercado de trabalho iniciam 2020 com melhora
 date: 2020-02-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Dados foram divulgados pela FGV*
 

@@ -1,11 +1,12 @@
 ---
-title: "Educação Infantil: ensino remoto é desafio para escolas e famílias"
+title: 'Educação Infantil: ensino remoto é desafio para escolas e famílias'
 date: 2021-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 O longo período de suspensão das aulas presenciais e o vai e vem de reaberturas de escolas tem causado forte impacto na Educação, principalmente no segmento da Educação Infantil. Muitas famílias optaram por tirar os filhos das escolas privadas, matriculando em escolas públicas ou simplesmente deixando-os em casa. A coordenadora pedagógica do Colégio Unicol, em São Gonçalo do Sapucaí (MG), Marcela Cisneros, confirma que o momento é realmente delicado para a Educação Infantil. "Em nossa cidade, atualmente, somos a única escola particular do município a oferecer turmas de Educação Infantil", conta Marcela. 
 

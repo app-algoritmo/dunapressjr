@@ -1,11 +1,12 @@
 ---
-title: "FAB atua na Operação Verde Brasil 2"
+title: FAB atua na Operação Verde Brasil 2
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) atua, desde a segunda-feira (11/05), na Operação Verde Brasil 2, deflagrada pelo Governo Federal, por meio do Ministério da Defesa. Entre as missões realizadas estão o Transporte Aéreo Logístico e o Aerolevantamento, coordenadas pelo Comando de Operações Aeroespaciais (COMAE). 
 

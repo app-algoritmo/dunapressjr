@@ -1,12 +1,13 @@
 ---
-title: "Maio Amarelo pet, mês do combate às doenças renais"
+title: Maio Amarelo pet, mês do combate às doenças renais
 date: 2024-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Na medicina veterinária, a **campanha de Maio Amarelo** é uma data importante para lembrar a todos sobre a importância do combate e da prevenção de doenças renais. 
 

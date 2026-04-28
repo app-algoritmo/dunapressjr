@@ -1,11 +1,12 @@
 ---
-title: "Inmetro lança modelo regulatório com foco na melhoria do ambiente de negócios"
+title: Inmetro lança modelo regulatório com foco na melhoria do ambiente de negócios
 date: 2022-02-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Iniciativa é alicerçada na Lei de Liberdade Econômica.
 

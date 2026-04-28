@@ -1,11 +1,12 @@
 ---
-title: "Funai já distribuiu mais de 286 mil cestas de alimentos a indígenas"
+title: Funai já distribuiu mais de 286 mil cestas de alimentos a indígenas
 date: 2020-07-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fundação Nacional do Índio (Funai) já investiu, desde o início da pandemia, quase R$ 24 milhões em ações de combate ao novo coronavírus. Entre as medidas, está a distribuição de mais de 286 mil cestas de alimentos a indígenas em situação de vulnerabilidade social em todo o País. As entregas envolvem recursos próprios, doações e parcerias com outros setores do governo federal. A expectativa é alcançar, nos próximos dias, a marca de 500 mil cestas entregues.
 

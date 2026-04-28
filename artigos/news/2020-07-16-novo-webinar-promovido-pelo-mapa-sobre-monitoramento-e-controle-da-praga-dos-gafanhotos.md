@@ -1,11 +1,13 @@
 ---
-title: "Novo webinar promovido pelo Mapa sobre monitoramento e controle da praga dos gafanhotos"
+title: Novo webinar promovido pelo Mapa sobre monitoramento e controle da praga dos
+  gafanhotos
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O objetivo é promover um intercâmbio de informações sobre as ações de monitoramento e controle da praga que vem sendo realizadas na Argentina e eventuais medidas aplicáveis às condições brasileiras.
 

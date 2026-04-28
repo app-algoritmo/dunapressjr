@@ -1,11 +1,13 @@
 ---
-title: "Irã e Arábia Saudita podem desempenhar papel importante na economia global, diz enviado"
+title: Irã e Arábia Saudita podem desempenhar papel importante na economia global,
+  diz enviado
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Enquanto o ministro das Relações Exteriores saudita, príncipe Faisal bin Farhan, embarca em sua primeira visita a Teerã desde que os dois países concordaram em restabelecer seus laços em março, Enayati, que também é vice-ministro das Relações Exteriores e diretor-geral de assuntos do Golfo Pérsico no Ministério das Relações Exteriores, explorou a implicações dessa aproximação em um artigo publicado no sábado.
 

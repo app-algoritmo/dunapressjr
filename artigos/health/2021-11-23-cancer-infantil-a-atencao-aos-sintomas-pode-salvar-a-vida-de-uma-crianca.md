@@ -1,11 +1,12 @@
 ---
-title: "Câncer infantil: a atenção aos sintomas pode salvar a vida de uma criança"
+title: 'Câncer infantil: a atenção aos sintomas pode salvar a vida de uma criança'
 date: 2021-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A cada ano, cerca de 12 mil novos casos de câncer infantil são diagnosticados no Brasil, segundo o Instituto Nacional do Câncer (Inca). A maioria envolve crianças de quatro a cinco anos de idade. Apesar de ser uma doença grave, com o avanço da medicina, cerca de 80% das crianças e adolescentes acometidos da doença podem ser curados, se diagnosticados precocemente e tratados em centros especializados.
 

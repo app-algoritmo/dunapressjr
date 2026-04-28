@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde joga por vaga na 25ª final estadual"
+title: Osasco São Cristóvão Saúde joga por vaga na 25ª final estadual
 date: 2023-09-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar precisa derrotar Barueri nesta quinta-feira (28), em casa, para fechar o playoff semifinal pelo placar de 2 a 0.
 

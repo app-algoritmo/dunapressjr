@@ -1,11 +1,12 @@
 ---
-title: "Toma posse o novo Diretor de Fiscalização de Produtos Controlados do Exército"
+title: Toma posse o novo Diretor de Fiscalização de Produtos Controlados do Exército
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – No dia 16 de abril, a Diretoria de Fiscalização de Produtos Controlados (DFPC) realizou no Salão de Honra da Diretoria de Abastecimento (D Abst), a solenidade de passagem de direção. O General de Brigada **Eugênio Pacelli Vieira Mota** passou a direção para o General de Brigada** Alexandre de Almeida Porto**.
 

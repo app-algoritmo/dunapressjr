@@ -1,11 +1,12 @@
 ---
-title: "Preservar memórias da alfabetização é alvo de projeto"
+title: Preservar memórias da alfabetização é alvo de projeto
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Pensando na guarda e na preservação da memória da prática pedagógica, especialmente para as gerações futuras, um de seus compromissos sociais, o centro de memória e pesquisa [História da Alfabetização, Leitura, Escrita e dos Livros Escolares](https://wp.ufpel.edu.br/hisales/) da Universidade Federal de Pelotas (Hisales/UFPel) lança o projeto “Memórias da Alfabetização em Tempos de Pandemia”. Assim, professoras e professores, pais, mães, crianças, gestores e demais interessados são convidados a contribuir com o projeto. Para isso, o Hisales pede que enviem vídeos (de no máximo de cinco minutos), textos, relatos, poesias, músicas, atividades, fotografias, entre outras manifestações do trabalho desenvolvido com/na alfabetização.
 

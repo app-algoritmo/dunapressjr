@@ -1,11 +1,13 @@
 ---
-title: "Senado da Louisiana Aprova Projeto de Lei para Reforçar Medidas Contra Imigração Ilegal"
+title: Senado da Louisiana Aprova Projeto de Lei para Reforçar Medidas Contra Imigração
+  Ilegal
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Senado do estado da Louisiana, sob controle republicano, deu sinal verde a um projeto de lei destinado a conferir autoridades locais o poder de intensificar as ações contra a imigração ilegal, seguindo o exemplo recente do Texas. Este movimento reflete o intenso debate em curso nos Estados Unidos sobre o papel dos governos estaduais na gestão da imigração ilegal, especialmente sob a perspectiva de legislaturas dominadas por republicanos em todo o país que defendem uma postura mais rígida, contrastando com a abordagem do governo federal de Joe Biden.
 

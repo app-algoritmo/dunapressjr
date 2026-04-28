@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF apreendem 1,5 tonelada de cocaína a bordo de navio"
+title: PF e PRF apreendem 1,5 tonelada de cocaína a bordo de navio
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Carga estava escondida em embarcação italiana que atracou em Vitória.
 

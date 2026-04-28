@@ -1,11 +1,12 @@
 ---
-title: "Após dois meses, Força de Cooperação do Depen deixa o Estado, com balanço positivo"
+title: Após dois meses, Força de Cooperação do Depen deixa o Estado, com balanço positivo
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre, 05/05/2020 - Após dois meses de operação em cadeias gaúchas, os 31 agentes da Força de Cooperação do Departamento Penitenciário Nacional (Depen) deixaram o Rio Grande do Sul, na manhã desse domingo, 3. No sábado, 2, antes de embarcarem, os policiais penais passaram por testagem para detectar a presença de covid-19. Nos testes rápidos, realizados no Hospital da Brigada Militar, os 31 agentes, entre eles três mulheres, registraram resultado negativo para a presença do Coronavírus.  “Essa é uma garantia de que estamos nos deslocando sem a doença. É uma segurança para os que ficam aqui e para quem segue nas próximas missões”, relatou o coordenador institucional da força de operação, policial penal federal Claudevan Costa.
 

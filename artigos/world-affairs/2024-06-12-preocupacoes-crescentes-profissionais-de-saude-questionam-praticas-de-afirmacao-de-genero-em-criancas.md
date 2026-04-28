@@ -1,11 +1,13 @@
 ---
-title: "Preocupações Crescentes: Profissionais de Saúde Questionam Práticas de Afirmação de Gênero em Crianças"
+title: 'Preocupações Crescentes: Profissionais de Saúde Questionam Práticas de Afirmação
+  de Gênero em Crianças'
 date: 2024-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os profissionais de saúde têm manifestado preocupação com as práticas médicas direcionadas às crianças, promovidas pelo lobby LGBT e apoiadas por altos escalões dos sistemas de saúde e da política. O Colégio Americano de Pediatria (ACPeds) liderou uma declaração em defesa dos menores, apelando à interrupção imediata da promoção da afirmação social.
 

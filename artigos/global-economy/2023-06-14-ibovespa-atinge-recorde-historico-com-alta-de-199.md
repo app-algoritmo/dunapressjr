@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa atinge recorde histórico com alta de 1,99%"
+title: Ibovespa atinge recorde histórico com alta de 1,99%
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai frente ao real.
 

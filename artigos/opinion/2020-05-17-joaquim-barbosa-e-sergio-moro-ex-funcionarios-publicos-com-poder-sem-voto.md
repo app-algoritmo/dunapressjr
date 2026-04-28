@@ -1,11 +1,12 @@
 ---
-title: "Joaquim Barbosa e Sérgio Moro, ex-funcionários públicos com poder sem voto"
+title: Joaquim Barbosa e Sérgio Moro, ex-funcionários públicos com poder sem voto
 date: 2020-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Um caiu no esquecimento e o outro está em queda livre.
 

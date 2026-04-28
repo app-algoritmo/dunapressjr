@@ -1,11 +1,12 @@
 ---
-title: "PPI oficializa recomendação para incluir estatais no PND"
+title: PPI oficializa recomendação para incluir estatais no PND
 date: 2021-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Eletrobras, Correios e EBC podem ser desestatizadas.
 

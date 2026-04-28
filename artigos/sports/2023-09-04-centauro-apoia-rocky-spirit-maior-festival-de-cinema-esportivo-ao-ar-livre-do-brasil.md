@@ -1,11 +1,13 @@
 ---
-title: "Centauro apoia Rocky Spirit, maior festival de cinema esportivo ao ar livre do Brasil"
+title: Centauro apoia Rocky Spirit, maior festival de cinema esportivo ao ar livre
+  do Brasil
 date: 2023-09-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## O evento gratuito ocorre no Parque Villa-Lobos, em São Paulo, e na praia de Ipanema, no Rio de Janeiro, e contará com produções nacionais e internacionais.
 

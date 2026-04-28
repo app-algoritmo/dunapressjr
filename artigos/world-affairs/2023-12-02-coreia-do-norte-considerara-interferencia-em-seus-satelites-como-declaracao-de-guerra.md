@@ -1,11 +1,13 @@
 ---
-title: "Coreia do Norte considerará interferência em seus satélites como declaração de guerra"
+title: Coreia do Norte considerará interferência em seus satélites como declaração
+  de guerra
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O responsável da defesa explicou que o Comando das Forças Espaciais dos EUA sugeriu recentemente a possibilidade de um ataque militar ao satélite norte-coreano, citando "formas reversíveis e irreversíveis" de impacto para "reduzir o potencial de utilização do espaço exterior por estados hostis".
 

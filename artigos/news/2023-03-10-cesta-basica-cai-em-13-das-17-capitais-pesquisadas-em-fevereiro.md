@@ -1,11 +1,12 @@
 ---
-title: "Cesta básica cai em 13 das 17 capitais pesquisadas em fevereiro"
+title: Cesta básica cai em 13 das 17 capitais pesquisadas em fevereiro
 date: 2023-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## São Paulo teve o conjunto mais caro e Aracaju, o mais barato.
 

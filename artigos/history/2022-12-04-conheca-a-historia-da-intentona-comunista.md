@@ -1,13 +1,14 @@
 ---
-title: "Conheca a história da intentona comunista"
+title: Conheca a história da intentona comunista
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - History
-  - Military
-  - Policy
+- History
+- Military
+- Policy
 ---
+
 
 ## Artigo educacional // Arquivos militares.
 

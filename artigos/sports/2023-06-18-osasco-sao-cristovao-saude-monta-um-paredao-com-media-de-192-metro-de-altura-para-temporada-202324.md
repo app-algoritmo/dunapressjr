@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde monta um paredão com média de 1,92 metro de altura para temporada 2023/24"
+title: Osasco São Cristóvão Saúde monta um paredão com média de 1,92 metro de altura
+  para temporada 2023/24
 date: 2023-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 Osasco São Cristóvão Saúde está erguendo um paredão para o meio de rede na temporada 2023/24. Após confirmar a renovação de Fabiana, com 1,93 metro, e contratar a norte-americana Brionne Butler, que tem 1,94m, a equipe comandada pelo técnico Luizomar anuncia mais duas centrais, ambas com 23 anos. Callie Schwarzenbach, dos Estados Unidos, tem 1,96m, e Geovana Vitória, mede 1,88m. O quarteto tem média de altura de 1,92 metro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha acima dos 104 mil pontos pela primeira vez desde março"
+title: Bolsa fecha acima dos 104 mil pontos pela primeira vez desde março
 date: 2020-07-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar caiu para R$ 5,34 com avanços de vacinas.
 

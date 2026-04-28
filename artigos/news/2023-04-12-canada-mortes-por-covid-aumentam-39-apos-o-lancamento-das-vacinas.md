@@ -1,11 +1,12 @@
 ---
-title: "Canadá: mortes por COVID aumentam 39% após o lançamento das vacinas"
+title: 'Canadá: mortes por COVID aumentam 39% após o lançamento das vacinas'
 date: 2023-04-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As vacinas não deveriam REDUZIR as mortes por COVID? Curiosamente, a imprensa não noticiou. Eu queria ter certeza de que você sabia sobre isso. Conte para seus amigos.
 

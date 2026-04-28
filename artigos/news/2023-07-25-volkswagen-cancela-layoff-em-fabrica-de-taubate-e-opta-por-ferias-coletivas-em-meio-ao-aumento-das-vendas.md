@@ -1,11 +1,13 @@
 ---
-title: "Volkswagen cancela layoff em fábrica de Taubaté e opta por férias coletivas em meio ao aumento das vendas"
+title: Volkswagen cancela layoff em fábrica de Taubaté e opta por férias coletivas
+  em meio ao aumento das vendas
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ajuste de medidas na unidade de Taubaté é motivado pelo desempenho positivo do modelo Polo e prevê férias coletivas de 10 dias para os trabalhadores.
 

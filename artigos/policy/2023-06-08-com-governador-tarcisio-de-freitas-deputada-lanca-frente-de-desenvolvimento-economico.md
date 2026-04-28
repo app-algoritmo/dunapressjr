@@ -1,11 +1,13 @@
 ---
-title: "Com governador Tarcísio de Freitas, deputada lança Frente de Desenvolvimento Econômico"
+title: Com governador Tarcísio de Freitas, deputada lança Frente de Desenvolvimento
+  Econômico
 date: 2023-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governador Tarcísio de Freitas participou com a deputada estadual Carla Morando da cerimônia de lançamento da Frente Parlamentar do Desenvolvimento Econômico da Assembleia Legislativa do Estado de São Paulo (Alesp), dia 07/06, no Palácio dos Bandeirantes.
 

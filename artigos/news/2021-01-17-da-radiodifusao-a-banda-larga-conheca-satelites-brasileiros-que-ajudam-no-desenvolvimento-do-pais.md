@@ -1,11 +1,13 @@
 ---
-title: "Da radiodifusão à banda-larga, conheça satélites brasileiros que ajudam no desenvolvimento do país"
+title: Da radiodifusão à banda-larga, conheça satélites brasileiros que ajudam no
+  desenvolvimento do país
 date: 2021-01-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Você sabia que um brasileiro foi a primeira pessoa física a colocar um satélite em órbita no mundo? Sabia também que esses equipamentos são essenciais para saber onde há focos de incêndio no país e monitorar florestas? E que um satélite administrado pelo Brasil é o responsável por levar internet de alta velocidade a mais de 12 mil pontos espalhados pelas cinco regiões?
 

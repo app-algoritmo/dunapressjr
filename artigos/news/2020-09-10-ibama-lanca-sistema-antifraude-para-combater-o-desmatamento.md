@@ -1,11 +1,12 @@
 ---
-title: "Ibama lança sistema antifraude para combater o desmatamento"
+title: Ibama lança sistema antifraude para combater o desmatamento
 date: 2020-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Tecnologia vai permitir identificar as árvores destinadas ao corte seletivo e o rastreamento de cada produto florestal. Sistema permite o rastreamento da madeira até o seu local de origem, auxiliando no combate ao desmatamento ilegal.
 

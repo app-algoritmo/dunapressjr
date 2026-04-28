@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha no maior valor em 20 dias após queda nos juros"
+title: Dólar fecha no maior valor em 20 dias após queda nos juros
 date: 2020-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Bolsa de valores subiu 1,29% e voltou a superar 104 mil pontos**.
 

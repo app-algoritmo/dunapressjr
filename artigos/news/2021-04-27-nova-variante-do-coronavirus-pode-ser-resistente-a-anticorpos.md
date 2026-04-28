@@ -1,11 +1,12 @@
 ---
-title: "Nova variante do coronavírus pode ser resistente a anticorpos"
+title: Nova variante do coronavírus pode ser resistente a anticorpos
 date: 2021-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Durante os testes de laboratório, a pesquisa mostrou que "vários anticorpos neutralizantes são ineficazes no controle de outras variantes com os mesmos marcadores genéticos do BV-1", disse a universidade.
 

@@ -1,11 +1,13 @@
 ---
-title: "SP: Deputado apresenta PL para proibir a destinação de recursos públicos a eventos Pró-Drogas"
+title: 'SP: Deputado apresenta PL para proibir a destinação de recursos públicos a
+  eventos Pró-Drogas'
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O deputado estadual Rodrigo Moraes (PL), apresentou no último dia 19, o [Projeto de Lei 994/2023](https://www.al.sp.gov.br/propositura?id=1000492365), que tem como objetivo proibir a destinação de recursos públicos, de qualquer natureza, a reuniões públicas ou privadas que defendam a apologia ao uso ou liberação de substâncias entorpecentes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção sobe para 0,32% em junho"
+title: Inflação da construção sobe para 0,32% em junho
 date: 2020-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Taxa é superior à observada em maio (0,21%).
 

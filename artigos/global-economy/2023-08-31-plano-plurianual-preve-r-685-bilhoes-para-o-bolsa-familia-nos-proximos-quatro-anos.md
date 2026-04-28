@@ -1,11 +1,13 @@
 ---
-title: "Plano Plurianual prevê R$ 685 bilhões para o Bolsa Família nos próximos quatro anos"
+title: Plano Plurianual prevê R$ 685 bilhões para o Bolsa Família nos próximos quatro
+  anos
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Governo diz que fez 27 reuniões regionais para ouvir a população antes de elaborar o PPA.
 

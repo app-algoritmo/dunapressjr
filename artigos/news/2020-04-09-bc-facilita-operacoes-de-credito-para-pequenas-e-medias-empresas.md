@@ -1,11 +1,12 @@
 ---
-title: "BC facilita operações de crédito para pequenas e médias empresas"
+title: BC facilita operações de crédito para pequenas e médias empresas
 date: 2020-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 BC reduz requerimento de capital de operação de crédito para empresas
 

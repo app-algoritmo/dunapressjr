@@ -1,11 +1,12 @@
 ---
-title: "CCJ pode votar coleta de DNA para todos os condenados por crime doloso"
+title: CCJ pode votar coleta de DNA para todos os condenados por crime doloso
 date: 2023-05-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Constituição e Justiça (CCJ) pode votar na quarta-feira (31) o projeto de lei que obriga a extração do perfil genético de todos condenados por crime doloso, independentemente da natureza do crime. A reunião, marcada para as 10h, tem outros oito itens na pauta.  
 

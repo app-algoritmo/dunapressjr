@@ -1,11 +1,13 @@
 ---
-title: "Calendário da 2ª parcela do Auxílio Emergencial deverá ser divulgado até dia 8/5"
+title: Calendário da 2ª parcela do Auxílio Emergencial deverá ser divulgado até dia
+  8/5
 date: 2020-05-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Cidadania, Onyx Lorenzoni, disse que até esta sexta-feira (8) deve ser divulgado o cronograma de pagamento da segunda parcela do Auxílio Emergencial do Governo Federal, no valor de R$ 600.
 

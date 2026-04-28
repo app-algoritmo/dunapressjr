@@ -1,12 +1,13 @@
 ---
-title: "Parque Tecnológico incentiva crianças e jovens nas áreas de pesquisa e inovação"
+title: Parque Tecnológico incentiva crianças e jovens nas áreas de pesquisa e inovação
 date: 2024-05-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Technology
+- Education
+- Technology
 ---
+
 
 ## Projeto Biopark Educação visa antecipar a cultura da pesquisa em duas décadas, com bolsas de estudos que ampliam acesso de estudantes de baixa renda ao ensino de qualidade.
 

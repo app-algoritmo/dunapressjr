@@ -1,11 +1,12 @@
 ---
-title: "Imagens inéditas das explosões em Beirute no Líbano"
+title: Imagens inéditas das explosões em Beirute no Líbano
 date: 2020-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Mais de 130 pessoas morreram e se estima que 300 mil edifícios de residências e comércios tenham sido afetados ou destruídos quando um enorme depósito de fertilizante supostamente explodiu em Beirute, poucos dias antes do 75º aniversário da detonação no Japão da primeira bomba atômica com cenas de destruição em 1945, depois que os Estados Unidos lançaram armas atômicas sobre Hiroshima e Nagasaki. Ambos os eventos lembraram o mundo da devastação física e humana em jogo, assista à seguir o vídeo com imagens inéditas. 
 

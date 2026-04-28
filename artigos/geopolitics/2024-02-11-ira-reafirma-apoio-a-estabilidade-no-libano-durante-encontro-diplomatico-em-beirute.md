@@ -1,11 +1,13 @@
 ---
-title: "Irã reafirma apoio à estabilidade no Líbano durante encontro diplomático em Beirute"
+title: Irã reafirma apoio à estabilidade no Líbano durante encontro diplomático em
+  Beirute
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministro das Relações Exteriores do Irã, Hossein Amirabdollahian, reiterou o compromisso de seu país com a estabilidade e segurança no Líbano durante uma reunião com o Presidente do Parlamento libanês, Nabih Berri, na capital Beirute. Durante o encontro, que ocorreu no sábado como parte da visita de Amirabdollahian ao Líbano, foram discutidas diversas questões regionais, incluindo a situação na Palestina e a guerra em Gaza.
 

@@ -1,11 +1,12 @@
 ---
-title: "CCJ aprova projeto que estimula a integração de todos os modais de transporte"
+title: CCJ aprova projeto que estimula a integração de todos os modais de transporte
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Um dos objetivos da proposta é incentivar o uso de bicicletas nas cidades.
 

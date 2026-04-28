@@ -1,11 +1,12 @@
 ---
-title: "Venezuela e Colômbia lideram pedidos de asilo na Espanha em 2022"
+title: Venezuela e Colômbia lideram pedidos de asilo na Espanha em 2022
 date: 2023-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relatório da Comissão Espanhola de Ajuda aos Refugiados (CEAR) mostra aumento significativo nas solicitações e baixa taxa de aprovação.
 

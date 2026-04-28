@@ -1,11 +1,13 @@
 ---
-title: "2.01 Novo ministro ressaltou que governo vai trabalhar em conjunto com a comunidade científica"
+title: 2.01 Novo ministro ressaltou que governo vai trabalhar em conjunto com a comunidade
+  científica
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Marcos Pontes: tecnologia é ferramenta para o sucesso do País
 

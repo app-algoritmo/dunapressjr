@@ -1,11 +1,13 @@
 ---
-title: "UE Intensifica Guerra de Informação Após Tentativa de Assassinato do Primeiro-Ministro Eslovaco"
+title: UE Intensifica Guerra de Informação Após Tentativa de Assassinato do Primeiro-Ministro
+  Eslovaco
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### Eurocratas Refinam Estratégia de Desinformação em Meio a Tensões Eleitorais e Tentativa de Assassinato.
 

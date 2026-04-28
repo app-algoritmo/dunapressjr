@@ -1,11 +1,13 @@
 ---
-title: "Balanço da 4ª etapa da ‘OPERAÇÃO CONCORRÊNCIA LEGAL’: SEFAZ - PB apreende 31 veículos com cargas irregulares"
+title: 'Balanço da 4ª etapa da ‘OPERAÇÃO CONCORRÊNCIA LEGAL’: SEFAZ - PB apreende
+  31 veículos com cargas irregulares'
 date: 2020-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Balanço da 4ª etapa da “Operação Concorrência Legal”, que aconteceu na tarde dessa última quarta-feira (15), registrou apreensão de 31 veículos, que transportavam mercadorias com documentos fiscais irregulares ou com ausência deles. A operação ficou concentrada nas rodovias federais e estaduais, que cortam as cinco regiões fiscais do Estado.
 

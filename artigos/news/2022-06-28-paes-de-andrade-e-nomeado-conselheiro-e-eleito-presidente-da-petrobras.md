@@ -1,11 +1,12 @@
 ---
-title: "Paes de Andrade é nomeado conselheiro e eleito presidente da Petrobras"
+title: Paes de Andrade é nomeado conselheiro e eleito presidente da Petrobras
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mandato vai até 13 de abril de 2023.
 

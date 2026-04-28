@@ -1,11 +1,12 @@
 ---
-title: "BNDES seleciona consórcio para preparar desestatização dos Correios"
+title: BNDES seleciona consórcio para preparar desestatização dos Correios
 date: 2020-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## **Proposta vencedora foi de R$  7,89 milhões**.
 

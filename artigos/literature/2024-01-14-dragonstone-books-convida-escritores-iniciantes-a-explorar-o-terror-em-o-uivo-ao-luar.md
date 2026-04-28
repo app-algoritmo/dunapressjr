@@ -1,11 +1,13 @@
 ---
-title: "DragonStone Books Convida Escritores Iniciantes a Explorar o Terror em 'O Uivo ao Luar'"
+title: DragonStone Books Convida Escritores Iniciantes a Explorar o Terror em 'O Uivo
+  ao Luar'
 date: 2024-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 A DragonStone Books, reconhecida por sua dedicação em proporcionar experiências literárias únicas, lançou um convite audacioso para os corajosos e imaginativos. Com o edital "O Uivo ao Luar", a editora busca novos escritores para explorar os territórios sombrios e misteriosos do terror.
 

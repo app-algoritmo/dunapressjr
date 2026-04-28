@@ -1,11 +1,12 @@
 ---
-title: "Donald Trump Acusa Departamento de Justiça de Interferência Eleitoral"
+title: Donald Trump Acusa Departamento de Justiça de Interferência Eleitoral
 date: 2024-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde que Donald Trump emergiu como uma figura proeminente na política americana, sua relação contenciosa com o sistema judicial tem sido uma saga em constante evolução. Agora, em meio às sombras de uma potencial candidatura presidencial em 2024, Trump acusa o Departamento de Justiça (DOJ) de orquestrar uma série de processos judiciais com o objetivo claro de minar suas atividades políticas e, consequentemente, influenciar as eleições.
 

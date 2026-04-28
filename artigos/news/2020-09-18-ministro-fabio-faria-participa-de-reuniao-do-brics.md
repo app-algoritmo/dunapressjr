@@ -1,11 +1,12 @@
 ---
-title: "Ministro Fábio Faria participa de reunião do BRICS"
+title: Ministro Fábio Faria participa de reunião do BRICS
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Representando o Governo brasileiro, o ministro das Comunicações, Fábio Faria, participou, na quinta-feira (17), da 6ª reunião do BRICS, grupo de países de economias emergentes formado por Brasil, Rússia, Índia, China e África do Sul. O encontro, virtual, tratou da era digital e das oportunidades do novo cenário global.
 

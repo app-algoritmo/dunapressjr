@@ -1,11 +1,12 @@
 ---
-title: "Tensão Global: Alerta de Steve Quayle sobre Guerra Nuclear"
+title: 'Tensão Global: Alerta de Steve Quayle sobre Guerra Nuclear'
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Steve Quayle, conhecido apresentador de rádio, cineasta, autor e especialista em escavações arqueológicas, emite um alerta alarmante: a América está mais perto da guerra nuclear do que nunca. Com uma rede densa de fontes, especialmente no campo militar, Quayle afirma: “Esta é uma transmissão de detonação porque tudo está pronto para explodir: na economia, no mundo da Terceira Guerra Mundial, nos acontecimentos na Ucrânia e nos eventos na costa oeste dos Estados Unidos”.
 

@@ -1,11 +1,13 @@
 ---
-title: "Desenvolvimento de pesquisas sobre uvas, sucos, vinhos e a composição química desses produtos no Nordeste do Brasil"
+title: Desenvolvimento de pesquisas sobre uvas, sucos, vinhos e a composição química
+  desses produtos no Nordeste do Brasil
 date: 2021-12-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As pesquisas sobre uvas, vinhos e química têm permitido o avanço do conhecimento na área de Viticultura e Enologia. Os estudos em desenvolvimento, sobre os sucos e os vinhos elaborados em condições climáticas tropicais do Brasil, têm possibilitado obter resultados que podem trazer benefícios para a comunidade científica brasileira e internacional, bem como, e principalmente, para o setor vitivinícola da região e para a sociedade brasileira.
 

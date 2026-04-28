@@ -1,11 +1,12 @@
 ---
-title: "Tesouro capta US$ 2,25 bi no exterior com juros mais altos"
+title: Tesouro capta US$ 2,25 bi no exterior com juros mais altos
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta nos títulos norte-americanos influenciou emissões.
 

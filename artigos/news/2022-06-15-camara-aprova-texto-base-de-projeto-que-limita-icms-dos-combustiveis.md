@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova texto-base de projeto que limita ICMS dos combustíveis"
+title: Câmara aprova texto-base de projeto que limita ICMS dos combustíveis
 date: 2022-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Deputados votarão nesta quarta destaques a trechos incluídos no Senado.
 

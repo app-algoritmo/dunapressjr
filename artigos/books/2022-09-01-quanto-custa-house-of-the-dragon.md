@@ -1,12 +1,13 @@
 ---
-title: "Quanto Custa House of the Dragon?"
+title: Quanto Custa House of the Dragon?
 date: 2022-09-01
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - Video library
+- Books
+- Video library
 ---
+
 
 Três de Got
 

@@ -1,11 +1,12 @@
 ---
-title: "PF desarticula organização criminosa de tráfico internacional de drogas"
+title: PF desarticula organização criminosa de tráfico internacional de drogas
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta terça-feira (19/5) a denominada OPERAÇÃO ALIAS, com o objetivo de desarticular organização criminosa especializada no tráfico internacional de drogas.
 

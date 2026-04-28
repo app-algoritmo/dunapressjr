@@ -1,11 +1,13 @@
 ---
-title: "O Grande Reset Atualizado: Você pode não ter ouvido falar de NGFS, mas NGFS tem um plano para você"
+title: 'O Grande Reset Atualizado: Você pode não ter ouvido falar de NGFS, mas NGFS
+  tem um plano para você'
 date: 2021-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -*Por Virgil Breitbart* | Aqui está uma [manchete](https://www.nytimes.com/2020/12/15/business/economy/fed-climate-network.html) de 15 de dezembro no* New York Times* que não deveria ter sido perdida no turbilhão de acontecimentos, nem no burburinho geral de notícias desde então: "Fed Junta-se à Climate Network, a Aplausos da Esquerda."
 

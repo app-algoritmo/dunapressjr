@@ -1,11 +1,13 @@
 ---
-title: "<strong>Portaria apresenta novas regras dos regimes de drawback suspensão e isenção</strong>"
+title: <strong>Portaria apresenta novas regras dos regimes de drawback suspensão e
+  isenção</strong>
 date: 2022-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Normativo permite desonerar micro e pequenas empresas.
 

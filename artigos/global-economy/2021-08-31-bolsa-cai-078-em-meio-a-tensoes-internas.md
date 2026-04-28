@@ -1,11 +1,12 @@
 ---
-title: "Bolsa cai 0,78% em meio a tensões internas"
+title: Bolsa cai 0,78% em meio a tensões internas
 date: 2021-08-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Dólar acompanha exterior e fecha com leve baixa.
 

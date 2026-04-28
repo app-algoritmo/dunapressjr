@@ -1,11 +1,12 @@
 ---
-title: "Exportações brasileiras atingem valor histórico em maio"
+title: Exportações brasileiras atingem valor histórico em maio
 date: 2023-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor agropecuário lidera crescimento, enquanto importações registram queda significativa, revelam dados do mês divulgados pelo governo.
 

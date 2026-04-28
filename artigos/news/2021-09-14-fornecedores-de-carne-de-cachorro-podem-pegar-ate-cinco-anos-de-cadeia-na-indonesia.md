@@ -1,11 +1,12 @@
 ---
-title: "Fornecedores de carne de cachorro podem pegar até cinco anos de cadeia na Indonésia"
+title: Fornecedores de carne de cachorro podem pegar até cinco anos de cadeia na Indonésia
 date: 2021-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## “É a primeira ação judicial do tipo sob a lei de saúde animal. Ativistas esperam que seja um grande ponto de virada para colocar um fim a esse comércio brutal"
 

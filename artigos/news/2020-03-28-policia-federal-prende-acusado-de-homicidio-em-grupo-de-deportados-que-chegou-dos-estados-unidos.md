@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal prende acusado de homicídio em grupo de deportados que chegou dos Estados Unidos"
+title: Polícia Federal prende acusado de homicídio em grupo de deportados que chegou
+  dos Estados Unidos
 date: 2020-03-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Belo Horizonte/MG** – A Polícia Federal prendeu no dia 27 de março, um
 homem de 50 anos, foragido internacional, que figurava na lista de Difusão

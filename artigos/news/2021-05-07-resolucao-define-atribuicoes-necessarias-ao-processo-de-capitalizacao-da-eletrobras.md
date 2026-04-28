@@ -1,11 +1,12 @@
 ---
-title: "Resolução define atribuições necessárias ao processo de capitalização da Eletrobras"
+title: Resolução define atribuições necessárias ao processo de capitalização da Eletrobras
 date: 2021-05-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida define também a adoção das normas e as práticas aplicadas ao mercado de valores mobiliários, especialmente quanto à definição de preços de emissão e alienação de ações e à divulgação de informações ao mercado e ao público.
 

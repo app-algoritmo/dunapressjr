@@ -1,11 +1,12 @@
 ---
-title: "Em Lisboa, Girão denuncia 'militância ideológica do STF'"
+title: Em Lisboa, Girão denuncia 'militância ideológica do STF'
 date: 2023-10-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) relatou em pronunciamento nesta segunda-feira (16) ter denunciado, em evento internacional em Lisboa, o alinhamento do governo federal e do Supremo Tribunal Federal (STF). Segundo o parlamentar, o encontro contou com a presença de “conservadores liberais e juntou pessoas de bem que estão preocupadas com o que está acontecendo no mundo e no Brasil”.
 

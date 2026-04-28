@@ -1,11 +1,12 @@
 ---
-title: "Implantes dentários crescem 15% ao ano no Brasil"
+title: Implantes dentários crescem 15% ao ano no Brasil
 date: 2020-11-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Aos 28 anos, brasileiros já perderam, em média, cinco dos trinta e dois dentes.
 

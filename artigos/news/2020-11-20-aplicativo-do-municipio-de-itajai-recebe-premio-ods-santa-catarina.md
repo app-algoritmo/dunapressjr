@@ -1,11 +1,12 @@
 ---
-title: "Aplicativo do Município de Itajaí recebe prêmio ODS Santa Catarina"
+title: Aplicativo do Município de Itajaí recebe prêmio ODS Santa Catarina
 date: 2020-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O aplicativo Conecta.í foi reconhecido como uma referência estadual na promoção dos Objetivos do Desenvolvimento Sustentável (ODS). A solução tecnológica do Município de Itajaí recebeu o Prêmio ODS Santa Catarina na categoria Poder Público. Esta é a segunda premiação recebida pelo app desenvolvido pela Secretaria Municipal de Tecnologia (Setec), que em 2018 foi reconhecido como uma das quatro melhores soluções digitais do Sul do Brasil. Os prêmios colocam Itajaí na rota de se tornar o município mais digital do estado.
 

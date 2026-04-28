@@ -1,11 +1,12 @@
 ---
-title: "Abastecimento de água é feito por empresas estaduais no Brasil"
+title: Abastecimento de água é feito por empresas estaduais no Brasil
 date: 2020-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Marco Legal do Saneamento prevê universalização dos serviços até 2033.
 

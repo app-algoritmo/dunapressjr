@@ -1,11 +1,12 @@
 ---
-title: "Historiadora identifica texto inédito de Machado de Assis"
+title: Historiadora identifica texto inédito de Machado de Assis
 date: 2021-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Cristiane Garcia Teixeira é historiadora e responsável por atribuir ao escritor Machado de Assis (1839–1908) a autoria de um perfil biográfico do então imperador Dom Pedro II, publicado em 1859 sem assinatura. A descoberta ([leia artigo escrito pela pesquisadora](http://www.seer.ufu.br/index.php/artcultura/article/view/56972/29752)) é parte do [trabalho de mestrado](https://repositorio.ufsc.br/xmlui/handle/123456789/168041), da pesquisadora, para o qual recebeu bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Graduada e mestra pela Universidade Federal de Santa Catarina (UFSC), ela é doutoranda da instituição, também com o apoio da CAPES.
 

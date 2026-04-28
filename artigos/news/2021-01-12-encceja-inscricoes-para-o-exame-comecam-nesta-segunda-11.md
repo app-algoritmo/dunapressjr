@@ -1,11 +1,12 @@
 ---
-title: "ENCCEJA: Inscrições para o exame começam nesta segunda (11)"
+title: 'ENCCEJA: Inscrições para o exame começam nesta segunda (11)'
 date: 2021-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quem busca a certificação do ensino fundamental ou do ensino médio, pode se inscrever para o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2020.
 

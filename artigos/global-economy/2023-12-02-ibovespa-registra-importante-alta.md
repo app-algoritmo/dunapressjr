@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa registra importante alta"
+title: Ibovespa registra importante alta
 date: 2023-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fecha a semana em queda.
 

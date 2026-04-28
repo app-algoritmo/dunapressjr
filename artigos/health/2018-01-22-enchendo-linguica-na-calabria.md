@@ -1,11 +1,12 @@
 ---
-title: "Enchendo Linguiça na Calábria"
+title: Enchendo Linguiça na Calábria
 date: 2018-01-22
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Health
+- Health
 ---
+
 
 Estive na Calábria em Dezembro, onde fui passar as festas de fim de ano, na casa de uma amiga, Ivete Bernardoni, brasileira residente na Itália e minha amiga há 40 anos. Como estamos no inverno de verdade, aquele frio de trincar dentes e gelar a pele, essa é a melhor época para o preparo de embutidos, uma vez que as carnes naturalmente se conservam por mais tempo sem refrigeração. Nessa ocasião fui participar do preparo das deliciosas linguiças calabresas, caseiras, feitas na chamada Campagna (roça, como chamamos no Brasil) de San Marco Argentano, uma pequena cidade do distrito de Cosenza.
 

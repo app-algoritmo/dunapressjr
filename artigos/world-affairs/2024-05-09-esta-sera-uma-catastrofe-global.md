@@ -1,11 +1,12 @@
 ---
-title: "Esta será uma catástrofe global"
+title: Esta será uma catástrofe global
 date: 2024-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **Por Dmitri Medvedev:**
 

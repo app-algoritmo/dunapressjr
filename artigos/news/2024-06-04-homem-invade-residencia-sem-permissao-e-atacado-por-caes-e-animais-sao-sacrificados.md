@@ -1,12 +1,13 @@
 ---
-title: "Homem invade residência sem permissão, é atacado por cães e animais são sacrificados"
+title: Homem invade residência sem permissão, é atacado por cães e animais são sacrificados
 date: 2024-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 Em Criciúma, dois cachorros de grande porte da Raça Pitbull atacaram um homem de 39 anos que teria entrado na residência sem permissão.
 

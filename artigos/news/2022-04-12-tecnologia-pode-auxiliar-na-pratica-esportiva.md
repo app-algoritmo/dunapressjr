@@ -1,11 +1,12 @@
 ---
-title: "Tecnologia pode auxiliar na prática esportiva"
+title: Tecnologia pode auxiliar na prática esportiva
 date: 2022-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fazer exercício físico escutando música no *smartphone*. Busca por espaços para atividades e assistência on-line de treinos. O relógio avisando quantos quilômetros foram percorridos. Cada dia mais, a tecnologia tem se mostrado muito útil à prática de atividades físicas. A inteligência artificial no esporte está presente desde a música que acompanha a corrida até a procura por treinos e ajuda profissional. 
 

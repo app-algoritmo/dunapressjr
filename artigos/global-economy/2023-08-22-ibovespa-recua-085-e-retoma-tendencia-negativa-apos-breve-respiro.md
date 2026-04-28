@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa recua 0,85% e retoma tendência negativa após breve respiro"
+title: Ibovespa recua 0,85% e retoma tendência negativa após breve respiro
 date: 2023-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Queda nas ações da Petrobras e projeções de inflação e juros dominam cenário financeiro nesta segunda-feira (21). 
 

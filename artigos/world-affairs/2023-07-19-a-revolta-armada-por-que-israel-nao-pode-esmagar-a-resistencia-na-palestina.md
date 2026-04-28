@@ -1,11 +1,12 @@
 ---
-title: "A revolta armada: por que Israel não pode esmagar a resistência na Palestina"
+title: 'A revolta armada: por que Israel não pode esmagar a resistência na Palestina'
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os números podem ser desumanos. No entanto, quando colocados no contexto certo, eles ajudam a esclarecer questões mais amplas e a responder a perguntas urgentes, como: B. por que a Palestina ocupada está à beira de uma grande revolta. E por que Israel não pode esmagar a resistência palestina, não importa o quanto ela tente.
 

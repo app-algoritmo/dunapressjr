@@ -1,11 +1,12 @@
 ---
-title: "PorkExpo Latam: Inovações do setor serão apresentadas no evento"
+title: 'PorkExpo Latam: Inovações do setor serão apresentadas no evento'
 date: 2023-10-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Agronutri lança quatro novos produtos na feira, que ocorre nos dias 7, 8 e 9 de novembro, em Foz do Iguaçu (PR).
 

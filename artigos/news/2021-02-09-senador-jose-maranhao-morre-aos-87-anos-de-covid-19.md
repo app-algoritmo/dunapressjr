@@ -1,11 +1,12 @@
 ---
-title: "Senador José Maranhão morre aos 87 anos de covid-19"
+title: Senador José Maranhão morre aos 87 anos de covid-19
 date: 2021-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## José Maranhão era o senador mais velho da atual legislatura.
 

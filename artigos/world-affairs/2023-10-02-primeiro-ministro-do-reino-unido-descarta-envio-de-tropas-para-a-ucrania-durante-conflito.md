@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-ministro do Reino Unido descarta envio de tropas para a Ucrânia durante conflito"
+title: Primeiro-ministro do Reino Unido descarta envio de tropas para a Ucrânia durante
+  conflito
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Rishi Sunak observou que "isso é algo para o longo prazo, não para o aqui e agora".
 

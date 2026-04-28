@@ -1,11 +1,12 @@
 ---
-title: "BREAKING: Trump Shot During Pennsylvania Rally - Raises Fist in Defiance"
+title: 'BREAKING: Trump Shot During Pennsylvania Rally - Raises Fist in Defiance'
 date: 2024-07-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **Oslo, July 14, 2024, 00:30** - Pennsylvania, July 13, 2024, 18:30
 

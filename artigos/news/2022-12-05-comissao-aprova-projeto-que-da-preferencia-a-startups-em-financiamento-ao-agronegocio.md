@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que dá preferência a startups em financiamento ao agronegócio"
+title: Comissão aprova projeto que dá preferência a startups em financiamento ao agronegócio
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto de lei que institui preferência de acesso a crédito, no âmbito do Programa de Incentivo à Inovação Tecnológica na Produção Agropecuária (Inovagro), às ferramentas tecnológicas desenvolvidas por startups voltadas ao agronegócio.
 

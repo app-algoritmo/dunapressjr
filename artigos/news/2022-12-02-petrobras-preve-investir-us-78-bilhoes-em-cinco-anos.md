@@ -1,11 +1,12 @@
 ---
-title: "Petrobras prevê investir US$ 78 bilhões em cinco anos"
+title: Petrobras prevê investir US$ 78 bilhões em cinco anos
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor está no Plano Estratégico da empresa para 2023-2027.
 

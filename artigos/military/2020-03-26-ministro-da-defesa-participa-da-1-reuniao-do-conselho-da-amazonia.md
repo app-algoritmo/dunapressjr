@@ -1,12 +1,13 @@
 ---
-title: "Ministro da Defesa participa da 1ª Reunião do Conselho da Amazônia"
+title: Ministro da Defesa participa da 1ª Reunião do Conselho da Amazônia
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília,
 26/03/2020 -** O Ministro da Defesa, Fernando Azevedo, participou da 1ª Reunião

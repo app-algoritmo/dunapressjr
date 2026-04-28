@@ -1,11 +1,13 @@
 ---
-title: "Projeto obriga SUS a fornecer 'touca inglesa' que reduz queda de cabelo de pacientes com câncer"
+title: Projeto obriga SUS a fornecer 'touca inglesa' que reduz queda de cabelo de
+  pacientes com câncer
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Denise Pessôa: sistema é aliado para melhorar a autoestima da paciente oncológica.
 

@@ -1,11 +1,12 @@
 ---
-title: "Handebol de Itajaí está na reta final de preparação para a Liga Nacional"
+title: Handebol de Itajaí está na reta final de preparação para a Liga Nacional
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL Itajaí participará da Liga Nacional de Handebol 2020. A competição será disputada em sede única na cidade de Arujá (SP) de 15 a 20 de dezembro. A competição é promovida pela Confederação Brasileira de Handebol (CBHb). A equipe itajaiense representa a Fundação Municipal de Esporte e Lazer (FMEL) em competições.
 

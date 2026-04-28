@@ -1,11 +1,12 @@
 ---
-title: "<strong>IBGE prevê safra recorde de 261,7 milhões de toneladas em 2022</strong>"
+title: <strong>IBGE prevê safra recorde de 261,7 milhões de toneladas em 2022</strong>
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento da previsão de agosto é de 3,3% em relação a 2021.
 

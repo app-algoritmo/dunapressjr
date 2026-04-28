@@ -1,11 +1,12 @@
 ---
-title: "China Busca Alterar Status Quo no Estreito de Taiwan sem Conflito Armado"
+title: China Busca Alterar Status Quo no Estreito de Taiwan sem Conflito Armado
 date: 2024-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China está adotando uma estratégia silenciosa para minar a soberania de Taiwan, utilizando táticas da "zona cinzenta" que evitam confrontos militares diretos, mas são igualmente ameaçadoras. Em vez de disparar tiros, Pequim está empregando ações híbridas para pressionar Taiwan e mudar o status quo na região.
 

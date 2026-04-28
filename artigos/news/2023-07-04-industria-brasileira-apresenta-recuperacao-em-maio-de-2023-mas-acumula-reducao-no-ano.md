@@ -1,11 +1,13 @@
 ---
-title: "Indústria brasileira apresenta recuperação em maio de 2023, mas acumula redução no ano"
+title: Indústria brasileira apresenta recuperação em maio de 2023, mas acumula redução
+  no ano
 date: 2023-07-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No ano a redução foi de 0,4%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Magic Mike's, Last Dance - Última Dança"
+title: Magic Mike's, Last Dance - Última Dança
 date: 2023-01-16
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 Veja o trailer aqui:
 

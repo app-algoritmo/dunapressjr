@@ -1,11 +1,12 @@
 ---
-title: "Distribuição do Prêmio Diversidade Étnica no Trabalho 2019"
+title: Distribuição do Prêmio Diversidade Étnica no Trabalho 2019
 date: 2019-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## O Prêmio Diversidade é concedido a uma empresa que se destacou em seus esforços para criar diversidade no local de trabalho. Durante a Conferência de Integração, o Ministro da Educação e Conhecimento Jan Tore Sanner entrega o Prêmio Nacional de Diversidade 2019.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estudo busca terapia alternativa para o câncer de mama em cães"
+title: Estudo busca terapia alternativa para o câncer de mama em cães
 date: 2021-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Pedro Luiz Porfirio Xavier foi o vencedor do [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) de Medicina Veterinária 2021 com um estudo sobre o câncer de mama em cães. Biólogo graduado na Pontifícia Universidade Católica de Campinas, o pesquisador fez seu doutorado no programa de Biociência Animal da Faculdade de Zootecnia e Engenharia de Alimentos da Universidade de São Paulo (USP). Sua motivação foi a relação cada vez mais intensa entre animais domésticos, como cães e gatos, e os seres humanos.
 

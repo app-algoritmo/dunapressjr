@@ -1,11 +1,12 @@
 ---
-title: "O melhor amigo do homem é o inimigo do planeta?"
+title: O melhor amigo do homem é o inimigo do planeta?
 date: 2021-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Estudo afirma que os animais de estimação dos EUA são responsáveis ​​por 64 milhões de toneladas de emissões de C02 anualmente; mas alguns especialistas não estão convencidos.
 

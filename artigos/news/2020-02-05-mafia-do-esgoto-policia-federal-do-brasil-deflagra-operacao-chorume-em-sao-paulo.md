@@ -1,11 +1,13 @@
 ---
-title: "Máfia do esgoto: Polícia Federal do Brasil deflagra Operação Chorume em São Paulo"
+title: 'Máfia do esgoto: Polícia Federal do Brasil deflagra Operação Chorume em São
+  Paulo'
 date: 2020-02-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 PF investiga esquema criminoso em consórcio responsável por serviços de limpeza urbana de São Paulo
 

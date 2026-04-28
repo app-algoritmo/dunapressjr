@@ -1,11 +1,12 @@
 ---
-title: "STF tira sigilo de operação de fraude em cartão de vacina de Bolsonaro"
+title: STF tira sigilo de operação de fraude em cartão de vacina de Bolsonaro
 date: 2023-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ex-presidente teria usado documento falso para viajar aos EUA.
 

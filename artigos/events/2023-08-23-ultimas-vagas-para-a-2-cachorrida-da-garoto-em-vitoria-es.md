@@ -1,12 +1,13 @@
 ---
-title: "Últimas vagas para a 2ª Cachorrida da Garoto, em Vitória (ES)"
+title: Últimas vagas para a 2ª Cachorrida da Garoto, em Vitória (ES)
 date: 2023-08-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## As inscrições para a 32ª Dez Milhas Garoto e para a 20ª Garotada já estão esgotadas, mas ainda tem vagas para a Cachorrida.
 

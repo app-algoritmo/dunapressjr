@@ -1,11 +1,13 @@
 ---
-title: "Mais evidências sobre a inibição do sistema imunológico através da vacinação com mRNA"
+title: Mais evidências sobre a inibição do sistema imunológico através da vacinação
+  com mRNA
 date: 2023-09-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em meu [artigo de novembro de 2022,](https://infekt.ch/2022/11/31891/) relatei a sobrecarga dos hospitais infantis nos EUA. Mencionei as consequências do *distanciamento social* como uma possível explicação (ver também [Corona Elephant](https://www.versus.ch/titelanzeige/418/Der%20Corona-Elefant) , p. 140). Para manter o nosso sistema imunitário inato activo, este deve ser repetidamente estimulado por vírus e outros agentes patogénicos. A estimulação aumenta a capacidade das células de produzir produtos de defesa, especialmente interferon.
 

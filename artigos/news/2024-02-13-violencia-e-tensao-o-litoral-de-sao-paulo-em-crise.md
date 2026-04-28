@@ -1,11 +1,12 @@
 ---
-title: "Violência e Tensão: O Litoral de São Paulo em Crise"
+title: 'Violência e Tensão: O Litoral de São Paulo em Crise'
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A violência atinge níveis alarmantes no litoral de São Paulo, uma região crucial para o tráfico de cocaína com destino à Europa através do porto de Santos. Desde o final de Janeiro, dezesseis pessoas perderam suas vidas em confrontos armados com as forças policiais, como parte da segunda fase da Operação Escudo.
 

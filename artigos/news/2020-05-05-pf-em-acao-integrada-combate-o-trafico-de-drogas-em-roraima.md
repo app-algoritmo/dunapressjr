@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, combate o tráfico de drogas em Roraima"
+title: PF, em ação integrada, combate o tráfico de drogas em Roraima
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu, na noite da segunda-feira (4/5), quatro pessoas por tráfico de drogas.
 

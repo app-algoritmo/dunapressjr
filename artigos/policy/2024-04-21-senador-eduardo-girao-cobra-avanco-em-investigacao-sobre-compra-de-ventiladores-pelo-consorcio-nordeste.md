@@ -1,11 +1,13 @@
 ---
-title: "Senador Eduardo Girão cobra avanço em investigação sobre compra de ventiladores pelo Consórcio Nordeste"
+title: Senador Eduardo Girão cobra avanço em investigação sobre compra de ventiladores
+  pelo Consórcio Nordeste
 date: 2024-04-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em um pronunciamento contundente no Plenário nesta quinta-feira (18), o senador Eduardo Girão, representante do Novo-CE, lançou luz sobre a investigação em curso pela Polícia Federal acerca da compra de 300 ventiladores pulmonares pelo Consórcio Nordeste, no valor alarmante de R$ 48,7 milhões. Girão expressou sua preocupação com o aparente estagnamento do inquérito, que foi encaminhado ao Supremo Tribunal Federal (STF) em 2023 devido ao foro privilegiado do então governador da Bahia e coordenador do Consórcio Nordeste, Rui Costa, um dos investigados no caso.
 

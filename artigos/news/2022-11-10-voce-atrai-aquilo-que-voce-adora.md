@@ -1,12 +1,13 @@
 ---
-title: "Você atrai aquilo que você adora"
+title: Você atrai aquilo que você adora
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 Uma luta que todos nós temos é a de ser CONSTANTES. Muitas vezes vivemos uma montanha russa espiritual. Quero te dar algumas dicas para você vencer essa Inconstância na vida! Depois de ler, compartilhe!
 

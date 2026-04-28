@@ -1,11 +1,12 @@
 ---
-title: "Resumo das ações do Governo Jair Bolsonaro no enfrentamento ao Covid-19"
+title: Resumo das ações do Governo Jair Bolsonaro no enfrentamento ao Covid-19
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em destaque as principais ações do governo, e seus respectivos ministérios, decorrentes até a terceira semana de maio. 
 

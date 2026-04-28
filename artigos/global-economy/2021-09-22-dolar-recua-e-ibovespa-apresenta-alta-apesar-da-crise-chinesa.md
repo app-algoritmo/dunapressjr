@@ -1,11 +1,12 @@
 ---
-title: "Dólar recua e Ibovespa apresenta alta, apesar da crise chinesa"
+title: Dólar recua e Ibovespa apresenta alta, apesar da crise chinesa
 date: 2021-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Moeda fechou o dia cotada a R$ 5,28; Ibovespa fechou em 110 mil pontos.
 

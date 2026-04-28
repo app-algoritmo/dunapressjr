@@ -1,11 +1,13 @@
 ---
-title: "Cidade de tendas para migrantes em Brooklyn: uma realidade oculta sob os olhos dos nova-iorquinos"
+title: 'Cidade de tendas para migrantes em Brooklyn: uma realidade oculta sob os olhos
+  dos nova-iorquinos'
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No sul de Brooklyn, em um antigo campo de aviação operacional, existe uma cidade de tendas que abriga milhares de migrantes, uma realidade desconhecida para a maioria dos nova-iorquinos. Essa comunidade, composta por pessoas de diversas origens, incluindo África, China, Rússia, América Central e do Sul, vive em condições precárias, descritas por relatórios como "como gado". Estima-se que cerca de 2.000 migrantes residam nessa cidade de tendas, mas o número exato permanece desconhecido.
 

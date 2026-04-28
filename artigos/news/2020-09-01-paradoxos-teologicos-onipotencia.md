@@ -1,12 +1,13 @@
 ---
-title: "Paradoxos Teológicos: Onipotência!"
+title: 'Paradoxos Teológicos: Onipotência!'
 date: 2020-09-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 *“Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo”;*
 

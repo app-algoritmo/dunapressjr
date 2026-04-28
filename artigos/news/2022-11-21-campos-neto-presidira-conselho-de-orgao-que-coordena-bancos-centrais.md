@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto presidirá conselho de órgão que coordena bancos centrais"
+title: Campos Neto presidirá conselho de órgão que coordena bancos centrais
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Presidente do BC é o segundo brasileiro a ocupar o cargo.
 

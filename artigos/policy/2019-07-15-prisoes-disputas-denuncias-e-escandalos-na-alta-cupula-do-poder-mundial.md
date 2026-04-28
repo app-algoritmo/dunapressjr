@@ -1,11 +1,12 @@
 ---
-title: "Prisões, disputas, denúncias e escândalos na alta cúpula do poder mundial"
+title: Prisões, disputas, denúncias e escândalos na alta cúpula do poder mundial
 date: 2019-07-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tráfico de meninas e sua relação com o Deep State
 

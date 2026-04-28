@@ -1,11 +1,12 @@
 ---
-title: "Barômetros Globais registram alta em novembro"
+title: Barômetros Globais registram alta em novembro
 date: 2023-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Barômetro Global Antecedente sinaliza perspectivas mais favoráveis para os próximos meses.
 

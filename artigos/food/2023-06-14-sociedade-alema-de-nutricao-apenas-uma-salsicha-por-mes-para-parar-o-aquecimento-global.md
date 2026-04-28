@@ -1,11 +1,13 @@
 ---
-title: "Sociedade Alemã de Nutrição: Apenas UMA salsicha por mês para parar o aquecimento global"
+title: 'Sociedade Alemã de Nutrição: Apenas UMA salsicha por mês para parar o aquecimento
+  global'
 date: 2023-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O órgão oficial de nutrição da Alemanha atualizou [suas diretrizes de carne](https://wattsupwiththat.com/2023/06/07/only-one-sausage-per-month-for-everyone-german-nutrition-society-recommends-over-90-reduction-in-daily-meat-eating-to-combat-global-warming/) para reduzir drasticamente as quantidades que os alemães devem consumir todos os dias.
 

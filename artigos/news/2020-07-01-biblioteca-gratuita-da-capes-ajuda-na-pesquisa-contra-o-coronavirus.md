@@ -1,11 +1,12 @@
 ---
-title: "Biblioteca gratuita da Capes ajuda na pesquisa contra o coronavírus"
+title: Biblioteca gratuita da Capes ajuda na pesquisa contra o coronavírus
 date: 2020-07-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Downloads no Portal de Periódicos aumentam 7,5% durante a pandemia.
 

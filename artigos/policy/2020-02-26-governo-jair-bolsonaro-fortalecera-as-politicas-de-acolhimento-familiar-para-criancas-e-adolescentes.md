@@ -1,11 +1,13 @@
 ---
-title: "Governo Jair Bolsonaro fortalecerá as políticas de acolhimento familiar para crianças e adolescentes"
+title: Governo Jair Bolsonaro fortalecerá as políticas de acolhimento familiar para
+  crianças e adolescentes
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O governo brasileiro vai priorizar a política de acolhimento familiar como a melhor alternativa ao acolhimento institucional (abrigo) para evitar, ao máximo, a institucionalização de crianças e adolescentes em situação de vulnerabilidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras aumenta preço da gasolina em cerca de 8% nas refinarias"
+title: Petrobras aumenta preço da gasolina em cerca de 8% nas refinarias
 date: 2021-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preço médio do litro subiu R$ 0,17.
 

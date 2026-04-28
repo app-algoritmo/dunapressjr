@@ -1,11 +1,13 @@
 ---
-title: "No combate à Covid-19, ações de higienização  promovidas pelo Ministério da Defesa repetem-se todos os dias"
+title: No combate à Covid-19, ações de higienização  promovidas pelo Ministério da
+  Defesa repetem-se todos os dias
 date: 2020-04-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Assim como as orientações de lavar bem as mãos e usar álcool em gel várias vezes por dia são insistentemente repetidas desde o começo da pandemia, ações para combater a proliferação da doença precisam ocorrer de forma ininterrupta. É neste esforço que as Forças Armadas da Defesa concentram diversas ações. As iniciativas passam por conscientizar a população sobre os cuidados a serem tomados, ações de desinfecção e o uso correto dos equipamentos de proteção pessoal, entre outras atividades.
 

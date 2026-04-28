@@ -1,11 +1,12 @@
 ---
-title: "Ministros da Noruega convidam empresárias para apresentação de plano de ação"
+title: Ministros da Noruega convidam empresárias para apresentação de plano de ação
 date: 2019-08-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A Ministra da Cultura e Igualdade, Trine Skei Grande, e o Ministro do Comércio e da Indústria, Torbjørn Røe Isaksen, apresentam o plano de ação do governo para mulheres empresárias.
 

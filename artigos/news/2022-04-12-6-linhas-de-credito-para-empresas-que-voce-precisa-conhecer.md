@@ -1,11 +1,12 @@
 ---
-title: "6 linhas de crédito para empresas que você precisa conhecer￼"
+title: 6 linhas de crédito para empresas que você precisa conhecer￼
 date: 2022-04-12
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Manter um negócio funcionando saudavelmente e dando lucro é um grande desafio para qualquer pessoa que empreende. Para ajudar nisso, muitas vezes é necessário recorrer a uma linha crédito para empresa e conseguir honrar com todos os compromissos.
 

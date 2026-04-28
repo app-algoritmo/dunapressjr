@@ -1,11 +1,12 @@
 ---
-title: "Petrobras abre 734 vagas para Programa Jovem Aprendiz"
+title: Petrobras abre 734 vagas para Programa Jovem Aprendiz
 date: 2022-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Podem se candidatar jovens de 14 a 22 anos de idade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Médicos se unem para remover tumor facial de rosto de jovem em cirurgia inovadora"
+title: Médicos se unem para remover tumor facial de rosto de jovem em cirurgia inovadora
 date: 2024-04-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Paranaense enfrenta condição rara desde pré-adolescência e passa por cirurgia de reconstrução facial aos 24 anos em hospital SUS.
 

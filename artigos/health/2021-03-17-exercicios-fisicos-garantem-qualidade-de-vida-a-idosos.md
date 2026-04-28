@@ -1,11 +1,12 @@
 ---
-title: "Exercícios físicos garantem qualidade de vida a idosos"
+title: Exercícios físicos garantem qualidade de vida a idosos
 date: 2021-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A Organização Mundial da Saúde estima que, em 2050, a população mundial com idade superior a 60 anos chegue a 2 bilhões. Isso representa um quinto da população mundial! Com o aumento da estimativa de vida vem um grande desafio: como envelhecer saudável?
 

@@ -1,11 +1,12 @@
 ---
-title: "ANP assina 58 contratos de concessão da Oferta Permanente"
+title: ANP assina 58 contratos de concessão da Oferta Permanente
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bônus de assinatura passam de R$ 422 milhões.
 

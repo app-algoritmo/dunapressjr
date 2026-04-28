@@ -1,11 +1,13 @@
 ---
-title: "Coma suas vacinas: terapia genética de mRNA deve estar disponível em alimentos este mês"
+title: 'Coma suas vacinas: terapia genética de mRNA deve estar disponível em alimentos
+  este mês'
 date: 2023-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Eles queriam colocar uma agulha em cada braço. Isso não funcionou. Agora eles querem começar a adicionar a terapia genética de mRNA aos alimentos. 
 

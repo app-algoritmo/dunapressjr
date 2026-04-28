@@ -1,11 +1,13 @@
 ---
-title: "Microempresas (ME) e Empresas de Pequeno Porte (EPP) podem acessar informações sobre a receita bruta"
+title: Microempresas (ME) e Empresas de Pequeno Porte (EPP) podem acessar informações
+  sobre a receita bruta
 date: 2020-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Através das informações as empresas podem pleitearem acesso ao Pronampe.
 

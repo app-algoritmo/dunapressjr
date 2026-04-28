@@ -1,11 +1,13 @@
 ---
-title: "A Noruega e a sua excelência ambiental: Bioeconomia, Gestão de Madeira, Energias Limpas e G7"
+title: 'A Noruega e a sua excelência ambiental: Bioeconomia, Gestão de Madeira, Energias
+  Limpas e G7'
 date: 2018-09-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A Noruega oferece apoio para empresas com idéias de projetos na área ambiental. A pesquisa e a inovação nas empresas são aspectos importantes para o desenvolvimento especialmente da Bioeconomia, também chamada de Economia Ecológica ou Economia Sustentável (não confundir com Economia Ambiental), que é uma economia inteligente capaz de reunir todos os setores da Economia que utilizam recursos biológicos e conhecimento tecnológico. É, na verdade, a união de Ciências, Tecnologias e Artes (criação, invenção e inovação) para produzir tudo o que é necessário para o ser humano de um modo que seja plenamente favorável ao Meio Ambiente. Quem não segue ainda a linha da Bioeconomia está na contramão da História mundial contemporânea. O mundo hoje é bioeconômico e o planeta agradece. O mercado da Bioeconomia é forte, sua proposta-missão é oferecer soluções inteligentes, responsáveis, conscientes, coerentes, eficazes e concretas para os grandes desafios sociais como a crise econômica, as mudanças climáticas, substituição de recursos fósseis, segurança alimentar e saúde da população. A Bioeconomia é intrinsicamente ligada aos núcleos de pesquisas em Biociências, Tecnologias de Informação, Robótica e Arquitetura com o fim único de transformar conhecimento e criação de novas tecnologias em inovação tanto para a  indústria quanto para a sociedade. Portanto, a Bioeconomia enxerga a solução para o planeta na Educação e na Pesquisa, usadas como ferramentas imperativas para desenvolvimento pessoal e investigação acadêmica a fim de que seja possível empreender um estilo de vida *eco-friendly*. É preciso ser visionário para compreender a importância do trabalho da Bioeconomia que usa as teorias das Ciências Naturais em consonância com Ética, Estudos Culturais e Estudos Sociais, mantendo um diálogo constante e intenso com Economia Energética e Economia Industrial.
 

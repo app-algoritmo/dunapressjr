@@ -1,11 +1,12 @@
 ---
-title: "Infância acelerada: dicas para proteger crianças da 'adultização'"
+title: 'Infância acelerada: dicas para proteger crianças da ''adultização'''
 date: 2023-10-17
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Processo "rouba" etapas importantes da infância e traz consequências negativas no desenvolvimento social e emocional; hábitos simples que colocam as crianças como protagonistas devem ser incentivados.
 

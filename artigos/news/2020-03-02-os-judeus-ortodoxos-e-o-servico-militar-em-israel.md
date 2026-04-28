@@ -1,11 +1,12 @@
 ---
-title: "Os Judeus ortodoxos e o serviço militar em Israel"
+title: Os Judeus ortodoxos e o serviço militar em Israel
 date: 2020-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quando, aos 16 anos, Yossi começou a deixar sua escola talmúdica para o exército, seu irmão o agrediu: "prefira morrer". Em Israel, a questão do serviço militar dos judeus ultraortodoxos ainda está no centro de uma disputa política, à medida que as eleições legislativas se aproximam na segunda-feira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estoques da indústria voltam a ficar próximos do planejado"
+title: Estoques da indústria voltam a ficar próximos do planejado
 date: 2021-05-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar de queda na produção industrial, emprego não caiu em abril.
 

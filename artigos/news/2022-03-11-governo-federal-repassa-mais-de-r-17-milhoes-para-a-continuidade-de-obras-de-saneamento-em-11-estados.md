@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal repassa mais de R$ 17 milhões para a continuidade de obras de saneamento em 11 estados"
+title: Governo Federal repassa mais de R$ 17 milhões para a continuidade de obras
+  de saneamento em 11 estados
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos serão destinados a obras de abastecimento de água, esgotamento sanitário, saneamento integrado e manejo de águas pluviais.
 

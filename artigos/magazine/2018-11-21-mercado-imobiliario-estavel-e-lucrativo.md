@@ -1,11 +1,12 @@
 ---
-title: "Mercado imobiliário estável e lucrativo"
+title: Mercado imobiliário estável e lucrativo
 date: 2018-11-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O mercado imobiliário norueguês é um dos mais bem-sucedidos do mundo muitas pessoas já sabem, até mesmo em função da ampla divulgação destes dados tanto em veículos oficiais quanto na mídia internacional. O que bem pouca gente parece conhecer é o segredo da Noruega para alcançar níveis tão promissores inclusive em tempos de crise global.
 

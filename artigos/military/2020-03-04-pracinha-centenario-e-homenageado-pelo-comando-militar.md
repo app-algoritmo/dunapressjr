@@ -1,11 +1,12 @@
 ---
-title: "Pracinha Centenário é homenageado pelo Comando Militar"
+title: Pracinha Centenário é homenageado pelo Comando Militar
 date: 2020-03-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Às vésperas de completar 100 anos de idade, veterano da FEB, é homenageado na 4ª Cia E Cmb Mec
 

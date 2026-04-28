@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm déficit recorde de R$ 87,6 bilhões em agosto"
+title: Contas públicas têm déficit recorde de R$ 87,6 bilhões em agosto
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saldo negativo foi causado pelas despesas vinculadas à pandemia.
 

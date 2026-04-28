@@ -1,11 +1,13 @@
 ---
-title: "Revelação de Robert Kennedy Jr.: Lucros Obscuros e a Epidemia das Doenças Crônicas"
+title: 'Revelação de Robert Kennedy Jr.: Lucros Obscuros e a Epidemia das Doenças
+  Crônicas'
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante sua recente campanha em Iowa, o candidato presidencial independente, Robert Kennedy Jr., lançou luz sobre uma conexão sinistra que muitos não abordaram. Em uma análise notável, Kennedy apontou como a gigante financeira BlackRock, maior gestora de ativos do mundo, lucra com as doenças das pessoas em múltiplos níveis.
 

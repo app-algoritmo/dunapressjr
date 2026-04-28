@@ -1,11 +1,12 @@
 ---
-title: "Ao tomar posse, Gonet diz que MP é técnico e não busca holofotes"
+title: Ao tomar posse, Gonet diz que MP é técnico e não busca holofotes
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Novo PGR exalta harmonia entre poderes e respeito à dignidade humana.
 

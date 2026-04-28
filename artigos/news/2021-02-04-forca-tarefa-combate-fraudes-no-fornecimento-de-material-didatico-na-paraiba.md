@@ -1,11 +1,12 @@
 ---
-title: "Força-tarefa combate fraudes no fornecimento de material didático na Paraíba"
+title: Força-tarefa combate fraudes no fornecimento de material didático na Paraíba
 date: 2021-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## 11ª e 12ª fases da Operação Calvário investigam contratação ilícita de empresas e pagamento de vantagens indevidas a empresários e agentes públicos.
 

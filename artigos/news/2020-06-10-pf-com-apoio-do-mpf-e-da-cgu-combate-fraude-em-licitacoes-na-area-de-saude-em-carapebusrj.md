@@ -1,11 +1,13 @@
 ---
-title: "PF, com apoio do MPF e da CGU, combate fraude em licitações na área de saúde em Carapebus/RJ"
+title: PF, com apoio do MPF e da CGU, combate fraude em licitações na área de saúde
+  em Carapebus/RJ
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macaé/RJ - A Polícia Federal, em ação conjunta com o MPF e CGU, deflagrou nesta terça-feira (9/6) a operação SCEPTICUS, com o objetivo de apurar fraudes em licitações no Fundo Municipal de Saúde do Município de Carapebus/RJ.
 

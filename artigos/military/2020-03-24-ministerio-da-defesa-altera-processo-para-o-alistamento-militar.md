@@ -1,12 +1,13 @@
 ---
-title: "Ministério da Defesa Altera processo para o Alistamento Militar."
+title: Ministério da Defesa Altera processo para o Alistamento Militar.
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília (DF), 23/03/2020 -** Devido à
 pandemia da COVID-19, o alistamento militar poderá ser realizado apenas na

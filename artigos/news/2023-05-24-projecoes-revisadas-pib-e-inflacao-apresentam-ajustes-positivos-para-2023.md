@@ -1,11 +1,12 @@
 ---
-title: "Projeções Revisadas: PIB e Inflação Apresentam Ajustes Positivos para 2023"
+title: 'Projeções Revisadas: PIB e Inflação Apresentam Ajustes Positivos para 2023'
 date: 2023-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministério da Fazenda eleva estimativas de crescimento econômico e inflação, refletindo resultados favoráveis no primeiro semestre e perspectivas setoriais promissoras.
 

@@ -1,11 +1,12 @@
 ---
-title: "FGTS: calendário do saque emergencial vai de junho até novembro"
+title: 'FGTS: calendário do saque emergencial vai de junho até novembro'
 date: 2020-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 No país, 60 milhões de pessoas receberão até R$ 1.045.
 

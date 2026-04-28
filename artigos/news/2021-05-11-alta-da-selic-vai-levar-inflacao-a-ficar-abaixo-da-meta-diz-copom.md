@@ -1,11 +1,12 @@
 ---
-title: "Alta da Selic vai levar inflação a ficar abaixo da meta, diz Copom"
+title: Alta da Selic vai levar inflação a ficar abaixo da meta, diz Copom
 date: 2021-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para o comitê, elevação reflete "normalização parcial dos juros".
 

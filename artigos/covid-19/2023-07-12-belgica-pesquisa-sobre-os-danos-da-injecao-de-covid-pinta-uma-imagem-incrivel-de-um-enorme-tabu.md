@@ -1,11 +1,13 @@
 ---
-title: "Bélgica: Pesquisa sobre os danos da injeção de Covid pinta uma imagem 'incrível' de um enorme tabu"
+title: 'Bélgica: Pesquisa sobre os danos da injeção de Covid pinta uma imagem ''incrível''
+  de um enorme tabu'
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 [A revista Breakthrough](https://doorbraak.be/vaccinbijwerkingen-zijn-collateral-damage-voor-kabinet-vandenbroucke/) examinou os danos causados ​​pelas vacinas corona na Bélgica.
 

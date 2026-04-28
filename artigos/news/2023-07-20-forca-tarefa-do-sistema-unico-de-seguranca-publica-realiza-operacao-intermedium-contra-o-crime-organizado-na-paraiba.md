@@ -1,11 +1,13 @@
 ---
-title: "Força-Tarefa do Sistema Único de Segurança Pública realiza Operação Intermedium contra o crime organizado na Paraíba"
+title: Força-Tarefa do Sistema Único de Segurança Pública realiza Operação Intermedium
+  contra o crime organizado na Paraíba
 date: 2023-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crimes eram praticados por empresário ligado a facção criminosa. 
 

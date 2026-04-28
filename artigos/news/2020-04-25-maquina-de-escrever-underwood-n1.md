@@ -1,11 +1,12 @@
 ---
-title: "Máquina de Escrever Underwood N°1"
+title: Máquina de Escrever Underwood N°1
 date: 2020-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Máquina de Escrever Underwood n°1 e conhecer um pouco da história da máquina de escrever, e sua evolução até chegar ao sucesso de mercado da Underwood
 

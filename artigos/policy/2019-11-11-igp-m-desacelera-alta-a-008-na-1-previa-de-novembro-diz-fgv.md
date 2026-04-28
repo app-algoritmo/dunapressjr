@@ -1,11 +1,12 @@
 ---
-title: "IGP-M desacelera alta a 0,08% na 1ª prévia de novembro, diz FGV"
+title: IGP-M desacelera alta a 0,08% na 1ª prévia de novembro, diz FGV
 date: 2019-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Os preços das matérias-primas brutas no atacado registraram
 declínio em sua taxa de variação e o Índice Geral de Preços-Mercado (IGP-M)

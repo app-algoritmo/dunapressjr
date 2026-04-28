@@ -1,12 +1,13 @@
 ---
-title: "A violência institucional contra a criança"
+title: A violência institucional contra a criança
 date: 2023-05-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 ## A violência institucional contra a criança é um problema grave que afeta milhões de jovens em todo o mundo. 
 

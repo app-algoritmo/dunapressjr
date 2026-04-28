@@ -1,11 +1,12 @@
 ---
-title: "Bancos poderão retomar financiamentos do Plano Safra 2021/2022"
+title: Bancos poderão retomar financiamentos do Plano Safra 2021/2022
 date: 2022-06-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Retomada parcial foi autorizada pelo Governo Federal.
 

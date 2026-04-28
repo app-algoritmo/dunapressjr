@@ -1,11 +1,12 @@
 ---
-title: "Fazenda anuncia reoneração de combustíveis em R$ 28,9 bilhões"
+title: Fazenda anuncia reoneração de combustíveis em R$ 28,9 bilhões
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo o ministério, gasolina subirá mais que álcool.
 

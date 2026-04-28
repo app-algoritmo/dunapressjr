@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação de 5,61% para 5,63%"
+title: Mercado financeiro eleva projeção da inflação de 5,61% para 5,63%
 date: 2022-11-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Previsão para o PIB é de 2,76% em 2022.
 

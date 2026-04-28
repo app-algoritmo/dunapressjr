@@ -1,11 +1,13 @@
 ---
-title: "Denunciante do Ministério da Defesa vem a público e exige investigação dos novos dados sobre danos às vacinas"
+title: Denunciante do Ministério da Defesa vem a público e exige investigação dos
+  novos dados sobre danos às vacinas
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O tenente Ted Macie, que divulgou dados de saúde militar dos EUA em março passado, mostrando um aumento na inflamação do músculo cardíaco após o lançamento da vacina COVID-19, revelou novos dados esta semana mostrando um aumento no suicídio e automutilação entre o serviço membros e apelou ao Congresso para responsabilizar o Pentágono pelo seu “mandato de vacinação ilegal”.
 

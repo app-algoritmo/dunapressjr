@@ -1,11 +1,12 @@
 ---
-title: "A Queda da Quarta Emenda: A Vigilância Total em Nossas Vidas Privadas"
+title: 'A Queda da Quarta Emenda: A Vigilância Total em Nossas Vidas Privadas'
 date: 2024-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O espírito da Constituição dos Estados Unidos, criada por homens que combateram a tirania de um governante imperial, sempre sustentou que a casa de uma pessoa é um refúgio inviolável. No entanto, as intrusões governamentais e corporativas têm corroído essa privacidade, transformando-a em uma ilusão frágil.
 

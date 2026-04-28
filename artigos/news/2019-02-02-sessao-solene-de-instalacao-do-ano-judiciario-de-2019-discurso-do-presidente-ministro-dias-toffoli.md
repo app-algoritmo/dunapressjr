@@ -1,11 +1,13 @@
 ---
-title: "SESSÃO SOLENE DE INSTALAÇÃO DO ANO JUDICIÁRIO DE 2019 DISCURSO DO PRESIDENTE MINISTRO DIAS TOFFOLI"
+title: SESSÃO SOLENE DE INSTALAÇÃO DO ANO JUDICIÁRIO DE 2019 DISCURSO DO PRESIDENTE
+  MINISTRO DIAS TOFFOLI
 date: 2019-02-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ### Dias Toffoli abre Ano Judiciário defendendo equilíbrio institucional entre os Poderes
 

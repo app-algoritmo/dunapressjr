@@ -1,11 +1,12 @@
 ---
-title: "Abate de frangos cai, mas o de suínos e bovinos sobe no 1º trimestre"
+title: Abate de frangos cai, mas o de suínos e bovinos sobe no 1º trimestre
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cabeças de bovinos abatidas somam 6,91 milhões.
 

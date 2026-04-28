@@ -1,12 +1,13 @@
 ---
-title: "Erna Solberg revela a verdade sobre a Educação"
+title: Erna Solberg revela a verdade sobre a Educação
 date: 2019-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Policy
+- Education
+- Policy
 ---
+
 
 A Primeira Ministra do Reino da Noruega Erna Solberg demonstra extrema preocupação com a área da Educação. Em seus discursos, a Educação está sempre presente. 
 

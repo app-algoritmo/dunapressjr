@@ -1,11 +1,12 @@
 ---
-title: "Estoque de operações de crédito garantidas pela União cai 8,75%"
+title: Estoque de operações de crédito garantidas pela União cai 8,75%
 date: 2023-01-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Garantias honradas somaram R$ 9,78 bilhões em 2022, diz Tesouro.
 

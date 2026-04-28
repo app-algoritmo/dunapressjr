@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro assina contrato para concessão de rodovia em Santa Catarina"
+title: Governo Bolsonaro assina contrato para concessão de rodovia em Santa Catarina
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Trecho de 220,4 km fica entre Paulo Lopes (SC) e divisa com o Rio Grande do Sul, e contará com investimentos de R$ 7,4 bilhões.
 

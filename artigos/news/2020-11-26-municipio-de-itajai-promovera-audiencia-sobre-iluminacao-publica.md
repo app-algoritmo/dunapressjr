@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí promoverá audiência sobre iluminação pública"
+title: Município de Itajaí promoverá audiência sobre iluminação pública
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí promoverá nesta segunda-feira (30) uma audiência pública online sobre a iluminação pública da cidade. Devido aos cuidados com a pandemia de coronavírus (COVID-19), o evento será transmitido pela plataforma YouTube, a partir das 16h. Para participar acesse o link.
 

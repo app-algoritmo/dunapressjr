@@ -1,11 +1,12 @@
 ---
-title: "Dia Nacional do Livro é comemorado em 29 de outubro"
+title: Dia Nacional do Livro é comemorado em 29 de outubro
 date: 2021-10-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A leitura colabora diretamente para a construção e formação de todas e todos! Por isso, neste dia, é importante refletir sobre a relevância da democratização ao acesso e o incentivo à leitura. A revolução é coletiva!
 

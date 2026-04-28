@@ -1,11 +1,13 @@
 ---
-title: "Eutanásia em cães com leishmaniose não diminui a doença entre humanos, dizem especialistas"
+title: Eutanásia em cães com leishmaniose não diminui a doença entre humanos, dizem
+  especialistas
 date: 2021-09-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## Ministério da Saúde nega que prática da eutanásia seja prioridade e promete distribuição de coleiras com inseticida para evitar a contaminação dos cães.
 

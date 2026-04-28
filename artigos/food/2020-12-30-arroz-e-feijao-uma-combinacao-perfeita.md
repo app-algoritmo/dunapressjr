@@ -1,11 +1,12 @@
 ---
-title: "Arroz e feijão, uma combinação perfeita"
+title: Arroz e feijão, uma combinação perfeita
 date: 2020-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Se alguém te dissesse que o arroz e o feijão, a dupla clássica do “pê-efe” brasileiro, é uma combinação completa e saudável, você acreditaria? Então não precisa mais ter dúvidas! Quando o assunto é alimentação adequada e saudável, esses são dois alimentos que combinam.
 

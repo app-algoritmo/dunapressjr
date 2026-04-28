@@ -1,11 +1,12 @@
 ---
-title: "Butantan começa a desenvolver vacina contra gripe aviária"
+title: Butantan começa a desenvolver vacina contra gripe aviária
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estudo está na fase de testes em laboratório.
 

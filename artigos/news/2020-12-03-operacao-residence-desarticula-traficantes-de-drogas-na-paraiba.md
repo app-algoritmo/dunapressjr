@@ -1,11 +1,12 @@
 ---
-title: "Operação Residence desarticula traficantes de drogas na Paraíba"
+title: Operação Residence desarticula traficantes de drogas na Paraíba
 date: 2020-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## **PF cumpre 38 mandados de prisão preventiva e 23 de busca e apreensão**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê inflação de 7,67% para este ano"
+title: Mercado financeiro prevê inflação de 7,67% para este ano
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para 2023, IPCA deverá fechar em 5,09%.
 

@@ -1,11 +1,12 @@
 ---
-title: "Matthew Perry está longe de ser o único ator que morreu “de repente” este ano"
+title: Matthew Perry está longe de ser o único ator que morreu “de repente” este ano
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 O ator Matthew Perry, conhecido pela série de sucesso “Friends”, morreu inesperadamente no sábado, aos 54 anos. Ele foi encontrado morto na banheira de hidromassagem de sua casa.
 

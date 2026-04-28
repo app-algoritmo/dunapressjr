@@ -1,11 +1,12 @@
 ---
-title: "Zequinha repudia substituição dos termos 'pai' e 'mãe' em documentos oficiais"
+title: Zequinha repudia substituição dos termos 'pai' e 'mãe' em documentos oficiais
 date: 2023-02-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O senador Zequinha Marinho (PL-PA) repudiou nesta quarta-feira (8), em Plenário, um parecer da Procuradoria-Geral da República que defende a adaptação de documentos públicos em respeito à autoidentificação de gênero parental e às formações familiares homo e transafetivas. Para o senador, o parecer “atenta fortemente contra os valores das famílias”.
 

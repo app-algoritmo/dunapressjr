@@ -1,11 +1,12 @@
 ---
-title: "Governo lança guia de prevenção a acidentes domésticos e primeiros socorros"
+title: Governo lança guia de prevenção a acidentes domésticos e primeiros socorros
 date: 2020-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o objetivo de prevenir acidentes domésticos e orientar as famílias sobre medidas de primeiros socorros, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, nesta sexta-feira (3), a cartilha “Prevenção aos acidentes domésticos e guia rápido de primeiros socorros”.
 

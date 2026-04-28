@@ -1,11 +1,12 @@
 ---
-title: "SEFAZ-PB publica 19º Boletim com dados da arrecadação de março"
+title: SEFAZ-PB publica 19º Boletim com dados da arrecadação de março
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Fazenda (Sefaz-PB) publica a 19ª edição do Boletim, que traz dados, gráficos e análises da arrecadação da receita própria e das transferências, do mês de março. A edição completa do nº 19 está publicada no portal da Sefaz-PB por meio do link [https://abre.ai/cyb3](https://abre.ai/cyb3) e também anexada ao final dessa publicação.
 

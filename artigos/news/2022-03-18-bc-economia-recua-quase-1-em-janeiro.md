@@ -1,11 +1,12 @@
 ---
-title: "BC: economia recua quase 1% em janeiro"
+title: 'BC: economia recua quase 1% em janeiro'
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice sobre nível de atividade dos três setores econômicos caiu 0,99%.
 

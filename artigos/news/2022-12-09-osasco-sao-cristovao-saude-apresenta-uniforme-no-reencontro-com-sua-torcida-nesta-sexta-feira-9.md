@@ -1,11 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde apresenta uniforme no reencontro com sua torcida nesta sexta-feira (9)"
+title: Osasco São Cristóvão Saúde apresenta uniforme no reencontro com sua torcida
+  nesta sexta-feira (9)
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Osasco São Cristóvão Saúde enfrenta Barueri nesta sexta-feira (9), a partir das 20h, no ginásio José Liberatti, de roupa nova. A equipe mais tradicional do vôlei feminino do Brasil estreia uniforme na partida válida pela nona rodada da fase de classificação da Superliga 1XBET 2022/23, mas a torcida poderá conhecer a novidade horas antes. A apresentação oficial será às 9h desta sexta, em transmissão na Osasco Vôlei TV, no Youtube (@OsascoVoleiTV).
 

@@ -1,11 +1,13 @@
 ---
-title: "Uso do imóvel de família como garantia de empréstimo gera polêmica na votação de projeto"
+title: Uso do imóvel de família como garantia de empréstimo gera polêmica na votação
+  de projeto
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A permissão do uso do imóvel de família como garantia de empréstimos e, por consequência, a possibilidade de penhora desse bem para quitar a dívida, é uma das polêmicas do marco legal das garantias de empréstimos ([PL 4188/21](https://www.camara.leg.br/noticias/847456-PROPOSTA-DO-PODER-EXECUTIVO-MUDA-AS-REGRAS-SOBRE-GARANTIAS-DE-CREDITO)). Esse ponto foi alvo de críticas de diversos deputados durante a análise do projeto em Plenário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice de variação de aluguéis cai 0,02% em setembro, diz FGV"
+title: Índice de variação de aluguéis cai 0,02% em setembro, diz FGV
 date: 2022-10-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ivar avalia preço nas capitais paulista, mineira, fluminense e gaúcha.
 

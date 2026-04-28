@@ -1,11 +1,12 @@
 ---
-title: "Plataforma online mapeará obras paradas em estados e municípios"
+title: Plataforma online mapeará obras paradas em estados e municípios
 date: 2023-03-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Gestores têm até 10 de abril para atualizar informações no sistema.
 

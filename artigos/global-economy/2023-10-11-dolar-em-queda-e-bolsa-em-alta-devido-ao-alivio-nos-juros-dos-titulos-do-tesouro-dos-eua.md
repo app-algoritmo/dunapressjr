@@ -1,11 +1,13 @@
 ---
-title: "Dólar em queda e bolsa em alta devido ao alívio nos juros dos títulos do tesouro dos EUA"
+title: Dólar em queda e bolsa em alta devido ao alívio nos juros dos títulos do tesouro
+  dos EUA
 date: 2023-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Taxas de títulos do Tesouro americano em baixa e otimismo com projeções de crescimento econômico do FMI impulsionam mercado brasileiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que cria política de atenção a pessoas com imunodeficiências primárias"
+title: Comissão aprova proposta que cria política de atenção a pessoas com imunodeficiências
+  primárias
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados aprovou o [Projeto de Lei 1778/20](https://www.camara.leg.br/noticias/704244-PROJETO-CRIA-POLITICA-PARA-PESSOAS-COM-IMUNODEFICIENCIAS-PRIMARIAS), da deputada [Erika Kokay (PT-DF)](https://www.camara.leg.br/deputados/160575), que cria a Política Nacional de Atenção Integral às Imunodeficiências Primárias.
 

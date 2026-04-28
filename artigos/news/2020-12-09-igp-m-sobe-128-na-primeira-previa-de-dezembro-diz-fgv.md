@@ -1,11 +1,12 @@
 ---
-title: "IGP-M sobe 1,28% na primeira prévia de dezembro, diz FGV"
+title: IGP-M sobe 1,28% na primeira prévia de dezembro, diz FGV
 date: 2020-12-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alta foi puxada pelas taxas de variação das commodities.
 

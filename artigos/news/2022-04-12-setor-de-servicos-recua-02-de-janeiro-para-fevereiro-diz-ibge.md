@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços recua 0,2% de janeiro para fevereiro, diz IBGE"
+title: Setor de serviços recua 0,2% de janeiro para fevereiro, diz IBGE
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice cresceu 7,4% na comparação com fevereiro de 2021.
 

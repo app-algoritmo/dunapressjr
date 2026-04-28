@@ -1,12 +1,13 @@
 ---
-title: "IBGE lança livro em comemoração ao Bicentenário da Independência do Brasil"
+title: IBGE lança livro em comemoração ao Bicentenário da Independência do Brasil
 date: 2022-09-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - News
+- Bicentennial
+- News
 ---
+
 
 Trata-se de obra inédita do pesquisador e professor aposentado da Escola Nacional de Ciências Estatísticas (ENCE), Nelson de Castro Senra, em comemoração ao Bicentenário da Independência do Brasil. A publicação trata da relação entre o desenvolvimento de um sistema nacional de estatísticas e a formação do país como um estado nacional moderno.
 

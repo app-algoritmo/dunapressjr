@@ -1,11 +1,13 @@
 ---
-title: "Balança comercial registra superávit de US$ 1,040 bilhão na primeira semana de março"
+title: Balança comercial registra superávit de US$ 1,040 bilhão na primeira semana
+  de março
 date: 2020-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Corrente de comércio foi de US$ 8,665 bilhões, como resultado de exportações no valor de US$ 4,852 bilhões e importações de US$ 3,812 bilhões 
 

@@ -1,11 +1,13 @@
 ---
-title: "Considerados 'muito baixos' por Tebet, salários no Planejamento podem chegar a R$ 17,3 mil"
+title: Considerados 'muito baixos' por Tebet, salários no Planejamento podem chegar
+  a R$ 17,3 mil
 date: 2023-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A ministra de Planejamento e Orçamento, Simone Tebet, afirmou nesta quarta-feira (4) que os salários “muito baixos” da pasta são um dos fatores que dificultariam o convite de mulheres pretas para compor o segundo escalão da pasta.
 

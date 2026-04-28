@@ -1,11 +1,12 @@
 ---
-title: "Carlos Viana defende impenhorabilidade de salários e critica decisão do STJ"
+title: Carlos Viana defende impenhorabilidade de salários e critica decisão do STJ
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Viana (Podemos-MG) pediu o apoio dos colegas a um projeto de lei, de autoria dele, que determina que salários, soldos, vencimentos e toda e qualquer forma de ganho laboral que venha de autônomo ou pessoa que tenha carteira assinada não pode ser penhorado pela Justiça ([PL 4.386/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159864)). Em pronunciamento no Plenário na quarta-feira (20), o parlamentar criticou decisão do Superior Tribunal de Justiça (STJ) que estabelece que os salários das pessoas que têm dívidas “não são totalmente impenhoráveis”.
 

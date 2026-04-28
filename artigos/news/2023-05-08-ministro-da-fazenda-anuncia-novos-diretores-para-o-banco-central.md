@@ -1,11 +1,12 @@
 ---
-title: "Ministro da Fazenda anuncia novos diretores para o Banco Central"
+title: Ministro da Fazenda anuncia novos diretores para o Banco Central
 date: 2023-05-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Gabriel Galípolo e Ailton de Aquino Santos foram indicados para as Diretorias de Política Monetária e Fiscalização, respectivamente.
 

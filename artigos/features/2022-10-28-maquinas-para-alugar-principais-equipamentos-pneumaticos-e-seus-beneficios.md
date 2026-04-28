@@ -1,11 +1,12 @@
 ---
-title: "Máquinas para alugar: principais equipamentos pneumáticos e seus benefícios"
+title: 'Máquinas para alugar: principais equipamentos pneumáticos e seus benefícios'
 date: 2022-10-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Você está precisando ter acesso às melhores máquinas para alugar visando o bom andamento de um projeto? Dependendo do tipo de trabalho, os equipamentos pneumáticos podem ser uma ótima alternativa. 
 

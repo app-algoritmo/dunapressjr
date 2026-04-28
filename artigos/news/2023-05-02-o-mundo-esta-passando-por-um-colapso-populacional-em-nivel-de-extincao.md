@@ -1,11 +1,12 @@
 ---
-title: "O mundo está passando por um colapso populacional em nível de extinção?"
+title: O mundo está passando por um colapso populacional em nível de extinção?
 date: 2023-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As pessoas não estão mais tendo filhos, e [as tendências sugerem](https://endoftheamericandream.com/the-world-is-on-the-brink-of-a-catastrophic-population-collapse/) que um colapso populacional mundial está em andamento por causa disso.
 

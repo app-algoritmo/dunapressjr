@@ -1,11 +1,13 @@
 ---
-title: "Exportações da China mostram força em dezembro enquanto mundo aguarda assinatura de acordo com os EUA"
+title: Exportações da China mostram força em dezembro enquanto mundo aguarda assinatura
+  de acordo com os EUA
 date: 2020-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As exportações da China subiram pela primeira vez em cinco
 meses em dezembro e mais do que o esperado, sinalizando uma modesta recuperação

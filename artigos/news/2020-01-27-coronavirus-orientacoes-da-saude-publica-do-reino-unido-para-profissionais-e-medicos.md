@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus, orientações da saúde pública do reino unido para profissionais e médicos"
+title: Coronavírus, orientações da saúde pública do reino unido para profissionais
+  e médicos
 date: 2020-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Atualização 26.1.20: 14 países, 56 mortes e milhares de infectados
 

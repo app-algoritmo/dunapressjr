@@ -1,11 +1,12 @@
 ---
-title: "PM de SP recebe viaturas que reforçarão policiamento da capital"
+title: PM de SP recebe viaturas que reforçarão policiamento da capital
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## São 80 motos e 40 SUVs que atenderão a Força Tática e quatro Comandos de Área da capital.
 

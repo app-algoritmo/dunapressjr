@@ -1,11 +1,12 @@
 ---
-title: "Projeto torna crime o uso de símbolos e referências ao nazismo e ao fascismo"
+title: Projeto torna crime o uso de símbolos e referências ao nazismo e ao fascismo
 date: 2023-03-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 142/23 torna crime fabricar, comercializar, distribuir ou veicular símbolos, emblemas, ornamentos, distintivos ou propagandas que utilizem a cruz suástica ou quaisquer outras referências ao nazismo ou ao fascismo. O texto altera a [Lei do Racismo](https://www2.camara.gov.br/legin/fed/lei/1989/lei-7716-5-janeiro-1989-356354-norma-pl.html) e está sendo analisado pela Câmara dos Deputados.
 

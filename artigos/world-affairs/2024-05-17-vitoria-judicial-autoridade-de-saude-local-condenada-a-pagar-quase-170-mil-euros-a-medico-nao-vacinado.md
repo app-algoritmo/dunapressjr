@@ -1,11 +1,13 @@
 ---
-title: "Vitória Judicial: Autoridade de Saúde Local Condenada a Pagar Quase 170 Mil Euros a Médico Não Vacinado"
+title: 'Vitória Judicial: Autoridade de Saúde Local Condenada a Pagar Quase 170 Mil
+  Euros a Médico Não Vacinado'
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma decisão judicial impressionante em Bolzano, a autoridade de saúde local foi ordenada a pagar uma indenização de quase 170.000 euros a um médico suspenso por falta de vacinação. Este veredito representa um sucesso significativo para os profissionais de saúde não vacinados, comemorado pela advogada Sandri como um marco histórico.
 

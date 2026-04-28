@@ -1,11 +1,12 @@
 ---
-title: "O que é a 'doença do beijo', diagnosticado na cantora Anitta?"
+title: O que é a 'doença do beijo', diagnosticado na cantora Anitta?
 date: 2022-12-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 **A mononucleose infecciosa é causada pelo vírus Epstein-Barr e é transmitida principalmente pela saliva**
 

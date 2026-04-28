@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial acumula superávit de US$ 2,33 bilhões em dezembro"
+title: Balança comercial acumula superávit de US$ 2,33 bilhões em dezembro
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Até a segunda semana do mês, exportações somam US$ 9,06 bilhões e importações totalizam US$ 6,73 bilhões; no ano, saldo positivo é de US$ 59,86 bilhões.
 

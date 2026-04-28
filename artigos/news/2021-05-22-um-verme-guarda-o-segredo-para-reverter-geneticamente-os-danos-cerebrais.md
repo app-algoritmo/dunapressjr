@@ -1,11 +1,12 @@
 ---
-title: "Um verme guarda o segredo para reverter geneticamente os danos cerebrais?"
+title: Um verme guarda o segredo para reverter geneticamente os danos cerebrais?
 date: 2021-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A pesquisa da Universidade Hebraica produz sinapses geneticamente modificadas, evitando danos neurais.
 

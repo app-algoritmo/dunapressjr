@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz litro da gasolina em R$ 0,25 nas distribuidoras"
+title: Petrobras reduz litro da gasolina em R$ 0,25 nas distribuidoras
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida entrará em vigor nesta sexta-feira.
 

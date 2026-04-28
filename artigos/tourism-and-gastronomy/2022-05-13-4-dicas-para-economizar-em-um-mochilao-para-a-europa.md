@@ -1,11 +1,12 @@
 ---
-title: "4 dicas para economizar em um mochilão para a Europa"
+title: 4 dicas para economizar em um mochilão para a Europa
 date: 2022-05-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## -Viajar gastando pouco é o desejo de muitos brasileiros que optam pelo mochilão. Para isso, é preciso ficar atento a algumas orientações.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em queda de 0,40% em meio a realização de lucros"
+title: Ibovespa fecha em queda de 0,40% em meio a realização de lucros
 date: 2023-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem queda e acumula perdas de 2,8% no mês e de 6,7% no ano frente ao real
 

@@ -1,11 +1,12 @@
 ---
-title: "Inteligência  Artificial define  'democracia charlatã'"
+title: Inteligência  Artificial define  'democracia charlatã'
 date: 2024-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 **Eleições não representativas**, **Falta de liberdade de expressão**, **Poder concentrado**, **Corrupção e falta de transparência** são as características identificadas em uma democracia charlatã.
 

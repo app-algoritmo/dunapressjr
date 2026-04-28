@@ -1,11 +1,13 @@
 ---
-title: "Rússia aberta a solução política para conflito na Ucrânia, mas 'perspectivas são escassas', diz diplomata"
+title: Rússia aberta a solução política para conflito na Ucrânia, mas 'perspectivas
+  são escassas', diz diplomata
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O representante permanente da Rússia na sede da ONU em Genebra, Gennady Gatilov, observou que as perspectivas são vagas por causa de Kiev e seus manipuladores ocidentais, que continuam a contar com o uso da força militar.
 

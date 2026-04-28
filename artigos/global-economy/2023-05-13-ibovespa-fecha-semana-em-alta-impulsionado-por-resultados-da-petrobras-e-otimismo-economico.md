@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha semana em alta impulsionado por resultados da Petrobras e otimismo econômico"
+title: Ibovespa fecha semana em alta impulsionado por resultados da Petrobras e otimismo
+  econômico
 date: 2023-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Índice registra sétima alta consecutiva e supera os 108 mil pontos, enquanto investidores se mostram confiantes em relação ao novo arcabouço fiscal e aos resultados positivos da estatal.
 

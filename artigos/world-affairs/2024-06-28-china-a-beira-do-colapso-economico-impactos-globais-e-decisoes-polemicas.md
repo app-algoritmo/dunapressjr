@@ -1,11 +1,12 @@
 ---
-title: "China à Beira do Colapso Econômico? Impactos Globais e Decisões Polêmicas"
+title: China à Beira do Colapso Econômico? Impactos Globais e Decisões Polêmicas
 date: 2024-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A economia da China, a segunda maior do mundo, está mostrando sinais alarmantes de um colapso iminente, de acordo com o Business Insider (BI). Vários eventos recentes e decisões políticas de Pequim estão abalando o mercado global e levando a uma crise profunda no país.
 

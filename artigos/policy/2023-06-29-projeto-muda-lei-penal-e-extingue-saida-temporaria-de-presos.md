@@ -1,11 +1,12 @@
 ---
-title: "Projeto muda lei penal e extingue saída temporária de presos"
+title: Projeto muda lei penal e extingue saída temporária de presos
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 1386/23 extingue a saída temporária de presos, como os conhecidos “saidões” de Natal. O texto está em tramitação na Câmara dos Deputados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão Mista de Inteligência aprova R$ 466,3 milhões em emendas ao Orçamento"
+title: Comissão Mista de Inteligência aprova R$ 466,3 milhões em emendas ao Orçamento
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista de Controle das Atividades de Inteligência (CCAI) aprovou nesta sexta-feira (11) relatório com quatro emendas ao Projeto da Lei Orçamentária Anual de 2023 ([PLN 32/2022](http://www.congressonacional.leg.br/materias/pesquisa/-/materia/154644)). As sugestões de despesas seguem agora para análise da Comissão Mista de Orçamento (CMO).
 

@@ -1,11 +1,12 @@
 ---
-title: "Moçambique confirma surto de cólera"
+title: Moçambique confirma surto de cólera
 date: 2019-03-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Após
 passagem do ciclone, país busca administrar impactos*

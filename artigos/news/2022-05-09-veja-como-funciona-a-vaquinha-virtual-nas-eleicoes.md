@@ -1,11 +1,12 @@
 ---
-title: "Veja como funciona a vaquinha virtual nas eleições"
+title: Veja como funciona a vaquinha virtual nas eleições
 date: 2022-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Arrecadação pode começar a partir do dia 15 deste mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Filme | The Old Guard"
+title: Filme | The Old Guard
 date: 2020-08-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **The Old Guard é um filme de ação e ficção científica de super-heróis de 2020, baseado na série de histórias em quadrinhos de mesmo nome de Rucka e ilustrado por Leandro Fernández.**
 

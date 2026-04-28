@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: Adesão ao Império"
+title: 'Série Fatos Da Independência: Adesão ao Império'
 date: 2023-04-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 A situação na província não havia melhorado em nada quando chegou uma nova notícia: Dom Pedro dava um passo em direção à emancipação política do Brasil. Em fevereiro de 1822, ele convocou eleições para o Conselho dos Procuradores das Províncias, também chamado Conselho de Estado, que tinha como função fazer convergir, na Corte fluminense, os poderes autônomos de cada província, concordassem eles ou não com a postura do Rio de Janeiro. Sob a alegação de que as juntas poderiam provocar cisões no Brasil, o que o Príncipe demandava, na verdade, era a lealdade de todas as localidades: ou era a unidade do território com o Rio, ou era o seu desmembramento, com Lisboa.
 

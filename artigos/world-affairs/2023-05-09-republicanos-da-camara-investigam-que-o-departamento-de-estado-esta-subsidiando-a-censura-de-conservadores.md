@@ -1,11 +1,13 @@
 ---
-title: "Republicanos da Câmara investigam que o Departamento de Estado está subsidiando a censura de conservadores"
+title: Republicanos da Câmara investigam que o Departamento de Estado está subsidiando
+  a censura de conservadores
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Os republicanos de Relações Exteriores da Câmara enviaram uma carta na terça-feira ao secretário de Estado, Antony Blinken, exigindo mais informações sobre o financiamento do departamento a grupos que censuram os conservadores e a liberdade de expressão.
 

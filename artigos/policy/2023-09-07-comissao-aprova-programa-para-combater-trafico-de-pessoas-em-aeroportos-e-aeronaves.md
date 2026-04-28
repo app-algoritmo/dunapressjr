@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova programa para combater tráfico de pessoas em aeroportos e aeronaves"
+title: Comissão aprova programa para combater tráfico de pessoas em aeroportos e aeronaves
 date: 2023-09-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara dos Deputados aprovou proposta que cria o programa Voo para a Liberdade, para combater o tráfico de pessoas em aeronaves nacionais e estrangeiras e em aeroportos do País.
 

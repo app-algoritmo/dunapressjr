@@ -1,12 +1,13 @@
 ---
-title: "Projeto Formações IEE encerra o primeiro semestre com ações em sete estados"
+title: Projeto Formações IEE encerra o primeiro semestre com ações em sete estados
 date: 2024-07-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Foram 395 profissionais capacitados, em oito cidades, com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

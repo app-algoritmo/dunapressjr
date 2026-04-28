@@ -1,11 +1,12 @@
 ---
-title: "Exportações brasileiras batem recordes em julho e no acumulado do ano"
+title: Exportações brasileiras batem recordes em julho e no acumulado do ano
 date: 2021-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saldo comercial e corrente de comércio também atingem resultados históricos, enquanto importações cresceram – mesmo sem recordes –, indicando retomada da economia.
 

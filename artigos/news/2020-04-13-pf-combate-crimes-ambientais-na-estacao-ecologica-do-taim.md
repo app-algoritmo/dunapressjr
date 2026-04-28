@@ -1,11 +1,12 @@
 ---
-title: "PF combate crimes ambientais na Estação Ecológica do Taim"
+title: PF combate crimes ambientais na Estação Ecológica do Taim
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Rio Grande/RS – A Polícia Federal, em conjunto com o Comando Ambiental da Brigada Militar, executa nesta segunda-feira (13/4) operação para combater crimes de caça e maus tratos a animais silvestres (capivaras) na Estação Ecológica do Taim.
 

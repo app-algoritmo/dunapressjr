@@ -1,11 +1,12 @@
 ---
-title: "Como smartphones e mídias sociais criam um estado de esquizofrenia"
+title: Como smartphones e mídias sociais criam um estado de esquizofrenia
 date: 2023-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Muitas pessoas passam mais tempo olhando para as telas do que interagindo com o mundo real. Hora após hora, dia após dia, são apenas olhos e ouvidos que servem de entrada, e boca e dedos que agem como saída.
 

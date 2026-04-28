@@ -1,11 +1,12 @@
 ---
-title: "Um balão para cada criança morta"
+title: Um balão para cada criança morta
 date: 2023-02-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Eles querem dar o exemplo: ajudantes turcos instalaram balões coloridos nos escombros do terremoto para comemorar as muitas crianças que morreram.
 

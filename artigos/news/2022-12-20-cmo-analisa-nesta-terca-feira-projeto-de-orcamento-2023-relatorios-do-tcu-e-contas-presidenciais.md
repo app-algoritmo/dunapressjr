@@ -1,11 +1,13 @@
 ---
-title: "CMO analisa nesta terça-feira projeto de Orçamento 2023, relatórios do TCU e contas presidenciais"
+title: CMO analisa nesta terça-feira projeto de Orçamento 2023, relatórios do TCU
+  e contas presidenciais
 date: 2022-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão Mista de Orçamento (CMO) realiza reunião nesta terça-feira (20) para votar o relatório do senador Marcelo Castro (PMDB-PI) ao projeto de Lei Orçamentária Anual (LOA) de 2023 (PLN [32/22](https://www.camara.leg.br/noticias/906580-orcamento-de-2023-traz-auxilio-brasil-de-r-405)). A reunião foi convocada pelo deputado [Celso Sabino (União-PA)](https://www.camara.leg.br/deputados/204496), presidente da comissão.
 

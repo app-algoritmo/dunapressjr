@@ -1,11 +1,12 @@
 ---
-title: "CBIC: 46,7% dos empresários da construção estão preocupados com custos"
+title: 'CBIC: 46,7% dos empresários da construção estão preocupados com custos'
 date: 2022-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inflação de materiais é de 51,21% de janeiro de 2020 a março de 2022.
 

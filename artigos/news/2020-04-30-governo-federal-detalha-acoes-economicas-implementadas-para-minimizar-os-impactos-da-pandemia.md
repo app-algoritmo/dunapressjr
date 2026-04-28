@@ -1,11 +1,13 @@
 ---
-title: "Governo Federal detalha ações econômicas implementadas para minimizar os impactos da pandemia"
+title: Governo Federal detalha ações econômicas implementadas para minimizar os impactos
+  da pandemia
 date: 2020-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As ações foram detalhadas durante coletiva de imprensa com os Ministros da Economia e Casa Civi, no Palácio do Planalto
 Nesta quarta-feira (29), os ministros da Casa Civil, general Braga Netto, e da Economia, Paulo Guedes, participaram da coletiva de imprensa, realizada no Palácio do Planalto e detalharam as ações do Governo Federal no combate aos impactos da pandemia do novo coronavírus.

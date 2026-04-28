@@ -1,11 +1,12 @@
 ---
-title: "Maria Quitéria recebe a insígnia de cavaleiro da Ordem Imperial do Cruzeiro"
+title: Maria Quitéria recebe a insígnia de cavaleiro da Ordem Imperial do Cruzeiro
 date: 2022-09-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Passados os piores momentos das guerras de independência que aconteciam em algumas províncias do Brasil, d. Pedro I iniciou a premiação aos *brasileiros* que mais tivessem se destacado na defesa da causa no processo de Independência. Pelos serviços prestados durante a guerra de independência na Bahia, na reconquista de Salvador, o imperador concede a Maria Quitéria o direito de usar a insígnia de cavaleiro da Ordem do Cruzeiro, ressaltando os relevantes serviços prestados por alguém de seu “sexo”.
 

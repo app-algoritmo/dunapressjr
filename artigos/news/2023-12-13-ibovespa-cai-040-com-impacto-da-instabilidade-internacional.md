@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,40% com impacto da instabilidade internacional"
+title: Ibovespa cai 0,40% com impacto da instabilidade internacional
 date: 2023-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar se aproxima de R$ 5.
 

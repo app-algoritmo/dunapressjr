@@ -1,11 +1,12 @@
 ---
-title: "O modelo econômico mundial fracassou"
+title: O modelo econômico mundial fracassou
 date: 2020-04-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Desde o início do século passado nossa economia vem mostrando fragilidade e que não atinge a todos em termos de renda, alimentação, moradia, emprego, estudo, entre outros fatores. Não fornece todo o essencial para todos.
 

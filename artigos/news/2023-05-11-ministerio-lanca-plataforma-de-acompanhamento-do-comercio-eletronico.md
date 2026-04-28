@@ -1,11 +1,12 @@
 ---
-title: "Ministério lança plataforma de acompanhamento do comércio eletrônico"
+title: Ministério lança plataforma de acompanhamento do comércio eletrônico
 date: 2023-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Painel de dados lançado pelo MDIC nesta quinta-feira (11) traz informações inéditas sobre produtos comercializados pela internet em todo o território nacional.
 

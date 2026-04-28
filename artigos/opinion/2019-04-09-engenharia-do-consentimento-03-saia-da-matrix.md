@@ -1,11 +1,12 @@
 ---
-title: "Engenharia do Consentimento - 03 - Saia da matrix"
+title: Engenharia do Consentimento - 03 - Saia da matrix
 date: 2019-04-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A população aceita a mediocridade como uma coisa perfeitamente normal. Quanto mais vulgar, baixo nível, está tudo bem. Passou-se a aceitar tudo o que é negativo e para baixo, como normal.
 

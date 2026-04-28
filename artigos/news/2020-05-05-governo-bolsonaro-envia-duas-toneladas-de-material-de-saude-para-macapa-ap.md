@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro envia duas toneladas de material de saúde para Macapá (AP)"
+title: Governo Bolsonaro envia duas toneladas de material de saúde para Macapá (AP)
 date: 2020-05-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### O transporte da carga faz parte das ações do Governo Federal, por meio do Ministério da Defesa, na priorização do transporte de insumos de combate ao novo coronavírus. O Comando Conjunto Amazônia, por intermédio da Força Aérea Brasileira (FAB), transportou, a bordo de um C-130 Hércules, as duas toneladas de material de saúde, de São Paulo (SP) para Macapá (AP).
 

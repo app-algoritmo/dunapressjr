@@ -1,11 +1,13 @@
 ---
-title: "Receita Federal regulamenta Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte"
+title: Receita Federal regulamenta Programa Nacional de Apoio às Microempresas e Empresas
+  de Pequeno Porte
 date: 2020-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pronampe beneficiará cerca de 4,5 milhões de pequenos negócios frente à crise causada pela Covid-19.
 

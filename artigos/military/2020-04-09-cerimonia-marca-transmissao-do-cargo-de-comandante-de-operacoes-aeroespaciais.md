@@ -1,11 +1,12 @@
 ---
-title: "Cerimônia marca transmissão do cargo de Comandante de Operações Aeroespaciais"
+title: Cerimônia marca transmissão do cargo de Comandante de Operações Aeroespaciais
 date: 2020-04-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) realizou, nesta quarta-feira (08/04), em Brasília (DF), a cerimônia militar de transmissão do cargo de Comandante de Operações Aeroespaciais, do Tenente-Brigadeiro do Ar José Magno Resende de Araujo ao Tenente-Brigadeiro do Ar Jeferson Domingues de Freitas. A solenidade foi presidida pelo Ministro da Defesa, Fernando Azevedo e Silva, acompanhado  do  Comandante  da  Aeronáutica,  Tenente-Brigadeiro do Ar Antonio Carlos Moretti Bermudez.
 

@@ -1,11 +1,12 @@
 ---
-title: "CCR vence leilão de concessão do trecho sul da BR-101"
+title: CCR vence leilão de concessão do trecho sul da BR-101
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Grupo ofereceu menor tarifa de pedágio R$ 1,97012
 

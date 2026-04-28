@@ -1,11 +1,13 @@
 ---
-title: "Fapesq recebe propostas para Programa de Desenvolvimento Científico e Tecnológico Regional da Paraíba"
+title: Fapesq recebe propostas para Programa de Desenvolvimento Científico e Tecnológico
+  Regional da Paraíba
 date: 2020-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Programa visa à atração e fixação de doutores no Estado da Paraíba.
 

@@ -1,11 +1,13 @@
 ---
-title: "Deputado propõe Reforma Tributária inspirada nos EUA para promover autonomia fiscal"
+title: Deputado propõe Reforma Tributária inspirada nos EUA para promover autonomia
+  fiscal
 date: 2023-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta de PEC 007/2020 busca simplificar sistema tributário e fortalecer estados e municípios na definição de impostos e alíquotas.
 

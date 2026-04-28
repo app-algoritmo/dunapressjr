@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo para diagnóstico rápido da Covid-19"
+title: Novo estudo para diagnóstico rápido da Covid-19
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de equipe multidisciplinar da UFMG recebe apoio do Programa de Combate a Epidemias.
 

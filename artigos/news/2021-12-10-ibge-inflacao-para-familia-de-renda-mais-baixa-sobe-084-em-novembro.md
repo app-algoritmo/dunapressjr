@@ -1,11 +1,12 @@
 ---
-title: "IBGE: inflação para família de renda mais baixa sobe 0,84% em novembro"
+title: 'IBGE: inflação para família de renda mais baixa sobe 0,84% em novembro'
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice ficou abaixo dos observados em outubro deste ano (1,16%).
 

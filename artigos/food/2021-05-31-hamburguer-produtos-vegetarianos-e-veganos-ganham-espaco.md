@@ -1,11 +1,12 @@
 ---
-title: "Hambúrguer: produtos vegetarianos e veganos ganham espaço"
+title: 'Hambúrguer: produtos vegetarianos e veganos ganham espaço'
 date: 2021-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 ## A escolha por proteínas alternativas à carne vermelha, deve crescer quatro vezes e alcançar 8% do que é consumido até o fim da década, segundo estudo.
 

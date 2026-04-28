@@ -1,11 +1,13 @@
 ---
-title: "Apelos para eliminar Israel e os EUA durante uma manifestação pró-palestina e pró-Black Lives Matter nos EUA"
+title: Apelos para eliminar Israel e os EUA durante uma manifestação pró-palestina
+  e pró-Black Lives Matter nos EUA
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em uma manifestação pró-palestina e pró-Black Lives Matter no Brooklyn nesta semana, os participantes pediram a eliminação do estado judeu, bem como a eliminação dos Estados Unidos, cantando vários slogans, incluindo "Morte a Israel", "Morte à América e" de Gaza a Minnesota, globalize a Intifada! "
 

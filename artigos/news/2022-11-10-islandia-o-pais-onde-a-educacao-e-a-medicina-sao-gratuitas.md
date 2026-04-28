@@ -1,12 +1,13 @@
 ---
-title: "ISLÂNDIA: O país onde a educação e a medicina são gratuitas"
+title: 'ISLÂNDIA: O país onde a educação e a medicina são gratuitas'
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Tourism and Gastronomy
+- News
+- Tourism and Gastronomy
 ---
+
 
 Não há McDonald's nem lock-ups… Toda pessoa sonha em ter uma vida melhor e viver em um país moderno. Deste ponto de vista, a Islândia é o país ideal. Não há exército aqui, a eletricidade é gratuita e as pessoas raramente trancam seus carros e casas! A Islândia é um país insular do norte localizado entre o Atlântico Norte e o Oceano Ártico e estava sob soberania dinamarquesa até 1º de dezembro de 1918. A população da Islândia é de apenas 332.529 pessoas. As pessoas confiam umas nas outras, então não trancam seus carros ou casas, e as crianças podem ficar sem supervisão por alguns minutos enquanto os pais fazem compras. Aqui estão algumas curiosidades sobre a Islândia: 
 

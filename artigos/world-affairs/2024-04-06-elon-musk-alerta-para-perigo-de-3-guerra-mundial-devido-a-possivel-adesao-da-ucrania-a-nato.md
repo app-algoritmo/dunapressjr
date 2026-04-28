@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk Alerta para Perigo de 3ª Guerra Mundial devido à Possível Adesão da Ucrânia à NATO"
+title: Elon Musk Alerta para Perigo de 3ª Guerra Mundial devido à Possível Adesão
+  da Ucrânia à NATO
 date: 2024-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O empresário e visionário Elon Musk expressou sérias preocupações em relação às recentes discussões sobre a possível adesão da Ucrânia à NATO, alertando para os perigos que essa medida poderia desencadear. Em uma troca de comentários com o renomado especialista político Ben Shapiro, Musk destacou a possibilidade de um cenário apocalíptico se a Ucrânia se tornar membro da aliança militar.
 

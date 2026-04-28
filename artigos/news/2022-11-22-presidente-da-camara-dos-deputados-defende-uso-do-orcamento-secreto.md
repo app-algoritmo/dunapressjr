@@ -1,11 +1,12 @@
 ---
-title: "Presidente da Câmara dos Deputados defende uso do orçamento secreto"
+title: Presidente da Câmara dos Deputados defende uso do orçamento secreto
 date: 2022-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para Lira, Congresso deve poder decidir sobre a aplicação de recursos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa de Valores acumula ganhos na semana, mas fecha dia em queda"
+title: Bolsa de Valores acumula ganhos na semana, mas fecha dia em queda
 date: 2023-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar fechou o dia em baixa de 0,23%, cotado a R$4,9162.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fábio Faria toma posse no Ministério das Comunicações"
+title: Fábio Faria toma posse no Ministério das Comunicações
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo ele, é prioritário promover a inclusão digital porque ainda há uma grande parcela da população sem acesso à internet.
 

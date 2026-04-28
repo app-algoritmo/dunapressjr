@@ -1,11 +1,12 @@
 ---
-title: "Nobel da Paz - Roteiro para iniciantes"
+title: Nobel da Paz - Roteiro para iniciantes
 date: 2019-05-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 ## Para todos que buscam informações sobre a premiação
 

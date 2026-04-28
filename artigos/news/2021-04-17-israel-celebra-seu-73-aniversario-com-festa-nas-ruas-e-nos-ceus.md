@@ -1,11 +1,12 @@
 ---
-title: "Israel celebra seu 73º aniversário com festa nas ruas e nos céus"
+title: Israel celebra seu 73º aniversário com festa nas ruas e nos céus
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os aviões da Força Aérea israelense sobrevoaram o país na manhã desta quinta–feira em comemoração ao Dia da Independência e, neste ano, com a maioria da população vacinada, o público pode voltar a se reunir nas ruas para participar das celebrações.
 

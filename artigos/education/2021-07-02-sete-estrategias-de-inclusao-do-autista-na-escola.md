@@ -1,11 +1,12 @@
 ---
-title: "Sete estratégias de inclusão do autista na escola"
+title: Sete estratégias de inclusão do autista na escola
 date: 2021-07-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A Lei de Inclusão da Pessoa com Deficiência, aprovada no Brasil em 2015, garante ao indivíduo com necessidades especiais o direito e acesso à Educação. Apesar disso, garantir a inclusão do aluno autista em sala de aula ainda é um desafio não apenas para famílias, mas também para escolas e professores. Como o Transtorno do Espectro Autista (TEA) possui níveis e intensidades bastante amplos, fazendo com que o indivíduo possua características, sintomas e comportamentos variados e distintos, em boa parte das vezes os educadores se sentem despreparados para lidar com as situações que surgem quando são desafiados a trabalhar com um aluno autista.
 

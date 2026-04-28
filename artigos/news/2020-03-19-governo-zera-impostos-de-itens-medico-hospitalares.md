@@ -1,11 +1,12 @@
 ---
-title: "Governo zera impostos de itens médico-hospitalares"
+title: Governo zera impostos de itens médico-hospitalares
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No total, 50 itens médico-hospitalares tiveram impostos zerados para garantir o abastecimento e o atendimento da população diante da pandemia do coronavírus. Medida também determina que os órgãos e entidades de licenciamento, controle ou fiscalização de importações desses itens adotem tratamento prioritário para a liberação das mercadorias.  
 

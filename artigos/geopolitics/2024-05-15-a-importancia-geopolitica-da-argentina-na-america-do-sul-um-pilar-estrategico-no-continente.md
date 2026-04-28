@@ -1,11 +1,13 @@
 ---
-title: "A Importância Geopolítica da Argentina na América do Sul: Um Pilar Estratégico no Continente"
+title: 'A Importância Geopolítica da Argentina na América do Sul: Um Pilar Estratégico
+  no Continente'
 date: 2024-05-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Argentina, uma das nações mais influentes da América do Sul, desempenha um papel crucial na configuração geopolítica da região. Com sua vasta extensão territorial, economia diversificada e histórico político, o país tem sido um pilar estratégico na dinâmica continental.
 

@@ -1,11 +1,12 @@
 ---
-title: "Lira afirma que há vontade política para votar reforma tributária neste ano"
+title: Lira afirma que há vontade política para votar reforma tributária neste ano
 date: 2023-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), disse nesta segunda-feira (6) que há vontade política do Congresso Nacional e do governo em votar a reforma tributária, tema que ele considera o mais importante do ano.
 

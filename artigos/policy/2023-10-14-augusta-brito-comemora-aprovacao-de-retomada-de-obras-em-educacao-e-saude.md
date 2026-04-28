@@ -1,11 +1,12 @@
 ---
-title: "Augusta Brito comemora aprovação de retomada de obras em educação e saúde"
+title: Augusta Brito comemora aprovação de retomada de obras em educação e saúde
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento na terça-feira (10), a senadora Augusta Brito (PT-CE) celebrou a aprovação do projeto de lei que cria o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde ([PL 4.172/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159902)). A proposta também garante recursos do Fundo Nacional de Desenvolvimento da Educação (FNDE) e do Sistema Único de Saúde (SUS) para os empreendimentos considerados prioritários pelos estados e municípios. O texto, aprovado no Senado nesta terça, seguiu para sanção presidencial.
 

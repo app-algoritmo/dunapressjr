@@ -1,12 +1,13 @@
 ---
-title: "Noruega entra em campo daqui a pouco pela UEFA Euro com esse time"
+title: Noruega entra em campo daqui a pouco pela UEFA Euro com esse time
 date: 2019-03-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Sports
+- Magazine
+- Sports
 ---
+
 
 Olha o time. O *Diario AS é que informa que o time é esse. *
 

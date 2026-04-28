@@ -1,11 +1,12 @@
 ---
-title: "Governo regulamenta valores de emendas parlamentares para habitação"
+title: Governo regulamenta valores de emendas parlamentares para habitação
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida está publicada no Diário Oficial da União
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê redução da Selic para 2% ao ano nesta semana"
+title: Mercado financeiro prevê redução da Selic para 2% ao ano nesta semana
 date: 2020-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Reunião do Copom está marcada para terça e quarta-feira.
 

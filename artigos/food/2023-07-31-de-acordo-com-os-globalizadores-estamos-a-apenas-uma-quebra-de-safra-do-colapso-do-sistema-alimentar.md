@@ -1,11 +1,13 @@
 ---
-title: "De acordo com os 'globalizadores' estamos a apenas uma quebra de safra do “colapso do sistema alimentar”"
+title: De acordo com os 'globalizadores' estamos a apenas uma quebra de safra do “colapso
+  do sistema alimentar”
 date: 2023-07-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## Os preços dos mantimentos continuam subindo, pois vemos que em fevereiro de 2023 os preços dos mantimentos estavam 10,2% mais altos que em fevereiro de 2022 e sentimos isso todos os dias nos supermercados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita libera serviços do Imposto de Renda para Portal Gov.br"
+title: Receita libera serviços do Imposto de Renda para Portal Gov.br
 date: 2022-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contas com selo prata ou ouro terão direito a mais recursos no e-CAC.
 

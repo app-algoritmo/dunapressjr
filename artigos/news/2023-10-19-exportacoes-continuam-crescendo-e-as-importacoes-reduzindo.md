@@ -1,11 +1,12 @@
 ---
-title: "Exportações continuam crescendo e as importações reduzindo"
+title: Exportações continuam crescendo e as importações reduzindo
 date: 2023-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da FGV/IBRE mostram superávit recorde na balança comercial.
 

@@ -1,11 +1,13 @@
 ---
-title: "Seu Imposto de Renda mantém o trabalho do Complexo de Saúde Pequeno Cotolengo; saiba como doar"
+title: Seu Imposto de Renda mantém o trabalho do Complexo de Saúde Pequeno Cotolengo;
+  saiba como doar
 date: 2023-12-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## A destinação do imposto devido para Organizações, como o Pequeno Cotolengo não tem nenhum custo para quem doa, mas transforma a vida de quem recebe.
 

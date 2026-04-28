@@ -1,11 +1,12 @@
 ---
-title: "Geração millennial muda indústria de casamentos e foca em 'mini weddings'"
+title: Geração millennial muda indústria de casamentos e foca em 'mini weddings'
 date: 2023-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Subir ao altar de véu e grinalda já não é mais a prioridade da maioria das noivas da geração *millennial*. Nos últimos anos, os casamentos passaram a ser menos formais e mais intimistas, assim como o tempo dos relacionamentos aumentou antes da união estável. Segundo a Associação Nacional dos Registradores de Pessoas Naturais (Arpen-Brasil), em 2022, a idade média das noivas, que era de 29 anos, passou a ser 33, enquanto a dos homens subiu de 32 para 35 anos.
 

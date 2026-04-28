@@ -1,12 +1,14 @@
 ---
-title: "Desenvolvendo o Raciocínio Lógico desde Cedo: Introdução à Programação para Crianças"
+title: 'Desenvolvendo o Raciocínio Lógico desde Cedo: Introdução à Programação para
+  Crianças'
 date: 2023-12-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Science
-  - Technology
+- Science
+- Technology
 ---
+
 
 Ao introduzir programação para crianças, é crucial criar um ambiente divertido e educativo. Este guia passo-a-passo oferece uma abordagem prática para ensinar conceitos básicos de programação usando o alfabeto binário, envolvendo exercícios e atividades interativas.
 

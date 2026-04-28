@@ -1,11 +1,12 @@
 ---
-title: "Camex reduz Imposto de Importação para mais 25 produtos"
+title: Camex reduz Imposto de Importação para mais 25 produtos
 date: 2021-02-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conjunto de resoluções inclui alterações definitivas da Tarifa Externa Comum e reduções temporárias, para garantir o pleno abastecimento de mercadorias.
 

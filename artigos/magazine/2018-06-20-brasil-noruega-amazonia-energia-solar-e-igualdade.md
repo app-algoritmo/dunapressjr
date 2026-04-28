@@ -1,11 +1,12 @@
 ---
-title: "Brasil-Noruega: Amazônia, energia solar e igualdade"
+title: 'Brasil-Noruega: Amazônia, energia solar e igualdade'
 date: 2018-06-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Uma série de detalhes pontua a amistosa relação entre o **Brasil** e o **Reino da Noruega**. De acordo com o [Itamaraty](http://www.itamaraty.gov.br/pt-BR/ficha-pais/5609-reino-da-noruega) ambos os países estão habitualmente comprometidos com os direitos humanos, o desenvolvimento inteligente da natura e a paz; motivos pelos quais eles mantêm diálogos políticos e cooperação mútua inclusive junto à ONU nos temas concernentes à segurança, saúde, direitos humanos, clima e desenvolvimento inteligente do meio ambiente. Ainda, segundo o Itamaraty, o Brasil é o maior parceiro comercial da Noruega na América Latina e a Noruega, por sua vez, é  o principal país nórdico de destino das exportações brasileiras. Ademais, o reino norueguês é um investidor de peso: empresas norueguesas atuam no Brasil no campo do petróleo e do gás, da construção naval e de serviços marítimos, mineração, produção de fertilizantes e de energias renováveis.
 

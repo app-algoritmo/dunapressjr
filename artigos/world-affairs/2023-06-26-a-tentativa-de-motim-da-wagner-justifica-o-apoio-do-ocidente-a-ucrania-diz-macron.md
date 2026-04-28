@@ -1,11 +1,13 @@
 ---
-title: "A tentativa de motim da Wagner justifica o apoio do Ocidente à Ucrânia, diz Macron"
+title: A tentativa de motim da Wagner justifica o apoio do Ocidente à Ucrânia, diz
+  Macron
 date: 2023-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o Presidente francês, esta situação ainda está a desenrolar-se mas revela uma “rachadura” alegadamente existente “no campo russo, a fragilidade tanto do seu exército como das suas forças auxiliares, como o Grupo Wagner”.
 

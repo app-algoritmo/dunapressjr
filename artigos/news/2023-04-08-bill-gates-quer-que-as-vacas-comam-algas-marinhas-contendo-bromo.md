@@ -1,11 +1,12 @@
 ---
-title: "Bill Gates quer que as vacas comam algas marinhas contendo bromo"
+title: Bill Gates quer que as vacas comam algas marinhas contendo bromo
 date: 2023-04-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Bill Gates é um empresário sortudo cujos investimentos são excepcionalmente oportunos. Bill Gates ajuda seus investidores a terem sucesso de uma forma única que não está disponível para investidores regulares como você e eu. Por exemplo, apenas três meses antes do início da pandemia de Covid, ele investiu em uma empresa iniciante alemã chamada BioNTech. (BioNTech nunca fez uma vacina aprovada antes do investimento de Bill Gates)
 

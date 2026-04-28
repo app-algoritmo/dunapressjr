@@ -1,11 +1,12 @@
 ---
-title: "Síndrome de Down: “O que significa inclusão? ”"
+title: 'Síndrome de Down: “O que significa inclusão? ”'
 date: 2022-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O termo “síndrome” significa um conjunto de sinais e sintomas e “Down”, refere-se ao sobrenome do médico pediatra inglês John Langdon Down, primeiro a descrever clinicamente a associação dos sinais característicos das pessoas com SD, em 1866.
 

@@ -1,11 +1,12 @@
 ---
-title: "Militares das Três Forças são homenageados com Ordem do Mérito da Defesa"
+title: Militares das Três Forças são homenageados com Ordem do Mérito da Defesa
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A missão do Ministério da Defesa teve início bem antes dos 21 anos que, nesta quarta-feira (10), a Pasta completa. Na verdade, acompanha a trajetória de criação das Forças Armadas, começando pela fundação da Marinha e do Exército, em 1822, e no século passado, em 1941, da Força Aérea Brasileira. À frente das Forças de Defesa desde 1999, a Pasta herdou a necessidade de manter a atuação integrada dos militares, destacou o Ministro da Defesa, Fernando Azevedo. Ele falou durante breve cerimônia da Ordem do Mérito da Defesa, na sede da Pasta.
 

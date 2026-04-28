@@ -1,11 +1,13 @@
 ---
-title: "Ebserh inaugura laboratório para testes de Covid-19 em Hospital de Rio Grande (RS)"
+title: Ebserh inaugura laboratório para testes de Covid-19 em Hospital de Rio Grande
+  (RS)
 date: 2020-06-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os exames serão disponibilizados via Sistema Único de Saúde (SUS) na cidade de Rio Grande (RS).
 

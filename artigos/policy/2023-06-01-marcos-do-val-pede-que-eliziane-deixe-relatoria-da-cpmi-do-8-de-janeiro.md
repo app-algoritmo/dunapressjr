@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val pede que Eliziane deixe relatoria da CPMI do 8 de janeiro"
+title: Marcos do Val pede que Eliziane deixe relatoria da CPMI do 8 de janeiro
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) questionou, em pronunciamento no Plenário, nesta quarta-feira (31), a isenção da senadora Eliziane Gama (PSD-MA) na função de relatora da comissão parlamentar mista de inquérito (CPMI) que investiga as invasões às sedes dos Três Poderes em 8 de janeiro. Marcos do Val disse que a senadora teria ligações políticas com o ministro da Justiça, Flávio Dino, que pode vir a ser investigado pela comissão. 
 

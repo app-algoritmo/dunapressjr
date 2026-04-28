@@ -1,11 +1,12 @@
 ---
-title: "Corrente de comércio sobe 8,2% e chega a US$ 31,21 bilhões em fevereiro"
+title: Corrente de comércio sobe 8,2% e chega a US$ 31,21 bilhões em fevereiro
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Balança tem superávit de US$ 1,15 bilhão no mês, com US$ 16,18 bilhões de exportações e US$ 15,03 bilhões em importações.
 

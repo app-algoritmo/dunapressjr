@@ -1,11 +1,12 @@
 ---
-title: "Missão Xavante atendeu mais de 10 mil indígenas do Centro-Oeste"
+title: Missão Xavante atendeu mais de 10 mil indígenas do Centro-Oeste
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Missão Xavante concluiu sua terceira e última fase nessa segunda-feira (17). Uma parceria dos ministério da Defesa e da Saúde levou 24 profissionais de saúde das Forças Armadas Brasileira, além de insumos médicos, para reforçar o combate à Covid-19 nas comunidades indígenas da região Centro-Oeste.
 

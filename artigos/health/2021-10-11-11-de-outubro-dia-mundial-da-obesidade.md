@@ -1,11 +1,12 @@
 ---
-title: "11 de Outubro: Dia Mundial da Obesidade"
+title: '11 de Outubro: Dia Mundial da Obesidade'
 date: 2021-10-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Hoje (11/10) é comemorado o Dia Mundial da Obesidade e Dia Nacional de Prevenção da Obesidade. Uma boa alimentação é sinônimo de vida saudável e auxilia na prevenção do surgimento de doenças crônicas e melhor qualidade de vida. A obesidade é um dos fatores de risco para a saúde, sendo importante fator de risco para condições crônicas, incluindo doenças cardiovasculares, diabetes, distúrbios músculo-esqueléticos (osteoartrite) e alguns tipos de câncer).
 

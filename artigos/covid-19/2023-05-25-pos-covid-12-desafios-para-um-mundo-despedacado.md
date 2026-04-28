@@ -1,11 +1,12 @@
 ---
-title: "Pós-Covid: 12 desafios para um mundo despedaçado"
+title: 'Pós-Covid: 12 desafios para um mundo despedaçado'
 date: 2023-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Há três anos, durante o período de confinamento, ficou claro que precisamos urgentemente de um novo movimento de cidadãos com um foco diferente. 
 

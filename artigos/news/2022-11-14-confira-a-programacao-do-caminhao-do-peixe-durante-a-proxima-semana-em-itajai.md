@@ -1,11 +1,12 @@
 ---
-title: "Confira a programação do Caminhão do Peixe durante a próxima semana em Itajaí"
+title: Confira a programação do Caminhão do Peixe durante a próxima semana em Itajaí
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminhão do Peixe, programa da Secretaria Municipal de Desenvolvimento Econômico, passará por oito bairros de Itajaí durante a próxima semana, entre os dias 14 e 19 de novembro. Na terça-feira (15), feriado de Proclamação da República, não haverá expediente.
 

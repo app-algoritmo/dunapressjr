@@ -1,11 +1,12 @@
 ---
-title: "Guarda Municipal de Itajaí, auxilia forças de segurança na Operação Veraneio"
+title: Guarda Municipal de Itajaí, auxilia forças de segurança na Operação Veraneio
 date: 2020-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Guarda Municipal de Itajaí vai atuar na Operação Veraneio em apoio às demais forças de segurança do Estado e do Município. O cronograma foi definido na terça-feira (15) durante reunião no Batalhão da Polícia Militar. Entre as ações previstas estão: barreiras nas entradas da cidade, fiscalização nas praias, rondas nos bairros e blitze de trânsito. As medidas já devem ser intensificadas para os feriados de Natal e Ano Novo.
 

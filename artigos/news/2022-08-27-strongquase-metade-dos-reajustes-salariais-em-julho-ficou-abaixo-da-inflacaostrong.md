@@ -1,11 +1,12 @@
 ---
-title: "<strong>Quase metade dos reajustes salariais em julho ficou abaixo da inflação</strong>"
+title: <strong>Quase metade dos reajustes salariais em julho ficou abaixo da inflação</strong>
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Piso médio foi de R$ 1.523, 27,5% acima do salário mínimo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro vetou a farra das emendas feita pelo Congresso às pressas"
+title: Bolsonaro vetou a farra das emendas feita pelo Congresso às pressas
 date: 2022-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Jair Bolsonaro sancionou a [Lei 14.513, de 2022](http://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-12-27;14513), que amplia de 15 de outubro para 30 de novembro de 2022 o prazo final para o encaminhamento de projetos de lei de abertura de créditos suplementares e especiais ao Congresso Nacional. O chefe do Poder Executivo, no entanto, vetou uma série de dispositivos incluídos no texto original ([PLN 39/2022](http://www.congressonacional.leg.br/materias/pesquisa/-/materia/154886)) por senadores e deputados. Entre outras medidas, esses pontos permitiam que recursos não empenhados em anos anteriores fossem executados ao longo de 2023.
 

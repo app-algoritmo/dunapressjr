@@ -1,11 +1,12 @@
 ---
-title: "De acordo com a CNC o endividamento das famílias bateu recorde em 2022"
+title: De acordo com a CNC o endividamento das famílias bateu recorde em 2022
 date: 2023-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mulheres e jovens são a maioria dos endividados.
 

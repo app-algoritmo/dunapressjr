@@ -1,11 +1,12 @@
 ---
-title: "NATO Estaciona Caças F-16 Fora da Ucrânia para Evitar Ataques Russos"
+title: NATO Estaciona Caças F-16 Fora da Ucrânia para Evitar Ataques Russos
 date: 2024-06-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A NATO anunciou que parte dos caças F-16 fornecidos à Força Aérea Ucraniana serão estacionados em bases aéreas da Aliança Atlântica, fora do território ucraniano, como medida para evitar ataques russos. A decisão, que não surpreende, visa garantir a segurança das aeronaves e dos pilotos.
 

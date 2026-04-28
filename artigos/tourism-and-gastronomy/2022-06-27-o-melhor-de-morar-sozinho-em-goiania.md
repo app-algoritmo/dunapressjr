@@ -1,11 +1,12 @@
 ---
-title: "O melhor de morar sozinho em Goiânia"
+title: O melhor de morar sozinho em Goiânia
 date: 2022-06-27
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Goiânia é a oitava melhor capital do Brasil para se viver, segundo estudo feito pela Organização de Desafios da Gestão Municipal (DGM), divulgado em 2021. Foram avaliados indicadores nas áreas da educação, segurança, saneamento e saúde. O município atrai moradores de diferentes perfis, e o acesso a uma ampla variedade de serviços é um atrativo para aqueles que querem morar sozinhos na região e procuram [aluguel em Goiânia](https://www.62imoveis.com.br/aluguel/go/goiania/apartamento), por exemplo. 
 

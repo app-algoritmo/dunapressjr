@@ -1,11 +1,13 @@
 ---
-title: "Ministério russo diz que pesquisadores dos EUA estão tentando criar vírus sintéticos da varíola"
+title: Ministério russo diz que pesquisadores dos EUA estão tentando criar vírus sintéticos
+  da varíola
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Igor Kirillov destacou a pesquisa sobre aprimoramento de vírus realizada na Universidade de Boston.
 

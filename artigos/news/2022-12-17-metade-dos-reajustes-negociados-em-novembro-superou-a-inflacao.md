@@ -1,11 +1,12 @@
 ---
-title: "Metade dos reajustes negociados em novembro superou a inflação"
+title: Metade dos reajustes negociados em novembro superou a inflação
 date: 2022-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nos últimos 12 meses, o percentual médio foi 10,6%, diz Fipe.
 

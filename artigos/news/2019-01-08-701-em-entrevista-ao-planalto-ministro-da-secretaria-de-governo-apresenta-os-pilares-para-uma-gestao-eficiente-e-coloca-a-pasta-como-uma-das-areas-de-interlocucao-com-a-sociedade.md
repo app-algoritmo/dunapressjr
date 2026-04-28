@@ -1,11 +1,14 @@
 ---
-title: "7.01 Em entrevista ao Planalto, ministro da Secretaria de Governo apresenta os pilares para uma gestão eficiente e coloca a pasta como uma das áreas de interlocução com a sociedade"
+title: 7.01 Em entrevista ao Planalto, ministro da Secretaria de Governo apresenta
+  os pilares para uma gestão eficiente e coloca a pasta como uma das áreas de interlocução
+  com a sociedade
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## "Quanto mais você informar a população, mais mobilizada ela vai se manter"
 

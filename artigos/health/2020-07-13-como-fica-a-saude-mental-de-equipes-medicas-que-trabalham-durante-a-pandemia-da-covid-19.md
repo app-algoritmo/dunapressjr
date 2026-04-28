@@ -1,11 +1,13 @@
 ---
-title: "Como fica a saúde mental de equipes médicas que trabalham durante a pandemia da Covid-19?"
+title: Como fica a saúde mental de equipes médicas que trabalham durante a pandemia
+  da Covid-19?
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A facilidade de contaminação do novo coronavírus (SARS-CoV-2) fez aumentar em hospitais o número de pacientes com sintomas da COVID-19 ― em enfermarias, clínicas e unidades de tratamento intensivo (UTIs). Proporcionalmente ao aumento dos casos de infecções, houve a necessidade de ampliação da quantidade de equipes médicas (médicos, enfermeiros, etc.), além do aumento da carga horária de trabalho destas.
 

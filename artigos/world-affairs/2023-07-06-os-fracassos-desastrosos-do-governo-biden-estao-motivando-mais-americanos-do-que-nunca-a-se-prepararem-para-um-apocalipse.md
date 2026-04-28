@@ -1,11 +1,13 @@
 ---
-title: "Os fracassos desastrosos do governo Biden estão motivando mais americanos do que nunca a se prepararem para um apocalipse"
+title: Os fracassos desastrosos do governo Biden estão motivando mais americanos do
+  que nunca a se prepararem para um apocalipse
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O veredicto é feito. Joe Biden é o pior presidente de toda a história dos Estados Unidos, e isso realmente diz algo porque tivemos alguns presidentes absolutamente horríveis. Praticamente tudo o que Biden fez desde que assumiu a Casa Branca terminou mal, e nossa outrora grande nação está agora em um caminho profundamente autodestrutivo. Se não mudarmos de rumo, nosso país não terá futuro, e mais americanos do que nunca estão perdendo a fé no governo federal. Na verdade, uma nova pesquisa descobriu que a falta de confiança no governo de Washington está levando um grande número de americanos a comprar " [água, comida, roupas quentes, armas e dinheiro".](https://www.washingtonexaminer.com/news/washington-secrets/lack-of-faith-in-biden-drives-doomsday-prepping)' para os tempos extremamente caóticos que estão por vir...
 

@@ -1,11 +1,12 @@
 ---
-title: "Congresso promulga PEC que reduz demanda processual do STJ"
+title: Congresso promulga PEC que reduz demanda processual do STJ
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Proposta tramitou no Congresso por quatro anos.
 

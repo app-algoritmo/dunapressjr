@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova isenção de IR a agentes de segurança pública e policiais legislativos"
+title: Comissão aprova isenção de IR a agentes de segurança pública e policiais legislativos
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Segurança Pública e Combate ao Crime Organizado da Câmara dos Deputados aprovou projeto de lei que isenta do pagamento do Imposto de Renda e da entrega da declaração anual os agentes de segurança pública; os integrantes operacionais do Sistema Único de Segurança Pública, incluindo guardas municipais, agentes de trânsito e guarda portuária; os policiais legislativos federais e estaduais; e os agentes socioeducativos.
 

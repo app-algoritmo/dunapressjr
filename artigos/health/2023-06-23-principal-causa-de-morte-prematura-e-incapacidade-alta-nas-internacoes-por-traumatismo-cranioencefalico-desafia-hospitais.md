@@ -1,11 +1,13 @@
 ---
-title: "Principal causa de morte prematura e incapacidade: alta nas internações por traumatismo cranioencefálico desafia hospitais"
+title: 'Principal causa de morte prematura e incapacidade: alta nas internações por
+  traumatismo cranioencefálico desafia hospitais'
 date: 2023-06-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 São mais de 131 mil internações por traumatismo cranioencefálico (TCE) a cada ano, sendo que os jovens entre 20 e 29 anos representam 21% dos casos. Esses números preocupantes foram divulgados em um artigo publicado na Revista Brasileira de Terapia Intensiva, com base em dados do DataSUS. A alta incidência de TCE na população representa uma carga significativa para a saúde pública e é apontada pelo Ministério da Saúde como a principal causa de morte prematura e incapacidade no Brasil. Diante de lesões cerebrais graves, os neurocirurgiões unem esforços com uma equipe multiprofissional para salvar vidas e reduzir as sequelas dos pacientes.
 

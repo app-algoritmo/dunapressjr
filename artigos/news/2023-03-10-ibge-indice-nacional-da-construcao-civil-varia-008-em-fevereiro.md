@@ -1,11 +1,12 @@
 ---
-title: "IBGE: Índice Nacional da Construção Civil varia 0,08% em fevereiro"
+title: 'IBGE: Índice Nacional da Construção Civil varia 0,08% em fevereiro'
 date: 2023-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O custo nacional da construção chegou a R$ 1.685,74.****
 

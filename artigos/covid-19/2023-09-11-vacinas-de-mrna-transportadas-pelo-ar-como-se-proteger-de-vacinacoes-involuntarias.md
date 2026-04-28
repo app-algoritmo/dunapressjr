@@ -1,11 +1,12 @@
 ---
-title: "Vacinas de mRNA transportadas pelo ar: como se proteger de vacinações involuntárias"
+title: 'Vacinas de mRNA transportadas pelo ar: como se proteger de vacinações involuntárias'
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 É difícil acreditar que as pessoas dispostas a tirar o seu emprego ou a negar-lhe uma cirurgia que salvará a sua vida porque você não está vacinado também possam tentar vaciná-lo secretamente contra a sua vontade?
 

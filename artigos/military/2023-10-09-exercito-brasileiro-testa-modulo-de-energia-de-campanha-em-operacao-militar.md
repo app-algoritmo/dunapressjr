@@ -1,11 +1,12 @@
 ---
-title: "Exército Brasileiro testa Módulo de Energia de Campanha em Operação Militar"
+title: Exército Brasileiro testa Módulo de Energia de Campanha em Operação Militar
 date: 2023-10-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Pela primeira vez, o Exército Brasileiro testou seu protótipo de Módulo de Energia de Campanha em condições operacionais de emprego da tropa. Trata-se de um sistema de energia fotovoltaica, de pequeno porte, que dispensa conexão com energia de concessionária – um projeto do Departamento de Engenharia e Construção, em Brasília. O desempenho do Módulo foi avaliado durante a Operação Guararapes, exercício de adestramento em curso no Comando Militar do Nordeste.
 

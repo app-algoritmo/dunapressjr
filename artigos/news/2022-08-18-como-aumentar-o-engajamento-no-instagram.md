@@ -1,11 +1,12 @@
 ---
-title: "Como aumentar o engajamento no Instagram?"
+title: Como aumentar o engajamento no Instagram?
 date: 2022-08-18
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Com a comercialização em constante ascensão, é  normal que a concorrência também aumente. Dessa forma, para estar mais atualizado, conhecendo as estratégias de marketing utilizadas no Instagram ou em outras plataformas, o ideal é o empresário investir em [**cursos de mídia social**](https://www.comschool.com.br/cursos-midias-sociais).
 

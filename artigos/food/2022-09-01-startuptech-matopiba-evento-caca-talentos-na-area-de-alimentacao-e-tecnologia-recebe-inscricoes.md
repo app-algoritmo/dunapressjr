@@ -1,11 +1,13 @@
 ---
-title: "StartupTech Matopiba: evento caça-talentos na área de alimentação e tecnologia recebe inscrições"
+title: 'StartupTech Matopiba: evento caça-talentos na área de alimentação e tecnologia
+  recebe inscrições'
 date: 2022-09-01
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Food
+- Food
 ---
+
 
 Estudantes de graduação e pós-graduação de áreas correlatas à temática da alimentação saudável e gestão poderão participar gratuitamente do StartupTech Matopiba, um programa on-line de qualificação empreendedora. Os participantes irão concorrer aos prêmios de R$ 100, R$ 200 e R$ 350, concedidos individualmente aos membros das três equipes que conquistarem o pódio na disputa.
 

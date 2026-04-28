@@ -1,11 +1,12 @@
 ---
-title: "Prorrogação do Regime de Emergência em El Salvador é Aprovada"
+title: Prorrogação do Regime de Emergência em El Salvador é Aprovada
 date: 2024-02-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na tarde desta sexta-feira, a Assembleia Legislativa de El Salvador votou a favor de uma nova prorrogação do regime de emergência, que está em vigor desde março de 2022 e será estendido por pelo menos mais 30 dias. A medida, aprovada com 67 votos a favor e nove contra, continua a suspender alguns direitos constitucionais e tem sido alvo de críticas por parte de organizações de direitos humanos.
 

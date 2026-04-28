@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5 e fecha no menor valor em dez meses"
+title: Dólar cai para R$ 5 e fecha no menor valor em dez meses
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa sobe mais de 4% e tem maior alta diária desde outubro.
 

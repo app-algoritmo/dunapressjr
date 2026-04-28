@@ -1,11 +1,13 @@
 ---
-title: "Banco Central revisa para cima projeção de crescimento econômico para 2023, impulsionado por setores industriais e agrícolas"
+title: Banco Central revisa para cima projeção de crescimento econômico para 2023,
+  impulsionado por setores industriais e agrícolas
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Atividade econômica brasileira supera expectativas, mas desafios persistem diante de cenário de desaceleração e riscos internos e externos.
 

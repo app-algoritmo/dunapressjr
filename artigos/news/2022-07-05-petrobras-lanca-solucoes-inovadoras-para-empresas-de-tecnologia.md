@@ -1,11 +1,12 @@
 ---
-title: "Petrobras lança soluções inovadoras para empresas de tecnologia"
+title: Petrobras lança soluções inovadoras para empresas de tecnologia
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inscrições podem ser feitas até o dia 31 deste mês.
 

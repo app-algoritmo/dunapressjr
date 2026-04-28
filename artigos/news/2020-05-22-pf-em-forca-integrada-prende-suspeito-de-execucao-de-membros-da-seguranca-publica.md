@@ -1,11 +1,13 @@
 ---
-title: "PF em força integrada, prende suspeito de execução de membros da segurança pública"
+title: PF em força integrada, prende suspeito de execução de membros da segurança
+  pública
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu na quinta-feira, 21/5, um segundo suspeito de ser responsável pela execução de membros da segurança pública do estado de Roraima. Desde a declaração de emergência em saúde pública de importância internacional pela OMS, em 30/01, a FICCO/RR já realizou 65 prisões.
 

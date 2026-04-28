@@ -1,11 +1,12 @@
 ---
-title: "O Papa pede que a COP28 seja “um ponto de virada” para a transição ecológica"
+title: O Papa pede que a COP28 seja “um ponto de virada” para a transição ecológica
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco pediu aos participantes da COP28 no Dubai que façam do evento “um ponto de viragem”, que promova “uma aceleração decisiva para a transição ecológica”.
 

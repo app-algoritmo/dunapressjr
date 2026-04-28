@@ -1,11 +1,12 @@
 ---
-title: "Índices da China fecham em alta após suporte do Banco Central dos EUA"
+title: Índices da China fecham em alta após suporte do Banco Central dos EUA
 date: 2020-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Indicadores acompanham os mercados da Ásia
 

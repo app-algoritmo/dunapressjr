@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica declaração do presidente Lula em live de que 'não come bem'"
+title: Cleitinho critica declaração do presidente Lula em live de que 'não come bem'
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos–MG) criticou, em pronunciamento no Plenário nesta quarta-feira (28), declaração do presidente Luiz Inácio Lula da Silva, de que “não come bem” e que a refeição oferecida pelo Ministério das Relações Exteriores a ele e aos presidentes da França e Itália “não é lá essas coisas”. Para Cleitinho, o presidente Lula foi "infeliz" na sua exposição durante a terceira edição da live semanal “Conversa com o Presidente”.
 

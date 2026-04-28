@@ -1,11 +1,12 @@
 ---
-title: "MP perde validade neste sábado e combustíveis podem voltar a subir"
+title: MP perde validade neste sábado e combustíveis podem voltar a subir
 date: 2022-12-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento está autorizado a partir de domingo.
 

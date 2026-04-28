@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,212 com ânimo no exterior e reforma tributária"
+title: Dólar cai para R$ 5,212 com ânimo no exterior e reforma tributária
 date: 2020-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Bolsa chegou a superar 105 mil pontos, mas fechou com pequena queda.
 

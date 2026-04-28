@@ -1,11 +1,12 @@
 ---
-title: "Plano Safra 2020/2021 lançado, mostrando papel fundamental do agro para o país"
+title: Plano Safra 2020/2021 lançado, mostrando papel fundamental do agro para o país
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Para a ministra, a agropecuária brasileira será um dos principais motores da retomada econômica após a Covid-19.
 

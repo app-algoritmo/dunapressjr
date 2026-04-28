@@ -1,11 +1,12 @@
 ---
-title: "Aeroporto de Viracopos registra lucro de R$ 276 milhões em 2021"
+title: Aeroporto de Viracopos registra lucro de R$ 276 milhões em 2021
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Faturamento da concessionária ficou em R$ 1,1 bilhão no ano passado.
 

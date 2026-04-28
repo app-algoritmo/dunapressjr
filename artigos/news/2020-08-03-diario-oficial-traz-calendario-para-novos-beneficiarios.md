@@ -1,11 +1,12 @@
 ---
-title: "Diário Oficial traz calendário para novos beneficiários"
+title: Diário Oficial traz calendário para novos beneficiários
 date: 2020-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pagamento é para beneficiários considerados elegíveis.
 

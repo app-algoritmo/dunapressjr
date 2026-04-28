@@ -1,11 +1,12 @@
 ---
-title: "O que o WEF realmente quer dizer com 'Você não terá nada e será feliz'"
+title: O que o WEF realmente quer dizer com 'Você não terá nada e será feliz'
 date: 2023-07-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Como será o nosso mundo daqui a sete anos? Em 2016, “especialistas” dos Conselhos do Futuro Global do Fórum Econômico Mundial fizeram [oito previsões](https://uncutnews.ch/das-world-economic-forum-hat-diese-8-vorhersagen-fuer-2030-gemacht/) sobre isso.
 

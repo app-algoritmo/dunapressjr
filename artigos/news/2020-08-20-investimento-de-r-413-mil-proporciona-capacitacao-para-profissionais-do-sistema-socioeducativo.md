@@ -1,11 +1,13 @@
 ---
-title: "Investimento de R$ 413 mil proporciona capacitação para profissionais do sistema socioeducativo"
+title: Investimento de R$ 413 mil proporciona capacitação para profissionais do sistema
+  socioeducativo
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e o Fundo Nacional para a Criança e o Adolescente (FNCA) destinou R$ 413,4 mil para a formação inicial e continuada de profissionais do sistema socioeducativo da Bahia (BA). Do valor total, R$ 34,4 mil são de uma contrapartida da Fundação da Criança e do Adolescente (Fundac). 
 

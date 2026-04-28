@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Argentina estreitam parcerias para o desenvolvimento do setor agropecuário"
+title: Brasil e Argentina estreitam parcerias para o desenvolvimento do setor agropecuário
 date: 2020-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Dois países aprovaram modelos de certificados para a exportação de produtos*
 

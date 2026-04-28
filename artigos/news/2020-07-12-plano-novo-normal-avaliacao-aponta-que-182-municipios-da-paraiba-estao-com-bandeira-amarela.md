@@ -1,11 +1,13 @@
 ---
-title: "’Plano Novo Normal’: avaliação aponta que 182 municípios da Paraíba estão com bandeira amarela"
+title: '’Plano Novo Normal’: avaliação aponta que 182 municípios da Paraíba estão
+  com bandeira amarela'
 date: 2020-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Todos os segmentos da economia e da sociedade podem retomar suas atividades nos municípios que se encontram na bandeira verde.
 

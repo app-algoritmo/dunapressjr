@@ -1,11 +1,12 @@
 ---
-title: "Em 2021, Anvisa alertou sobre risco de miocardite e pericardite pós-vacinação"
+title: Em 2021, Anvisa alertou sobre risco de miocardite e pericardite pós-vacinação
 date: 2023-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Anvisa informa que os Estados Unidos (EUA) relataram a ocorrência de casos de miocardite (inflamação do músculo cardíaco) e de pericardite (inflamação do tecido que envolve o coração) após a vacinação contra Covid-19 com imunizantes de plataforma de RNA mensageiro (RNAm), como as vacinas da Pfizer e da Moderna. Dessas duas, apenas a Pfizer está registrada pela Anvisa para uso no Brasil, por meio do Programa Nacional de Imunizações (PNI) do Ministério da Saúde.  
 

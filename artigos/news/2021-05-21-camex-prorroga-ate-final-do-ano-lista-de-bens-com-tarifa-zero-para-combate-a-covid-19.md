@@ -1,11 +1,13 @@
 ---
-title: "Camex prorroga até final do ano lista de bens com tarifa zero para combate à Covid-19"
+title: Camex prorroga até final do ano lista de bens com tarifa zero para combate
+  à Covid-19
 date: 2021-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Relação inclui 628 itens utilizados no combate à pandemia, entre medicamentos e vacinas, equipamentos hospitalares, itens de higiene pessoal e outros insumos.
 

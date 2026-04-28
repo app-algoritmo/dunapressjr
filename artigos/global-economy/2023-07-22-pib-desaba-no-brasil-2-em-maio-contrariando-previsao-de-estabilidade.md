@@ -1,11 +1,12 @@
 ---
-title: "PIB desaba no Brasil -2% em maio contrariando previsão de estabilidade"
+title: PIB desaba no Brasil -2% em maio contrariando previsão de estabilidade
 date: 2023-07-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Produto Interno Bruto (PIB) é um dos indicadores econômicos mais importantes de um país, pois mede a produção total de bens e serviços dentro das suas fronteiras. No entanto, em maio deste ano, o Brasil enfrentou um declínio inesperado de 2% no PIB, surpreendendo os especialistas que previam uma estabilidade econômica. Neste artigo, exploraremos as principais razões para esse declínio, suas consequências e o que pode ser feito para reverter essa situação preocupante.
 

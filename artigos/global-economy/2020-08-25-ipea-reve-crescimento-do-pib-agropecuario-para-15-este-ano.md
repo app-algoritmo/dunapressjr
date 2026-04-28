@@ -1,11 +1,12 @@
 ---
-title: "Ipea revê crescimento do PIB agropecuário para 1,5% este ano"
+title: Ipea revê crescimento do PIB agropecuário para 1,5% este ano
 date: 2020-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Houve melhora na lavoura e queda na agropecuária.
 

@@ -1,11 +1,13 @@
 ---
-title: "Putin comenta sobre a morte de Navalny e compara com casos de presidiários nos EUA"
+title: Putin comenta sobre a morte de Navalny e compara com casos de presidiários
+  nos EUA
 date: 2024-03-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, expressou sua tristeza pela morte do blogueiro Alexey Navalny, enfatizando que qualquer perda humana é lamentável. No entanto, Putin também apontou para casos de presos que morreram em instalações penitenciárias, inclusive nos Estados Unidos.
 

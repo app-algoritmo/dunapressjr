@@ -1,11 +1,13 @@
 ---
-title: "Apenas 32% dos alemães estão dispostos a defender ativamente o país em caso de ataque"
+title: Apenas 32% dos alemães estão dispostos a defender ativamente o país em caso
+  de ataque
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A maioria dos cidadãos alemães não está preparada para lutar em defesa de seu país em caso de um ataque direto, de acordo com uma recente sondagem da Focus-online. A pesquisa, que abrangeu aproximadamente 5.000 pessoas, revelou que apenas 32% dos entrevistados afirmaram estar dispostos a pegar em armas para proteger a Alemanha em uma situação de conflito militar. Em contrapartida, 57% rejeitaram essa possibilidade, enquanto 11% permaneceram indecisos.
 

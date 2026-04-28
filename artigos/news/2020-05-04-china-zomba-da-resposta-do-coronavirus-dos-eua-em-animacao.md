@@ -1,11 +1,12 @@
 ---
-title: "China zomba da resposta do coronavírus dos EUA em animação"
+title: China zomba da resposta do coronavírus dos EUA em animação
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O curta, intitulado 'Once Upon a Virus', faz parte de uma guerra de palavras entre os EUA e a China sobre as origens da doença, que surgiu na cidade chinesa de Wuhan e se transformou em uma pandemia global.
 

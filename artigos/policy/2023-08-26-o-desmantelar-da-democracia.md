@@ -1,12 +1,13 @@
 ---
-title: "O desmantelar da democracia"
+title: O desmantelar da democracia
 date: 2023-08-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
-  - World Affairs
+- Policy
+- World Affairs
 ---
+
 
 ## As sociedades democráticas estão sendo sistematicamente destruídas e transformadas em ditaduras.
 

@@ -1,11 +1,12 @@
 ---
-title: "III Brasil Solidário, em pró da doação de sangue"
+title: III Brasil Solidário, em pró da doação de sangue
 date: 2019-05-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A doação de sangue é um ato de solidariedade e
 um compromisso social que salva vidas. O sangue é insubstituível e sem ele é impossível viver. A doação de sangue é um ato altruísta e totalmente

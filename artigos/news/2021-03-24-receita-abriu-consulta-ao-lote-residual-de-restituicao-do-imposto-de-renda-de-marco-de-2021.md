@@ -1,11 +1,13 @@
 ---
-title: "Receita abriu consulta ao lote residual de restituição do Imposto de Renda de março de 2021"
+title: Receita abriu consulta ao lote residual de restituição do Imposto de Renda
+  de março de 2021
 date: 2021-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O crédito bancário para 136.250 contribuintes será realizado em 31 de março, totalizando mais de R$ 225 milhões.
 

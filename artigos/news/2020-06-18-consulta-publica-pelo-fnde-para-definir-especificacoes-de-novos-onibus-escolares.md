@@ -1,11 +1,12 @@
 ---
-title: "Consulta pública pelo FNDE para definir especificações de novos ônibus escolares"
+title: Consulta pública pelo FNDE para definir especificações de novos ônibus escolares
 date: 2020-06-18
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) pôs em consulta pública as especificações técnicas dos novos ônibus do programa Caminho da Escola. O objetivo é dar transparência ao processo licitatório dos veículos urbanos e rurais que estarão disponíveis para aquisição pelos estados e municípios a partir de 2021 e garantir a oferta de transporte que melhor se adéque às necessidades dos estudantes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Senado recebe visita de cão protetor para mulheres vítimas de violência"
+title: Senado recebe visita de cão protetor para mulheres vítimas de violência
 date: 2024-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Senado recebeu nesta quinta-feira (25) a visita inusitada do Athos, cachorro protetor que servirá de modelo para o projeto de lei [(PL 2325/2023)](https://www25.senado.leg.br/web/atividade/materias/-/materia/157222), que tem o objetivo de garantir a segurança de mulheres vítimas de violência. Segundo a autora da proposta, senadora Soraya Thronicke (Podemos-MS), a medida vai reconhecer legalmente os cães protetores, assim como já acontecem com os cães guias para pessoas cegas.
 

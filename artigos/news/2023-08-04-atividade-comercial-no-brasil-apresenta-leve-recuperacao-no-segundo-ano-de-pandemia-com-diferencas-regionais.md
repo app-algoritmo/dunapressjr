@@ -1,11 +1,13 @@
 ---
-title: "Atividade comercial no Brasil apresenta leve recuperação no segundo ano de pandemia, com diferenças regionais"
+title: Atividade comercial no Brasil apresenta leve recuperação no segundo ano de
+  pandemia, com diferenças regionais
 date: 2023-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Setor comercial brasileiro contabiliza 1,4 milhão de empresas e 10,1 milhões de empregados. 
 

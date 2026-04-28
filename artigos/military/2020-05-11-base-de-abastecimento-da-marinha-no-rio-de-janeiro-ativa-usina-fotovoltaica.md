@@ -1,11 +1,12 @@
 ---
-title: "Base de Abastecimento da Marinha no Rio de Janeiro ativa Usina Fotovoltaica"
+title: Base de Abastecimento da Marinha no Rio de Janeiro ativa Usina Fotovoltaica
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Com o propósito de investir na capacidade de geração de energia limpa e sustentável, a Base de Abastecimento da Marinha no Rio de Janeiro ativou, em fevereiro de 2020, uma Usina de Geração Fotovoltaica de 100 *kilo-Watt*-pico (kWp).
 

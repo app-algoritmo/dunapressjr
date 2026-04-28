@@ -1,11 +1,13 @@
 ---
-title: "Novo Normal: Paraíba tem a maior participação percentual da bandeira vermelha em 21 avaliações"
+title: 'Novo Normal: Paraíba tem a maior participação percentual da bandeira vermelha
+  em 21 avaliações'
 date: 2021-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria Estadual de Saúde (SES) divulgou, nesse sábado (20), a 20ª avaliação do Plano Novo Normal Paraíba (PNNPB), que passa a vigorar nos 223 municípios paraibanos a partir desta segunda-feira (22). A análise aponta que 7% (15) dos municípios paraibanos estão em bandeira vermelha, a maior participação percentual desta classificação em todas as avaliações. 92% (205) municípios figuram em bandeira laranja; apenas 3 municípios da Paraíba encontram-se na bandeira amarela e nenhum em bandeira verde. 
 

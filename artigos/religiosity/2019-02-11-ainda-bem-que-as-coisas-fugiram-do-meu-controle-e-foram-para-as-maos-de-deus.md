@@ -1,11 +1,12 @@
 ---
-title: "Ainda bem que as coisas fugiram do meu controle, e foram para as mãos de Deus"
+title: Ainda bem que as coisas fugiram do meu controle, e foram para as mãos de Deus
 date: 2019-02-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Eu tive muitas coisas que guardei em minhas mãos, e as perdi. Mas tudo o que eu guardei nas mãos de Deus, eu ainda possuo.
 -  Martin Luther King

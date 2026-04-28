@@ -1,11 +1,12 @@
 ---
-title: "Nutrição Sem Fronteiras leva elite do setor ao Arnold South America 2024"
+title: Nutrição Sem Fronteiras leva elite do setor ao Arnold South America 2024
 date: 2024-04-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Estande da maior escola de negócios e empreendedorismo para nutricionistas da América Latina recebeu 40 profissionais que, juntos, faturam mais de R$ 15 milhões ao ano.
 

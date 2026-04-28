@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu Agradece Bolsonaro por seu Apoio a Israel e seu Combate ao Terrorismo"
+title: Netanyahu Agradece Bolsonaro por seu Apoio a Israel e seu Combate ao Terrorismo
 date: 2024-02-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No dia 25 de fevereiro de 2024, o mundo testemunhou mais uma vez a determinação do presidente Jair Bolsonaro em apoiar Israel e combater o terrorismo. Em um momento crítico, em que o país enfrentava desafios de segurança, o presidente Bolsonaro demonstrou coragem e liderança ao lado de Israel, fortalecendo os laços entre as duas nações.
 

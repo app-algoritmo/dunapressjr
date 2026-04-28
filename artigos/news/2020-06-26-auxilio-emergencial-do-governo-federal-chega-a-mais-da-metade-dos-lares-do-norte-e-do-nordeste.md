@@ -1,11 +1,13 @@
 ---
-title: "Auxílio Emergencial do Governo Federal chega a mais da metade dos lares do Norte e do Nordeste"
+title: Auxílio Emergencial do Governo Federal chega a mais da metade dos lares do
+  Norte e do Nordeste
 date: 2020-06-26
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa do IBGE indica que benefício chegou a 38,7% dos domicílios brasileiros em maio, com valor médio de R$ 846,50 por residência.
 

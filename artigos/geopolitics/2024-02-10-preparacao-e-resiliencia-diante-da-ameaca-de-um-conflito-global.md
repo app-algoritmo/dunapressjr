@@ -1,11 +1,12 @@
 ---
-title: "Preparação e Resiliência diante da Ameaça de um Conflito Global"
+title: Preparação e Resiliência diante da Ameaça de um Conflito Global
 date: 2024-02-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Com as tensões geopolíticas aumentando em várias partes do mundo, a possibilidade de uma Terceira Guerra Mundial não pode ser descartada. Enquanto os líderes mundiais buscam soluções diplomáticas para evitar tal desastre, é importante que os cidadãos estejam preparados para enfrentar situações de emergência caso um conflito global ocorra. Aqui estão algumas estratégias de sobrevivência essenciais que as pessoas podem adotar:
 

@@ -1,11 +1,12 @@
 ---
-title: "Pesquisadora analisa impacto de retratações para cientistas"
+title: Pesquisadora analisa impacto de retratações para cientistas
 date: 2022-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mariana Dias Ribeiro é graduada em Ciências Biológicas – Modalidade Médica, pela Universidade Federal do Rio de Janeiro (UFRJ). Também na instituição fluminense, obteve o título de mestre em Química Biológica, etapa cumprida com bolsa da CAPES. O doutorado é no mesmo programa de pós-graduação, com estudo sobre o impacto das retratações na carreira de cientistas em países de maior produtividade científica em áreas biomédicas. Ela já recebeu dois prêmios pelo projeto, com apoio da Fundação durante seis meses.
 

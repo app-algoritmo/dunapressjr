@@ -1,11 +1,12 @@
 ---
-title: "Examinai tudo. Retende o bem. 1 Tessalonicenses 5:21"
+title: Examinai tudo. Retende o bem. 1 Tessalonicenses 5:21
 date: 2019-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Hoje quero trazer algo relacionado a busca de conhecimento, intelectual e espiritual.
 

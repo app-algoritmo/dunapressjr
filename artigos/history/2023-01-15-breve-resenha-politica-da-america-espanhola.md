@@ -1,12 +1,13 @@
 ---
-title: "Breve resenha política da América espanhola"
+title: Breve resenha política da América espanhola
 date: 2023-01-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - History
-  - Policy
+- History
+- Policy
 ---
+
 
 ## O centralismo é a melhor definição do Estado republicano e esse centralismo gera um desconforto.
 

@@ -1,11 +1,13 @@
 ---
-title: "Evidências alemãs mostram incidentes graves relacionados ao Booster bivalente de mRNA da Pfizer-BioNTech"
+title: Evidências alemãs mostram incidentes graves relacionados ao Booster bivalente
+  de mRNA da Pfizer-BioNTech
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Reportado no final de 2022 pelo [](https://www.trialsitenews.com/a/bivalent-mrna-vaccines-high-rate-of-adverse-events-observational-study-at-university-hospital-wuerzburg-in-germany-4c4afad6)Trialsite sobre um estudo realizado no Hospital Universitário de Würzburg, observando eventos adversos em pacientes que receberam a segunda dose de reforço da vacina Covid da Pfizer. 
 

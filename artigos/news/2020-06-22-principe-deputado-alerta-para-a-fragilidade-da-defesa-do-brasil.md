@@ -1,11 +1,12 @@
 ---
-title: "Príncipe deputado alerta para a fragilidade da defesa do Brasil"
+title: Príncipe deputado alerta para a fragilidade da defesa do Brasil
 date: 2020-06-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Brasil é um gigante silenciado constitucionalmente e está completamente indefeso, Luiz Philippe de Orleans e Bragança.
 

@@ -1,11 +1,13 @@
 ---
-title: "União Europeia Ameaça Sanções Econômicas à Hungria em Disputa Sobre Ajuda à Ucrânia"
+title: União Europeia Ameaça Sanções Econômicas à Hungria em Disputa Sobre Ajuda à
+  Ucrânia
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As relações entre a União Europeia (UE) e a Hungria atingiram um ponto de ebulição em meio a uma controvérsia sobre a ajuda financeira à Ucrânia, com a UE sendo acusada de usar táticas de pressão econômica contra o governo húngaro liderado por Viktor Orban. O diretor político de Orban, Balazs Orban, revelou detalhes preocupantes de ameaças abertas por parte da UE, alegando que líderes europeus alertaram o governo húngaro sobre planos para minar sua economia caso não cooperasse.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF e PRF apreendem 20 kg de cocaína em Bagé/RS"
+title: PF e PRF apreendem 20 kg de cocaína em Bagé/RS
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Bagé/RS –  A Polícia Federal e a Polícia Rodoviária Federal aprenderam, na noite desta terça-feira (19/5), 20 quilos de cocaína e prenderam um homem em flagrante por tráfico de drogas.
 

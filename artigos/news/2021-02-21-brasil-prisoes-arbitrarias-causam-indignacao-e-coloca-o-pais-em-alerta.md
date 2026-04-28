@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Prisões arbitrárias causam indignação e coloca o país em alerta"
+title: 'Brasil: Prisões arbitrárias causam indignação e coloca o país em alerta'
 date: 2021-02-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O que significa a Prisão do Deputado Federal Daniel Silveira?
 

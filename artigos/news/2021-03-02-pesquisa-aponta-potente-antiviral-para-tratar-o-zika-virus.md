@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa aponta potente antiviral para tratar o zika vírus"
+title: Pesquisa aponta potente antiviral para tratar o zika vírus
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estudo realizado pelo pesquisador Felipe Rocha da Silva, do Programa de Biotecnologia da Universidade Federal de São João del Rei (UFSJ) avaliou medicamentos que possuem grande potencial para se tornar um antiviral no tratamento do zika vírus. A pesquisa de doutorado foi a vencedora do [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Biotecnologia. 
 

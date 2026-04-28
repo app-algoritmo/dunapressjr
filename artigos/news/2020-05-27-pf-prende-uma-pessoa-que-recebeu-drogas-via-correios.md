@@ -1,11 +1,12 @@
 ---
-title: "PF prende uma pessoa que recebeu drogas via Correios"
+title: PF prende uma pessoa que recebeu drogas via Correios
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Marabá/PA (26/5) – A Polícia Federal prendeu na terça-feira (26/5) em flagrante indivíduo na posse de encomenda com cerca de meio quilo de cocaína. A droga foi enviada a Marabá via serviço postal dos Correios, prática que se tornou uma estratégia adotada por traficantes por ser possível o rastreamento da encomenda até seu destino.
 

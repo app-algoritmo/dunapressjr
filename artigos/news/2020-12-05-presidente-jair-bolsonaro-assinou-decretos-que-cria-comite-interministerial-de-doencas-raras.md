@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro assinou  decretos que cria Comitê Interministerial de Doenças Raras"
+title: Presidente Jair Bolsonaro assinou  decretos que cria Comitê Interministerial
+  de Doenças Raras
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dia 3 de dezembro, é Dia Internacional da Pessoa com Deficiência. E para lembrar a data, foi promovida uma cerimônia no Palácio do Planalto, que contou com a presença do Presidente Jair Bolsonaro, da primeira-dama, Michelle Bolsonaro, e da ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves.
 

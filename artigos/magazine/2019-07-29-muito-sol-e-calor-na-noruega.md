@@ -1,12 +1,13 @@
 ---
-title: "Muito sol e calor na Noruega"
+title: Muito sol e calor na Noruega
 date: 2019-07-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
+- Magazine
+- News
 ---
+
 
 O mês de julho tem registrado em boa parte da Europa temperaturas altíssimas, bastante atípicas para o continente. Em algumas cidades os termômetros registraram 40 graus, com uma sensação térmica superior em cerca de cinco graus para mais.
 

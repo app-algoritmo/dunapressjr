@@ -1,11 +1,12 @@
 ---
-title: "<strong>Vendas pela internet são alvos de campanha global neste Natal</strong>"
+title: <strong>Vendas pela internet são alvos de campanha global neste Natal</strong>
 date: 2022-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No Brasil, a Senacon e o Inmetro estarão orientando os consumidores.
 

@@ -1,11 +1,12 @@
 ---
-title: "Saiba como declarar criptoativos no Imposto de Renda"
+title: Saiba como declarar criptoativos no Imposto de Renda
 date: 2022-04-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ativos virtuais a partir de R$ 5 mil precisam ser informados.
 

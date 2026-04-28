@@ -1,12 +1,13 @@
 ---
-title: "Bicentenário é momento para Brasil encarar seus problemas, segundo historiador"
+title: Bicentenário é momento para Brasil encarar seus problemas, segundo historiador
 date: 2022-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Fonte: Agência S
 

@@ -1,11 +1,12 @@
 ---
-title: "Banco Central altera norma para segunda fase do open banking"
+title: Banco Central altera norma para segunda fase do open banking
 date: 2021-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida reforça segurança de dados dos clientes.
 

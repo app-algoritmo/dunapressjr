@@ -1,11 +1,12 @@
 ---
-title: "A OMS terá o poder de exigir vacinas em todo o mundo"
+title: A OMS terá o poder de exigir vacinas em todo o mundo
 date: 2023-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com o apoio financeiro de Bill Gates e outros, a OMS planeja assumir o controle do mundo por meio de mudanças cuidadosamente elaboradas no RSI.
 

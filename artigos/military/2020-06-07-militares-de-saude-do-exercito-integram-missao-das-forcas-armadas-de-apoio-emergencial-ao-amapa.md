@@ -1,11 +1,13 @@
 ---
-title: "Militares de saúde do Exército integram missão das Forças Armadas de apoio emergencial ao Amapá"
+title: Militares de saúde do Exército integram missão das Forças Armadas de apoio
+  emergencial ao Amapá
 date: 2020-06-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Macapá (AP)** – O Ministério da Defesa, o Comando do Exército, o Comando Militar do Norte e a 22ª Brigada de Infantaria de Selva - Brigada Foz do Amazonas coordenaram, com o governo do estado do Amapá, o apoio de profissionais militares de saúde, sob a ótica de sua missão constitucional de proteger a sociedade brasileira. O objetivo é apoiar o esforço nacional de combate à COVID-19, tendo em vista o agravamento da crise de saúde no Amapá. No dia 5 de junho, médicos, enfermeiros e técnicos de enfermagem das Forças Armadas, provenientes de Brasília, do Rio Grande do Sul e do Rio de Janeiro, foram transportados, pela Força Aérea Brasileira, para reforçar o Hospital Universitário (HU) do Amapá, que está sendo ativado para atuar na linha de frente no tratamento de pacientes com o coronavírus.
 

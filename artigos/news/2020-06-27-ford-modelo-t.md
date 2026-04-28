@@ -1,11 +1,12 @@
 ---
-title: "Ford Modelo T"
+title: Ford Modelo T
 date: 2020-06-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Ford Modelo T.**
 

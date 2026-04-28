@@ -1,12 +1,13 @@
 ---
-title: "O sonho do carro zero: investimento ou peso no bolso?"
+title: 'O sonho do carro zero: investimento ou peso no bolso?'
 date: 2023-08-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Business and Economy
-  - Finances
+- Business and Economy
+- Finances
 ---
+
 
 ## Ao longo das gerações, ter um carro zero-quilômetro na garagem sempre foi um símbolo de prosperidade financeira e estabilidade. Todavia, esse sonho parece estar se tornando cada vez mais complexo, especialmente para as famílias brasileiras de classe média. 
 

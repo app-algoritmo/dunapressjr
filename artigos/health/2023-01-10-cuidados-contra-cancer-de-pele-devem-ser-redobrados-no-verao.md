@@ -1,11 +1,12 @@
 ---
-title: "Cuidados contra câncer de pele devem ser redobrados no verão"
+title: Cuidados contra câncer de pele devem ser redobrados no verão
 date: 2023-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Além das viagens à praia e idas aos parques e piscinas, a chegada do verão é um estímulo também para a prática de atividades ao ar livre. E, muitas vezes, um item imprescindível acaba sendo esquecido: o protetor solar, que deve ser utilizado durante todo o ano. Na luta contra o câncer de pele, torna-se um produto ainda mais essencial na estação mais quente do ano.
 

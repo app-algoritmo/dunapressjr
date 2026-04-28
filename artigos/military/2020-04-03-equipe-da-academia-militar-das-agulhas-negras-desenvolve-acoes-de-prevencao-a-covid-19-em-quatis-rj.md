@@ -1,11 +1,13 @@
 ---
-title: "Equipe da Academia Militar das Agulhas Negras desenvolve ações de prevenção à Covid-19 em Quatis (RJ)"
+title: Equipe da Academia Militar das Agulhas Negras desenvolve ações de prevenção
+  à Covid-19 em Quatis (RJ)
 date: 2020-04-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Resende (RJ)** – Em todo o Brasil, militares somam esforços em apoio à sociedade na linha de frente do combate ao Coronavírus. Na quarta-feira, dia 1o de abril de 2020, Quatis, no Vale do Paraíba fluminense, recebeu uma equipe da Academia Militar das Agulhas Negras.
 

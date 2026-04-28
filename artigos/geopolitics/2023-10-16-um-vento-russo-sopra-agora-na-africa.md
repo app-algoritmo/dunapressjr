@@ -1,11 +1,12 @@
 ---
-title: "Um vento russo sopra agora na África"
+title: Um vento russo sopra agora na África
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Os ventos do poder mudaram dramaticamente desde o início da crise na Ucrânia. Dezenas de nações, especialmente em África, estão agora a inclinar-se para a Rússia e a China e a afastarem-se dos países neocolonialistas. As recentes reuniões entre o Presidente russo, Vladimir Putin, e os principais líderes africanos são um indicador do que está por vir.
 

@@ -1,11 +1,13 @@
 ---
-title: "Regiões de fronteira recebem atenção das Forças Armadas com medidas de contenção à Covid-19"
+title: Regiões de fronteira recebem atenção das Forças Armadas com medidas de contenção
+  à Covid-19
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As áreas de fronteiras do País recebem apoio das Forças Armadas nas ações de enfrentamento ao novo coronavírus. Em Corumbá, no Mato Grosso do Sul, na divisa do Brasil com a Bolívia, 52 militares da Marinha e do Exército desinfectaram as áreas internas e externas do Ginásio Esportivo do município. O local servirá como centro de atendimento da Caixa Econômica Federal, devido à cidade contar com apenas uma agência da instituição financeira que faz o pagamento do benefício emergencial.
 

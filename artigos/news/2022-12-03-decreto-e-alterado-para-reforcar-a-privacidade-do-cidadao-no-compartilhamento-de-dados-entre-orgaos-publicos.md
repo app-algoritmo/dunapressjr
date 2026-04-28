@@ -1,11 +1,13 @@
 ---
-title: "Decreto é alterado para reforçar a privacidade do cidadão no compartilhamento de dados entre órgãos públicos"
+title: Decreto é alterado para reforçar a privacidade do cidadão no compartilhamento
+  de dados entre órgãos públicos
 date: 2022-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Diretrizes para o tratamento de dados pessoais e maior representatividade do Comitê Central de Governança de Dados são o foco da norma de 2019 reeditada na última sexta-feira (25/11).
 

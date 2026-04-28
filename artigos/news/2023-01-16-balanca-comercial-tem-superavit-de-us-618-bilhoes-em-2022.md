@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem superávit de US$ 61,8 bilhões em 2022"
+title: Balança comercial tem superávit de US$ 61,8 bilhões em 2022
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor é um pouco maior que o saldo de 2021.
 

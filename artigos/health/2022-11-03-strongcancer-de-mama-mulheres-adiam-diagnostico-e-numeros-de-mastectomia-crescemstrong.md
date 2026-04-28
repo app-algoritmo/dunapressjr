@@ -1,11 +1,13 @@
 ---
-title: "<strong>Câncer de mama: mulheres adiam diagnóstico e números de mastectomia crescem</strong>"
+title: '<strong>Câncer de mama: mulheres adiam diagnóstico e números de mastectomia
+  crescem</strong>'
 date: 2022-11-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pacientes estão chegando com tumores maiores nas cirurgias. Essa é uma constatação da Sociedade Brasileira de Cirurgia Oncológica (SBCO) e a explicação está na redução do número de mamografias e procedimentos realizados nos dois anos da pandemia da covid-19 no Brasil. Assim como em outros casos de câncer, a gravidade da doença aumenta proporcionalmente à demora do diagnóstico, assim como o tratamento fica mais agressivo e o risco de morte aumenta. Para se ter uma ideia, no caso do câncer de mama, esse atraso induz à mastectomia em 70% dos casos. 
 

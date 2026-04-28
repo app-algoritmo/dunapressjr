@@ -1,11 +1,13 @@
 ---
-title: "4ª fase da Operação Adaga em SP prende mais de 2,1 mil foragidos da Justiça em 15 dias"
+title: 4ª fase da Operação Adaga em SP prende mais de 2,1 mil foragidos da Justiça
+  em 15 dias
 date: 2023-09-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ao todo, 5,8 mil procurados foram recapturados durante os oito meses de operação.
 

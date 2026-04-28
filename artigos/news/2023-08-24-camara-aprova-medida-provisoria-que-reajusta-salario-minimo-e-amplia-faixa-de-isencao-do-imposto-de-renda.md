@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova medida provisória que reajusta salário mínimo e amplia faixa de isenção do imposto de renda"
+title: Câmara aprova medida provisória que reajusta salário mínimo e amplia faixa
+  de isenção do imposto de renda
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta visa aumentar o salário mínimo com base na variação positiva do PIB e alarga o limite de isenção do IRPF. 
 

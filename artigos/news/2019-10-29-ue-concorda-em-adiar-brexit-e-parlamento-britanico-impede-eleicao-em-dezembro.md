@@ -1,11 +1,12 @@
 ---
-title: "UE concorda em adiar Brexit e Parlamento britânico impede eleição em dezembro"
+title: UE concorda em adiar Brexit e Parlamento britânico impede eleição em dezembro
 date: 2019-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A União Europeia concordou nesta segunda-feira(28) em adiar
 o Brexit em até três meses, enquanto o primeiro-ministro do Reino Unido, Boris

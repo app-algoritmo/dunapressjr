@@ -1,11 +1,12 @@
 ---
-title: "Conheça os 10 passos da alimentação saudável para idosos durante a pandemia"
+title: Conheça os 10 passos da alimentação saudável para idosos durante a pandemia
 date: 2021-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Em qualquer época e para qualquer pessoa, a alimentação adequada e saudável é importante para a manutenção e recuperação da saúde. Mas durante uma pandemia, quando seu organismo precisa de uma dose extra de cuidado, o foco na alimentação deve ser redobrado. Principalmente para os idosos, que aparecem como o principal grupo de risco e necessitam de atenção especial.
 

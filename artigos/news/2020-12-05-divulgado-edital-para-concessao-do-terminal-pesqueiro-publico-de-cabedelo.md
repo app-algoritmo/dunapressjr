@@ -1,11 +1,12 @@
 ---
-title: "Divulgado edital para concessão do Terminal Pesqueiro Público de Cabedelo"
+title: Divulgado edital para concessão do Terminal Pesqueiro Público de Cabedelo
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Aquicultura e Pesca do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), com o apoio da Secretaria Especial do Programa de Parceria de Investimentos (PPI) do Ministério da Economia, divulgou o edital de concessão para exploração do Terminal Pesqueiro Público de Cabedelo (PB). O documento propõe a revitalização, modernização, operação, manutenção e gestão do terminal.
 

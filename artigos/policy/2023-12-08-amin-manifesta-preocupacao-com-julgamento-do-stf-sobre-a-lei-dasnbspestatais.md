@@ -1,11 +1,12 @@
 ---
-title: "Amin manifesta preocupação com julgamento do STF sobre a Lei das&nbsp;Estatais"
+title: Amin manifesta preocupação com julgamento do STF sobre a Lei das&nbsp;Estatais
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Esperidião Amin (PP-SC) destacou a importância da Lei das Estatais ([Lei 13.303, de 2016](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-06-30;13303)), que está em julgamento pelo Supremo Tribunal Federal (STF). A Lei das Estatais impede a indicação de ministros de Estado e secretários estaduais e municipais para diretorias e conselhos de administração de empresas do governo. Ele ressaltou que a aprovação da lei em 2016, no governo de Michel Temer, foi uma resposta aos escândalos de corrupção da época, como os investigados pela operação Lava Jato.
 

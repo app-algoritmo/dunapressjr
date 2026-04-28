@@ -1,11 +1,12 @@
 ---
-title: "Nissan estabelece meta para carros elétricos por apenas US $ 8.000"
+title: Nissan estabelece meta para carros elétricos por apenas US $ 8.000
 date: 2021-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 EV | Os carros elétricos decolaram no mercado norueguês nos últimos anos,  ninguém compra mais carros elétricos em comparação com outros países.
 

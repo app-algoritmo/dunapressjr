@@ -1,11 +1,13 @@
 ---
-title: "Oficial do Partido Likud alega que Putin apoia o Hamas e alerta que a Rússia “pagará o preço”"
+title: Oficial do Partido Likud alega que Putin apoia o Hamas e alerta que a Rússia
+  “pagará o preço”
 date: 2023-11-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chefe da bancada libertária dentro do Partido Likud de Israel arrastou a Rússia para o conflito em curso em Gaza, alegando que o governo do presidente Vladimir Putin apoia [o grupo militante](https://www.informationliberation.com/?id=64064) , o Hamas, apoiado pelo Irão.
 

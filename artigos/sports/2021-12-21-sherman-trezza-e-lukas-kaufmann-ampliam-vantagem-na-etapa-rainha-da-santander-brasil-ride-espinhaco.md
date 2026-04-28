@@ -1,11 +1,13 @@
 ---
-title: "Sherman Trezza e Lukas Kaufmann ampliam vantagem na Etapa Rainha da Santander Brasil Ride Espinhaço"
+title: Sherman Trezza e Lukas Kaufmann ampliam vantagem na Etapa Rainha da Santander
+  Brasil Ride Espinhaço
 date: 2021-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Enquanto na open Sherman Trezza e Lukas Kaufmann venceram de ponta a ponta, entre as mulheres a vitória de Paula Gallan e Isabella Lacerda foi definida nos quilômetros finais.
 

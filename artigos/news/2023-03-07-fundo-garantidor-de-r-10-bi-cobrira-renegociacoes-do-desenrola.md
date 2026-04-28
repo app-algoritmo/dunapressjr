@@ -1,11 +1,12 @@
 ---
-title: "Fundo garantidor de R$ 10 bi cobrirá renegociações do Desenrola"
+title: Fundo garantidor de R$ 10 bi cobrirá renegociações do Desenrola
 date: 2023-03-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa refinanciará R$ 50 bi de dívidas de 37 milhões de pessoas.
 

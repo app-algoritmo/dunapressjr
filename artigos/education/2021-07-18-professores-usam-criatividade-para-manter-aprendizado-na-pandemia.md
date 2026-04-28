@@ -1,11 +1,12 @@
 ---
-title: "Professores usam criatividade para manter aprendizado na pandemia"
+title: Professores usam criatividade para manter aprendizado na pandemia
 date: 2021-07-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Em todas as regiões do país, nas escolas públicas e na rede privada, os muitos meses de pandemia de covid-19 tiveram um impacto significativo no aprendizado de crianças de todas as idades. Na Educação Infantil e nos anos iniciais do Ensino Fundamental, esse impacto é ainda mais grave, visto que o afastamento do ambiente escolar prejudicou estudantes que estavam começando a ter contato com letras e números. Por isso, a criatividade dos professores tem sido indispensável para mitigar os efeitos negativos do distanciamento social.
 

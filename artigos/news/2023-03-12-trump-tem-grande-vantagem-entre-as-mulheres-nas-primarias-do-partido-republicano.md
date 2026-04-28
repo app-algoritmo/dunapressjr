@@ -1,11 +1,12 @@
 ---
-title: "Trump tem grande vantagem entre as mulheres nas primárias do Partido Republicano"
+title: Trump tem grande vantagem entre as mulheres nas primárias do Partido Republicano
 date: 2023-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## As tentativas da mídia de difamar Donald Trump como sexista estão falhando.
 

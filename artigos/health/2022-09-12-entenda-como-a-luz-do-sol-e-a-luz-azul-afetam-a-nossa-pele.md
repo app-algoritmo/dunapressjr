@@ -1,11 +1,12 @@
 ---
-title: "Entenda como a luz do sol e a luz azul afetam a nossa pele"
+title: Entenda como a luz do sol e a luz azul afetam a nossa pele
 date: 2022-09-12
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Quer cuidar melhor da sua pele e evitar o envelhecimento precoce? Saiba mais sobre como proteger a cútis da luz azul e da exposição solar 
 

@@ -1,11 +1,12 @@
 ---
-title: "Município promove ação de prevenção ao câncer de pele neste sábado (10)"
+title: Município promove ação de prevenção ao câncer de pele neste sábado (10)
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, através da Secretária de Saúde, vai promover na manhã deste sábado (10) uma ação de prevenção e conscientização sobre o câncer de pele. O evento faz parte da campanha Dezembro Laranja, que tem como objetivo sensibilizar a população sobre a doença e seus principais cuidados. A iniciativa acontece das 8h30 às 12h na rua Hercílio Luz, próximo à Casa da Cultura Dide Brandão.
 

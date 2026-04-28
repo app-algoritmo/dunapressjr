@@ -1,11 +1,12 @@
 ---
-title: "<strong>Indicado pelo Brasil, Ilan Goldfajn é eleito presidente do BID</strong>"
+title: <strong>Indicado pelo Brasil, Ilan Goldfajn é eleito presidente do BID</strong>
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mandato no Banco Interamericano de Desenvolvimento dura cinco anos.
 

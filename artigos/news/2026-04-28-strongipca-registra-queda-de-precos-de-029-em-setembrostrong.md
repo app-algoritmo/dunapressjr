@@ -1,11 +1,12 @@
 ---
-title: "<strong>IPCA registra queda de preços de 0,29% em setembro</strong>"
+title: <strong>IPCA registra queda de preços de 0,29% em setembro</strong>
 date: 2026-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Esse foi o terceiro mês seguido de deflação.
 

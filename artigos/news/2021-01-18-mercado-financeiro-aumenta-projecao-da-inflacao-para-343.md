@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta projeção da inflação para 3,43%"
+title: Mercado financeiro aumenta projeção da inflação para 3,43%
 date: 2021-01-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A informação foi divulgada hoje pelo Banco Central.
 

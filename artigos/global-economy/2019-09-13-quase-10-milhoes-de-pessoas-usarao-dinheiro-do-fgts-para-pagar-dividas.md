@@ -1,11 +1,12 @@
 ---
-title: "Quase 10 milhões de pessoas usarão dinheiro do FGTS para pagar dívidas"
+title: Quase 10 milhões de pessoas usarão dinheiro do FGTS para pagar dívidas
 date: 2019-09-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Quase 10 milhões de brasileiros, cerca de 38% dos que pretendem utilizar o recurso liberado do Fundo de Garantia do Tempo de Serviço (FGTS), vão usar o dinheiro para quitar dívidas, mostra pesquisa da Confederação Nacional de Dirigentes Lojistas (CNDL) e do Serviço de Proteção ao Crédito (SPC Brasil). 
 

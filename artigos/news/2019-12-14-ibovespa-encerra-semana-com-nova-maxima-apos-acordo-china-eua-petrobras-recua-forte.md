@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa encerra semana com nova máxima após acordo China-EUA; Petrobras recua forte"
+title: Ibovespa encerra semana com nova máxima após acordo China-EUA; Petrobras recua
+  forte
 date: 2019-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Ibovespa fechou em nova máxima nesta sexta-feira, após
 China e Estados Unidos anunciarem um acordo comercial “fase 1”, mas a alta foi

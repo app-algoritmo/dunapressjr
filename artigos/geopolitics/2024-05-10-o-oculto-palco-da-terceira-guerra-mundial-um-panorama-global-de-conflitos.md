@@ -1,11 +1,12 @@
 ---
-title: "O Oculto Palco da Terceira Guerra Mundial: Um Panorama Global de Conflitos"
+title: 'O Oculto Palco da Terceira Guerra Mundial: Um Panorama Global de Conflitos'
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A Terceira Guerra Mundial não é mais uma visão distante nos anais da história, mas uma realidade sombria que se desenrola diante de nossos olhos. Este não é o confronto convencional entre impérios ou exércitos marchando através dos continentes, mas uma batalha multifacetada que permeia todos os cantos do globo. A guerra moderna é uma fera com cabeça de hidra, uma teia complexa de conflitos de baixa intensidade, batalhas por procuração, ataques de drones e operações secretas que minam o tecido da paz e da segurança mundial.
 

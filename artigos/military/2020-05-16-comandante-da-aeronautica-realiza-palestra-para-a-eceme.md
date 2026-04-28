@@ -1,11 +1,12 @@
 ---
-title: "Comandante da Aeronáutica realiza palestra para a ECEME"
+title: Comandante da Aeronáutica realiza palestra para a ECEME
 date: 2020-05-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Comandante da Aeronáutica, Tenente-Brigadeiro do Ar Antonio Carlos Moretti Bermudez palestrou, na manhã desta sexta-feira (15/05), para oficiais-alunos da Escola de Comando e Estado-Maior do Exército (ECEME), localizada no Rio de Janeiro (RJ). O encontro foi por meio de videoconferência e teve o objetivo de apresentar à audiência a atual conjuntura do Comando da Aeronáutica e as perspectivas para o futuro.
 

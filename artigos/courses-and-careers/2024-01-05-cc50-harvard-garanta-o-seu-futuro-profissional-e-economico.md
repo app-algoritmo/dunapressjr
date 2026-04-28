@@ -1,13 +1,14 @@
 ---
-title: "CC50 Harvard: Garanta o seu futuro profissional e econômico"
+title: 'CC50 Harvard: Garanta o seu futuro profissional e econômico'
 date: 2024-01-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Courses and Careers
-  - Personal Development
-  - Science
+- Courses and Careers
+- Personal Development
+- Science
 ---
+
 
 **Desbravando o Mundo da Computação com CC50 de Harvard: Transforme-se em um Mestre, Agora em Português!**
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta moderada e se mantém acima dos 119 mil pontos"
+title: Ibovespa fecha em alta moderada e se mantém acima dos 119 mil pontos
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Petrobras limita ganhos do índice, enquanto mercado digere discurso do Fed e estímulos chineses.
 

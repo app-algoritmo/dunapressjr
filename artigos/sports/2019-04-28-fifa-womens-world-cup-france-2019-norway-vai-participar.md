@@ -1,11 +1,12 @@
 ---
-title: "FIFA Women´s World Cup France 2019: Norway vai participar!"
+title: 'FIFA Women´s World Cup France 2019: Norway vai participar!'
 date: 2019-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 Começa dia 7 de junho e os times participantes são:
 

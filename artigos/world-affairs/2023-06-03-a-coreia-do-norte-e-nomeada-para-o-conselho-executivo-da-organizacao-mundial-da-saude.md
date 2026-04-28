@@ -1,11 +1,13 @@
 ---
-title: "A Coreia do Norte é nomeada para o Conselho Executivo da Organização Mundial da Saúde"
+title: A Coreia do Norte é nomeada para o Conselho Executivo da Organização Mundial
+  da Saúde
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Coreia do Norte terá um assento no [Conselho Executivo](https://apps.who.int/gb/gov/en/composition-of-the-board_en.html) da Organização das Nações Unidas para Agricultura e Alimentação (OMS) , apesar da história do país de usar alimentos como arma contra seu povo.
 

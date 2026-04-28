@@ -1,11 +1,12 @@
 ---
-title: "Comemoração do aniversário dos 70 anos da 14ª Cia PE"
+title: Comemoração do aniversário dos 70 anos da 14ª Cia PE
 date: 2020-02-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Campo Grande (MS)**
 – No dia 20 de fevereiro, a 14ª Companhia de Polícia do Exército (14ª Cia PE)

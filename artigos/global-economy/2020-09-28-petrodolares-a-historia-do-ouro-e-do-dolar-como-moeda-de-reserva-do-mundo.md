@@ -1,12 +1,13 @@
 ---
-title: "Petrodólares, a história do ouro e do dólar como moeda de reserva do mundo"
+title: Petrodólares, a história do ouro e do dólar como moeda de reserva do mundo
 date: 2020-09-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
-  - Policy
+- Global Economy
+- Policy
 ---
+
 
 Inspirado no livro “ [The Dollar Crisis: Causes, Consequences and Cures](https://books.google.com/books?id=RqU9IIPKjhcC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) ” de Richard Duncan e influenciado pelo que temos presenciado recentemente em relação a políticas monetárias sem precedentes (em todo o mundo, mas principalmente nos EUA). A China e a Rússia unidas com grandes parceiros mundiais e atomicos formam um novo bloco de Formação de um novo sistema financeiro.
 

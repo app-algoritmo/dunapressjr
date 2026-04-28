@@ -1,11 +1,12 @@
 ---
-title: "Avançam as obras na ponte entre os bairros São Judas e Cidade Nova, em Itajaí"
+title: Avançam as obras na ponte entre os bairros São Judas e Cidade Nova, em Itajaí
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Primeiras vigas de sustentação da estrutura chegarão na próxima semana.
 

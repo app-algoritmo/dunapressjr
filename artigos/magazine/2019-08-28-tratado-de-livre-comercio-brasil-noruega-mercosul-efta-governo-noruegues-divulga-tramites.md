@@ -1,11 +1,13 @@
 ---
-title: "Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA: governo norueguês divulga trâmites"
+title: 'Tratado de Livre Comércio Brasil-Noruega, Mercosul-EFTA: governo norueguês
+  divulga trâmites'
 date: 2019-08-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Como ficou o acordo em que os países da EFTA, Suíça, Islândia, Liechtenstein e Noruega, concordaram em 23 de agosto de 2019 com os países do Mercosul, Argentina, Brasil, Paraguai e Uruguai, sobre um projeto de acordo de livre comércio?
 

@@ -1,11 +1,12 @@
 ---
-title: "Segunda onda da covid-19 pode levar PIB do Brasil cair 9,1%"
+title: Segunda onda da covid-19 pode levar PIB do Brasil cair 9,1%
 date: 2020-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Para a OCDE, a recuperação da economia será lenta e parcial.
 

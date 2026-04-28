@@ -1,12 +1,14 @@
 ---
-title: "Brasil participa da 7ª Sessão do Subcomitê de Prevenção e Resposta à Poluição da IMO"
+title: Brasil participa da 7ª Sessão do Subcomitê de Prevenção e Resposta à Poluição
+  da IMO
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 Com uma delegação composta por representantes da Marinha do Brasil (MB),
 do Ministério das Relações Exteriores, do Ministério do Meio Ambiente (Ibama),

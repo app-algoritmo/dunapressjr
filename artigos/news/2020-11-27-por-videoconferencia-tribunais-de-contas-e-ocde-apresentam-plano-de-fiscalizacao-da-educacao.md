@@ -1,11 +1,13 @@
 ---
-title: "Por Videoconferência, Tribunais de Contas e OCDE apresentam plano de fiscalização da educação"
+title: Por Videoconferência, Tribunais de Contas e OCDE apresentam plano de fiscalização
+  da educação
 date: 2020-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Tribunal de Contas da União (TCU) e as demais Cortes de Contas do país (TCs), incluindo o Tribunal de Contas do Estado da Paraíba (TCE-PB), em conjunto com a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), lançaram, na manhã desta quinta-feira (26), o plano de implementação do **Projeto Integrar** em todos os Tribunais de Contas brasileiros. A gravação na íntegra da reunião pode ser assistida [aqui](https://www.youtube.com/watch?v=RwEcbMAY9KE).
 

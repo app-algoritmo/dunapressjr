@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa Revela Preocupação dos Eleitores: Imigração Ilegal nos EUA e a Política de Partidos"
+title: 'Pesquisa Revela Preocupação dos Eleitores: Imigração Ilegal nos EUA e a Política
+  de Partidos'
 date: 2024-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma recente pesquisa Rasmussen trouxe à tona preocupações crescentes entre os prováveis eleitores americanos sobre a política de imigração do governo Biden. Com 54% dos entrevistados expressando a crença de que o presidente está "encorajando" a entrada ilegal de estrangeiros nos Estados Unidos, a questão da imigração tornou-se um ponto de tensão política.
 

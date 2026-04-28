@@ -1,11 +1,12 @@
 ---
-title: "Israelenses inovam abordagem ao câncer de bexiga"
+title: Israelenses inovam abordagem ao câncer de bexiga
 date: 2021-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Congele o tumor em vez de removê-lo: quatro pacientes foram submetidos a este tratamento em Haifa; médicos verificam se este método pode manter o câncer sob controle.
 

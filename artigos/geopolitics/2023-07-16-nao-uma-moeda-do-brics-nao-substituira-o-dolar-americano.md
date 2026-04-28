@@ -1,11 +1,12 @@
 ---
-title: "Não, uma moeda do BRICS não substituirá o dólar americano"
+title: Não, uma moeda do BRICS não substituirá o dólar americano
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Há meses, senão anos, os países do BRICS (Brasil, Rússia, Índia, China e África do Sul) vêm cogitando a ideia de criar uma nova moeda de reserva global que, segundo alguns, substituirá o dólar americano.
 

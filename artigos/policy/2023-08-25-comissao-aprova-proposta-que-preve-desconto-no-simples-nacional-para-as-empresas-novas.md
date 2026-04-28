@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova proposta que prevê desconto no Simples Nacional para as empresas novas"
+title: Comissão aprova proposta que prevê desconto no Simples Nacional para as empresas
+  novas
 date: 2023-08-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Tabela de descontos progressivos beneficia empresas com até 36 meses de atividade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Exportações do agro mineiro atingem cerca de US$ 9,5 bilhões de janeiro a agosto"
+title: Exportações do agro mineiro atingem cerca de US$ 9,5 bilhões de janeiro a agosto
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Agriculture
+- Agriculture
 ---
+
 
 ## O café, carro-chefe do setor, apresentou recuperação no último mês, com alta de 22% no preço em comparação ao mesmo período de 2022.
 

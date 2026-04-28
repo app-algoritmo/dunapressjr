@@ -1,11 +1,12 @@
 ---
-title: "A Nova Era de Putin: Rússia Busca Paridade e Identidade Própria"
+title: 'A Nova Era de Putin: Rússia Busca Paridade e Identidade Própria'
 date: 2024-05-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na terça-feira, Vladimir Putin prestou juramento como Presidente da Rússia, marcando o início da fase final da restauração da autoimagem e estatuto russos, segundo Scott Ritter, antigo oficial de inteligência e comentador político.
 

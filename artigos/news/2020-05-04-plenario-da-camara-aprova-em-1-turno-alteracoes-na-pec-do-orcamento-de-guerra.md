@@ -1,11 +1,12 @@
 ---
-title: "Plenário da Câmara aprova em 1º turno alterações na PEC do 'orçamento de guerra'"
+title: Plenário da Câmara aprova em 1º turno alterações na PEC do 'orçamento de guerra'
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou, em primeiro turno, o substitutivo do Senado para a chamada PEC do "orçamento de guerra" (Proposta de Emenda à Constituição 10/20), segundo parecer do deputado Hugo Motta (Republicanos-PB).
 

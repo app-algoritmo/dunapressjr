@@ -1,11 +1,13 @@
 ---
-title: "Secretária especial Daniella Marques destaca em reunião do Brics a reindustrialização do Brasil"
+title: Secretária especial Daniella Marques destaca em reunião do Brics a reindustrialização
+  do Brasil
 date: 2022-05-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Durante a 6ª Reunião de Ministros da Indústria do grupo, ela defendeu ações de inovação, produtividade e competitividade para o crescimento.
 

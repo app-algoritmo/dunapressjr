@@ -1,11 +1,12 @@
 ---
-title: "Magno Malta critica Conselho Nacional de Saúde e defende bandeiras conservadoras"
+title: Magno Malta critica Conselho Nacional de Saúde e defende bandeiras conservadoras
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Magno Malta (PL-ES), em pronunciamento no Plenário nesta quarta-feira (23), criticou pontos da Resolução 715 do Conselho Nacional de Saúde. Segundo ele, as medidas promovem a sexualização precoce das crianças e vão contra os princípios de proteção à infância. O senador também contestou medidas que abordam a inclusão de religiões de matriz africana no contexto da saúde pública, em uma parceria com o Sistema Único de Saúde (SUS), para práticas terapêuticas.
 

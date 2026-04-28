@@ -1,11 +1,12 @@
 ---
-title: "<strong>Prazo para parcelar débitos de emissoras de rádio e TV acaba hoje</strong>"
+title: <strong>Prazo para parcelar débitos de emissoras de rádio e TV acaba hoje</strong>
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida vale apenas para boletos vencidos.
 

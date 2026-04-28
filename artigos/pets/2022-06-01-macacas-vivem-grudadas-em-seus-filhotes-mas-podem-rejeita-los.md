@@ -1,11 +1,12 @@
 ---
-title: "Macacas vivem grudadas em seus filhotes, mas podem rejeitá-los"
+title: Macacas vivem grudadas em seus filhotes, mas podem rejeitá-los
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O macaquinho não desgruda da mãe ou é a mãe que não desgruda do macaquinho? Sempre juntos, as macacas Rhesus e seus filhotes que moram no Macacário do Instituto Butantan esbanjam apego e proteção, naquele famoso grude que vemos entre mãe e bebê, e que nos impede de dar uma resposta objetiva para esta pergunta.
 

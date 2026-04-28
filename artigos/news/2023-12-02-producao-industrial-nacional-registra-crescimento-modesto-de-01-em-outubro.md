@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial nacional registra crescimento modesto de 0,1% em outubro"
+title: Produção industrial nacional registra crescimento modesto de 0,1% em outubro
 date: 2023-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índices acumulados no ano e nos últimos 12 meses permanecem estagnados, enquanto setores específicos impulsionam ligeira expansão mensal.
 

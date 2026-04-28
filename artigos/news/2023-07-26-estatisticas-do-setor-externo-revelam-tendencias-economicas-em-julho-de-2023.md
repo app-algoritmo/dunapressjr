@@ -1,11 +1,12 @@
 ---
-title: "Estatísticas do setor externo revelam tendências econômicas em julho de 2023"
+title: Estatísticas do setor externo revelam tendências econômicas em julho de 2023
 date: 2023-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações de bens caem, mas superávit comercial oferece estabilidade; investimentos diretos se mantêm em destaque.
 

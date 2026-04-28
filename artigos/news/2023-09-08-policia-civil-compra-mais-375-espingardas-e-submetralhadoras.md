@@ -1,11 +1,12 @@
 ---
-title: "Polícia Civil compra mais 375 espingardas e submetralhadoras"
+title: Polícia Civil compra mais 375 espingardas e submetralhadoras
 date: 2023-09-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A compra faz parte da modernização e reforço dos armamentos do estado de São Paulo.
 

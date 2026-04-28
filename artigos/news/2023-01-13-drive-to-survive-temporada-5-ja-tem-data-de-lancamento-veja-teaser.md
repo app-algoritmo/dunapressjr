@@ -1,12 +1,13 @@
 ---
-title: "Drive To Survive: Temporada 5 já tem data de lançamento: Veja Teaser"
+title: 'Drive To Survive: Temporada 5 já tem data de lançamento: Veja Teaser'
 date: 2023-01-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## A espera está quase no fim: a Netflix anunciou quando a nova temporada de Fórmula 1: Drive To Survive chegará em seu serviço de streaming.
 

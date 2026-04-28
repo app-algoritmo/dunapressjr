@@ -1,11 +1,12 @@
 ---
-title: "Como Reduzir o Consumo de Combustíveis Fósseis"
+title: Como Reduzir o Consumo de Combustíveis Fósseis
 date: 2023-06-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Environment
+- Environment
 ---
+
 
 ## A Revolução Verde: Como Prevenir Desastres Ambientais através da Redução de Combustíveis Fósseis
 

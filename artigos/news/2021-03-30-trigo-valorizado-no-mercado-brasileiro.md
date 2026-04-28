@@ -1,11 +1,12 @@
 ---
-title: "Trigo valorizado no mercado brasileiro"
+title: Trigo valorizado no mercado brasileiro
 date: 2021-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O mercado interno segue sem grandes alterações, com poucos negócios firmados e moinhos relativamente abastecidos, mas as cotações de trigo em grãos seguem valorizadas.
 

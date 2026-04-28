@@ -1,11 +1,13 @@
 ---
-title: "Presidentes do Irã e do Iraque Concordam Sobre Expansão de Relações Bilaterais e Solidariedade para com Gaza"
+title: Presidentes do Irã e do Iraque Concordam Sobre Expansão de Relações Bilaterais
+  e Solidariedade para com Gaza
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente iraniano, Ebrahim Raisi, e seu homólogo iraquiano, Abdul Latif Rashid, reforçaram a necessidade de fortalecer os laços entre Teerã e Bagdá durante uma conversa telefônica na terça-feira, durante a qual trocaram felicitações pelo Eid al-Fitr.
 

@@ -1,11 +1,12 @@
 ---
-title: "A Exploração Biométrica: Worldcoin Aproveita a Crise Econômica Argentina"
+title: 'A Exploração Biométrica: Worldcoin Aproveita a Crise Econômica Argentina'
 date: 2024-05-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em meio ao crescente turbilhão da inflação na Argentina, a Worldcoin está se destacando ao oferecer uma oferta controversa: US$ 50 em criptomoeda em troca de dados biométricos de cidadãos financeiramente vulneráveis. Este movimento ocorre em um momento em que o país enfrenta uma grave crise econômica, exacerbada pela inflação galopante, que atinge quase 300%.
 

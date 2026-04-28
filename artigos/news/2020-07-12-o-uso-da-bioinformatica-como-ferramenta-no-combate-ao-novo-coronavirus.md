@@ -1,11 +1,12 @@
 ---
-title: "O uso da bioinformática como ferramenta no combate ao novo coronavírus"
+title: O uso da bioinformática como ferramenta no combate ao novo coronavírus
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No final de janeiro de 2020, a Organização Mundial de Saúde – OMS declarou a doença conhecida como COVID-19 (do Inglês, *Corona Virus Disease 2019*, que significa doença do coronavírus) como uma emergência global, que se transformou em pandemia logo em seguida (março de 2020). Os coronavírus (CoV) compõem uma grande família viral, identificada pelo seu formato de coroa, descrita desde os anos 1960, reunindo vírus causadores de infecções respiratórias em animais e seres humanos, semelhantes a um resfriado convencional. A atual pandemia de COVID-19 é causada por um novo coronavírus (SARS-CoV-2) que emergiu na China e se espalhou rapidamente por diversos países ao redor do mundo.
 

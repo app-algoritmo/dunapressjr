@@ -1,11 +1,13 @@
 ---
-title: "Allan dos Santos,  jornalista perseguido por juízes do mecanismo, tem prisão, captura e pedido de extradição decretados"
+title: Allan dos Santos,  jornalista perseguido por juízes do mecanismo, tem prisão,
+  captura e pedido de extradição decretados
 date: 2021-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Assista aqui o vídeo censurado no Brasil por determinação de juiz da corte suprema, participação especial do jornalista Alam dos Santos, exilado nos Estados Unidos da América e que tem decretada sua captura e extradição. 
 

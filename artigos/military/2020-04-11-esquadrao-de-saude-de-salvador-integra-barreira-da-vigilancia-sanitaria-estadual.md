@@ -1,11 +1,12 @@
 ---
-title: "Esquadrão de Saúde de Salvador integra barreira da Vigilância Sanitária Estadual"
+title: Esquadrão de Saúde de Salvador integra barreira da Vigilância Sanitária Estadual
 date: 2020-04-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Militares do Esquadrão de Saúde da Base Aérea de Salvador (BASV) passaram a integrar, na quarta-feira (08/04), a equipe que atua na barreira da Vigilância Sanitária Estadual, na área de desembarque do Aeroporto Internacional Deputado Luís Eduardo Magalhães, na Bahia. O objetivo é aferir a temperatura dos passageiros, em ação de combate ao novo Coronavírus.
 

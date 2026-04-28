@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê prioridade no atendimento psicossocial para mães de filhos com transtorno do espectro autista"
+title: Projeto prevê prioridade no atendimento psicossocial para mães de filhos com
+  transtorno do espectro autista
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 333/23 prevê prioridade de atendimento psicossocial no Sistema Único de Saúde (SUS) às mães que se dedicam integralmente ao cuidado de filhos com transtorno do espectro autista (TEA).
 

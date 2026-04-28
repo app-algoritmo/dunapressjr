@@ -1,11 +1,12 @@
 ---
-title: "PIB trimestral recua 0,3% em janeiro em relação a janeiro de 2020"
+title: PIB trimestral recua 0,3% em janeiro em relação a janeiro de 2020
 date: 2021-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em janeiro, o PIB recuou 0,8%
 

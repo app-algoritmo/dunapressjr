@@ -1,11 +1,13 @@
 ---
-title: "Verdadeiros objetivos por trás da pesquisa biológica dos EUA revelados na Ucrânia, diz Kirillov"
+title: Verdadeiros objetivos por trás da pesquisa biológica dos EUA revelados na Ucrânia,
+  diz Kirillov
 date: 2024-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Igor Kirillov lembrou ainda que em 2023 foram criadas agências administrativas e técnicas – o Gabinete de Política de Preparação e Resposta à Pandemia e o Gabinete de Segurança e Diplomacia Sanitária Global.
 

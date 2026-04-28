@@ -1,11 +1,12 @@
 ---
-title: "Fundo Soberano da Noruega em Alerta: Riscos no Mercado de Ações Pedem Cautela"
+title: 'Fundo Soberano da Noruega em Alerta: Riscos no Mercado de Ações Pedem Cautela'
 date: 2024-10-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O *Norges Bank Investment Management* (NBIM), que gerencia o colossal fundo soberano da Noruega de US$ 1,8 trilhão (equivalente a R$ 10,25 trilhões), emitiu um alerta sobre os riscos crescentes no mercado de ações. Trond Grande, vice-CEO do NBIM, afirmou que a conjuntura econômica global demanda uma postura de cautela, ressaltando que "os riscos nos mercados de ações são mais negativos do que positivos". O fundo, que investiu em mais de 8.760 empresas em 71 países, enfatizou que a incerteza econômica deve ser considerada ao planejar investimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Reforma Tributária da Liberdade tem comissão instalada"
+title: Reforma Tributária da Liberdade tem comissão instalada
 date: 2022-05-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Proposta de Alinhamento Tributário descentraliza e reduz custo de produção e serviços.
 

@@ -1,11 +1,13 @@
 ---
-title: "O presidente dos EUA, Donald Trump apresentou seu plano de ajuda ao primeiro-ministro Benjamin Netanyahu"
+title: O presidente dos EUA, Donald Trump apresentou seu plano de ajuda ao primeiro-ministro
+  Benjamin Netanyahu
 date: 2020-02-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Enquete constata que a investigação do primeiro-ministro é a principal questão de votação e que mais de dois terços pensam que o Dia das Eleições deve ser considerado apenas um dia de férias para pessoas que possam provar que votaram.
 

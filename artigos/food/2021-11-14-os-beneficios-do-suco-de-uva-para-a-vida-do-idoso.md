@@ -1,11 +1,12 @@
 ---
-title: "Os benefícios do suco de uva para a vida do idoso"
+title: Os benefícios do suco de uva para a vida do idoso
 date: 2021-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 A pesquisa foi realizada com um grupo de voluntários idosos saudáveis. Durante 30 dias, eles inseriram na alimentação a ingestão de 400 ml de suco de uva integral, divididos em duas porções. Antes do início da pesquisa e após os 30 dias de consumo do suco, foram tomadas as medidas de peso corporal e circunferência abdominal dos voluntários, que também passaram pelo Mini Exame do Estado Mental (MEEM) e teste da mobilidade funcional (Timed Up & Go). Foram coletadas amostras de sangue para testes bioquímicos e esfoliação da camada interna bucal para extração e análise de alterações das células epiteliais.
 

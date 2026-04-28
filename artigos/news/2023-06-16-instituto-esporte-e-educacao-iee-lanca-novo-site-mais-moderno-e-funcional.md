@@ -1,11 +1,12 @@
 ---
-title: "Instituto Esporte e Educação (IEE) lança novo site mais moderno e funcional"
+title: Instituto Esporte e Educação (IEE) lança novo site mais moderno e funcional
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A página do Instituto Esporte e Educação (IEE) na internet está de cara nova. Mais moderno e funcional, o site -  [https://esporteeducacao.org.br](https://click.presskit.com.br/url/949338f348/6361388b6fc) - traz novidades, com um conteúdo diferenciado sobre o Instituto que, por meio de seus diversos projetos, leva a todo o Brasil a sua metodologia baseada nos princípios do esporte educacional.
 

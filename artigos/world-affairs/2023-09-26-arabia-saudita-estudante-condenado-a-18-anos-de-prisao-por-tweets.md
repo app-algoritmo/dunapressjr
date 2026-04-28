@@ -1,11 +1,12 @@
 ---
-title: "Arábia Saudita: Estudante condenado a 18 anos de prisão por tweets"
+title: 'Arábia Saudita: Estudante condenado a 18 anos de prisão por tweets'
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Arábia Saudita condenou um estudante a 18 anos de prisão e à proibição de viajar por publicar tweets de apoio a prisioneiros políticos, relata um grupo de direitos humanos.
 

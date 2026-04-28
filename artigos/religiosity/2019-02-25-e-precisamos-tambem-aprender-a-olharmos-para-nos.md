@@ -1,11 +1,12 @@
 ---
-title: "E precisamos também aprender a olharmos para nós"
+title: E precisamos também aprender a olharmos para nós
 date: 2019-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Parece sim egoísta, da essa sensação.
 

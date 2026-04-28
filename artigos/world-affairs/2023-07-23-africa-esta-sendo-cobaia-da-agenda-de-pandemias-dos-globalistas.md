@@ -1,11 +1,12 @@
 ---
-title: "África está sendo cobaia da agenda de pandemias dos globalistas"
+title: África está sendo cobaia da agenda de pandemias dos globalistas
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Mas no final você vê que é financiado pelos militares e não se trata de sua saúde.
 

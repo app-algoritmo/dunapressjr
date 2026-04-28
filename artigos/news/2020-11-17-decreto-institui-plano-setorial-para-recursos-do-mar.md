@@ -1,11 +1,12 @@
 ---
-title: "Decreto institui plano setorial para recursos do mar"
+title: Decreto institui plano setorial para recursos do mar
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A extração de petróleo e gás, geração de energia renovável, navegação, pesca e turismo tornam a faixa oceânica brasileira, chamada de Amazônia Azul, fundamental para a economia e a soberania do país. **Neste dia 16 de novembro, quando é comemorado o Dia Nacional da Amazônia Azul, o Presidente Jair Bolsonaro assinou o decreto que institui o 10º Plano Setorial para os Recursos do Mar**.
 

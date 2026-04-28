@@ -1,11 +1,13 @@
 ---
-title: "PF investiga fraudes em contratos públicos firmados para aquisição de máscaras de proteção facial"
+title: PF investiga fraudes em contratos públicos firmados para aquisição de máscaras
+  de proteção facial
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Palmas/TO - A Polícia Federal deflagrou nesta quarta-feira (3/6) a Operação “Personale”, com o objetivo de apurar suposto superfaturamento em dois contratos de compras para aquisição de máscaras de proteção facial, realizados pela Secretaria de Saúde do Estado do Tocantins.
 

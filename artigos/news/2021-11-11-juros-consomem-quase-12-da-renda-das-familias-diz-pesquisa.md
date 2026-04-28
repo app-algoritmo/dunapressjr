@@ -1,11 +1,12 @@
 ---
-title: "Juros consomem quase 12% da renda das famílias, diz pesquisa"
+title: Juros consomem quase 12% da renda das famílias, diz pesquisa
 date: 2021-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Empresas usam R$ 90,2 bilhões para quitar juros em 2021.
 

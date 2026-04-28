@@ -1,11 +1,12 @@
 ---
-title: "1 milhão de estudantes atendidos em 2019 pela Rede Federal"
+title: 1 milhão de estudantes atendidos em 2019 pela Rede Federal
 date: 2020-06-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Dados mostram um aumento de 13,4% nas matrículas, em relação a 2018; cursos de qualificação profissional tiveram maior expansão: de 135 mil para 184 mil matriculados.
 

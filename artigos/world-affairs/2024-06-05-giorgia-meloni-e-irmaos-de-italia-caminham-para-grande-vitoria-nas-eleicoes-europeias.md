@@ -1,11 +1,13 @@
 ---
-title: "Giorgia Meloni e Irmãos de Itália Caminham para Grande Vitória nas Eleições Europeias"
+title: Giorgia Meloni e Irmãos de Itália Caminham para Grande Vitória nas Eleições
+  Europeias
 date: 2024-06-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A primeira-ministra italiana, Giorgia Meloni, e seu partido, Irmãos de Itália, estão prestes a alcançar uma vitória significativa nas próximas eleições europeias, marcadas para o próximo domingo. As últimas sondagens indicam que a formação política pode conquistar cerca de 27% dos votos, o que lhes garantiria aproximadamente 25 assentos no Parlamento Europeu.
 

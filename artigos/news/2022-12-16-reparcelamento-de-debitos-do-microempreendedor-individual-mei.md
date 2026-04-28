@@ -1,11 +1,12 @@
 ---
-title: "Reparcelamento de Débitos do Microempreendedor Individual (MEI)"
+title: Reparcelamento de Débitos do Microempreendedor Individual (MEI)
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A partir do dia 19/12/2022 estará disponível, no portal do Simples Nacional e no portal e-CAC, o módulo para reparcelamento de débitos para o Microempreendedor Individual (MEI).
 

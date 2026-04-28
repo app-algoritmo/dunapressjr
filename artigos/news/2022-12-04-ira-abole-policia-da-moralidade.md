@@ -1,13 +1,14 @@
 ---
-title: "Irã abole polícia da moralidade"
+title: Irã abole polícia da moralidade
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
-  - World Affairs
+- News
+- Policy
+- World Affairs
 ---
+
 
 ## Mohammad Jafar Montazeri, procurador-geral do país, diz que as autoridades podem revisar a lei sobre o uso obrigatório do hijab.
 

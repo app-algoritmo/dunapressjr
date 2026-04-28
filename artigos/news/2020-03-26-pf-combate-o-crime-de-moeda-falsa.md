@@ -1,11 +1,12 @@
 ---
-title: "PF combate o crime de moeda falsa"
+title: PF combate o crime de moeda falsa
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na quarta-feira (25/3), a
 Polícia Federal prendeu em flagrante um dos maiores distribuidores de moeda

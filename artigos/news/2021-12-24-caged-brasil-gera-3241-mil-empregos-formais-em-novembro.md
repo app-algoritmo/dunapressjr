@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil gera 324,1 mil empregos formais em novembro"
+title: 'Caged: Brasil gera 324,1 mil empregos formais em novembro'
 date: 2021-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Acumulado do ano chega a 2,9 milhões de novas vagas.
 

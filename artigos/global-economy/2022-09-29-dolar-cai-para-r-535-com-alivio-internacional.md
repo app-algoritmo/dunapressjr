@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,35 com alívio internacional"
+title: Dólar cai para R$ 5,35 com alívio internacional
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa fechou estável, com recuperação do mercado externo.
 

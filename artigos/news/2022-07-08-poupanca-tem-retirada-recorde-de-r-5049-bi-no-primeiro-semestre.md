@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada recorde de R$ 50,49 bi no primeiro semestre"
+title: Poupança tem retirada recorde de R$ 50,49 bi no primeiro semestre
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### BC voltou a divulgar estatística após fim de greve.
 

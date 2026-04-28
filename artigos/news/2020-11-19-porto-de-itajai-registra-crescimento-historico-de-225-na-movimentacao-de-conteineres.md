@@ -1,11 +1,12 @@
 ---
-title: "Porto de Itajaí registra crescimento histórico de 225% na movimentação de contêineres"
+title: Porto de Itajaí registra crescimento histórico de 225% na movimentação de contêineres
 date: 2020-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Saldo positivo é referente ao acumulado dos últimos três anos e meio. 
 

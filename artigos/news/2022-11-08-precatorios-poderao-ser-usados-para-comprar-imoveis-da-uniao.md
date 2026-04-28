@@ -1,11 +1,12 @@
 ---
-title: "Precatórios poderão ser usados para comprar imóveis da União"
+title: Precatórios poderão ser usados para comprar imóveis da União
 date: 2022-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Portaria que regulamenta emenda constitucional foi publicada nesta segunda-feira (7).
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em alta em dia de eleições nos EUA"
+title: Dólar fecha em alta em dia de eleições nos EUA
 date: 2020-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 2,49% em meio a otimismo externo.
 

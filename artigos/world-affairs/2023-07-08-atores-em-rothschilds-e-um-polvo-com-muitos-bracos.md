@@ -1,11 +1,12 @@
 ---
-title: "Atores em Rothschilds: “É um polvo com muitos braços'"
+title: 'Atores em Rothschilds: “É um polvo com muitos braços'''
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ator americano Jim Caviezel disse no War Room de Bannon: "Por que você ainda ouve a mídia que mente para você todos os dias? Você não pode usar a palavra 'adrenocromo'. Você não pode criticar George Soros.” Ele apontou que Soros é dono de muitas empresas de mídia.
 

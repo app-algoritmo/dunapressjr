@@ -1,11 +1,13 @@
 ---
-title: "Estatuto da Criança e do Adolescente ganhará versão em Libras a Língua Brasileira de Sinais"
+title: Estatuto da Criança e do Adolescente ganhará versão em Libras a Língua Brasileira
+  de Sinais
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma nova edição do Estatuto da Criança e do Adolescente (ECA) será disponibilizada em linguagem clara, compreensível e adequada a pessoas surdas ou com deficiência auditiva. O edital para a adaptação da norma à Língua Brasileira de Sinais (Libras) foi publicado nesta sexta-feira (10). Qualquer empresa interessada em desenvolver o conteúdo do Estatuto nessa versão pode se candidatar.
 

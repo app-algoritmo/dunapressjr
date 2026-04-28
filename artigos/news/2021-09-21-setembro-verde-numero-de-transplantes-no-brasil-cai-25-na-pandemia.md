@@ -1,11 +1,12 @@
 ---
-title: "Setembro Verde: número de transplantes no Brasil cai 25% na pandemia"
+title: 'Setembro Verde: número de transplantes no Brasil cai 25% na pandemia'
 date: 2021-09-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O que fazer quando um órgão do corpo humano não funciona mais nem se recupera com tratamentos convencionais? A medicina tem uma solução radical: trocar o órgão. É um procedimento de alta complexidade, que exige muita competência médica, estrutura hospitalar e solidariedade humana. No mundo, nem mesmo os avanços tecnológicos impediram que as doações e os transplantes de órgãos fossem impactados pela pandemia. Só na primeira onda de covid-19, diminuiu 31% o número de transplantes realizados em todo o mundo, como aponta a pesquisa publicada no jornal científico *The Lancet Public Health*.
 

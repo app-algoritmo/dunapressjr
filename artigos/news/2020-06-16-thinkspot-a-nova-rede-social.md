@@ -1,11 +1,12 @@
 ---
-title: "Thinkspot a nova rede social"
+title: Thinkspot a nova rede social
 date: 2020-06-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Anunciada a nova plataforma “anti-censura” baseada em assinatura [“Thinkspot”](https://www.ts.today/) que está sendo criada pelo popular psicólogo Dr. Jordan B. Peterson. Ela está sendo comercializada como uma alternativa de livre expressão aos processadores de pagamento como o Patreon, na medida em que “monetizará criadores” e também fornecerá uma alternativa de mídia social para plataformas como Facebook e YouTube.
 

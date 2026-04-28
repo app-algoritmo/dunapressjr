@@ -1,11 +1,12 @@
 ---
-title: "Governo adia entrega do arcabouço fiscal para a próxima semana"
+title: Governo adia entrega do arcabouço fiscal para a próxima semana
 date: 2023-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Feriado será usado para ajustar a proposta, diz ministra Simone Tebet.
 

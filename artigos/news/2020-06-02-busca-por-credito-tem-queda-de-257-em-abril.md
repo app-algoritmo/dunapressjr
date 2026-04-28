@@ -1,11 +1,12 @@
 ---
-title: "Busca por crédito tem queda de 25,7% em abril"
+title: Busca por crédito tem queda de 25,7% em abril
 date: 2020-06-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Dados são do Indicador de Demanda por Crédito da Serasa Experian.
 

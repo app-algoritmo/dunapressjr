@@ -1,11 +1,12 @@
 ---
-title: "A Escravidão pelas Dívidas - Parte II"
+title: A Escravidão pelas Dívidas - Parte II
 date: 2020-03-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Como já mencionado no primeiro artigo sobre o tema temos que rever muito a forma como vivemos economicamente nos dias de hoje. Pois o consumismo é desenfreado, o endividamento populacional é crescente, os lucros de bancos e mega oligarquias também, e, de fato, pouco se reverte em nosso favor.
 

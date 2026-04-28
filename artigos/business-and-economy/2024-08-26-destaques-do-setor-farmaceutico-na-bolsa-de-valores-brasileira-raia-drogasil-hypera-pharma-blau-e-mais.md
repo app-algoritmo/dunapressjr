@@ -1,12 +1,14 @@
 ---
-title: "Destaques do Setor Farmacêutico na Bolsa de Valores Brasileira: Raia Drogasil, Hypera Pharma Blau e Mais"
+title: 'Destaques do Setor Farmacêutico na Bolsa de Valores Brasileira: Raia Drogasil,
+  Hypera Pharma Blau e Mais'
 date: 2024-08-26
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Business and Economy
-  - Magazine
+- Business and Economy
+- Magazine
 ---
+
 
 Nesta semana, o setor farmacêutico na Bolsa de Valores brasileira teve alguns destaques importantes. Ações de empresas desse setor se mostraram atraentes, principalmente devido ao cenário de crescente demanda por produtos de saúde e cuidados, além de estratégias de expansão e inovação adotadas por várias companhias.
 

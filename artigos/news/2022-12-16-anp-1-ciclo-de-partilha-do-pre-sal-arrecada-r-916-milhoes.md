@@ -1,11 +1,12 @@
 ---
-title: "ANP: 1º Ciclo de Partilha do Pré-Sal arrecada R$ 916 milhões"
+title: 'ANP: 1º Ciclo de Partilha do Pré-Sal arrecada R$ 916 milhões'
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dos 11 blocos ofertados, sete não tiveram interesse pelas empresas.
 

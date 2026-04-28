@@ -1,11 +1,12 @@
 ---
-title: "IBGE: 2020 registrou queda em serviços de alimentação e turismo"
+title: 'IBGE: 2020 registrou queda em serviços de alimentação e turismo'
 date: 2022-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Remuneração média em salários mínimos diminuiu em 10 anos.
 

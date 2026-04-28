@@ -1,11 +1,12 @@
 ---
-title: "Em 2 minutos ficará claro que estamos sendo enganados e em relação à Ucrânia"
+title: Em 2 minutos ficará claro que estamos sendo enganados e em relação à Ucrânia
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A União Soviética retirou 400.000 soldados da Alemanha Oriental com a condição de que a OTAN não se movesse para o leste. O presidente George Bush garantiu a Gorbachev que a OTAN não se moveria um centímetro para o leste.
 

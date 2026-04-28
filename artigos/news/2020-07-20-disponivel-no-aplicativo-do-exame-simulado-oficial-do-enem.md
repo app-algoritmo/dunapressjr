@@ -1,11 +1,12 @@
 ---
-title: "Disponível no aplicativo do exame, simulado oficial do Enem"
+title: Disponível no aplicativo do exame, simulado oficial do Enem
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) agora oferece um simulado oficial do Exame Nacional do Ensino Médio (Enem) para ajudar na preparação dos inscritos. O simulado utiliza conceitos de gamificação e pode ser acessado pelo aplicativo do Enem, em celular ou tablet. Quem já tem o app precisa atualizá-lo. O aplicativo do Enem está disponível nas plataformas Android e iOS.
 

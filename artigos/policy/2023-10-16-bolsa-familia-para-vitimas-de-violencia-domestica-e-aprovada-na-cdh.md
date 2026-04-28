@@ -1,11 +1,12 @@
 ---
-title: "Bolsa Família para vítimas de violência doméstica é aprovada na CDH"
+title: Bolsa Família para vítimas de violência doméstica é aprovada na CDH
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Direitos Humanos (CDH) aprovou, em reunião em 4 de outubro, o projeto que inclui mulheres vítimas de violência doméstica no Programa Bolsa Família. O [PL 3.324/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158542), da senadora Zenaide Maia (PSD-RN), teve relatório favorável do senador Paulo Paim (PT-RS) e agora segue para análise da Comissão de Assuntos Econômicos (CAE) em decisão terminativa.
 

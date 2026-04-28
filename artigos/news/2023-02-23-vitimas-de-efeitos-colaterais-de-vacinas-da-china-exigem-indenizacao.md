@@ -1,11 +1,12 @@
 ---
-title: "Vítimas de efeitos colaterais de vacinas da China, exigem indenização"
+title: Vítimas de efeitos colaterais de vacinas da China, exigem indenização
 date: 2023-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O TrialSite relatou o impacto da pandemia na China, incluindo com a vacina CoronaVac Covid-19 da Sinovac causou a morte de médicos indonésios. O TrialSite levantou preocupações sobre todas as vacinas da China, incluindo a vacina da Sinopharm. Agora parece que os sinais de alerta da vacina chinesa não são mais apenas um aviso, mas se tornaram uma realidade.
 

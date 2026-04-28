@@ -1,12 +1,13 @@
 ---
-title: "Imperatriz Leopoldina e sua atuação política"
+title: Imperatriz Leopoldina e sua atuação política
 date: 2022-09-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Dentre as efemérides que o ano de 2017 nos traz, cremos que uma das mais significativas para a nossa nacionalidade são os 200 anos da chegada ao Brasil de Dona Leopoldina, nossa primeira imperatriz.
 

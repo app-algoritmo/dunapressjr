@@ -1,11 +1,12 @@
 ---
-title: "CAE aprova autonomia do Banco Central com novos objetivos"
+title: CAE aprova autonomia do Banco Central com novos objetivos
 date: 2020-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Proposta aprovada fixa em quatro anos o mandato dos dirigentes do BC com a possibilidade de uma recondução*
 

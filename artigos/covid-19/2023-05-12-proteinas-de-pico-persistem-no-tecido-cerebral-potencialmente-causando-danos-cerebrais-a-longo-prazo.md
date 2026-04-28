@@ -1,11 +1,13 @@
 ---
-title: "Proteínas de pico persistem no tecido cerebral, potencialmente causando danos cerebrais a longo prazo"
+title: Proteínas de pico persistem no tecido cerebral, potencialmente causando danos
+  cerebrais a longo prazo
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um novo [artigo pré-impresso](https://www.biorxiv.org/content/10.1101/2023.04.04.535604v1.full) publicado no *bioRxiv* revela que muito depois de uma pessoa ser “vacinada” para o coronavírus Wuhan (Covid-19) com uma série de injeções de mRNA, as proteínas de pico geradas como resultado das injeções persistem em seu tecido cerebral .
 

@@ -1,11 +1,13 @@
 ---
-title: "Avenida Castelo Branco, no bairro Salseiros, em Itajaí recebe nova pavimentação asfáltica"
+title: Avenida Castelo Branco, no bairro Salseiros, em Itajaí recebe nova pavimentação
+  asfáltica
 date: 2020-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A avenida Casto Branco, no bairro Salseiros, recebeu nesta semana o serviço de fresagem (raspagem do asfalto antigo e danificado) e nova pavimentação asfáltica. Os serviços devem ser concluídos no início da próxima semana.
 

@@ -1,11 +1,12 @@
 ---
-title: "Empresa de Israel lança primeiro teste de gravidez com saliva"
+title: Empresa de Israel lança primeiro teste de gravidez com saliva
 date: 2021-11-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Salignostics, uma startup médica com sede em Jerusalém, lançou o primeiro teste de gravidez do mundo que fornece resultados de amostras de saliva. A tecnologia usada é a mesma que foi criada para fazer a triagem do COVID-19.
 

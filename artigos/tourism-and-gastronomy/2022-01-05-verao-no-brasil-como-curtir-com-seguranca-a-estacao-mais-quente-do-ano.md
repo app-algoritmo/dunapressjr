@@ -1,11 +1,12 @@
 ---
-title: "Verão no Brasil: como curtir com segurança a estação mais quente do ano"
+title: 'Verão no Brasil: como curtir com segurança a estação mais quente do ano'
 date: 2022-01-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 verão no Brasil, estação sinônimo de férias, viagens e muita curtição. E para garantir que o período mais quente do ano renda os melhores momentos possíveis em meio às altas temperaturas nos destinos nacionais, a Agência de Notícias do Turismo lista medidas simples que ajudam visitantes a evitar dor de cabeça e trazer na bagagem de volta para casa apenas boas lembranças dos atrativos.
 

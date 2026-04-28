@@ -1,11 +1,12 @@
 ---
-title: "Questões sobre o novo coronavírus 2019-nCoV"
+title: Questões sobre o novo coronavírus 2019-nCoV
 date: 2020-01-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O coronavírus identificado pela primeira vez em Wuhan, na China, no início deste ano é um novo coronavírus, o sétimo coronavírus identificado que é capaz de infectar seres humanos. Seis outros coronavírus são capazes de infectar seres humanos e podem causar doenças que variam de leve a grave, e incluem o resfriado comum, a síndrome respiratória aguda grave (SARS) e a síndrome respiratória do Oriente Médio (MERS). A origem exata do novo vírus é desconhecida, mas a confirmação inicial compartilhada pela China e pela Organização Mundial da Saúde (OMS) indica que esse novo vírus é geneticamente semelhante a um coronavírus do tipo SARS encontrado em morcegos. A fonte do surto ainda não foi confirmada e as investigações estão em andamento.
 

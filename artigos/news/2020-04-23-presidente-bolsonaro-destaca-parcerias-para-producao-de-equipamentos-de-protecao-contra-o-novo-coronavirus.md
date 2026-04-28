@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro destaca parcerias para produção de equipamentos de proteção contra o novo coronavírus"
+title: Presidente Bolsonaro destaca parcerias para produção de equipamentos de proteção
+  contra o novo coronavírus
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta quarta-feira (22), o presidente Jair Bolsonaro destacou, em suas redes sociais, as parcerias firmadas dentro do País a fim de se produzirem máscaras e outros equipamentos de proteção contra o novo coronavírus. Além das atuação das Forças Armadas, a fabricação é realizada ainda por meio de parcerias com costureiras, para fomentar o emprego, e em presídios e universidades. 
 

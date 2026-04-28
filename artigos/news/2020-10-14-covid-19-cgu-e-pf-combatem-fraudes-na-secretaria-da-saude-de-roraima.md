@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF combatem fraudes na Secretaria da Saúde de Roraima"
+title: 'Covid-19: CGU e PF combatem fraudes na Secretaria da Saúde de Roraima'
 date: 2020-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Desvid-19 investiga desvio de recursos, da ordem de, aproximadamente, R$ 20 milhões, que deveriam ser utilizados no combate à pandemia.
 

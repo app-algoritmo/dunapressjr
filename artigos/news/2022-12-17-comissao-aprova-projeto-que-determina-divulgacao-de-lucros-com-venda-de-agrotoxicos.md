@@ -1,11 +1,12 @@
 ---
-title: "Comissão aprova projeto que determina divulgação de lucros com venda de agrotóxicos"
+title: Comissão aprova projeto que determina divulgação de lucros com venda de agrotóxicos
 date: 2022-12-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Câmara dos Deputados aprovou proposta que obriga as empresas produtoras e importadoras de agrotóxicos a divulgar na internet o volume fabricado ou importado anualmente, além de demonstrar os lucros líquidos do ano anterior.
 

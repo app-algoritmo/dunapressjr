@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro libera mais 850 bolsas de estudo sobre epidemias através do Capes"
+title: Governo Bolsonaro libera mais 850 bolsas de estudo sobre epidemias através
+  do Capes
 date: 2020-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pacote inclui, ao todo, 2,6 mil bolsas. Programa estimula a pesquisa no País em áreas de exatas e de saúde. 
 

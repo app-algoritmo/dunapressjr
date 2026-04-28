@@ -1,11 +1,12 @@
 ---
-title: "Guerra nuclear? Apenas o hemisfério sul sobreviverá"
+title: Guerra nuclear? Apenas o hemisfério sul sobreviverá
 date: 2023-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Os efeitos do bombardeio atômico são, em sua maioria, mal avaliados. Hiroshima e Nagasaki não são desertos nucleares. 
 

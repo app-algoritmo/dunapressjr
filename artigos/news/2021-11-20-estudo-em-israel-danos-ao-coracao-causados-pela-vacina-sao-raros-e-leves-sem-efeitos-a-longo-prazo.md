@@ -1,11 +1,13 @@
 ---
-title: "Estudo em Israel: danos ao coração causados ​​pela vacina são raros e leves, sem efeitos a longo prazo"
+title: 'Estudo em Israel: danos ao coração causados ​​pela vacina são raros e leves,
+  sem efeitos a longo prazo'
 date: 2021-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um estudo conduzido pelo Hospital Beilinson em Petah Tikva, usando uma técnica de varredura detalhada para examinar pacientes com sintomas de uma doença no músculo cardíaco após receber a vacina COVID-19, descobriu que os danos são raros, leves e devem ser curados.
 

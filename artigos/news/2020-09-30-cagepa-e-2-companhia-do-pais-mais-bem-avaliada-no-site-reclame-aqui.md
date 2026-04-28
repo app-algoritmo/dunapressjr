@@ -1,11 +1,12 @@
 ---
-title: "Cagepa é 2ª companhia do País mais bem avaliada no site Reclame Aqui"
+title: Cagepa é 2ª companhia do País mais bem avaliada no site Reclame Aqui
 date: 2020-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Companhia de Água e Esgotos da Paraíba (Cagepa) é a segunda empresa de saneamento do País e primeira do Nordeste mais bem avaliada no site Reclame Aqui. O levantamento utilizou a avaliação dos clientes referentes às companhias de saneamento nos últimos seis meses deste ano. Na categoria, a Paraíba registrou o percentual de 94,2% de respostas às demandas dos consumidores, ficando atrás apenas da Empresa de Saneamento do Mato Grosso do Sul (Sanesul).
 

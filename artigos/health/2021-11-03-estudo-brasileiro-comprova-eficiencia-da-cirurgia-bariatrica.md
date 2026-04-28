@@ -1,11 +1,12 @@
 ---
-title: "Estudo brasileiro comprova eficiência da cirurgia bariátrica"
+title: Estudo brasileiro comprova eficiência da cirurgia bariátrica
 date: 2021-11-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Tese de doutorado desenvolvida pela nutricionista Rebeca Rocha de Almeida, da Universidade Federal de Sergipe (UFS), comprovou que a cirurgia bariátrica é mais eficiente no controle metabólico da glicemia, da diabetes e na redução do risco cardiovascular do que o tratamento convencional à base de medicamentos. Parte da pesquisa já foi  publicada no Periódico Internacional de Medicina *Bariatric Surgery, intitulado “Late Outcomes in Patients Who Reduced Comorbidities at Early Follow-Up”. * 
 

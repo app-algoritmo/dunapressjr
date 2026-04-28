@@ -1,11 +1,12 @@
 ---
-title: "Damares pede aprovação de projeto que agrava pena de crime contra criança"
+title: Damares pede aprovação de projeto que agrava pena de crime contra criança
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Damares Alves (Republicanos-DF) defendeu a aprovação do projeto de lei que endurece as penas para crimes contra crianças e adolescentes ([PL 4.224/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/160159)) como forma de dar um recado a pedófilos e estupradores. A proposta, já aprovada pela Câmara dos Deputados e por comissões do Senado, está em regime de urgência no Plenário. 
 

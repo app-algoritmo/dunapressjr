@@ -1,11 +1,12 @@
 ---
-title: "BNDES antecipa pagamento de R$ 38 bilhões ao Tesouro"
+title: BNDES antecipa pagamento de R$ 38 bilhões ao Tesouro
 date: 2021-02-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Saldo remanescente das dívidas é de aproximadamente R$ 160 bilhões.
 

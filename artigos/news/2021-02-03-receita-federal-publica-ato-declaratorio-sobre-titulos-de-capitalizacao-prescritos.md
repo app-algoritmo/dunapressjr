@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal publica ato declaratório sobre títulos de capitalização prescritos"
+title: Receita Federal publica ato declaratório sobre títulos de capitalização prescritos
 date: 2021-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Sociedades de capitalização devem pagar tributo sobre título de capitalização prescrito sem resgate pelo cliente.
 

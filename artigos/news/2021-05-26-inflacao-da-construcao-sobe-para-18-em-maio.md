@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção sobe para 1,8% em maio"
+title: Inflação da construção sobe para 1,8% em maio
 date: 2021-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice acumula 6,92% no ano e 14,62% em 12 meses.
 

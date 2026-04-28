@@ -1,11 +1,12 @@
 ---
-title: "Brasil projeta safra recorde de cereais, leguminosas e oleaginosas em 2023"
+title: Brasil projeta safra recorde de cereais, leguminosas e oleaginosas em 2023
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento na produção de soja, milho e trigo impulsiona estimativas para o setor agrícola brasileiro.
 

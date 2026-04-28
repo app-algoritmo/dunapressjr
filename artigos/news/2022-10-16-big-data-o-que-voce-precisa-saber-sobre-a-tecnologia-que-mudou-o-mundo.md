@@ -1,11 +1,12 @@
 ---
-title: "Big Data: o que você precisa saber sobre a tecnologia que mudou o mundo"
+title: 'Big Data: o que você precisa saber sobre a tecnologia que mudou o mundo'
 date: 2022-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Onde o big data é coletado e armazenado, por que é necessário e como aplicá-lo nos negócios. 
 

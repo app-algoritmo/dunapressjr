@@ -1,11 +1,12 @@
 ---
-title: "TSE dá início à produção de novas urnas eletrônicas"
+title: TSE dá início à produção de novas urnas eletrônicas
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Serão fabricados 220 mil aparelhos para as eleições de 2024.
 

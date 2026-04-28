@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk revela como o Twitter encobriu Hunter Biden"
+title: Elon Musk revela como o Twitter encobriu Hunter Biden
 date: 2022-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ### O novo dono do Twitter, Elon Musk, manteve a promessa de revelar detalhes sobre as manobras por trás da censura do escândalo Hunter Biden publicada em outubro de 2020 pelo New York Post.
 

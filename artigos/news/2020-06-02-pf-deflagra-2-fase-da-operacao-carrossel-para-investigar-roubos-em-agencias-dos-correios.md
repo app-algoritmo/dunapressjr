@@ -1,11 +1,13 @@
 ---
-title: "PF deflagra 2ª fase da operação Carrossel para investigar roubos em agências dos Correios"
+title: PF deflagra 2ª fase da operação Carrossel para investigar roubos em agências
+  dos Correios
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **João Pessoa/PB** – Hoje (2/6), a Polícia Federal, em continuidade às diligências iniciadas na sexta-feira (29/5), deu cumprimento a mais mandados de prisão e de busca e apreensão relacionados à Operação Carrossel, na Paraíba.
 

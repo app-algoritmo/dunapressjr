@@ -1,11 +1,12 @@
 ---
-title: "Melo e Dodig são vice-campeões do ATP 250 de Adelaide, na Austrália"
+title: Melo e Dodig são vice-campeões do ATP 250 de Adelaide, na Austrália
 date: 2022-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O mineiro Marcelo Melo e o croata Ivan Dodig são vice-campeões do ATP 250 de Adelaide, na Austrália. Na madrugada deste domingo (9), os indianos Rohan Bopanna e Ramkumar Ramanathan marcaram 2 sets a 0, com parciais de 7/6 (8-6) e 6/1, em 1h21min, para ficar com o título. Melo e Dodig seguem na cidade australiana para a disputa de mais um ATP 250 como preparação para o Australian Open. O torneio começa nesta segunda-feira (10) e a dupla joga como cabeça de chave 2, sendo bye na primeira rodada, estreando já nas oitavas de final.
 

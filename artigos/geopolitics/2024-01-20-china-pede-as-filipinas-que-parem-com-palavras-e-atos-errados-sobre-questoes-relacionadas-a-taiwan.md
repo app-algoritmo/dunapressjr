@@ -1,11 +1,13 @@
 ---
-title: "China pede às Filipinas que parem com palavras e atos errados sobre questões relacionadas a Taiwan"
+title: China pede às Filipinas que parem com palavras e atos errados sobre questões
+  relacionadas a Taiwan
 date: 2024-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A China insta as Filipinas a manterem sinceramente o espírito do comunicado conjunto de estabelecer laços diplomáticos entre a China e as Filipinas, a aderirem ao princípio de Uma Só China e a pararem com palavras e atos errados nas questões relacionadas a Taiwan, disse Mao Ning, porta-voz do Ministério das Relações Exteriores, nesta quinta-feira.
 

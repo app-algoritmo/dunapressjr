@@ -1,11 +1,12 @@
 ---
-title: "Trump Critica Discurso de Biden no Estado da União como 'Raivoso e Polarizador'"
+title: Trump Critica Discurso de Biden no Estado da União como 'Raivoso e Polarizador'
 date: 2024-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-Presidente dos Estados Unidos, Donald Trump, não poupou críticas ao discurso sobre o Estado da União proferido pelo atual inquilino da Casa Branca, Joe Biden, classificando-o como "o pior até à data". Através de sua conta na rede social Truth Social, Trump expressou sua visão de que o discurso foi marcado pela polarização e pelo ódio, afirmando que Biden tem falhado na abordagem de questões críticas, como imigração e segurança de fronteiras.
 

@@ -1,11 +1,12 @@
 ---
-title: "Alerta: Intoxicação infantil por álcool gel cresce em 2020"
+title: 'Alerta: Intoxicação infantil por álcool gel cresce em 2020'
 date: 2020-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal têm acompanhado os desdobramentos da pandemia do novo coronavírus em diversas frentes. A Agência Nacional de Vigilância Sanitária (Anvisa) publicou um documento que alerta a população sobre o aumento dos casos de intoxicação por álcool gel, principalmente por crianças. 
 

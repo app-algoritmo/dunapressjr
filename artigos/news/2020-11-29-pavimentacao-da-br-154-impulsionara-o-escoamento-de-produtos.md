@@ -1,11 +1,12 @@
 ---
-title: "Pavimentação da BR-154 impulsionará o escoamento de produtos"
+title: Pavimentação da BR-154 impulsionará o escoamento de produtos
 date: 2020-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A espera acabou. Após 50 anos de expectativa, o Governo Federal entregou, nesta sexta-feira (27), 50,8 quilômetros de pista pavimentada na BR-154, entre os municípios de Ituiutaba e Crucilândia, no estado de Minas Gerais. A obra beneficiará moradores da região e os setores de pecuária e agricultura. O ministro da Infraestrutura, Tarcísio de Freitas, e o diretor-geral do Departamento Nacional de Infraestrutura de Transportes (Dnit), general Antônio Santos Filho, comemoraram a conclusão da pavimentação, que impulsionará o escoamento de produtos da região.
 

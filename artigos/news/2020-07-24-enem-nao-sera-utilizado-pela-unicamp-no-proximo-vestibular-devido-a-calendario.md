@@ -1,11 +1,12 @@
 ---
-title: "Enem não será utilizado pela Unicamp no próximo vestibular devido a calendário"
+title: Enem não será utilizado pela Unicamp no próximo vestibular devido a calendário
 date: 2020-07-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Universidade prevê retorno às aulas antes do resultado das provas.
 

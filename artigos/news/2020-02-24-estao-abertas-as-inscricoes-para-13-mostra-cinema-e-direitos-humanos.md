@@ -1,12 +1,13 @@
 ---
-title: "Estão abertas as inscrições para 13ª Mostra Cinema e Direitos Humanos"
+title: Estão abertas as inscrições para 13ª Mostra Cinema e Direitos Humanos
 date: 2020-02-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O Ministério da Mulher, da Família dos Direitos Humanos (MMFDH) abre chamada para receber trabalhos audiovisuais para a 13ª Mostra Cinema e Direitos, prevista para o primeiro semestre de 2020. 
 

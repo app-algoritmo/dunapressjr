@@ -1,11 +1,12 @@
 ---
-title: "Faturamento da indústria cai pelo terceiro mês seguido, diz CNI"
+title: Faturamento da indústria cai pelo terceiro mês seguido, diz CNI
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Massa salarial recua 1,4% em outubro em relação a setembro.
 

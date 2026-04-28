@@ -1,11 +1,12 @@
 ---
-title: "<strong>Toalha de banho molhada pode transmitir doenças respiratórias. Entenda</strong>"
+title: <strong>Toalha de banho molhada pode transmitir doenças respiratórias. Entenda</strong>
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Se você é uma daquelas pessoas que deixa sua [toalha de banho ](https://www.toalhashow.com.br/)molhada em cima da cama, no chão ou até mesmo no box do banheiro, precisa mudar seus hábitos.
 

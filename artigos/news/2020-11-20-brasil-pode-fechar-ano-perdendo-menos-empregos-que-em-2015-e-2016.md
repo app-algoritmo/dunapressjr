@@ -1,11 +1,12 @@
 ---
-title: "Brasil pode fechar ano perdendo menos empregos que em 2015 e 2016"
+title: Brasil pode fechar ano perdendo menos empregos que em 2015 e 2016
 date: 2020-11-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em evento, ministro defendeu desoneração da folha.
 

@@ -1,11 +1,12 @@
 ---
-title: "Índice de ações brasileiras contraria expectativas e supera os 126 mil pontos"
+title: Índice de ações brasileiras contraria expectativas e supera os 126 mil pontos
 date: 2023-11-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar registra a menor cotação desde setembro.
 

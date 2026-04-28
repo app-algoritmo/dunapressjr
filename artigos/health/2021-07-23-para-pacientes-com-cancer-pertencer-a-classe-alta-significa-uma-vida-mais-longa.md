@@ -1,11 +1,13 @@
 ---
-title: "Para pacientes com câncer, pertencer à classe alta significa uma vida mais longa"
+title: Para pacientes com câncer, pertencer à classe alta significa uma vida mais
+  longa
 date: 2021-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Uma nova pesquisa expõe a ligação entre um status socioeconômico mais elevado e uma expectativa de vida mais longa para pacientes com câncer.
 

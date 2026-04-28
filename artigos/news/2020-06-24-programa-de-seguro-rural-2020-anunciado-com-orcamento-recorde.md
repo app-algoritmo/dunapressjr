@@ -1,11 +1,12 @@
 ---
-title: "Programa de Seguro Rural 2020 anunciado com orçamento recorde"
+title: Programa de Seguro Rural 2020 anunciado com orçamento recorde
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A liberação de R$ 955 milhões para subvencionar a contratação de seguro rural pelos produtores representa mais que o dobro do valor executado no ano passado.
 

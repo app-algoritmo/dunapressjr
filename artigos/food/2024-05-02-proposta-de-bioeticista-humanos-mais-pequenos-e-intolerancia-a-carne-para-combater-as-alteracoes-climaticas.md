@@ -1,11 +1,13 @@
 ---
-title: "Proposta de Bioeticista: Humanos Mais Pequenos e Intolerância à Carne para Combater as Alterações Climáticas"
+title: 'Proposta de Bioeticista: Humanos Mais Pequenos e Intolerância à Carne para
+  Combater as Alterações Climáticas'
 date: 2024-05-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 Um futuro onde os humanos são geneticamente modificados para serem menores e intolerantes à carne é vislumbrado pelo professor e bioeticista S. Matthew Liao. Em sua visão, esta abordagem pode ser uma solução radical para as crescentes preocupações com as alterações climáticas.
 

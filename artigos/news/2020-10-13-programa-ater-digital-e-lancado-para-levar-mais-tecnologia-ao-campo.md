@@ -1,11 +1,12 @@
 ---
-title: "Programa Ater Digital é lançado para levar mais tecnologia ao campo"
+title: Programa Ater Digital é lançado para levar mais tecnologia ao campo
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Levar mais tecnologia para o campo. Com esse objetivo foi lançado, nesta quinta-feira (8), o Ater Digital, do Ministério da Agricultura, Pecuária e Abastecimento. A iniciativa vai oferecer novas ferramentas de assistência técnica digital aos agricultores.
 

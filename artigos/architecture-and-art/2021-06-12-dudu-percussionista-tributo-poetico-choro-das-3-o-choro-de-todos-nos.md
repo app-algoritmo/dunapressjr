@@ -1,12 +1,13 @@
 ---
-title: "Dudu, percussionista - Tributo poético | Choro das 3 - O choro de todos nós"
+title: Dudu, percussionista - Tributo poético | Choro das 3 - O choro de todos nós
 date: 2021-06-12
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Architecture and Art
-  - News
+- Architecture and Art
+- News
 ---
+
 
 **Eduardo Ferreira, Dudu, do Choro das 3, nos deixou – Familiares e multidão de seguidores no Brasil e exterior sentem-se órfãos e solidários às meninas**.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rússia vê o desenvolvimento da região do Ártico como sua prioridade"
+title: Rússia vê o desenvolvimento da região do Ártico como sua prioridade
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o presidente russo, um esforço de limpeza foi realizado em 110 hectares de terras do Ártico, com mais de 5.000 toneladas de lixo coletadas e removidas.
 

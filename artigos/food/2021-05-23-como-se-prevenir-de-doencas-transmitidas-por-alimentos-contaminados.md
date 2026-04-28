@@ -1,11 +1,12 @@
 ---
-title: "Como se prevenir de doenças transmitidas por alimentos contaminados"
+title: Como se prevenir de doenças transmitidas por alimentos contaminados
 date: 2021-05-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Quem nunca comeu uma comida e sentiu que ela não caiu bem? Mais comuns do que imaginamos, as doenças transmitidas por alimentos ou água contaminados são síndromes que trazem sintomas geralmente gástricos, como náuseas, vômitos, diarreia e dor abdominal. Em casos mais graves, os sintomas vão além, atingem o sistema neurológico e o fígado, por exemplo. A boa notícia é que estas doenças são facilmente preveníveis. Medidas simples podem ser tomadas no dia-a-dia para evitar este transtorno.
 

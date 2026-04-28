@@ -1,11 +1,12 @@
 ---
-title: "FGV: indicadores de emprego apresentam piora em fevereiro"
+title: 'FGV: indicadores de emprego apresentam piora em fevereiro'
 date: 2021-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador Antecedente de Emprego caiu 0,6 ponto e chegou a 82,9 pontos.
 

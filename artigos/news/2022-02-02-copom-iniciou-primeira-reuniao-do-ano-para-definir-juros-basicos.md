@@ -1,11 +1,12 @@
 ---
-title: "Copom iniciou primeira reunião do ano para definir juros básicos"
+title: Copom iniciou primeira reunião do ano para definir juros básicos
 date: 2022-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é que Selic suba de 9,25% para 10,75%.
 

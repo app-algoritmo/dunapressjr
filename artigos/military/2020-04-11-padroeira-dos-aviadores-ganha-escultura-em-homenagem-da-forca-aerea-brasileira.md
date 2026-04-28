@@ -1,11 +1,12 @@
 ---
-title: "Padroeira dos Aviadores ganha escultura em homenagem da Força Aérea Brasileira"
+title: Padroeira dos Aviadores ganha escultura em homenagem da Força Aérea Brasileira
 date: 2020-04-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Uma escultura da Padroeira dos Aviadores, da Aviação e dos Aeroviários foi instalada nesta sexta-feira (10/04), na Paróquia e Santuário Nossa Senhora de Loreto, em Freguesia, Jacarepaguá (RJ). A obra é uma homenagem da Força Aérea Brasileira (FAB) pelos 100 anos do título de Nossa Senhora de Loreto como Padroeira da Aviação e dos 50 anos do Santuário.
 

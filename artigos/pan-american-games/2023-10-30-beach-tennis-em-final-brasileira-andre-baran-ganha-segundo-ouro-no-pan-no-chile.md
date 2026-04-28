@@ -1,12 +1,14 @@
 ---
-title: "Beach Tennis: em final brasileira, André Baran ganha segundo ouro no Pan no Chile"
+title: 'Beach Tennis: em final brasileira, André Baran ganha segundo ouro no Pan no
+  Chile'
 date: 2023-10-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Pan American Games
-  - Sports
+- Pan American Games
+- Sports
 ---
+
 
 ## Ao lado de Vitória Marchezini, catarinense comemorou mais um título neste domingo (29) em Iquique, agora nas duplas mistas. Antes, foi campeão nas duplas masculinas.
 

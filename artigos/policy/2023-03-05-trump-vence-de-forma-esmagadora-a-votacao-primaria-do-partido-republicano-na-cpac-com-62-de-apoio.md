@@ -1,11 +1,13 @@
 ---
-title: "Trump vence de forma esmagadora a votação primária do Partido Republicano na CPAC com 62% de apoio"
+title: Trump vence de forma esmagadora a votação primária do Partido Republicano na
+  CPAC com 62% de apoio
 date: 2023-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente Trump venceu a votação do Partido Republicano da CPAC com 62% de apoio.
 

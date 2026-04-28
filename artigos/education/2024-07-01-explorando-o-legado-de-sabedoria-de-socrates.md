@@ -1,11 +1,12 @@
 ---
-title: "Explorando o Legado de Sabedoria de Sócrates!"
+title: Explorando o Legado de Sabedoria de Sócrates!
 date: 2024-07-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 - -[Citações e Curiosidades sobre Sócrates](#Citações-e-curiosidades)
 

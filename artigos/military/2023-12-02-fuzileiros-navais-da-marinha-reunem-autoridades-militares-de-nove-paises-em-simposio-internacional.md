@@ -1,11 +1,13 @@
 ---
-title: "Fuzileiros Navais da Marinha reúnem autoridades militares de nove países em simpósio internacional"
+title: Fuzileiros Navais da Marinha reúnem autoridades militares de nove países em
+  simpósio internacional
 date: 2023-12-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Representantes dos Estados Unidos e da China se encontram pela primeira vez depois da reunião dos presidentes desses dois países, há duas semanas.
 

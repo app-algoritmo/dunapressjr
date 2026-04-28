@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia quatro novas escolas cívico-militares no Paraná"
+title: Governo anuncia quatro novas escolas cívico-militares no Paraná
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Em reunião com parlamentares, o ministro da Educação, Abraham Weintraub, anunciou nesta última quarta-feira, 18 de março, que o Paraná vai ter mais quatro escolas cívico-militares. A expansão do modelo no estado será possível por meio de uma cooperação entre o governo de estado e a usina hidrelétrica de Itaipu.
 

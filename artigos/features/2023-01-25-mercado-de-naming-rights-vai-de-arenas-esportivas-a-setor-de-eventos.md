@@ -1,11 +1,12 @@
 ---
-title: "Mercado de naming rights vai de arenas esportivas a setor de eventos"
+title: Mercado de naming rights vai de arenas esportivas a setor de eventos
 date: 2023-01-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Allianz Parque, AT&T Center, Emirates Stadium: a prática de rebatizar uma propriedade com o nome de uma marca ou produto, conhecida como *naming rights* (ou direito de nome, em tradução livre), tem se espalhado dos Estados Unidos para o mundo. Lá, atualmente, a grande maioria das franquias esportivas das quatro principais ligas do país - basquete, beisebol, futebol americano e hóquei - já leva nomes de empresas de diversos ramos em seus estádios e arenas. Nos últimos anos, os *naming rights* começaram a se tornar mais comuns também no Brasil - e não apenas nas arenas esportivas. Espaços de eventos também adotam a estratégia para melhorar gestão e ampliar arrecadação em um mercado que movimenta milhões de dólares todos os anos.
 

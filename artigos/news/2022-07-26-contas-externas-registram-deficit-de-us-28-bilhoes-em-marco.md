@@ -1,11 +1,12 @@
 ---
-title: "Contas externas registram déficit de US$ 2,8 bilhões em março"
+title: Contas externas registram déficit de US$ 2,8 bilhões em março
 date: 2022-07-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reservas internacionais caem US$ 4,6 bilhões em um mês.
 

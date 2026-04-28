@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,39 e bolsa cai 3,35% após discurso de Lula"
+title: Dólar sobe para R$ 5,39 e bolsa cai 3,35% após discurso de Lula
 date: 2022-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### “Nunca vi mercado tão sensível”, diz presidente eleito.
 

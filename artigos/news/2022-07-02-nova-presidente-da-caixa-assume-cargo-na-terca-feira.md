@@ -1,11 +1,12 @@
 ---
-title: "Nova presidente da Caixa assume cargo na terça-feira"
+title: Nova presidente da Caixa assume cargo na terça-feira
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Daniella Consentino assinou hoje o termo de posse.
 

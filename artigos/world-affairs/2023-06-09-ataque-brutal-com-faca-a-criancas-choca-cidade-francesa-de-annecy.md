@@ -1,11 +1,12 @@
 ---
-title: "Ataque brutal com faca a crianças choca cidade francesa de Annecy"
+title: Ataque brutal com faca a crianças choca cidade francesa de Annecy
 date: 2023-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Homem armado fere gravemente crianças em parque, causando comoção nacional.
 

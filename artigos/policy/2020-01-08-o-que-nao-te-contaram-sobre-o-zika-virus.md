@@ -1,11 +1,12 @@
 ---
-title: "O que não te contaram sobre o Zika Vírus"
+title: O que não te contaram sobre o Zika Vírus
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Zika Vírus é um "produto" desenvolvido em 1947 em Uganda na África pelos laboratórios da fundação Rockefeller e está disponível para venda no seguinte link [ATCC.ORG](https://www.atcc.org/products/all/VR-84.aspx?geo_country=usa)
 

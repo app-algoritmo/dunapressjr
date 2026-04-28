@@ -1,11 +1,12 @@
 ---
-title: "Contas externas tiveram déficit de US$ 3,5 bilhões em maio"
+title: Contas externas tiveram déficit de US$ 3,5 bilhões em maio
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reservas internacionais estão em US$ 346,4 bilhões, diz BC.
 

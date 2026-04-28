@@ -1,11 +1,12 @@
 ---
-title: "Os Impactos Devastadores da Colonização Europeia na África"
+title: Os Impactos Devastadores da Colonização Europeia na África
 date: 2024-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - History
+- History
 ---
+
 
 A colonização europeia deixou um legado de danos profundos e duradouros na África. Desde a chegada dos primeiros colonizadores até as independências dos países africanos no século XX, a exploração dos recursos, a escravização em massa, a imposição de fronteiras arbitrárias e o desmantelamento das estruturas sociais e políticas tradicionais deixaram cicatrizes que ainda são sentidas hoje.
 

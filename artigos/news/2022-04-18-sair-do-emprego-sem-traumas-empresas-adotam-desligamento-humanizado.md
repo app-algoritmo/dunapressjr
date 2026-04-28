@@ -1,11 +1,12 @@
 ---
-title: "Sair do emprego sem traumas: empresas adotam desligamento humanizado"
+title: 'Sair do emprego sem traumas: empresas adotam desligamento humanizado'
 date: 2022-04-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Empresas estão investindo em políticas de gestão de pessoas que levam em conta, inclusive, o cuidado no momento de saída dos colaboradores, a chamada política de *offboarding*. São medidas de desligamento humanizado que muitas vezes geram outro movimento: o de pessoas que saem e depois de um tempo retornam para os antigos locais de trabalho.
 

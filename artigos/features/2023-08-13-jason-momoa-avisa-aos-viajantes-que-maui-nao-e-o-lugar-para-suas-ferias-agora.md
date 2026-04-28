@@ -1,11 +1,12 @@
 ---
-title: "Jason Momoa avisa aos viajantes que Maui “não é o lugar para suas férias agora”"
+title: Jason Momoa avisa aos viajantes que Maui “não é o lugar para suas férias agora”
 date: 2023-08-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Jason Momoa continua a envolver sua mídia social seguindo sobre o desastre que se desenrola em Maui.
 

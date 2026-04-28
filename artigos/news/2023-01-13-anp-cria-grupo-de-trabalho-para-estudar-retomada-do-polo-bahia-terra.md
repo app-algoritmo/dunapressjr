@@ -1,11 +1,12 @@
 ---
-title: "ANP cria grupo de trabalho para estudar retomada do Polo Bahia Terra"
+title: ANP cria grupo de trabalho para estudar retomada do Polo Bahia Terra
 date: 2023-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Conjunto de ativos da Petrobras está fechado por motivos de segurança.
 

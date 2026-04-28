@@ -1,11 +1,12 @@
 ---
-title: "Ação da Marinha e da PF apreende 3,6 toneladas de cocaína na costa de Pernambuco"
+title: Ação da Marinha e da PF apreende 3,6 toneladas de cocaína na costa de Pernambuco
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## É a maior apreensão de cocaína já realizada na Amazônia Azul.
 

@@ -1,11 +1,13 @@
 ---
-title: "Juiz do Texas ordena que a FDA acelere a liberação dos dados dos testes da vacina COVID-19"
+title: Juiz do Texas ordena que a FDA acelere a liberação dos dados dos testes da
+  vacina COVID-19
 date: 2023-05-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Um juiz federal no Texas ordenou que a *Food and Drug Administration* (FDA) [acelere a liberação dos dados do teste da vacina contra o coronavírus Wuhan (COVID-19)](https://www.theepochtimes.com/judge-orders-fda-to-speed-up-release-of-covid-19-vaccine-trial-data-from-23-5-years-to-just-2_5263217.html) .
 

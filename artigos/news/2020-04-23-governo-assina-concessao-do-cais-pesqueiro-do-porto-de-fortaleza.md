@@ -1,11 +1,12 @@
 ---
-title: "Governo assina concessão do cais pesqueiro do Porto de Fortaleza"
+title: Governo assina concessão do cais pesqueiro do Porto de Fortaleza
 date: 2020-04-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Serão investidos R$ 10 milhões na estrutura de quase 12 mil metros quadrados. A indústria deve gerar cerca de 300 empregos diretos e indiretos
 

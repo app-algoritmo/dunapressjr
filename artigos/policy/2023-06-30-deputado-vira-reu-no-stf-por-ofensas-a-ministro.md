@@ -1,11 +1,12 @@
 ---
-title: "Deputado vira réu no STF por ofensas a ministro"
+title: Deputado vira réu no STF por ofensas a ministro
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Parlamentar foi denunciado pela PGR por três crimes.
 

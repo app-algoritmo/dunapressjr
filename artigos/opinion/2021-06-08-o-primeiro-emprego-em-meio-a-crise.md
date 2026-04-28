@@ -1,11 +1,12 @@
 ---
-title: "O primeiro emprego em meio à crise"
+title: O primeiro emprego em meio à crise
 date: 2021-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Primeiro vem a escolha. É quando cada jovem encara seu próprio futuro e se pergunta onde quer estar quando olhar para trás em cinco ou dez anos. Depois, vem o caminho, que não é o mesmo para todos e pode ser muito mais sinuoso para alguns. Cursar uma faculdade ou um curso técnico, participar de eventos, especializações ou workshops, preparar-se para o que se encontra quando as possibilidades acadêmicas se esgotam e é preciso entrar no mercado de trabalho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Izalci defende mais tempo para análise da reforma tributária"
+title: Izalci defende mais tempo para análise da reforma tributária
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) criticou, em pronunciamento no Plenário nesta terça-feira (4), as articulações no sentido de aprovar a reforma tributária no Congresso Nacional sem uma análise mais aprofundada do texto. Segundo ele, a matéria chegou na semana passada e não houve tempo para os parlamentares conhecerem todo o conteúdo. O senador afirma que a proposta ainda necessita de alterações, o que pode contrariar a expectativa dos congressistas que defendem a aprovação, pelos deputados, já nesta sexta-feira (7). 
 

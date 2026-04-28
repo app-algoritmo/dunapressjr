@@ -1,13 +1,14 @@
 ---
-title: "<strong>The Serpent Queen</strong>"
+title: <strong>The Serpent Queen</strong>
 date: 2022-08-18
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Books
-  - History
-  - Video library
+- Books
+- History
+- Video library
 ---
+
 
 A Rainha Serpente
 

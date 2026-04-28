@@ -1,11 +1,12 @@
 ---
-title: "FGV: corrente de comércio tem o maior valor da série iniciada em 1997"
+title: 'FGV: corrente de comércio tem o maior valor da série iniciada em 1997'
 date: 2021-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador cresceu 58,2%, atingindo US$ 54,6 bilhões.
 

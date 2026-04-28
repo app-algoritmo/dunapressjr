@@ -1,11 +1,12 @@
 ---
-title: "China condena jornalista a 4 anos de prisão por relatar vírus em Wuhan"
+title: China condena jornalista a 4 anos de prisão por relatar vírus em Wuhan
 date: 2020-12-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Advogado de defesa afirma que vai recorrer.
 

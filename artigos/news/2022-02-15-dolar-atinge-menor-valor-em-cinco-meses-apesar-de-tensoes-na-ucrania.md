@@ -1,11 +1,12 @@
 ---
-title: "Dólar atinge menor valor em cinco meses, apesar de tensões na Ucrânia"
+title: Dólar atinge menor valor em cinco meses, apesar de tensões na Ucrânia
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa resistiu a pressões externas e subiu 0,29%.
 

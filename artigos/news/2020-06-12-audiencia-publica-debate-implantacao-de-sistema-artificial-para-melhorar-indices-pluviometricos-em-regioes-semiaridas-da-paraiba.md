@@ -1,11 +1,13 @@
 ---
-title: "Audiência Pública debate implantação de sistema artificial para melhorar índices pluviométricos em regiões semiáridas da Paraíba"
+title: Audiência Pública debate implantação de sistema artificial para melhorar índices
+  pluviométricos em regiões semiáridas da Paraíba
 date: 2020-06-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A audiência também contou com a presença de especialistas na área.
 

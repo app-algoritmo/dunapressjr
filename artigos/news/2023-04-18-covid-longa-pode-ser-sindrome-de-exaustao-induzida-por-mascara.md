@@ -1,11 +1,12 @@
 ---
-title: "'Covid longa' pode ser síndrome de exaustão induzida por máscara"
+title: '''Covid longa'' pode ser síndrome de exaustão induzida por máscara'
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Foi aplicado nos países ocidentais com a mesma ferocidade, meticulosidade e implacabilidade categórica com que o hijab é imposto às mulheres nos países islâmicos. Nunca antes o governo havia induzido uma tendência na sociedade tão invasiva e tão perturbadora para a vida humana, e nunca tal intrusão foi construída sobre tal base de mentiras científicas. É a versão pagã ocidental da burca.
 

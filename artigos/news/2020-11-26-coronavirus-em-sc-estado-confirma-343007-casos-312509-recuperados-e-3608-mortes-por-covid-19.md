@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus em SC: Estado confirma 343.007 casos, 312.509 recuperados e 3.608 mortes por Covid-19"
+title: 'Coronavírus em SC: Estado confirma 343.007 casos, 312.509 recuperados e 3.608
+  mortes por Covid-19'
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Catarina chegou a 343.007 casos confirmados de infecção pelo novo coronavírus. Desses, 312.509 são considerados recuperados e 26.890 continuam em acompanhamento. O número foi divulgado nesta quinta-feira, 26. Desde o início da pandemia, 3.608 óbitos foram causados pela Covid-19. Esses números colocam a taxa de letalidade em 1,05%.
 

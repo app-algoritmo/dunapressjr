@@ -1,11 +1,12 @@
 ---
-title: "Mecias de Jesus critica visita de Nicolás Maduro ao Brasil"
+title: Mecias de Jesus critica visita de Nicolás Maduro ao Brasil
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Mecias de Jesus (Republicanos-RR) criticou, em pronunciamento em Plenário nesta terça-feira (30), a visita do presidente da Venezuela, Nicolás Maduro, ao Brasil. O senador questionou a postura do presidente Luiz Inácio Lula da Silva de receber Maduro com honras militares, mesmo diante das graves violações de direitos humanos cometidas pelo regime venezuelano.
 

@@ -1,11 +1,13 @@
 ---
-title: "Declaração Conjunta Reforça Cooperação para Segurança da Infraestrutura Submarina Crítica no Mar do Norte"
+title: Declaração Conjunta Reforça Cooperação para Segurança da Infraestrutura Submarina
+  Crítica no Mar do Norte
 date: 2024-04-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 Em um movimento crucial para fortalecer a segurança no Mar do Norte, a Noruega e outros cinco países vizinhos uniram-se para assinar uma Declaração Conjunta de cooperação com o objetivo de proteger a infraestrutura crítica de energia e telecomunicações. Esse esforço colaborativo destaca um compromisso compartilhado em garantir a segurança dos trabalhadores offshore e fortalecer a infraestrutura vital sobre a qual dependem a segurança energética e a conectividade digital.
 

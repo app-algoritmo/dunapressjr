@@ -1,11 +1,13 @@
 ---
-title: "Petrobras anuncia redução nos preços de diesel e gasolina, impactando consumidores nas bombas"
+title: Petrobras anuncia redução nos preços de diesel e gasolina, impactando consumidores
+  nas bombas
 date: 2023-05-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida da empresa visa manter competitividade e otimizar ativos de refino, mas outros fatores podem influenciar preço final ao consumidor.
 

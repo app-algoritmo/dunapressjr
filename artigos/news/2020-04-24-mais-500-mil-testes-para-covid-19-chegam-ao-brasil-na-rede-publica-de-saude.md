@@ -1,11 +1,12 @@
 ---
-title: "Mais 500 mil testes para Covid-19 chegam ao Brasil na rede pública de saúde"
+title: Mais 500 mil testes para Covid-19 chegam ao Brasil na rede pública de saúde
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O primeiro lote com 500 mil testes para diagnóstico da Covid-19, comprados pelo Ministério da Saúde via Organização Pan-Americana da Saúde (OPAS), chegou nesta quarta-feira (22) ao Brasil. A distribuição aos estados começa ainda nesta semana. O quantitativo faz parte dos dez milhões de testes RT-PCR (biologia molecular) adquiridos pelo Ministério da Saúde via Fundo Estratégico da OPAS. O restante dos testes chegará de forma escalonada, sendo cerca de 500 mil por semana. Esses testes foram produzidos pelo laboratório Seegene, da República da Coreia.
 

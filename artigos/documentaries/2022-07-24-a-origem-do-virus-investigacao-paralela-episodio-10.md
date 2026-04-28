@@ -1,11 +1,12 @@
 ---
-title: "A origem do vírus - Investigação Paralela – Episódio 10"
+title: A origem do vírus - Investigação Paralela – Episódio 10
 date: 2022-07-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Documentaries
+- Documentaries
 ---
+
 
 Por Brasil Paralelo |
 

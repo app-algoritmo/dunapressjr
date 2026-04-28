@@ -1,11 +1,13 @@
 ---
-title: "Por que 'Mein Kampf' foi publicado em árabe, turco, persa, mas não em hebraico - ainda"
+title: Por que 'Mein Kampf' foi publicado em árabe, turco, persa, mas não em hebraico
+  - ainda
 date: 2021-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Israel é o líder mundial na pesquisa do Holocausto. Não há nenhum aspecto da aniquilação sistemática do povo judeu pela Alemanha nazista que os historiadores israelenses não tenham investigado em grande profundidade. E, no entanto, nenhuma edição completa do “Mein Kampf” de Adolf Hitler, que lançou as bases ideológicas do nazismo e foi indiscutivelmente um dos livros mais influentes do século 20, foi publicada em hebraico.
 

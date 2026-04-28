@@ -1,11 +1,12 @@
 ---
-title: "Mulheres preenchem 53% das bolsas de mestrado e doutorado no Brasil"
+title: Mulheres preenchem 53% das bolsas de mestrado e doutorado no Brasil
 date: 2020-03-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 As mulheres representam 53% dos bolsistas de mestrado e doutorado no Brasil. Elas preenchem 195 mil vagas das 364 mil matrículas.
 

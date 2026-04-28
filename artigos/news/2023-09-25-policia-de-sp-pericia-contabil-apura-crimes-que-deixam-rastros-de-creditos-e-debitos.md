@@ -1,11 +1,13 @@
 ---
-title: "Polícia de SP: Perícia Contábil apura crimes que deixam rastros de ‘créditos e débitos’"
+title: 'Polícia de SP: Perícia Contábil apura crimes que deixam rastros de ‘créditos
+  e débitos’'
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Peritos criminais contadores solucionam crimes fiscais, estelionato e roubos, entre outros.
 

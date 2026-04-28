@@ -1,11 +1,13 @@
 ---
-title: "Médico enfurece Brasil ao defender pederasta que estuprou e assassinou criança de 9 anos"
+title: Médico enfurece Brasil ao defender pederasta que estuprou e assassinou criança
+  de 9 anos
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Neste domingo (08), uma bomba veio à tona. De acordo com o processo contra o presidiário e a Secretaria da Administração Penitenciária, o motivo da prisão de Rafael Tadeu de Oliveira dos Santos, foi pelo fato de estuprar e estrangular Fábio dos Santos Lemos, de 9 anos, em maio de 2010.
 

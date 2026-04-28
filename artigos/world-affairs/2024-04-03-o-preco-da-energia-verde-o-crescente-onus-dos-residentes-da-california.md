@@ -1,11 +1,12 @@
 ---
-title: "O Preço da Energia Verde: O Crescente Ônus dos Residentes da Califórnia"
+title: 'O Preço da Energia Verde: O Crescente Ônus dos Residentes da Califórnia'
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os preços da eletricidade na Califórnia estão em constante ascensão, à medida que o Golden State transforma sua rede em um sistema de produção de energia "verde". No último ano, os custos da eletricidade residencial na Califórnia aumentaram 3 centavos por quilowatt-hora, marcando um aumento de 11,9%. 
 

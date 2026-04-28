@@ -1,11 +1,12 @@
 ---
-title: "<strong>Pagamentos com cartões crescem 36,5% no primeiro semestre</strong>"
+title: <strong>Pagamentos com cartões crescem 36,5% no primeiro semestre</strong>
 date: 2022-08-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foi movimentado R$ 1,6 trilhão com cartões no primeiro semestre.
 

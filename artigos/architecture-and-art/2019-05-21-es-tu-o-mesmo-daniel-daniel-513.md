@@ -1,11 +1,12 @@
 ---
-title: "'És tu o mesmo Daniel'? (Daniel 5:13)"
+title: '''És tu o mesmo Daniel''? (Daniel 5:13)'
 date: 2019-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Daniel chegou com aproximadamente 16 anos na Babilônia. Quando ele tinha aproximadamente 85 anos, foi chamado pelo Rei Belsazar que lhe fez uma pergunta: "ÉS TU O MESMO DANIEL"? (Daniel 5:13).
 

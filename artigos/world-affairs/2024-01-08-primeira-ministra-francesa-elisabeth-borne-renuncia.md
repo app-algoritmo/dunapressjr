@@ -1,11 +1,12 @@
 ---
-title: "Primeira-ministra francesa, Elisabeth Borne, renuncia"
+title: Primeira-ministra francesa, Elisabeth Borne, renuncia
 date: 2024-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O chefe de Estado, que atendeu ao pedido de renúncia de Bourne, agradeceu-lhe pela dedicação e determinação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Desafios Econômicos: O Rombo Devastador nas Contas Públicas em 2023"
+title: 'Desafios Econômicos: O Rombo Devastador nas Contas Públicas em 2023'
 date: 2024-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em meio a preocupações crescentes sobre a saúde econômica do Brasil, o analista Rob Correa revela dados alarmantes: um rombo de R$ 230,5 bilhões nas contas públicas em 2023. Este artigo mergulha nos impactos desse déficit, explorando as comparações entre os governos Bolsonaro e Lula, identificando o segundo pior rombo fiscal da história do país.
 

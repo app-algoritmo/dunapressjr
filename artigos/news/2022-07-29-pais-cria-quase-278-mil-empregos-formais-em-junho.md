@@ -1,11 +1,12 @@
 ---
-title: "País cria quase 278 mil empregos formais em junho"
+title: País cria quase 278 mil empregos formais em junho
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número resulta de 1.898.876 de contratações e 1.620.932 desligamentos.
 

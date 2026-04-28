@@ -1,11 +1,12 @@
 ---
-title: "<strong>Entenda o décimo terceiro salário</strong>"
+title: <strong>Entenda o décimo terceiro salário</strong>
 date: 2022-11-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pagamento da primeira parcela acaba no próximo dia 30.
 

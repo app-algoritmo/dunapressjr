@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: saiba as medidas realizadas pelo MEC"
+title: 'Coronavírus: saiba as medidas realizadas pelo MEC'
 date: 2020-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Saiba as ações realizadas durante o período de pandemia do coronavírus.
 

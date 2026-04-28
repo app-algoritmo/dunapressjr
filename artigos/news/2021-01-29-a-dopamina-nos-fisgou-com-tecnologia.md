@@ -1,11 +1,12 @@
 ---
-title: "A dopamina nos fisgou com tecnologia?"
+title: A dopamina nos fisgou com tecnologia?
 date: 2021-01-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Vale do Silício está interessado em explorar o produto químico cerebral creditado por nos manter tocando em aplicativos e mídias sociais.
 

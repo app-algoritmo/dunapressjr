@@ -1,11 +1,12 @@
 ---
-title: "Países latino-americanos recusam ajuda da UE à Ucrânia e Zelensky foi desconvidado"
+title: Países latino-americanos recusam ajuda da UE à Ucrânia e Zelensky foi desconvidado
 date: 2023-07-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Países latino-americanos rejeitam ajuda da UE à Ucrânia e resistem a regras ambientais para acordos comerciais.
 

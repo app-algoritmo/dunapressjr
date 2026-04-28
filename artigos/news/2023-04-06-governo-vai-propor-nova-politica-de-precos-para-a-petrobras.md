@@ -1,11 +1,12 @@
 ---
-title: "Governo vai propor nova política de preços para a Petrobras"
+title: Governo vai propor nova política de preços para a Petrobras
 date: 2023-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro Alexandre Silveira defende mais autossuficiência em derivados.
 

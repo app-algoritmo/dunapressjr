@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 805 milhões"
+title: Vendas do Tesouro Direto superam resgates em R$ 805 milhões
 date: 2022-12-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investidores no Tesouro Direto somam 2.109.570.
 

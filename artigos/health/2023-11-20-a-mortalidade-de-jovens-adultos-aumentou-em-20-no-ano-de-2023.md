@@ -1,11 +1,12 @@
 ---
-title: "A mortalidade de jovens adultos aumentou em 20% no ano de 2023"
+title: A mortalidade de jovens adultos aumentou em 20% no ano de 2023
 date: 2023-11-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Especialistas em seguros de vida e atuários dizem que os números são alarmantes.
 As seguradoras de vida pagaram uma quantidade recorde de sinistros em 2021,

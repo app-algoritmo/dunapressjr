@@ -1,11 +1,12 @@
 ---
-title: "Brexit é tema de reunião entre líderes da França e Alemanha"
+title: Brexit é tema de reunião entre líderes da França e Alemanha
 date: 2019-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Líderes da França e da Alemanha se reunirão em Paris no dia
 13 de outubro para se preparar para a cúpula da União Europeia e discutir

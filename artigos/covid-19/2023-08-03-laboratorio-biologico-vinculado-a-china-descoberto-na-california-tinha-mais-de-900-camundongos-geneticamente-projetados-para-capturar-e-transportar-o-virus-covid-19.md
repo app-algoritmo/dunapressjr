@@ -1,11 +1,14 @@
 ---
-title: "Laboratório biológico vinculado à China descoberto na Califórnia – tinha mais de 900 camundongos “geneticamente projetados para capturar e transportar o vírus Covid-19”"
+title: Laboratório biológico vinculado à China descoberto na Califórnia – tinha mais
+  de 900 camundongos “geneticamente projetados para capturar e transportar o vírus
+  Covid-19”
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em 3 de março, um bio-laboratório ilegal foi descoberto em um prédio supostamente vazio em Reedley, Fresno County, Califórnia. 
 

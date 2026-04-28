@@ -1,11 +1,13 @@
 ---
-title: "A Advertência de Netanyahu ao Hezbollah: Uma Crescente Escalada no Oriente Médio"
+title: 'A Advertência de Netanyahu ao Hezbollah: Uma Crescente Escalada no Oriente
+  Médio'
 date: 2023-10-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma região tensa e volátil como o Oriente Médio, as tensões geopolíticas podem se intensificar rapidamente, levando a um potencial conflito com consequências devastadoras. Recentemente, o Primeiro-Ministro de Israel, Benjamin Netanyahu, emitiu um severo aviso ao Hezbollah, um grupo militante xiita baseado no Líbano, sinalizando a possibilidade de uma escalada significativa nas já tensas relações entre Israel e seus vizinhos.
 

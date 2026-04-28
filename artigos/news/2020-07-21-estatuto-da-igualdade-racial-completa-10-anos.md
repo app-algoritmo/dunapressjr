@@ -1,11 +1,12 @@
 ---
-title: "Estatuto da Igualdade Racial completa 10 anos"
+title: Estatuto da Igualdade Racial completa 10 anos
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cerca de 109 milhões de brasileiros se declaram negros ou pardos, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE). As políticas públicas voltadas para esse público, que representa 56,1% da população do Brasil, são celebradas por um grande marco que completou 10 anos nesta segunda-feira (20). Assista ao vídeo:
 

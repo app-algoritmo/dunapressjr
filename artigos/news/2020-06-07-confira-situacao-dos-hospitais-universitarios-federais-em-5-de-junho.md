@@ -1,11 +1,12 @@
 ---
-title: "Confira situação dos hospitais universitários federais em 5 de junho"
+title: Confira situação dos hospitais universitários federais em 5 de junho
 date: 2020-06-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O informativo semanal sobre as unidades da empresa é divulgado no portal e nas redes sociais do MEC.
 

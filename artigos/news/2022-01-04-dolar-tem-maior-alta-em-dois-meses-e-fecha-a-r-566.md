@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem maior alta em dois meses e fecha a R$ 5,66"
+title: Dólar tem maior alta em dois meses e fecha a R$ 5,66
 date: 2022-01-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores inicia o ano com queda de 0,86%.
 

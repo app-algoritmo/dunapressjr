@@ -1,11 +1,13 @@
 ---
-title: "Reino Unido acredita que Irã está por trás de ataque na Arábia Saudita, diz premiê Johnson"
+title: Reino Unido acredita que Irã está por trás de ataque na Arábia Saudita, diz
+  premiê Johnson
 date: 2019-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Reino Unido acredita que o Irã foi responsável por um
 ataque a instalações de petróleo sauditas e trabalhará com os Estados Unidos e

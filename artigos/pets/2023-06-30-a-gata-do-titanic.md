@@ -1,11 +1,12 @@
 ---
-title: "A gata do Titanic"
+title: A gata do Titanic
 date: 2023-06-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## A “Gata do Titanic”, que teria previsto o naufrágio e retirado seus bebês antes do navio afundar.
 

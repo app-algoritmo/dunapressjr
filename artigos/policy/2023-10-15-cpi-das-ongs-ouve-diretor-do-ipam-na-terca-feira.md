@@ -1,11 +1,12 @@
 ---
-title: "CPI das ONGs ouve diretor do Ipam na terça-feira"
+title: CPI das ONGs ouve diretor do Ipam na terça-feira
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A CPI das ONGs se reúne na terça-feira (17), às 11h, para ouvir o diretor-executivo do Instituto de Pesquisa Ambiental da Amazônia (Ipam), André Guimarães. O requerimento para o convite de Guimarães é de autoria do presidente da comissão, senador Plínio Valério (PSDB-AM).
 

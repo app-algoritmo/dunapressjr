@@ -1,11 +1,12 @@
 ---
-title: "Estado de Israel: 72 Anos de Sobrevivência"
+title: 'Estado de Israel: 72 Anos de Sobrevivência'
 date: 2020-05-16
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 Há 72 anos atrás, no dia 14/05/1948, as 16 horas, era criado o Estado de Israel no oriente médio. Depois de séculos desejosos deste dia, após tanto sofrimento e dor durante holocausto Judeu, finalmente fora reestabelecido seu lar. Entretanto, este não seria o fim de suas guerras.
 

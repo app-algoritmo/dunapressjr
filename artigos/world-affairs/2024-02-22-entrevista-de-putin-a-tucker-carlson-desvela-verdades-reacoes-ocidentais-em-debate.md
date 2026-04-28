@@ -1,11 +1,13 @@
 ---
-title: "Entrevista de Putin a Tucker Carlson Desvela Verdades: Reações Ocidentais em Debate"
+title: 'Entrevista de Putin a Tucker Carlson Desvela Verdades: Reações Ocidentais
+  em Debate'
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente entrevista do presidente russo, Vladimir Putin, com o jornalista norte-americano Tucker Carlson, desencadeou uma onda de reações agressivas por parte das elites ocidentais. O ministro dos Negócios Estrangeiros russo, Sergey Lavrov, destacou a importância dessa entrevista durante uma reunião de ministros das Relações Exteriores do G20 no Rio de Janeiro. Lavrov ressaltou como a verdade revelada durante o diálogo entre Putin e Carlson expôs as artimanhas das elites ocidentais, que frequentemente escondem informações cruciais de seus eleitores.
 

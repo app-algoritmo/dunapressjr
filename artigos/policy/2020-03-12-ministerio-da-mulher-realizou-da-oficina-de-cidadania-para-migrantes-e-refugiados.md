@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Mulher realizou da Oficina de Cidadania para Migrantes e Refugiados"
+title: Ministério da Mulher realizou da Oficina de Cidadania para Migrantes e Refugiados
 date: 2020-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), apoiou, no último domingo (8), a realização da "Oficina de Cidadania para Multiplicadores Comunitários Migrantes e Refugiados", em Guarulhos (SP).
 

@@ -1,11 +1,12 @@
 ---
-title: "Inflação da construção civil registra taxa de 1,87% em abril, diz IBGE"
+title: Inflação da construção civil registra taxa de 1,87% em abril, diz IBGE
 date: 2021-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os materiais de construção ficaram 3,14% mais caros em abril.
 

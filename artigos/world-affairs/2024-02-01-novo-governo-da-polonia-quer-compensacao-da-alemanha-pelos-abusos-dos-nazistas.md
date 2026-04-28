@@ -1,11 +1,12 @@
 ---
-title: "Novo governo da Polônia quer compensação da Alemanha pelos abusos dos nazistas"
+title: Novo governo da Polônia quer compensação da Alemanha pelos abusos dos nazistas
 date: 2024-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ministro dos Negócios Estrangeiros polaco, Radoslaw Sikorski, pediu “compensação financeira” à Alemanha pelas atrocidades cometidas pelos nazis, em linha com as exigências expressas pelo governo anterior.
 

@@ -1,11 +1,12 @@
 ---
-title: "Anvisa institui programa para ampliar qualidade de produtos para saúde"
+title: Anvisa institui programa para ampliar qualidade de produtos para saúde
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) instituiu o Programa Piloto de Ampliação da Qualidade das Indústrias Nacionais de Produtos com o objetivo de fortalecer as indústrias fabricantes de produtos para saúde classes III e IV no país.
 

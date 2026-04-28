@@ -1,11 +1,12 @@
 ---
-title: "Emir do Catar no Brasil, será que veio ver os fogos com seus navios de guerra?"
+title: Emir do Catar no Brasil, será que veio ver os fogos com seus navios de guerra?
 date: 2022-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Temos visita do Sheikh Tamim bin Hamad Al Thani, Emir do Estado do Catar, nas cidades de Angra dos Reis/RJ, Armação dos Búzios/RJ, Arraial do Cabo/RJ, Brasília/DF e Rio de Janeiro/RJ e será montada uma operação temporária.
 

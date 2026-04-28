@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brics discute inclusão de novos membros, diz Haddad"
+title: Banco do Brics discute inclusão de novos membros, diz Haddad
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ex-presidente Dilma Rousseff participa de encontro virtual entre governadores dos Brics para discutir estratégias de expansão e investimentos no Sul Global.
 

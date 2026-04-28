@@ -1,11 +1,12 @@
 ---
-title: "Mulheres brasileiras que atuaram como enfermeiras na Segunda Guerra Mundial"
+title: Mulheres brasileiras que atuaram como enfermeiras na Segunda Guerra Mundial
 date: 2020-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército estenderá o Dia Internacional da Mulher, 8 de março, para toda a segunda semana deste mês, realizando uma série de homenagens às mulheres brasileiras que atuaram na guerra entre 1944 e 1945. Esse reconhecimento também faz parte das comemorações dos 75 anos do fim da Segunda Guerra Mundial, momento histórico que contou com a importante participação de cerca de 25 mil militares brasileiros.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa se recupera e fecha no maior nível em quatro meses"
+title: Bolsa se recupera e fecha no maior nível em quatro meses
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em dia de oscilações, dólar cai para R$ 5,348.
 

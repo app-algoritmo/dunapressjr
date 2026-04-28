@@ -1,11 +1,12 @@
 ---
-title: "Projeto cria política nacional de combate a crimes em áreas rurais"
+title: Projeto cria política nacional de combate a crimes em áreas rurais
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Projeto de Lei 3662/23 institui a Política Nacional de Combate ao Crime em Área Rural, sob responsabilidade da União, dos estados, do Distrito Federal e dos municípios. O texto está em análise na Câmara dos Deputados.
 

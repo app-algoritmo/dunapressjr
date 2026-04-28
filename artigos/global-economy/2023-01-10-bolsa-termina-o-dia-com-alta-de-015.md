@@ -1,11 +1,12 @@
 ---
-title: "Bolsa termina o dia com alta de 0,15%"
+title: Bolsa termina o dia com alta de 0,15%
 date: 2023-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar tem leve alta e termina o dia vendido a R$ 5,28.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto permite doar merenda que sobra para famílias de alunos de escola pública"
+title: Projeto permite doar merenda que sobra para famílias de alunos de escola pública
 date: 2023-09-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Autor do projeto quer evitar desperdício; proposta será analisada pela Câmara dos Deputados.
 

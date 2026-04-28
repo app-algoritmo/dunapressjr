@@ -1,11 +1,12 @@
 ---
-title: "Lira quer votar reforma tributária na primeira semana de julho"
+title: Lira quer votar reforma tributária na primeira semana de julho
 date: 2023-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Já o projeto que retoma o voto de qualidade no Carf deve ser votado na próxima semana.
 

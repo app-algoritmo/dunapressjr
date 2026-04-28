@@ -1,11 +1,12 @@
 ---
-title: "Anvisa libera venda de máscaras de tecidos em farmácias e drogarias"
+title: Anvisa libera venda de máscaras de tecidos em farmácias e drogarias
 date: 2020-06-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A venda de máscaras de proteção de uso não  profissional - as máscaras de tecido - podem ser comercializadas em farmácias e drogarias, de acordo com a Agência de Saúde e Vigilância (Anvisa). A medida visa facilitar o acesso da população ao produto, reforçando o enfrentamento da pandemia provocada pelo novo coronavírus (Sars-CoV-2).  
 

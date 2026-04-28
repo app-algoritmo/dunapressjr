@@ -1,12 +1,13 @@
 ---
-title: "Bertrand de Orléans e Bragança, o homem que pode salvar o Brasil por gerações"
+title: Bertrand de Orléans e Bragança, o homem que pode salvar o Brasil por gerações
 date: 2022-12-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - Policy
+- Bicentennial
+- Policy
 ---
+
 
 ## Estaria o país preparado para uma nova era? - Por James Brooke, New York Times.
 

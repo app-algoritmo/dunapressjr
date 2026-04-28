@@ -1,11 +1,12 @@
 ---
-title: "Construção da ponte entre São Judas e Cidade Nova, em Itajaí recebe concretagem"
+title: Construção da ponte entre São Judas e Cidade Nova, em Itajaí recebe concretagem
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A construção da nova ponte entre os bairros São Judas e Cidade Nova recebeu concretagem na terceira e última estrutura montada no leito do rio, na manhã desta sexta-feira (11). As três estruturas no Itajaí-Mirim servem de sustentação para a parte viária que ligará a rua Adolfo Batschauer, no São Judas, com o entroncamento das ruas Sidney Schulze e Otto Hoier, no Cidade Nova.
 

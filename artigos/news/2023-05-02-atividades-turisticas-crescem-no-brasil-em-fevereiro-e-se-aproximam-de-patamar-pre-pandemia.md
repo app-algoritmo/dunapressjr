@@ -1,11 +1,13 @@
 ---
-title: "Atividades turísticas crescem no Brasil em fevereiro e se aproximam de patamar pré-pandemia"
+title: Atividades turísticas crescem no Brasil em fevereiro e se aproximam de patamar
+  pré-pandemia
 date: 2023-05-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados do IBGE e do Ministério do Turismo mostram expansão do setor em diversos estados.
 

@@ -1,11 +1,12 @@
 ---
-title: "A São Paulo de Maio: O Aferro do Paulista Frente ao Covid-19"
+title: 'A São Paulo de Maio: O Aferro do Paulista Frente ao Covid-19'
 date: 2020-05-11
 status: publish
 author: Vitor Guerino
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 As portas da ignorância continuam escancaradas frente ao nosso assassino em comum: o vírus Covid-19, este que desde fevereiro vem invadindo cada vez mais e sem permissão a vida dos brasileiros e de todo o mundo. E depois do passar de tanto tempo, ainda estamos sem saber ao certo o que de fato há em nossa fronte.
 

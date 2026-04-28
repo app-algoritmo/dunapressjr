@@ -1,11 +1,12 @@
 ---
-title: "Castlevania: A terceira temporada começa dia 5 de março"
+title: 'Castlevania: A terceira temporada começa dia 5 de março'
 date: 2020-02-27
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **Drácula está morto: Uma nova era de trevas e sangue se levanta**. Acompanhe a partir de 5 de março
 

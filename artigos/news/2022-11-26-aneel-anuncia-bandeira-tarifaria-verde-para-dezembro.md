@@ -1,11 +1,12 @@
 ---
-title: "Aneel anuncia bandeira tarifária verde para dezembro"
+title: Aneel anuncia bandeira tarifária verde para dezembro
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Agência diz que as condições de geração de energia estão boas no país.
 

@@ -1,11 +1,12 @@
 ---
-title: "Modalidades saque e troco do Pix movimentaram R$ 122,1 milhões"
+title: Modalidades saque e troco do Pix movimentaram R$ 122,1 milhões
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Utilização do meio de pagamento vem aumentando mês a mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "Falência do fígado e danos renais: entenda riscos do uso frequente do paracetamol"
+title: 'Falência do fígado e danos renais: entenda riscos do uso frequente do paracetamol'
 date: 2023-08-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Medicamento encontrado em 9 de cada 10 casas de brasileiros pode causar complicações perigosas ao corpo humano se usado inadvertidamente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Homicídios caem 10% no estado de São Paulo em oito meses"
+title: Homicídios caem 10% no estado de São Paulo em oito meses
 date: 2023-09-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## [Número é o menor para o período em 23 anos; também houve queda em todas as modalidades de roubo.](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/ultimas-noticias/homicidios-caem-10-no-estado-de-sao-paulo-em-oito-meses/)
 

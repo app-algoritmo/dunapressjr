@@ -1,11 +1,12 @@
 ---
-title: "Confira a agenda semanal do Caminhão do Peixe em Itajaí"
+title: Confira a agenda semanal do Caminhão do Peixe em Itajaí
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminhão do Peixe, programa da Secretaria de Desenvolvimento Econômico, passará por dez localidades a partir desta segunda-feira. O programa de incentivo ao consumo de pescados atenderá os bairros Cordeiros, Fazenda, Dom Bosco, Limoeiro, Brilhante, São Judas, São Vicente, São João, Loteamento Santa Regina e Vila Operária. O caminhão estará nas ruas de segunda-feira (16) a sábado (21).
 

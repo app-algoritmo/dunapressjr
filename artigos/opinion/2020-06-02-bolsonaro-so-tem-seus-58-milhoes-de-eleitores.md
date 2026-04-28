@@ -1,11 +1,12 @@
 ---
-title: "Bolsonaro só tem seus 58 milhões de eleitores"
+title: Bolsonaro só tem seus 58 milhões de eleitores
 date: 2020-06-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ## FFAA, o poder moderador que não modera nada!
 

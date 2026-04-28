@@ -1,11 +1,13 @@
 ---
-title: "Parceria possibilita o treinamento de profissionais do Esquadrão de Saúde de Salvador"
+title: Parceria possibilita o treinamento de profissionais do Esquadrão de Saúde de
+  Salvador
 date: 2020-05-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O treinamento dos procedimentos para entubação de pacientes com COVID-19, realizado no período de 15 a 29 de abril, possibilitou a capacitação de 22 Oficiais Médicos do Esquadrão de Saúde de Salvador. A atividade foi possível graças a parceria com o Hospital Naval de Salvador, e faz parte do planejamento das Organizações de Saúde das três Forças - Marinha do Brasil, Exército Brasileiro e Força Aérea Brasileira -, em Salvador, no enfrentamento da pandemia do novo Coronavírus.
 

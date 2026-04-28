@@ -1,11 +1,12 @@
 ---
-title: "Secretário de Saúde da Flórida: Evite as vacinas COVID-19"
+title: 'Secretário de Saúde da Flórida: Evite as vacinas COVID-19'
 date: 2023-11-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 No final de Outubro, o secretário de saúde da Florida divergiu significativamente da grande maioria dos seus homólogos estaduais e emitiu directrizes que diferiam significativamente das recomendações para doses de reforço da vacina contra a COVID-19. O TrialSite revisou a evolução das opiniões do Secretário de Saúde da Flórida, Dr. Joseph Ladapo sobre a vacinação contra a COVID-19, a sua eficácia e o seu registo de segurança. Nestas últimas diretrizes, a agência de Ladapo aconselha os prestadores de serviços que são “encorajados a comunicar com os pacientes sobre a falta de dados de ensaios clínicos em humanos, bem como sobre um corpo crescente de investigação médica que apoia os resultados das vacinas contra a COVID-19”. uma luz menos positiva.”
 

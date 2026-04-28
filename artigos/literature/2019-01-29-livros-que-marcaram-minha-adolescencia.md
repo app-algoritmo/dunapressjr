@@ -1,11 +1,12 @@
 ---
-title: "Livros que marcaram minha adolescência"
+title: Livros que marcaram minha adolescência
 date: 2019-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Serie Vaga-Lume, são os meu xodós ,quando acabo de ler um livro muito pesado dou uma lidinha em um livro Infanto-juvenil ,para relaxar a mente, pois este tipo de livro é bem leve. 
 

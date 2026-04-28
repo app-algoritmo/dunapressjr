@@ -1,13 +1,14 @@
 ---
-title: "Urgente: Intervenção militar no Brasil"
+title: 'Urgente: Intervenção militar no Brasil'
 date: 2022-12-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
-  - News
-  - Policy
+- Military
+- News
+- Policy
 ---
+
 
 Polícia de Brasília tenta desmontar acampamento patriótico em QG, soldados do exército interveem e impede operação ilegal em área militar.
 

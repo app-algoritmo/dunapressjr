@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Produção de cereais e oleaginosas no Brasil tem aumento significativo em 2023"
+title: 'IBGE: Produção de cereais e oleaginosas no Brasil tem aumento significativo
+  em 2023'
 date: 2023-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativas de julho indicam crescimento na produção de grãos, destacando altas na soja, milho e algodão herbáceo.
 

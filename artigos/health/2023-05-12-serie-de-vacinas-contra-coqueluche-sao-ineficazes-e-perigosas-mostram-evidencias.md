@@ -1,11 +1,12 @@
 ---
-title: "Série de vacinas contra coqueluche são ineficazes e perigosas, mostram evidências"
+title: Série de vacinas contra coqueluche são ineficazes e perigosas, mostram evidências
 date: 2023-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## A razão pela qual a tosse convulsa, também conhecida como coqueluche, foi amplamente erradicada é por causa da vacina?
 

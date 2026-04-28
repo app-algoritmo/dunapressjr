@@ -1,11 +1,12 @@
 ---
-title: "Governo desbloqueia todo o Orçamento de 2021"
+title: Governo desbloqueia todo o Orçamento de 2021
 date: 2021-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Foram liberados R$ 4,52 bilhões que estavam contingenciados.
 

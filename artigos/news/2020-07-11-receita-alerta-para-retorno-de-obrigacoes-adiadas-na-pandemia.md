@@ -1,11 +1,12 @@
 ---
-title: "Receita alerta para retorno de obrigações adiadas na pandemia"
+title: Receita alerta para retorno de obrigações adiadas na pandemia
 date: 2020-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Algumas contribuições devem ser pagas neste mês.
 

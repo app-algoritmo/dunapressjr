@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros autorizam o Pr. Bolsonaro aplicar medidas contra o mecanismo"
+title: Brasileiros autorizam o Pr. Bolsonaro aplicar medidas contra o mecanismo
 date: 2021-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em manifestação sem precedentes, o dia 01 de maio de 2021 é uma data que entra para a história brasileira de apoio ao Presidente Jair Messias Bolsonaro. Milhões de pessoas em todo o país vão as ruas com o grito de  #EuAutorizoPresidente, para que aplique medidas contra o mecanismo.
 

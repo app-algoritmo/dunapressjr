@@ -1,11 +1,12 @@
 ---
-title: "Livros que foram para a Segunda Guerra Mundial"
+title: Livros que foram para a Segunda Guerra Mundial
 date: 2019-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Durante a Segunda Guerra Mundial, estima-se que a Alemanha tenha queimado mais de cem milhões de livros e forçado cidadãos a destruir – ou, pelo menos, esconder – inúmeros outros. 
 

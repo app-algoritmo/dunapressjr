@@ -1,11 +1,13 @@
 ---
-title: "Procura por título de eleitor entre jovens com 15 a 17 anos cresceu 45% em um mês"
+title: Procura por título de eleitor entre jovens com 15 a 17 anos cresceu 45% em
+  um mês
 date: 2022-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O alistamento realizado pela Justiça Eleitoral no mês de março registrou um salto de 45,63%, quando comparado a fevereiro, entre adolescentes de 15 a 17 anos, faixa etária para a qual o voto é facultativo – os jovens com 15 anos, para poder exercer o direito ao voto, devem completar 16 até o dia do primeiro turno da eleição, neste ano, 2 de outubro. Os [números do último mês foram divulgados na sessão plenária desta terça-feira (5) pelo presidente do Tribunal Superior Eleitoral (TSE), ministro Edson Fachin](https://www.tse.jus.br/imprensa/noticias-tse/2022/Abril/numero-de-novos-titulos-eleitorais-entre-jovens-cresceu-quase-28-de-fevereiro-para-marco).
 

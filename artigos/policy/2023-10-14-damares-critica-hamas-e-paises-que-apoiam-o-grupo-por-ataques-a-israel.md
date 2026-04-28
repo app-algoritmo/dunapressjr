@@ -1,11 +1,12 @@
 ---
-title: "Damares critica Hamas e países que apoiam o grupo por ataques a Israel"
+title: Damares critica Hamas e países que apoiam o grupo por ataques a Israel
 date: 2023-10-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento nesta terça-feira (10), a senadora Damares Alves (Republicanos-DF) manifestou preocupação em relação aos conflitos entre Hamas e Israel. Ela repudiou a brutalidade e crueldade envolvidas nas ações do grupo extremista islâmico, especialmente contra crianças. 
 

@@ -1,11 +1,12 @@
 ---
-title: "O Exorcista vai ganhar uma nova versão do clássico em 2021"
+title: O Exorcista vai ganhar uma nova versão do clássico em 2021
 date: 2020-08-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 **O filme clássico de terror, baseado no romance homônimo de William Peter Blatty, Trará uma versão moderna da produção.**
 

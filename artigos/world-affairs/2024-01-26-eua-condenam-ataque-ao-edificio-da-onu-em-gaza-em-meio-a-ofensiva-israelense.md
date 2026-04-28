@@ -1,11 +1,12 @@
 ---
-title: "EUA condenam ataque ao edifício da ONU em Gaza em meio à ofensiva israelense"
+title: EUA condenam ataque ao edifício da ONU em Gaza em meio à ofensiva israelense
 date: 2024-01-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os Estados Unidos condenaram o atentado à bomba contra um centro de recepção da ONU no sul da Faixa de Gaza, no qual nove palestinos foram mortos ontem e dezenas ficaram feridos em meio à ofensiva israelense contra o movimento islâmico Hamas.
 

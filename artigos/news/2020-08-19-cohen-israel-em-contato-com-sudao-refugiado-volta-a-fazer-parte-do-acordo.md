@@ -1,11 +1,12 @@
 ---
-title: "Cohen: Israel em contato com Sudão, refugiado volta a fazer parte do acordo"
+title: 'Cohen: Israel em contato com Sudão, refugiado volta a fazer parte do acordo'
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cohen também esclareceu que qualquer acordo de paz incluiria um mecanismo para o retorno de migrantes sudaneses. Atualmente, existem 6.285 requerentes de asilo e migrantes sudaneses em Israel.
 

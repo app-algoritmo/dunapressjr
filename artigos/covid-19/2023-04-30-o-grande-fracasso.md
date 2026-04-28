@@ -1,12 +1,13 @@
 ---
-title: "O grande fracasso"
+title: O grande fracasso
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 ## As vacinas não reduziram as taxas de mortalidade por Covid em países de todo o mundo. Não há evidências claras de que eles salvaram vidas e provavelmente fizeram mais para acelerar as mortes do que para evitá-las.
 

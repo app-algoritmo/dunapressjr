@@ -1,11 +1,12 @@
 ---
-title: "Entidades consideram acertada manutenção da Selic em 2% ao ano"
+title: Entidades consideram acertada manutenção da Selic em 2% ao ano
 date: 2021-01-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para setor produtivo, juros baixos ajudam na recuperação da economia.
 

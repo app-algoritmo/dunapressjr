@@ -1,11 +1,12 @@
 ---
-title: "Coentro ajuda remover metais pesados do corpo"
+title: Coentro ajuda remover metais pesados do corpo
 date: 2023-05-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## O coentro (*Coriandrum sativum*) é uma erva culinária cujo aroma forte muitas vezes divide as pessoas. 
 

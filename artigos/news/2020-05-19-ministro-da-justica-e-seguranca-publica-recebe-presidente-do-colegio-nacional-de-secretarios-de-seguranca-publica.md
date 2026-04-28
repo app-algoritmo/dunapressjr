@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Justiça e Segurança Pública recebe presidente do Colégio Nacional de Secretários de Segurança Pública"
+title: Ministro da Justiça e Segurança Pública recebe presidente do Colégio Nacional
+  de Secretários de Segurança Pública
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, recebeu nesta terça-feira (19), o presidente do Colégio Nacional de Secretários de Segurança Pública, Cristiano Barbosa Sampaio. Durante o encontro, o ministro conheceu as demandas dos secretários de Segurança Pública dos Estados e do Distrito Federal e colocou o Ministério à disposição.
 

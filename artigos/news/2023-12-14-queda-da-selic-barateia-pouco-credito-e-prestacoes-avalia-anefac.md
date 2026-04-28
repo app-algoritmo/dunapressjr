@@ -1,11 +1,12 @@
 ---
-title: "Queda da Selic barateia pouco crédito e prestações, avalia Anefac"
+title: Queda da Selic barateia pouco crédito e prestações, avalia Anefac
 date: 2023-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Poupança continua rendendo menos que fundos de investimento.
 

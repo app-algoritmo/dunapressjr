@@ -1,11 +1,12 @@
 ---
-title: "Cientista brasileiro identifica nova doença na Amazônia"
+title: Cientista brasileiro identifica nova doença na Amazônia
 date: 2021-02-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O bolsista Salatiel Ribeiro Dias é formado em Biotecnologia e durante seu mestrado em Biociências, cursado na Universidade Federal do Oeste do Pará (UFOPA), participou da pesquisa que identificou na Amazônia uma infecção nunca antes relatada. O trabalho resultou em um [artigo publicado](https://wwwnc.cdc.gov/eid/article/26/9/20-1305_article) na revista Doenças Infecciosas Emergentes, um periódico mantido pelo [Centro de Controle e Prevenção de Doenças](https://www.cdc.gov/) (CDC), dos Estados Unidos.
 

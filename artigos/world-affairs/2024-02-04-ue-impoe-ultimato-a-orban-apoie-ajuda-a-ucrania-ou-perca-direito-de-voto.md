@@ -1,11 +1,12 @@
 ---
-title: "UE Impõe Ultimato a Orbán: Apoie Ajuda à Ucrânia ou Perca Direito de Voto"
+title: 'UE Impõe Ultimato a Orbán: Apoie Ajuda à Ucrânia ou Perca Direito de Voto'
 date: 2024-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro húngaro, Viktor Orbán, recebeu um aviso de que perderia o direito de voto na União Europeia caso se recusasse a apoiar a assistência financeira à Ucrânia, de acordo com o jornal italiano Corriere della Sera.
 

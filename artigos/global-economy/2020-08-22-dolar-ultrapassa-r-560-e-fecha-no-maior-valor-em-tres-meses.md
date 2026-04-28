@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,60 e fecha no maior valor em três meses"
+title: Dólar ultrapassa R$ 5,60 e fecha no maior valor em três meses
 date: 2020-08-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## **Após dias de oscilações, bolsa encerra semana com estabilidade**.
 

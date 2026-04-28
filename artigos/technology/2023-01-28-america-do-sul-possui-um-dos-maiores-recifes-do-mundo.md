@@ -1,11 +1,12 @@
 ---
-title: "América do Sul  possui um dos maiores recifes do mundo"
+title: América do Sul  possui um dos maiores recifes do mundo
 date: 2023-01-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Marcelo de Oliveira Soares é biólogo e mestre em Ciências Marinhas Tropicais pela Universidade Federal do Ceará (UFC), doutor em Geociências pela Universidade Federal do Rio Grande do Sul (UFRGS) e professor associado do Instituto de Ciências do Mar da UFC (Labomar). Atualmente, recebe apoio como Professor Experiente pelo [Programa Bolsas para Pesquisa CAPES/Humboldt](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/alemanha/programa-bolsas-para-pesquisa-capeshumboldt) e integra um grupo de 23 pesquisadores que descobriu que diversos recifes da América do Sul formam, na verdade, um único sistema, um dos três maiores do tipo em todo o mundo. Os resultados do trabalho foram [publicados na Revista *Nature*](https://www.nature.com/articles/s41598-022-21341-x).
 

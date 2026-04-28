@@ -1,11 +1,12 @@
 ---
-title: "Ministério do Turismo lança campanha 'Não cancele, remarque!”"
+title: Ministério do Turismo lança campanha 'Não cancele, remarque!”
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O Ministério do Turismo lançou, nesta terça-feira (07.04), a campanha "Não cancele, remarque!”, que busca orientar os turistas sobre a importância de não cancelar, apenas adiar, as viagens e pacotes turísticos nesse momento de pandemia causada pelo novo coronavírus. As peças publicitárias vão aparecer, nos próximos 45 dias, em vários sites e redes digitais em formatos de cards, vídeo e animação. A campanha solicitada pelo ministro Marcelo Álvaro Antônio se soma às várias ações adotadas pelo MTur para enfrentar os impactos causado no setor pela Covid-1.
 

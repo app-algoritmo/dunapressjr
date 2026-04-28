@@ -1,11 +1,12 @@
 ---
-title: "<strong>Receita abre na segunda consulta a lote residual do Imposto de Renda</strong>"
+title: <strong>Receita abre na segunda consulta a lote residual do Imposto de Renda</strong>
 date: 2022-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mais de 471 mil contribuintes receberão R$ 800 milhões.
 

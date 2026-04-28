@@ -1,11 +1,12 @@
 ---
-title: "Novo estudo: os pais renunciam às vacinas COVID para seus filhos"
+title: 'Novo estudo: os pais renunciam às vacinas COVID para seus filhos'
 date: 2023-06-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## À medida que a desconfiança no governo e nas empresas farmacêuticas aumenta, mais e mais pais estão questionando as vacinas de seus filhos, principalmente a apressada vacina COVID-19.
 

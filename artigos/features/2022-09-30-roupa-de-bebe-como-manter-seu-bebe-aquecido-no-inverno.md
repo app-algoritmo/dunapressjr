@@ -1,11 +1,12 @@
 ---
-title: "Roupa de bebê: Como manter seu bebê aquecido no inverno"
+title: 'Roupa de bebê: Como manter seu bebê aquecido no inverno'
 date: 2022-09-30
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Quando o tempo lá fora fica frio, é importante certificar-se de que [roupa de bebê](https://boutiquebaby.com.br/roupa-de-bebe/) seja a ideal para o manter aquecido. 
 

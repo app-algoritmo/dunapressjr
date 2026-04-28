@@ -1,11 +1,12 @@
 ---
-title: "Câmara de vereadores de Itajaí aprova projetos que consolidam leis municipais"
+title: Câmara de vereadores de Itajaí aprova projetos que consolidam leis municipais
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os vereadores de Itajaí aprovaram nesta quinta-feira (10), em primeira votação, os dois primeiros projetos de lei complementar que compõem a Consolidação das Leis Municipais. O trabalho objetiva agrupar as leis existentes por temas, criando uma obra única para pesquisa e de fácil acesso para facilitar a aplicação e cumprimento das leis.
  

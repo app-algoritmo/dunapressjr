@@ -1,11 +1,12 @@
 ---
-title: "Exército realiza segunda fase da obra na BR 163"
+title: Exército realiza segunda fase da obra na BR 163
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília, 26/02/2020 –** Militares do Exército Brasileiro
 prosseguem o trabalho de colocação de uma segunda camada de asfalto na BR-163,

@@ -1,11 +1,13 @@
 ---
-title: "Ensino básico presencial: importância do espaço escolar para a construção das oportunidades"
+title: 'Ensino básico presencial: importância do espaço escolar para a construção
+  das oportunidades'
 date: 2022-08-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A importância da educação para o desenvolvimento socioeconômico de um país é matéria de amplo conhecimento da sociedade. O recém publicado estudo do Fundo Monetário Internacional (FMI) deixa isso ainda mais claro ao concluir que, ao longo das próximas décadas, os brasileiros terão uma das maiores perdas de renda entre as grandes economias globais em razão do fechamento das escolas na pandemia. Se nada for feito para recuperar a falta de aprendizado completo, principalmente da população mais vulnerável, a renda média dessa população afetada pode sofrer uma redução de 9,1% ao longo da vida.
 

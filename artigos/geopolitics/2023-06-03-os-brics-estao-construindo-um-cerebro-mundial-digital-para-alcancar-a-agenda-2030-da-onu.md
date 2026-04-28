@@ -1,11 +1,13 @@
 ---
-title: "Os BRICS estão construindo um cérebro mundial digital para alcançar a Agenda 2030 da ONU"
+title: Os BRICS estão construindo um cérebro mundial digital para alcançar a Agenda
+  2030 da ONU
 date: 2023-06-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Os BRICS são muitas vezes retratados como opostos ao domínio ocidental. No entanto, eles estão trabalhando com o mesmo entusiasmo do Ocidente para implementar a Agenda 2030 e introduziram soluções de alta tecnologia com vigilância total de todo o sistema terrestre e da humanidade para torná-la realidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Tensões na Faixa de Gaza: Israel intensifica preparativos para ofensiva terrestre"
+title: 'Tensões na Faixa de Gaza: Israel intensifica preparativos para ofensiva terrestre'
 date: 2023-10-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Israel diz que não haverá água, electricidade ou cessação do cerco a Gaza até que os reféns sejam libertados; As IDF continuam a atingir edifícios do Hamas, a matar líderes terroristas; famílias de 97 reféns notificadas
 

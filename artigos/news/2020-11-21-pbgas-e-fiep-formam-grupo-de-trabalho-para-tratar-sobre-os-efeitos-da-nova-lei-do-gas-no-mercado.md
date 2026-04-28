@@ -1,11 +1,13 @@
 ---
-title: "PBGás e Fiep formam Grupo de Trabalho para tratar sobre os efeitos da nova lei do gás no mercado"
+title: PBGás e Fiep formam Grupo de Trabalho para tratar sobre os efeitos da nova
+  lei do gás no mercado
 date: 2020-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Diretores da Companhia Paraibana de Gás (PBGás) e da Federação das Indústrias do Estado da Paraíba (Fiep) se reuniram nesta sexta-feira (20) para definir a formação de um Grupo de Trabalho para tratar sobre os efeitos da nova lei do gás aprovada pela Câmara Federal e em tramitação no Senado Federal. A proposta do grupo técnico é discutir a nova legislação para a indústria do Gás Natural e enxergar oportunidades para o mercado local do estado da Paraíba. 
 

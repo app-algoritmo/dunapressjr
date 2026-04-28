@@ -1,11 +1,12 @@
 ---
-title: "De vilã à mocinha: como tornar a Matemática a disciplina preferida dos pequenos"
+title: 'De vilã à mocinha: como tornar a Matemática a disciplina preferida dos pequenos'
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Quem nunca suou as mãos ou teve uma dor de barriga diante de uma prova de Matemática? Não é novidade que a disciplina é uma das mais temidas pelos alunos, sobretudo quando passa a exigir mais de crianças e adolescentes. Porém, com alguns ajustes, tanto em casa, como na escola, é possível estudar Matemática sem traumas e sem medos. 
 

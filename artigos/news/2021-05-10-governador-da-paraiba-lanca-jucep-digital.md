@@ -1,11 +1,12 @@
 ---
-title: "Governador da Paraíba lança ‘Jucep Digital’"
+title: Governador da Paraíba lança ‘Jucep Digital’
 date: 2021-05-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O projeto garante celeridade e segurança em serviços voltados para empresas.
 

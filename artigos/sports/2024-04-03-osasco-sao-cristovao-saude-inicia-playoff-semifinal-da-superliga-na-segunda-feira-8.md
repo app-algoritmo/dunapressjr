@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde inicia playoff semifinal da Superliga na segunda-feira (8)"
+title: Osasco São Cristóvão Saúde inicia playoff semifinal da Superliga na segunda-feira
+  (8)
 date: 2024-04-03
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar recebe o Gerdau Minas no ginásio José Liberatti, a partir das 21h30.
 

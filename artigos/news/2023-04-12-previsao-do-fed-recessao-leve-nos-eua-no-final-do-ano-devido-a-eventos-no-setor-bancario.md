@@ -1,11 +1,13 @@
 ---
-title: "Previsão do Fed: Recessão leve nos EUA no final do ano devido a eventos no setor bancário"
+title: 'Previsão do Fed: Recessão leve nos EUA no final do ano devido a eventos no
+  setor bancário'
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 De acordo com a plataforma [TradeMapp](https://portal.trademap.com.br/home), a equipe do Federal Reserve (Fed) projeta uma "recessão leve" nos Estados Unidos até o final deste ano, em resposta aos "efeitos econômicos dos recentes desenvolvimentos no setor bancário", seguida por uma recuperação nos dois anos seguintes. Esta avaliação foi publicada nas atas da última reunião do comitê de política monetária do banco central americano, que também destacou que a previsão é de que o índice completo de preços ao consumo (PCE), bem como seu núcleo, se aproxime de 2% em 2024 e 2025.
 

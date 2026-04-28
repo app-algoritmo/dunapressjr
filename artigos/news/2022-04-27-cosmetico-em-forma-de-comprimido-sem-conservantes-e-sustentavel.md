@@ -1,11 +1,12 @@
 ---
-title: "Cosmético em forma de comprimido, sem conservantes e sustentável"
+title: Cosmético em forma de comprimido, sem conservantes e sustentável
 date: 2022-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um novo produto cosmético, sustentável, feito à base de algaroba, sem conservantes, e não testado em animais, foi desenvolvido por Gabriel Azevedo de Brito Damasceno durante seu doutorado em Ciências Farmacêuticas, na Universidade Federal do Rio Grande do Norte (UFRN). Apresentado em formato de comprimido para ser aplicado na pele, a fórmula oferece hidratação profunda e previne os sinais de envelhecimento precoce da pele.
 

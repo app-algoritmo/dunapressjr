@@ -1,11 +1,12 @@
 ---
-title: "STF faz nova audiência de conciliação sobre cobrança do ICMS"
+title: STF faz nova audiência de conciliação sobre cobrança do ICMS
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Sem consenso, outra audiência foi marcada para 16 de agosto.
 

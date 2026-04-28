@@ -1,11 +1,12 @@
 ---
-title: "Escola de Itajaí, é a segunda colocada em concurso internacional do Lions Clube"
+title: Escola de Itajaí, é a segunda colocada em concurso internacional do Lions Clube
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma estudante do sétimo ano da Escola Básica João Duarte, do bairro São João, foi a segunda colocada no concurso internacional promovido pelo Lions Clube. Thalita de Souza representou o Lions Clube Itajaí Verde Vale no concurso “Cartaz da Paz/ 2020”. 
 

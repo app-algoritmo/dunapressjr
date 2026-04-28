@@ -1,11 +1,12 @@
 ---
-title: "Para 2023, BC eleva estimativa de inflação de 4,6% para 5%"
+title: Para 2023, BC eleva estimativa de inflação de 4,6% para 5%
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No próximo ano, probabilidade de estouro da meta de inflação é de 57%.
 

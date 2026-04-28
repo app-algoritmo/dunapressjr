@@ -1,11 +1,12 @@
 ---
-title: "Governo promulga entrada do Brasil no Banco Asiático de Investimento"
+title: Governo promulga entrada do Brasil no Banco Asiático de Investimento
 date: 2021-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## País passa a sócio-fundador de instituição financeira multilateral.
 

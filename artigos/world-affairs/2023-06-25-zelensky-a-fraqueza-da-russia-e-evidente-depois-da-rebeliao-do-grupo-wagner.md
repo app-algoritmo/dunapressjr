@@ -1,11 +1,12 @@
 ---
-title: "Zelensky: 'A fraqueza da Rússia é evidente, depois da rebelião do grupo Wagner'"
+title: 'Zelensky: ''A fraqueza da Rússia é evidente, depois da rebelião do grupo Wagner'''
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O presidente ucraniano afirmou que "quem escolhe o caminho do mal destrói a si mesmo".
 

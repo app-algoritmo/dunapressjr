@@ -1,11 +1,12 @@
 ---
-title: "Cartas de um diabo para seu Aprendiz- Parte II"
+title: Cartas de um diabo para seu Aprendiz- Parte II
 date: 2020-06-15
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 A mera instrução em moralidade não é suficiente para fomentar as virtudes. O tiro pode mesmo sair pela culatra, principalmente se a palestra for intensamente exortativa, e a vontade dos alunos, coagida. Ao contrário, uma visão convincente de que o bem é algo bom em si mesmo precisa ser apresentada de uma forma atraente e que estimule a imaginação. Uma boa educação moral dirige-se tanto à dimensão cognitiva quanto à dimensão afetiva da natureza humana. As histórias são um instrumento insubstituível desse tipo de educação moral. Isso é a educação do caráter. (Os Contos de Fadas e o Despertar da Imaginação Moral - Blog Como Educar seus Filhos)
 

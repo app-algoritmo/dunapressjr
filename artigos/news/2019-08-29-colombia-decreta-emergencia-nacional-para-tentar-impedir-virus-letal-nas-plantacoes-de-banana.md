@@ -1,11 +1,13 @@
 ---
-title: "Colômbia decreta  emergência nacional para tentar impedir vírus letal nas plantações de banana"
+title: Colômbia decreta  emergência nacional para tentar impedir vírus letal nas plantações
+  de banana
 date: 2019-08-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## **Um cogumelo devastador ameaça a produção de banana da Colômbia, um dos maiores exportadores do mundo**.
 

@@ -1,11 +1,13 @@
 ---
-title: "Faça um tour pela 'antiga casa do rei Davi', na cidade bíblica de Ziclague, do século 10 aC"
+title: Faça um tour pela 'antiga casa do rei Davi', na cidade bíblica de Ziclague,
+  do século 10 aC
 date: 2021-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Enquanto pesquisava o Vale de Elah em 2007, o arqueólogo Saar Ganor olhou em volta e viu algo estranho projetando-se do solo. Em um exame mais aprofundado, ele se perguntou se poderia ser parte de uma cidade antiga. Seu palpite estava certo, e as escavações resultantes realizadas por Yosef Garfinkel da Universidade Hebraica e Ganor, arqueólogo do distrito de Ashkelon na Autoridade de Antiguidades de Israel, revelaram o que parecia ser uma cidade da Judéia.
 

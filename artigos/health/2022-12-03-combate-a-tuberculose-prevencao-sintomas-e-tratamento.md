@@ -1,11 +1,12 @@
 ---
-title: "Combate à Tuberculose, prevenção, sintomas e tratamento"
+title: Combate à Tuberculose, prevenção, sintomas e tratamento
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Apesar de ser uma enfermidade antiga, que pode ser prevenida e curada, a tuberculose continua sendo um importante problema de saúde pública, prevalecendo em condições de pobreza e contribuindo para a perpetuação da desigualdade social.
 

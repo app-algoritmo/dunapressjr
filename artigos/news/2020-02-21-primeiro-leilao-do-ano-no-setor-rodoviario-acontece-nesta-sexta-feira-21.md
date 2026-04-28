@@ -1,11 +1,12 @@
 ---
-title: "Primeiro leilão do ano no setor rodoviário acontece nesta sexta-feira (21)"
+title: Primeiro leilão do ano no setor rodoviário acontece nesta sexta-feira (21)
 date: 2020-02-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Trecho leiloado será da BR-101/SC e prevê investimentos de R$ 7,4 bilhões, além de diversas melhorias para os usuários
 

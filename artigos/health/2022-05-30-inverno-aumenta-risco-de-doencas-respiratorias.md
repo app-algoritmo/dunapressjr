@@ -1,11 +1,12 @@
 ---
-title: "Inverno aumenta risco de doenças respiratórias"
+title: Inverno aumenta risco de doenças respiratórias
 date: 2022-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O início do inverno é motivo de atenção para as doenças respiratórias. As temperaturas mais baixas favorecem a disseminação dos vírus causadores de infecções como gripe, resfriado e a própria covid-19, que ainda não está totalmente controlada. Além dessas, doenças como sinusite, rinite e crises de asma e bronquite aumentam consideravelmente. A transmissão dessas doenças ocorre muito por conta do confinamento e permanência em espaços fechados e com pouca ventilação, o que facilita a circulação de microrganismos, principalmente vírus respiratórios.
 

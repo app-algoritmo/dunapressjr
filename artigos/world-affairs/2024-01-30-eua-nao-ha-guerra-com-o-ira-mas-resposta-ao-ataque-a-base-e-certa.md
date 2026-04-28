@@ -1,11 +1,12 @@
 ---
-title: "EUA: Não há guerra com o Irã, mas resposta ao ataque à base é certa"
+title: 'EUA: Não há guerra com o Irã, mas resposta ao ataque à base é certa'
 date: 2024-01-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Defesa dos EUA (Pentágono) reiterou na segunda-feira que Washington responderia a um ataque de drone contra uma base americana na Jordânia que matou três soldados e feriu outros 40, mas disse que o país não está atrás de uma guerra com o Irã.
 

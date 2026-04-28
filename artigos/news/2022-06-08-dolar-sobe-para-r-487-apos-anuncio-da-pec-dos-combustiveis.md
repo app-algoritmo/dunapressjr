@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 4,87 após anúncio da PEC dos Combustíveis"
+title: Dólar sobe para R$ 4,87 após anúncio da PEC dos Combustíveis
 date: 2022-06-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa de valores alterna altas e baixas, mas fecha com queda de 0,11%
 

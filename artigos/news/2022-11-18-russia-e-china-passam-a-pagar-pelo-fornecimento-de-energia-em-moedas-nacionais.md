@@ -1,11 +1,12 @@
 ---
-title: "Rússia e China passam a pagar pelo fornecimento de energia em moedas nacionais"
+title: Rússia e China passam a pagar pelo fornecimento de energia em moedas nacionais
 date: 2022-11-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O vice-primeiro-ministro da Federação Russa, Alexander Novak, também disse que o pagamento pelo fornecimento de petróleo e derivados é ativamente transferido para as moedas nacionais da Rússia e da China.
 

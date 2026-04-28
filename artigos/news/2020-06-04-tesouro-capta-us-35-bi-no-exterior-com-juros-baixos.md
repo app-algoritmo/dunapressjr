@@ -1,11 +1,12 @@
 ---
-title: "Tesouro capta US$ 3,5 bi no exterior com juros baixos"
+title: Tesouro capta US$ 3,5 bi no exterior com juros baixos
 date: 2020-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Taxa para papéis de dez anos ficou próxima a nível pré-pandemia.
 

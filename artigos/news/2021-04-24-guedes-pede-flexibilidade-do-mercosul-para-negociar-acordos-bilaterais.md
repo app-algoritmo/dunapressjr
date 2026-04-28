@@ -1,11 +1,12 @@
 ---
-title: "Guedes pede flexibilidade do Mercosul para negociar acordos bilaterais"
+title: Guedes pede flexibilidade do Mercosul para negociar acordos bilaterais
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro também defendeu redução de tarifa externa comum.
 

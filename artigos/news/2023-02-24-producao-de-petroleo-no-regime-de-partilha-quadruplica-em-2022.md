@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo no regime de partilha quadruplica em 2022"
+title: Produção de petróleo no regime de partilha quadruplica em 2022
 date: 2023-02-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Principais produtores no ano passado foram os campos de Búzios e Mero.
 

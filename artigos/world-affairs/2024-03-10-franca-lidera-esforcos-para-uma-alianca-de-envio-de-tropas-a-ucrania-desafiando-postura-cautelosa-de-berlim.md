@@ -1,11 +1,13 @@
 ---
-title: "França lidera esforços para uma aliança de envio de tropas à Ucrânia, desafiando postura cautelosa de Berlim"
+title: França lidera esforços para uma aliança de envio de tropas à Ucrânia, desafiando
+  postura cautelosa de Berlim
 date: 2024-03-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A França está dando passos decisivos para formar uma aliança de países dispostos a enviar tropas para a Ucrânia, desafiando a postura mais cautelosa de Berlim, relatou o jornal Politico. O ministro dos Negócios Estrangeiros francês, Stephane Sejourne, durante uma visita à Lituânia, delineou a iniciativa, destacando uma oportunidade para o envio de tropas da NATO para a Ucrânia, focadas na desminagem e não diretamente envolvidas em hostilidades.
 

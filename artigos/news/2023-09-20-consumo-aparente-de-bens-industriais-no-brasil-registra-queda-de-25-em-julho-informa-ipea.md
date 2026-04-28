@@ -1,11 +1,13 @@
 ---
-title: "Consumo aparente de bens industriais no Brasil registra queda de 2,5% em julho, Informa Ipea"
+title: Consumo aparente de bens industriais no Brasil registra queda de 2,5% em julho,
+  Informa Ipea
 date: 2023-09-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Indicador Ipea de Consumo Aparente de Bens Industriais apresenta recuo após crescimento em junho; trimestre móvel encerra com queda de 0,3%, impactando a economia nacional.
 

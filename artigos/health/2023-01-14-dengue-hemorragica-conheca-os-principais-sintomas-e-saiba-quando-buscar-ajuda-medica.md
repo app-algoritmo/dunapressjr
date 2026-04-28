@@ -1,11 +1,13 @@
 ---
-title: "Dengue hemorrágica: conheça os principais sintomas e saiba quando buscar ajuda médica"
+title: 'Dengue hemorrágica: conheça os principais sintomas e saiba quando buscar ajuda
+  médica'
 date: 2023-01-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de metade da população mundial vive em risco constante de contrair algum vírus da dengue. Transmitida pelo mosquito *Aedes aegypti,* a doença se manifesta de forma leve ou assintomática na maioria dos casos, mas **uma em cada 20 pessoas** pode desenvolver a forma grave, também chamada de dengue hemorrágica, segundo o Centro de Controle e Prevenção de Doenças (CDC) dos Estados Unidos. O risco é maior quando o indivíduo sofre uma segunda infecção, o que pode ocorrer devido à existência de quatro subtipos do vírus (DENV-1, DENV-2, DENV-3 e DENV-4).
 

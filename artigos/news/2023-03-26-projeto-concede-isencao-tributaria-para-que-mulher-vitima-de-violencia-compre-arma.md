@@ -1,11 +1,13 @@
 ---
-title: "Projeto concede isenção tributária para que mulher vítima de violência compre arma"
+title: Projeto concede isenção tributária para que mulher vítima de violência compre
+  arma
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 766/23 isenta mulheres vítimas de violência ou que exerçam atividade noturna do Imposto sobre Produtos Industrializados (IPI) para compra de armas. Atualmente, é aplicada alíquota de 45% de IPI sobre pistolas e revólveres.
 

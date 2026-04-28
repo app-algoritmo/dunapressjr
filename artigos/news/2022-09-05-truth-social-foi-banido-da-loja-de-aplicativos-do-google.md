@@ -1,11 +1,12 @@
 ---
-title: "Truth Social foi banido da loja de aplicativos do Google"
+title: Truth Social foi banido da loja de aplicativos do Google
 date: 2022-09-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A rede social de Donald Trump.
 

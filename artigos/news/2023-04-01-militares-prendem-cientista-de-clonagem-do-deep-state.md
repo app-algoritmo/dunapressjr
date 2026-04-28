@@ -1,11 +1,12 @@
 ---
-title: "Militares prendem “cientista de clonagem” do Deep State"
+title: Militares prendem “cientista de clonagem” do Deep State
 date: 2023-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo prorroga restrição para desembarque de estrangeiros pelos portos do país"
+title: Governo prorroga restrição para desembarque de estrangeiros pelos portos do
+  país
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 27/04/2020 -** O Ministério da Justiça e Segurança Pública, os ministérios da Infraestrutura, Saúde e Casa Civil prorrogaram a restrição de entrada de estrangeiros por transporte aquaviário no Brasil, conforme recomendações da Agência Nacional de Vigilância Sanitária (Anvisa). A Portaria interministerial nº 201 foi publicada no Diário Oficial da União (DOU) nesta segunda-feira (27).
 

@@ -1,11 +1,13 @@
 ---
-title: "FMI prevê crescimento econômico moderado na América Latina em 2023, com persistente pressão inflacionária"
+title: FMI prevê crescimento econômico moderado na América Latina em 2023, com persistente
+  pressão inflacionária
 date: 2023-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A estimativa do crescimento da região é 1,6% no ano.
 

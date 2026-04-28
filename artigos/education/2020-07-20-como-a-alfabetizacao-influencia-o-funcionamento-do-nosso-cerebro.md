@@ -1,11 +1,12 @@
 ---
-title: "Como a alfabetização influencia o funcionamento do nosso cérebro"
+title: Como a alfabetização influencia o funcionamento do nosso cérebro
 date: 2020-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 *Será que o aprendizado das letras e das palavras ajuda o nosso cérebro a melhorar outras funções não ligadas à leitura? Será que, ao adquirirmos a habilidade de ler, outras funções do cérebro podem ser estimuladas? *
 

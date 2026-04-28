@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de venda da gasolina para distribuidoras"
+title: Petrobras reduz preço de venda da gasolina para distribuidoras
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida entra em vigor nesta sexta-feira.
 

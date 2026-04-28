@@ -1,11 +1,13 @@
 ---
-title: "Processo no Texas diz que a Pfizer “distribuiu conscientemente” medicamentos adulterados para crianças"
+title: Processo no Texas diz que a Pfizer “distribuiu conscientemente” medicamentos
+  adulterados para crianças
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma ação legal aberta em 20 de novembro [mostra que](https://www.theepochtimes.com/us/pfizer-knowingly-distributed-adulterated-drugs-to-children-lawsuit-5532138) o procurador-geral do Texas, Ken Paxton, está perseguindo a Pfizer e um de seus parceiros por distribuir conscientemente um medicamento adulterado para crianças.
 

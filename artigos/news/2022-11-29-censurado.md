@@ -1,11 +1,12 @@
 ---
-title: "Censurado"
+title: Censurado
 date: 2022-11-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A maior rede de televisão dos Estados Unidos da América fala o que televisões locais tentam esconder do mundo: os 29 dias das multitudinárias manifestações de protestas pacíficas contra a fraude eleitoral no Brasil.
 

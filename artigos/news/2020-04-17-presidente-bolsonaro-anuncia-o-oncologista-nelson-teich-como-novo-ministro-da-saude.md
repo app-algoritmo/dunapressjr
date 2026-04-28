@@ -1,11 +1,13 @@
 ---
-title: "Presidente Bolsonaro anuncia o oncologista Nelson Teich como novo ministro da Saúde"
+title: Presidente Bolsonaro anuncia o oncologista Nelson Teich como novo ministro
+  da Saúde
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, anunciou nesta quinta-feira (16), durante coletiva à imprensa no Palácio do Planalto, que o oncologista Nelson Teich assumirá o Ministério da Saúde em substituição a Luiz Henrique Mandetta. “Foi um divórcio consensual, porque, acima de mim, como presidente, e dele, como ministro, está a saúde do povo brasileiro. A vida para todos nós está em primeiro lugar”, declarou Bolsonaro.
 

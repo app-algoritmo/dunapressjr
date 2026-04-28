@@ -1,11 +1,12 @@
 ---
-title: "Governo suspende por 120 dias bloqueio de pagamento de benefícios"
+title: Governo suspende por 120 dias bloqueio de pagamento de benefícios
 date: 2020-03-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Portaria foi publicada hoje no Diário Oficial da União
 

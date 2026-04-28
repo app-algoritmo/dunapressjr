@@ -1,11 +1,12 @@
 ---
-title: "Sondagem da CNI aponta queda na atividade da construção civil"
+title: Sondagem da CNI aponta queda na atividade da construção civil
 date: 2020-05-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo a confederação, março foi fortemente afetado pela pandemia
 A atividade industrial na construção civil caiu de forma inédita de fevereiro para março, informou a Confederação Nacional da Indústria (CNI), hoje (5), na Sondagem Indústria da Construção. Segundo a confederação, o mês de março de 2020 foi fortemente afetado pela pandemia do novo coronavírus (covid-19). A sondagem colheu informações com 411 empresas, sendo 143 de pequeno porte, 181 de médio porte e 87 de grande porte.

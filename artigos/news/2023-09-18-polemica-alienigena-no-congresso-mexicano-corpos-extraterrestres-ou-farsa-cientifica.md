@@ -1,11 +1,13 @@
 ---
-title: "Polêmica Alienígena no Congresso Mexicano: Corpos Extraterrestres ou Farsa Científica?"
+title: 'Polêmica Alienígena no Congresso Mexicano: Corpos Extraterrestres ou Farsa
+  Científica?'
 date: 2023-09-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 CIDADE DO MÉXICO (Reuters) - Uma audiência sobre OVNIs no Congresso do México, que contou com a apresentação de supostos restos mortais de seres não humanos, enfrentou rápida reação internacional nesta quinta-feira, com críticos rotulando-a de "façanha" e perguntas de autoridades no Peru, onde os espécimes aparentes surgiram pela primeira vez.
 

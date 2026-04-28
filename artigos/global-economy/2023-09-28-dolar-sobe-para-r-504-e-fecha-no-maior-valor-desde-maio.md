@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,04 e fecha no maior valor desde maio"
+title: Dólar sobe para R$ 5,04 e fecha no maior valor desde maio
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa avança 0,12% e encerra sequência de cinco quedas.
 

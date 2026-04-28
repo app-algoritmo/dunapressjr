@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: CGU e PF combatem irregularidades na saúde em São Luís (MA)"
+title: 'Covid-19: CGU e PF combatem irregularidades na saúde em São Luís (MA)'
 date: 2020-10-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Oficina Desmascarada investiga fraudes na contratação emergencial de empresas para fornecimento de equipamentos de proteção individual.
 

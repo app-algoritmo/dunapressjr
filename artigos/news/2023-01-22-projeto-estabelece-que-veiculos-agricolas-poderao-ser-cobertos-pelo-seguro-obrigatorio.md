@@ -1,11 +1,13 @@
 ---
-title: "Projeto estabelece que veículos agrícolas poderão ser cobertos pelo seguro obrigatório"
+title: Projeto estabelece que veículos agrícolas poderão ser cobertos pelo seguro
+  obrigatório
 date: 2023-01-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2958/22 estabelece que os veículos agrícolas que transitam por via terrestre poderão ser cobertos pelo Seguro Obrigatório de Danos Pessoais (DPVAT). A cobertura vale para os veículos parados ou em trânsito. Atualmente, veículos agrícolas não são cobertos pelo benefício.
 

@@ -1,11 +1,13 @@
 ---
-title: "Rússia continuará com cortes voluntários nas exportações de petróleo em 300 mil barris por dia até o final do ano"
+title: Rússia continuará com cortes voluntários nas exportações de petróleo em 300
+  mil barris por dia até o final do ano
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo o vice-primeiro-ministro russo, em dezembro vão analisar o mercado para tomar uma decisão sobre aprofundar a redução ou aumentar a produção de produtos petrolíferos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Família Desesperada Clama por Justiça após Assassinato Brutal em Gata de Gorgos"
+title: Família Desesperada Clama por Justiça após Assassinato Brutal em Gata de Gorgos
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A comunidade de Gata de Gorgos, em Alicante, está em choque após um homem ter sido brutalmente assassinado neste sábado, supostamente por um grupo de homens marroquinos usando um taco de beisebol. O tio da vítima, em entrevista comovente, descreveu o ataque como um ato de retaliação após seu sobrinho intervir para proteger jovens que estavam sendo assediadas repetidamente.
 

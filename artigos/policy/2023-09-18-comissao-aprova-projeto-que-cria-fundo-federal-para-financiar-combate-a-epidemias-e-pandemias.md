@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que cria fundo federal para financiar combate a epidemias e pandemias"
+title: Comissão aprova projeto que cria fundo federal para financiar combate a epidemias
+  e pandemias
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Recursos poderão ser utilizado para a aquisição, pelo SUS, de insumos hospitalares e na capacitação de agentes de saúde.
 

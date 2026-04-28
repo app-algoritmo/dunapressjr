@@ -1,11 +1,12 @@
 ---
-title: "Ações de estímulo ao turismo em parques nacionais cresceram 10 vezes em 2020"
+title: Ações de estímulo ao turismo em parques nacionais cresceram 10 vezes em 2020
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde o final de 2019, ficou mais fácil prestar serviços em parques nacionais. Avanços em gestão e regulamentação no ICMBio removeram a burocracia e tornaram mais claras as regras para viabilizar serviços turísticos como condução de visitantes, transporte, alimentação, aluguel de equipamentos e atividades esportivas em parques nacionais.
 

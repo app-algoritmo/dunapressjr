@@ -1,11 +1,12 @@
 ---
-title: "Robert Malone: muito do coronavírus ainda não foi explorado"
+title: 'Robert Malone: muito do coronavírus ainda não foi explorado'
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 "Foi acordado um quid pro quo e transferimos tecnologia para o Instituto de Virologia de Wuhan para permitir que um número limitado de funcionários visualize o trabalho lá...".
 

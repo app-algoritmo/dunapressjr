@@ -1,11 +1,12 @@
 ---
-title: "O uso de máscara representa medo e obediência cega, não ciência"
+title: O uso de máscara representa medo e obediência cega, não ciência
 date: 2021-04-19
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Quando vejo pessoas andando nas ruas, muitas vezes sozinhas, sem ninguém perto delas, usando uma máscara, minhas reações principais são de decepção e tristeza. Estou desapontado porque esperava mais dos americanos. Nunca pensei que a maioria dos americanos seria governada por medo irracional e obediência indubitável à autoridade. Compreendi que tinha uma visão ligeiramente romantizada de meus compatriotas. Se você tivesse me dito um ano atrás que quase todos os americanos em quase todas as áreas urbanas cobririam seus rostos por mais de um ano porque um homem, um partido político e a mídia pediram, eu teria respondido que você subestima a força do personagem americano. Mas aqui estamos nós, mais de um ano depois, e onde eu moro (área de Los Angeles), geralmente sou a única pessoa na rua que não usa máscara.
 

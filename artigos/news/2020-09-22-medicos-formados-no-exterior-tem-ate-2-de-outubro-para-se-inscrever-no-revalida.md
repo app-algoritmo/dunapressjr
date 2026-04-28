@@ -1,11 +1,12 @@
 ---
-title: "Médicos formados no exterior têm até 2 de outubro para se inscrever no Revalida"
+title: Médicos formados no exterior têm até 2 de outubro para se inscrever no Revalida
 date: 2020-09-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para atuar no Brasil, médicos com diploma de outros países precisam comprovar conhecimentos e habilidades na área. Exame não ocorre desde 2017. 
 

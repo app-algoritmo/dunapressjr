@@ -1,11 +1,13 @@
 ---
-title: "IBGE: IPCA-15 registra -0,07% em Julho, com destaque para os estados de São Paulo e Porto Alegre"
+title: 'IBGE: IPCA-15 registra -0,07% em Julho, com destaque para os estados de São
+  Paulo e Porto Alegre'
 date: 2023-07-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Preços em declínio de energia elétrica e alimentos influenciam o índice; Aumento da gasolina e passagens aéreas impulsionam o setor de Transportes.
 

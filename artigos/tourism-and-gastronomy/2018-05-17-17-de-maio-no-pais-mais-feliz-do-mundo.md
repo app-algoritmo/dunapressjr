@@ -1,11 +1,12 @@
 ---
-title: "17 de maio no país mais feliz do mundo!"
+title: 17 de maio no país mais feliz do mundo!
 date: 2018-05-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 *Gratulerer med dagen *porque hoje o dia é muito especial. Um dia para jamais se esquecer. O Dia Nacional da Noruega! O feriado mais importante do país é marcado por desfiles simplesmente emocionantes. As ruas transformam-se em um mar azul e vermelho. Bandeiras nacionais estão hasteadas em todas as casas onde as pessoas se reúnem para desfrutar dos pratos típicos e assistir aos desfiles. É um momento de comunhão, fraternidade e patriotismo que não se resume somente àquele dia: a Noruega é assim o ano inteiro. Noruega é uma nação unida repleta de sólidos valores nacionalistas, éticos, cristãos e morais; um país monarquista e, portanto, muito estável e cuja excelência nas áreas de educação, saúde e desenvolvimento humano integral estão entre os mais elevados do mundo por consecutivos anos.
 

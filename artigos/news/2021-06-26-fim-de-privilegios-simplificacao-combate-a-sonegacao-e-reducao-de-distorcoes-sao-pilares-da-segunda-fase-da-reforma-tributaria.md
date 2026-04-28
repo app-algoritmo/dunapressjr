@@ -1,11 +1,13 @@
 ---
-title: "Fim de privilégios, simplificação, combate à sonegação e redução de distorções são pilares da segunda fase da Reforma Tributária"
+title: Fim de privilégios, simplificação, combate à sonegação e redução de distorções
+  são pilares da segunda fase da Reforma Tributária
 date: 2021-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mudanças previstas preveem manutenção da carga tributária global, sem aumento do peso dos impostos sobre os brasileiros.
 

@@ -1,11 +1,13 @@
 ---
-title: "Professor do MIT indiciado por acusações relacionadas a fraude de concessão para China"
+title: Professor do MIT indiciado por acusações relacionadas a fraude de concessão
+  para China
 date: 2021-01-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Um professor e pesquisador do Massachusetts Institute of Technology (MIT) foi indiciado ontem por um grande júri federal em conexão com a não divulgação de contratos, nomeações e prêmios de várias entidades na República Popular da China (PRC) para o Departamento de Energia.
 

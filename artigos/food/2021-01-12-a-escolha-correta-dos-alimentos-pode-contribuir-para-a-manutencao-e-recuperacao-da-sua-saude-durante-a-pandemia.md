@@ -1,11 +1,13 @@
 ---
-title: "A escolha correta dos alimentos pode contribuir para a manutenção e recuperação da sua saúde durante a pandemia"
+title: A escolha correta dos alimentos pode contribuir para a manutenção e recuperação
+  da sua saúde durante a pandemia
 date: 2021-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 A função dos alimentos vai muito além de simplesmente nos manter saciados. Uma alimentação adequada e saudável garante uma boa nutrição e o funcionamento adequado de todo o corpo. Portanto, ela influencia, e muito, na saúde. 
 

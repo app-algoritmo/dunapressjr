@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,70 após discurso mais duro do Fed"
+title: Dólar ultrapassa R$ 5,70 após discurso mais duro do Fed
 date: 2022-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa teve maior queda diária desde novembro.
 

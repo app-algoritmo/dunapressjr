@@ -1,11 +1,13 @@
 ---
-title: "Algoritmo do Facebook encontrado para empurrar a negação do Holocausto para os usuários"
+title: Algoritmo do Facebook encontrado para empurrar a negação do Holocausto para
+  os usuários
 date: 2020-08-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Grupo de contra-extremismo do Reino Unido diz que a plataforma do gigante da mídia social sugere conteúdo de negação quando os usuários procuram a palavra 'Holocausto'. e que essas páginas oferecem ainda mais links.
 

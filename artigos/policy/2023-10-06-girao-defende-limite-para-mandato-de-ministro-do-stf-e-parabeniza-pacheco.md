@@ -1,11 +1,12 @@
 ---
-title: "Girão defende limite para mandato de ministro do STF e parabeniza Pacheco"
+title: Girão defende limite para mandato de ministro do STF e parabeniza Pacheco
 date: 2023-10-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A limitação de mandato para os ministros do Supremo Tribunal Federal (STF) precisa ser apoiada, defendeu o senador Eduardo Girão (Novo-CE) em pronunciamento nesta terça-feira (3). Girão elogiou o presidente do Senado, Rodrigo Pacheco, por ser favorável à necessidade de o Congresso Nacional discutir uma Proposta de Emenda à Constituição (PEC) com esse objetivo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O Piauí e o começo das Guerras da Independência"
+title: 'Série Fatos Da Independência: O Piauí e o começo das Guerras da Independência'
 date: 2023-07-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O Governador de Armas não havia ainda entrado em Parnaíba com a sua tropa, quando em 13 de dezembro de 1822, em Oeiras, um grupo de homens invadiu a Casa da Pólvora, rendeu os guardas e roubou as armas ali estocadas. Era um preparativo para a tomada do poder na cidade. A Junta de Governo do Piauí, instalada na capital, se recusava a apoiar Dom Pedro e, assim, menos de um mês após o assalto à Casa da Pólvora na madrugada do dia 24 de janeiro de 1823, a Junta foi deposta. Demandando apoio à independência, o grupo que realizou a ação optou pela realização de uma nova eleição e proclamou fidelidade ao “Governo do Imperador Constitucional, e Perpetuo Defensor deste vasto Reino o Senhor D. Pedro d’Alcantara, e as Cortes Brazilienses”.
 

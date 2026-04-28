@@ -1,11 +1,12 @@
 ---
-title: "Um dos últimos parentes vivos de Adolf Hitler estava noivo de uma judia"
+title: Um dos últimos parentes vivos de Adolf Hitler estava noivo de uma judia
 date: 2021-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Sobrinho-neto americano do ditador nazista revela que seu irmão pediu em casamento sua namorada judia, mas ela rompeu o noivado quando descobriu a história sombria de sua família.
 

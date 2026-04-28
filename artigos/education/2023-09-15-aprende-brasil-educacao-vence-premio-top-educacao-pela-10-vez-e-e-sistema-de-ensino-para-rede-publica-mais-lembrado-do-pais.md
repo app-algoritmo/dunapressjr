@@ -1,11 +1,13 @@
 ---
-title: "Aprende Brasil Educação vence prêmio Top Educação pela 10ª vez e é sistema de ensino para rede pública mais lembrado do país"
+title: Aprende Brasil Educação vence prêmio Top Educação pela 10ª vez e é sistema
+  de ensino para rede pública mais lembrado do país
 date: 2023-09-15
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## A Aprende Brasil Educação conquistou, pela 10ª vez, o prêmio Top Educação na categoria Sistema de Ensino para a Rede Pública. Promovido pela Revista Educação.
 

@@ -1,11 +1,12 @@
 ---
-title: "Pfizer deve solicitar aprovação para vacinar crianças de 2 a 11 anos"
+title: Pfizer deve solicitar aprovação para vacinar crianças de 2 a 11 anos
 date: 2021-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A Pfizer, que está trabalhando em uma vacina com vida útil mais longa no refrigerador, vai solicitar a aprovação para vacinar crianças mais novas neste outono, disse o CEO Bourla.
 

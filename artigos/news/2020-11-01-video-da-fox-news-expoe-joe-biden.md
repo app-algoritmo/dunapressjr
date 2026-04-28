@@ -1,11 +1,12 @@
 ---
-title: "Video da Fox News  expõe Joe Biden"
+title: Video da Fox News  expõe Joe Biden
 date: 2020-11-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A poucos dias para eleitores americanos irem as urnas, revelações saltam a luz e Joe Biden a caminho do fracasso. Empresas, fundos milionários, conglomerados de energia, oligarcas e ditadores de terceiro mundo.
 

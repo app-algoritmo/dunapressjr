@@ -1,11 +1,12 @@
 ---
-title: "Medida que desburocratiza abertura de empresas é realidade em quase todo país"
+title: Medida que desburocratiza abertura de empresas é realidade em quase todo país
 date: 2021-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dispensa de uma das etapas no processo de registro e legalização de empresas simplifica processo de registro e legalização de novos negócios em 23 estados e no DF.
 

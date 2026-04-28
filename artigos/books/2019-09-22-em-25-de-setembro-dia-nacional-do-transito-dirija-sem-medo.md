@@ -1,11 +1,12 @@
 ---
-title: "Em 25 de setembro, Dia Nacional do Trânsito, dirija sem medo!"
+title: Em 25 de setembro, Dia Nacional do Trânsito, dirija sem medo!
 date: 2019-09-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
+- Books
 ---
+
 
 ## A renomada Psicóloga Adriana de Araújo, escritora best-seller na Itália, pode te ajudar a dirigir sem medo!
 

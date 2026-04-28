@@ -1,11 +1,13 @@
 ---
-title: "IBGE: INPC registra deflação de 0,10% em junho, com produtos alimentícios em queda"
+title: 'IBGE: INPC registra deflação de 0,10% em junho, com produtos alimentícios
+  em queda'
 date: 2023-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda nos preços de alimentos e desaceleração nos produtos não alimentícios influenciam o índice.
 

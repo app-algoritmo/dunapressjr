@@ -1,11 +1,13 @@
 ---
-title: "Estados recebem mais de 100 milhões de equipamentos de proteção do Governo Federal"
+title: Estados recebem mais de 100 milhões de equipamentos de proteção do Governo
+  Federal
 date: 2020-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para garantir a proteção de profissionais de saúde que atuam na linha de frente do enfrentamento à Covid-19, o Ministério da Saúde já distribuiu 115,2 milhões de Equipamentos de Proteção Individual (EPIs) para todo o País. Entre os itens estão máscaras, aventais, óculos e protetores faciais, toucas, sapatilhas, luvas e álcool. As entregas vão ajudar a reforçar as redes de saúde dos estados e municípios no combate a pandemia da Covid-19.
 

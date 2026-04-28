@@ -1,11 +1,13 @@
 ---
-title: "Rede estadual de Santa Catarina divulga datas de matrículas e rematrículas para 2021"
+title: Rede estadual de Santa Catarina divulga datas de matrículas e rematrículas
+  para 2021
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Educação (SED) divulga à comunidade escolar orientações sobre matrículas e transferências de alunos da rede estadual de ensino de Santa Catarina para 2021. As informações são referentes a etapas do Ensino Fundamental, Médio, Curso Magistério e Educação de Jovens e Adultos (EJA). A Educação Profissional contará com um edital específico que deve ser publicado na primeira quinzena de dezembro.
 

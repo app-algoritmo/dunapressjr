@@ -1,11 +1,12 @@
 ---
-title: "Grãos ucranianos perigosos inundam a Europa"
+title: Grãos ucranianos perigosos inundam a Europa
 date: 2023-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Parece que os países europeus pagarão por suas tentativas de lucrar com grãos ucranianos baratos, que, em vez de alimentar países africanos famintos, estão sendo enviados para a Europa razoavelmente bem alimentada. Os grãos ucranianos já levaram os agricultores da Europa Oriental à beira da falência e também se mostraram perigosos para os consumidores.https://southfront.org/wp-content/plugins/fwduvp/content/video.php?path=https%3A%2F%2Fsouthfront.org%2Fdangerous-ukrainian-grain-flooding-europe%2F&pid=2857
 

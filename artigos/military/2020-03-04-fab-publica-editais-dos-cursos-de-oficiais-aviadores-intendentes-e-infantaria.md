@@ -1,11 +1,12 @@
 ---
-title: "FAB publica editais dos Cursos de Oficiais Aviadores, Intendentes e Infantaria"
+title: FAB publica editais dos Cursos de Oficiais Aviadores, Intendentes e Infantaria
 date: 2020-03-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Força Aérea Brasileira (FAB) divulgou os [editais](http://ingresso.afaepcar.aer.mil.br/afa2021.html) para os
 Exames de Admissão aos Cursos de Formação de Oficiais Aviadores ([IE/EA CFOAV

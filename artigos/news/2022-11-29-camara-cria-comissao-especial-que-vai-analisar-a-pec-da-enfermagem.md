@@ -1,11 +1,12 @@
 ---
-title: "Câmara cria comissão especial que vai analisar a PEC da Enfermagem"
+title: Câmara cria comissão especial que vai analisar a PEC da Enfermagem
 date: 2022-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi criada nesta quarta-feira (23) a comissão especial para analisar a [PEC 390/14](https://www.camara.leg.br/noticias/436640-pec-permite-gasto-maior-de-municipios-com-pessoal-em-saude-e-educacao), de autoria do deputado [André Figueiredo (PDT-CE)](https://www.camara.leg.br/deputados/133439), que autoriza a ampliação de limite de despesas com pessoal ativo nas áreas da saúde e da educação.
 

@@ -1,11 +1,13 @@
 ---
-title: "Aumento Alarmante de Cidadãos Chineses Entrando Ilegalmente nos EUA através da Fronteira Sul"
+title: Aumento Alarmante de Cidadãos Chineses Entrando Ilegalmente nos EUA através
+  da Fronteira Sul
 date: 2024-02-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No desastre da fronteira sul dos Estados Unidos, transformada em esgoto durante a administração Biden, espera-se ver centenas de milhares de hispânicos de todo o continente ao sul do Rio Grande entrarem no país, tal como está. Mas chinês? A geografia não ajuda exatamente a entendê-lo.
 

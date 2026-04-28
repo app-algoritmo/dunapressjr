@@ -1,11 +1,13 @@
 ---
-title: "Câmara do TCE/PB julga irregularidades despesas de R$ 17,1 milhões em empréstimos do Empreender-JP para servidores"
+title: Câmara do TCE/PB julga irregularidades despesas de R$ 17,1 milhões em empréstimos
+  do Empreender-JP para servidores
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A 1ª Câmara do Tribunal de Contas da Paraíba, após Inspeção Especial, julgou irregulares, nesta quinta-feira (3), 8,6 mil empréstimos concedidos entre 2005 e 2012 para servidores da Prefeitura de João Pessoa, em valor máximo de R$ 6,2 mil cada, por meio do Fundo Municipal de Apoio aos Pequenos Negócios (Empreender - JP). As despesas totalizaram R$ 17,1 milhões.
 

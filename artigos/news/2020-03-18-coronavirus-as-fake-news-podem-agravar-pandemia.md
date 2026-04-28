@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus:  As 'Fake News' podem agravar pandemia"
+title: 'Coronavírus:  As ''Fake News'' podem agravar pandemia'
 date: 2020-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ao longo da Emergência de Saúde Pública de Importância Internacional em decorrência do coronavírus (Covid-19), o Ministério da Saúde identificou uma série de informações falsas, também conhecidas como *fake news*, sobre a doença. A desinformação e a informação equivocada podem acarretar uma série de problemas, incluindo aumento do risco de exposição ao vírus e agravamento dos quadros de saúde dos infectados. 
 

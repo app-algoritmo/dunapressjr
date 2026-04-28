@@ -1,11 +1,13 @@
 ---
-title: "Município de Itajaí ganha prêmio nacional por ações de sustentabilidade na Marejada 2019"
+title: Município de Itajaí ganha prêmio nacional por ações de sustentabilidade na
+  Marejada 2019
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Turismo e Eventos de Itajaí recebeu o prêmio nacional de Melhores Práticas de Sustentabilidade pelas ações realizadas na Marejada 2019. A premiação da Agência Ambiental da Administração Pública (A3P), do Ministério do Meio Ambiente, foi divulgada nesta quinta-feira (17). O município foi contemplado na categoria especial Combate ao Lixo no Mar.
 

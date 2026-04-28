@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 5.717 casos confirmados de coronavírus e 201 mortes"
+title: Brasil registra 5.717 casos confirmados de coronavírus e 201 mortes
 date: 2020-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde,  terça, 31 de Março de 2020, 17h21. Última atualização em terça, 31 de Março de 2020, 17h21.
 

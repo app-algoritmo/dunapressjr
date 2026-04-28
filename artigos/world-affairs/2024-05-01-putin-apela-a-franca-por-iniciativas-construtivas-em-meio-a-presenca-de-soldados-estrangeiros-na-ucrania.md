@@ -1,11 +1,13 @@
 ---
-title: "Putin Apela à França por Iniciativas Construtivas em Meio à Presença de Soldados Estrangeiros na Ucrânia"
+title: Putin Apela à França por Iniciativas Construtivas em Meio à Presença de Soldados
+  Estrangeiros na Ucrânia
 date: 2024-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://twitter.com/i/status/1769700990637265257
 

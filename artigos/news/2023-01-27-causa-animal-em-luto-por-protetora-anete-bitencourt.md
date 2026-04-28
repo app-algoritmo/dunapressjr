@@ -1,11 +1,12 @@
 ---
-title: "Causa animal em luto por protetora Anete Bitencourt"
+title: Causa animal em luto por protetora Anete Bitencourt
 date: 2023-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Anete Bittencourt, Uma mulher forte, guerreira, lutadora, com um coração lindo e cheio de bondade, e inspiradora com um amor pelos animais inexplicável que como ela mesmo dizia era o seu legado, era a sua missão de vida, resgatar, cuidar, e proteger os animais! 
 

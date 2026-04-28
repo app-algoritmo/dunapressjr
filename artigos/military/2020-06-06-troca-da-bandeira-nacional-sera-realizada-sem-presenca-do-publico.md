@@ -1,11 +1,12 @@
 ---
-title: "Troca da Bandeira Nacional será realizada sem presença do público"
+title: Troca da Bandeira Nacional será realizada sem presença do público
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A tradicional cerimônia de Troca da Bandeira Nacional na Praça dos Três Poderes está temporariamente suspensa ao público, em decorrência da pandemia do novo coronavírus. A determinação partiu do Ministério da Defesa para atender às recomendações da Organização Mundial de Saúde (OMS).
 

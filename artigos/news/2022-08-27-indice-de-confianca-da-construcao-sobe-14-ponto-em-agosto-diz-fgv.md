@@ -1,11 +1,12 @@
 ---
-title: "Índice de Confiança da Construção sobe 1,4 ponto em agosto, diz FGV"
+title: Índice de Confiança da Construção sobe 1,4 ponto em agosto, diz FGV
 date: 2022-08-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É o maior nível desde dezembro de 2013.
 

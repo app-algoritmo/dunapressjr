@@ -1,11 +1,12 @@
 ---
-title: "Lira assume comando do grupo de presidentes de parlamentos do G-20"
+title: Lira assume comando do grupo de presidentes de parlamentos do G-20
 date: 2023-10-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O presidente da Câmara reiterou a posição do Brasil contrária a agressões militares e defendeu o diálogo para resolver conflitos.
 

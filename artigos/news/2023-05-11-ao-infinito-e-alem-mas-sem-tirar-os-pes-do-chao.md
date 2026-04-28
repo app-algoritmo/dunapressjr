@@ -1,11 +1,12 @@
 ---
-title: "Ao infinito e além, mas sem tirar os pés do chão"
+title: Ao infinito e além, mas sem tirar os pés do chão
 date: 2023-05-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por *Cesar Cantarella**
 

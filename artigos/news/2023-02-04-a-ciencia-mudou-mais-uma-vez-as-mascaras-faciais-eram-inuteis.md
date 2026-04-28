@@ -1,11 +1,12 @@
 ---
-title: "A ciência mudou mais uma vez, as máscaras faciais eram inúteis"
+title: A ciência mudou mais uma vez, as máscaras faciais eram inúteis
 date: 2023-02-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Acontece que mentiram para nós...
 

@@ -1,11 +1,12 @@
 ---
-title: "A Crescente Dívida Pública Brasileira: Um Alerta Vermelho"
+title: 'A Crescente Dívida Pública Brasileira: Um Alerta Vermelho'
 date: 2023-10-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Brasil enfrenta atualmente um dos maiores desafios econômicos de sua história: uma dívida pública crescente que atingiu níveis preocupantes. O país está em um cenário em que os alarmes soam cada vez mais alto, com alertas vindos de fontes nacionais e internacionais, destacando a necessidade de ação imediata e responsável.
 

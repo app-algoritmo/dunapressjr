@@ -1,11 +1,12 @@
 ---
-title: "Metrô de BH é concedido à iniciativa privada por R$ 25,7 milhões"
+title: Metrô de BH é concedido à iniciativa privada por R$ 25,7 milhões
 date: 2022-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Contrato tem duração de 30 anos.
 

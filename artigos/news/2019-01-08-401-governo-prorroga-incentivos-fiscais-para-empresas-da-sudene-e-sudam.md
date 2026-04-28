@@ -1,11 +1,12 @@
 ---
-title: "4.01 Governo prorroga incentivos fiscais para empresas da Sudene e Sudam"
+title: 4.01 Governo prorroga incentivos fiscais para empresas da Sudene e Sudam
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Lei foi sancionada pelo presidente da República, Jair Bolsonaro
 

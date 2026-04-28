@@ -1,11 +1,12 @@
 ---
-title: "Argentina aprova 'lei omnibus' após intenso debate na Câmara dos Deputados"
+title: Argentina aprova 'lei omnibus' após intenso debate na Câmara dos Deputados
 date: 2024-05-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Após 20 horas de um intenso debate, a Câmara dos Deputados do Congresso da Argentina aprovou a tão discutida Lei de Bases e Pontos, também conhecida como 'lei omnibus'. Este projeto, considerado estrela do político Javier Milei, inclui uma série de reformas abrangentes, desde mudanças no mercado de trabalho até privatizações e uma reformulação completa do Estado.
 

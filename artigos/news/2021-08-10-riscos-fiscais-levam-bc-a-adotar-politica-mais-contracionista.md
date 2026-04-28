@@ -1,11 +1,12 @@
 ---
-title: "Riscos fiscais levam BC a adotar política mais contracionista"
+title: Riscos fiscais levam BC a adotar política mais contracionista
 date: 2021-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Autarquia elevou tava básica de juros a 5,25% na semana passada.
 

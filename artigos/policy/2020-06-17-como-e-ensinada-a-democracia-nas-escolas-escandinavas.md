@@ -1,11 +1,12 @@
 ---
-title: "Como é ensinada a democracia nas escolas escandinavas"
+title: Como é ensinada a democracia nas escolas escandinavas
 date: 2020-06-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## **O jogo da democracia, sucesso absoluto nas escolas**. "[Baixar o jogo completo aqui](https://drive.google.com/drive/folders/1FKs4Ba-NdP1LE25H_1lzJUoHoMn-SGea)"
 

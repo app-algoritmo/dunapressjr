@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério denuncia invasão da Fazenda Norbrasil em Rondônia"
+title: Marcos Rogério denuncia invasão da Fazenda Norbrasil em Rondônia
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O senador Marcos Rogério (PL-RO) manifestou, em pronunciamento nesta terça-feira (29), sua preocupação com a segurança jurídica da propriedade privada.  Ele destacou a invasão da Fazenda Norbrasil, localizada em Nova Mutum (RO). Segundo ele, os invasores causaram um prejuízo enorme, ao destruírem a sede da fazenda.
 

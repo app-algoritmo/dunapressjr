@@ -1,11 +1,13 @@
 ---
-title: "Governador da Paraíba se reúne com Nelson Piquet e discute parceria para Paraíba sediar etapa da Stock Car"
+title: Governador da Paraíba se reúne com Nelson Piquet e discute parceria para Paraíba
+  sediar etapa da Stock Car
 date: 2021-02-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Nelson Piquet ressaltou a intenção de incentivar o automobilismo na Paraíba.
 

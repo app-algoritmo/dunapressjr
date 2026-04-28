@@ -1,11 +1,12 @@
 ---
-title: "Maduro ataca Milei: “Na Argentina a extrema direita neonazista venceu”"
+title: 'Maduro ataca Milei: “Na Argentina a extrema direita neonazista venceu”'
 date: 2023-11-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente da Venezuela, **Nicolás Maduro** , atacou esta segunda-feira o libertário **Javier Milei** , depois de este ter vencido o segundo turno das eleições argentinas, tornando-o presidente da Argentina a partir de 10 de dezembro.
 

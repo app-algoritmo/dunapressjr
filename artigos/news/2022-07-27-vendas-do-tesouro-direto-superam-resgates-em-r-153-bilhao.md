@@ -1,11 +1,12 @@
 ---
-title: "Vendas do Tesouro Direto superam resgates em R$ 1,53 bilhão"
+title: Vendas do Tesouro Direto superam resgates em R$ 1,53 bilhão
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Títulos mais procurados foram os corrigidos pela Selic.
 

@@ -1,11 +1,12 @@
 ---
-title: "Gastos em aplicativos de delivery de comida aumentaram 149% em 2020"
+title: Gastos em aplicativos de delivery de comida aumentaram 149% em 2020
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Com mais pessoas trabalhando e estudando em casa, os pedidos de delivery dispararam entre janeiro e dezembro de 2020. Segundo um levantamento realizado pela fintech Mobills, os gastos com os principais aplicativos de delivery, como iFood, Uber Eats e Rappi, aumentaram 149% no período. A pesquisa também mostrou que dezembro foi o mês com mais despesas com os pedidos de comida em casa. 
 

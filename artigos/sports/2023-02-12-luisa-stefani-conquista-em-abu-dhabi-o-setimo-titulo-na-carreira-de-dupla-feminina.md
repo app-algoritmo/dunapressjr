@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani conquista, em Abu Dhabi, o sétimo título na carreira de dupla feminina"
+title: Luisa Stefani conquista, em Abu Dhabi, o sétimo título na carreira de dupla
+  feminina
 date: 2023-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Luisa Stefani, número 36 do mundo de duplas, segue empilhando taças. Neste domingo (12), a paulistana conquistou, ao lado da chinesa Shuai Zhang, 26ª colocada, o título do WTA 500 de Abu Dhabi, nos Emirados Árabes, evento no piso duro com premiação de US$ 780 mil. A brasileira e a chinesa derrotaram a dupla da japonesa Shuko Ayoama e da taiwanesa Hao Chan, por 2 sets a 1, com parciais de 3/6 6/2 10/8 após 1h27min.
 

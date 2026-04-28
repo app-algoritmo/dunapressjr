@@ -1,11 +1,12 @@
 ---
-title: "Operação Calvário: em 18 meses, MPPB oferece 11 denúncias contra 55 envolvidos"
+title: 'Operação Calvário: em 18 meses, MPPB oferece 11 denúncias contra 55 envolvidos'
 date: 2020-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Os 55 denunciados com base nas investigações da força-tarefa são acusados de vários crimes.
 

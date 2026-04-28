@@ -1,11 +1,12 @@
 ---
-title: "Acordo sobre perdas com planos econômicos tem 118 mil adesões"
+title: Acordo sobre perdas com planos econômicos tem 118 mil adesões
 date: 2020-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Já foram pagos R$ 1,6 bilhão a titulares de contas de poupança.
 

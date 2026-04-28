@@ -1,11 +1,12 @@
 ---
-title: "Superávit primário poderá fechar o ano acima do previsto, diz Tesouro"
+title: Superávit primário poderá fechar o ano acima do previsto, diz Tesouro
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para secretário, país está bem posicionado no cenário internacional.
 

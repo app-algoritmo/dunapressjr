@@ -1,11 +1,12 @@
 ---
-title: "Vladimir Putin convidado para o G20 de novembro 2022"
+title: Vladimir Putin convidado para o G20 de novembro 2022
 date: 2022-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Fator da segurança será levado em consideração ao decidir sobre a viagem de Putin à cúpula do G20 que será celebrada em novembro de 2022 comenta  Secretário de Imprensa do Presidente da Federação Russa Dmitry Peskov.
 

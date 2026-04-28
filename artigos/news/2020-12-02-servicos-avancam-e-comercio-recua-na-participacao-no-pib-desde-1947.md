@@ -1,11 +1,12 @@
 ---
-title: "Serviços avançam e comércio recua na participação no PIB desde 1947"
+title: Serviços avançam e comércio recua na participação no PIB desde 1947
 date: 2020-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são de estudo da CNC, que comemora 75 anos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crédito deve crescer 14,2% neste ano, prevê Banco Central"
+title: Crédito deve crescer 14,2% neste ano, prevê Banco Central
 date: 2022-09-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Crédito livre deve apresentar expansão de 17,2%.
 

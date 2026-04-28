@@ -1,11 +1,12 @@
 ---
-title: "Threads da Meta Supera Rival X e Alcança o Topo da App Store da Apple"
+title: Threads da Meta Supera Rival X e Alcança o Topo da App Store da Apple
 date: 2023-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 Nos últimos meses, o cenário das redes sociais tem testemunhado uma mudança significativa, com o Threads, o mais recente aplicativo da Meta, tornando-se o mais baixado na App Store da Apple nos Estados Unidos. Essa ascensão meteórica sugere uma mudança de paradigma após a aquisição tumultuada do Twitter por Elon Musk, destacando a crescente força do Threads em sua competição com o rival X.
 

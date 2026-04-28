@@ -1,11 +1,12 @@
 ---
-title: "Paleontólogo brasileiro, reconstitui cérebros de animais extintos"
+title: Paleontólogo brasileiro, reconstitui cérebros de animais extintos
 date: 2021-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 José Darival Ferreira é pernambucano, mas vive em São João do Polesine, no Rio Grande do Sul, onde cursa seu doutorado na Universidade Federal de Santa Maria (UFSM) com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Em seu trabalho, ele reconstitui cérebros de animais extintos, como o de um dinossauro que viveu há 233 milhões de anos.
 

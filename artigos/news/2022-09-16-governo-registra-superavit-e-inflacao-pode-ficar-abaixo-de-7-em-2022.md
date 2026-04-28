@@ -1,11 +1,12 @@
 ---
-title: "Governo registra superávit e inflação pode ficar abaixo de 7% em 2022"
+title: Governo registra superávit e inflação pode ficar abaixo de 7% em 2022
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro Paulo Guedes falou sobre revisão do PIB em A Voz do Brasil.
 

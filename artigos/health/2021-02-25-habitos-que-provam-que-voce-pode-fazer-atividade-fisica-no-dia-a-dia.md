@@ -1,11 +1,12 @@
 ---
-title: "Hábitos que provam que você pode fazer atividade física no dia a dia"
+title: Hábitos que provam que você pode fazer atividade física no dia a dia
 date: 2021-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Algumas atividades do nosso dia a dia podem trazer diversos benefícios para o nosso corpo. E não é do gasto calórico que estamos falando, mas da adoção de alguns hábitos que podem te ajudar a ser fisicamente mais ativo. De acordo com a publicação [Saúde Brasil 2015/2016](http://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2015_2016_analise_zika.pdf), as doenças crônicas não transmissíveis, hipertensão arterial e diabetes, foram as responsáveis por 74% dos casos de morte, no Brasil, em 2012.
 

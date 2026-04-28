@@ -1,11 +1,13 @@
 ---
-title: "Centro Educacional de Cordeiros em Itajaí, promove projeto Eleições com alunos dos quintos anos"
+title: Centro Educacional de Cordeiros em Itajaí, promove projeto Eleições com alunos
+  dos quintos anos
 date: 2022-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Centro Educacional de Cordeiros promoveu com os alunos dos quintos anos, o projeto “Eleições- Uma Abordagem Interdisciplinar Construindo uma Formação Política e Cidadã aos Educandos”. De forma interdisciplinar, o projeto envolveu as matérias de língua portuguesa, história, matemática, geografia e informática, com a professora regente das turmas, Maria Bernadeth Gonçalves de Almeida e a agente de apoio em educação especial, Daniela Furtado.
 

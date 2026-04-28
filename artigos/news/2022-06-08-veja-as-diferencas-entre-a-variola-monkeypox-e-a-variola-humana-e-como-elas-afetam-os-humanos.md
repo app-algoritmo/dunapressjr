@@ -1,11 +1,13 @@
 ---
-title: "Veja as diferenças entre a varíola monkeypox e a varíola humana e como elas afetam os humanos"
+title: Veja as diferenças entre a varíola monkeypox e a varíola humana e como elas
+  afetam os humanos
 date: 2022-06-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Apesar de terem algumas semelhanças, os vírus *monkeypox*, conhecido como varíola dos macacos, e o *smallpox*, da varíola comum, são diferentes. Isso porque ambos têm distinções na sua estrutura, na forma de transmissão e no potencial de gravidade e letalidade, que diferencia a maneira como ela afeta os humanos. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Comissão de formatura pode ter maior transparência com conta compartilhada"
+title: Comissão de formatura pode ter maior transparência com conta compartilhada
 date: 2022-12-14
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 A formatura é o momento mais esperado pelos estudantes após uma intensa jornada de estudos. É a hora de celebrar a conquista, confraternizar com quem fez parte desta trajetória e criar uma recordação para a vida. Mas, para que tudo saia dentro dos conformes, é necessário organização e planejamento.
 

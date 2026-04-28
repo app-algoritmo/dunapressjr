@@ -1,11 +1,12 @@
 ---
-title: "Conselho Nacional aprova projeto de canis e gatis em presídios para ressocialização"
+title: Conselho Nacional aprova projeto de canis e gatis em presídios para ressocialização
 date: 2024-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O Conselho Nacional de Política Criminal aprovou, na manhã desta quarta-feira (21), uma proposta de melhoria das diretrizes para a instalação de canis e gatis no sistema penitenciário brasileiro. A medida busca promover a ressocialização dos detentos e destaca a importância da proteção e cuidado aos animais.
 

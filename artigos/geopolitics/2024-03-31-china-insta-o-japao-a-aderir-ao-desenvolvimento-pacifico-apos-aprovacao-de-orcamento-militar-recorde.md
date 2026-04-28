@@ -1,11 +1,13 @@
 ---
-title: "China insta o Japão a aderir ao Desenvolvimento Pacífico após Aprovação de Orçamento Militar Recorde"
+title: China insta o Japão a aderir ao Desenvolvimento Pacífico após Aprovação de
+  Orçamento Militar Recorde
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministério das Relações Exteriores da China, representado por Lin Jian, reiterou na última sexta-feira a importância de o Japão comprometer-se com o caminho do desenvolvimento pacífico. Em uma coletiva de imprensa regular, Lin Jian ressaltou a recente aprovação pelo parlamento japonês do orçamento para o ano fiscal de 2024, que inclui um recorde de 7,95 trilhões de ienes destinados à defesa.
 

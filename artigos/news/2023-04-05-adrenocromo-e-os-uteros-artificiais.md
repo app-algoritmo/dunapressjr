@@ -1,11 +1,12 @@
 ---
-title: "Adrenocromo e os úteros artificiais"
+title: Adrenocromo e os úteros artificiais
 date: 2023-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## "Como colher diretamente adrenocromo e criar incubadoras para embriões humanos em todo o mundo".
 

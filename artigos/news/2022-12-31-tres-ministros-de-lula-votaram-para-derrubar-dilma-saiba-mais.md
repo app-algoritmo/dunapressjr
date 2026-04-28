@@ -1,11 +1,12 @@
 ---
-title: "Três ministros de Lula votaram para derrubar Dilma; saiba mais"
+title: Três ministros de Lula votaram para derrubar Dilma; saiba mais
 date: 2022-12-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Políticos que já empurraram Dilma para fora do governo, agora irão compor a gestão petista.
 

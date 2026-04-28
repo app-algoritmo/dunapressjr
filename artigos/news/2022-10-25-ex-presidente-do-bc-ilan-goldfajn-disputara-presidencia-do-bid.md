@@ -1,11 +1,12 @@
 ---
-title: "Ex-presidente do BC Ilan Goldfajn disputará presidência do BID"
+title: Ex-presidente do BC Ilan Goldfajn disputará presidência do BID
 date: 2022-10-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Indicação foi oficializada pelo ministro da Economia, Paulo Guedes.
 

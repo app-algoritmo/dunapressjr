@@ -1,11 +1,12 @@
 ---
-title: "Agências de fiscalização chegam a bases avançadas apoiadas por militares"
+title: Agências de fiscalização chegam a bases avançadas apoiadas por militares
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O ambiente interagências da Operação Verde Brasil 2 garante o máximo de integração entre as Instituições Federais, Órgãos de Segurança Pública e Fiscalização (OSPF) e Entidades públicas de proteção ambiental. Tal intercâmbio tem ampliado as capacidades de cada agente na missão de prevenir e reprimir delitos ambientais. Nesta quarta-feira (27), o Comando Conjunto Príncipe da Beira divulgou o estabelecimento de bases em Extrema e Nova Califórnia, em Rondônia, após operação realizada durante a madrugada.
 

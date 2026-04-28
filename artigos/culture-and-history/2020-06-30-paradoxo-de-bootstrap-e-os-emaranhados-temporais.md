@@ -1,11 +1,12 @@
 ---
-title: "Paradoxo de Bootstrap e os Emaranhados Temporais!"
+title: Paradoxo de Bootstrap e os Emaranhados Temporais!
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 *“Ontem, hoje e amanhã não são consecutivos, eles estão conectados em um círculo sem fim. Tudo está conectado!”***
 

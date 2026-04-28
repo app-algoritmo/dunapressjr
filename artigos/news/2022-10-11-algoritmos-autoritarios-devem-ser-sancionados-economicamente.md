@@ -1,13 +1,14 @@
 ---
-title: "Algoritmos autoritários devem ser sancionados economicamente"
+title: Algoritmos autoritários devem ser sancionados economicamente
 date: 2022-10-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Opinion
-  - Policy
+- News
+- Opinion
+- Policy
 ---
+
 
 **Pesadas e severas multas para redes sociais que impedir, editar, subverter, manipular, ou deletar publicações**. 
 

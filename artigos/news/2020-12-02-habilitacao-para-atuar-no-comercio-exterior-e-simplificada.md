@@ -1,11 +1,12 @@
 ---
-title: "Habilitação para atuar no comércio exterior é simplificada"
+title: Habilitação para atuar no comércio exterior é simplificada
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com o intuito de diminuir a burocracia e facilitar o fluxo de mercadorias, a habilitação de declarantes de mercadorias para atuarem no comércio exterior passa a ser concedida, via de regra, de forma automática, por meio do sistema Habilita; e as pessoas físicas passam a ser dispensadas da habilitação.
 

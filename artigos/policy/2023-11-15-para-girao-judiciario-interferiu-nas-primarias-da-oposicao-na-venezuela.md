@@ -1,11 +1,12 @@
 ---
-title: "Para Girão, judiciário interferiu nas primárias da oposição na Venezuela"
+title: Para Girão, judiciário interferiu nas primárias da oposição na Venezuela
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) criticou a suspensão, pelo Tribunal Supremo de Justiça da Venezuela, da validade dos resultados das primárias realizadas pelo partidos da oposição para a seleção de um candidato para as próximas eleições presidenciais no país. Em pronunciamento nesta segunda-feira (13), Girão ressaltou que a ex-deputada María Corina Machado, líder de oposição ao governo de Nicolás Maduro, obteve 92% dos votos. No entanto, observou o senador, ela está inabilitada para exercer cargos públicos por 15 anos. Ele também apontou a falta de mediação do governo brasileiro diante desse cenário, classificando-o como um “atentado à democracia venezuelana”.
 

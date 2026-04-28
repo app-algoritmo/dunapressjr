@@ -1,11 +1,13 @@
 ---
-title: "Tebet quer pautar quantas sessões forem necessárias na CCJ do Senado para pacote anticrime avançar"
+title: Tebet quer pautar quantas sessões forem necessárias na CCJ do Senado para pacote
+  anticrime avançar
 date: 2019-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A presidente da Comissão de Constituição e Justiça (CCJ) do
 Senado, Simone Tebet (MDB-MS), afirmou nesta quinta-feira que o andamento do

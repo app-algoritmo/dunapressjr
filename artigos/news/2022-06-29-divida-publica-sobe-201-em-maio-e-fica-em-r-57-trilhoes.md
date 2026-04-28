@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública sobe 2,01% em maio e fica em R$ 5,7 trilhões"
+title: Dívida Pública sobe 2,01% em maio e fica em R$ 5,7 trilhões
 date: 2022-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em abril, indicador tinha aumentado 0,45%.
 

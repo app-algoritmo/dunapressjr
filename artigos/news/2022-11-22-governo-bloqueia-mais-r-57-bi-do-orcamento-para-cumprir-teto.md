@@ -1,11 +1,12 @@
 ---
-title: "Governo bloqueia mais R$ 5,7 bi do Orçamento para cumprir teto"
+title: Governo bloqueia mais R$ 5,7 bi do Orçamento para cumprir teto
 date: 2022-11-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida pode agravar problemas em serviços públicos.
 

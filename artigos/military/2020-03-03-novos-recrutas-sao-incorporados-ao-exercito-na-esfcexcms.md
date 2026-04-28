@@ -1,11 +1,12 @@
 ---
-title: "Novos recrutas são incorporados ao Exército na ESFCEx/CMS"
+title: Novos recrutas são incorporados ao Exército na ESFCEx/CMS
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Salvador (BA)** –
 No

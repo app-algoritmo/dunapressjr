@@ -1,11 +1,13 @@
 ---
-title: "Biden interrompe construção de usinas de gás devido à “ameaça” das mudanças climáticas"
+title: Biden interrompe construção de usinas de gás devido à “ameaça” das mudanças
+  climáticas
 date: 2024-01-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, anunciou hoje uma moratória à construção de novos terminais de exportação de gás natural liquefeito (GNL), devido à “ameaça existencial” colocada pela crise climática, um golpe para aquela indústria que está a ser desferida em plena campanha eleitoral em que o democrata provavelmente enfrenta Donald Trump, que nega a crise climática.
 

@@ -1,11 +1,12 @@
 ---
-title: "Osteoporose: doença silenciosa que torna ossos frágeis e quebradiços"
+title: 'Osteoporose: doença silenciosa que torna ossos frágeis e quebradiços'
 date: 2021-02-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Viver com medo de cair e quebrar um osso a qualquer momento é parte da realidade das pessoas que vivem com a osteoporose. A doença, caracterizada pela diminuição da massa óssea, faz com que os ossos fiquem mais frágeis, aumentando a possibilidade de fraturas.
 

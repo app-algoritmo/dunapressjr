@@ -1,11 +1,12 @@
 ---
-title: "Esta garantida a remarcação gratuita para estudantes intercambistas"
+title: Esta garantida a remarcação gratuita para estudantes intercambistas
 date: 2020-03-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Estudantes intercambistas, que embarcariam do Brasil para estudar em outros países nos próximos meses, terão o direito de remarcar a viagem gratuitamente. A decisão foi anunciada pelo Ministério da Justiça e Segurança Pública, na última terça-feira (22), em razão da pandemia causada pelo novo coronavírus (Covid-19).  
 

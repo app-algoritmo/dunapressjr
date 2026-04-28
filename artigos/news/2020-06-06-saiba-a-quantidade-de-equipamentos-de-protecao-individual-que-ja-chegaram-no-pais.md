@@ -1,11 +1,13 @@
 ---
-title: "Saiba a quantidade de equipamentos de proteção individual que já chegaram no País"
+title: Saiba a quantidade de equipamentos de proteção individual que já chegaram no
+  País
 date: 2020-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil recebeu na manhã desta quinta-feira (4) o 15º voo da Latam, fretado pelo Ministério da Infraestrutura (MInfra), com carga de máscaras compradas pelo Governo Federal e destinadas aos estados para enfrentamento à Covid-19. Foi o terceiro voo com máscaras modelo N95, mais indicado para proteger profissionais expostos a ambientes contaminados. Desde o dia 6 de maio, o país já recebeu 85,5 milhões de máscaras cirúrgicas e do tipo N95 – equivalente a 455 toneladas – de um total de 240 milhões de unidades adquiridas pelo Ministério da Saúde.
 

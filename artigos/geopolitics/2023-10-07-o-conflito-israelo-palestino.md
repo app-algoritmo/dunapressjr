@@ -1,11 +1,12 @@
 ---
-title: "O conflito israelo-palestino"
+title: O conflito israelo-palestino
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A atual escalada de violência entre Israel e o grupo terrorista Hamas na região é um evento trágico que remonta a décadas de conflito e tensões profundamente enraizadas. Os eventos recentes têm se desdobrado rapidamente e estão tendo um impacto devastador nas pessoas que vivem na região. Abaixo está um resumo dos principais acontecimentos na linha do tempo do conflito Israelo-palestino até o momento:
 

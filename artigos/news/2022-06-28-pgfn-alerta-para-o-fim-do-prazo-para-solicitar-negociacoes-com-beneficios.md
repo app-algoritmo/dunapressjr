@@ -1,11 +1,12 @@
 ---
-title: "PGFN alerta para o fim do prazo para solicitar negociações com benefícios"
+title: PGFN alerta para o fim do prazo para solicitar negociações com benefícios
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A próxima quinta-feira (30), é o último dia para aderir a modalidades que oferecem descontos, entrada facilitada e prazo ampliado para pagamento de dívidas.
 

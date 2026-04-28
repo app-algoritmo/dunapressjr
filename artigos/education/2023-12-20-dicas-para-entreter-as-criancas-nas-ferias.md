@@ -1,11 +1,12 @@
 ---
-title: "Dicas para entreter as crianças nas férias"
+title: Dicas para entreter as crianças nas férias
 date: 2023-12-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Elaborar um cronograma de atividades ajuda a manter os pequenos ocupados, prevenindo longos períodos em frente às telas.
 

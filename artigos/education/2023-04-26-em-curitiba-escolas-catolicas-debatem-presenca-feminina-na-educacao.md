@@ -1,11 +1,12 @@
 ---
-title: "Em Curitiba, escolas católicas debatem presença feminina na educação"
+title: Em Curitiba, escolas católicas debatem presença feminina na educação
 date: 2023-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Escolas católicas parceiras do Sistema Positivo de Ensino de todo o país se reúnem em Curitiba para falar sobre a presença feminina na missão educativa. Entre os dias 26 e 28 de abril, professores e gestores de instituições de ensino de inspiração cristã participam do XI Encontro de Escolas Católicas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal em ação conjunta apreende 8,5 toneladas de maconha"
+title: Polícia Federal em ação conjunta apreende 8,5 toneladas de maconha
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Naviraí/MS - A Polícia Federal, a PM/MS e o DOF, em atuação conjunta no âmbito da Operação Hórus/Programa Vigia, apreenderam aproximadamente 8,5 toneladas de maconha, dois veículos e prenderam três pessoas em flagrante delito. A droga era proveniente de Capitan Bado/PY e, provavelmente, serviria para abastecer os mercados ilícitos do tráfico nos estados de São Paulo, Paraná ou Minas Gerais.
 

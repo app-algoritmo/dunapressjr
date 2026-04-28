@@ -1,11 +1,12 @@
 ---
-title: "Necessidade de financiamento do governo cai 77,5% em 2021, diz IBGE"
+title: Necessidade de financiamento do governo cai 77,5% em 2021, diz IBGE
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Valor de financiamento líquido atingiu R$ 201,5 bilhões.
 

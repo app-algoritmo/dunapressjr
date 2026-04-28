@@ -1,11 +1,12 @@
 ---
-title: "Lei que atualiza Código Penal Militar é sancionada com vetos"
+title: Lei que atualiza Código Penal Militar é sancionada com vetos
 date: 2023-09-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Os vetos serão analisados pelo Congresso, em sessão conjunta de deputados e senadores, em data a ser marcada.
 

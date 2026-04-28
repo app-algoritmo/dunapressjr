@@ -1,11 +1,12 @@
 ---
-title: "Jogos de improviso para brincar com seus filhos"
+title: Jogos de improviso para brincar com seus filhos
 date: 2022-08-17
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 O improviso é uma forma de ajudar a criança a lidar com situações que fogem do seu cotidiano. Ao longo da vida é provável que ela passe por questões assim e os pais podem ajudá-la. Além disso, exercita a criatividade e o raciocínio, sem contar que são ótimos [jogos para pais e filhos](https://modobrincar.rihappy.com.br/) se divertirem juntos. 
 

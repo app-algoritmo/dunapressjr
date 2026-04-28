@@ -1,11 +1,13 @@
 ---
-title: "Monitoramento inédito da SSP prende 118 detentos em saidinhas temporárias em cinco dias"
+title: Monitoramento inédito da SSP prende 118 detentos em saidinhas temporárias em
+  cinco dias
 date: 2023-09-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Medida combate diretamente a reincidência criminal e permite um monitoramento mais eficaz de medidas alternativas à prisão.
 

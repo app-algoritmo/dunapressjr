@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai pela segunda vez seguida e volta a ficar abaixo de R$ 4,70"
+title: Dólar cai pela segunda vez seguida e volta a ficar abaixo de R$ 4,70
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa caiu 1,16%, influenciada por mercado externo.
 

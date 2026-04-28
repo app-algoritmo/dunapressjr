@@ -1,11 +1,12 @@
 ---
-title: "Lula diz a Maduro que América Latina é região de paz"
+title: Lula diz a Maduro que América Latina é região de paz
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Presidente da Venezuela telefonou para o do Brasil.
 

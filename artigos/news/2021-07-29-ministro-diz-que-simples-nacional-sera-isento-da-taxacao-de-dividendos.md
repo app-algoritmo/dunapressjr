@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que Simples Nacional será isento da taxação de dividendos"
+title: Ministro diz que Simples Nacional será isento da taxação de dividendos
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Segundo Guedes, governo quer que super-ricos paguem mais impostos.
 

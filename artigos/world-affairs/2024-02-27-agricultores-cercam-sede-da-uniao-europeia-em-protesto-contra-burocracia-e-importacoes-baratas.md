@@ -1,11 +1,13 @@
 ---
-title: "Agricultores cercam sede da União Europeia em protesto contra burocracia e importações baratas"
+title: Agricultores cercam sede da União Europeia em protesto contra burocracia e
+  importações baratas
 date: 2024-02-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A sede da União Europeia em Bruxelas se viu cercada por barreiras de concreto e arame farpado nesta segunda-feira, enquanto agricultores frustrados com a burocracia e a concorrência de importações mais baratas trouxeram seus tratores para a capital belga, em uma demonstração de força durante uma reunião de ministros da Agricultura do bloco.
 

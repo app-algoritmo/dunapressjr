@@ -1,11 +1,12 @@
 ---
-title: "Vendas do varejo variam 0,1% em outubro"
+title: Vendas do varejo variam 0,1% em outubro
 date: 2019-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As **vendas no varejo** variaram 0,1% em outubro de 2019 na comparação com o mês anterior (série com ajuste sazonal). É o sexto mês consecutivo de crescimento, com um acréscimo de 2,7% no período. O índice de média móvel trimestral, após acréscimo de 0,6% no trimestre encerrado em setembro, mostrou perda de ritmo no trimestre encerrado em outubro (0,4%).
 

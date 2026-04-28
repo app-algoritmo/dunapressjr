@@ -1,11 +1,12 @@
 ---
-title: "As vacinas de mRNA contra a COVID-19 reduzem as bactérias benéficas no intestino"
+title: As vacinas de mRNA contra a COVID-19 reduzem as bactérias benéficas no intestino
 date: 2023-11-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A pesquisa mostrou que as vacinas de mRNA COVID-19 podem reduzir bactérias do gênero Bifidobacteria, que são bactérias intestinais comuns e benéficas. Além disso, a vacinação contra a COVID está associada à redução da biodiversidade intestinal.
 

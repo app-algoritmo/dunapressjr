@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte diz que seu satélite de reconhecimento foi lançado com sucesso"
+title: Coreia do Norte diz que seu satélite de reconhecimento foi lançado com sucesso
 date: 2023-11-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder norte-coreano Kim Jong-un assistiu ao lançamento.
 

@@ -1,11 +1,13 @@
 ---
-title: "Decreto que autoriza uso das Forças Armadas na proteção da Amazônia Legal é prorrogado"
+title: Decreto que autoriza uso das Forças Armadas na proteção da Amazônia Legal é
+  prorrogado
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O presidente da República, Jair Bolsonaro, prorrogou até 10 de julho, por meio do decreto 10.394, o emprego de militares para combater focos de incêndio e desmatamento ilegal na chamada Amazônia Legal. A determinação se aplica à faixa de fronteira, terras indígenas, unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal.
 

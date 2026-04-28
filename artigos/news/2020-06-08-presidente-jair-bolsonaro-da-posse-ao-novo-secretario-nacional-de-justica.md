@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro dá posse ao novo Secretário Nacional de Justiça"
+title: Presidente Jair Bolsonaro dá posse ao novo Secretário Nacional de Justiça
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente da República, Jair Bolsonaro, deu posse ao novo Secretário Nacional de Justiça do Ministério da Justiça e Segurança Pública, Claudio de Castro Panoeiro, em cerimônia realizada no Palácio do Planalto nesta segunda-feira (08). Advogado da União e doutor em Direito pela Universidade de Salamanca (Espanha), Claudio de Castro Panoeiro é o primeiro cego a assumir o cargo.
 

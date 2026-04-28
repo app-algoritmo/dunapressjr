@@ -1,11 +1,13 @@
 ---
-title: "Expectativas do Mercado Financeiro: Crescimento da economia brasileira e inflação em foco"
+title: 'Expectativas do Mercado Financeiro: Crescimento da economia brasileira e inflação
+  em foco'
 date: 2023-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeções para PIB, IPCA e taxa de juros destacam cenário econômico e possíveis impactos para o futuro do Brasil.
 

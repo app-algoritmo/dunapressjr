@@ -1,12 +1,14 @@
 ---
-title: "O comunista exposto revelou as 45 metas em 1958 que hoje são parte da sua vida diária"
+title: O comunista exposto revelou as 45 metas em 1958 que hoje são parte da sua vida
+  diária
 date: 2022-04-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 O que esse documento nos trás são 45 metas específicas para o Partido Comunista destruir a cultura e como poderão constatar, é exatamente o que estão fazendo no Brasil, em Cuba, na Venezuela, na Bolívia, na Argentina, na África e em todos os países em que conseguem ou tentam conseguir sucesso com a intenção de perpetuar-se no poder. Dos 45 Objetivos, veja alguns dos mais importantes.
 

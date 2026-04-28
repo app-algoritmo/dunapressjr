@@ -1,11 +1,13 @@
 ---
-title: "Prazo para municípios enviarem dados sobre saneamento é prorrogado até 13 de junho"
+title: Prazo para municípios enviarem dados sobre saneamento é prorrogado até 13 de
+  junho
 date: 2022-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informações serão usadas para atualização do Sistema Nacional de Informações sobre Saneamento (SNIS).
 

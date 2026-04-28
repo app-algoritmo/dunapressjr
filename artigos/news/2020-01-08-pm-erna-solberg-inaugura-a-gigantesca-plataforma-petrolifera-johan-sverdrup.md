@@ -1,11 +1,12 @@
 ---
-title: "PM Erna Solberg inaugura a gigantesca plataforma petrolífera Johan Sverdrup"
+title: PM Erna Solberg inaugura a gigantesca plataforma petrolífera Johan Sverdrup
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Com a ausência de sua majestade o rei Harald por motivos de saúde, nesta terça-feira 07.01.20, a primeira-ministra Erna Solberg (H) foi responsável pela abertura oficial do novo campo petrolífero, que está em operação desde 5 de outubro do ano passado.
 

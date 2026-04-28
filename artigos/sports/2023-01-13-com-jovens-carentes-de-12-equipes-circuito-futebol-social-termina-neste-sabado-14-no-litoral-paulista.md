@@ -1,11 +1,13 @@
 ---
-title: "Com jovens carentes de 12 equipes, Circuito Futebol Social termina neste sábado (14) no litoral paulista"
+title: Com jovens carentes de 12 equipes, Circuito Futebol Social termina neste sábado
+  (14) no litoral paulista
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O litoral paulista recebe neste sábado (14) a oitava e última etapa do Circuito Futebol Social 2022, que ao longo do ano passado percorreu diferentes estados do Brasil. O encerramento do torneio será na cidade de Mongaguá, na Baixada Santista, e os jogos, com início às 9h, estão programados para a Plataforma de Pesca. Doze times – oito no masculino e quatro no feminino – participarão da etapa, vindos de projetos sociais da região, reunindo jovens carentes de 16 a 20 anos.
 

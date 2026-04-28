@@ -1,11 +1,12 @@
 ---
-title: "Plínio diz que STF interfere nas atribuições do Congresso Nacional"
+title: Plínio diz que STF interfere nas atribuições do Congresso Nacional
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) voltou a criticar o Supremo Tribunal Federal (STF) por "interferir na autonomia do Poder Legislativo" ao decidir sobre matérias que são da competência do Congresso Nacional. A discussão sobre a descriminalização do porte de drogas para uso pessoal e a retomada do julgamento do marco temporal das terras indígenas foram dois exemplos apontados pelo parlamentar em pronunciamento nesta quarta-feira (30).
 

@@ -1,11 +1,13 @@
 ---
-title: "Após a condenação Cristina Kirchner fez uma live e garantiu que não será candidata em 2023 'por nada'"
+title: Após a condenação Cristina Kirchner fez uma live e garantiu que não será candidata
+  em 2023 'por nada'
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Com certeza [o título](https://dunapress.org/2022/12/07/cristina-kirchner-foi-condenada-a-6-anos-de-prisao-e-desqualificacao-perpetua/) de "Cristina condenada", o debate sobre os seis anos e a questão da prisão domiciliar pela idade que teria na época do trânsito em julgado pôs de lado algo não menor que aconteceu ontem: Cristina reconheceu que está se afastando da política. Após a leitura da decisão, a vice-presidente fez mais um repasse de seu gabinete ao Senado e garantiu que no próximo ano não será candidata "a nada".
 

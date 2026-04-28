@@ -1,11 +1,12 @@
 ---
-title: "Deputados divergem sobre uso de autoridade para conter Covid em SC"
+title: Deputados divergem sobre uso de autoridade para conter Covid em SC
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Parlamentares divergiram sobre o uso da autoridade para conter o avanço da Covid-19 no estado durante a sessão de quarta-feira (25) da Assembleia Legislativa.
 

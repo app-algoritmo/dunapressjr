@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa aponta mudança de hábitos de higiene da população brasileira"
+title: Pesquisa aponta mudança de hábitos de higiene da população brasileira
 date: 2020-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Primeiro ciclo do Vigitel COVID-19 aponta mudança de hábitos da população brasileira, como higienização frequente das mãos, de superfícies de objetos.
 

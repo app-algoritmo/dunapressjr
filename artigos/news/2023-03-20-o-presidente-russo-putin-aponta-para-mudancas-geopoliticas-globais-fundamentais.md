@@ -1,11 +1,12 @@
 ---
-title: "O presidente russo Putin aponta para mudanças geopolíticas globais fundamentais"
+title: O presidente russo Putin aponta para mudanças geopolíticas globais fundamentais
 date: 2023-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Putin disse que o “ocidente coletivo” está apostando no destino de estados e povos inteiros.
 

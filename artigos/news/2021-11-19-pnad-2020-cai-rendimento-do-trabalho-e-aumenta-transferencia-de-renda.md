@@ -1,11 +1,12 @@
 ---
-title: "Pnad 2020: cai rendimento do trabalho e aumenta transferência de renda"
+title: 'Pnad 2020: cai rendimento do trabalho e aumenta transferência de renda'
 date: 2021-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## De acordo com o IBGE, 40,1% da população tinham renda de trabalho.
 

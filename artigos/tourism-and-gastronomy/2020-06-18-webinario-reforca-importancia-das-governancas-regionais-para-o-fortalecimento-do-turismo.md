@@ -1,11 +1,13 @@
 ---
-title: "Webinário reforça importância das Governanças Regionais para o fortalecimento do turismo"
+title: Webinário reforça importância das Governanças Regionais para o fortalecimento
+  do turismo
 date: 2020-06-18
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Seminário online reuniu especialistas e interlocutores do PRT dos 26 estados e DF.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aneel leiloa 13 lotes de transmissão de energia"
+title: Aneel leiloa 13 lotes de transmissão de energia
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Investimentos devem chegar a R$ 15,3 bilhões.
 

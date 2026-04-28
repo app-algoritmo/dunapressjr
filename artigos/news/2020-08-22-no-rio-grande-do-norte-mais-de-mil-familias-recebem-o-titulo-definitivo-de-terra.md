@@ -1,11 +1,13 @@
 ---
-title: "No Rio Grande do Norte mais de mil famílias recebem o título definitivo de terra"
+title: No Rio Grande do Norte mais de mil famílias recebem o título definitivo de
+  terra
 date: 2020-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em Ipanguaçu, no Rio Grande do Norte, o Governo Federal anunciou uma série de ações para beneficiar a população, em especial os trabalhadores do campo. O Ministério da Agricultura, Pecuária e Abastecimento, em parceria com o Instituto Nacional de Colonização e Reforma Agrária (Incra), entregou títulos de domínio para 1.060 famílias de agricultores, de 13 municípios do estado. Esse título é um documento que transfere o imóvel rural ao assentado da reforma agrária em caráter definitivo.
 

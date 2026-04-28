@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus, Noruega antecipa medidas extremas para conter expansão do patógeno"
+title: Coronavírus, Noruega antecipa medidas extremas para conter expansão do patógeno
 date: 2020-03-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## A Direcção da Saúde adotou hoje o seguinte - que se aplica das 18h00 de quinta-feira 12 de março a quinta-feira 26 de março de 2020.
 

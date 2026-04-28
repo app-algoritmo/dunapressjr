@@ -1,11 +1,13 @@
 ---
-title: "Presidente Jair Bolsonaro pede ao STF, que Poderes se unam para enfrentar crise da Covid-19"
+title: Presidente Jair Bolsonaro pede ao STF, que Poderes se unam para enfrentar crise
+  da Covid-19
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Acompanhado de empresários de diversos setores e ministros do governo, ele ressaltou que é preciso salvar vidas e a economia.
 

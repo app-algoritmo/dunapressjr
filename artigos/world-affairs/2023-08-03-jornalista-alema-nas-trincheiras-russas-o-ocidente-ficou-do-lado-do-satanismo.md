@@ -1,11 +1,12 @@
 ---
-title: "Jornalista alemã nas trincheiras russas: 'O Ocidente ficou do lado do satanismo!'"
+title: 'Jornalista alemã nas trincheiras russas: ''O Ocidente ficou do lado do satanismo!'''
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A jornalista alemã Alina Lipp estava nas trincheiras russas na frente na Ucrânia. Ela estava a apenas algumas centenas de metros das posições ucranianas.
 

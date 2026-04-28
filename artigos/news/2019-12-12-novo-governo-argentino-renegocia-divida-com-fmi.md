@@ -1,11 +1,12 @@
 ---
-title: "Novo governo argentino renegocia dívida com FMI"
+title: Novo governo argentino renegocia dívida com FMI
 date: 2019-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com o desejo de renegociar a dívida e promover o crescimento
 econômico na Argentina, o governo de Alberto Fernández anunciou que inciará

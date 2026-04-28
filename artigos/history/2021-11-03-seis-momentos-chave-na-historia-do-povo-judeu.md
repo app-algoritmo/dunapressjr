@@ -1,11 +1,12 @@
 ---
-title: "Seis momentos-chave na história do povo judeu"
+title: Seis momentos-chave na história do povo judeu
 date: 2021-11-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Do exílio à criação do Estado de Israel, aqui estão seis momentos-chave na história do povo judeu.
 

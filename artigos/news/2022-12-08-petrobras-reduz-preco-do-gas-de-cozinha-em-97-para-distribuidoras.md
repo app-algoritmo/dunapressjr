@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço do gás de cozinha em 9,7% para distribuidoras"
+title: Petrobras reduz preço do gás de cozinha em 9,7% para distribuidoras
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda é de R$ 4,55 a partir desta quinta-feira (08).
 

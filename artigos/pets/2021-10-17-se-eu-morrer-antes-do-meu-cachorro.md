@@ -1,11 +1,12 @@
 ---
-title: "Se eu morrer antes do meu cachorro..."
+title: Se eu morrer antes do meu cachorro...
 date: 2021-10-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ′′Se eu morrer antes do meu cachorro, queria pedir permissão para poder voltar e poder me despedir, para que o meu cãozinho saiba que Deus me chamou e que eu não o abandonei.
 

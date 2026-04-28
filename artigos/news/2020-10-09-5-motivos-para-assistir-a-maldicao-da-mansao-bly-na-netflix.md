@@ -1,11 +1,12 @@
 ---
-title: "5 Motivos para assistir a ‘Maldição da Mansão Bly’ na Netflix"
+title: 5 Motivos para assistir a ‘Maldição da Mansão Bly’ na Netflix
 date: 2020-10-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 Não conhece, ou nunca ouviu falar? Sem problemas, trazemos aqui 5 motivos para começar a ver agora
 

@@ -1,11 +1,12 @@
 ---
-title: "O versículo mais abusado da Bíblia"
+title: O versículo mais abusado da Bíblia
 date: 2026-03-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 Atualmente, não há versículo no mundo evangélico mais abusado do que Gálatas 3:28. Só recentemente esse recém-chegado derrubou o campeão mundial de décadas, Mateus 7:1 “não julgueis, para que não sejais julgados”. Mas hoje, no contexto de intensa propaganda que busca demonizar os descendentes de europeus e uma classe dominante que intencionalmente busca substituí-los demograficamente em suas terras nativas, a admoestação do apóstolo Paulo à igreja da Galácia é usada como um aríete para manipular cristãos bem-intencionados.
 

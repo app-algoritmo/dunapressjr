@@ -1,11 +1,12 @@
 ---
-title: "Governo comemora 170 anos da Polícia Civil do Paraná com homenagens e reconhecimento"
+title: Governo comemora 170 anos da Polícia Civil do Paraná com homenagens e reconhecimento
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Solenidade em Curitiba lembrou a história da corporação e foi marcada por homenagens aos policiais e delegados que atuam ou que já atuaram na instituição. A Polícia Civil é responsável por realizar as investigações criminais e produzir inquéritos que são levados até a Justiça.
 

@@ -1,11 +1,12 @@
 ---
-title: "Iniciativa busca soluções para melhorar a segurança pública no país"
+title: Iniciativa busca soluções para melhorar a segurança pública no país
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Melhorar a segurança pública em todo o país. Este é o objetivo da Senasp Itinerante, uma iniciativa inédita da Secretaria Nacional de Segurança Pública, que começou nesta semana. Representantes do Governo Federal vão percorrer as cinco regiões brasileiras para ouvir as principais demandas das Secretarias de Segurança Pública dos estados sobre os desafios no setor. O projeto vai ajudar na elaboração de políticas públicas específicas para cada região.
 

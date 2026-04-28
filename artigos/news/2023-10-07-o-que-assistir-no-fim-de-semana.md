@@ -1,11 +1,12 @@
 ---
-title: "O Que Assistir no Fim de Semana?"
+title: O Que Assistir no Fim de Semana?
 date: 2023-10-07
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
+- News
 ---
+
 
 **Escute a a matéria aqui:**
 

@@ -1,11 +1,12 @@
 ---
-title: "CCT teve alta produtividade no primeiro semestre, avalia Vanderlan Cardoso"
+title: CCT teve alta produtividade no primeiro semestre, avalia Vanderlan Cardoso
 date: 2019-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em balanço sobre a atuação da Comissão de Ciência e Tecnologia, Vanderlan Cardoso destacou número de projetos aprovados e audiências públicas para debater propostas importantes para o setor.
 

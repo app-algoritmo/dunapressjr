@@ -1,11 +1,12 @@
 ---
-title: "Condado de Johnson, Texas, toma posição contra o uso de biossólidos perigosos"
+title: Condado de Johnson, Texas, toma posição contra o uso de biossólidos perigosos
 date: 2024-04-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O condado de Johnson, Texas, recentemente emitiu uma resolução marcante proibindo o uso de biossólidos perigosos em sua área. Embora a autoridade reguladora dos condados seja limitada nessa questão, a resolução destaca a firme oposição ao uso desses materiais tóxicos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Max, Inteligência Artificial do Exército, é engajado no efetivo profissional"
+title: Max, Inteligência Artificial do Exército, é engajado no efetivo profissional
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF)** – Em 2 de março de 2020, dia em que milhares de
 jovens são incorporados ao Exército, ocorre, também, o engajamento: após

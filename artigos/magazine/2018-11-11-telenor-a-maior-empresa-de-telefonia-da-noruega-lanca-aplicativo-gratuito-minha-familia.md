@@ -1,11 +1,13 @@
 ---
-title: "Telenor, a maior empresa de telefonia da Noruega, lança aplicativo gratuito 'Minha Família'"
+title: Telenor, a maior empresa de telefonia da Noruega, lança aplicativo gratuito
+  'Minha Família'
 date: 2018-11-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O super aplicativo da Telenor Norge AS privilegia a união e interação familiar por meio de opções que vão desde o calendário até planejamento de refeições, e pretende reunir tudo o que possa ser importante para as famílias que poderão facilmente compartilhar informações como um grupo, mas um grupo familiar.
 

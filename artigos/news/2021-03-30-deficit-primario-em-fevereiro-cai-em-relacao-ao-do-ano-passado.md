@@ -1,11 +1,12 @@
 ---
-title: "Déficit primário em fevereiro cai em relação ao do ano passado"
+title: Déficit primário em fevereiro cai em relação ao do ano passado
 date: 2021-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado ficou negativo em R$ 21,217 bilhões.
 

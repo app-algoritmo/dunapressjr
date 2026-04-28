@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública cai 0,7% em julho e fica em R$ 5,8 trilhões"
+title: Dívida Pública cai 0,7% em julho e fica em R$ 5,8 trilhões
 date: 2022-08-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alto vencimento de títulos prefixados justifica queda.
 

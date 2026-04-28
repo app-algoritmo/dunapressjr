@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial permanece estável em junho"
+title: Produção industrial permanece estável em junho
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CNI vê manutenção no ritmo da produção.
 

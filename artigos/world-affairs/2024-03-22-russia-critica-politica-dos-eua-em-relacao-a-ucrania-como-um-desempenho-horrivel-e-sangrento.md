@@ -1,11 +1,13 @@
 ---
-title: "Rússia critica política dos EUA em relação à Ucrânia como um 'desempenho horrível e sangrento'"
+title: Rússia critica política dos EUA em relação à Ucrânia como um 'desempenho horrível
+  e sangrento'
 date: 2024-03-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A porta-voz oficial do Ministério dos Negócios Estrangeiros russo, Maria Zakharova, fez duras críticas à política dos Estados Unidos em relação à Ucrânia, em entrevista ao Channel One. Zakharova afirmou que os EUA falharam em sua abordagem para com a Ucrânia, tanto em relação às promessas feitas quanto aos seus próprios aliados próximos.
 

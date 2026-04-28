@@ -1,12 +1,14 @@
 ---
-title: "Melo e Siniakova param na primeira rodada nas duplas mistas do US Open, nos Estados Unidos"
+title: Melo e Siniakova param na primeira rodada nas duplas mistas do US Open, nos
+  Estados Unidos
 date: 2023-09-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Nesta quinta-feira (31), o jogo de estreia do mineiro e da tcheca no Grand Slam, em Nova York, foi diante de Bethanie Mattek-Sands e Jamie Murray.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha abaixo de R$ 5,10 pela primeira vez em seis meses"
+title: Dólar fecha abaixo de R$ 5,10 pela primeira vez em seis meses
 date: 2021-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa voltou a bater recorde e encosta em 130 mil pontos.
 

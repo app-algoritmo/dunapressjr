@@ -1,11 +1,13 @@
 ---
-title: "Por que os governos e as autoridades de saúde escondem e ignoram os efeitos adversos das 'vacinas'?"
+title: Por que os governos e as autoridades de saúde escondem e ignoram os efeitos
+  adversos das 'vacinas'?
 date: 2023-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Antes da pandemia, a morte repentina de uma pessoa mais jovem teria levado a uma autópsia, mas não agora porque muitas pessoas estão morrendo inesperadamente 29% a mais do que o normal na Escócia e 2.000 por semana na Inglaterra. No entanto, o aumento de mortes está sendo ignorado por governos, autoridades de saúde e muitos outros.
 

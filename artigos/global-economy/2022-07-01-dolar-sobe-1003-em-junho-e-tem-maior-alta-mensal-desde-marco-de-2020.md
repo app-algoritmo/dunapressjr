@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe 10,03% em junho e tem maior alta mensal desde março de 2020"
+title: Dólar sobe 10,03% em junho e tem maior alta mensal desde março de 2020
 date: 2022-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa teve pior mês desde o início da pandemia de covid-19.
 

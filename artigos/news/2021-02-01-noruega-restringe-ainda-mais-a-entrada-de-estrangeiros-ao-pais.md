@@ -1,11 +1,12 @@
 ---
-title: "Noruega restringe ainda mais a entrada de estrangeiros ao país"
+title: Noruega restringe ainda mais a entrada de estrangeiros ao país
 date: 2021-02-01
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Para limitar o risco da entrada do vírus, o governo está reforçando ainda mais o acesso aos estrangeiros à entrada na Noruega a partir de 29 de janeiro às 00:01. Basicamente, apenas estrangeiros residentes na Noruega terão a oportunidade de entrar na Noruega. Isso também se aplicará aos cidadãos da EEE (Espaço Econômico Europeu).
 

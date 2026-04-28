@@ -1,11 +1,12 @@
 ---
-title: "Cerca de três mil decretos foram revogados desde o início do governo"
+title: Cerca de três mil decretos foram revogados desde o início do governo
 date: 2020-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Decretos são considerados desnecessários e retirada simplifica acesso à legislação pelo cidadão. Os 305 decretos revogados agora tratam de temas variados e eram considerados sem eficácia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Produção industrial varia -0,3% em janeiro"
+title: Produção industrial varia -0,3% em janeiro
 date: 2023-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em relação a janeiro do ano passado, houve crescimento de 0,3%.
 

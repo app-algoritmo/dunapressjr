@@ -1,11 +1,12 @@
 ---
-title: "'Eu tenho um Brasil a zelar', afirma presidente Jair Bolsonaro"
+title: '''Eu tenho um Brasil a zelar'', afirma presidente Jair Bolsonaro'
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Acompanhado por ministros, o presidente da República, Jair Bolsonaro, fez um pronunciamento, no Palácio do Planalto, nesta sexta-feira (24), sobre a saída de Sergio Moro do Ministério da Justiça e Segurança Pública. Em seu discurso, destacou o trabalho da Polícia Federal e a autonomia da instituição nas investigações.
 

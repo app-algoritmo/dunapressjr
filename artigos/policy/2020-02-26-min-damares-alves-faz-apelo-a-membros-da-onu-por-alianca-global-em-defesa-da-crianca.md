@@ -1,11 +1,13 @@
 ---
-title: "Min Damares Alves faz apelo a membros da ONU por aliança global em defesa da criança"
+title: Min Damares Alves faz apelo a membros da ONU por aliança global em defesa da
+  criança
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O evento é alusivo ao 30º aniversário da Convenção sobre os Direitos da Criança, que foi ratificada pelo Brasil, em 1990, e por outros 196 países membros da ONU. Para ela, é preciso maior empenho pelo cumprimento das diretrizes acordadas e para que a infância seja, efetivamente, protegida dos atos de violência.
 

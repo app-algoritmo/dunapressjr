@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Justiça e Segurança Pública emite Nota a Imprensa em resposta a operações deflagradas pela PF a mando do ministro Alexandre de Moraes"
+title: Ministro da Justiça e Segurança Pública emite Nota a Imprensa em resposta a
+  operações deflagradas pela PF a mando do ministro Alexandre de Moraes
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Diante dos fatos relacionados ao Inquérito 4.781, em curso no Supremo Tribunal Federal, pontuo que:
 

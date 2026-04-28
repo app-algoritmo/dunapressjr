@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal publica o Manual Eletrônico do Sigilo Fiscal"
+title: Receita Federal publica o Manual Eletrônico do Sigilo Fiscal
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O manual orienta sobre o tratamento das informações protegidas por sigilo fiscal pela Receita Federal.
 

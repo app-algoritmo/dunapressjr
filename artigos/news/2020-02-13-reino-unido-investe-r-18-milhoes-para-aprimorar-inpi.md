@@ -1,11 +1,12 @@
 ---
-title: "Reino Unido investe R$ 18 milhões para aprimorar INPI"
+title: Reino Unido investe R$ 18 milhões para aprimorar INPI
 date: 2020-02-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *O objetivo é melhorar o sistema de concessões de patentes*
 

@@ -1,11 +1,12 @@
 ---
-title: "Por que Gates e o Pentágono liberaram mosquitos 'geneticamente modificados'"
+title: Por que Gates e o Pentágono liberaram mosquitos 'geneticamente modificados'
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Apesar dos fortes protestos dos residentes locais, a Agência de Proteção Ambiental dos EUA e as autoridades da Flórida aprovaram a polêmica liberação de milhões de mosquitos assassinos geneticamente modificados ou "editados por genes" em Florida Keys. 
 

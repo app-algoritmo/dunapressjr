@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem um dos melhores ambientes para PPP na América Latina"
+title: Brasil tem um dos melhores ambientes para PPP na América Latina
 date: 2022-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa foi elaborada por BID e pela revista The Economist.
 

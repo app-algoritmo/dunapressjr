@@ -1,11 +1,12 @@
 ---
-title: "Prazo para aderir ao Simples Nacional segue até 29 de janeiro na Paraíba"
+title: Prazo para aderir ao Simples Nacional segue até 29 de janeiro na Paraíba
 date: 2021-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Núcleo do Simples Nacional da Secretaria de Estado da Fazenda (Sefaz) informa que a data limite para que as micro e pequenas empresas paraibanas efetuarem a opção do Simples Nacional/SIMEI será até o dia 29 de janeiro. A solicitação deve ser realizada no Portal do Simples Nacional por meio link [http://www8.receita.fazenda.gov.br/SimplesNacional/](http://www8.receita.fazenda.gov.br/SimplesNacional/) clicando em “Simples Nacional – Serviços”, “Solicitação de Opção pelo Simples Nacional”.
 

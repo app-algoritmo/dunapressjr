@@ -1,11 +1,13 @@
 ---
-title: "Estudo canadense descobre produtos químicos cancerígenos proibidos em 88% dos produtos domésticos"
+title: Estudo canadense descobre produtos químicos cancerígenos proibidos em 88% dos
+  produtos domésticos
 date: 2023-04-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Se as parafinas cloradas de cadeia curta (SCCPs) são proibidas, por que ainda estão presentes em produtos de uso diário?
 

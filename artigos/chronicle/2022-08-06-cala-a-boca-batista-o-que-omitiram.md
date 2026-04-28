@@ -1,13 +1,14 @@
 ---
-title: "Cala a boca, Batista! O que omitiram?"
+title: Cala a boca, Batista! O que omitiram?
 date: 2022-08-06
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
-  - Documentaries
-  - Opinion
+- Chronicle
+- Documentaries
+- Opinion
 ---
+
 
 **Jô Soares - José Eugênio Soares - 16/01/1938 – 05/08/2022, 84 anos**
 

@@ -1,11 +1,13 @@
 ---
-title: "Abertas 4,3 mil vagas para especialização de professores em educação profissional e tecnológica pelo Mec"
+title: Abertas 4,3 mil vagas para especialização de professores em educação profissional
+  e tecnológica pelo Mec
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Edital para adesão das redes estaduais foi publicado nesta terça-feira (21).
 

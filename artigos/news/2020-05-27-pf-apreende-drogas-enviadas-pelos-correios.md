@@ -1,11 +1,12 @@
 ---
-title: "PF apreende drogas enviadas pelos Correios"
+title: PF apreende drogas enviadas pelos Correios
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal, em parceria com a área de segurança dos Correios, apreendeu na terça feira (26/5), aproximadamente 51 comprimidos de ecstasy e 1 grama da substância conhecida como “MD”, na posse de indivíduo, logo após receber a encomenda no município de Jaguaré/ES.
 

@@ -1,11 +1,13 @@
 ---
-title: "Publicação do ‘Boletim Covid-19’ chega à 10ª edição com dados até dia 10 de julho"
+title: Publicação do ‘Boletim Covid-19’ chega à 10ª edição com dados até dia 10 de
+  julho
 date: 2020-07-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo dados do Boletim nº 10, a arrecadação dos três impostos estaduais entre o dia 1º e 10 de julho registrou estabilidade pela primeira vez.
 

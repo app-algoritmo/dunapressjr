@@ -1,11 +1,12 @@
 ---
-title: "Declaração das Escolas Seguras (Conferência de Oslo) é endossada pelo Brasil"
+title: Declaração das Escolas Seguras (Conferência de Oslo) é endossada pelo Brasil
 date: 2019-05-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Na Conferência de Oslo em 2015, um trabalho sobre escolas seguras foi trazido à lume e o Brasil endossou a Declaração das Escolas Seguras, assim como outras nações, esse ano.
 

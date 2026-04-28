@@ -1,11 +1,13 @@
 ---
-title: "Seu nome está nesta lista? Suas raízes judaicas podem estar no Cairo, Bagdá ou nas proximidades"
+title: Seu nome está nesta lista? Suas raízes judaicas podem estar no Cairo, Bagdá
+  ou nas proximidades
 date: 2021-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Jacob Rosen-Koenigsbuch revela uma compilação meticulosa de homens do final do século 19 que conseguiram escapar do alistamento otomano, entre os poucos registros disponíveis de comunidades do passado.
 

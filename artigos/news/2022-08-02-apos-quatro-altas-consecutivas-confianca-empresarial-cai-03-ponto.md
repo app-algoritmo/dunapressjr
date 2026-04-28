@@ -1,11 +1,12 @@
 ---
-title: "Após quatro altas consecutivas, confiança empresarial cai 0,3 ponto"
+title: Após quatro altas consecutivas, confiança empresarial cai 0,3 ponto
 date: 2022-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Especialista diz que queda “é suave demais”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Selo Pet Friendly amplia a diversidade de estabelecimentos amigos dos animais"
+title: Selo Pet Friendly amplia a diversidade de estabelecimentos amigos dos animais
 date: 2021-07-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 A aceitação do selo Pet Friendly já se expandiu por mais de mil estabelecimentos fluminenses. A diversidade de lugares que se declaram amigos dos animais vai do setor hoteleiro até loja de artigos de balé. Quem aderiu recentemente foi a bailarina Ana Botafogo que incluiu uma linha exclusiva específica para pets.
 

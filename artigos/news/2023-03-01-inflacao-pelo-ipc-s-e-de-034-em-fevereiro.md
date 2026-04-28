@@ -1,11 +1,12 @@
 ---
-title: "Inflação pelo IPC-S é de 0,34% em fevereiro"
+title: Inflação pelo IPC-S é de 0,34% em fevereiro
 date: 2023-03-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa é da Fundação Getúlio Vargas.
 

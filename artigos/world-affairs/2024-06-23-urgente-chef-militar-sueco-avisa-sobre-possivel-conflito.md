@@ -1,11 +1,12 @@
 ---
-title: "Urgente: Chef Militar Sueco Avisa sobre Possível Conflito"
+title: 'Urgente: Chef Militar Sueco Avisa sobre Possível Conflito'
 date: 2024-06-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O clima de segurança na Suécia e em toda a Europa foi novamente destacado pelo chefe das Forças Armadas suecas, Michael Bydén, que emitiu um aviso severo à população. Em declarações à [TV4](https://www.tv2.no/nyheter/utenriks/forsvarssjefen-alle-svensker-ma-forberede-seg-pa-krig/16357137/), Bydén enfatizou a necessidade de preparação mental dos cidadãos diante da possibilidade de um conflito iminente.
 

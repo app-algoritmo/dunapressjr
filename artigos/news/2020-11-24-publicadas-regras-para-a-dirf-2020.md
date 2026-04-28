@@ -1,11 +1,12 @@
 ---
-title: "Publicadas regras para a DIRF 2020"
+title: Publicadas regras para a DIRF 2020
 date: 2020-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Declaração do Imposto sobre a Renda Retido na Fonte ajuda a evitar sonegação fiscal de pessoas jurídicas e físicas.
 

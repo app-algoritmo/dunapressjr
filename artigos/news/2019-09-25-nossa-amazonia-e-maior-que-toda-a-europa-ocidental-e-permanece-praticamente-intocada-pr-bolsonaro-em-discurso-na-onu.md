@@ -1,11 +1,13 @@
 ---
-title: "Nossa Amazônia é maior que toda a Europa Ocidental e permanece praticamente intocada, PR Bolsonaro em discurso na ONU"
+title: Nossa Amazônia é maior que toda a Europa Ocidental e permanece praticamente
+  intocada, PR Bolsonaro em discurso na ONU
 date: 2019-09-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Em discurso de abertura da 74ª Assembleia das Nações Unidas, o presidente Jair Bolsonaro afirmou que o atual governo tem “compromisso solene” com a preservação do meio ambiente e o desenvolvimento sustentável.
 

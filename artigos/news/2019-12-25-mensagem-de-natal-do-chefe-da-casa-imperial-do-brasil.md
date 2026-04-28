@@ -1,11 +1,12 @@
 ---
-title: "Mensagem de Natal do Chefe da Casa Imperial do Brasil"
+title: Mensagem de Natal do Chefe da Casa Imperial do Brasil
 date: 2019-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Porém o anjo disse-lhes: “Não temais, porque eis que vos anuncio uma boa nova, que será de grande alegria para todo o povo: Nasceu-vos hoje na cidade de David um Salvador, que é Cristo, o Senhor” (Lc. 2,10-11).
 

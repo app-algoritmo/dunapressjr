@@ -1,11 +1,12 @@
 ---
-title: "Medidas verdes combinadas reduzem alagamentos em até 85%"
+title: Medidas verdes combinadas reduzem alagamentos em até 85%
 date: 2021-02-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Priscila Alves é graduada em Engenharia Civil e mestre em Engenharia Civil e Ambiental pela Universidade Federal de Campina Grande (UFCG), na Paraíba. É bolsista de doutorado pleno na Universidade de Exeter, na Inglaterra, pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Durante os estudos, ela criou um modelo de medidas sustentáveis para reduzir alagamentos na cidade paraibana onde se formou. Publicado em revista científica internacional, o trabalho foi destaque no jornal norte-americano *The New York Times*.
 

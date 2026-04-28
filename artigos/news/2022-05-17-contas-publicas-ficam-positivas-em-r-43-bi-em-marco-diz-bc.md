@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas ficam positivas em R$ 4,3 bi em março, diz BC"
+title: Contas públicas ficam positivas em R$ 4,3 bi em março, diz BC
 date: 2022-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 12 meses, o superávit primário chegou a R$ 122,8 bilhões.
 

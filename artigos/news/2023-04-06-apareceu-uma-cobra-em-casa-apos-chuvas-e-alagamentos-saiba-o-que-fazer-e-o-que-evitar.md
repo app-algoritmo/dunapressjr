@@ -1,11 +1,13 @@
 ---
-title: "Apareceu uma cobra em casa após chuvas e alagamentos? Saiba o que fazer e o que evitar"
+title: Apareceu uma cobra em casa após chuvas e alagamentos? Saiba o que fazer e o
+  que evitar
 date: 2023-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As fortes chuvas que afetam o país trazem mais uma situação de perigo aos habitantes das áreas alagadas: o possível contato com cobras venenosas. Ao tentarem escapar de áreas soterradas, algumas serpentes peçonhentas invadem áreas residenciais e provocam pânico nos moradores. Casos como estes foram relatados no litoral norte de São Paulo em fevereiro, onde o maior volume de chuva já registrado no país deixou dezenas de mortes e milhares de desabrigados, e outros após tempestades no Nordeste.
 

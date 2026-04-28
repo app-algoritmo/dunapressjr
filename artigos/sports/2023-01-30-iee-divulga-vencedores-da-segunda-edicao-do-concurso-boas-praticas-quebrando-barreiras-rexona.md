@@ -1,11 +1,13 @@
 ---
-title: "IEE divulga vencedores da segunda edição do Concurso Boas Práticas Quebrando Barreiras Rexona"
+title: IEE divulga vencedores da segunda edição do Concurso Boas Práticas Quebrando
+  Barreiras Rexona
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A segunda edição do Concurso Boas Práticas Quebrando Barreiras Rexona já tem os seus vencedores. Pelo segundo ano consecutivo, a iniciativa, lançada pelo Instituto Esporte & Educação (IEE) e pela Rexona, encerrou o Projeto Rexona Quebrando Barreiras no Brasil. Foram cinco ganhadores na categoria Professores de Escolas Públicas, que receberam R$ 2 mil cada, e dois na categoria Líderes Comunitários e Jovens, premiados com R$ 1 mil cada.
 

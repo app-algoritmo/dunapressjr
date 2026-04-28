@@ -1,11 +1,12 @@
 ---
-title: "Informe de Rendimentos pela Internet"
+title: Informe de Rendimentos pela Internet
 date: 2020-11-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Receita Federal simplificou o acesso ao informe de rendimentos do cidadão no Portal e-CAC.
 

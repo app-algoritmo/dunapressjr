@@ -1,12 +1,13 @@
 ---
-title: "Ciência explica a morte de Jesus"
+title: Ciência explica a morte de Jesus
 date: 2023-08-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Religiosity
+- News
+- Religiosity
 ---
+
 
 Artigo científico sobre a morte de Jesus foi publicado em 1986 em uma das revistas científicas mais prestigiadas do mundo - o JAMA, The Journal of the American Medical Association.
 

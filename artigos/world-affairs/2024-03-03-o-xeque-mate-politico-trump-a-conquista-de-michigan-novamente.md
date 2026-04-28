@@ -1,11 +1,12 @@
 ---
-title: "O Xeque-Mate Político: Trump à Conquista de Michigan Novamente?"
+title: 'O Xeque-Mate Político: Trump à Conquista de Michigan Novamente?'
 date: 2024-03-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Desde a inesperada vitória de Donald Trump em 2016, os Estados Unidos têm testemunhado uma polarização política sem precedentes. Os três estados do Cinturão da Ferrugem - Pensilvânia, Michigan e Wisconsin - desempenharam um papel crucial na ascensão de Trump ao poder, impulsionados pela desindustrialização e pelo descontentamento econômico. No entanto, o cenário político oscila mais uma vez, com Michigan retornando ao campo democrata em 2020. O embate agora se concentra em reconquistar esse território-chave, com as recentes primárias em Michigan sugerindo uma possível reviravolta a favor do candidato republicano.
 

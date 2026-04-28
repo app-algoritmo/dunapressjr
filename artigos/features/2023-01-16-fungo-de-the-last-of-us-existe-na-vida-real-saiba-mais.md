@@ -1,12 +1,13 @@
 ---
-title: "Fungo de The Last of Us existe na vida real: Saiba mais"
+title: 'Fungo de The Last of Us existe na vida real: Saiba mais'
 date: 2023-01-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Infecção é responsável pela queda da civilização no game de 2013, que inspira a nova série da HBO.
 

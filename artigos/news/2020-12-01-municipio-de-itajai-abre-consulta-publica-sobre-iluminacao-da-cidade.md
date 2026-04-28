@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí abre consulta pública sobre iluminação da cidade"
+title: Município de Itajaí abre consulta pública sobre iluminação da cidade
 date: 2020-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí realizou nesta segunda-feira (30), uma audiência pública online sobre a iluminação da cidade. O ato marcou a abertura de consulta pública sobre o tema para uma parceria público-privada para a rede. Um endereço online apresenta minuta do edital e de 10 arquivos anexos. O site também disponibiliza um campo para o envio e respostas das sugestões sobre o tema do edital ([acesse](https://consulta-iluminacaopublica.itajai.sc.gov.br/)).
 

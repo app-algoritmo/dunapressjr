@@ -1,11 +1,12 @@
 ---
-title: "PF prende foragido em grupo de deportados"
+title: PF prende foragido em grupo de deportados
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na tarde desta sexta-feira, 19/6, desembarcou em Belo Horizonte mais um voo oriundo dos Estados Unidos da América, trazendo 39 deportados.
 

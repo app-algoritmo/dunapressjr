@@ -1,11 +1,12 @@
 ---
-title: "Medvedev acusa líderes da OTAN de cumplicidade em ataque a sala de concertos"
+title: Medvedev acusa líderes da OTAN de cumplicidade em ataque a sala de concertos
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O vice-presidente do Conselho de Segurança russo, Dmitry Medvedev, lançou acusações graves contra líderes de países membros da OTAN, incluindo o presidente francês Emmanuel Macron, relacionadas ao recente ataque terrorista a uma sala de concertos nos arredores de Moscou. Em uma declaração divulgada no Telegram, Medvedev afirmou que "altos funcionários dos países da OTAN", mencionando especificamente Macron, podem ser considerados cúmplices no ataque à Prefeitura de Crocus.
 

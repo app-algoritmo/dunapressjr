@@ -1,11 +1,12 @@
 ---
-title: "Percentual de famílias com dívidas a vencer atinge recorde de 78%"
+title: Percentual de famílias com dívidas a vencer atinge recorde de 78%
 date: 2022-08-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Alta nas duas faixas de renda ocorre depois de dois meses de queda.
 

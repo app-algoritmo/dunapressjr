@@ -1,11 +1,12 @@
 ---
-title: "O Caos da Ucrânia estrelado por Blackrock e outros interessados"
+title: O Caos da Ucrânia estrelado por Blackrock e outros interessados
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, a chefe da Comissão Européia, Ursula von der Leyen, disse que a União Européia deveria dobrar sua ajuda à Ucrânia. Ela disse que a UE deve criar um fundo de apoio de € 50 bilhões até o final do ano e fazer o que for preciso para garantir a vitória dos ucranianos no campo de batalha.
 

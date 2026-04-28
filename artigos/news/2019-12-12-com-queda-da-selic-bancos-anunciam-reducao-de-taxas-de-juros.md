@@ -1,11 +1,12 @@
 ---
-title: "Com queda da Selic, bancos anunciam redução de taxas de juros"
+title: Com queda da Selic, bancos anunciam redução de taxas de juros
 date: 2019-12-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *No total, a proposta do governo Bolsonaro representa ações no valor de R$ 6,8 trilhões no período de quatro anos *
 

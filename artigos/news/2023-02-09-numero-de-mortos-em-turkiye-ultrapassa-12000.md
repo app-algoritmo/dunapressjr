@@ -1,11 +1,12 @@
 ---
-title: "Número de mortos em Türkiye ultrapassa 12.000"
+title: Número de mortos em Türkiye ultrapassa 12.000
 date: 2023-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ÚLTIMA ATUALIZAÇÃO: 09 DE FEVEREIRO DE 2023 8H55
 

@@ -1,11 +1,12 @@
 ---
-title: "Subprodutos da acerola reduzem gorduras no sangue"
+title: Subprodutos da acerola reduzem gorduras no sangue
 date: 2021-12-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pesquisa realizada por Kamila Sabino Batista, mestranda do Programa de Pós-Graduação em Ciências da Nutrição da Universidade Federal da Paraíba (UFPB) investigou os efeitos do consumo de subprodutos da acerola como sementes, cascas e polpa, no tratamento da dislipidemia. A doença crônica causa aumento de lipídios, gorduras, como triglicerídeos, colesterol, LDL e VLDL. Os resultados mostraram que o consumo levou não apenas à redução desses elementos no sangue, mas também à perda de peso.
 

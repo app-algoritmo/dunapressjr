@@ -1,11 +1,13 @@
 ---
-title: "Comando do 6º Distrito Naval realiza Estágio de Defesa Nuclear, Biológica, Química e Radiológica"
+title: Comando do 6º Distrito Naval realiza Estágio de Defesa Nuclear, Biológica,
+  Química e Radiológica
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Visando medidas de combate ao coronavírus, o Comando do 6º Distrito
 Naval (Com6ºDN), por meio do 3° Batalhão de Operações Ribeirinhas (3ºBtlOpRib),

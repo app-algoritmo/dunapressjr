@@ -1,11 +1,12 @@
 ---
-title: "Monitor do PIB aponta crescimento de 4,7% em 2021, diz FGV"
+title: Monitor do PIB aponta crescimento de 4,7% em 2021, diz FGV
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os setores agropecuária, indústria e serviços cresceram no ano.
 

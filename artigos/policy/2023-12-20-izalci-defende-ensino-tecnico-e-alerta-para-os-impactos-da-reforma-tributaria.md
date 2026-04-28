@@ -1,11 +1,12 @@
 ---
-title: "Izalci defende ensino técnico e alerta para os impactos da reforma tributária"
+title: Izalci defende ensino técnico e alerta para os impactos da reforma tributária
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta segunda-feira (18), o senador Izalci Lucas (PSDB-DF) fez um balanço de suas atividades em 2023. O parlamentar voltou a defender a importância de aumentar os investimentos no ensino técnico no país. Ele enfatizou a necessidade de resgatar a educação profissionalizante para gerar oportunidades aos jovens e atender às demandas do mercado de trabalho, que necessita de mão de obra qualificada.
 

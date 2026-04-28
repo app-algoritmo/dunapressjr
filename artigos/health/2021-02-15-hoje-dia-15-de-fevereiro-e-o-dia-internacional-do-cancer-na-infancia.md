@@ -1,11 +1,12 @@
 ---
-title: "Hoje dia 15 de fevereiro é o Dia Internacional do Câncer na Infância"
+title: Hoje dia 15 de fevereiro é o Dia Internacional do Câncer na Infância
 date: 2021-02-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 15 de fevereiro a comunidade global celebra o Dia Internacional do Câncer Infantil com uma campanha colaborativa para aumentar a conscientização sobre o câncer infantil e expressar apoio às crianças e adolescentes com câncer, os sobreviventes da doença e suas famílias.
 

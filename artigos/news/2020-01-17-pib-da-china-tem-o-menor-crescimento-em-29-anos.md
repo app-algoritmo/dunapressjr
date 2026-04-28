@@ -1,11 +1,12 @@
 ---
-title: "PIB da China tem o menor crescimento em 29 anos"
+title: PIB da China tem o menor crescimento em 29 anos
 date: 2020-01-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Expansão ficou em 6,1% em 2019*
 

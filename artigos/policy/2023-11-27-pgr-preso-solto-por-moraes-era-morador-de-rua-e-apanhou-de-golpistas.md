@@ -1,11 +1,12 @@
 ---
-title: "PGR: preso solto por Moraes era morador de rua e apanhou de golpistas"
+title: 'PGR: preso solto por Moraes era morador de rua e apanhou de golpistas'
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Informação consta no pedido de liberdade de Geraldo da Silva.
 

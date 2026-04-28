@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha acima de 110 mil pontos pela primeira vez desde fevereiro"
+title: Bolsa fecha acima de 110 mil pontos pela primeira vez desde fevereiro
 date: 2020-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar encerrou o dia vendido a R$ 5,32, no menor nível em seis dias.
 

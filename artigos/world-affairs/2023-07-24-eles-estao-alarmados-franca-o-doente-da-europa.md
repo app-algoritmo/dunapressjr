@@ -1,11 +1,12 @@
 ---
-title: "Eles estão alarmados ('França, o doente da Europa')"
+title: Eles estão alarmados ('França, o doente da Europa')
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O diário francês Le Figaro de repente se sentiu inseguro por causa do "trabalho intelectual" de um certo [Nicolas Baverez](https://www.institutmontaigne.org/en/experts/nicolas-baverez) , que declarou a França o "homem doente da Europa". Bem, acho que isso deixa a Turquia feliz. Agora eles não estão mais sozinhos. Baverez escreve:
 

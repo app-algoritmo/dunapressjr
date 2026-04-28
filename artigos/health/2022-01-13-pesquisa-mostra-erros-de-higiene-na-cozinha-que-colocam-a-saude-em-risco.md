@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra erros de higiene na cozinha que colocam a saúde em risco"
+title: Pesquisa mostra erros de higiene na cozinha que colocam a saúde em risco
 date: 2022-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 De acordo com a Organização Mundial da Saúde (OMS), todos os anos cerca de 600 milhões de indivíduos no mundo adoecem e 420 mil morrem em decorrência de doenças transmitidas por alimentos (DTA). No Brasil, entre 2000 e 2018, foram registrados oficialmente 247.570 casos de DTA com 195 mortes, segundo dados do Ministério da Saúde. E qual foi a origem principal da contaminação apontada pelo estudo? A cozinha da própria casa.
 

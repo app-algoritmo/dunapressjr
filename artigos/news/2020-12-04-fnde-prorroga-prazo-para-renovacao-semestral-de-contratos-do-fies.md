@@ -1,11 +1,12 @@
 ---
-title: "FNDE prorroga prazo para renovação semestral de contratos do Fies"
+title: FNDE prorroga prazo para renovação semestral de contratos do Fies
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou até 31 de dezembro o prazo para a renovação semestral dos contratos concedidos pelo Fundo de Financiamento Estudantil (Fies) no segundo semestre de 2020. Os aditamentos dos contratos deverão ser feitos pelo sistema SisFies.
 

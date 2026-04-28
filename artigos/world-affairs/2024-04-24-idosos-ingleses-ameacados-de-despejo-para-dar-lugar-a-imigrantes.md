@@ -1,11 +1,12 @@
 ---
-title: "Idosos ingleses ameaçados de despejo para dar lugar a imigrantes"
+title: Idosos ingleses ameaçados de despejo para dar lugar a imigrantes
 date: 2024-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Reino Unido está no centro de uma controvérsia crescente, à medida que o governo enfrenta críticas por sua abordagem em relação aos imigrantes, em detrimento dos direitos de seus próprios cidadãos mais vulneráveis. Recentemente, um casal de idosos ingleses, Jose e Ted Saunders, foram surpreendidos ao receber uma carta do Conselho de North Northamptonshire, ordenando-lhes que vendessem sua casa para alojar requerentes de asilo. O caso, que veio à tona após um vídeo viral, expôs a tensão crescente entre a população nativa e os imigrantes que buscam abrigo no país.
 

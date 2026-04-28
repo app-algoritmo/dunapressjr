@@ -1,11 +1,13 @@
 ---
-title: "O Secretário-Geral da OTAN discute a situação na Ucrânia e arredores com o Primeiro-Ministro da Romênia"
+title: O Secretário-Geral da OTAN discute a situação na Ucrânia e arredores com o
+  Primeiro-Ministro da Romênia
 date: 2021-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O secretário-geral da OTAN, Jens Stoltenberg, deu as boas-vindas ao primeiro-ministro da Romênia, Nicolae Ciucă, à sede da OTAN na terça-feira (21 de dezembro). O Secretário-Geral felicitou o Sr. Ciucă por sua nomeação como Primeiro-Ministro. Ele elogiou as contribuições da Romênia para a Aliança, inclusive por desempenhar um papel essencial na região do Mar Negro. O Sr. Stoltenberg saudou também os esforços da Roménia para ajudar a construir a estabilidade nos Balcãs Ocidentais e o seu apoio aos parceiros da OTAN, incluindo a Moldávia e a Ucrânia.
 

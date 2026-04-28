@@ -1,11 +1,12 @@
 ---
-title: "Diminuição de Nascimentos em Comunidade Belga Levanta Questões Sobre Fertilidade"
+title: Diminuição de Nascimentos em Comunidade Belga Levanta Questões Sobre Fertilidade
 date: 2024-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos anos, Carine Knapen, ex-advogada residente em uma comunidade com altos índices de vacinação, observou uma preocupante tendência local: um aumento nos problemas de fertilidade desde 2021. Um médico de família compartilhou recentemente que muitos casais vacinados estão enfrentando dificuldades para conceber, um problema que parece estar restrito a esses casais.
 

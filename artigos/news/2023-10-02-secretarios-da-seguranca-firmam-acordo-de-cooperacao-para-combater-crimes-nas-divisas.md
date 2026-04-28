@@ -1,11 +1,13 @@
 ---
-title: "Secretários da Segurança firmam acordo de cooperação para combater crimes nas divisas"
+title: Secretários da Segurança firmam acordo de cooperação para combater crimes nas
+  divisas
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Parceria firmada pelo SULMaSSP vai possibilitar troca de informações e intensificar atuações em conjunto entre as polícias.
 

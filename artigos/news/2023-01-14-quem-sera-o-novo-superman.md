@@ -1,12 +1,13 @@
 ---
-title: "Quem Será o Novo Superman?"
+title: Quem Será o Novo Superman?
 date: 2023-01-14
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 A resposta dessa pergunta vale milhões em bilheteria.
 

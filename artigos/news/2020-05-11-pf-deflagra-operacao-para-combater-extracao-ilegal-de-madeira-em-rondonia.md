@@ -1,11 +1,12 @@
 ---
-title: "PF deflagra operação para combater extração ilegal de madeira em Rondônia"
+title: PF deflagra operação para combater extração ilegal de madeira em Rondônia
 date: 2020-05-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Porto Velho/RO -** A Polícia Federal deflagrou, na manhã desta segunda-feira (11/05), a Operação Inimigos da Tora, visando dar cumprimento a 14 mandados de busca e apreensão, todos expedidos pela 3ª Vara da Justiça Federal em Porto Velho/RO.
 

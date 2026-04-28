@@ -1,11 +1,12 @@
 ---
-title: "Vacina contra sarampo é segura e salva vidas"
+title: Vacina contra sarampo é segura e salva vidas
 date: 2021-05-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Sarampo é um vírus altamente contagioso e a infecção causada por ele pode ter sérias consequências para a saúde, sobretudo das crianças, podendo levar à morte.
 

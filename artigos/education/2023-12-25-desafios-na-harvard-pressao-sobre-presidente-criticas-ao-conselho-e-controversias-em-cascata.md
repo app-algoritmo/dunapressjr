@@ -1,11 +1,13 @@
 ---
-title: "Desafios na Harvard: Pressão sobre Presidente, Críticas ao Conselho e Controvérsias em Cascata"
+title: 'Desafios na Harvard: Pressão sobre Presidente, Críticas ao Conselho e Controvérsias
+  em Cascata'
 date: 2023-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 À medida que a saga da presidente de Harvard, Claudine Gay, continua, novos elementos surgem, complicando ainda mais a situação. Após uma audiência na Câmara e a primeira rodada de alegações de plágio, a Harvard Corporation emitiu um comunicado de apoio a Gay, alegando uma revisão das acusações, mas um novo capítulo de alegações levanta questionamentos sobre a liderança e integridade da presidente.
 

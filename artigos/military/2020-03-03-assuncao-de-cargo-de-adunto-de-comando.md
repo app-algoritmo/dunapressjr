@@ -1,11 +1,12 @@
 ---
-title: "Assunção de cargo de Adunto de Comando"
+title: Assunção de cargo de Adunto de Comando
 date: 2020-03-03
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Campo
 Grande (MS) **– Em 21 de fevereiro, o Colégio Militar de Campo

@@ -1,11 +1,13 @@
 ---
-title: "Força Bruta 2023 vai testar potência de atletas em provas que somam mais de 16 toneladas neste domingo (15)"
+title: Força Bruta 2023 vai testar potência de atletas em provas que somam mais de
+  16 toneladas neste domingo (15)
 date: 2023-01-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A cidade de Cotia, na Região Metropolitana de São Paulo, vai receber quatro dos homens mais fortes do planeta neste domingo (15). Eles se enfrentarão pelo título de campeão do Força Bruta 2023, a partir das 10h, no Parque Teresa Maia. Para conquistar o troféu de campeão, terão que erguer, arremessar e puxar cerca de 16 toneladas de peso, divididos em quatro provas. O evento de Strongman tem entrada grátis para o público a partir das 8h30 e será transmitido pela TV Globo, dentro da programação do Esporte Espetacular.
 

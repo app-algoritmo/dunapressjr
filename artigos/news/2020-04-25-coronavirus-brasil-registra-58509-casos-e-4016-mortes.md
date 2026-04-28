@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus Brasil: registra 58.509 casos e 4.016 mortes"
+title: 'Coronavírus Brasil: registra 58.509 casos e 4.016 mortes'
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Dos 58.509 casos diagnosticados, 29.160 pessoas são consideradas recuperadas e outras 25.333 estão em acompanhamento. Informações foram atualizadas até as 14h deste sábado (25)*.
 

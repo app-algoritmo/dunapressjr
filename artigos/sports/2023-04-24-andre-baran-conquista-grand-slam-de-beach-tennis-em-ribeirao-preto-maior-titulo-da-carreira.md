@@ -1,11 +1,13 @@
 ---
-title: "André Baran conquista 'Grand Slam' de Beach Tennis, em Ribeirão Preto, maior título da carreira"
+title: André Baran conquista 'Grand Slam' de Beach Tennis, em Ribeirão Preto, maior
+  título da carreira
 date: 2023-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 André Baran conquistou na noite deste sábado (22) o maior título de sua carreira. Ao lado do parceiro russo Nikita Burmakin, o catarinense venceu o Sand Series Ribeirão Preto de Beach Tennis - na categoria conhecida como Grand Slam da modalidade. Cabeças de chave número 3, Baran - número 1 do Brasil e quinto do mundo - e Nikita - sexto do ranking mundial - derrotaram na final Maksimillans Andersons, da Letônia, e Mathieu Guegano, da França - cabeças 5 - por 2 sets a 0, com duplo 6/2. O torneio, realizado no interior paulista deste a quinta-feira (20), integra o calendário da ITF (International Tennis Federation).
 

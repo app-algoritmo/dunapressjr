@@ -1,11 +1,13 @@
 ---
-title: "Principais Ações da Bolsa de Valores e Tendências Globais: O Impacto das Criptomoedas e Carteiras Recomendadas"
+title: 'Principais Ações da Bolsa de Valores e Tendências Globais: O Impacto das Criptomoedas
+  e Carteiras Recomendadas'
 date: 2024-09-19
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Ações Principais da Bolsa de Valores: Tendências e Influências Internacionais**
 

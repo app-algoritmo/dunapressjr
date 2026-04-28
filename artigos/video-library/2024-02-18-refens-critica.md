@@ -1,11 +1,12 @@
 ---
-title: "'Reféns' | Crítica"
+title: '''Reféns'' | Crítica'
 date: 2024-02-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## O filme "Reféns" é um intrigante thriller que te deixa a acordado do início ao fim.
 

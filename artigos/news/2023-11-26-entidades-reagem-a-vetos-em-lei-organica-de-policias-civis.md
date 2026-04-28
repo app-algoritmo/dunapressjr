@@ -1,11 +1,12 @@
 ---
-title: "Entidades reagem a vetos em lei orgânica de polícias civis"
+title: Entidades reagem a vetos em lei orgânica de polícias civis
 date: 2023-11-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Texto foi publicado esta semana no Diário Oficial da União.
 

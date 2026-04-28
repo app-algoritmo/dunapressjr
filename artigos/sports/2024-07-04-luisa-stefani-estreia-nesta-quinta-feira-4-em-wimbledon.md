@@ -1,12 +1,13 @@
 ---
-title: "Luisa Stefani estreia nesta quinta-feira (4) em Wimbledon"
+title: Luisa Stefani estreia nesta quinta-feira (4) em Wimbledon
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs fazem primeiro jogo da quadra 7, a partir das 7h (horário de Brasília).
 

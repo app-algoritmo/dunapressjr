@@ -1,11 +1,12 @@
 ---
-title: "FAB monta estrutura para produção e distribuição de refeições para caminhoneiros"
+title: FAB monta estrutura para produção e distribuição de refeições para caminhoneiros
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em mais uma ação da Operação COVID-19, a Força Aérea Brasileira (FAB) realiza, a partir desta segunda-feira (04/05), a produção e distribuição de refeições para caminhoneiros que trafegam pela SP-055, em local próximo ao Porto de Santos, no litoral paulista. Estima-se que serão distribuídas até 800 unidades por dia, em dois períodos: das 12 às 13 horas, e das 18 às 19 horas.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>Conselho do PPI indica mais dois projetos para o programa de desestatização</strong>"
+title: <strong>Conselho do PPI indica mais dois projetos para o programa de desestatização</strong>
 date: 2022-09-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Tiveram suas recomendações aprovadas, durante a 23ª reunião ordinária do colegiado, a Companhia Docas do Rio de Janeiro e a Companhia Docas do Pará.
 

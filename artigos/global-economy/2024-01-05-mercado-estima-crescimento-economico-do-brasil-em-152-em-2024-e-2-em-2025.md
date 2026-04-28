@@ -1,11 +1,12 @@
 ---
-title: "Mercado estima crescimento econômico do Brasil em 1,52% em 2024 e 2% em 2025"
+title: Mercado estima crescimento econômico do Brasil em 1,52% em 2024 e 2% em 2025
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O mercado financeiro do Brasil manteve, em sua primeira projeção do ano, um crescimento do Produto Interno Bruto (PIB) de 1,52% em 2024 e de 2% em 2025, segundo a pesquisa Focus, realizada entre as principais instituições financeiras e divulgada pelo Banco Central nesta terça-feira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Grupo encena primeiro tiro da Artilharia brasileira na Segunda Guerra Mundial"
+title: Grupo encena primeiro tiro da Artilharia brasileira na Segunda Guerra Mundial
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O município de Nova Veneza, no Sul de Santa Catarina, foi palco da 3ª edição da Encenação Histórica do 1° Tiro de Artilharia da Força Expedicionária Brasileira na Segunda Guerra Mundial, executado precisamente às 14h22 do dia 16 de setembro de 1994. Trajando o uniforme histórico dos soldados da FEB, integrantes do Grupo de Encenação Histórica Monte Castelo e militares do 28° Grupo de Artilharia de Campanha simularam o avanço de um pelotão de infantaria e mobilizaram uma bateria de obuses. 
 

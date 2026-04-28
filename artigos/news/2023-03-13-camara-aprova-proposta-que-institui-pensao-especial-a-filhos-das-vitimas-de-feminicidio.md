@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova proposta que institui pensão especial a filhos das vítimas de feminicídio"
+title: Câmara aprova proposta que institui pensão especial a filhos das vítimas de
+  feminicídio
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Plenário da Câmara dos Deputados aprovou nesta quinta-feira (9), em sessão deliberativa virtual, proposta que institui uma pensão especial aos filhos e outros dependentes menores de 18 anos de mulheres vítimas de feminicídio. O texto segue agora para análise do Senado.
 

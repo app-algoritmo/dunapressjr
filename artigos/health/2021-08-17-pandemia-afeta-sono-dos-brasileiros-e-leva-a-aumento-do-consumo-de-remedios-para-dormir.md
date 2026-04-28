@@ -1,11 +1,13 @@
 ---
-title: "Pandemia afeta sono dos brasileiros e leva a aumento do consumo de remédios para dormir"
+title: Pandemia afeta sono dos brasileiros e leva a aumento do consumo de remédios
+  para dormir
 date: 2021-08-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Pesquisa aponta que mais da metade das pessoas tem enfrentado noites mal dormidas; nervosismo, ansiedade, tensão e dificuldade no relaxamento são principais reflexos.
 

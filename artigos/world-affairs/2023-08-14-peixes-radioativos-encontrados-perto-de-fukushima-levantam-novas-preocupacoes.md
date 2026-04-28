@@ -1,11 +1,12 @@
 ---
-title: "Peixes radioativos encontrados perto de Fukushima levantam novas preocupações"
+title: Peixes radioativos encontrados perto de Fukushima levantam novas preocupações
 date: 2023-08-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A operadora de usina japonesa Tokyo Electric Power Company (TEPCO) examinou um rockfish preto em maio e descobriu que continha césio radioativo 180 vezes o limite permitido no Japão. O peixe radioativo foi capturado perto de saídas de drenagem nas instalações da TEPCO, onde três reatores nucleares derreteram durante um tsunami em março de 2011. A água da chuva ao redor dos reatores flui para a área onde o peixe foi pescado.
 

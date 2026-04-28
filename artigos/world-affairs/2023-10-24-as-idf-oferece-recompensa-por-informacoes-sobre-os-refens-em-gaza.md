@@ -1,11 +1,12 @@
 ---
-title: "As IDF oferece recompensa por informações sobre os reféns em Gaza"
+title: As IDF oferece recompensa por informações sobre os reféns em Gaza
 date: 2023-10-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Como parte dos extensos esforços para libertar os reféns israelenses e estrangeiros detidos por terroristas do Hamas, as IDF perguntam aos residentes de Gaza:
 

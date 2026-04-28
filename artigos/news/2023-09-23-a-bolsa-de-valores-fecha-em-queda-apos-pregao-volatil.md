@@ -1,11 +1,12 @@
 ---
-title: "A Bolsa de Valores fecha em queda após pregão volátil"
+title: A Bolsa de Valores fecha em queda após pregão volátil
 date: 2023-09-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar também registra decréscimo, enquanto setor de commodities amortece perdas.
 

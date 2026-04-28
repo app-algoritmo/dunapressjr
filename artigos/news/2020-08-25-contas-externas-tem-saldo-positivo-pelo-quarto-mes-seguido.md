@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm saldo positivo pelo quarto mês seguido"
+title: Contas externas têm saldo positivo pelo quarto mês seguido
 date: 2020-08-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit é de US$ 1,6 bilhão, o primeiro saldo positivo desde 2006.
 

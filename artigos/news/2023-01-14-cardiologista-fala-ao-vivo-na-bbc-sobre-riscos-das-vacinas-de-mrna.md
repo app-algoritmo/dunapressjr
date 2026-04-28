@@ -1,11 +1,12 @@
 ---
-title: "Cardiologista fala ao vivo na BBC sobre riscos das vacinas de mRNA"
+title: Cardiologista fala ao vivo na BBC sobre riscos das vacinas de mRNA
 date: 2023-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O Cardiologista Dr. Aseem Malhotra falou AO VIVO na BBC News do Reino Unido sobre a ligação das vacinas de mRNA e os riscos de doenças cardíacas e o excesso de mortalidade que está havendo.
 

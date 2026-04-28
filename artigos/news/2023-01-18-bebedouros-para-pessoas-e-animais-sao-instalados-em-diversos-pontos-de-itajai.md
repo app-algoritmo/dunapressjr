@@ -1,11 +1,12 @@
 ---
-title: "Bebedouros para pessoas e animais são instalados em diversos pontos de Itajaí"
+title: Bebedouros para pessoas e animais são instalados em diversos pontos de Itajaí
 date: 2023-01-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí vai dispor de 14 novos bebedouros instalados pelo Semasa em pontos estratégicos do município, com grande circulação de público. Onze pontos já podem ser encontrados pelas ruas da cidade, nesta terça-feira (17). Os modelos possuem duas torneiras, sendo uma para as pessoas encherem garrafinhas e outra, com tigela, para hidratação de animais.
 

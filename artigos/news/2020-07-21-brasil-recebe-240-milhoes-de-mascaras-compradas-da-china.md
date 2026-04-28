@@ -1,11 +1,12 @@
 ---
-title: "Brasil recebe 240 milhões de máscaras compradas da China"
+title: Brasil recebe 240 milhões de máscaras compradas da China
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil recebeu, na noite desse domingo (19), o último voo da operação conjunta entre o Ministério da Infraestrutura e a Latam para trazer da China máscaras cirúrgicas e N95 usadas por profissionais que atuam no combate à Covid-19. Foram 39 voos realizados desde maio que trouxeram ao País 240 milhões de máscaras adquiridas pelo Governo Federal.
 

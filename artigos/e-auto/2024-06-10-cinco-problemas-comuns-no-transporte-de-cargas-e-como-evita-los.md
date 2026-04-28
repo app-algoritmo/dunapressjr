@@ -1,11 +1,12 @@
 ---
-title: "Cinco problemas comuns no transporte de cargas e como evitá-los"
+title: Cinco problemas comuns no transporte de cargas e como evitá-los
 date: 2024-06-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Ao todo, 62,2% do transporte de cargas do Brasil é realizado pelas estradas, segundo levantamento realizado pela Fundação Dom Cabral. 
 

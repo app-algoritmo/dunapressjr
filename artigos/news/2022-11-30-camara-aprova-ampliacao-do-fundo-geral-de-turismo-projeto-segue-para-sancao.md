@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova ampliação do Fundo Geral de Turismo; projeto segue para sanção"
+title: Câmara aprova ampliação do Fundo Geral de Turismo; projeto segue para sanção
 date: 2022-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou proposta que amplia as atividades financiáveis com dinheiro do Fundo Geral de Turismo (Fungetur). O texto prevê o uso de recursos do fundo para garantir empréstimos ao setor e permite a compra de vários tipos de títulos de recebíveis. A proposta será enviada à sanção presidencial.
 

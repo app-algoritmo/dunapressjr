@@ -1,11 +1,13 @@
 ---
-title: "Mapa lança Instrução Normativa que aprova diretrizes gerais para a vigilância da febre aftosa"
+title: Mapa lança Instrução Normativa que aprova diretrizes gerais para a vigilância
+  da febre aftosa
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A norma faz uma atualização dos atos normativos aos novos conceitos internacionais, prevista no cronograma do Pnefa para o avanço do status sanitário do país para livre de febre aftosa sem vacinação.
 

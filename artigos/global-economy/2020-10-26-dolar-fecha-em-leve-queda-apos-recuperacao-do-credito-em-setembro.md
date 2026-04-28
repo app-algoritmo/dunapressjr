@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em leve queda após recuperação do crédito em setembro"
+title: Dólar fecha em leve queda após recuperação do crédito em setembro
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu 0,24%, mas manteve-se acima de 100 mil pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Edital - Antologia Dorama: O último adeus em Seul"
+title: 'Edital - Antologia Dorama: O último adeus em Seul'
 date: 2024-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 Na sinfonia do amor, onde cada gesto é uma nota melódica e cada olhar é uma dança delicada, a DragonStone Books tem o prazer de convidá-lo a embarcar em uma jornada de emoções intensas com "Dorama: O Último Adeus em Seul", **a primeira antologia literária no Brasil a adotar o tema**. Uma coletânea que celebra o encanto dos doramas e seus enredos românticos.
 

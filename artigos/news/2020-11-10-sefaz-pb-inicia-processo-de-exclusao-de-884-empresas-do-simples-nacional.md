@@ -1,11 +1,12 @@
 ---
-title: "SEFAZ-PB inicia processo de exclusão de 884 empresas do Simples Nacional"
+title: SEFAZ-PB inicia processo de exclusão de 884 empresas do Simples Nacional
 date: 2020-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado da Fazenda (Sefaz) publicou Edital para tornar público o processo inicial de exclusão de 884 empresas optantes do Simples Nacional (MEI e micro e pequenas empresas), por irregularidade no cadastro da inscrição estadual. Essas empresas têm prazo de 30 dias para procurar a repartição fiscal do seu domicílio para realizar a regularização ou então para interpor uma impugnação até a data limite.
 

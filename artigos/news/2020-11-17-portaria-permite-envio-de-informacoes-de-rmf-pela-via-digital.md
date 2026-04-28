@@ -1,11 +1,12 @@
 ---
-title: "Portaria permite envio de informações de RMF pela via digital"
+title: Portaria permite envio de informações de RMF pela via digital
 date: 2020-11-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Requisição de Informações sobre Movimentação Financeira (RMF) é instrumento utilizado para fiscalizações da Receita Federal.
 

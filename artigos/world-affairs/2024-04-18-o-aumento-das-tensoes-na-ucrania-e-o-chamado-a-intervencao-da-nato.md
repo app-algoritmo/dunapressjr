@@ -1,11 +1,12 @@
 ---
-title: "O Aumento das Tensões na Ucrânia e o Chamado à Intervenção da NATO"
+title: O Aumento das Tensões na Ucrânia e o Chamado à Intervenção da NATO
 date: 2024-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No dia 10 de abril, uma série de eventos políticos e declarações inflamaram ainda mais as já tensas relações entre a Ucrânia, a Rússia e os países ocidentais, especialmente os membros da NATO. Este artigo analisará os acontecimentos que ocorreram neste dia crucial e suas implicações para o futuro da região e do mundo.
 

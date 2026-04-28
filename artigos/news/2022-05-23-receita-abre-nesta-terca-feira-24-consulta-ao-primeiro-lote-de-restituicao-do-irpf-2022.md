@@ -1,11 +1,13 @@
 ---
-title: "Receita abre nesta terça-feira (24) consulta ao primeiro lote de restituição do IRPF 2022"
+title: Receita abre nesta terça-feira (24) consulta ao primeiro lote de restituição
+  do IRPF 2022
 date: 2022-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Serão contemplados 3.383.969 contribuintes; valor total do crédito é de R$ 6,3 bilhões.
 

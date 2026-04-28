@@ -1,11 +1,13 @@
 ---
-title: "Banco Mundial revisa para cima previsão de crescimento global para 2021, impulsionado por melhora da China"
+title: Banco Mundial revisa para cima previsão de crescimento global para 2021, impulsionado
+  por melhora da China
 date: 2023-04-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente da instituição alertou que a atividade econômica pode desacelerar no segundo semestre de 2023.
 

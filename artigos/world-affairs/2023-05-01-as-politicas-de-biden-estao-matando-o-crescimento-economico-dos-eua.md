@@ -1,11 +1,12 @@
 ---
-title: "As políticas de Biden estão matando o crescimento econômico dos EUA"
+title: As políticas de Biden estão matando o crescimento econômico dos EUA
 date: 2023-05-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## As políticas econômicas do presidente Joe Biden estão se mostrando ainda mais desastrosas do que se pensava, como indicam os próprios números do governo federal.
 

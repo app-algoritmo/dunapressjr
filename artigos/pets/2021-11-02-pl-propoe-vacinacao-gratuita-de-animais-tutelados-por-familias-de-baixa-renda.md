@@ -1,11 +1,12 @@
 ---
-title: "PL propõe “vacinação gratuita” de animais tutelados por famílias de baixa renda"
+title: PL propõe “vacinação gratuita” de animais tutelados por famílias de baixa renda
 date: 2021-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Um projeto de lei protocolado na terça-feira (31/08) pelo deputado Chiquinho Brazão (Avante-RJ) propõe a “vacinação gratuita” de animais tutelados por famílias de baixa renda.
 

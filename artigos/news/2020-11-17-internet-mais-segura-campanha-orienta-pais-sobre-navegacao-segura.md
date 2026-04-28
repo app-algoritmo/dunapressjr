@@ -1,11 +1,12 @@
 ---
-title: "Internet mais segura: campanha orienta pais sobre navegação segura"
+title: 'Internet mais segura: campanha orienta pais sobre navegação segura'
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ideia é reforçar o diálogo entre pais e filhos e evitar os perigos que a internet pode trazer para dentro de casa.
 

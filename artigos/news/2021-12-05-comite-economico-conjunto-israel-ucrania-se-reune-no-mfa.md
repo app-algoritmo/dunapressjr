@@ -1,11 +1,12 @@
 ---
-title: "Comitê Econômico Conjunto Israel-Ucrânia se reúne no MFA"
+title: Comitê Econômico Conjunto Israel-Ucrânia se reúne no MFA
 date: 2021-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Yael Ravia-Zadok, Divisão de Assuntos Econômicos do vice-diretor-geral: A reunião permitiu que os dois governos avançassem em questões de interesse comum e iniciassem processos para atualizar o comércio e a cooperação.
 

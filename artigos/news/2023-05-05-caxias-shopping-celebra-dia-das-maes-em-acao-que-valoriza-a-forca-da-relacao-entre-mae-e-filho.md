@@ -1,11 +1,13 @@
 ---
-title: "Caxias Shopping celebra Dia das Mães em ação que valoriza a força da relação entre mãe e filho"
+title: Caxias Shopping celebra Dia das Mães em ação que valoriza a força da relação
+  entre mãe e filho
 date: 2023-05-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## O cliente que juntar R$350 em compras ganha uma linda bolsa de mão.
 

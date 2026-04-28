@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai no dia, mas fecha setembro com alta de 2,52%"
+title: Dólar cai no dia, mas fecha setembro com alta de 2,52%
 date: 2020-10-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores tem o pior mês desde março.
 

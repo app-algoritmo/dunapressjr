@@ -1,11 +1,13 @@
 ---
-title: "Projeto do Senado bipartidário busca estabelecer centro de pesquisa de IA dos EUA-Israel"
+title: Projeto do Senado bipartidário busca estabelecer centro de pesquisa de IA dos
+  EUA-Israel
 date: 2021-06-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O senador Blackburn disse que "combater o avanço crescente da Inteligência Artificial da China e sua presença desestabilizadora é essencial para a segurança global".
 

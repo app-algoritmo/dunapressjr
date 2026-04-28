@@ -1,11 +1,12 @@
 ---
-title: "Prepare-se para um grande surto de Marburg"
+title: Prepare-se para um grande surto de Marburg
 date: 2023-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Os propagandistas do complexo biofarmacêutico ativaram os seguintes relatórios da Guiné Equatorial e da Tanzânia.
 

@@ -1,11 +1,12 @@
 ---
-title: "MILITARES APOIAM CAMPANHAS DE DOAÇÃO DE ALIMENTOS"
+title: MILITARES APOIAM CAMPANHAS DE DOAÇÃO DE ALIMENTOS
 date: 2020-04-07
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 As Forças Armadas seguem na missão de enfrentamento ao coronavírus e de apoio à população brasileira nesse combate. Marinha, Exército e Aeronáutica estão unidas em 10 Comandos Conjuntos espalhados pelo Brasil. Até o momento, foram empregadas 60 embarcações, 800 viaturas, 26 aeronaves, além de 25 mil militares.
 

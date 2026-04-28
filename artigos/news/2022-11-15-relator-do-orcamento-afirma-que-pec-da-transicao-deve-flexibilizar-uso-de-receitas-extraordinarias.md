@@ -1,11 +1,13 @@
 ---
-title: "Relator do Orçamento afirma que PEC da Transição deve flexibilizar uso de receitas extraordinárias"
+title: Relator do Orçamento afirma que PEC da Transição deve flexibilizar uso de receitas
+  extraordinárias
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após reunião nesta quinta-feira (10) à noite na residência oficial do presidente da Câmara dos Deputados, [Arthur Lira (PP-AL)](https://www.camara.leg.br/deputados/160541), o senador Marcelo Castro (MDB-PI), relator-geral do Orçamento de 2023 ([PLN 32/22](https://www.camara.leg.br/noticias/906580-orcamento-de-2023-traz-auxilio-brasil-de-r-405)), disse que a chamada PEC da Transição também deve flexibilizar o uso de receitas extraordinárias. Pela regra atual do teto de gastos, toda receita extra deve ser usada para abater a dívida pública porque as despesas têm um limite fixo.
 

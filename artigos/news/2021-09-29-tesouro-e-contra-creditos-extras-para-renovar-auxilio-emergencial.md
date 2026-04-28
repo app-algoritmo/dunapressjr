@@ -1,11 +1,12 @@
 ---
-title: "Tesouro é contra créditos extras para renovar auxílio emergencial"
+title: Tesouro é contra créditos extras para renovar auxílio emergencial
 date: 2021-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Sem gastos com covid, haveria superávit primário, diz secretário.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo anuncia medidas para regularizar dívidas do Simples após veto"
+title: Governo anuncia medidas para regularizar dívidas do Simples após veto
 date: 2022-01-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pequenos negócios poderão dar entrada de 1%, com desconto nas multas.
 

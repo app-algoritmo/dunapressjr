@@ -1,11 +1,12 @@
 ---
-title: "Contra praga das bananeiras vinda do exterior Mapa cria plano de ações"
+title: Contra praga das bananeiras vinda do exterior Mapa cria plano de ações
 date: 2020-06-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O plano está dividido em ações prévias à presença da praga e ações de emergência em casos de suspeita da presença da praga.
 

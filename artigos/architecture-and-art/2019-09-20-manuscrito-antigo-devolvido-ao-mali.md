@@ -1,11 +1,12 @@
 ---
-title: "Manuscrito antigo devolvido ao Mali"
+title: Manuscrito antigo devolvido ao Mali
 date: 2019-09-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 ## Um manuscrito antigo do Mali, que estava nas mãos da Noruega desde os anos 90, foi entregue às autoridades culturais do Mali após uma iniciativa norueguesa.
 

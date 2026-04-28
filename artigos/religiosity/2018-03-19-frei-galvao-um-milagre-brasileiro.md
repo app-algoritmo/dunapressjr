@@ -1,11 +1,12 @@
 ---
-title: "Frei Galvão, um milagre brasileiro"
+title: Frei Galvão, um milagre brasileiro
 date: 2018-03-19
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 A canonização de Frei Galvão * (1739 - 1822)*, o primeiro santo brasileiro, ocorreu em 2007, mas os ecos de sua presença continuam e continuarão por muito tempo. Imortalizado por seu legado de total entrega a Deus, seja pela oração ou por suas ações, o santo e sua história guardam ainda mistérios que o filme de Malcolm Forest, “Frei Galvão o arquiteto da Luz”,  brilhantemente desvenda. Ordenado jesuíta, frei Antônio de Sant’Ana Galvão teve de abdicar de ser membro da ordem e tornou-se franciscano no final dos setecentos, em decorrência  da perseguição do Marquês de Pombal e subsequente extinção da Companhia de Jesus.
 

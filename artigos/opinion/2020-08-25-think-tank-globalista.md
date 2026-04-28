@@ -1,11 +1,12 @@
 ---
-title: "Think Tank Globalista!"
+title: Think Tank Globalista!
 date: 2020-08-25
 status: publish
-author: pmbizz
+author: Paulo Mello
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A Globo não é um grupo de comunicação mas sim um Think Tank Globalista!
 Já que a TAG [#GloboLixo](https://twitter.com/hashtag/GloboLixo?src=hashtag_click) veio à tona hoje mais uma vez, me sinto no dever de esclarecer o que é esta empresa.

@@ -1,11 +1,12 @@
 ---
-title: "Bairros que são destaque na Zona Sul de São Paulo￼"
+title: Bairros que são destaque na Zona Sul de São Paulo￼
 date: 2022-07-26
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Confira 5 bairros bem conceituados da Zona Sul de São Paulo para facilitar a busca pelo seu próximo imóvel.
 

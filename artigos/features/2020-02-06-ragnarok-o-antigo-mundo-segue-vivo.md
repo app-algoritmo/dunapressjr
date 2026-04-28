@@ -1,11 +1,12 @@
 ---
-title: "Ragnarok: O 'antigo mundo' segue vivo"
+title: 'Ragnarok: O ''antigo mundo'' segue vivo'
 date: 2020-02-06
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Features
+- Features
 ---
+
 
 Neil Gaiman com seu livro *Deuses Americanos*, que se tornou uma série interessante e Rick Riordan, com a série de livros *Percy Jackson* e *Os Heróis do Olimp*o, mostraram, com óbvias e claras distinções, uma temática interessante: o mundo moderno sendo palco onde deuses lendários estão presentes e repaginados.  Quando vi o trailer de *Ragnarok*, me perguntei como seria ver os deuses da Mitologia Nórdica presentes nas belas terras norueguesas atuais dividindo espaço com a modernidade. 
 

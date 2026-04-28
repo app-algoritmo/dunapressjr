@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego da FGV atinge menor nível desde 2008"
+title: Indicador Antecedente de Emprego da FGV atinge menor nível desde 2008
 date: 2020-05-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Índice caiu 42,9 pontos de março para abril
 Os dois indicadores do mercado de trabalho da Fundação Getulio Vargas (FGV) apresentaram piora em abril, devido às incertezas provocadas pela pandemia do novo coronavírus (covid-19). O Indicador Antecedente de Emprego (Iaemp), que busca antecipar tendências com base em entrevistas com consumidores e empresários da indústria e dos serviços, caiu 42,9 pontos de março para abril.

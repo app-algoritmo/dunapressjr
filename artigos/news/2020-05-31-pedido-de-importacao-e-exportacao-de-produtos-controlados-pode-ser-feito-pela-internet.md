@@ -1,11 +1,13 @@
 ---
-title: "Pedido de importação e exportação de produtos controlados pode ser feito pela internet"
+title: Pedido de importação e exportação de produtos controlados pode ser feito pela
+  internet
 date: 2020-05-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A digitalização de nove serviços relacionados a produtos controlados integra o Plano Digital da Agência Nacional de Vigilância Sanitária.
 

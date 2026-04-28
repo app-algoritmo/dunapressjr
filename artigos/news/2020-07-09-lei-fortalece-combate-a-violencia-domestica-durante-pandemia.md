@@ -1,11 +1,12 @@
 ---
-title: "Lei fortalece combate à violência doméstica durante pandemia"
+title: Lei fortalece combate à violência doméstica durante pandemia
 date: 2020-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Registro da ocorrência de violência doméstica poderá ser realizado on-line ou por de número de telefone de emergência. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Kajuru elogia medidas do CNJ para elevar grau de confiança no Judiciário"
+title: Kajuru elogia medidas do CNJ para elevar grau de confiança no Judiciário
 date: 2023-10-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Kajuru (PSB-GO) aplaudiu em pronunciamento nesta terça-feira (24) as medidas anunciadas pelo Conselho Nacional de Justiça (CNJ) para dar mais eficiência e elevar o grau de confiança dos cidadãos no Poder Judiciário. O parlamentar citou a criação do Exame Nacional da Magistratura, que deve acabar com a suspeita de favorecimento de candidatos ligados a cúpula dos tribunais.
 

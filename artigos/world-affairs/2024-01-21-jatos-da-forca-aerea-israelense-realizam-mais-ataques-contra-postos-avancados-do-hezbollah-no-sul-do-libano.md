@@ -1,11 +1,13 @@
 ---
-title: "Jatos da Força Aérea Israelense realizam mais ataques contra postos avançados do Hezbollah no sul do Líbano"
+title: Jatos da Força Aérea Israelense realizam mais ataques contra postos avançados
+  do Hezbollah no sul do Líbano
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A assessoria de imprensa das IDF também anunciou que um projétil foi lançado no início deste fim de semana do território do Líbano em direção a Israel.
 

@@ -1,11 +1,13 @@
 ---
-title: "Primeira negra latina a chegar ao topo do Everest, Aretha Duarte finaliza turnê literária em Porto Alegre"
+title: Primeira negra latina a chegar ao topo do Everest, Aretha Duarte finaliza turnê
+  literária em Porto Alegre
 date: 2022-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois de passar por 12 cidades brasileiras, a turnê de lançamento da biografia de Aretha Duarte chega ao final no dia 11 de janeiro. A população de Porto Alegre terá a oportunidade de conhecer a ativista socioambiental, liderança ESG e primeira mulher negra latino-americana a chegar ao topo do Everest. Ela estará na loja Decathlon do Shopping Iguatemi, entre 18h e 20h00, para lançar seu livro **"Da Sucata ao Everest - a saga de Aretha Duarte"**, e fará uma breve palestra com dicas de montanhismo e temas ambientais relacionados a sua experiência. 
 

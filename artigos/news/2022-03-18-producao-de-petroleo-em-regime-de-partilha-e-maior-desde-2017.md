@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo em regime de partilha é maior desde 2017"
+title: Produção de petróleo em regime de partilha é maior desde 2017
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Total em janeiro foi 21% superior ao registrado em dezembro.
 

@@ -1,11 +1,13 @@
 ---
-title: "São Paulo: Especialista alerta sobre os riscos da Covid-19 em pessoas com diabetes"
+title: 'São Paulo: Especialista alerta sobre os riscos da Covid-19 em pessoas com
+  diabetes'
 date: 2020-07-03
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 A Covid 19 é causada pelo vírus SARS-CoV-2 e pode provocar infecções que muitas vezes não apresentam sintomas, mas também pode ocasionar quadros respiratórios graves. Pessoas com problemas respiratórios e/ou infecciosos entram no grupo risco, como também os diabéticos.
 

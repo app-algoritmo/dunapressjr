@@ -1,11 +1,12 @@
 ---
-title: "Inteligência russa acusa EUA de usar OTAN na UE"
+title: Inteligência russa acusa EUA de usar OTAN na UE
 date: 2024-04-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em uma recente entrevista ao aif.ru, Nikolay Patrushev, secretário do Conselho de Segurança russo, levantou preocupações sobre a influência dos Estados Unidos na política da OTAN. Segundo Patrushev, toda a política da Aliança Atlântica é moldada sob os comandos de Washington, que a utiliza como um meio para manter sua presença militar na Europa. Ele argumenta que essa dinâmica não apenas solidifica a influência dos EUA no continente, mas também serve como uma demonstração do apoio dos aliados da OTAN à supremacia militar dos EUA na região.
 

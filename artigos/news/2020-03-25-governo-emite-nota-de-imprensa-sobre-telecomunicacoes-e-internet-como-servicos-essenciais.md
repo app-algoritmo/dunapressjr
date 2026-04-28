@@ -1,11 +1,13 @@
 ---
-title: "Governo emite Nota de  Imprensa sobre Telecomunicações e Internet como serviços essenciais"
+title: Governo emite Nota de  Imprensa sobre Telecomunicações e Internet como serviços
+  essenciais
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em razão da pandemia global do Covid-19, foi editada a Lei n. 13.979, de 6 de fevereiro de 2020, que dispõe sobre medidas para enfrentamento da atual emergência de saúde pública. Tais medidas podem incluir a restrição de movimentação por rodovias, portos ou aeroportos, assim como a requisição de bens e serviços de pessoas naturais e jurídicas.
 

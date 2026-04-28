@@ -1,11 +1,12 @@
 ---
-title: "Projeto de lei criminaliza a misoginia"
+title: Projeto de lei criminaliza a misoginia
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 872/23 criminaliza a misoginia, definida como a manifestação que inferiorize, degrade ou desumanize a mulher, baseada em preconceito contra pessoas do sexo feminino ou argumentos de supremacia masculina.
 

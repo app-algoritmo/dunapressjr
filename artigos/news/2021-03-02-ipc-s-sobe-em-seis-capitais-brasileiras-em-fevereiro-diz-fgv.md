@@ -1,11 +1,12 @@
 ---
-title: "IPC-S sobe em seis capitais brasileiras em fevereiro, diz FGV"
+title: IPC-S sobe em seis capitais brasileiras em fevereiro, diz FGV
 date: 2021-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Porto Alegre foi a única cidade com queda na taxa de inflação.
 

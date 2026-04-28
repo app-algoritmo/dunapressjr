@@ -1,12 +1,13 @@
 ---
-title: "A estátua de D. Pedro I um monumento da Independência,"
+title: A estátua de D. Pedro I um monumento da Independência,
 date: 2022-09-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 No contexto das comemorações da Independência do Brasil, foi inaugurada, em 1862, a estátua de D. Pedro I na antiga Praça da Constituição, atual Praça Tiradentes, primeira escultura pública do Brasil.
 

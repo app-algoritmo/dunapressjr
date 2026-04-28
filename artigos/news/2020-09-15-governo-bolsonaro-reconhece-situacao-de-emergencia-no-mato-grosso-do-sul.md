@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro reconhece situação de emergência no Mato Grosso do Sul"
+title: Governo Bolsonaro reconhece situação de emergência no Mato Grosso do Sul
 date: 2020-09-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a decisão, o estado poderá ter acesso a recursos da União para ações de socorro e apoio à população. As Forças Armadas atuam, desde o dia 25 de julho, no combate a incêndio no Pantanal no Mato Grosso do Sul.
 

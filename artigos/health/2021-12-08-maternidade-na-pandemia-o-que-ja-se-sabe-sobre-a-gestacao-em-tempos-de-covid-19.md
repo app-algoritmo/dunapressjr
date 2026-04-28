@@ -1,11 +1,12 @@
 ---
-title: "Maternidade na pandemia: o que já se sabe sobre a gestação em tempos de Covid-19?"
+title: 'Maternidade na pandemia: o que já se sabe sobre a gestação em tempos de Covid-19?'
 date: 2021-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A gravidez é um momento de inúmeras mudanças. Uma verdadeira revolução no organismo e na vida da mulher. Para muitas, torna-se mãe é um sonho. E o começo de uma nova família deve ser mesmo marcado pelo planejamento, pela leveza, realização pessoal e, principalmente, muita saúde para a mãe e o bebê. 
 

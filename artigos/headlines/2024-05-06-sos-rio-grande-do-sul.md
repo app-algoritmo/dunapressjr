@@ -1,11 +1,12 @@
 ---
-title: "SOS Rio Grande Do Sul"
+title: SOS Rio Grande Do Sul
 date: 2024-05-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Headlines
+- Headlines
 ---
+
 
 Comunicado Importante: Caros leitores Duna Press,
 

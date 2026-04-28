@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai e fecha a R$ 5,24, motivado pelos Estados Unidos"
+title: Dólar cai e fecha a R$ 5,24, motivado pelos Estados Unidos
 date: 2021-08-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Bolsa teve pequena alta, mas fechou semana com recuo de 1,32%.
 

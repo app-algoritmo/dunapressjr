@@ -1,11 +1,12 @@
 ---
-title: "Chefe da Pfizer: “O câncer é o nosso novo Covid”"
+title: 'Chefe da Pfizer: “O câncer é o nosso novo Covid”'
 date: 2024-05-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Após um período marcado pela "pandemia corona" e o "sucesso" das vacinas contra a Covid, a Pfizer está direcionando seus esforços para o tratamento do câncer, revelou o CEO Albert Bourla em entrevista à Fox Business.
 

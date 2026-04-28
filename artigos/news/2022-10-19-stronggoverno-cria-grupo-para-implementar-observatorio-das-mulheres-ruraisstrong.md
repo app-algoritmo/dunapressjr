@@ -1,11 +1,12 @@
 ---
-title: "<strong>Governo cria grupo para implementar Observatório das Mulheres Rurais</strong>"
+title: <strong>Governo cria grupo para implementar Observatório das Mulheres Rurais</strong>
 date: 2022-10-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Uma das metas é fortalecer o agronegócio.
 

@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí, divulga instituições contempladas com o Selo Social 2020"
+title: Município de Itajaí, divulga instituições contempladas com o Selo Social 2020
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sexta-feira (27) o Município de Itajaí realizou a 11ª edição do programa Selo Social. Foram certificadas 98 instituições e premiados 10 projetos destaques. O reconhecimento é pautado na Agenda 2030 das Nações Unidas e os Objetivos de Desenvolvimento Sustentável (ODS).
 

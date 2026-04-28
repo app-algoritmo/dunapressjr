@@ -1,11 +1,13 @@
 ---
-title: "Impulsionada pela colheita de milho e soja, produção de grãos no país deve chegar a 251,4 milhões de toneladas"
+title: Impulsionada pela colheita de milho e soja, produção de grãos no país deve
+  chegar a 251,4 milhões de toneladas
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Os dados constam no 10º Levantamento de Grãos realizado pela Companhia Nacional de Abastecimento (Conab).
 

@@ -1,11 +1,12 @@
 ---
-title: "Conflito de Valores: Rússia de Putin versus Ocidente Pós-Moderno"
+title: 'Conflito de Valores: Rússia de Putin versus Ocidente Pós-Moderno'
 date: 2024-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A multipolaridade, como conceito, defende a preservação da diversidade cultural e civilizacional global, conforme argumenta o filósofo Alexander Dugin. Esta ideia torna-se um foco central para forças conservadoras que resistem à uniformidade pós-moderna promovida pelo Ocidente. A recente tomada de posse do Presidente Vladimir Putin marca uma nova fase na história da Rússia, onde questões ideológicas podem se tornar vetores fundamentais para o desenvolvimento futuro do país no cenário internacional.
 

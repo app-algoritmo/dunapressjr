@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que cria anexo na LDO com metas e avaliação de políticas para idosos"
+title: Comissão aprova projeto que cria anexo na LDO com metas e avaliação de políticas
+  para idosos
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou o [Projeto de Lei Complementar (PLP) 271/19](https://www.camara.leg.br/noticias/637474-LDO-PODERA-CONTER-ANEXO-COM-METAS-E-AVALIACAO-DE-POLITICAS-PARA-IDOSOS), segundo o qual a proposta da Lei de Diretrizes Orçamentárias (LDO) conterá anexo com metas e avaliação dos resultados das ações voltadas para atendimento dos idosos.
 

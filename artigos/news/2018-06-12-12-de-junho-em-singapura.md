@@ -1,11 +1,12 @@
 ---
-title: "12 de junho em Singapura"
+title: 12 de junho em Singapura
 date: 2018-06-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Singapura, 12 de junho de 2018.
 

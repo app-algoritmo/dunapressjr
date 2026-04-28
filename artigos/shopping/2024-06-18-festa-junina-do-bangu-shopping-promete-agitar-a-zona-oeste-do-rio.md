@@ -1,11 +1,12 @@
 ---
-title: "Festa Junina do Bangu Shopping promete agitar a Zona Oeste do Rio"
+title: Festa Junina do Bangu Shopping promete agitar a Zona Oeste do Rio
 date: 2024-06-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Shopping
+- Shopping
 ---
+
 
 ## Com comidas típicas, quadrilhas e shows, o evento apresenta o melhor da festa junina durante o fim de semana.
 

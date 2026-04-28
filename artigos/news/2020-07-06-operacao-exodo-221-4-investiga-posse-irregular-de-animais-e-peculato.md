@@ -1,11 +1,12 @@
 ---
-title: "Operação Êxodo 22:1-4 investiga posse irregular de animais e peculato"
+title: Operação Êxodo 22:1-4 investiga posse irregular de animais e peculato
 date: 2020-07-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – A Polícia Federal deflagrou no sábado, 4/7, a Operação Êxodo 22:1-4, para combater posse irregular de animais e peculato. Um homem, que subtraiu materiais do Centro de Triagem de Animais Silvestres do IBAMA (CETAS), foi preso em flagrante em Belo Horizonte.
 

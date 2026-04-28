@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa revela: 41% dos eleitores americanos temem uma possível guerra civil nos EUA"
+title: 'Pesquisa revela: 41% dos eleitores americanos temem uma possível guerra civil
+  nos EUA'
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Resultados de um recente inquérito conduzido pelo Instituto Rasmussen mostram que 41% dos eleitores americanos estão preocupados com a possibilidade de uma guerra civil no país em um futuro próximo.
 

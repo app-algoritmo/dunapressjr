@@ -1,12 +1,14 @@
 ---
-title: "Projeto Rede de Núcleos, do IEE, volta às aulas com mais de 6.000 alunos em São Paulo, Rio de Janeiro e Pernambuco"
+title: Projeto Rede de Núcleos, do IEE, volta às aulas com mais de 6.000 alunos em
+  São Paulo, Rio de Janeiro e Pernambuco
 date: 2024-03-13
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## Os atendimentos são realizados em 36 espaços, nos três estados, e ao longo do ano contarão com muitos eventos, formações, aulas, monitorias, liderança juvenil e trocas constantes entre as equipes de coordenação e atendimento direto do Instituto Esporte e Educação.
 

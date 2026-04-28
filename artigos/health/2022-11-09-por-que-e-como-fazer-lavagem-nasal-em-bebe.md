@@ -1,11 +1,12 @@
 ---
-title: "Por que e como fazer lavagem nasal em bebê?"
+title: Por que e como fazer lavagem nasal em bebê?
 date: 2022-11-09
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Aprender como fazer a lavagem nasal em bebê é vital para ajudar a criança a se alimentar ou dormir melhor quando o nariz está congestionado. 
 

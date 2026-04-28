@@ -1,11 +1,12 @@
 ---
-title: "Elon Musk e família visitam Papa Francisco"
+title: Elon Musk e família visitam Papa Francisco
 date: 2022-07-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 **O Papa recebeu o bilionário Elon Musk e alguns dos seus filhos**
 

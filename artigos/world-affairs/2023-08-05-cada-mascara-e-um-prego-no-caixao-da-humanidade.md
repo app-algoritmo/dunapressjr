@@ -1,11 +1,12 @@
 ---
-title: "Cada máscara é um prego no caixão da humanidade"
+title: Cada máscara é um prego no caixão da humanidade
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **
 Você não está cansado de ouvir sobre máscaras? **A conversa sobre máscaras é quase tão onipresente quanto a conversa sobre Hitler. Bem, se o sapato servir... 

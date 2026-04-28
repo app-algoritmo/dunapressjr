@@ -1,11 +1,12 @@
 ---
-title: "Mensagens subliminares: como funciona e o que você pode fazer a respeito"
+title: 'Mensagens subliminares: como funciona e o que você pode fazer a respeito'
 date: 2023-07-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Mensagens subliminares é um termo que ouvi pela primeira vez há 15 anos. Foi-me explicado por um designer gráfico que trabalha na indústria publicitária, onde esta técnica está muito em voga. Sua história abrange todo o século passado e durante minhas viagens por vários aeroportos internacionais percebi o quanto lidamos com isso no dia a dia - gostemos ou não.
 

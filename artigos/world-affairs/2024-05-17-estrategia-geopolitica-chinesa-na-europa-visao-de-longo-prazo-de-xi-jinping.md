@@ -1,11 +1,12 @@
 ---
-title: "Estratégia Geopolítica Chinesa na Europa: Visão de Longo Prazo de Xi Jinping"
+title: 'Estratégia Geopolítica Chinesa na Europa: Visão de Longo Prazo de Xi Jinping'
 date: 2024-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Especialistas chineses analisam a recente visita do presidente Xi Jinping à Europa como parte de uma estratégia geopolítica de Pequim, que visa fortalecer laços e garantir benefícios mútuos a longo prazo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Rio e União assinam acordo de recuperação fiscal"
+title: Rio e União assinam acordo de recuperação fiscal
 date: 2022-07-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Plano não impede realização de concursos públicos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde lança edital para estudantes de medicina ajudarem no combate ao coronavírus"
+title: Ministério da Saúde lança edital para estudantes de medicina ajudarem no combate
+  ao coronavírus
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Saúde lança edital para estudantes de medicina, enfermagem, fisioterapia e farmácia. Participantes poderão ter direito a bolsa de até R$ 1.045.
 

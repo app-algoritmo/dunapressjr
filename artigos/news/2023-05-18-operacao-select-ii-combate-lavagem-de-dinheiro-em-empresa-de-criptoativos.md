@@ -1,11 +1,12 @@
 ---
-title: "Operação Select II combate lavagem de dinheiro em empresa de criptoativos"
+title: Operação Select II combate lavagem de dinheiro em empresa de criptoativos
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Polícia Federal e Ministério Público Federal investigam movimentação de R$ 2 bilhões em criptoativos e cumprem mandado de busca e apreensão em São Paulo/SP.
 

@@ -1,11 +1,13 @@
 ---
-title: "<strong>Exposição da União a riscos específicos totaliza R$ 4,9 trilhões em 2022</strong>"
+title: <strong>Exposição da União a riscos específicos totaliza R$ 4,9 trilhões em
+  2022</strong>
 date: 2022-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumento foi de R$ 697 bilhões na comparação com 2021; choques adversos combinados em variáveis como PIB, juros e primário podem elevar dívida bruta em 10 p.p até 2025.
 

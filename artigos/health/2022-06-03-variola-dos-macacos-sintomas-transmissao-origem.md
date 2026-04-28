@@ -1,11 +1,12 @@
 ---
-title: "Varíola dos macacos: sintomas, transmissão, origem"
+title: 'Varíola dos macacos: sintomas, transmissão, origem'
 date: 2022-06-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Casos da varíola dos macacos (monkeypox, em inglês) não param de surgir em países onde a doença não é endêmica, a maioria deles na Europa. Diante disso, a Organização Mundial da Saúde (OMS) vem atualizando a quantidade de casos, a forma de transmissão e os sintomas que envolvem a doença “prima” do vírus da varíola comum, que foi erradicado do planeta em 1980 com o apoio do órgão de saúde mundial. ([Saiba mais sobre a doença](https://butantan.gov.br/covid/butantan-tira-duvida/tira-duvida-noticias/variola-dos-macacos-o-que-e-a-doenca-seus-sintomas-e-por-que-ela-afeta-humanos))
 

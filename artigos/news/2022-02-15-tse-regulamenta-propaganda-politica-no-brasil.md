@@ -1,11 +1,12 @@
 ---
-title: "TSE regulamenta propaganda política no Brasil"
+title: TSE regulamenta propaganda política no Brasil
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Propagandas partidárias voltam à cena após quatro anos.
 

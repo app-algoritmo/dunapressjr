@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal desarticula grupo criminoso responsável por diversos atos de corrupção no Tocantins"
+title: Polícia Federal desarticula grupo criminoso responsável por diversos atos de
+  corrupção no Tocantins
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Araguaína/TO – A Polícia Federal deflagrou na manhã desta quarta-feira (17) a Operação “HIGHLINE”, com o fim de desarticular grupo criminoso responsável por supostamente desviar recursos públicos do PNATE e FNS, através de fraude a licitações, superfaturamento de contratos, corrupção de agentes públicos e lavagem de dinheiro, no âmbito do Município de Sampaio/TO.
 

@@ -1,11 +1,12 @@
 ---
-title: "Wisconsin exigirá educação sobre o Holocausto a partir da 5ª série"
+title: Wisconsin exigirá educação sobre o Holocausto a partir da 5ª série
 date: 2021-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O governador de Wisconsin assina projeto de lei obrigando os alunos a aprenderem sobre o Holocausto duas vezes. 'Bill afetará gerações de crianças.'
 

@@ -1,11 +1,12 @@
 ---
-title: "Scholz diz que continuará conversando por telefone com Putin"
+title: Scholz diz que continuará conversando por telefone com Putin
 date: 2023-01-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## É preciso conversar entre si, aponta chanceler alemão.
 

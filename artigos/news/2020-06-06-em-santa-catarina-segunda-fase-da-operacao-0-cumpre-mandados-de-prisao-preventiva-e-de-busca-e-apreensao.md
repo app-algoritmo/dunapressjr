@@ -1,11 +1,13 @@
 ---
-title: "Em Santa Catarina, segunda fase da Operação 0² cumpre mandados de prisão preventiva e de busca e apreensão"
+title: Em Santa Catarina, segunda fase da Operação 0² cumpre mandados de prisão preventiva
+  e de busca e apreensão
 date: 2020-06-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na manhã deste sábado (06/06), a força-tarefa composta pelo Ministério Público de Santa Catarina (MPSC), pelo Tribunal de Contas do Estado (TCE) e pela Polícia Civil (PCSC/DEIC), desencadeou a segunda fase da Operação 0² (Oxigênio). Estão sendo cumpridos 14 mandados de busca e apreensão e 06 mandados de prisão preventiva.
 

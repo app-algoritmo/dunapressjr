@@ -1,11 +1,12 @@
 ---
-title: "Subida dos juros deve provocar desaceleração na economia, diz ministro"
+title: Subida dos juros deve provocar desaceleração na economia, diz ministro
 date: 2021-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para ele, política econômica segue caminho correto.
 

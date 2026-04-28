@@ -1,11 +1,12 @@
 ---
-title: "Saldo negativo das contas externas é de US$ 2,3 bi em fevereiro"
+title: Saldo negativo das contas externas é de US$ 2,3 bi em fevereiro
 date: 2021-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Déficit recua 50% na comparação com fevereiro de 2020.
 

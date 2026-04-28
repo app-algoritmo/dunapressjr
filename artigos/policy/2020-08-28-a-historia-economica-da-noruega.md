@@ -1,11 +1,12 @@
 ---
-title: "A História Econômica da Noruega"
+title: A História Econômica da Noruega
 date: 2020-08-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Noruega, com sua população de 4,6 milhões no flanco norte da Europa, é hoje uma das nações mais ricas do mundo, tanto em PIB per capita quanto em estoque de capital. No Índice de Desenvolvimento Humano das Nações Unidas, a Noruega está entre os três principais países há vários anos e, em alguns anos, a nação mais alta. Grandes estoques de recursos naturais combinados com uma força de trabalho qualificada e a adoção de novas tecnologias fizeram da Noruega um país próspero durante os séculos XIX e XX.
 

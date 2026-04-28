@@ -1,11 +1,12 @@
 ---
-title: "Anatel e setor de Telecom firmam compromisso público para manter Brasil conectado"
+title: Anatel e setor de Telecom firmam compromisso público para manter Brasil conectado
 date: 2020-03-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O setor de telecomunicações é fundamental para que o Brasil supere a pandemia do coronavírus e reafirma seu compromisso de seguir ao lado de cada brasileiro neste grande desafio.
 

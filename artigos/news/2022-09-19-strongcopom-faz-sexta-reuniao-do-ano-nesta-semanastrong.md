@@ -1,11 +1,12 @@
 ---
-title: "<strong>Copom faz sexta reunião do ano nesta semana</strong>"
+title: <strong>Copom faz sexta reunião do ano nesta semana</strong>
 date: 2022-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativas se dividem entre manutenção e elevação da Selic.
 

@@ -1,11 +1,12 @@
 ---
-title: "Butantan: há 120 anos produzindo soros antiofídicos"
+title: 'Butantan: há 120 anos produzindo soros antiofídicos'
 date: 2021-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Criado inicialmente para produzir o soro antipestoso, desde o início o Instituto Butantan se destaca pela atuação no campo do ofidismo (estudo do veneno das serpentes), marca determinada pela presença de Vital Brazil.
 

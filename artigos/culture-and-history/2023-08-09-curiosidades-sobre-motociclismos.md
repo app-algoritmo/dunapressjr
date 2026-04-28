@@ -1,12 +1,13 @@
 ---
-title: "Curiosidades sobre motociclismos"
+title: Curiosidades sobre motociclismos
 date: 2023-08-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Culture and History
-  - News
+- Culture and History
+- News
 ---
+
 
 " O motociclista usa preto porque é a cor menos suja nas estradas;
 

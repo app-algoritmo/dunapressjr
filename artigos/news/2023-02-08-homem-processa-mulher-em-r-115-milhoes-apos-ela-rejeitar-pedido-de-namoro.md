@@ -1,11 +1,12 @@
 ---
-title: "Homem processa mulher em R$ 11,5 milhões após ela rejeitar pedido de namoro"
+title: Homem processa mulher em R$ 11,5 milhões após ela rejeitar pedido de namoro
 date: 2023-02-08
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## K. Kawshigan é executivo e atua como diretor da empresa de drones D1 Racing, em Cingapura.
 

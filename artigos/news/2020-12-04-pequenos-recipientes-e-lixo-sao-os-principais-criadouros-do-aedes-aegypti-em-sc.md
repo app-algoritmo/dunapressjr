@@ -1,11 +1,13 @@
 ---
-title: "Pequenos recipientes e lixo são os principais criadouros do Aedes aegypti em SC"
+title: Pequenos recipientes e lixo são os principais criadouros do Aedes aegypti em
+  SC
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O resultado do Levantamento de Índice Rápido para o Aedes aegypti (LIRAa), realizado durante o mês de novembro deste ano, revela que os pequenos recipientes (38,1%), como pratinhos de plantas, são os principais potenciais criadouros do mosquito em Santa Catarina. Em seguida, aparecem o lixo e a sucata (25,7%). No total, foram inspecionados 88.755 depósitos no estado. Os dados completos do LIRAa foram divulgados nesta quinta-feira, 3, pela Diretoria de Vigilância Epidemiológica de Santa Catarina.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ministro considera essenciais três sugestões de militares para eleição"
+title: Ministro considera essenciais três sugestões de militares para eleição
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Propostas foram discutidas durante audiência pública no Senado.
 

@@ -1,11 +1,13 @@
 ---
-title: "O novo acordo mundial sobre a natureza não é apenas sobre proteção - Norte contra sul, pobres contra ricos"
+title: O novo acordo mundial sobre a natureza não é apenas sobre proteção - Norte
+  contra sul, pobres contra ricos
 date: 2022-12-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Argentina e Brasil tentaram uma manobra inteligente
 

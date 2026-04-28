@@ -1,11 +1,12 @@
 ---
-title: "Mentiras e verdades sobre a cirurgia bariátrica"
+title: Mentiras e verdades sobre a cirurgia bariátrica
 date: 2021-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A cirurgia bariátrica é reconhecida como um dos tratamentos do nível mais grave de obesidade, a de grau 3. Nesse estágio, ela já é classificada como mórbida, ou seja, representa uma enfermidade. Muitas pessoas recorrem ao procedimento quando não conseguem alcançar um peso saudável por outros meios, como a reeducação alimentar e a prática de atividade física.
 

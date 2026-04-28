@@ -1,11 +1,13 @@
 ---
-title: "A Agência Espacial e o Ministério de Energia de Israel estão apoiando a iniciativa que enviará duas missões à lua"
+title: A Agência Espacial e o Ministério de Energia de Israel estão apoiando a iniciativa
+  que enviará duas missões à lua
 date: 2021-06-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma startup israelense desenvolveu tecnologia para produzir oxigênio do solo lunar. O projeto, *Helios* , recebeu financiamento da Agência Espacial de Israel e do Ministério de Energia de Israel para desenvolver um sistema que será lançado em duas missões espaciais nos próximos três anos.
 

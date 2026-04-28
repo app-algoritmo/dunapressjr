@@ -1,11 +1,13 @@
 ---
-title: "Lei Aldir Blanc alcança mais de 4 mil municípios que nunca receberam recursos diretos para a cultura"
+title: Lei Aldir Blanc alcança mais de 4 mil municípios que nunca receberam recursos
+  diretos para a cultura
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em levantamento feito pelo Ministério do Turismo mostrou que, antes da Lei Aldir Blanc, cerca de 75% dos municípios do país ficaram, ao menos, 12 anos sem receber recursos do Governo Federal para políticas públicas na área cultural, por meio da administração pública direta. A porcentagem representa 4.775 municípios. Com os repasses do Governo Federal, esse número caiu para 1.392 cidades brasileiras, ou seja, 25%.
 

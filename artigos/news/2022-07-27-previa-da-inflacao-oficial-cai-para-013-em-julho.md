@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial cai para 0,13% em julho"
+title: Prévia da inflação oficial cai para 0,13% em julho
 date: 2022-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a menor taxa mensal do IPCA-15 desde junho de 2020 (0,02%).
 

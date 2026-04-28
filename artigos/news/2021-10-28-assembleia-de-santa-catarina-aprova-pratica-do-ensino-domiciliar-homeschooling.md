@@ -1,11 +1,12 @@
 ---
-title: "Assembleia de Santa Catarina aprova prática do ensino domiciliar 'homeschooling'"
+title: Assembleia de Santa Catarina aprova prática do ensino domiciliar 'homeschooling'
 date: 2021-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por maioria de votos, o Plenário aprovou na tarde desta quarta-feira (27) o Projeto de Lei Complementar (PLC) 3/2019, de autoria do deputado Bruno Souza (Novo), que regulamenta o ensino domiciliar em Santa Catarina, conhecido como homeschooling. A matéria recebeu emenda substitutiva global que, entre outras mudanças, com o objetivo de aprimorar a proteção aos educandos, determina a garantia de tutela do Estado, a conceituação de aptidão técnica e a proibição do ensino domiciliar aos pais com medidas protetivas.
 

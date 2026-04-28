@@ -1,11 +1,13 @@
 ---
-title: "Instituto Esporte e Educação impacta 7,4 milhões de crianças e jovens com metodologia de esporte educacional"
+title: Instituto Esporte e Educação impacta 7,4 milhões de crianças e jovens com metodologia
+  de esporte educacional
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 Percorrer o Brasil transformando vidas, levando esporte e educação, com sua metodologia inovadora e baseada nos princípios do esporte educacional. Há 22 anos, o Instituto Esporte & Educação (IEE) chega com seus projetos a diferentes cidades e estados, em todas as regiões, de norte a sul do País. O foco é o esporte educacional, não competitivo, que segue os princípios da inclusão e do respeito às diferenças. O IEE atua desde março de 2001 e, ao longo desse período, foram nada menos do que 7,4 milhões de crianças e jovens impactados. E os números não param por aí. O Instituto já capacitou 61.300 professores e educadores em todo o Brasil. Sua metodologia está presente em 1.437 municípios brasileiros, com 9.964 núcleos e escolas atendidos.
 

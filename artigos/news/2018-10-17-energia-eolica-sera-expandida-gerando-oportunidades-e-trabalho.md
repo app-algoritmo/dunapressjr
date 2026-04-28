@@ -1,11 +1,12 @@
 ---
-title: "Energia Eólica será expandida gerando oportunidades e trabalho"
+title: Energia Eólica será expandida gerando oportunidades e trabalho
 date: 2018-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A energia eólica contribui positivamente para a criação de valor e emprego e pode haver grandes oportunidades para a energia eólica na Noruega no futuro. Em recente declaração, Kjell-Børge Freiberg, Ministro do Petróleo e Energia, explicou detalhes sobre o trabalho para criar um quadro nacional para a energia eólica, e o quanto isso oferecerá novas oportunidades. Energia eólica é uma energia limpa, cujo interesse na implantação tem crescido muito na Europa, principalmente na Noruega, onde a energia eólica será expandida. Para o governo norueguês são justamente os recursos energéticos que farão da Noruega um país com grandes oportunidades no futuro. Desde 2017, o governo tem desenvolvido estudos e pesquisas voltados para energias limpas tanto no que concerne à proteção ambiental quanto outros pormenores tais como redução de gastos, auto-suficiência e geração de novos postos de trabalho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo húngaro intensifica medidas de proteção infantil e nomeação de diretores"
+title: Governo húngaro intensifica medidas de proteção infantil e nomeação de diretores
 date: 2024-02-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Governo liderado por Viktor Orbán na Hungria está intensificando suas medidas de proteção infantil, destacando uma "ênfase excepcionalmente elevada" na segurança das crianças e no apoio às famílias. Em meio a esses esforços, o Executivo está endurecendo os requisitos para a nomeação de diretores de instituições de proteção infantil.
 

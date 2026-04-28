@@ -1,11 +1,12 @@
 ---
-title: "Bolsa sobe pelo terceiro dia e atinge maior nível desde outubro"
+title: Bolsa sobe pelo terceiro dia e atinge maior nível desde outubro
 date: 2022-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar cai para R$ 5,42, apesar de pressões externas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Vanderlan destaca crise&nbsp;na pecuária leiteira e pede freio a importações"
+title: Vanderlan destaca crise&nbsp;na pecuária leiteira e pede freio a importações
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Vanderlan Cardoso (PSD-GO) afirmou ter recebido uma carta do Sindicato Rural de Goiânia alertando para a crise na cadeia produtiva de leite. Em pronunciamento na quarta-feira (18), o parlamentar destacou que os produtores estão recebendo um valor abaixo do custo de produção e que, em breve, não conseguirão continuar suas atividades, acarretando um grande prejuízo para toda a cadeia produtiva.
 

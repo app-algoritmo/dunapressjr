@@ -1,11 +1,12 @@
 ---
-title: "Cartão Internacional de Vacinação pode ser feito em plataforma digital"
+title: Cartão Internacional de Vacinação pode ser feito em plataforma digital
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Plataforma do Governo Federal disponibiliza 750 serviços para o cidadão desde o ano passado. Cidadão não precisa mais comparecer ao posto da Anvisa para conferência de documento.
 

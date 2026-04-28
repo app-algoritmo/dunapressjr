@@ -1,11 +1,13 @@
 ---
-title: "Conheça as principais características e como garantir uma aprendizagem de qualidade através ensino híbrido"
+title: Conheça as principais características e como garantir uma aprendizagem de qualidade
+  através ensino híbrido
 date: 2021-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Transmissões ao vivo, ensino remoto ou ensino presencial são recursos e modos de aprendizagem que passaram a fazer parte da vida dos alunos e também dos pais, em 2020. Agora, o termo que mais se ouve é ensino híbrido. Esse é o caminho que vem sendo trilhado pelas escolas para dar conta do desafio do retorno presencial em plena pandemia. O modelo híbrido não é uma alternativa nova, já existe há tempos, mas ganhou força diante do atual cenário. Como o próprio nome sugere, trata-se de uma proposta que mescla diferentes formatos de aprendizagem, como os mais tradicionais - leituras de texto e aulas expositivas, alguns mais inovadores – discussões coletivas e pesquisas práticas – e ainda modelos que inserem recursos digitais junto ao ensino offline. 
 

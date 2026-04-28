@@ -1,11 +1,12 @@
 ---
-title: "Formatura da Tomada de Monte Castelo na Guarnição de Dourados (MS)"
+title: Formatura da Tomada de Monte Castelo na Guarnição de Dourados (MS)
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Dourados
 (MS)** – O 28º Batalhão Logístico (28º B Log) realizou uma

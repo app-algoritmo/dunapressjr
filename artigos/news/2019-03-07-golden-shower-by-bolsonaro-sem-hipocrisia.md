@@ -1,11 +1,12 @@
 ---
-title: "Golden Shower by Bolsonaro sem hipocrisia!"
+title: Golden Shower by Bolsonaro sem hipocrisia!
 date: 2019-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente Jair Messias Bolsonaro denúncia ante o mundo a degradação moral brasileira 
 

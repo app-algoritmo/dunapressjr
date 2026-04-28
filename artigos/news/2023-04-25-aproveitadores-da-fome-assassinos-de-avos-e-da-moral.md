@@ -1,11 +1,12 @@
 ---
-title: "Aproveitadores da fome, assassinos de avós e da moral"
+title: Aproveitadores da fome, assassinos de avós e da moral
 date: 2023-04-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Hoje, um em cada cinco (278 milhões) da população da África está desnutrido, e 55 milhões das crianças do continente com menos de cinco anos de idade sofrem de desnutrição grave.
 

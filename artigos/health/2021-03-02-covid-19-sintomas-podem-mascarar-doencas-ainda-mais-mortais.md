@@ -1,11 +1,12 @@
 ---
-title: "Covid-19: Sintomas podem mascarar doenças ainda mais mortais"
+title: 'Covid-19: Sintomas podem mascarar doenças ainda mais mortais'
 date: 2021-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Perto de alcançar a marca de 2,5 milhões de mortes pela Covid-19, a pandemia não dá sinais de que está perto do fim. Com 250 mil óbitos, o Brasil é o segundo país com maior número de mortes, atrás apenas do Estados Unidos - que alcançou mais de 500 mil. Entre tantos casos que entram e saem dos hospitais com sintomas semelhantes, um deles chama a atenção e levanta um importante alerta: a morte da estudante paranaense Ellen da Rocha Posselt**, **de 17 anos. 
 

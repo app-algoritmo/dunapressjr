@@ -1,11 +1,13 @@
 ---
-title: "Paraguai e Guatemala chegam a acordo sobre questões que marcarão o futuro relacionamento bilateral"
+title: Paraguai e Guatemala chegam a acordo sobre questões que marcarão o futuro relacionamento
+  bilateral
 date: 2024-01-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Presidente da República, Santiago Peña, assiste este domingo à tomada de posse do novo governante da Guatemala, Bernardo Arévalo de León, com quem conversou anteriormente sobre questões que marcarão a futura relação bilateral entre os dois países.
 

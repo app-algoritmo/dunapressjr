@@ -1,11 +1,12 @@
 ---
-title: "Projeto de leitura leva conhecimento para canteiros de obras"
+title: Projeto de leitura leva conhecimento para canteiros de obras
 date: 2021-08-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 A 5**ª** edição da pesquisa Retratos da Leitura no Brasil, realizada pelo Instituto Pró-Livro (IPL), indica que a quantidade de leitores no país caiu de 56% em 2015 para 52% em 2019. O levantamento divulgado no ano passado ouviu 8.076 pessoas em 208 municípios e define como leitor a pessoa que leu pelo menos um livro, inteiro ou em partes, nos últimos três meses. 
 

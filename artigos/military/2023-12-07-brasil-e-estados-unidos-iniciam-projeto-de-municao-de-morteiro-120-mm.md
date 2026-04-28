@@ -1,11 +1,12 @@
 ---
-title: "Brasil e Estados Unidos iniciam projeto de munição de morteiro 120 mm"
+title: Brasil e Estados Unidos iniciam projeto de munição de morteiro 120 mm
 date: 2023-12-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Equipes técnicas do Exército Brasileiro e do Exército dos Estados Unidos da América se reuniram para o início das atividades executivas do Acordo de Projeto PA-A-23-0001, destinado a pesquisa e desenvolvimento de tecnologias para a produção de munições de morteiro 120 mm de alcance estendido.
 

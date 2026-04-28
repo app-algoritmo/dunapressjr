@@ -1,12 +1,13 @@
 ---
-title: "GP da Bélgica: Análise"
+title: 'GP da Bélgica: Análise'
 date: 2020-08-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Sports
+- News
+- Sports
 ---
+
 
 ## Inglês vence na Bélgica de ponta a ponta e está a apenas duas vitórias do recorde de Schumacher
 

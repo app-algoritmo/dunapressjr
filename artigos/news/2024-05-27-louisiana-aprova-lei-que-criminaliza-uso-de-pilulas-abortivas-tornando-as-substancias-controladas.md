@@ -1,11 +1,13 @@
 ---
-title: "Louisiana Aprova Lei que Criminaliza Uso de Pílulas Abortivas, Tornando-as Substâncias Controladas"
+title: Louisiana Aprova Lei que Criminaliza Uso de Pílulas Abortivas, Tornando-as
+  Substâncias Controladas
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Na última terça-feira, os legisladores da Louisiana aprovaram um projeto de lei que criminaliza o uso de pílulas abortivas, tornando-se o primeiro estado norte-americano a classificar esses medicamentos como substâncias controladas. A medida passou na Câmara dos Deputados com 64 votos a favor e 29 contra, refletindo a maioria republicana no órgão.
 

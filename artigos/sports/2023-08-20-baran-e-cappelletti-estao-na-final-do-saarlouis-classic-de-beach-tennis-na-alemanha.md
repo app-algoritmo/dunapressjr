@@ -1,11 +1,13 @@
 ---
-title: "Baran e Cappelletti estão na final do Saarlouis Classic de Beach Tennis, na Alemanha"
+title: Baran e Cappelletti estão na final do Saarlouis Classic de Beach Tennis, na
+  Alemanha
 date: 2023-08-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## É o primeiro torneio da nova parceria entre o catarinense - número 1 do Brasil - e o italiano. A decisão do Sand Series será neste domingo (20), por volta das 10h (horário de Brasília), diante de Gianotti e Spoto.
 

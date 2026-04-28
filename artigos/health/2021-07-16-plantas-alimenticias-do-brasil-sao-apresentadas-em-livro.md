@@ -1,11 +1,12 @@
 ---
-title: "Plantas alimentícias do Brasil são apresentadas em livro"
+title: Plantas alimentícias do Brasil são apresentadas em livro
 date: 2021-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Publicação foi produzida em parceria por cientistas das Universidades Federais do Rio Grande do Norte e Pernambuco.
 

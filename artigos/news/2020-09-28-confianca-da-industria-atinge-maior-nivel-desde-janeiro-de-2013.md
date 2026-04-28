@@ -1,11 +1,12 @@
 ---
-title: "Confiança da indústria atinge maior nível desde janeiro de 2013"
+title: Confiança da indústria atinge maior nível desde janeiro de 2013
 date: 2020-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O indicador chegou a 106,7 pontos, diz FGV.
 

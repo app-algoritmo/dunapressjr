@@ -1,11 +1,12 @@
 ---
-title: "Governo prorroga estado de emergência zoossanitária por gripe aviária"
+title: Governo prorroga estado de emergência zoossanitária por gripe aviária
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## Medida tem validade por mais 180 dias.
 

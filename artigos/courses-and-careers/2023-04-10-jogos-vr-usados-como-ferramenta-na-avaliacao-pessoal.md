@@ -1,12 +1,13 @@
 ---
-title: "Jogos VR usados ​​como ferramenta na avaliação pessoal"
+title: Jogos VR usados ​​como ferramenta na avaliação pessoal
 date: 2023-04-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Courses and Careers
-  - Personal Development
+- Courses and Careers
+- Personal Development
 ---
+
 
 Jogadores rápidos são mais inteligentes: a inteligência pode ser prevista por meio de jogos de realidade virtual.
 

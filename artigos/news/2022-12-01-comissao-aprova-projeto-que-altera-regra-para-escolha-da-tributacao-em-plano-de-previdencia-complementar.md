@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que altera regra para escolha da tributação em plano de previdência complementar"
+title: Comissão aprova projeto que altera regra para escolha da tributação em plano
+  de previdência complementar
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou proposta que autoriza os participantes e assistidos de planos de previdência complementar a optar pelo regime de tributação (progressivo ou regressivo) na ocasião da obtenção do benefício ou do resgate dos valores acumulados.
 

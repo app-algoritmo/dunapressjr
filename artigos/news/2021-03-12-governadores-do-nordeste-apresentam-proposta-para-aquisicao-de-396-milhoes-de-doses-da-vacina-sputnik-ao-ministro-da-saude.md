@@ -1,11 +1,13 @@
 ---
-title: "Governadores do Nordeste apresentam proposta para aquisição de 39,6 milhões de doses da vacina Sputnik ao ministro da Saúde"
+title: Governadores do Nordeste apresentam proposta para aquisição de 39,6 milhões
+  de doses da vacina Sputnik ao ministro da Saúde
 date: 2021-03-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo se reuniu, por meio de videoconferência, nesta quinta-feira (11), com o ministro da Saúde, Eduardo Pazuello, e os demais governadores do Nordeste, ocasião em que os gestores apresentaram a proposta para a aquisição de 39,6 milhões de doses da vacina Sputnik que devem ser incluídas no Plano Nacional de Imunização (PNI). A iniciativa foi acolhida pelo ministro e deve ser formalizada nesta sexta-feira (12). 
 

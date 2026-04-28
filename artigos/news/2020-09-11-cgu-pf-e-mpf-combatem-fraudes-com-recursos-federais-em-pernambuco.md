@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF combatem fraudes com recursos federais em Pernambuco"
+title: CGU, PF e MPF combatem fraudes com recursos federais em Pernambuco
 date: 2020-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Pescaria – 3ª Fase investiga contratação de empresas “de fachada” para realização de obras municipais, que eram executadas por terceiros.
 

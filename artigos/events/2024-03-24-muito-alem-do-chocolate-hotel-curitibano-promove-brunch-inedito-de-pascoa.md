@@ -1,11 +1,12 @@
 ---
-title: "Muito além do chocolate: hotel curitibano promove brunch inédito de Páscoa"
+title: 'Muito além do chocolate: hotel curitibano promove brunch inédito de Páscoa'
 date: 2024-03-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
+- Events
 ---
+
 
 ## Para quem deseja celebrar o feriado em grande estilo e fora de casa, o NH Curitiba The Five serve um cardápio especial de brunch com pratos exclusivos, espumante para brindar e atividades recreativas infantis.
 

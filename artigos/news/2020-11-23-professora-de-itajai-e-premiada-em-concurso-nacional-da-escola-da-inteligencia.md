@@ -1,11 +1,12 @@
 ---
-title: "Professora de Itajaí é premiada em concurso nacional da Escola da Inteligência"
+title: Professora de Itajaí é premiada em concurso nacional da Escola da Inteligência
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Professor Inovador” teve como objetivo valorizar e reconhecer o trabalho dos professores durante a pandemia.
 

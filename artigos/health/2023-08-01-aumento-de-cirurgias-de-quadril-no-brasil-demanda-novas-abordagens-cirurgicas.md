@@ -1,11 +1,12 @@
 ---
-title: "Aumento de cirurgias de quadril no Brasil demanda novas abordagens cirúrgicas"
+title: Aumento de cirurgias de quadril no Brasil demanda novas abordagens cirúrgicas
 date: 2023-08-01
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Dores e dificuldade para andar inviabilizam atividades simples para pacientes; tecnologia navegada tem devolvido mobilidade e qualidade de vida a essas pessoas.
 

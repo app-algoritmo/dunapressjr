@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro trabalha para salvar vidas e empregos durante pandemia"
+title: Governo Bolsonaro trabalha para salvar vidas e empregos durante pandemia
 date: 2020-05-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Entrega de equipamentos, programas de auxílio ao trabalhador e repatriação de brasileiros estão entre as medidas tomadas pelo governo.
 

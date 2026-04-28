@@ -1,11 +1,13 @@
 ---
-title: "Há 520 anos, potencial turístico do Brasil era descoberto, com a chegada de Pedro Álvares Cabral"
+title: Há 520 anos, potencial turístico do Brasil era descoberto, com a chegada de
+  Pedro Álvares Cabral
 date: 2020-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Em 22 de abril de 1500, o capitão-mor Pedro Álvares Cabral desembarcava em terras desconhecidas que seriam chamadas, mais tarde, de Brasil. As caravelas portuguesas, que tinham como destino a Índia, chegaram na Costa do Descobrimento, como passou a ser conhecida a região no sul da Bahia que compreende os municípios de Porto Seguro, Santa Cruz Cabrália e Belmonte. Pode-se dizer que, a partir dali, o potencial turístico do Brasil foi descoberto, mas quais os principais atrativos daquela importante área do território brasileiro?
 

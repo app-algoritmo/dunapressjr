@@ -1,11 +1,12 @@
 ---
-title: "GP da Espanha: Análise"
+title: 'GP da Espanha: Análise'
 date: 2020-08-16
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 **Analisando o GP da Espanha: Mercedes e Lewis Hamilton no topo**
 

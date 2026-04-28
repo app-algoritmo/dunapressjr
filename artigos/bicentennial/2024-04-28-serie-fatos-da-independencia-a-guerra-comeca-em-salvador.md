@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: A Guerra começa em Salvador"
+title: 'Série Fatos Da Independência: A Guerra começa em Salvador'
 date: 2024-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 No dia 19 de fevereiro de 1822, Salvador foi acordada com tiros de canhão disparados contra o Forte de São Pedro. Era o contra-ataque português a uma revolta favorável à Independência, que reunia oficiais, soldados e cerca de 500 civis. O centro da rebelião era o Forte de São Pedro, mas o levante espalhou-se pelos quartéis de Palma e Mouraria. Todos contra a decisão de Lisboa de substituir no comando de tropas da Bahia o brigadeiro Manuel Freitas Guimarães, simpático ao príncipe regente, d. Pedro, pelo general português Madeira de Mello.
 

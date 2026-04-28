@@ -1,11 +1,12 @@
 ---
-title: "Petrobras bate recorde de importação de gás natural liquefeito em 2021"
+title: Petrobras bate recorde de importação de gás natural liquefeito em 2021
 date: 2022-01-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Marca foi atingida com compra de 23 milhões de metros cúbicos por dia.
 

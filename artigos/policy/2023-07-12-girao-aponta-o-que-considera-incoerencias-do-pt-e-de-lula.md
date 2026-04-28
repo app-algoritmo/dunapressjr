@@ -1,11 +1,12 @@
 ---
-title: "Girão aponta o que considera 'incoerências' do PT e de Lula"
+title: Girão aponta o que considera 'incoerências' do PT e de Lula
 date: 2023-07-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) afirmou, em pronunciamento na terça-feira (11), que o presidente Luiz Inácio Lula da Silva e seu partido têm agido de maneira “incoerente” desde a campanha eleitoral. 
 

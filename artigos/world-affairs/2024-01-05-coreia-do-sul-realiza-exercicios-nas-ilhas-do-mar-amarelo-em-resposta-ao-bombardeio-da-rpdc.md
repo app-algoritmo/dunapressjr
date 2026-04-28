@@ -1,11 +1,13 @@
 ---
-title: "Coreia do Sul realiza exercícios nas ilhas do Mar Amarelo em resposta ao bombardeio da RPDC"
+title: Coreia do Sul realiza exercícios nas ilhas do Mar Amarelo em resposta ao bombardeio
+  da RPDC
 date: 2024-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Observa-se que unidades de fuzileiros navais estacionadas nessas ilhas participaram dos exercícios, informou a Yonhap.
 

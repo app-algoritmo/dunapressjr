@@ -1,11 +1,12 @@
 ---
-title: "Confirmados em Israel 219 mortes  e 15.870 casos de coronavírus"
+title: Confirmados em Israel 219 mortes  e 15.870 casos de coronavírus
 date: 2020-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde disse que o país agora tem 15.870 casos de coronavírus, 88 há mais de 24 horas. Esses números confirmam a tendência de queda no número de novas infecções. O balanço é 219, com 4 novas mortes em comparação com os números da noite passada.
 

@@ -1,11 +1,12 @@
 ---
-title: "O direito dos judeus à terra de Israel"
+title: O direito dos judeus à terra de Israel
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## As pessoas cuja nação foi destruída pelos romanos eram os judeus. Na época, não havia palestinos árabes - não até 700 anos depois. Op-ed.
 

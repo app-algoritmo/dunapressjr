@@ -1,11 +1,12 @@
 ---
-title: "Caixa destina R$ 50 milhões do Pronampe para microcrédito"
+title: Caixa destina R$ 50 milhões do Pronampe para microcrédito
 date: 2020-09-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 3 mil microempresas devem ser beneficiadas.
 

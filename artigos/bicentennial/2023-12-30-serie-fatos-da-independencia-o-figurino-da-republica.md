@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O figurino da república"
+title: 'Série Fatos Da Independência: O figurino da república'
 date: 2023-12-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Como organizar um processo de emancipação que conferisse às províncias o grau de autogoverno? O problema tinha força e ao longo da primeira metade do século XIX, os pernambucanos fizeram questão de deixar duas coisas muito claras. Primeira, a República representava o passaporte seguro para uma bem-sucedida experiência de autogoverno provincial. Segunda, o figurino da República era federativo: “Pernambuco, Paraíba, Rio Grande e Ceará devem formar uma só república, devendo-se edificar uma cidade central para capital”, dizia o padre João Ribeiro, membro da junta governativa que se formou às pressas no Recife, com a vitória da Revolução, em março de 1817.
 

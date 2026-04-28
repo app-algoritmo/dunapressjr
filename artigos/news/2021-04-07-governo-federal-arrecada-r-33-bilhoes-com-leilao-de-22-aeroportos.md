@@ -1,11 +1,12 @@
 ---
-title: "Governo federal arrecada R$ 3,3 bilhões com leilão de 22 aeroportos"
+title: Governo federal arrecada R$ 3,3 bilhões com leilão de 22 aeroportos
 date: 2021-04-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Terminais devem receber R$ 6,1 bilhões em investimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta impulsionado por ações da Petrobras"
+title: Ibovespa fecha em alta impulsionado por ações da Petrobras
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Índice da bolsa brasileira supera os 115 mil pontos, enquanto moeda americana registra oscilações em dia de baixa liquidez.
 

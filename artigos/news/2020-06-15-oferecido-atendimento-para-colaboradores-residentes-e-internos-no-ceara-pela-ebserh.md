@@ -1,11 +1,13 @@
 ---
-title: "Oferecido atendimento para colaboradores, residentes  e internos no Ceará pela Ebserh"
+title: Oferecido atendimento para colaboradores, residentes  e internos no Ceará pela
+  Ebserh
 date: 2020-06-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Em duas semanas, já foram realizadas 362 consultas e 375 testes rápidos com a linha de frente contra a pandemia.
 

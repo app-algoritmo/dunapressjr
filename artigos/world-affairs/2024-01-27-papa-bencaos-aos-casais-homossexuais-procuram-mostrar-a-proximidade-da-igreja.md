@@ -1,11 +1,12 @@
 ---
-title: "Papa: bênçãos aos casais homossexuais “procuram mostrar a proximidade da Igreja”"
+title: 'Papa: bênçãos aos casais homossexuais “procuram mostrar a proximidade da Igreja”'
 date: 2024-01-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Papa Francisco defendeu a declaração do Vaticano que em dezembro aprovou bênçãos para casais homossexuais e afirmou que a intenção é “mostrar a proximidade da Igreja” a quem “procura ajuda” para um caminho de fé e que é um gesto “para a pessoa, não em relação ao sindicato."
 

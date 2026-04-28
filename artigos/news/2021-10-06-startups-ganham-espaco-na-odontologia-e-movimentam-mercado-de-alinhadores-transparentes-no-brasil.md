@@ -1,11 +1,13 @@
 ---
-title: "Startups ganham espaço na odontologia e movimentam mercado de alinhadores transparentes no Brasil"
+title: Startups ganham espaço na odontologia e movimentam mercado de alinhadores transparentes
+  no Brasil
 date: 2021-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Tratamento está mais próximo da população brasileira com movimentação de marcas que têm produção local e são clinicamente confiáveis.
 

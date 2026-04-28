@@ -1,11 +1,13 @@
 ---
-title: "Estão abertas as inscrições de cursos de formação continuada para profissionais do Sinase"
+title: Estão abertas as inscrições de cursos de formação continuada para profissionais
+  do Sinase
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os cursos são oferecidos em parceria com a Universidade de Brasília (UnB). As inscrições vão até o dia 23 de abril.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras bate todas as metas de produção para o ano de 2021"
+title: Petrobras bate todas as metas de produção para o ano de 2021
 date: 2022-02-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção do pré-sal teve média anual de 1,95 milhão de barris.
 

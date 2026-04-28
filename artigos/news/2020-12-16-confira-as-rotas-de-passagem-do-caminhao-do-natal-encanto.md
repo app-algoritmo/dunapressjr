@@ -1,11 +1,12 @@
 ---
-title: "Confira as rotas de passagem do Caminhão do Natal EnCanto"
+title: Confira as rotas de passagem do Caminhão do Natal EnCanto
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Caminhão do **Natal EnCanto** é uma novidade que está fazendo sucesso na programação natalina de Itajaí. Na segunda-feira (14), a atração iniciou sua rota ao passar por mais de dez ruas dos bairros São Vicente, Cordeiros, Barra do Rio, Espinheiros, Portal e Santa Regina. A iniciativa continua até quinta-feira (17).
 

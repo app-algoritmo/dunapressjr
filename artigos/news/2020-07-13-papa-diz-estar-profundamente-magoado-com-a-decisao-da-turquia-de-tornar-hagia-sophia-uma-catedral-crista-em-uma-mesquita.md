@@ -1,11 +1,13 @@
 ---
-title: "Papa diz estar profundamente magoado com a decisão da Turquia de tornar Hagia Sophia uma catedral cristã, em uma mesquita"
+title: Papa diz estar profundamente magoado com a decisão da Turquia de tornar Hagia
+  Sophia uma catedral cristã, em uma mesquita
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em uma observação muito breve e improvisada, Francis, falando da janela de seu estúdio com vista para a Praça de São Pedro, observou que a Igreja Católica marcou o domingo como Dia Internacional do Mar.
 

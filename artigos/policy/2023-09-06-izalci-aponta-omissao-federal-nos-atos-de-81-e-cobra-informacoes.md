@@ -1,11 +1,12 @@
 ---
-title: "Izalci aponta omissão federal nos atos de 8/1 e cobra informações"
+title: Izalci aponta omissão federal nos atos de 8/1 e cobra informações
 date: 2023-09-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Izalci Lucas (PSDB-DF) apontou, em pronunciamento no Plenário nesta segunda-feira (4), a omissão do governo federal nos ataques do dia 8 de janeiro. Segundo ele, o governo poderia ter evitado os atos de vandalismo, caso o general Marco Edson Gonçalves Dias, ex-ministro do Gabinete de Segurança Institucional (GSI) da Presidência da República, não tivesse retido as informações que rececebeu. A afirmação do senador foi baseada no depoimento prestado nesta segunda-feira (4) pelo general Penteado em audiência na Câmara Legislativa do Distrito Federal. Penteado era o segundo na hieraquia do GSI. 
 

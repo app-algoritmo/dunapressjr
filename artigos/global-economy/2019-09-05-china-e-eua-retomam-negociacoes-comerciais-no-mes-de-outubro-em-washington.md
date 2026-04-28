@@ -1,11 +1,12 @@
 ---
-title: "China e EUA retomam negociações comerciais no mês de outubro em Washington"
+title: China e EUA retomam negociações comerciais no mês de outubro em Washington
 date: 2019-09-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O vice-premier chinês, Liu He, conversou por telefone com o representante americano para o Comércio. 
 

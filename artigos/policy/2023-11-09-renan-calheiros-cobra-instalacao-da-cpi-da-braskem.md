@@ -1,11 +1,12 @@
 ---
-title: "Renan Calheiros cobra instalação da CPI da Braskem"
+title: Renan Calheiros cobra instalação da CPI da Braskem
 date: 2023-11-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Renan Calheiros (MDB-AL) fez um apelo aos líderes partidários, em pronunciamento no Plenário nesta-quarta-feira (8), para que indiquem os parlamentares que farão parte da CPI da Braskem, cujo pedido de criação foi anunciado em outubro. A comissão parlamentar de inquérito tem como objetivo investigar a responsabilidade da empresa petroquímica Braskem no delito ambiental relacionado à extração de sal-gema do subsolo de Maceió, capital alagoana.
 

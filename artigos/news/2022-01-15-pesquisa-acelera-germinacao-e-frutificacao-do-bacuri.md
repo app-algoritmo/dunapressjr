@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa acelera germinação e frutificação do bacuri"
+title: Pesquisa acelera germinação e frutificação do bacuri
 date: 2022-01-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A engenheira agrônoma Karina Vieira está concluindo o mestrado no Programa de Pós-Graduação em Agroecologia da Universidade Estadual do Maranhão (UEMA). Sua pesquisa é de fundamental importância econômica para a Amazônia. A estudante desenvolveu uma técnica de multiplicação *in vitro* do bacuri, que acelera o processo de germinação e frutificação do produto, bastante vendido e consumido na região.
 

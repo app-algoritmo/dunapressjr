@@ -1,11 +1,13 @@
 ---
-title: "Projeção de safra 2023 revela crescimento consistente em cereais, leguminosas e oleaginosas"
+title: Projeção de safra 2023 revela crescimento consistente em cereais, leguminosas
+  e oleaginosas
 date: 2023-10-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Safra de 318,1 milhões de toneladas projetada, impulsionada por soja, milho e algodão.
 

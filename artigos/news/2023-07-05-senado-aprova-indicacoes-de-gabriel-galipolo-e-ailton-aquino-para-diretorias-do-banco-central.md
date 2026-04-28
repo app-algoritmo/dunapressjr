@@ -1,11 +1,13 @@
 ---
-title: "Senado aprova indicações de Gabriel Galípolo e Ailton Aquino para diretorias do Banco Central"
+title: Senado aprova indicações de Gabriel Galípolo e Ailton Aquino para diretorias
+  do Banco Central
 date: 2023-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente Lula indica primeiros diretores do atual governo, que participarão da próxima reunião do Copom.
 

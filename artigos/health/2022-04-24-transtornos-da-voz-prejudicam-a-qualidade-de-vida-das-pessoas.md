@@ -1,11 +1,12 @@
 ---
-title: "Transtornos da voz prejudicam a qualidade de vida das pessoas"
+title: Transtornos da voz prejudicam a qualidade de vida das pessoas
 date: 2022-04-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Conscientização quanto à importância da saúde da voz em suas várias dimensões, principalmente, para aqueles que a utilizam como instrumento de trabalho, como os professores, operadores de telemarketing, atores, cantores, profissionais do direito, locutores, entre outros.
 

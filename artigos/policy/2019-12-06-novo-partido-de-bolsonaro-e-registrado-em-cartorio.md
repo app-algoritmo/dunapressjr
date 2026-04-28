@@ -1,11 +1,12 @@
 ---
-title: "Novo partido de Bolsonaro é registrado em cartório"
+title: Novo partido de Bolsonaro é registrado em cartório
 date: 2019-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Aliança Pelo Brasil, porém, ainda depende de registro no TSE*
 

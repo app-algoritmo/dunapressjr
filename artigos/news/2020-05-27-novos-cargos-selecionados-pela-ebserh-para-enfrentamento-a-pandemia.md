@@ -1,11 +1,12 @@
 ---
-title: "Novos cargos selecionados pela Ebserh para enfrentamento a pandemia"
+title: Novos cargos selecionados pela Ebserh para enfrentamento a pandemia
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Inscrições para contratação temporária de profissionais têm início na quinta-feira, 28**.
 

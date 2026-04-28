@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, faz outra grande apreensão na região de Guaíra"
+title: PF, em ação integrada, faz outra grande apreensão na região de Guaíra
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Mercedes/PR – Nesta quarta-feira, 27/5, mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, PRF, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

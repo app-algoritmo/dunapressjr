@@ -1,12 +1,14 @@
 ---
-title: "Ascensão, Queda e Luta pela Sobrevivência: A Jornada da 23andMe de US$6 Bilhões para Quase Zero"
+title: 'Ascensão, Queda e Luta pela Sobrevivência: A Jornada da 23andMe de US$6 Bilhões
+  para Quase Zero'
 date: 2024-01-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Business and Economy
-  - Finances
+- Business and Economy
+- Finances
 ---
+
 
 No mundo acelerado do Vale do Silício, histórias de sucesso frequentemente vêm com reviravoltas dramáticas, e a jornada da 23andMe de uma avaliação de US$6 bilhões para quase zero não é exceção. Uma vez uma pioneira na indústria de testes de DNA, a empresa agora está lidando com desafios financeiros, uma queda no preço das ações e uma tentativa desesperada de sobrevivência.
 

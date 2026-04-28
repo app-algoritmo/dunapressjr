@@ -1,11 +1,12 @@
 ---
-title: "Paraíba gera saldo positivo de empregos formais pelo segundo mês consecutivo"
+title: Paraíba gera saldo positivo de empregos formais pelo segundo mês consecutivo
 date: 2021-05-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os setores de construção, comércio e serviços se destacaram nos saldos positivos de abril.
 

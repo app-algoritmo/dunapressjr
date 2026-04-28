@@ -1,11 +1,12 @@
 ---
-title: "Receita regulamenta correção de juros sobre créditos fiscais"
+title: Receita regulamenta correção de juros sobre créditos fiscais
 date: 2022-07-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nova regulamentação reduzirá imposto que empresas podem abater.
 

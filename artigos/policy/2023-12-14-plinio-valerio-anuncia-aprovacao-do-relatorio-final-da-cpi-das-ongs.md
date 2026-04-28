@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério anuncia aprovação do relatório final da CPI das ONGs"
+title: Plínio Valério anuncia aprovação do relatório final da CPI das ONGs
 date: 2023-12-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) destacou a aprovação do relatório final da CPI das ONGs nesta terça-feira (12). O documento apresenta seis projetos legislativos e pede o indiciamento do presidente do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Mauro Oliveira Pires, acusado de corrupção passiva e improbidade administrativa. Em pronunciamento no Plenário nesta terça, o parlamentar, que presidiu a CPI, afirmou que a comissão atingiu seu objetivo.
 

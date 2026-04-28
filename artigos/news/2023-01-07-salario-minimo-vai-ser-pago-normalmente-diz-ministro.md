@@ -1,11 +1,12 @@
 ---
-title: "Salário mínimo “vai ser pago normalmente”, diz Ministro"
+title: Salário mínimo “vai ser pago normalmente”, diz Ministro
 date: 2023-01-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor de R$ 1.320 depende de edição de medida provisória.
 

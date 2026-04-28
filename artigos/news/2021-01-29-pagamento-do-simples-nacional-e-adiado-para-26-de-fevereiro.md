@@ -1,11 +1,12 @@
 ---
-title: "Pagamento do Simples Nacional é adiado para 26 de fevereiro"
+title: Pagamento do Simples Nacional é adiado para 26 de fevereiro
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Comitê Gestor do Simples Nacional (CGSN) decidiu prorrogar excepcionalmente o prazo para o pagamento dos tributos apurados pelo Simples Nacional relativos ao período de apuração janeiro de 2021.
 

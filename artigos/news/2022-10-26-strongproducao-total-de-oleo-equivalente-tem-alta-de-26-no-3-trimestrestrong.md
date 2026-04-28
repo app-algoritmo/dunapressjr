@@ -1,11 +1,12 @@
 ---
-title: "<strong>Produção total de óleo equivalente tem alta de 2,6% no 3º trimestre</strong>"
+title: <strong>Produção total de óleo equivalente tem alta de 2,6% no 3º trimestre</strong>
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Petrobras divulgou Relatório de Produção e Vendas.
 

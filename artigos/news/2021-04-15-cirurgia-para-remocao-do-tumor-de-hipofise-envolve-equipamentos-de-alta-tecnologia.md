@@ -1,11 +1,12 @@
 ---
-title: "Cirurgia para remoção do tumor de hipófise envolve equipamentos de alta tecnologia"
+title: Cirurgia para remoção do tumor de hipófise envolve equipamentos de alta tecnologia
 date: 2021-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a escalada da demanda por UTIs na pandemia e do tempo de permanência dos pacientes nas unidades, procedimentos cirúrgicos minimamente invasivos têm se mostrado um apoio nesse momento em que todo o sistema de saúde está pressionado. Desde o início da pandemia, o tempo médio de internação dos pacientes com Covid-19 passou de 10 para 14 dias, segundo levantamento da Associação de Medicina Intensiva Brasileira. Nesse contexto, a Agência Nacional de Saúde Suplementar (ANS) orientou recentemente que os procedimentos eletivos devem ser avaliados para que os leitos de UTI e internação sejam priorizados para os casos graves de coronavírus. Com isso, para a realização de outras intervenções, as cirurgias devem ser de menor impacto para facilitar a atuação dos profissionais e instituições de saúde. 
 

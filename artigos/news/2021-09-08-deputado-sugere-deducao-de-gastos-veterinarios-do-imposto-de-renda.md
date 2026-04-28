@@ -1,11 +1,12 @@
 ---
-title: "Deputado sugere dedução de gastos veterinários do Imposto de Renda"
+title: Deputado sugere dedução de gastos veterinários do Imposto de Renda
 date: 2021-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## “A permissão de dedução de despesas veterinárias na declaração do imposto sobre a renda de pessoas físicas irá estimular a adoção de animais abandonados".
 

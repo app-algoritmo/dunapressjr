@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val pede apoio do Senado para barrar ministro do STF"
+title: Marcos do Val pede apoio do Senado para barrar ministro do STF
 date: 2023-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) criticou, em pronunciamento no Plenário nesta terça-feira (23), o Supremo tribunal Federal (STF) na condução de inquéritos que, segundo ele, têm o intuito de "intimidar parlamentares e membros do governo anterior". O parlamentar pediu apoio dos senadores para barrar a atuação do ministro do STF, Alexandre de Moraes, que, na avaliação dele, tem caráter ideológico.
 

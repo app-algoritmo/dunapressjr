@@ -1,11 +1,12 @@
 ---
-title: "As vacinas da COVID-19 estão se tornando mais perigosas do que benéficas"
+title: As vacinas da COVID-19 estão se tornando mais perigosas do que benéficas
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Recentemente, Peter C. Gøtzsche, um conhecido médico dinamarquês, pesquisador e ex-diretor do Nordic Cochrane Center, e a jornalista biomédica Maryanne Demasi prepararam uma revisão sistemática de revisões sistemáticas e estudos observacionais de eventos adversos graves (SAE) no contexto de Vacinação COVID-19. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Entenda como o X (Twitter) será tecnicamente bloqueado no Brasil"
+title: Entenda como o X (Twitter) será tecnicamente bloqueado no Brasil
 date: 2024-08-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 **URGENTE: Ministro Alexandre de Moraes Ordena Bloqueio do X no Brasil e Impõe Multa Diária para Usuários de VPN**
 

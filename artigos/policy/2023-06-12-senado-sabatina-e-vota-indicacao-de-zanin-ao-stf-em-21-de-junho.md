@@ -1,11 +1,12 @@
 ---
-title: "Senado sabatina e vota indicação de Zanin ao STF em 21 de junho"
+title: Senado sabatina e vota indicação de Zanin ao STF em 21 de junho
 date: 2023-06-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente da Comissão de Constituição, Justiça e Cidadania (CCJ), senador Davi Alcolumbre (União-AC), informou que o advogado Cristiano Zanin será sabatinado na comissão no dia 21 de junho. Zanin é o indicado do presidente Lula ao cargo de ministro do Supremo Tribunal Federal (STF) na vaga aberta com a aposentadoria de Ricardo Lewandowski. O relator da indicação será o senador Veneziano Vital do Rêgo (MDB-PB), adiantou Alcolumbre.
 

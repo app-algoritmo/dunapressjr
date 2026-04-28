@@ -1,11 +1,12 @@
 ---
-title: "Confúcio chama atenção para o baixo desempenho dos estudantes brasileiros"
+title: Confúcio chama atenção para o baixo desempenho dos estudantes brasileiros
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO), em pronunciamento no Plenário nesta terça-feira (5), lamentou o resultado dos indicadores educacionais do Brasil, revelados no Pisa 2022 e divulgados esta terça. O exame internacional avalia o desempenho de estudantes de 15 a 16 anos em matemática, leitura e ciências. Confúcio destacou que o país continua abaixo da média entre os 81 países avaliados, mesmo com a Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) considerando que a estagnação na qualidade do aprendizado foi irrelevante. Para o parlamentar, faltou investimento no setor.
 

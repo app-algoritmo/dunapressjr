@@ -1,11 +1,13 @@
 ---
-title: "Biden admite vitória de Trump nas prévias de Iowa: “Ele é o claro favorito do outro lado”"
+title: 'Biden admite vitória de Trump nas prévias de Iowa: “Ele é o claro favorito
+  do outro lado”'
 date: 2024-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, **Joe Biden** , apelou esta segunda-feira aos seus apoiantes para que façam doações à sua campanha, após a vitória do ex-Presidente Donald Trump nas prévias do Iowa, que o tornou “o favorito claro” no Partido Republicano à frente do Partido Republicano. as eleições presidenciais dos EUA.
 

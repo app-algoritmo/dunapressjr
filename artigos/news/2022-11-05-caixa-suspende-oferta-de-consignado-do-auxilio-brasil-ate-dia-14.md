@@ -1,11 +1,12 @@
 ---
-title: "Caixa suspende oferta de consignado do Auxílio Brasil até dia 14"
+title: Caixa suspende oferta de consignado do Auxílio Brasil até dia 14
 date: 2022-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Banco alegou que fará pausa para processar folha de pagamento.
 

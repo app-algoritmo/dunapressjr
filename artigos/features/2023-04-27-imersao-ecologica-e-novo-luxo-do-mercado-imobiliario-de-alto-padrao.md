@@ -1,11 +1,12 @@
 ---
-title: "'Imersão ecológica' é novo luxo do mercado imobiliário de alto padrão"
+title: '''Imersão ecológica'' é novo luxo do mercado imobiliário de alto padrão'
 date: 2023-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 Priorizar a qualidade de vida é uma das principais tendências atuais. A relação entre as pessoas e suas moradias passou por profundas mudanças nos últimos anos. De maneira crescente e sólida, o público demanda por empreendimentos que ofereçam valor agregado, tranquilidade e qualidade de vida, sem abrir mão da exclusividade e da ampla infraestrutura. 
 

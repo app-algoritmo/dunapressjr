@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia e Reino Unido assinam acordo sobre garantias de segurança"
+title: Ucrânia e Reino Unido assinam acordo sobre garantias de segurança
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Atualmente, o primeiro-ministro britânico está visitando Kiev.
 

@@ -1,11 +1,12 @@
 ---
-title: "Moro destaca encontro com grupo de lideranças latino-americanas de direita"
+title: Moro destaca encontro com grupo de lideranças latino-americanas de direita
 date: 2023-09-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) destacou ter participado, neste final de semana, de reunião do Grupo Liberdade e Democracia, formado por ex-presidentes latino-americanos de direita e centro-direita. Entre os presentes, de acordo com o senador, estiveram Felipe Calderón, do México; Iván Duque, da Colômbia; Mauricio Macri, da Argentina; Sebastián Piñera, do Chile; Tuto Quiroga, da Bolívia; e Miguel Ángel, da Costa Rica.
 

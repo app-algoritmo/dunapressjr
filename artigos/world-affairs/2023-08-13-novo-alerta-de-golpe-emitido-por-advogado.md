@@ -1,11 +1,12 @@
 ---
-title: "Novo Alerta de Golpe Emitido por Advogado"
+title: Novo Alerta de Golpe Emitido por Advogado
 date: 2023-08-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Organização Mundial da Saúde é um governo mundial disfarçado? Um novo rascunho revisado do Regulamento Sanitário Internacional, que contém uma série de mudanças fundamentais, está disponível há vários meses.
 

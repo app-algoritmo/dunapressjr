@@ -1,11 +1,12 @@
 ---
-title: "'Lições que aprendemos com a Guerra do Yom Kippur.'"
+title: '''Lições que aprendemos com a Guerra do Yom Kippur.'''
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O presidente Isaac Herzog participa do memorial da Guerra do Yom Kippur no Monte Herzl, marcando 48 anos desde a guerra.
 

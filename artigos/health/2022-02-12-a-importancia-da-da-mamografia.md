@@ -1,11 +1,12 @@
 ---
-title: "A importância da da Mamografia"
+title: A importância da da Mamografia
 date: 2022-02-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O câncer de mama é uma das doenças que mais matam mulheres no Brasil e no mundo e a mamografia é o método mais eficaz para detectar precocemente este câncer.
 

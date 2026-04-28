@@ -1,11 +1,13 @@
 ---
-title: "Secretário-Geral das Nações Unidas propõe Pacto Global para gerenciar avanços da Inteligência Artificial"
+title: Secretário-Geral das Nações Unidas propõe Pacto Global para gerenciar avanços
+  da Inteligência Artificial
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## António Guterres enfatiza a necessidade de regulamentação e governança da IA diante de ameaças difíceis de controlar.
 

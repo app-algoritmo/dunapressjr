@@ -1,11 +1,13 @@
 ---
-title: "Tatuagem militar norueguesa com apresentação de exércitos de vários países do mundo"
+title: Tatuagem militar norueguesa com apresentação de exércitos de vários países
+  do mundo
 date: 2019-08-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Tradição e patriotismo em um sensacional entretenimento norueguês.
 

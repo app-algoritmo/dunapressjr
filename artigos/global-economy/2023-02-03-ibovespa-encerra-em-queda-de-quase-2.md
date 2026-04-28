@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa encerra em queda de quase 2%"
+title: Ibovespa encerra em queda de quase 2%
 date: 2023-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 5,04.
 

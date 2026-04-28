@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança atinge US$ 1,93 bilhão até segunda semana de outubro"
+title: Superávit da balança atinge US$ 1,93 bilhão até segunda semana de outubro
 date: 2021-10-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Corrente de comércio chega a US$ 13,87 bilhões no período; no acumulado do ano, superávit é de US$ 58,50 bilhões, com corrente de comércio de US$ 384 bilhões.
 

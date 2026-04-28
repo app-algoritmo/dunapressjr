@@ -1,11 +1,12 @@
 ---
-title: "Série conheça o Sul do Brasil: Florianópolis/SC"
+title: 'Série conheça o Sul do Brasil: Florianópolis/SC'
 date: 2020-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Florianópolis divide-se em duas partes: uma é a Ilha de Santa Catarina, a outra fica no continente. As duas são unidas pela bela ponte Hercílio Luz, um dos principais cartões-postais da cidade.
 

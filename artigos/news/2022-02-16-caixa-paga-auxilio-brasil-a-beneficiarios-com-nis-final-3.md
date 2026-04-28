@@ -1,11 +1,12 @@
 ---
-title: "Caixa paga Auxílio Brasil a beneficiários com NIS final 3"
+title: Caixa paga Auxílio Brasil a beneficiários com NIS final 3
 date: 2022-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor mínimo para cada família é R$ 400.
 

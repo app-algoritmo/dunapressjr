@@ -1,11 +1,13 @@
 ---
-title: "Chefe da ONU, Guterres, alerta que a terra está 'fervendo' e a internet está respondendo"
+title: Chefe da ONU, Guterres, alerta que a terra está 'fervendo' e a internet está
+  respondendo
 date: 2023-08-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 “A mudança climática está aqui, é assustador e isso é apenas o começo”, disse o chefe da ONU, Antonio Guterres, em um comício em Nova York. Referiu-se às altas temperaturas e aos incêndios florestais.
 

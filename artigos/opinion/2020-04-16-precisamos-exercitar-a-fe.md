@@ -1,11 +1,12 @@
 ---
-title: "Precisamos exercitar a fé"
+title: Precisamos exercitar a fé
 date: 2020-04-16
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Diante de uma situação impossível, o desespero e a dor parecem ser os reais companheiros que temos. O mundo parece que deseja sufocar qualquer gota de esperança que ainda insistimos em nos agarrar. Somos racionais, isso foi o que nos permitiu sair do status de simples hominídeos com um pouco mais de coordenação motora e inteligência para reais agentes transformadores da natureza e de nossa própria estória. 
 

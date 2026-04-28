@@ -1,11 +1,13 @@
 ---
-title: "Programa Brasil Mais é retomado para alavancar a produtividade de pequenos e médios negócios"
+title: Programa Brasil Mais é retomado para alavancar a produtividade de pequenos
+  e médios negócios
 date: 2020-10-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A expectativa é atender 120 mil empresas até 2022 com capacitação gerencial.
 

@@ -1,11 +1,12 @@
 ---
-title: "WEF Defende Desmantelamento Controlado do Sistema Alimentar Global"
+title: WEF Defende Desmantelamento Controlado do Sistema Alimentar Global
 date: 2024-06-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Fórum Econômico Mundial (WEF) apelou a uma "reinvenção" da nutrição humana, sugerindo um "desmantelamento controlado" do sistema alimentar global. Em um artigo recente intitulado "Alimentando o Futuro: Por que a Renovação e a Reinvenção são Chave para Salvar nosso Sistema Alimentar", Juliana Weltman Glezer, membro do projeto do WEF “Novas Fronteiras da Nutrição”, destacou a necessidade de mudanças radicais para enfrentar as emissões de gases de efeito estufa provenientes da produção de alimentos e para atender à crescente demanda global por alimentos.
 

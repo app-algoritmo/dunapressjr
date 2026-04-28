@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa: Melatonina pode reverter danos do desmame precoce"
+title: 'Pesquisa: Melatonina pode reverter danos do desmame precoce'
 date: 2022-05-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Biomédico formado pela Universidade Federal de Pernambuco (UFPE), Marcos Aurélio Santos da Costa concluiu se mestrado pela mesma instituição. O pesquisador estudou os efeitos da melatonina sobre o duodeno. O resultado de dissertação foi publicado no Journal of Morphological Sciences.
 

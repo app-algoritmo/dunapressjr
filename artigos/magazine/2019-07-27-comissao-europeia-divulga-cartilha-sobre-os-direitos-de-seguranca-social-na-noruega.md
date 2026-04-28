@@ -1,12 +1,14 @@
 ---
-title: "Comissão Européia divulga cartilha sobre os direitos de segurança social na Noruega"
+title: Comissão Européia divulga cartilha sobre os direitos de segurança social na
+  Noruega
 date: 2019-07-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 Emprego, assuntos sociais e inclusão, direitos de segurança social na Noruega, [cartilha](https://dunapress.org/wp-content/uploads/2019/07/Your-social-security-rights-in-Norway_pt.pdf) criada pela Comissão Européia **com** descrição geral do regime de segurança social aplicável no país.
 

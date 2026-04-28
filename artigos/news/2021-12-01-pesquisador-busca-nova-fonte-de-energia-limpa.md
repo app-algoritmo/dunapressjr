@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador busca nova fonte de energia limpa"
+title: Pesquisador busca nova fonte de energia limpa
 date: 2021-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Allan Araújo é mestre em Engenharia de Materiais pela Universidade Federal da Paraíba (UFPB) e doutor em Ciência e Engenharia de Materiais pela Universidade Federal do Rio Grande do Norte (UFRN), com período no Centro de Tecnologia Mecânica e Automação da Universidade de Aveiro, em Portugal. Sua pesquisa é feita na área de conversão de energia a partir de reações químicas usando materiais cerâmicos.   
 

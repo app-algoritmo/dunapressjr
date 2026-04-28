@@ -1,11 +1,12 @@
 ---
-title: "Como manter a casa sempre em ordem?￼"
+title: Como manter a casa sempre em ordem?￼
 date: 2022-05-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Features
+- Features
 ---
+
 
 Manter sua casa limpa não precisa ser difícil ou complicado. Basta seguir algumas regras simples e limpar regularmente para manter a casa arrumada. Confira nossas dicas!
 

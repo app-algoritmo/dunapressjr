@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde estreia na Superliga 23/24 nesta quinta-feira (9)"
+title: Osasco São Cristóvão Saúde estreia na Superliga 23/24 nesta quinta-feira (9)
 date: 2023-11-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar faz a primeira partida fora de casa, contra o Brasília, às 17h, em Taguatinga. SporTV 2 transmite.
 

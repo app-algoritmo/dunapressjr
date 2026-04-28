@@ -1,11 +1,12 @@
 ---
-title: "Medidas mais rígidas de controle de infecção para viajantes do Reino Unido"
+title: Medidas mais rígidas de controle de infecção para viajantes do Reino Unido
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Noruega|
 

@@ -1,11 +1,12 @@
 ---
-title: "Zequinha questiona intenção de Lula de financiar gasoduto na Argentina"
+title: Zequinha questiona intenção de Lula de financiar gasoduto na Argentina
 date: 2023-06-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (27), questionou o presidente Luiz Inácio Lula da Silva sobre a possibilidade de o BNDES financiar a construção de um gasoduto na Argentina, com custo de quase R$ 3,5 bilhões. A afirmação de Lula sobre o possível financiamento foi feita em encontro dele com o presidente da Argentina, Alberto Fernández, nesta segunda-feira (26). Enquanto isso, destacou Zequinha, apenas 3,63% da população do Pará tem acesso a serviço de tratamento de esgoto. 
 

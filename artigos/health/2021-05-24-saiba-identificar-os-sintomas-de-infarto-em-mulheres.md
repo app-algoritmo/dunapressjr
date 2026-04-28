@@ -1,11 +1,12 @@
 ---
-title: "Saiba identificar os sintomas de infarto em mulheres"
+title: Saiba identificar os sintomas de infarto em mulheres
 date: 2021-05-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Dor forte no peito que irradia para o braço esquerdo é o sintoma mais conhecido do ataque cardíaco. Mas em mulheres, nem sempre essa manifestação aparece quando ocorre um infarto. Na verdade, os sinais podem ser confundidos com outras doenças cotidianas. Por isso, é preciso atenção para reconhecer os indícios de um problema no coração e procurar imediatamente o pronto-socorro.
 

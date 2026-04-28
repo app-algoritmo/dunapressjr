@@ -1,11 +1,12 @@
 ---
-title: "Programa VIGIA completa mil ocorrências no Mato Grosso do Sul"
+title: Programa VIGIA completa mil ocorrências no Mato Grosso do Sul
 date: 2020-05-21
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Programa Nacional de Segurança nas Fronteiras e Divisas do Ministério da Justiça e Segurança Pública (MJSP)  completou mil  ocorrências registradas e atendidas no Mato Grosso do Sul, um dos estados onde o VIGIA está presente. Por meio da Operação Hórus, o programa chegou à região em setembro de 2019 e, em oito meses, já apreendeu mais de 180 toneladas de drogas.
 

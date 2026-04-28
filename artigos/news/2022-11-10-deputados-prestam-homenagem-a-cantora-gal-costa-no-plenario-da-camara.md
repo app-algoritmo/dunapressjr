@@ -1,11 +1,12 @@
 ---
-title: "Deputados prestam homenagem à cantora Gal Costa no Plenário da Câmara"
+title: Deputados prestam homenagem à cantora Gal Costa no Plenário da Câmara
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Deputados de vários partidos homenagearam, nesta quarta-feira (9), a cantora Gal Costa no Plenário da Câmara, com um minuto de silêncio e discursos sobre a importância da artista para a cultura brasileira.
 

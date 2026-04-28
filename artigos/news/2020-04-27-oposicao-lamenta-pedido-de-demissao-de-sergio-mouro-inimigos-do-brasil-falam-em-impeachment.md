@@ -1,11 +1,13 @@
 ---
-title: "Oposição Lamenta pedido de demissão de Sergio Mouro, inimigos do Brasil falam em impeachment"
+title: Oposição Lamenta pedido de demissão de Sergio Mouro, inimigos do Brasil falam
+  em impeachment
 date: 2020-04-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O pedido de demissão do ministro da Justiça e de Segurança Pública, Sérgio Moro, com acusações ao presidente da República, Jair Bolsonaro, de querer interferir politicamente na Polícia Federal “segundo o ex funcionário público”, repercutiu na Câmara dos Deputados. Moro afirmou que Bolsonaro disse a ele que queria ter uma pessoa próxima, de sua confiança para poder “ligar, colher informações e colher relatórios de inteligência”.
 

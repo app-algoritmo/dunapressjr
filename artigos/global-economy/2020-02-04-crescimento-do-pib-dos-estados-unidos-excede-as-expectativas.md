@@ -1,11 +1,12 @@
 ---
-title: "Crescimento do PIB dos Estados Unidos excede as expectativas"
+title: Crescimento do PIB dos Estados Unidos excede as expectativas
 date: 2020-02-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Bureau of Economic Analysis divulgou sua estimativa antecipada do PIB dos Estados Unidos para o quarto trimestre de 2019 e todo o ano civil de 2019. O comunicado estima que o PIB real tenha crescido 2,1% a uma taxa anual no quarto trimestre de 2019 e 2,3 por cento ao longo dos quatro trimestres de 2019. Os gastos do consumidor e o investimento residencial registraram ganhos notáveis, impulsionando o crescimento do PIB e preparando o cenário para futura expansão econômica. Esses resultados mostram que a economia permanece resiliente, apesar da desaceleração no resto do mundo e da continuação da expansão mais longa da história americana.
 

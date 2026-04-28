@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem fertilizantes até outubro, garante ministra da Agricultura"
+title: Brasil tem fertilizantes até outubro, garante ministra da Agricultura
 date: 2022-03-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Safra de verão, no fim de setembro e outubro, gera preocupação.
 

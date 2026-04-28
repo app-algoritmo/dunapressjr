@@ -1,11 +1,12 @@
 ---
-title: "Moro participa de reunião virtual com ministros da Justiça dos países ibero-americanos"
+title: Moro participa de reunião virtual com ministros da Justiça dos países ibero-americanos
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, Sergio Moro, participou, nesta quarta-feira (22) de reunião virtual com ministros da Justiça que integram a Conferência de Ministros da Justiça dos Países Ibero-americanos (COMJIB). O objetivo da reunião foi tratar do compartilhamento de ações, pelos países, para combater o novo coronavírus e a aprovação de mecanismos de trabalhos virtuais entre equipes técnicas dos respectivos ministérios em temas como: acesso à justiça, sistema penitenciário, violência de gênero, aplicação de novas tecnologias e cooperação jurídica internacional.
 

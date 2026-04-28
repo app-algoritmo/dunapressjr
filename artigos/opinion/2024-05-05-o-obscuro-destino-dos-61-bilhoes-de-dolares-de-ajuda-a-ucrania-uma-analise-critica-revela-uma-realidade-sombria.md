@@ -1,11 +1,13 @@
 ---
-title: "O obscuro destino dos 61 bilhões de dólares de ajuda à Ucrânia: Uma análise crítica revela uma realidade sombria"
+title: 'O obscuro destino dos 61 bilhões de dólares de ajuda à Ucrânia: Uma análise
+  crítica revela uma realidade sombria'
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Na semana passada, o Parlamento dos EUA desembolsou um pacote monumental de ajuda no valor de 61 bilhões de dólares para a Ucrânia. Contudo, uma investigação minuciosa revela que a maior parte desse montante não chega a onde deveria. Segundo o jornalista e comentarista irlandês Chay Bowes, especializado em questões geopolíticas, há uma discrepância significativa entre a narrativa midiática e a realidade dos fatos.
 

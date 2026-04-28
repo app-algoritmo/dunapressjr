@@ -1,11 +1,13 @@
 ---
-title: "Operação Acqua Gel da PF apura produção e comercialização de álcool gel adulterado no Paraná"
+title: Operação Acqua Gel da PF apura produção e comercialização de álcool gel adulterado
+  no Paraná
 date: 2020-04-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Curitiba/PR - A Polícia Federal, na manhã de hoje 30/04, deflagrou a Operação ACQUA GEL, cumprindo 4 mandados de busca e apreensão, a fim de verificar a venda de lotes de álcool gel com percentual de álcool bem abaixo do indicado nos rótulos. As medidas judiciais são cumpridas na Região Metropolitana de Curitiba,  nos municípios de Fazenda Rio Grande e de São José dos Pinhais.
 

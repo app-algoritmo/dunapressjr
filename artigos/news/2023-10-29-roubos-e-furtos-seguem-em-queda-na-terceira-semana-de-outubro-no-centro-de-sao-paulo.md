@@ -1,11 +1,13 @@
 ---
-title: "Roubos e furtos seguem em queda na terceira semana de outubro no centro de São Paulo"
+title: Roubos e furtos seguem em queda na terceira semana de outubro no centro de
+  São Paulo
 date: 2023-10-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Roubos na região caíram 52% em relação ao mesmo período do ano passado; baixa nos furtos foi de 35%.
 

@@ -1,11 +1,13 @@
 ---
-title: "Brasileiros e estrangeiros com esquema vacinal completo estão dispensados de apresentar teste negativo de Covid-19 para entrar no País"
+title: Brasileiros e estrangeiros com esquema vacinal completo estão dispensados de
+  apresentar teste negativo de Covid-19 para entrar no País
 date: 2022-04-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Brasileiros e estrangeiros que queiram entrar no Brasil estão dispensados de apresentar teste de Covid-19 negativado caso estejam vacinados com as duas doses ou dose única. Além disso, não são mais necessários o preenchimento da Declaração de Saúde do Viajante (DSV) e período de quarentena. As novas normas estão em portaria conjunta assinada pelos Ministérios da Saúde, Casa Civil, Justiça e Segurança Pública e Infraestrutura.
 

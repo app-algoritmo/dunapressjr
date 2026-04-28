@@ -1,11 +1,13 @@
 ---
-title: "Presidente em exercício destaca que o Brasil se tornou caro para investimentos antes de ser um país rico"
+title: Presidente em exercício destaca que o Brasil se tornou caro para investimentos
+  antes de ser um país rico
 date: 2023-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Geraldo Alckmin ressalta a necessidade de agir nas causas do baixo crescimento e destaca importância da reforma tributária e do controle dos gastos para impulsionar a competitividade no país.
 

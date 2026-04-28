@@ -1,11 +1,12 @@
 ---
-title: "O Paradoxo Norueguês: Economia em Crescimento e Moeda Enfraquecida"
+title: 'O Paradoxo Norueguês: Economia em Crescimento e Moeda Enfraquecida'
 date: 2024-11-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Enquanto muitas economias enfrentam desafios com moedas enfraquecidas, a Noruega segue um caminho único. Com a coroa norueguesa (NOK) em declínio, setores como turismo e exportações de frutos do mar estão prosperando. Imagine um turista encantado ao descobrir que sua viagem ao país dos fiordes está mais acessível, ou um exportador celebrando recordes de vendas em salmão. Esse cenário paradoxal revela como uma moeda desvalorizada pode, temporariamente, tornar uma economia mais dinâmica e competitiva nos mercados globais.
 

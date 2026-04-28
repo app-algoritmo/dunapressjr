@@ -1,11 +1,12 @@
 ---
-title: "Plínio expressa preocupação com criação de centro policial de países da Amazônia"
+title: Plínio expressa preocupação com criação de centro policial de países da Amazônia
 date: 2023-09-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário nesta terça-feira (19), o senador Plínio Valério (PSDB-AM) manifestou preocupação com a instalação do Centro de Cooperação Polícia Internacional em Manaus, com objetivo de combater crimes ambientais e narcotráfico na Amazônia. A unidade reunirá polícias de oito países da região amazônica, e será financiada pelo Brasil. O senador questionou os motivos pelos quais apenas o governo brasileiro assumirá os custos dessa operação.
 

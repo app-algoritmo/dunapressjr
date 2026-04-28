@@ -1,11 +1,12 @@
 ---
-title: "Girão critica leniência do governo Lula sobre denúncias contra ministro Juscelino"
+title: Girão critica leniência do governo Lula sobre denúncias contra ministro Juscelino
 date: 2023-12-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão ( novo-CE) avaliou, em pronunciamento no Plenário nesta segunda-feira (4), as denúncias envolvendo o ministro das Comunicações que, na sua opinião, evidenciam uma "excessiva leniência do governo" em relação à corrupção. O senador citou algumas denúncias contra o ministro: uso irregular de avião da Força Aérea Brasileira (FAB) para comparecer a um leilão de cavalos de raça e a nomeação de funcionários fantasmas no gabinete da Liderança do PDT no Senado.
 

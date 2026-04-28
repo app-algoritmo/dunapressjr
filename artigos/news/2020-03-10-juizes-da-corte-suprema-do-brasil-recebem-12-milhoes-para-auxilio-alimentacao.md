@@ -1,11 +1,12 @@
 ---
-title: "Juizes da corte suprema do Brasil recebem 12 milhões para auxilio alimentação"
+title: Juizes da corte suprema do Brasil recebem 12 milhões para auxilio alimentação
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -O senador Jorge Kajuru (PSB-GO) usou a tribuna da casa para criticar valores destinados a ministros STF.
 

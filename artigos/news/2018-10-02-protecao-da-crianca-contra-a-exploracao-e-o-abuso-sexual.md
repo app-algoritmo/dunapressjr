@@ -1,11 +1,12 @@
 ---
-title: "Proteção da criança contra a exploração e o abuso sexual"
+title: Proteção da criança contra a exploração e o abuso sexual
 date: 2018-10-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Entrou em vigor em 01 de outubro, na Noruega, a **Convenção sobre proteção contra abuso sexual**, convenção do Conselho da Europa sobre a Proteção das Crianças contra a exploração sexual e o abuso sexual. A Convenção foi ratificada pela Noruega em 15 de maio deste ano.
 

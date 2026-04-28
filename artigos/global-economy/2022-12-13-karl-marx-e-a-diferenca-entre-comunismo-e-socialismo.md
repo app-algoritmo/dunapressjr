@@ -1,11 +1,12 @@
 ---
-title: "Karl Marx e a diferença entre comunismo e socialismo"
+title: Karl Marx e a diferença entre comunismo e socialismo
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## A teoria comunista é ainda mais bizarra que a socialista.
 

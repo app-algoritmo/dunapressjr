@@ -1,11 +1,12 @@
 ---
-title: "PIB do primeiro trimestre mostra recuperação econômica, diz SPE"
+title: PIB do primeiro trimestre mostra recuperação econômica, diz SPE
 date: 2021-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento neste ano pode ter como limitador o baixo volume de chuvas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha no menor nível desde maio em dia tenso no mercado"
+title: Bolsa fecha no menor nível desde maio em dia tenso no mercado
 date: 2021-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar encostou em R$ 5,30, mas encerrou em leve baixa.
 

@@ -1,11 +1,12 @@
 ---
-title: "O MTur disponibiliza Cursos de turismo online"
+title: O MTur disponibiliza Cursos de turismo online
 date: 2020-04-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Este período de isolamento pode ser uma boa oportunidade para aprender algo novo ou se especializar. O Ministério do Turismo, além de várias instituições de ensino, inclusive internacionais, oferecem cursos online para quem quiser se aperfeiçoar e se preparar para o futuro. Turismo de aventura, gestão do turismo, ecoturismo e atendimento ao turista estão entre as opções disponíveis.
 

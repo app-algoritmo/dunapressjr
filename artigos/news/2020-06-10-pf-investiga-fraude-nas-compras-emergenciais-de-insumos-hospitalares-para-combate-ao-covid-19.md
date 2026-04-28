@@ -1,11 +1,13 @@
 ---
-title: "PF investiga fraude nas compras emergenciais de insumos hospitalares para combate ao Covid-19"
+title: PF investiga fraude nas compras emergenciais de insumos hospitalares para combate
+  ao Covid-19
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (10/6) a denominada OPERAÇÃO DÚCTIL, visando desarticular esquemas de fraudes na aquisição emergencial de materiais e insumos médico-hospitalares para atendimento das demandas das unidades de saúde estaduais como estratégia de prevenção, enfrentamento e contenção da pandemia da COVID-19.
 

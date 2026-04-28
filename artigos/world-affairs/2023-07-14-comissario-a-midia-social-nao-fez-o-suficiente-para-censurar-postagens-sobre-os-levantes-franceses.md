@@ -1,11 +1,13 @@
 ---
-title: "Comissário: A mídia social não fez o suficiente para censurar postagens sobre os levantes franceses"
+title: 'Comissário: A mídia social não fez o suficiente para censurar postagens sobre
+  os levantes franceses'
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Mais exigências de censura de Thierry Breton. As recentes críticas do comissário da UE, amigo da censura, Thierry Breton, às plataformas de mídias sociais como TikTok e Snapchat por supostamente censurar os conteúdos durante os distúrbios na França e  levantar preocupações entre os defensores da liberdade de expressão.
 

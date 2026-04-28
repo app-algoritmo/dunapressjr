@@ -1,11 +1,12 @@
 ---
-title: "Pandemia faz cair participação de centros urbanos na economia do país"
+title: Pandemia faz cair participação de centros urbanos na economia do país
 date: 2022-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 É o que revela pesquisa do IBGE, referente a 2020.
 

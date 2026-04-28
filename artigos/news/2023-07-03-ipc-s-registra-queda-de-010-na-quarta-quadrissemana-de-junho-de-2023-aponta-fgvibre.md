@@ -1,11 +1,13 @@
 ---
-title: "IPC-S registra queda de 0,10% na quarta quadrissemana de junho de 2023, aponta FGV/IBRE"
+title: IPC-S registra queda de 0,10% na quarta quadrissemana de junho de 2023, aponta
+  FGV/IBRE
 date: 2023-07-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Educação e Transportes apresentam aumento, enquanto Habitação e Alimentação registram queda no índice de preços ao consumidor.
 

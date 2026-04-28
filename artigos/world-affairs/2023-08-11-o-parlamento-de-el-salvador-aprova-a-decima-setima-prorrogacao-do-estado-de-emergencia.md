@@ -1,11 +1,13 @@
 ---
-title: "O Parlamento de El Salvador aprova a décima sétima prorrogação do estado de emergência"
+title: O Parlamento de El Salvador aprova a décima sétima prorrogação do estado de
+  emergência
 date: 2023-08-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Parlamento de El Salvador aprovou na noite desta quarta-feira a **décima sétima prorrogação** do **estado de emergência** decretado em março de 2022 no âmbito do combate às quadrilhas, que vigorará de 15 de agosto a 13 de setembro.
 

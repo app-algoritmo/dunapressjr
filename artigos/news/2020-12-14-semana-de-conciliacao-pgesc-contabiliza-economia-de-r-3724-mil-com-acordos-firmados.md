@@ -1,11 +1,13 @@
 ---
-title: "Semana de Conciliação: PGE/SC contabiliza economia de R$ 372,4 mil com acordos firmados"
+title: 'Semana de Conciliação: PGE/SC contabiliza economia de R$ 372,4 mil com acordos
+  firmados'
 date: 2020-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A participação da Procuradoria-Geral do Estado (PGE/SC) na Semana Nacional de Conciliação, entre os dias 30 de novembro e 4 de dezembro, resultou em uma economia de R$ 372,4 mil aos cofres públicos catarinenses. O valor corresponde ao acordo firmado entre as partes e a Administração estadual em processos que estavam em tramitação na Justiça. Com o aceite pelos autores da proposta oferecida pela PGE/SC, essas causas são encerradas.
 

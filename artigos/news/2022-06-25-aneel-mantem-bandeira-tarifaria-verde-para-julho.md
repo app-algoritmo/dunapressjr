@@ -1,11 +1,12 @@
 ---
-title: "Aneel mantém bandeira tarifária verde para julho"
+title: Aneel mantém bandeira tarifária verde para julho
 date: 2022-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Não haverá cobrança extra na conta de luz no próximo mês.
 

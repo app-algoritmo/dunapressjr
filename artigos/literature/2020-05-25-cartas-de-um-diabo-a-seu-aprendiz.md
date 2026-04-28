@@ -1,11 +1,12 @@
 ---
-title: "Cartas de um diabo a seu aprendiz"
+title: Cartas de um diabo a seu aprendiz
 date: 2020-05-25
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Sir Clive Staples Lewis, nosso querido e amado C.S. Lewis, retorna para nossa coluna devotada à literatura brasileira e mundial. Depois de termos trabalhado de modo exaustivo a obra *Crônicas de Nárnia*, voltamos nosso olhar para outro livro considerado uma das produções mais fascinantes de Lewis: Cartas de Um Diabo a Seu Aprendiz (The Screwtape Letters).
 

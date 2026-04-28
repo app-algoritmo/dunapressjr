@@ -1,11 +1,12 @@
 ---
-title: "Carlos Viana propõe reajuste anual na alimentação escolar"
+title: Carlos Viana propõe reajuste anual na alimentação escolar
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Carlos Viana (Podemos-MG) anunciou em pronunciamento na terça-feira (26) a apresentação de projeto sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica ([PL 4.522/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160029)). A proposta tem objetivo de garantir que os valores destinados a merenda escolar por aluno, determinados pelo Fundo Nacional de Desenvolvimento da Educação (FNDE), sejam reajustados anualmente, em janeiro, com base na inflação apurada pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) do ano anterior. Além disso, permite a possibilidade de um reajuste superior ao índice, caso o governo assim o decida.
 

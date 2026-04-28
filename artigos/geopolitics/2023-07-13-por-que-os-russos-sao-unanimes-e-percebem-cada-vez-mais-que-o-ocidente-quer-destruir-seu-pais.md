@@ -1,11 +1,13 @@
 ---
-title: "Por que os russos são unânimes e percebem cada vez mais que o Ocidente quer destruir seu país?"
+title: Por que os russos são unânimes e percebem cada vez mais que o Ocidente quer
+  destruir seu país?
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Não haverá volta antes de 2022. O bloco liderado pelos EUA levou Moscou longe demais.
 

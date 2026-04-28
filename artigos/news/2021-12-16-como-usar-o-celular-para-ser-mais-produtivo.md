@@ -1,11 +1,12 @@
 ---
-title: "Como usar o celular para ser mais produtivo?"
+title: Como usar o celular para ser mais produtivo?
 date: 2021-12-16
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Atualmente com os avanços da tecnologia o celular se tornou uma ferramenta de trabalho para muitos. E o que antigamente era usado somente para a diversão e momentos de descontração, faz parte hoje do escritório de trabalho.
 

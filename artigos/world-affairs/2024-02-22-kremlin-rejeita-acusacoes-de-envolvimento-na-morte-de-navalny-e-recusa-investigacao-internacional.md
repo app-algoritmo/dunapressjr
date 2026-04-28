@@ -1,11 +1,13 @@
 ---
-title: "Kremlin Rejeita Acusações de Envolvimento na Morte de Navalny e Recusa Investigação Internacional"
+title: Kremlin Rejeita Acusações de Envolvimento na Morte de Navalny e Recusa Investigação
+  Internacional
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Kremlin refutou as acusações de que o Presidente Vladimir Putin estava envolvido na morte de Alexey Navalny, respondendo às afirmações da viúva do líder da oposição, Yulia Navalnaya.
 

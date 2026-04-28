@@ -1,11 +1,12 @@
 ---
-title: "Empresa busca investidores para barco brasileiro na The Ocean Race edição 2023/2024"
+title: Empresa busca investidores para barco brasileiro na The Ocean Race edição 2023/2024
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 "Sim, o Brasil quer e vai estar na maior regata dos mares do mundo: The Ocean Race! Vêm com a gente empresários!".  Esta é a campanha de marketing empresarial visando atrair investidores para o projeto do barco brasileiro inscrito na The Ocean Race 2023/2024, o SCBrasil Team. Para consolidar o projeto, a empresa SCBrasil Esporte Náutico abriu cotas de sociedade e também patrocínios para a segunda participação brasileira na regata volta ao mundo. Ela busca um investimento total para o programa de 10 milhões de euros, aproximadamente 86 milhões de reais. Já para a sociedade, abriu 10% de seu capital para conquistar um sócio investidor – visando a criação de capital de giro para as ações da empresa brasileira.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governo federal anuncia apoio de R$ 230 milhões a agricultores do Rio Grande do Sul com dificuldades no pagamento de empréstimos do Pronaf"
+title: Governo federal anuncia apoio de R$ 230 milhões a agricultores do Rio Grande
+  do Sul com dificuldades no pagamento de empréstimos do Pronaf
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Agricultores gaúchos receberão desconto de 25% nas parcelas vencidas e a vencer do Pronaf, em resposta à estiagem e falta de seguro rural.
 

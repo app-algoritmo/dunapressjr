@@ -1,11 +1,12 @@
 ---
-title: "A Importância da Proteção Animal para o Bem-Estar e Segurança Pública"
+title: A Importância da Proteção Animal para o Bem-Estar e Segurança Pública
 date: 2024-03-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Em meio aos desafios enfrentados por nossas comunidades, a proteção animal muitas vezes é relegada a um segundo plano, considerada uma questão secundária em relação a outras preocupações mais imediatas. No entanto, negligenciar o bem-estar dos animais não só afeta diretamente suas vidas, mas também tem consequências significativas para a segurança pública e o funcionamento harmonioso de nossas cidades.
 

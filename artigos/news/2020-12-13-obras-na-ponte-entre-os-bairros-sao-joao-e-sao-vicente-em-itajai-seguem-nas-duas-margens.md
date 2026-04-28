@@ -1,11 +1,13 @@
 ---
-title: "Obras na ponte entre os bairros São João e São Vicente, em Itajaí seguem nas duas margens"
+title: Obras na ponte entre os bairros São João e São Vicente, em Itajaí seguem nas
+  duas margens
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Depois da retirada de imóvel na rua José Pereira Liberato, as obras da ponte entre os bairros São João e São Vicente seguem nas duas margens do rio Itajaí-Mirim. A estrutura de mais de 50 metros de extensão interligará as ruas Juca Cesário e São Joaquim e diminuirá os congestionamentos na ponte da rua Doutor Pedro Rangel.
 

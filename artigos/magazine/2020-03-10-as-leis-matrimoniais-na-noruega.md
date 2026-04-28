@@ -1,11 +1,12 @@
 ---
-title: "As leis matrimoniais na Noruega"
+title: As leis matrimoniais na Noruega
 date: 2020-03-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A Lei do Casamento tem regras sobre quem pode se casar e como se divorciar. A lei também tem regras sobre a situação financeira durante o casamento e no término do casamento.
 

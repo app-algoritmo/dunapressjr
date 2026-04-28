@@ -1,11 +1,12 @@
 ---
-title: "Repensar a Educação, Inger Enkvist"
+title: Repensar a Educação, Inger Enkvist
 date: 2021-05-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 [Repensar a Educação](https://dunapress.org/wp-content/uploads/2021/05/Repensar-a-educacao-Inger-Enkvist.pdf) analisa por que o homem necessita da educação, como esta se desviou durante a metade do último século, e o que deveria ser feito para que voltasse a ser vista de forma positiva. Nas últimas décadas, a política e a ideologia conquistaram a escola através de uma série de teorias que não tem como finalidade a aquisição do conhecimento, apenas a transformação da sociedade.
 

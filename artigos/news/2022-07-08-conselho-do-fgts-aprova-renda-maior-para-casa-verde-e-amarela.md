@@ -1,11 +1,12 @@
 ---
-title: "Conselho do FGTS aprova renda maior para Casa Verde e Amarela"
+title: Conselho do FGTS aprova renda maior para Casa Verde e Amarela
 date: 2022-07-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Teto do programa habitacional sobe para R$ 8 mil.
 

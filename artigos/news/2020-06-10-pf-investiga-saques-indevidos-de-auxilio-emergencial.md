@@ -1,11 +1,12 @@
 ---
-title: "PF investiga saques indevidos de Auxílio Emergencial"
+title: PF investiga saques indevidos de Auxílio Emergencial
 date: 2020-06-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP – A Polícia Federal, em conjunto com a Caixa Econômica Federal e com a Polícia Militar do Estado de São Paulo, deflagra nesta quarta-feira (10/6) a Operação Covideiros. A ação visa combater fraudes relativas a saques indevidos do benefício social nominado Auxílio Emergencial ocorridas, em especial, na zona leste de São Paulo.
 

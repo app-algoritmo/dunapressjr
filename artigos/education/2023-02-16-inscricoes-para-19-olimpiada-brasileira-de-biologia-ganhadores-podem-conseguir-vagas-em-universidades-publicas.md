@@ -1,11 +1,13 @@
 ---
-title: "Inscrições para 19ª Olimpíada Brasileira de Biologia, ganhadores podem conseguir vagas em universidades públicas"
+title: Inscrições para 19ª Olimpíada Brasileira de Biologia, ganhadores podem conseguir
+  vagas em universidades públicas
 date: 2023-02-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 As escolas da rede pública e privada já podem inscrever seus alunos e alunas do Ensino Médio para a XIX Olimpíada Brasileira de Biologia (OBB), que neste ano abordará o tema “Desafios socioambientais na erradicação de doenças: edição vacinas". As inscrições vão até as 12h de 10/3 (horário de Brasília) e devem ser feitas no **[site oficial da olimpíada](https://olimpiadasdebiologia.butantan.gov.br/)**. Organizada pelo Butantan desde 2017, a OBB tem apoio da Escola Superior do Instituto Butantan (ESIB) e busca disseminar conhecimento nas áreas de biologia, aproximando jovens talentosos da pesquisa na área.
 

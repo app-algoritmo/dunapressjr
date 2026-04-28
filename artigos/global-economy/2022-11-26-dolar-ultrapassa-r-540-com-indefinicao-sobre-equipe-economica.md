@@ -1,11 +1,12 @@
 ---
-title: "Dólar ultrapassa R$ 5,40 com indefinição sobre equipe econômica"
+title: Dólar ultrapassa R$ 5,40 com indefinição sobre equipe econômica
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa cai 2,55% e quase anula ganhos da véspera.
 

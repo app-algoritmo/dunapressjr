@@ -1,11 +1,12 @@
 ---
-title: "Julgados 1.351 processos pela Comissão de Recursos do Proagro"
+title: Julgados 1.351 processos pela Comissão de Recursos do Proagro
 date: 2020-07-31
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Em torno de 58% dos recursos dos produtores foram acatados e 42% indeferidos.
 

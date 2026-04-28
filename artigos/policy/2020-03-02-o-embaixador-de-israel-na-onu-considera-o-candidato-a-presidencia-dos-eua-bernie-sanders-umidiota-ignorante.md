@@ -1,11 +1,13 @@
 ---
-title: "O embaixador de Israel na ONU considera o candidato a presidência dos EUA, Bernie Sanders um'idiota ignorante'"
+title: O embaixador de Israel na ONU considera o candidato a presidência dos EUA,
+  Bernie Sanders um'idiota ignorante'
 date: 2020-03-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 *"Quem chama o primeiro-ministro de Israel de" racista "é um mentiroso, um idiota ignorante ou ambos", disse Danon. “Não queremos Sanders na AIPAC. Nós não o queremos em Israel.* "
 

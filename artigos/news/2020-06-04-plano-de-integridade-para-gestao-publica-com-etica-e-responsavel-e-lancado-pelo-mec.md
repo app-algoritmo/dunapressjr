@@ -1,11 +1,13 @@
 ---
-title: "Plano de Integridade para gestão pública com ética e responsável é lançado pelo MEC"
+title: Plano de Integridade para gestão pública com ética e responsável é lançado
+  pelo MEC
 date: 2020-06-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Medidas como capacitação e reorganização da estrutura de cargos e regimentos são parte do plano.
 

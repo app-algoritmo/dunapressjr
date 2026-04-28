@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal participa da prisão de fugitivos acusados da morte de brasileira nos Estados Unidos"
+title: Polícia Federal participa da prisão de fugitivos acusados da morte de brasileira
+  nos Estados Unidos
 date: 2020-02-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Vitória/ES** - A Polícia Federal participou da prisão, no
 dia 22, na cidade capixaba de Cariacica, de dois homens, acusados do

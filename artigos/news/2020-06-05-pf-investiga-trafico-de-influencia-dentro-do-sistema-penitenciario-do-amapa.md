@@ -1,11 +1,12 @@
 ---
-title: "PF investiga tráfico de influência dentro do sistema penitenciário do Amapá"
+title: PF investiga tráfico de influência dentro do sistema penitenciário do Amapá
 date: 2020-06-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta sexta-feira (5/6) a Operação Rábula*, para desarticular organização criminosa que atua promovendo facilitação e elaboração de pareceres jurídicos junto ao Conselho Penitenciário Estadual, no estado do Amapá.
 

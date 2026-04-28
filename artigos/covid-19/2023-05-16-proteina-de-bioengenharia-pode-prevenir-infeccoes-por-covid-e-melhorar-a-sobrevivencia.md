@@ -1,11 +1,12 @@
 ---
-title: "Proteína de bioengenharia pode prevenir infecções por COVID e melhorar a sobrevivência"
+title: Proteína de bioengenharia pode prevenir infecções por COVID e melhorar a sobrevivência
 date: 2023-05-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma nova proteína ACE2 desenvolvida por pesquisadores da Northwestern Medicine melhorou a sobrevida e preveniu a infecção cerebral em camundongos infectados com SARS-CoV-2 quando administrado por via intranasal, de acordo com um estudo recente publicado na revista [Life](https://www.life-science-alliance.org/content/6/7/e202301969#ack-1) Science *Alliance* .  
 

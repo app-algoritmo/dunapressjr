@@ -1,11 +1,12 @@
 ---
-title: "<strong>Como manter um corpo saudável?</strong>"
+title: <strong>Como manter um corpo saudável?</strong>
 date: 2022-08-10
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Nos últimos anos, o boom do fitness, as dietas de desintoxicação e as novas tendências para levar um [estilo de vida mais saudável](https://naoca.blog.br/saude-e-beleza/) despertaram uma comunidade de seguidores. Mas como** manter um corpo saudável**?
 

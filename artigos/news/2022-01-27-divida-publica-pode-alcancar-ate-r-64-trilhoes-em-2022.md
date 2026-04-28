@@ -1,11 +1,12 @@
 ---
-title: "Dívida pública pode alcançar até R$ 6,4 trilhões em 2022"
+title: Dívida pública pode alcançar até R$ 6,4 trilhões em 2022
 date: 2022-01-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Números foram divulgados pelo Tesouro Nacional.
 

@@ -1,11 +1,12 @@
 ---
-title: "Grande Plano do Hamas: Revelando a Extensão do Ataque de 7 de Outubro"
+title: 'Grande Plano do Hamas: Revelando a Extensão do Ataque de 7 de Outubro'
 date: 2023-11-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, a inteligência revelou que o grupo terrorista Hamas havia elaborado um esquema abrangente que ultrapassou o ataque executado em 7 de outubro. De acordo com vários funcionários graduados de nações ocidentais e do Oriente Médio, informa o The Washington Post, os militantes do Hamas receberam ordens explícitas para maximizar as baixas civis. Seu objetivo não era apenas semear o medo, mas também provocar uma resposta militar robusta de Israel, com a esperança de atrair toda a região para uma guerra contra o país.
 

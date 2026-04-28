@@ -1,11 +1,12 @@
 ---
-title: "PR Donald J. Trump aprova  declarações de desastre em diversos estados"
+title: PR Donald J. Trump aprova  declarações de desastre em diversos estados
 date: 2020-04-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Hoje, o presidente Donald J. Trump declarou que existe um grande desastre nos estados do Tennessee, Ilhas Marianas do Norte, Virgínia e Ilhas Virgens Americanas, seguido de ontem dia 1 de abril para o estado do Havaí e Dakota do Norte e no dia 31 de março em Montana e, ordenou assistência federal para suplementar os esforços estaduais e locais de recuperação nas áreas afetadas pela pandemia da doença de coronavírus 2019 (COVID-19) a partir de 20 de janeiro de 2020 e continuando.
 

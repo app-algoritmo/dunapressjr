@@ -1,11 +1,12 @@
 ---
-title: "Governo antecipa Abono Salarial para nascidos em maio e junho"
+title: Governo antecipa Abono Salarial para nascidos em maio e junho
 date: 2020-03-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Caixa iniciou, na terça-feira (17), o crédito automático antecipado do Abono Salarial – Programa de Integração Social (PIS), calendário 2019/2020, para os trabalhadores nascidos nos meses de maio e junho com conta individual atualizada no banco. Os demais clientes não titulares de conta individual Caixa recebem a partir de quinta-feira (19). O prazo final para o saque do Abono Salarial de todos os trabalhadores é 30 de junho de 2020.Os valores podem variar de R$ 88 a R$ 1.045, de acordo com a quantidade de dias trabalhados durante o ano base 2018. Os pagamentos são escalonados conforme o mês de nascimento do trabalhador e tiveram início em julho, com os nascidos naquele mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "O fim da liberdade de viajar"
+title: O fim da liberdade de viajar
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## É possível que os Estados Unidos voltem ao confinamento? É possível que os oficiais tentem nos deter sem o devido processo?
 

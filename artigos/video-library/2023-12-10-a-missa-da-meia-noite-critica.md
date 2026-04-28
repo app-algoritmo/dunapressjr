@@ -1,11 +1,12 @@
 ---
-title: "A missa da meia-noite | Crítica"
+title: A missa da meia-noite | Crítica
 date: 2023-12-10
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## "Missa da Meia-Noite" é uma obra de Mike Flanagan, o mesmo criador da série "A mansão da residência Hill".
 

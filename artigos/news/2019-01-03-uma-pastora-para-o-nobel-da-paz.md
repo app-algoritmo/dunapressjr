@@ -1,11 +1,12 @@
 ---
-title: "Uma Pastora para o Nobel da Paz"
+title: Uma Pastora para o Nobel da Paz
 date: 2019-01-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A notícia da indicação da Pastora Morgana Macena de Santana já se encontra em vários meios de comunicação digital. Confira clicando nos títulos abaixo:
 

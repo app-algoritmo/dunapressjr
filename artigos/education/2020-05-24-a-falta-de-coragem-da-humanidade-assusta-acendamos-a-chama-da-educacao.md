@@ -1,11 +1,12 @@
 ---
-title: "A falta de coragem da humanidade assusta - Acendamos a chama da educação"
+title: A falta de coragem da humanidade assusta - Acendamos a chama da educação
 date: 2020-05-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Education
+- Education
 ---
+
 
 A falta de coragem na humanidade assusta, muito. Há um tempo a coragem era normal, um aspecto natural e passado pela educação de um para o próximo. Após algumas décadas notório que a coragem virou algo raro.
 

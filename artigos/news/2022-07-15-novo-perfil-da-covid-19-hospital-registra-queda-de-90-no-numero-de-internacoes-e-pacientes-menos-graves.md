@@ -1,11 +1,13 @@
 ---
-title: "Novo perfil da covid-19: hospital registra queda de 90% no número de internações e pacientes menos graves"
+title: 'Novo perfil da covid-19: hospital registra queda de 90% no número de internações
+  e pacientes menos graves'
 date: 2022-07-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O perfil dos pacientes internados devido à covid-19 no Brasil mudou em 2022, se comparado aos anos anteriores da pandemia. No Hospital Marcelino Champagnat, em Curitiba (PR), nos meses de maio e junho deste ano, o número de internados foi menos de 10% do registrado no mesmo período de 2021, passando de 274 para 23. O número de doentes que precisaram de ventilação mecânica também caiu, de 61% para 39%.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ex-primeiro-ministro romeno investigado por gastar US$ 1 bilhão em vacinas que nunca foram usadas"
+title: Ex-primeiro-ministro romeno investigado por gastar US$ 1 bilhão em vacinas
+  que nunca foram usadas
 date: 2023-12-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## 
 Governos de todo o mundo pagaram dezenas de milhares de milhões de dólares à Pfizer e a outras empresas de vacinas pelas vacinas Covidien que nunca serão utilizadas devido à falta de procura.

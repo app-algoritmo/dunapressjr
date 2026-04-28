@@ -1,11 +1,12 @@
 ---
-title: "Promulgada lei que simplifica regras trabalhistas em novas calamidades"
+title: Promulgada lei que simplifica regras trabalhistas em novas calamidades
 date: 2022-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medidas adotadas na pandemia poderão ser acionadas no futuro.
 

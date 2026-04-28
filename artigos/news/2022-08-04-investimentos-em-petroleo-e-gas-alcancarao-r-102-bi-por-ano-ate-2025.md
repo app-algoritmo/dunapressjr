@@ -1,11 +1,12 @@
 ---
-title: "Investimentos em petróleo e gás alcançarão R$ 102 bi por ano até 2025"
+title: Investimentos em petróleo e gás alcançarão R$ 102 bi por ano até 2025
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é de geração de 500 mil empregos no período.
 

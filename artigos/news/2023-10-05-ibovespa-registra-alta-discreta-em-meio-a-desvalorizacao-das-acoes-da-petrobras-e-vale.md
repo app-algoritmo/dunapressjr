@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa registra alta discreta em meio a desvalorização das ações da Petrobras e Vale"
+title: Ibovespa registra alta discreta em meio a desvalorização das ações da Petrobras
+  e Vale
 date: 2023-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dólar encerra com ligeira valorização, acompanhando movimentos internacionais.
 

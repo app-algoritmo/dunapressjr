@@ -1,11 +1,12 @@
 ---
-title: "Trump e Orbán debatem sobre proteção de fronteiras em encontro na Flórida"
+title: Trump e Orbán debatem sobre proteção de fronteiras em encontro na Flórida
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na terça-feira, o ex-presidente dos Estados Unidos, Donald Trump, e o primeiro-ministro húngaro, Viktor Orbán, se reuniram em Mar-a-Lago, na Flórida, para discutir uma ampla gama de questões, com destaque para a proteção das fronteiras estaduais. O encontro, que marca a terceira vez que Orbán se reúne com Trump, evidencia a crescente preocupação com a imigração ilegal e a segurança fronteiriça.
 

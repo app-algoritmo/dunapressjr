@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa brasileira analisa possível cultivo de tilápias na Noruega"
+title: Pesquisa brasileira analisa possível cultivo de tilápias na Noruega
 date: 2023-01-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 Renan José Casarotto Appel é biotecnólogo e, com bolsa do Programa de Demanda Social da CAPES, é doutorando em Genética e Biologia Molecular pela Universidade Estadual de Londrina (UEL). Atualmente, faz parte de sua pesquisa pelo Programa de Biociências Aquáticas da *Nord University, *na Noruega. Seu trabalho envolve projetos para a aquicultura e produção de tilápia do Nilo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comitê Nacional de Enfrentamento ao Tráfico de Pessoas divulga resultado preliminar das eleições virtuais"
+title: Comitê Nacional de Enfrentamento ao Tráfico de Pessoas divulga resultado preliminar
+  das eleições virtuais
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília, 17/04/2020 -** A Secretaria-executiva do Comitê Nacional de Enfrentamento ao Tráfico de Pessoas (Conatrap) divulgou, nesta sexta-feira (17), o resultado preliminar das eleições virtuais para o Comitê. Foram mais de 4.580 votos. 
 

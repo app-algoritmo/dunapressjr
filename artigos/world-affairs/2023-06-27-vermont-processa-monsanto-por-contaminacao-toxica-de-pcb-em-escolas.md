@@ -1,11 +1,12 @@
 ---
-title: "Vermont processa Monsanto por contaminação tóxica de PCB em escolas"
+title: Vermont processa Monsanto por contaminação tóxica de PCB em escolas
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O procurador-geral de Vermont abriu um processo contra a gigante agroquímica Monsanto por causa de sua produção e venda de produtos químicos tóxicos, apesar de saber que eles eram prejudiciais à saúde humana e ao meio ambiente.
 

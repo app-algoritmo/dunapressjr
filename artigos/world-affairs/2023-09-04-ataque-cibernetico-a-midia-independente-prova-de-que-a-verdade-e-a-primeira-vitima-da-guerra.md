@@ -1,11 +1,13 @@
 ---
-title: "Ataque cibernético à mídia independente! Prova de que a verdade é a primeira vítima da guerra"
+title: Ataque cibernético à mídia independente! Prova de que a verdade é a primeira
+  vítima da guerra
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O jornal online da fundação de cultura estratégica foi atingido por um ataque cibernético massivo na semana passada. O ataque resultou no encerramento do fórum em seu site normal. Os leitores que normalmente acessam a revista foram informados que o site não está mais disponível.
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente argentino se reúne com secretário de Estado dos EUA em encontro 'incrivelmente positivo'"
+title: Presidente argentino se reúne com secretário de Estado dos EUA em encontro
+  'incrivelmente positivo'
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente argentino, Javier Milei, e o secretário de Estado dos Estados Unidos, Antony Blinken, tiveram um encontro nesta terça-feira na Casa Rosada, em Buenos Aires, que foi descrito como "incrivelmente positivo" pelo representante dos EUA. O objetivo da visita de dois dias de Blinken à Argentina é fortalecer as relações bilaterais entre os dois países.
 

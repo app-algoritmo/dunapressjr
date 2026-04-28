@@ -1,11 +1,13 @@
 ---
-title: "IDV apoia plano do governo de cobrar impostos de plataformas digitais estrangeiras para tornar competição mais justa"
+title: IDV apoia plano do governo de cobrar impostos de plataformas digitais estrangeiras
+  para tornar competição mais justa
 date: 2023-04-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministro Fernando Haddad reúne-se com presidente do Instituto.
 

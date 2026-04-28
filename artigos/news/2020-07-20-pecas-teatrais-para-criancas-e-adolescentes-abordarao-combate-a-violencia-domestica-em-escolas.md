@@ -1,11 +1,13 @@
 ---
-title: "Peças teatrais para crianças e adolescentes abordarão combate à violência doméstica em escolas"
+title: Peças teatrais para crianças e adolescentes abordarão combate à violência doméstica
+  em escolas
 date: 2020-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um projeto de laboratório teatral vai receber R$ 100 mil para criar espetáculos sobre a violência contra a mulher. As peças serão apresentadas em escolas públicas do Distrito Federal (DF). A iniciativa do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) prevê, além do fortalecimento das políticas públicas de enfrentamento à violência doméstica, a geração de emprego e renda.
 

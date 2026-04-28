@@ -1,12 +1,13 @@
 ---
-title: "Shimano Fest bate recorde de público e cresce 30% em volume de negócios"
+title: Shimano Fest bate recorde de público e cresce 30% em volume de negócios
 date: 2023-08-22
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## 13ª edição do maior festival da bicicleta da América Latina recebeu 50.250 visitantes no Memorial da América Latina, em São Paulo, e gerou R$ 59 milhões em negócios.
 

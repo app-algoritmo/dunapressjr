@@ -1,11 +1,12 @@
 ---
-title: "FGV: confiança do setor de serviços tem leve recuperação"
+title: 'FGV: confiança do setor de serviços tem leve recuperação'
 date: 2020-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Efeitos da pandemia se refletem na economia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Norwegian Air vai operar no Brasil"
+title: Norwegian Air vai operar no Brasil
 date: 2018-11-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A norueguesa **Norwegian Air**, a segunda maior companhia aérea da Escandinávia e a terceira maior de baixo custo (*low cost*) da Europa, teve sua solicitação de direitos de tráfego para operação no Brasil atendida. A companhia já opera na América do Norte e Central, e atualmente tem uma subsidiária na América do Sul (Argentina).
 

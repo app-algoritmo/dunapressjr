@@ -1,11 +1,13 @@
 ---
-title: "A mistura certa de '5 por dia' são 2 porções de frutas e 3 vegetais para uma vida mais longa"
+title: A mistura certa de '5 por dia' são 2 porções de frutas e 3 vegetais para uma
+  vida mais longa
 date: 2021-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Food
+- Food
 ---
+
 
 O maior consumo de frutas e vegetais está associado a um menor risco de morte em homens e mulheres, de acordo com dados que representam cerca de 2 milhões de adultos. Cinco porções diárias de frutas e vegetais, consumidas como 2 porções de frutas e 3 porções de vegetais, podem ser a quantidade ideal e a combinação para uma vida mais longa. Essas descobertas apóiam as recomendações dietéticas atuais dos EUA para comer mais frutas e vegetais e a mensagem simples de saúde pública '5 por dia'.
 

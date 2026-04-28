@@ -1,12 +1,13 @@
 ---
-title: "O dia em que a democracia foi assassinada"
+title: O dia em que a democracia foi assassinada
 date: 2023-04-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
-  - History
+- Geopolitics
+- History
 ---
+
 
 Em 23 de março de 1933, o Reichstag aprovou a »Lei de Habilitação«. Os deputados efetivamente fizeram de Hitler um ditador – e se tornaram supérfluos. Por que tantos deles ainda concordam?
 

@@ -1,11 +1,12 @@
 ---
-title: "Águas do São Francisco chegam ao Ceará nesta sexta-feira"
+title: Águas do São Francisco chegam ao Ceará nesta sexta-feira
 date: 2020-06-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Esta semana, MDR liberou recursos para obras hídricas em Pernambuco, Paraíba e Rio Grande do Norte.
 

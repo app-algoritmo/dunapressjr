@@ -1,11 +1,12 @@
 ---
-title: "Operação Guilda de Papel da PF apura fraudes e desvios em Jequié/BA"
+title: Operação Guilda de Papel da PF apura fraudes e desvios em Jequié/BA
 date: 2020-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Prefeito foi afastado do cargo por 60 dias.
 

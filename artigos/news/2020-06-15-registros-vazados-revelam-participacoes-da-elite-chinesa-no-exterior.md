@@ -1,11 +1,12 @@
 ---
-title: "Registros vazados revelam participações da elite chinesa no exterior"
+title: Registros vazados revelam participações da elite chinesa no exterior
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Os arquivos esclarecem quase 22.000 clientes de paraísos fiscais de Hong Kong e da China continental.
 

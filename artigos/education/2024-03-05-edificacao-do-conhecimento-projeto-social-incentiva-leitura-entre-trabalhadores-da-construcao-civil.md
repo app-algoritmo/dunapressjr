@@ -1,12 +1,14 @@
 ---
-title: "Edificação do conhecimento: projeto social incentiva leitura entre trabalhadores da construção civil"
+title: 'Edificação do conhecimento: projeto social incentiva leitura entre trabalhadores
+  da construção civil'
 date: 2024-03-05
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Environment
+- Education
+- Environment
 ---
+
 
 ## Novos Canteiros da Leitura do Instituto A.Yoshii beneficiarão 250 colaboradores com mais de 200 exemplares de livros de diversas categorias. O projeto, que já contempla 18 obras em cidades do Paraná e São Paulo, acaba de inaugurar dois novos espaços.
 

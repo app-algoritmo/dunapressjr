@@ -1,11 +1,13 @@
 ---
-title: "Redes sociais agitadas com saída do Min Sergio Moro pode significar uma vitória para as máfias no Brasil e no exterior"
+title: Redes sociais agitadas com saída do Min Sergio Moro pode significar uma vitória
+  para as máfias no Brasil e no exterior
 date: 2020-04-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta feira dia 24.4.20, o Brasil começou o dia com as redes sociais em pânico para alguns e alívio para todas as máfias e cartéis criminais instalados no Brasil e no exterior. 
 

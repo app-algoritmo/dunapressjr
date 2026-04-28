@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica fica praticamente estável em janeiro deste ano"
+title: Atividade econômica fica praticamente estável em janeiro deste ano
 date: 2023-04-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, o indicador ficou positivo em 3%.
 

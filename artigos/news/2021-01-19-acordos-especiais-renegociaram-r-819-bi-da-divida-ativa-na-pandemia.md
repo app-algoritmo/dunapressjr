@@ -1,11 +1,12 @@
 ---
-title: "Acordos especiais renegociaram R$ 81,9 bi da dívida ativa na pandemia"
+title: Acordos especiais renegociaram R$ 81,9 bi da dívida ativa na pandemia
 date: 2021-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 268 mil parcelamentos foram fechados em oito meses.
 

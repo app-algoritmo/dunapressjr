@@ -1,11 +1,12 @@
 ---
-title: "Armazém da Saúde: dicas saudáveis com a ajuda de um aplicativo"
+title: 'Armazém da Saúde: dicas saudáveis com a ajuda de um aplicativo'
 date: 2020-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Você sabia que manter alimentação saudável, peso corporal adequado e prática de atividade física estão entre as principais formas de se prevenir o câncer? Tendo essa informação como pano de fundo, o Instituto Nacional do Câncer (INCA) desenvolveu o aplicativo Armazém da Saúde.
 

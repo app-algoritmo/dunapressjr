@@ -1,11 +1,12 @@
 ---
-title: "Projeto cria campanhas sobre câncer de mama e de próstata em animais de estimação"
+title: Projeto cria campanhas sobre câncer de mama e de próstata em animais de estimação
 date: 2021-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 1881/21 cria as campanhas “Outubro Rosa Pet” e “Novembro Azul Pet” para conscientizar a população sobre a importância de submeter animais de estimação a exames regulares para o diagnóstico precoce do câncer de mama e de doenças na próstata decorrentes da castração. O texto tramita na Câmara dos Deputados.
 

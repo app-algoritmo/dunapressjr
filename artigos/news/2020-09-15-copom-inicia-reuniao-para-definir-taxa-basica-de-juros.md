@@ -1,11 +1,12 @@
 ---
-title: "Copom inicia reunião para definir taxa básica de juros"
+title: Copom inicia reunião para definir taxa básica de juros
 date: 2020-09-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Selic será anunciada amanhã, ao final do dia.
 

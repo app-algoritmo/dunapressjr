@@ -1,11 +1,12 @@
 ---
-title: "Interpol oferecerá 75 cursos para profissionais de Segurança Pública"
+title: Interpol oferecerá 75 cursos para profissionais de Segurança Pública
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública firmou parceria com a Organização Internacional de Polícia Criminal (Interpol) para disponibilizar 75 cursos à distância aos profissionais que integram o Sistema Único de Segurança Pública (SUSP). Os cursos, nos idiomas inglês, francês, espanhol e árabe, serão ministrados por meio da plataforma da instituição internacional, a Interpol Global Learning Centre (IGLC).
 

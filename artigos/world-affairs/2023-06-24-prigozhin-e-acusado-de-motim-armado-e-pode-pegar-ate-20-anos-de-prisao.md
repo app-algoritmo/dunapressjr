@@ -1,11 +1,12 @@
 ---
-title: "Prigozhin é acusado de motim armado e pode pegar até 20 anos de prisão"
+title: Prigozhin é acusado de motim armado e pode pegar até 20 anos de prisão
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Ministério da D.efesa da Rússia chamou falsos os relatórios sobre greves nas unidades Wagner PMC.
 

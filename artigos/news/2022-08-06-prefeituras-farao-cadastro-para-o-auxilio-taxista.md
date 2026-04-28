@@ -1,11 +1,12 @@
 ---
-title: "Prefeituras farão cadastro para o auxílio taxista"
+title: Prefeituras farão cadastro para o auxílio taxista
 date: 2022-08-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Parcelas serão pagas a partir de 16 de agosto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Raisi: Irã e Iraque compartilham posição comum em relação à Palestina"
+title: 'Raisi: Irã e Iraque compartilham posição comum em relação à Palestina'
 date: 2023-11-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O presidente iraniano, Ebrahim Raisi, diz que o Irã e o Iraque compartilham uma posição comum em relação à questão da Palestina.
 

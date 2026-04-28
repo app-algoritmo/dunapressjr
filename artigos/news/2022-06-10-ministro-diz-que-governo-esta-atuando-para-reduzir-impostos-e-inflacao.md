@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que governo está atuando para reduzir impostos e inflação"
+title: Ministro diz que governo está atuando para reduzir impostos e inflação
 date: 2022-06-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Paulo Guedes participou da abertura de fórum da Abras.
 

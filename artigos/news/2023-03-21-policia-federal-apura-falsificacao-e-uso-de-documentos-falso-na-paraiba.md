@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apura falsificação e uso de documentos falso na Paraíba"
+title: Polícia Federal apura falsificação e uso de documentos falso na Paraíba
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Laudos psicológicos teriam sido fraudados.
 

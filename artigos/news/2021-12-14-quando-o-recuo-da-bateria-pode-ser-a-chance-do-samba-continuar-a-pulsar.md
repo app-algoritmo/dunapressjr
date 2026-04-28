@@ -1,11 +1,12 @@
 ---
-title: "Quando o recuo da bateria pode ser a chance do samba continuar a pulsar"
+title: Quando o recuo da bateria pode ser a chance do samba continuar a pulsar
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por: *Viviane Hessel*.
 

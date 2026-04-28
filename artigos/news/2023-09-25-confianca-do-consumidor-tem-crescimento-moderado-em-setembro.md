@@ -1,11 +1,12 @@
 ---
-title: "Confiança do consumidor tem crescimento moderado em setembro"
+title: Confiança do consumidor tem crescimento moderado em setembro
 date: 2023-09-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados revelam a manutenção do otimismo, com ênfase na situação atual.
 

@@ -1,11 +1,12 @@
 ---
-title: "Doramas: o que são, onde habitam como se reproduzem?"
+title: 'Doramas: o que são, onde habitam como se reproduzem?'
 date: 2023-10-06
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

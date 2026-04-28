@@ -1,11 +1,13 @@
 ---
-title: "Black Lives Matter destrói estátua de imigrante que morreu lutando contra a escravidão"
+title: Black Lives Matter destrói estátua de imigrante que morreu lutando contra a
+  escravidão
 date: 2020-06-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Manifestantes do movimento Black Lives Matter vandalizaram e derrubaram uma estátua na noite de terça-feira 23.6.20 em Madison, Wisconsin, do coronel Hans Christian Heg, um imigrante da Noruega que morreu lutando pela União contra a escravidão.
 

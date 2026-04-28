@@ -1,11 +1,13 @@
 ---
-title: "Fragmentos de pergaminhos da Bíblia entre artefatos deslumbrantes encontrados na Caverna do Horror do Mar Morto"
+title: Fragmentos de pergaminhos da Bíblia entre artefatos deslumbrantes encontrados
+  na Caverna do Horror do Mar Morto
 date: 2021-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em uma descoberta incrivelmente rara, dezenas de fragmentos de pergaminhos bíblicos de 2.000 anos foram escavados em cavernas do deserto da Judéia durante uma ousada operação de resgate. A maioria dos fragmentos de rolos recém-descobertos - os primeiros achados em 60 anos - são traduções gregas dos livros de Zacarias e Naum do Livro dos Doze Profetas Menores, e são escritos por duas mãos de escribas. Apenas o nome de Deus está escrito em hebraico nos textos.
 

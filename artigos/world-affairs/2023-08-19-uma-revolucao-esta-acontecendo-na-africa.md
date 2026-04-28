@@ -1,11 +1,12 @@
 ---
-title: "Uma revolução está acontecendo na África"
+title: Uma revolução está acontecendo na África
 date: 2023-08-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chefe de política externa da UE, Josep Borrell, pediu a "libertação imediata e incondicional" do ex-presidente nigeriano Mohamed Bazoum. Ele foi derrubado por uma junta militar em 26 de julho.
 

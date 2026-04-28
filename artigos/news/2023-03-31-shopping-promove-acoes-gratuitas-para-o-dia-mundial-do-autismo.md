@@ -1,11 +1,12 @@
 ---
-title: "Shopping promove ações gratuitas para o Dia Mundial do Autismo"
+title: Shopping promove ações gratuitas para o Dia Mundial do Autismo
 date: 2023-03-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 **Palestras, oficinas, degustação de alimentação inclusiva, contação de histórias e oficina de musicalização fazem parte das ações**
 

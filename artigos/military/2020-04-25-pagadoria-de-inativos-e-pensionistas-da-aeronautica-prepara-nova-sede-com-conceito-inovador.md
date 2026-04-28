@@ -1,11 +1,13 @@
 ---
-title: "Pagadoria de Inativos e Pensionistas da Aeronáutica prepara nova sede com conceito inovador"
+title: Pagadoria de Inativos e Pensionistas da Aeronáutica prepara nova sede com conceito
+  inovador
 date: 2020-04-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Veteranos da Força Aérea Brasileira (FAB) devem usufruir, em poucos meses, da nova sede da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR). Previsto para inaugurar neste ano, o novo espaço ocupará prédios do antigo Parque de Material Aeronáutico dos Afonsos (PAMA-AF), no Rio de Janeiro (RJ).
 

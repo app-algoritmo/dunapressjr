@@ -1,11 +1,12 @@
 ---
-title: "IPC-S de Outubro de 2023: Variação de 0,35% e Acumulado em 12 Meses de 3,81%"
+title: 'IPC-S de Outubro de 2023: Variação de 0,35% e Acumulado em 12 Meses de 3,81%'
 date: 2023-10-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da FGV/Ibre revelam a evolução do Índice de Preços ao Consumidor Semanal no mês de outubro.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro prevê crescimento da economia em 0,84% neste ano"
+title: Mercado financeiro prevê crescimento da economia em 0,84% neste ano
 date: 2023-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Informação é do Boletim Focus, divulgado pelo Banco Central.
 

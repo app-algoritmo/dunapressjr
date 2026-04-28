@@ -1,11 +1,13 @@
 ---
-title: "Suprema Corte dos EUA decide que estudantes transgêneros na Virgínia Ocidental podem competir contra atletas do sexo feminino"
+title: Suprema Corte dos EUA decide que estudantes transgêneros na Virgínia Ocidental
+  podem competir contra atletas do sexo feminino
 date: 2023-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Suprema Corte dos EUA decidiu na quinta-feira que estudantes transgêneros (homens biológicos) podem competir contra equipes esportivas femininas.
 

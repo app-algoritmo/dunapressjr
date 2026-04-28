@@ -1,11 +1,13 @@
 ---
-title: "Eles tentarão nos fazer pagar pelo ar que respiramos? O ar puro pode ser a nova água engarrafada"
+title: Eles tentarão nos fazer pagar pelo ar que respiramos? O ar puro pode ser a
+  nova água engarrafada
 date: 2023-04-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A maneira como respiramos pode ser a próxima fronteira comercial, e o ar limpo pode ser a nova água engarrafada.
 

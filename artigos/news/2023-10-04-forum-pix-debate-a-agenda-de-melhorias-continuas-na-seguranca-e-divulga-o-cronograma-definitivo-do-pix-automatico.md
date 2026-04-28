@@ -1,11 +1,13 @@
 ---
-title: "Fórum Pix debate a agenda de melhorias contínuas na segurança e divulga o cronograma definitivo do Pix Automático"
+title: Fórum Pix debate a agenda de melhorias contínuas na segurança e divulga o cronograma
+  definitivo do Pix Automático
 date: 2023-10-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ideia é que seja recomendada a criação de canal de denúncia de golpe nos aplicativos dos bancos.
 

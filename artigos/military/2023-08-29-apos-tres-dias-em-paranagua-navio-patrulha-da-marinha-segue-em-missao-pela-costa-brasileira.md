@@ -1,11 +1,13 @@
 ---
-title: "Após três dias em Paranaguá, navio-patrulha da Marinha segue em missão pela costa brasileira"
+title: Após três dias em Paranaguá, navio-patrulha da Marinha segue em missão pela
+  costa brasileira
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Portos do Paraná trabalha em parceria com as Forças Armadas constantemente. Base do navio é o Comando do Grupamento de Patrulha Naval do Sul-Sudeste, que tem como área de atuação o Litoral do Paraná e São Paulo, que inclui áreas de plataformas de petróleo.
 

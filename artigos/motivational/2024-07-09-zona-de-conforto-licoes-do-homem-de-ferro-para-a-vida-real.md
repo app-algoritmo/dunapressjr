@@ -1,13 +1,14 @@
 ---
-title: "Zona de conforto: Lições do Homem de Ferro para a vida real"
+title: 'Zona de conforto: Lições do Homem de Ferro para a vida real'
 date: 2024-07-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Motivational
-  - Personal Development
-  - Video library
+- Motivational
+- Personal Development
+- Video library
 ---
+
 
 ## O que a jornada de Tony Stark nos ensina sobre sair do comodismo?
 

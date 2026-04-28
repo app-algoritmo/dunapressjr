@@ -1,11 +1,12 @@
 ---
-title: "Supremo Tribunal Federal declara inconstitucionais 11 pontos da Lei dos Caminhoneiros"
+title: Supremo Tribunal Federal declara inconstitucionais 11 pontos da Lei dos Caminhoneiros
 date: 2023-07-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão do STF afeta jornada de trabalho e pausas para descanso, mas valida exame toxicológico para motoristas profissionais
 

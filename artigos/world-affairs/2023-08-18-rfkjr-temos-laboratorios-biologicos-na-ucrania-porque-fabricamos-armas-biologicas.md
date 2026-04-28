@@ -1,11 +1,13 @@
 ---
-title: "RFK.Jr: 'Temos laboratórios biológicos na Ucrânia porque fabricamos armas biológicas'"
+title: 'RFK.Jr: ''Temos laboratórios biológicos na Ucrânia porque fabricamos armas
+  biológicas'''
 date: 2023-08-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *RFK Jr. e Tucker Carlson sentaram-se para uma longa entrevista postada na segunda-feira no X (antigo Twitter), na qual os dois falam sobre a Ucrânia, biolabs e o assassino de seu tio, JFK. Carlson deixou claro que não iria importunar Kennedy com perguntas sobre sua posição sobre as vacinas, que por razões óbvias tornaram o MSM uma questão-chave.*
 

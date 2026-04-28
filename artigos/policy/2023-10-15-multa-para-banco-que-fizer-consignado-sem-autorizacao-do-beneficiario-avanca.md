@@ -1,11 +1,12 @@
 ---
-title: "Multa para banco que fizer consignado sem autorização do beneficiário avança"
+title: Multa para banco que fizer consignado sem autorização do beneficiário avança
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira projeto que estabelece multa a instituições financeiras que fizerem crédito consignado sem autorização de servidor público ou de beneficiário do INSS. De acordo com o [PL 4.089/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/159367), a multa, de 10% do valor depositado indevidamente, será revertida automaticamente para o cliente. O projeto recebeu relatório favorável do presidente do colegiado, senador Paulo Paim (PT-RS). O texto segue para análise na Comissão de Fiscalização e Controle (CTFC).
 

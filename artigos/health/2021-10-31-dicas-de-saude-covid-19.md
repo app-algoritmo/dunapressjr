@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Covid 19"
+title: 'Dicas de Saúde: Covid 19'
 date: 2021-10-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Covid 19 é uma infecção respiratória causada pelo novo coronavírus SARS-CoV-2. A doença é potencialmente grave, altamente transmissível e espalhou-se por todo o mundo.
 

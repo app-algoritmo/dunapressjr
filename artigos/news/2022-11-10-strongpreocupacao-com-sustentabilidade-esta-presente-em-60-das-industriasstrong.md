@@ -1,11 +1,12 @@
 ---
-title: "<strong>Preocupação com sustentabilidade está presente em 60% das indústrias</strong>"
+title: <strong>Preocupação com sustentabilidade está presente em 60% das indústrias</strong>
 date: 2022-11-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo a CNI, 45% exigem certificados ambientais de fornecedores.
 

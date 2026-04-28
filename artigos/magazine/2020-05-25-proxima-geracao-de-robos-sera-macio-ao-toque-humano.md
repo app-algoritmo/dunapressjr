@@ -1,11 +1,12 @@
 ---
-title: "Próxima geração de robôs será macio ao toque humano"
+title: Próxima geração de robôs será macio ao toque humano
 date: 2020-05-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Pesquisadores constroem um atuador suave de salto rápido.
 

@@ -1,11 +1,12 @@
 ---
-title: "Girão: governo afronta famílias com proposta de banheiro único em escolas"
+title: 'Girão: governo afronta famílias com proposta de banheiro único em escolas'
 date: 2023-09-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Ao discursar no Senado nesta segunda-feira (25), o senador Eduardo Girão (Novo-CE) voltou a criticar o governo do presidente Lula. Para o senador, Lula defende o aborto, a maconha, valores contra a família e é amigo de ditadores. Como exemplo de pautas que seriam contrárias à família, Girão citou o suposto banheiro unissex em escolas e disse que o governo está se valendo do aparato estatal para fazer avançar a agenda de gênero, inclusive envolvendo estudantes menores de idade. Na avaliação de Girão, trata-se de um estelionato eleitoral, já que, na campanha do ano passado, Lula teria dito ser contra a maconha, o aborto e outras pautas.
 

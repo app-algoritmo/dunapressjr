@@ -1,11 +1,12 @@
 ---
-title: "Projeto institui registro eletrônico de vacinação de animais de estimação"
+title: Projeto institui registro eletrônico de vacinação de animais de estimação
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 9/23 institui o registro eletrônico de vacinações dos animais de estimação, emitido pelos serviços de saúde médico-veterinários públicos e privados.
 

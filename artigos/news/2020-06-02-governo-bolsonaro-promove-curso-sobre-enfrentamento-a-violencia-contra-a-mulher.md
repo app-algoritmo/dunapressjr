@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro promove curso sobre enfrentamento à violência contra a mulher"
+title: Governo Bolsonaro promove curso sobre enfrentamento à violência contra a mulher
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em parceria com a Polícia Civil do Distrito Federal (PCDF) e o Banco Mundial, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) promove curso sobre violência contra a mulher para agentes de polícia e gestoras de políticas para as mulheres.
 

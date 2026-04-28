@@ -1,13 +1,15 @@
 ---
-title: "Com representantes da Marinha, corpo do Príncipe Imperial S.A.I.R D. Luiz é velado e enterrado em São Paulo"
+title: Com representantes da Marinha, corpo do Príncipe Imperial S.A.I.R D. Luiz é
+  velado e enterrado em São Paulo
 date: 2022-07-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 Aconteceu em 2022 ... //
 

@@ -1,11 +1,12 @@
 ---
-title: "Entenda o que é Foro Privilegiado e saiba o que pode mudar"
+title: Entenda o que é Foro Privilegiado e saiba o que pode mudar
 date: 2021-11-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Estudo da Consultoria Legislativa da Câmara dos Deputados mostra quais autoridades têm prerrogativa de foro, em que tribunais cada uma delas é julgada hoje por crimes comuns e qual proposta de mudança está em discussão.
 

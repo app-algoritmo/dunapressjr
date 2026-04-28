@@ -1,11 +1,13 @@
 ---
-title: "Nota de esclarecimento: A ativista pró-vida Sara Winter nunca foi secretária da mulher"
+title: 'Nota de esclarecimento: A ativista pró-vida Sara Winter nunca foi secretária
+  da mulher'
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Diretos Humanos (MMFDH) esclarece que, ao contrário do que foi noticiado por veículos de imprensa, Sara Fernanda Giromini, mais conhecida como Sara Winter, nunca ocupou o cargo de secretária nacional de políticas para as mulheres.
 

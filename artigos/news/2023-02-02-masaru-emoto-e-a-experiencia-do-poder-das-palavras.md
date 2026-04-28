@@ -1,11 +1,12 @@
 ---
-title: "Masaru Emoto e a experiência do poder das palavras"
+title: Masaru Emoto e a experiência do poder das palavras
 date: 2023-02-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Já ouviu aquele ditado “As palavras tem poder”? Pois é, esse ditado pode ser aplicado à teoria do sr. Emoto. Em suas palestras, ele mostra fotografias de cristais de água que foram modificados após um simples “obrigado” ou por palavras rudes, como “Eu te odeio”. Ele também mostra o formato dos cristais de água dependendo da pureza da água e da sua localidade no planeta.
 

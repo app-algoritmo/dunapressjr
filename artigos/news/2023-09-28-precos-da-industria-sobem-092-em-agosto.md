@@ -1,11 +1,12 @@
 ---
-title: "Preços da Indústria sobem 0,92% em agosto"
+title: Preços da Indústria sobem 0,92% em agosto
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Após seis meses em queda, os números revelam uma retomada positiva nos preços industriais.
 

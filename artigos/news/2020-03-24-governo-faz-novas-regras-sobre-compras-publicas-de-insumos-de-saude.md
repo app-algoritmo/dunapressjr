@@ -1,11 +1,12 @@
 ---
-title: "Governo faz novas regras sobre compras públicas de insumos de saúde"
+title: Governo faz novas regras sobre compras públicas de insumos de saúde
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir de sábado (21), ficou dispensada a licitação para aquisição de bens, serviços, inclusive de engenharia, e insumos de saúde destinados ao combate da pandemia do Covid-19. O Governo Federal estabeleceu novos procedimentos para simplificar e agilizar as compras públicas destinadas ao enfrentamento da emergência de saúde decorrente do coronavírus. De acordo com a Medida Provisória nº 926, a orientação não se restringe a equipamentos novos, desde que o fornecedor se responsabilize pelas condições de uso e funcionamento.
 

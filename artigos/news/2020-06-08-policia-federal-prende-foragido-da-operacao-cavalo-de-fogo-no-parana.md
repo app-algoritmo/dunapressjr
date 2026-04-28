@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende foragido da Operação Cavalo de Fogo no Paraná"
+title: Polícia Federal prende foragido da Operação Cavalo de Fogo no Paraná
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foz do Iguaçu/PR - Na tarde desta última sexta-feira (5/6), a Polícia Federal cumpriu dois mandados de prisão expedidos em desfavor de homem condenado a 25 anos de reclusão em processo relacionado à Operação Cavalo de Fogo, em Santos/SP.
 

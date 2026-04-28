@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, apreende 1 tonelada de maconha"
+title: PF, em ação integrada, apreende 1 tonelada de maconha
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Nesta terça-feira, 19/5, mais um grande trabalho integrado foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

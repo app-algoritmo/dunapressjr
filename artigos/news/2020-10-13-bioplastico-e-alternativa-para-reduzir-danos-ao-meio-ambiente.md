@@ -1,11 +1,12 @@
 ---
-title: "Bioplástico é alternativa para reduzir danos ao meio ambiente"
+title: Bioplástico é alternativa para reduzir danos ao meio ambiente
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um projeto desenvolvido no Centro de Tecnologias Estratégicas do Nordeste (Cetene), unidade de pesquisa do MCTI, trabalha na produção de bioplástico, uma alternativa sustentável para reduzir os danos ao meio ambiente. As aplicações de polímeros biodegradáveis, como o bioplástico, foram tema de um painel neste domingo (11), na programação do Mês Nacional da Ciência Tecnologia e Inovações (MNCTI), disponível no canal do ministério no YouTube[: www.youtube.com/ascommcti](http://www.youtube.com/ascommcti).
 

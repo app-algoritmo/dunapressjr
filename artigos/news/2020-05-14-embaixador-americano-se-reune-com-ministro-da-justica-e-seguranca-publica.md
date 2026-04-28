@@ -1,11 +1,12 @@
 ---
-title: "Embaixador americano se reúne com Ministro da Justiça e Segurança Pública"
+title: Embaixador americano se reúne com Ministro da Justiça e Segurança Pública
 date: 2020-05-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, se reuniu, nesta quarta-feira (13), com o embaixador dos Estados  Unidos no Brasil, Todd Chapman, para discutirem a continuidade de projetos em andamento entre os dois países nas áreas de justiça e segurança pública. O embaixador foi acompanhado do chefe do Escritório de Segurança Diplomática, Jason Smith, e do chefe da Seção Política da Embaixada, Willard Smith. Estiveram presentes também o diretor-geral da Polícia Federal, Rolando Alexandre de Souza, Sílvia Amélia Oliveira, chefe da Cooperação Internacional da Polícia Federal, a diretora do Departamento de Recuperação de Ativos e Cooperação Internacional (DRCI), Erika Marena, e a assessora internacional do MJSP, Geórgia Sanchez Diogo. 
 

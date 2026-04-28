@@ -1,11 +1,13 @@
 ---
-title: "Atleta brasileiro conquista duas medalhas nos jogos mundiais para transplantados na Austrália"
+title: Atleta brasileiro conquista duas medalhas nos jogos mundiais para transplantados
+  na Austrália
 date: 2023-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vinte e cinco medalhas foram trazidas para o Brasil por atletas transplantados e doadores de órgãos que participaram do *World Transplant Games 2023*, na Austrália. Entre eles está o transplantado renal Ramon Lima, que foi protagonista de dois bronzes nas provas de corrida de 1.500 metros e 800 metros. "Voltamos para casa com o sentimento de missão cumprida. Representar o país num evento internacional como esse é um grande privilégio e, no final, o maior prêmio é contribuir pela divulgação da doação de órgãos", declara Ramon.
 

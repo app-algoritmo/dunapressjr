@@ -1,11 +1,13 @@
 ---
-title: "Governo Brasileiro trabalha no desenvolvimento de teste para detectar coronavírus em um minuto"
+title: Governo Brasileiro trabalha no desenvolvimento de teste para detectar coronavírus
+  em um minuto
 date: 2020-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O País avança em pesquisas e tecnologias promissoras de combate ao coronavírus (Covid-19). Conheça os projetos em andamento.
 

@@ -1,11 +1,12 @@
 ---
-title: "Fundação Gates Financia Pesquisa sobre H5N1, Levantando Preocupações"
+title: Fundação Gates Financia Pesquisa sobre H5N1, Levantando Preocupações
 date: 2024-06-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 **Fundação Gates Investe em Pesquisa de H5N1, Gerando Debate sobre Potencial Pandêmico**.
 

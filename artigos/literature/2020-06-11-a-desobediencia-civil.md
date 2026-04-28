@@ -1,11 +1,12 @@
 ---
-title: "A desobediência Civil"
+title: A desobediência Civil
 date: 2020-06-11
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Henry David Thoreau é um nome a ser guardado na minha mente por muito tempo. A leitura é impactante e soa revolucionária, especialmente, em tempos onde a submissão total ao império das leis, ao Estado e ao governo é vista como o remédio para uma democracia doente, manca e por vezes, cega.
 

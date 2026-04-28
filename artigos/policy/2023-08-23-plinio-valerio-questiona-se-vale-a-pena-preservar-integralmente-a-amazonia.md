@@ -1,11 +1,12 @@
 ---
-title: "Plínio Valério questiona se vale a pena preservar integralmente a Amazônia"
+title: Plínio Valério questiona se vale a pena preservar integralmente a Amazônia
 date: 2023-08-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Plínio Valério (PSDB-AM) mais uma vez destacou, em pronunciamento no Plenário nesta terça-feira (22), o impasse sobre a preservação da Amazônia e os desafios socioeconômicos enfrentados pela população da região. O senador enfatizou as citações do escritor Lorenzo Carrasco que, após depor na CPI das ONGs, reforçou que a Amazônia não é uma questão partidária, e sim de soberania nacional e de busca pela independência. 
 

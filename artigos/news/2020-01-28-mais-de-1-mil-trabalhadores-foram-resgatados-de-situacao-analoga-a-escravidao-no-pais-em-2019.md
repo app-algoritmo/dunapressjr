@@ -1,11 +1,13 @@
 ---
-title: "Mais de 1 mil trabalhadores foram resgatados de situação análoga à escravidão no país em 2019"
+title: Mais de 1 mil trabalhadores foram resgatados de situação análoga à escravidão
+  no país em 2019
 date: 2020-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Painel do Ministério da Economia mostra que número de ações realizadas por auditores-fiscais do trabalho no ano passado superou o de 2018*
 

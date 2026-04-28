@@ -1,11 +1,13 @@
 ---
-title: "Governador Abbott Elogia Guarda Nacional do Texas por Esforços na Proteção da Fronteira Sul"
+title: Governador Abbott Elogia Guarda Nacional do Texas por Esforços na Proteção
+  da Fronteira Sul
 date: 2024-03-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante a 65ª Conferência Anual da Associação da Guarda Nacional do Texas (NGAT) em Round Rock, o governador Greg Abbott expressou profundo reconhecimento aos corajosos homens e mulheres da Guarda Nacional do Texas por seu serviço ao estado e pelo papel crucial desempenhado na proteção da fronteira sul.
 

@@ -1,11 +1,13 @@
 ---
-title: "Villaruel: filha de militar e defensora da verdade histórica sobre terroristas de esquerda na Argentina"
+title: 'Villaruel: filha de militar e defensora da verdade histórica sobre terroristas
+  de esquerda na Argentina'
 date: 2023-12-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No dia 19 de novembro, os argentinos elegeram não só o presidente da nação, mas também o vice-presidente. Na cédula, junto com Javier Milei, estavam o nome e a fotografia da advogada **Victoria Villarruel** , de 48 anos. O seu mandato terá efeitos numa questão básica da guerra cultural: **a memória histórica.**
 

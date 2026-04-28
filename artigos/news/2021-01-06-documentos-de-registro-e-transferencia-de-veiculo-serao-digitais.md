@@ -1,11 +1,12 @@
 ---
-title: "Documentos de registro e transferência de veículo serão digitais"
+title: Documentos de registro e transferência de veículo serão digitais
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para simplificar e desburocratizar a vida do cidadão brasileiro, passa a valer a partir desta segunda-feira (4) a digitalização do Certificado de Registro de Veículo (CRV), do Certificado de Licenciamento Anual (CLA) e do comprovante de transferência de propriedade (antigo DUT). A mudança entra em vigor com a Resolução do Conselho Nacional de Trânsito (Contran) publicada também nesta segunda.
 

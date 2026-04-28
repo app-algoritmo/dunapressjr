@@ -1,11 +1,13 @@
 ---
-title: "Projetos para fortalecer atividades de bioeconomia serão selecionadas pelo Mapa"
+title: Projetos para fortalecer atividades de bioeconomia serão selecionadas pelo
+  Mapa
 date: 2020-06-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Instituições interessadas podem se inscrever até 31 de outubro deste ano.
 

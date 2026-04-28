@@ -1,11 +1,12 @@
 ---
-title: "Girão defende audiência sobre situação de presos do dia 8 de janeiro"
+title: Girão defende audiência sobre situação de presos do dia 8 de janeiro
 date: 2023-06-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) destacou, em pronunciamento nesta quinta-feira (1º), a aprovação de requerimento dele na Comissão de Segurança Pública (CSP) para a realização de audiência sobre a situação das pessoas presas pelos ataques de vandalismo às sedes dos três Poderes, no dia 8 de janeiro ([REQ 25/2023](https://legis.senado.leg.br/comissoes/itempauta?reuniao=11423&codcol=2429&item=83548)). 
 

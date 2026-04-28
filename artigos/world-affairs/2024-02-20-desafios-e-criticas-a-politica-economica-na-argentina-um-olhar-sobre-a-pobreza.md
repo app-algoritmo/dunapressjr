@@ -1,11 +1,12 @@
 ---
-title: "Desafios e Críticas à Política Econômica na Argentina: Um Olhar sobre a Pobreza"
+title: 'Desafios e Críticas à Política Econômica na Argentina: Um Olhar sobre a Pobreza'
 date: 2024-02-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Javier Milei não hesitou em apontar o dedo para o que chamou de "a verdadeira herança do modelo de castas" ao discutir os alarmantes índices de pobreza recentemente divulgados na Argentina. Em meio a um cenário onde a pobreza atingiu 57,4% da população, segundo um estudo do Observatório Social da Universidade Católica Argentina (UCA), Milei enfatizou a urgência da mudança. Em uma postagem nas redes sociais, ele ressaltou: "A destruição dos últimos cem anos não tem paralelo na história ocidental."
 

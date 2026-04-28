@@ -1,11 +1,12 @@
 ---
-title: "CGU, PF e MPF combatem fraudes na Secretaria de Saúde do Recife (PE)"
+title: CGU, PF e MPF combatem fraudes na Secretaria de Saúde do Recife (PE)
 date: 2020-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação Bal Masqué investiga irregularidades na aquisição de material médico-hospitalar. Prejuízo estimado aos cofres públicos é de R$ 7,3 milhões.
 

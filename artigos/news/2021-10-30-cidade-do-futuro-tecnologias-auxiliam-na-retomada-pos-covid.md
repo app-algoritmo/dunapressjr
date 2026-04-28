@@ -1,11 +1,12 @@
 ---
-title: "Cidade do futuro: tecnologias auxiliam na retomada pós-covid"
+title: 'Cidade do futuro: tecnologias auxiliam na retomada pós-covid'
 date: 2021-10-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Soluções são essenciais para reduzir impactos do coronavírus, criar resiliência nas empresas e dar apoio à população no "novo normal".
 

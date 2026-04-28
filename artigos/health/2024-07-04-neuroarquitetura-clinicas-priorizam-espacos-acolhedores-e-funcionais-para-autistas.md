@@ -1,11 +1,13 @@
 ---
-title: "Neuroarquitetura: clínicas priorizam espaços acolhedores e funcionais para autistas"
+title: 'Neuroarquitetura: clínicas priorizam espaços acolhedores e funcionais para
+  autistas'
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Health
+- Health
 ---
+
 
 ## Salas de terapia ganham iluminação, ferramentas e design projetados para promover bem-estar, conforto e inclusão.
 

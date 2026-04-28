@@ -1,11 +1,12 @@
 ---
-title: "Divulgada enquete sobre novas datas do Enem pelo Mec e Inep"
+title: Divulgada enquete sobre novas datas do Enem pelo Mec e Inep
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Data definitiva será escolhida após diálogos com entidades educacionais.
 

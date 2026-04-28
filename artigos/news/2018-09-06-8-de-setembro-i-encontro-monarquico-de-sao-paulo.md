@@ -1,11 +1,12 @@
 ---
-title: "8 de setembro: I Encontro Monárquico de São Paulo"
+title: '8 de setembro: I Encontro Monárquico de São Paulo'
 date: 2018-09-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O** I Encontro Monárquico de São Paulo** acontece neste sábado **8 de setembro** no Nacional Club no bairro do Pacaembu em São Paulo.
 

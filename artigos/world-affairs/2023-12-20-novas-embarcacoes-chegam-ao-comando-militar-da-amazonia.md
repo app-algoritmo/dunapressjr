@@ -1,11 +1,12 @@
 ---
-title: "Novas embarcações chegam ao Comando Militar da Amazônia"
+title: Novas embarcações chegam ao Comando Militar da Amazônia
 date: 2023-12-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Comando Militar da Amazônia recebeu, na tarde de 13 de dezembro, dois novos Empurradores, embarcações de propulsão de balsas fluviais. Eles se juntarão à frota do Centro de Embarcações do Comando Militar da Amazônia e serão empregados no transporte logístico e operacional de suprimentos e de tropas da Amazônia Brasileira.
 

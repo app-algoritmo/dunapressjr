@@ -1,11 +1,12 @@
 ---
-title: "RFK Jr. ataca Anthony Fauci, chamando-o de 'ser humano muito ruim'"
+title: RFK Jr. ataca Anthony Fauci, chamando-o de 'ser humano muito ruim'
 date: 2023-07-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Robert F. Kennedy Jr. não é fã de Anthony Fauci, para dizer o mínimo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Brasil registra 45.757 casos, 2.906 mortes e 25.318 pessoas recuperadas"
+title: 'Coronavírus: Brasil registra 45.757 casos, 2.906 mortes e 25.318 pessoas recuperadas'
 date: 2020-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde registra 45.757 casos de coronavírus no Brasil e 2.906 mortes até as 14h desta quarta-feira (22), segundo informações repassadas pelas Secretarias Estaduais de Saúde. Até agora, do total de casos confirmados, 25.318 pessoas são consideradas recuperadas, correspondendo a 55,3% dos casos diagnosticados e outras 17.533 permanecem em acompanhamento.
 

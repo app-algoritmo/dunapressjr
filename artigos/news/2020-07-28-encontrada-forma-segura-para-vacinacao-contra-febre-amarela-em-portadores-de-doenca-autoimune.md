@@ -1,11 +1,13 @@
 ---
-title: "Encontrada forma segura para vacinação contra febre amarela em portadores de doença autoimune"
+title: Encontrada forma segura para vacinação contra febre amarela em portadores de
+  doença autoimune
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo coordenado no Hucam-Ufes/Ebserh, em parceria com outras instituições, revela que imunizante aplicado no ES funciona para grupo de pacientes.
 

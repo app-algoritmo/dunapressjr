@@ -1,11 +1,12 @@
 ---
-title: "Contra a COVID-19, Forças Armadas realizam desinfecção de hospitais públicos"
+title: Contra a COVID-19, Forças Armadas realizam desinfecção de hospitais públicos
 date: 2020-05-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Para conter o avanço da doença causada pelo novo Coronavírus no Brasil, a Operação COVID-19, do Ministério da Defesa, atua sistematicamente na desinfecção de hospitais públicos. Esta semana, a atividade foi realizada em unidades de saúde de diversas regiões do território nacional. Simultaneamente, outras ações foram desempenhadas por militares das três forças de Defesa, Marinha, Exército e Aeronáutica.
 

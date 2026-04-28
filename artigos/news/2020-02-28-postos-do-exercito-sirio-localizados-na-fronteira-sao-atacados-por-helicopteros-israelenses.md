@@ -1,11 +1,13 @@
 ---
-title: "Postos do exército sírio localizados na fronteira, são atacados por helicópteros israelenses"
+title: Postos do exército sírio localizados na fronteira, são atacados por helicópteros
+  israelenses
 date: 2020-02-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 *Três tropas sírias feridas em ataques com mísseis, segundo notícias do estado sírio, horas depois de reportar ataques mortais por drones na mesma área.*
 

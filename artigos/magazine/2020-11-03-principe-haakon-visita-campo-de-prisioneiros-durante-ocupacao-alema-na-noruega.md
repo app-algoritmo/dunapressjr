@@ -1,11 +1,12 @@
 ---
-title: "Principe Haakon visita campo de prisioneiros durante ocupação alemã na Noruega"
+title: Principe Haakon visita campo de prisioneiros durante ocupação alemã na Noruega
 date: 2020-11-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Este ano faz 75 anos desde a libertação da Noruega. H.K.H. O Príncipe Herdeiro Regente visitou  o antigo campo de prisioneiros Falstad em Trøndelag – agora um museu, memorial e o centro de direitos humanos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa do Ipea diz que Auxílio Emergencial foi a única renda para cerca de 4,4 milhões de famílias em julho"
+title: Pesquisa do Ipea diz que Auxílio Emergencial foi a única renda para cerca de
+  4,4 milhões de famílias em julho
 date: 2020-08-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Estudo mostra que benefício ajudou a elevar a renda média das famílias mais pobres. Criado para minimizar os efeitos do distanciamento social em função da Covid-19, o Auxílio Emergencial foi a única renda para 4,4 milhões de famílias em julho.
 

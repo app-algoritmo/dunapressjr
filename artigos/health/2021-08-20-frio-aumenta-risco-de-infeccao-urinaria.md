@@ -1,11 +1,12 @@
 ---
-title: "Frio aumenta risco de infecção urinária"
+title: Frio aumenta risco de infecção urinária
 date: 2021-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Muito comuns entre mulheres, problemas no aparelho urinário crescem durante o inverno; especialista lembra da importância de tomar dois litros de água diariamente.
 

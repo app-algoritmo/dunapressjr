@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que estabelece política para prevenção de escoliose em crianças e adolescentes"
+title: Comissão aprova projeto que estabelece política para prevenção de escoliose
+  em crianças e adolescentes
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou proposta que estabelece uma política nacional de diagnóstico e tratamento da escoliose em crianças e adolescentes. A escoliose é uma curvatura da coluna para um dos lados do tronco, que normalmente é reto e alinhado.
 

@@ -1,11 +1,12 @@
 ---
-title: "Confiança da construção cai 0,8 ponto em outubro, informa a FGV"
+title: Confiança da construção cai 0,8 ponto em outubro, informa a FGV
 date: 2022-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Resultado foi puxado pela piora da confiança em relação ao futuro.
 

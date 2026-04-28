@@ -1,11 +1,12 @@
 ---
-title: "Noboa nomeia 16 ministros após ser empossado como presidente do Equador"
+title: Noboa nomeia 16 ministros após ser empossado como presidente do Equador
 date: 2023-11-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Equador, [Daniel Noboa](https://gaceta.es/iberosfera/daniel-noboa-asume-la-presidencia-de-ecuador-tengo-una-vision-renovada-y-joven-20231123-2130/) , **nomeou 16 ministros nesta quinta-feira,** horas depois de sua cerimônia de investidura em que recebeu a faixa presidencial, enquanto deixou quatro pastas pendentes de nomeação.
 

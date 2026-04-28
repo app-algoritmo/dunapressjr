@@ -1,11 +1,12 @@
 ---
-title: "Inteligência emocional é valorizada por 34% das empresas na América Latina"
+title: Inteligência emocional é valorizada por 34% das empresas na América Latina
 date: 2023-11-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Desenvolver habilidades emocionais na infância pode contribuir para o futuro profissional.
 

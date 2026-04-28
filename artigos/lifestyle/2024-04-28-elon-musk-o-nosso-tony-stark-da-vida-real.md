@@ -1,12 +1,13 @@
 ---
-title: "Elon Musk: O Nosso Tony Stark da Vida Real"
+title: 'Elon Musk: O Nosso Tony Stark da Vida Real'
 date: 2024-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Lifestyle
-  - Technology
+- Lifestyle
+- Technology
 ---
+
 
 "Eu não sei vocês, mas minha vida ficou muito mais fácil e divertida com as inovações trazidas por este grande herói da nossa era. Ver séries como Star Trek e nomes estranhos como Zefram Cochrane e todos os capitães da Frota Estelar me fazem sentir muito mais perto das viagens interestelares, e essas sensações são graças a tudo o que Elon Musk vem desenvolvendo para a humanidade. Este homem é uma dádiva enviada por Deus a todos nós, e devemos tanto valorizar seus feitos quanto protegê-lo de todo o mal que cerca nossos arredores. Desde jovem, sempre fui apaixonado pela série Vingadores e hoje temos o nosso Tony Stark; isso é simplesmente maravilhoso."
 

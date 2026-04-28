@@ -1,11 +1,12 @@
 ---
-title: "Trabalho infantil apresenta queda de 17% nos últimos anos no Brasil"
+title: Trabalho infantil apresenta queda de 17% nos últimos anos no Brasil
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O trabalho infantil caiu 16,8% entre 2016 e 2019 no Brasil. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) contínua, divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Entre os destaques citados pelo diretor-substituto do Departamento de Proteção Social Especial, da Secretaria Nacional de Assistência Social, Danyel Iório, está a redução em 2019. “Em 2016, o número percentual de crianças e adolescentes trabalhando foi de um total de 5,3%. Para 2019, a gente teve uma baixa razoável de 4,6%.”
 

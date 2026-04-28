@@ -1,11 +1,12 @@
 ---
-title: "<strong>Ensino internacional vai além de línguas e universidades estrangeiras</strong>"
+title: <strong>Ensino internacional vai além de línguas e universidades estrangeiras</strong>
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Engana-se quem pensa que educação internacional envolve apenas o ensino de outra língua ou a busca por universidades estrangeiras. A maioria dos alunos de colégios de multilinguagens prossegue com a formação acadêmica aqui mesmo no Brasil. Isso foi observado no Positivo International School, em Curitiba, única escola do Sul do Brasil com certificação internacional da Educação Infantil ao Ensino Médio. Dos estudantes formados pela instituição em 2019, 2020 e 2021, 70% integram atualmente universidades brasileiras.
 

@@ -1,11 +1,13 @@
 ---
-title: "<strong>Novo Caged: Saldo em setembro registra mais de 278 mil novos postos formais de trabalho</strong>"
+title: '<strong>Novo Caged: Saldo em setembro registra mais de 278 mil novos postos
+  formais de trabalho</strong>'
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Já o acumulado de janeiro a setembro supera os 2 milhões de empregos com carteira assinada.
 

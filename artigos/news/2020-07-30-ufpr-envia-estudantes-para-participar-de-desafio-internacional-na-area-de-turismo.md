@@ -1,11 +1,12 @@
 ---
-title: "UFPR envia estudantes para participar de desafio internacional na área de turismo"
+title: UFPR envia estudantes para participar de desafio internacional na área de turismo
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Um grupo de estudantes da área de Turismo representou a UFPR no desafio internacional UNWTO Students Leaghe, lançado pela Organização Mundial do Turismo (OMT). O evento apresentou quatro desafios alinhados com os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU.
 

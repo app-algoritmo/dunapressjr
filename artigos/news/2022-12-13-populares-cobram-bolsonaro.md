@@ -1,12 +1,13 @@
 ---
-title: "Populares cobram Bolsonaro"
+title: Populares cobram Bolsonaro
 date: 2022-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 Brasília atacada por gangues vermelhas, enquanto que indígenas patriotas inimputáveis segundo as leis são recebidos a bala pela polícia particular da corte do Alexandre de Moraes,
 

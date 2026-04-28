@@ -1,11 +1,12 @@
 ---
-title: "Brasil registra 135.106 casos de coronavírus e 9.146 mortes pela doença"
+title: Brasil registra 135.106 casos de coronavírus e 9.146 mortes pela doença
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### As informações foram atualizadas até as 19h desta quarta-feira (6) e repassadas pelas Secretarias Estaduais de Saúde todo o país.
 

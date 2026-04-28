@@ -1,11 +1,13 @@
 ---
-title: "Em reunião com prefeitos, Governo do Estado define novas medidas para enfrentamento da Covid-19"
+title: Em reunião com prefeitos, Governo do Estado define novas medidas para enfrentamento
+  da Covid-19
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Após se reunir com representantes da Federação Catarinense de Municípios (Fecam), o governador Carlos Moisés decidiu nesta quarta-feira, 2, adotar novas medidas restritivas para enfrentamento da pandemia de Covid-19 em Santa Catarina. Em comum acordo com os prefeitos das 21 maiores cidades do Estado, optou-se pela implementação de um toque de recolher durante a madrugada e pela manutenção do transporte coletivo, desde que seja respeitada uma ocupação máxima de 70% da capacidade dos ônibus. As medidas valerão para todo o Estado por um período de 15 dias a partir edição do decreto, que deverá ser publicado em até 48 horas.
 

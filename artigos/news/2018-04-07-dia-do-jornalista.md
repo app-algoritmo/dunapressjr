@@ -1,11 +1,12 @@
 ---
-title: "Dia do Jornalista"
+title: Dia do Jornalista
 date: 2018-04-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O profissional de jornalismo é normalmente aquele formado em Comunicação Social, também conhecido como jornalista, ainda que outros profissionais como os oriundos das carreiras de Letras, Filosofia, Fotografia, Radialismo e Direito tenham também atuação na área uma vez que a profissão abraça crítica literária, entrevistas, pesquisa, assessoria de imprensa, apresentação e distribuição de notícias e até mesmo investigação (advocacia jornalística). E assim, dentro do jornalismo há editores, redatores, colunistas, periodistas, correspondentes, fotojornalistas, repórteres, apresentadores de telejornais, apresentadores de radiojornalismo, publicitários, cronistas (literários ou cívicos) e escritores.
 

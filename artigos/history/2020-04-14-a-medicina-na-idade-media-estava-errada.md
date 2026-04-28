@@ -1,11 +1,12 @@
 ---
-title: "A Medicina na Idade Média estava errada?"
+title: A Medicina na Idade Média estava errada?
 date: 2020-04-14
 status: publish
 author: Marcos Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Em tempos de COVID-19, disseminam-se ao vento milhares de informações nas mídias sociais, sendo a maior parte das informações desprovida de embasamento técnico e científico, sendo um turbilhão de fake News e especulações, tanto dos paranoicos teóricos da conspiração, que levantam várias teses, algumas até que convincentes, sobre a origem e aplicação do Corona Vírus com uma arma biológica, e sua disseminação intencional, outros com a *Teologia do Caos*, ouvindo o soar das trombetas dos anjos e o romper dos selos do apocalipse. 
 

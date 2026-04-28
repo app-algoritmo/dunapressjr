@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem saque recorde para fevereiro, de R$ 11,5 bilhões"
+title: Poupança tem saque recorde para fevereiro, de R$ 11,5 bilhões
 date: 2023-03-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2022, caderneta registrou retirada liquida de R$ 103,24 bilhões.
 

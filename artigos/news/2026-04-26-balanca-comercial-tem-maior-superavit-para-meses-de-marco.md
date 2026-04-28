@@ -1,11 +1,12 @@
 ---
-title: "Balança comercial tem maior superávit para meses de março"
+title: Balança comercial tem maior superávit para meses de março
 date: 2026-04-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Exportações superaram importações em US$ 7,38 bilhões
 

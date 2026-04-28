@@ -1,11 +1,12 @@
 ---
-title: "Netanyahu: Israel responderá com grande força"
+title: 'Netanyahu: Israel responderá com grande força'
 date: 2021-05-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 PM jura retaliação após dezenas de foguetes disparados contra Jerusalém e no sul, diz que o conflito pode durar muito tempo.
 

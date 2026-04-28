@@ -1,11 +1,13 @@
 ---
-title: "PEC da reforma tributária estabelece regimes especiais e alíquotas diferenciadas para setores específicos"
+title: PEC da reforma tributária estabelece regimes especiais e alíquotas diferenciadas
+  para setores específicos
 date: 2023-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta visa isenções e reduções de impostos em áreas como educação, saúde, transporte e agricultura. 
 

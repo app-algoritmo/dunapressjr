@@ -1,11 +1,13 @@
 ---
-title: "Base militar Al Asad no Iraq que abriga tropas norueguesas, americanas e alemãs é atacada por Irã"
+title: Base militar Al Asad no Iraq que abriga tropas norueguesas, americanas e alemãs
+  é atacada por Irã
 date: 2020-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Pentágono confirma que duas bases usadas por tropas americanas foram atingidas por mísseis lançados a partir do Irã. Ataque ocorre horas depois de sepultamento de general iraniano morto pelos EUA.
 

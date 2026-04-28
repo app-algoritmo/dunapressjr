@@ -1,11 +1,12 @@
 ---
-title: "Reforço da Pfizer mata empregada de 43 anos em Singapura"
+title: Reforço da Pfizer mata empregada de 43 anos em Singapura
 date: 2023-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Outra mulher foi declarada morta após receber o reforço de mRNA COVID-19 da Pfizer-BioNTech (BNT162b2/Comirnaty) na Ásia. 
 

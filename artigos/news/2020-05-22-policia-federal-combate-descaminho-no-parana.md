@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate descaminho no Paraná"
+title: Polícia Federal combate descaminho no Paraná
 date: 2020-05-22
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR - A Polícia Federal deflagrou nesta sexta-feira (22/5) a Operação Rota Alternativa, com o fim de combater a prática do crime de descaminho. Estão sendo cumpridos dois mandados de busca e apreensão na cidade de Umuarama/PR.
 

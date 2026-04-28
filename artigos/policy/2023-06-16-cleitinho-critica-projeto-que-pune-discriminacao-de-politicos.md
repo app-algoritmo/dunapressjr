@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica projeto que pune discriminação de políticos"
+title: Cleitinho critica projeto que pune discriminação de políticos
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) afirmou, em pronunciamento nesta quinta-feira (15), ser contra o projeto de lei que estabelece punição para quem  negar a abertura ou manutenção de conta e concessão de crédito a pessoas politicamente expostas ([PL 2.720/2023](https://www.camara.leg.br/propostas-legislativas/2364109)). O texto foi aprovado na Câmara dos Deputados na quarta-feira (14) e será enviado ao Senado. O parlamentar pediu aos colegas que votem contra a matéria.
 

@@ -1,11 +1,13 @@
 ---
-title: "Rússia Fortalece Parcerias com nações do Sul e Leste Global em Defesa dos Princípios da ONU"
+title: Rússia Fortalece Parcerias com nações do Sul e Leste Global em Defesa dos Princípios
+  da ONU
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Ministro dos Negócios Estrangeiros russo, Sergey Lavrov, reforçou o compromisso da Rússia em aprofundar os laços com os países do Sul e do Leste global durante sua participação no Fórum Internacional Cultural e de Civilização "Valores Tradicionais dos Povos Orientais e do Mundo Moderno". Lavrov, cuja mensagem foi lida pelo Embaixador Russo em Dushanbe, Semyon Grigoryev, ressaltou a importância de respeitar o direito dos povos de determinar seu próprio destino, conforme estabelecido na Carta das Nações Unidas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Noruega reforça restrições em combate ao vírus chinês"
+title: Noruega reforça restrições em combate ao vírus chinês
 date: 2020-10-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 ## Nova austeridade nacional para o distanciamento social.
 

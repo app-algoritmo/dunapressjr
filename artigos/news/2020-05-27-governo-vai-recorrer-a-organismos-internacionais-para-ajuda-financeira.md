@@ -1,11 +1,12 @@
 ---
-title: "Governo vai recorrer a organismos internacionais para ajuda financeira"
+title: Governo vai recorrer a organismos internacionais para ajuda financeira
 date: 2020-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Operação foi confirmada pelo Tesouro Nacional.
 

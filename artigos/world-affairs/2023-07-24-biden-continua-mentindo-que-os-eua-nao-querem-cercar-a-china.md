@@ -1,11 +1,12 @@
 ---
-title: "Biden continua mentindo que os EUA 'não querem cercar' a China"
+title: Biden continua mentindo que os EUA 'não querem cercar' a China
 date: 2023-07-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente Biden conduziu recentemente uma entrevista com Fareed Zakaria da CNN, na qual defendeu sua controversa decisão de enviar munições cluster para a Ucrânia e sugeriu que os EUA podem continuar a apoiar a Ucrânia como apoia Israel, em vez de aceitar o país na aliança da OTAN.
 

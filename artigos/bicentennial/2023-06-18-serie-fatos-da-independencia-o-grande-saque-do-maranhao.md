@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: O grande saque do Maranhão"
+title: 'Série Fatos Da Independência: O grande saque do Maranhão'
 date: 2023-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 9 de novembro de 1824, a nau Pedro I foi novamente avistada no porto de São Luís. Dessa vez trazia hasteada o pavilhão do Marquês do Maranhão. Lord Cochrane havia recebido o título de Dom Pedro e estava de volta. O motivo alegado para o retorno era colocar ordem na província. A aliança entre representantes de São Luís e das comarcas do interior responsável por garantir certa estabilidade pós-independência esfacelava-se. O presidente da Junta, Miguel Inácio dos Santos Freire Bruce era acusado de quase tudo: saques, violências contra os europeus, demissões arbitrárias, assalto aos cofres públicos, gastos exorbitantes com despesas militares, armar os pretos, assassinato, ódio aos ricos, até mesmo de ser republicano. Freire Bruce chegou a promover João Couto, o João “Bunda”, à capitão com soldo respeitável e acesso direto a sua casa: “governava com os pretos”, afirmavam. Por decisão de um Conselho Militar reunido na freguesia de Nossa Senhora do Rosário, em 30 de junho de 1824, foi formada uma Junta Expedicionária do Itapecuru. Em resposta, no mês seguinte, Bruce assumiu como presidente da província. Não fez diferença. A Junta Expedicionária passou a se comunicar diretamente com o Imperador. A tensão foi agravada com a possibilidade de uma república ser instalada no Maranhão, afinal havia sido proclamada em duas vilas, Tutóia e São Bernardo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova criminalização do bullying e plano para combater violência nas escolas"
+title: Comissão aprova criminalização do bullying e plano para combater violência
+  nas escolas
 date: 2023-08-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara dos Deputados aprovou proposta que altera o [Código Penal](https://www2.camara.gov.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-norma-pe.html) para tornar crime a intimidação sistemática de pessoas, conhecida como* bullying, *incluindo a praticada por meios virtuais. O texto aprovado, que tem como foco a proteção de crianças e adolescentes, também cria a Política Nacional de Prevenção e Proteção ao Abuso e Exploração Sexual da Criança e do Adolescente.
 

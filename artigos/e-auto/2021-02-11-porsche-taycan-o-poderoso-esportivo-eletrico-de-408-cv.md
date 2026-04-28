@@ -1,11 +1,12 @@
 ---
-title: "Porsche Taycan, o poderoso esportivo elétrico de 408 cv."
+title: Porsche Taycan, o poderoso esportivo elétrico de 408 cv.
 date: 2021-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 - EV | O [Porsche](https://www.porsche.com/norway/no/?gclid=EAIaIQobChMIx7-UxcXh7gIVEqSyCh2MKQSmEAAYASAAEgJhWPD_BwE) Taycan criou um grande crescimento para a Porsche como marca na Noruega. Em 2019, a marca teve um volume de negócios de 558 carros novos no país. Em 2020, ano em que o Taycan chegou ao mercado, o importador negociou quase três vezes mais carros novos que no ano anterior alcançando um volume de vendas de 1.718 unidades.
 

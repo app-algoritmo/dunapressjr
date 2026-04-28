@@ -1,11 +1,12 @@
 ---
-title: "UFCG lança projeto para recuperar computadores para alunos da rede pública"
+title: UFCG lança projeto para recuperar computadores para alunos da rede pública
 date: 2020-06-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A Universidade Federal de Campina Grande (UFCG) e a Secretaria de Educação de Campina Grande (Seduc) lançarão nesta quinta-feira, dia 25 – em uma *[live, às 18 horas](https://www.youtube.com/channel/UC3PUYdedteIeNPHsISXc52g)* - o projeto Um Computador Nota 10. 
 

@@ -1,11 +1,12 @@
 ---
-title: "PF prende por tráfico interestadual no aeroporto de Minas Gerais"
+title: PF prende por tráfico interestadual no aeroporto de Minas Gerais
 date: 2020-03-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Belo Horizonte/MG – Na tarde do dia 1º de março, a Polícia Federal, com base em informações fornecidas pela Receita Federal do Brasil, prendeu uma mulher por tráfico interestadual de drogas.
 

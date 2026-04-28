@@ -1,12 +1,13 @@
 ---
-title: "Tablets dobráveis ​​parecem promissores com Samsung e LG"
+title: Tablets dobráveis ​​parecem promissores com Samsung e LG
 date: 2023-01-09
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 ## Dois dos maiores fabricantes de telas do mundo apresentaram tablets conceituais que podem dobrar e deslizar.
 

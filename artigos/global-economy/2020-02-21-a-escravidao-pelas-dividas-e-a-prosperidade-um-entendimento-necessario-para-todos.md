@@ -1,11 +1,13 @@
 ---
-title: "A Escravidão pelas Dívidas e a Prosperidade – Um entendimento necessário para todos"
+title: A Escravidão pelas Dívidas e a Prosperidade – Um entendimento necessário para
+  todos
 date: 2020-02-21
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O mundo de hoje adora fazer uma dívida, uma compra a longo prazo, pagar juros, etc. Em verdade as pessoas adoram uma dívida, um financiamento, um cartão de crédito, pagar juros em tudo que envolve dinheiro.
 

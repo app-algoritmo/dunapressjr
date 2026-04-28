@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova aumento de 3 para 20 anos no prazo de prescrição de crimes sexuais contra crianças"
+title: Câmara aprova aumento de 3 para 20 anos no prazo de prescrição de crimes sexuais
+  contra crianças
 date: 2023-12-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Prazo será contado desde a data em que a vítima tiver completado 18 anos.
 

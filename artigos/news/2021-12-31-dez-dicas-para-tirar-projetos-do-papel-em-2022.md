@@ -1,11 +1,12 @@
 ---
-title: "Dez dicas para tirar projetos do papel em 2022"
+title: Dez dicas para tirar projetos do papel em 2022
 date: 2021-12-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma lista de metas para cumprir, uma de livros para ler, uma de lugares para conhecer, uma de conflitos a solucionar, uma de amigos para rever e daí por diante. Para muitas pessoas, o fim de ano é uma oportunidade de avaliar a própria evolução e traçar objetivos para os próximos 365 dias que estão para começar. Mas, diante de todos os desafios dos últimos dois anos, como organizar esses objetivos de maneira realista?
 

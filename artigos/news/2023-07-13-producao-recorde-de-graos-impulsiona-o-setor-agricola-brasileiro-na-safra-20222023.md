@@ -1,11 +1,12 @@
 ---
-title: "Produção recorde de grãos impulsiona o setor agrícola brasileiro na safra 2022/2023"
+title: Produção recorde de grãos impulsiona o setor agrícola brasileiro na safra 2022/2023
 date: 2023-07-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsões indicam crescimento de 16,5% e volume de 317,6 milhões de toneladas, impulsionado pela soja e pelo milho, além do aumento das exportações.
 

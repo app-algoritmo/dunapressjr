@@ -1,11 +1,12 @@
 ---
-title: "Impedimento Trágico: Jeanine Áñez e a Dor de Não Poder se Despedir da Mãe"
+title: 'Impedimento Trágico: Jeanine Áñez e a Dor de Não Poder se Despedir da Mãe'
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O luto de Jeanine Áñez, ex-presidente da Bolívia, foi agravado pela cruel impossibilidade de comparecer ao funeral de sua mãe, que faleceu em Santa Cruz na quinta-feira. Apesar de ter recebido uma "autorização" temporária para viajar à província, as autoridades da prisão em La Paz, onde está detida, bloquearam sua transferência.
 

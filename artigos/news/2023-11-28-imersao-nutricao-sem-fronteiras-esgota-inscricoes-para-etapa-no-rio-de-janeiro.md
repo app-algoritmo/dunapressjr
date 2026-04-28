@@ -1,11 +1,12 @@
 ---
-title: "Imersão Nutrição Sem Fronteiras esgota inscrições para etapa no Rio de Janeiro"
+title: Imersão Nutrição Sem Fronteiras esgota inscrições para etapa no Rio de Janeiro
 date: 2023-11-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Grande procura dos nutricionistas cariocas comprova a valorização da profissão e a necessidade de conhecimento e novas ferramentas para alavancar os negócios.
 

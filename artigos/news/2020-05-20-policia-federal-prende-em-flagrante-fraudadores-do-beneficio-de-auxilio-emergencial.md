@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal prende em flagrante fraudadores do benefício de auxílio emergencial"
+title: Polícia Federal prende em flagrante fraudadores do benefício de auxílio emergencial
 date: 2020-05-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Vila Velha/ES** – A Polícia Federal realizou, na noite passada (19/5), diligências com objetivo de combater o crime de fraude ao benefício de auxílio emergencial criado recentemente pelo Governo Federal, em face da pandemia do COVID 19.
 

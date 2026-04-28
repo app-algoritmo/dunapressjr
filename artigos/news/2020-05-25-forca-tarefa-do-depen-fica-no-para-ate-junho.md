@@ -1,11 +1,12 @@
 ---
-title: "Força-tarefa do Depen fica no Pará até junho"
+title: Força-tarefa do Depen fica no Pará até junho
 date: 2020-05-25
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministro da Justiça e Segurança Pública, André Mendonça, autorizou a prorrogação do emprego da Força-tarefa de Intervenção Penitenciária (FTIP), do Departamento Penitenciário Nacional (Depen), em presídios do Pará até o dia 23 de junho de 2020. A portaria de prorrogação nº 266 foi publicada, no Diário Oficial da União, nesta segunda-feira (25).
 

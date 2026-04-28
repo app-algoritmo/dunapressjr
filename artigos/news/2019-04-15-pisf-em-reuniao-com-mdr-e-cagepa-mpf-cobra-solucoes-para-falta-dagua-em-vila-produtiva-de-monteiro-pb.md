@@ -1,11 +1,13 @@
 ---
-title: "Pisf: em reunião com MDR e Cagepa, MPF cobra soluções para falta d'água em vila produtiva de Monteiro (PB)"
+title: 'Pisf: em reunião com MDR e Cagepa, MPF cobra soluções para falta d''água em
+  vila produtiva de Monteiro (PB)'
 date: 2019-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Dois anos depois da chegada das águas do São Francisco, comunidade tradicional não tem água nas torneiras e não consegue produzir*
 

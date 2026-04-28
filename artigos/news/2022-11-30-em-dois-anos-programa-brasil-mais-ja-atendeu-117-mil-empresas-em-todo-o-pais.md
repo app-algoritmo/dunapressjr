@@ -1,11 +1,12 @@
 ---
-title: "Em dois anos, programa Brasil Mais já atendeu 117 mil empresas em todo o país"
+title: Em dois anos, programa Brasil Mais já atendeu 117 mil empresas em todo o país
 date: 2022-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O programa ajuda os micro e pequenos negócios a aumentar produtividade, reduzir custos e a realizar sua transformação digital.
 

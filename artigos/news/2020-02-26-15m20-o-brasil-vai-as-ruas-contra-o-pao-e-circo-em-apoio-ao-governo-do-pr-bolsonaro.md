@@ -1,11 +1,13 @@
 ---
-title: "15M20: O Brasil vai as ruas contra o pão e circo em apoio ao governo do PR Bolsonaro"
+title: '15M20: O Brasil vai as ruas contra o pão e circo em apoio ao governo do PR
+  Bolsonaro'
 date: 2020-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Partidos, Políticos, Juristas, Oligarcas, Mídias, Seitas religiosas, Sindicatos e Corporações corruptas impedem o desenvolvimento do país desde o golpe imposto ao Regime de Estado do Império brasileiro no reinado de Pedro II. 
 

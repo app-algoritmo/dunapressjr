@@ -1,11 +1,13 @@
 ---
-title: "Israel Aprova Regulamento para Encerrar Meios de Comunicação Estrangeiros Durante Emergências"
+title: Israel Aprova Regulamento para Encerrar Meios de Comunicação Estrangeiros Durante
+  Emergências
 date: 2023-10-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O governo israelense aprovou uma regulamentação que permite às autoridades fechar meios de comunicação estrangeiros durante um estado de emergência, como o atual conflito com o Movimento de Resistência Islâmica (Hamas), caso considerem que suas transmissões prejudicam a segurança nacional. Essa regulamentação confere ao Ministério das Comunicações, com aprovação prévia do Ministério da Defesa, a autoridade para ordenar que os fornecedores de televisão interrompam as transmissões do canal em questão, fechem seus escritórios no país, apreendam seu equipamento e bloqueiem ou restrinjam o acesso ao seu site.
 

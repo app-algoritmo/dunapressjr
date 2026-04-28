@@ -1,11 +1,12 @@
 ---
-title: "PF combate divulgação de pornografia infantil pela internet"
+title: PF combate divulgação de pornografia infantil pela internet
 date: 2020-06-16
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Porto Alegre/RS - A Polícia Federal deflagrou nesta terça-feira (16/6) a quinta fase da Operação Jizô, para reprimir crimes de divulgação de pornografia infantil pela internet e o abuso sexual de crianças e adolescentes. A ação tem o acompanhamento do Centro de Referência em Atendimento Infantil (CRAI), instituição mantida pelo Instituto-Geral de Perícias, pela Secretaria de Segurança Pública e pela Prefeitura de Porto Alegre para atendimento a crianças vítimas de violência.
 

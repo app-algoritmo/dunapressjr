@@ -1,11 +1,12 @@
 ---
-title: "Posse de ministra da Mulher tem homenagem a autora que defendia pedófilos"
+title: Posse de ministra da Mulher tem homenagem a autora que defendia pedófilos
 date: 2023-01-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 *Ninguém nasce mulher, torna-se mulher*. A fala é da francesa Simone de Beuvoir, uma das principais teóricas da segunda onda do feminismo. Na terça-feira 3, a citação da feminista aconteceu durante a cerimônia de posse da nova ministra da Mulher do governo **Lula**, Aparecida Gonçalves. Na ocasião, a cantora Myrla Muniz bradou a frase de Simone antes de começar a cantar o *Hino Nacional*. Cida, por sua vez, foi uma das poucas pessoas do palco que bateu palmas para a citação.
 

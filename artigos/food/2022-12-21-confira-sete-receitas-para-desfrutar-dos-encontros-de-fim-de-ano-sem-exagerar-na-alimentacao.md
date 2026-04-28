@@ -1,11 +1,13 @@
 ---
-title: "Confira sete receitas para desfrutar dos encontros de fim de ano sem exagerar na alimentação"
+title: Confira sete receitas para desfrutar dos encontros de fim de ano sem exagerar
+  na alimentação
 date: 2022-12-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 As festas de fim de ano são uma das épocas mais aguardadas e, ao mesmo tempo, desafiadoras quando o assunto é alimentação saudável e equilibrada. Caracterizado por eventos sociais, encontros e confraternizações, o encerramento de mais um ano costuma vir acompanhado de alguns excessos alimentares e alcoólicos. 
 

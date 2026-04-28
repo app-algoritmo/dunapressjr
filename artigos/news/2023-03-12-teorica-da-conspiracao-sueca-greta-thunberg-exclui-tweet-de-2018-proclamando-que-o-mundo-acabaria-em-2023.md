@@ -1,11 +1,13 @@
 ---
-title: "Teórica da conspiração, sueca Greta Thunberg exclui tweet de 2018 proclamando que o mundo acabaria em 2023"
+title: Teórica da conspiração, sueca Greta Thunberg exclui tweet de 2018 proclamando
+  que o mundo acabaria em 2023
 date: 2023-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Em 2018, a teórica da conspiração sueca e atriz profissional de raiva climática, Greta Thunberg compartilhou um tweet declarando que o mundo terminaria em 2023 por causa da “ciência”.
 

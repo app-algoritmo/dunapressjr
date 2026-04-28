@@ -1,11 +1,12 @@
 ---
-title: "Secretário promete liberar verba para retomar emissão de passaportes"
+title: Secretário promete liberar verba para retomar emissão de passaportes
 date: 2022-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Reforço imediato será de R$ 37 milhões do Ministério da Economia.
 

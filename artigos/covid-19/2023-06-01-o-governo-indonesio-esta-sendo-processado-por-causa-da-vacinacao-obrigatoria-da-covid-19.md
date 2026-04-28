@@ -1,11 +1,13 @@
 ---
-title: "O governo indonésio está sendo processado por causa da vacinação obrigatória da Covid-19"
+title: O governo indonésio está sendo processado por causa da vacinação obrigatória
+  da Covid-19
 date: 2023-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um grupo indonésio liderado por Ted Hilbert e Fatoni Rahman está processando o governo por causa de seu mandato de vacina, que exige a vacinação em massa de todos os residentes indonésios por decreto. De acordo com Hilbert & Rahman, o mandato viola vários artigos da Constituição da República da Indonésia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Desempenho da pequena indústria melhora; matéria-prima preocupa"
+title: Desempenho da pequena indústria melhora; matéria-prima preocupa
 date: 2022-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Panorama da Pequena Indústria foi divulgado nesta segunda-feira pela CNI.
 

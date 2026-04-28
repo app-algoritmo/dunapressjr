@@ -1,11 +1,12 @@
 ---
-title: "Comunista Kin Jon-Un pode estar gravemente doente após cirurgia"
+title: Comunista Kin Jon-Un pode estar gravemente doente após cirurgia
 date: 2020-04-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os Estados Unidos relatam informações indicando que o líder supremo da Coréia do Norte, [ Kim Jong-Un](https://www.cnn.com/2012/12/26/world/asia/kim-jong-un---fast-facts/index.html) "está em grave perigo após uma cirurgia", [segundo a CNN](https://www.cnn.com/2020/04/20/politics/kim-jong-un-north-korea/index.html) . A rede cita "um funcionário dos EUA com conhecimento direto".
 

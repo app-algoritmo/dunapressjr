@@ -1,11 +1,12 @@
 ---
-title: "Indicadores da indústria de transformação apontam perda de dinamismo"
+title: Indicadores da indústria de transformação apontam perda de dinamismo
 date: 2023-10-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Faturamento real cai, horas trabalhadas recuam, mas rendimento médio do trabalhador apresenta crescimento.
 

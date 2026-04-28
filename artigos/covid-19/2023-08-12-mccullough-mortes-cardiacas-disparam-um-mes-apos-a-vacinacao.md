@@ -1,11 +1,12 @@
 ---
-title: "McCullough: mortes cardíacas disparam um mês após a vacinação"
+title: 'McCullough: mortes cardíacas disparam um mês após a vacinação'
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Aumento da mortalidade cardíaca em 28 dias após a vacinação contra COVID-19 em estudos autocontrolados da Inglaterra, Itália e EUA.
 

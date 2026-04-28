@@ -1,11 +1,12 @@
 ---
-title: "Como (e por que) a SpaceX colonizará Marte"
+title: Como (e por que) a SpaceX colonizará Marte
 date: 2021-12-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 -Este é o primeiro artigo de uma série super divertida que recomendo aos nossos leitores em Duna Press, siga a série e boa leitura!
 

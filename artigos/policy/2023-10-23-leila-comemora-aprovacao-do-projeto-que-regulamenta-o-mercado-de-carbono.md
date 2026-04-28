@@ -1,11 +1,12 @@
 ---
-title: "Leila comemora aprovação do projeto que regulamenta o mercado de carbono"
+title: Leila comemora aprovação do projeto que regulamenta o mercado de carbono
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Leila Barros (PDT-DF), em pronunciamento no Plenário, comemorou a aprovação na Comissão de Meio Ambiente (CMA) do projeto de lei que regulamenta o mercado de carbono no Brasil ([PL 412/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/151967)), do qual foi relatora. Segundo a parlamentar, o projeto é parte de um conjunto de medidas voltadas para a transição ecológica do país, para auxiliar o Brasil a cumprir metas de redução de emissões de gases do efeito estufa. 
 

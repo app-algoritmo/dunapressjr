@@ -1,11 +1,12 @@
 ---
-title: "Harry Potter e a Criança Amaldiçoada: A magia nunca acaba"
+title: 'Harry Potter e a Criança Amaldiçoada: A magia nunca acaba'
 date: 2020-03-11
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 A Saga do bruxo Harry Potter foi uma sequência de livros que conseguiu cativar milhões de leitores ao redor do mundo, graças a uma premissa muito simples: toda criança que sofre bullying, que vem de um lar onde é agredida verbalmente e que se sente sem lugar no mundo que conhece na sua imaginação, visualiza um lugar onde ela seria, não somente querida, como também bem quista, quem sabe até ovacionada. 
 

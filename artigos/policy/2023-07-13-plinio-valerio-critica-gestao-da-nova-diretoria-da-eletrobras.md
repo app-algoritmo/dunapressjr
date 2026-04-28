@@ -1,11 +1,12 @@
 ---
-title: "Plinio Valério critica gestão da nova diretoria da Eletrobras"
+title: Plinio Valério critica gestão da nova diretoria da Eletrobras
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em pronunciamento no Plenário na terça-feira (11), o senador Plínio Valério (PSDB-AM) criticou a nova direção da Eletrobras, empresa que foi recentemente privatizada. 
 

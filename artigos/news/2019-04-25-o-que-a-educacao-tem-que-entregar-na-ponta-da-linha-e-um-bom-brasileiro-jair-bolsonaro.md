@@ -1,11 +1,13 @@
 ---
-title: "O que a educação tem que entregar na ponta da linha é um bom brasileiro, 'Jair Bolsonaro'"
+title: O que a educação tem que entregar na ponta da linha é um bom brasileiro, 'Jair
+  Bolsonaro'
 date: 2019-04-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente visita Ministério da Educação
 

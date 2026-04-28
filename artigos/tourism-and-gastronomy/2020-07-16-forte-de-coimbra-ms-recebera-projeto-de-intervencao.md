@@ -1,11 +1,12 @@
 ---
-title: "Forte de Coimbra (MS) receberá projeto de intervenção"
+title: Forte de Coimbra (MS) receberá projeto de intervenção
 date: 2020-07-16
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Objetivo é realizar melhorias preventivas para manter o bom funcionamento do patrimônio que data do final do século 18.
 

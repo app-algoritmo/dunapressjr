@@ -1,11 +1,13 @@
 ---
-title: "Mudança na Identificação Eleitoral Intensifica Preocupações dos Democratas para 2024"
+title: Mudança na Identificação Eleitoral Intensifica Preocupações dos Democratas
+  para 2024
 date: 2024-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma pesquisa recente sobre a identificação dos eleitores está gerando preocupações entre os democratas, à medida que se aproximam as eleições de 2024. Historicamente, os democratas mantiveram uma vantagem sólida nessa área, mas os últimos dados mostram uma mudança significativa no cenário político.
 

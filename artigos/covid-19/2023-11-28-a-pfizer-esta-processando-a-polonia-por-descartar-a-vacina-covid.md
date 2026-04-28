@@ -1,11 +1,12 @@
 ---
-title: "A Pfizer está processando a Polônia por descartar à vacina Covid"
+title: A Pfizer está processando a Polônia por descartar à vacina Covid
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em Abril de 2021, o mundo soube que a Presidente da Comissão Europeia, Ursula von der Leyen, tinha negociado através de mensagem de texto com o CEO da Pfizer, Albert Bourla, o maior contrato de sempre para 1,1 mil milhões de doses da vacina COVID-19.
 

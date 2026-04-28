@@ -1,11 +1,13 @@
 ---
-title: "Descanso no feriado: ócio ajuda estudantes a ganharem fôlego para últimas provas"
+title: 'Descanso no feriado: ócio ajuda estudantes a ganharem fôlego para últimas
+  provas'
 date: 2021-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## "Fazer nada" é estratégia para descansar corpo e mente de crianças e adolescentes e estimular a aprendizagem; educadora alerta para uso de eletrônicos sem moderação durante o feriado.
 

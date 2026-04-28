@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova repasse de imposto sobre tabaco e bebidas alcoólicas para Fundo Antidrogas"
+title: Comissão aprova repasse de imposto sobre tabaco e bebidas alcoólicas para Fundo
+  Antidrogas
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Segurança Pública da Câmara dos Deputados aprovou o Projeto de Lei 4416/20, que destina 1% da arrecadação da Contribuição para o Financiamento da Seguridade Social (Cofins) incidente sobre operações com tabaco e bebidas alcoólicas para o Fundo Nacional Antidrogas (Funad).
 

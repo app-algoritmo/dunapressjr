@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova prorrogação de prazo para declaração do Imposto de Renda"
+title: Câmara aprova prorrogação de prazo para declaração do Imposto de Renda
 date: 2021-03-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de lei segue agora para o Senado.
 

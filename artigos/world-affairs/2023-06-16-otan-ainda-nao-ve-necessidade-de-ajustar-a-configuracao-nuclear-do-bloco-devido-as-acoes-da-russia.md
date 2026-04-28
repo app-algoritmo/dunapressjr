@@ -1,11 +1,13 @@
 ---
-title: "OTAN ainda não vê necessidade de ajustar a configuração nuclear do bloco devido às ações da Rússia"
+title: OTAN ainda não vê necessidade de ajustar a configuração nuclear do bloco devido
+  às ações da Rússia
 date: 2023-06-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Atualmente, entre 150 e 200 bombas nucleares dos EUA são implantadas em cinco países não nucleares da OTAN: Bélgica, Alemanha, Itália, Holanda e Turquia.
 

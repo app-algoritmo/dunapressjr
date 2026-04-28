@@ -1,11 +1,12 @@
 ---
-title: "Tributos para a guerra"
+title: Tributos para a guerra
 date: 2023-02-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 O conflito Russia-Ucrânia já gastou um orçamento trilhonário. 
 

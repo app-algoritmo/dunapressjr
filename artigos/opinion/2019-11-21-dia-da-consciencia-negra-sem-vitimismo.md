@@ -1,11 +1,12 @@
 ---
-title: "Dia da Consciência Negra sem vitimismo"
+title: Dia da Consciência Negra sem vitimismo
 date: 2019-11-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Acharam que eu fosse levantar cartaz vitimista só porque sou um preto e que conseguiu se formar na faculdade? Coitados!
 

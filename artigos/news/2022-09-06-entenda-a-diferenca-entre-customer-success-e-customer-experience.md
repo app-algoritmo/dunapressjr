@@ -1,11 +1,12 @@
 ---
-title: "Entenda a diferença entre customer success e customer experience"
+title: Entenda a diferença entre customer success e customer experience
 date: 2022-09-06
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Entender a diferença entre customer success e customer experience é muito importante para empresas que querem aumentar a retenção de clientes e ainda atrair novos.
 

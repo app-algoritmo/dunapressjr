@@ -1,11 +1,13 @@
 ---
-title: "FAKE NEWS: Notícia de que a Funai estaria distribuindo cestas contaminadas no Pará é falsa"
+title: 'FAKE NEWS: Notícia de que a Funai estaria distribuindo cestas contaminadas
+  no Pará é falsa'
 date: 2020-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### As entregas de cestas básicas são executadas em conformidade com todos os protocolos estabelecidos pelo Ministério da Saúde. A fake news foi divulgada em emissoras de rádio locais causando preocupação.
 

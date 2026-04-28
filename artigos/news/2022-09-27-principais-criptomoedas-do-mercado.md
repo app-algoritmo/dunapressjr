@@ -1,11 +1,12 @@
 ---
-title: "Principais criptomoedas do mercado"
+title: Principais criptomoedas do mercado
 date: 2022-09-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Os criptoativos têm se tornado mais comuns, com seu uso sendo mais amplo entre pessoas e empresas. Isso contribui para que cada vez mais indivíduos tenham interesse nesse mercado, que, assim como as moedas físicas, possui uma extensa variedade de opções, cada uma com suas peculiaridades.
 

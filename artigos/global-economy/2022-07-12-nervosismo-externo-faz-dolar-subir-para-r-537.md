@@ -1,11 +1,12 @@
 ---
-title: "Nervosismo externo faz dólar subir para R$ 5,37"
+title: Nervosismo externo faz dólar subir para R$ 5,37
 date: 2022-07-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa caiu 2,07% e voltou a fechar abaixo de 100 mil pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Esperança em tempos de histeria e Coronavírus"
+title: Esperança em tempos de histeria e Coronavírus
 date: 2020-04-03
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Tempos de crise e situações extremas geralmente despertam o pior que há no ser humano, em busca da sobrevivência, nada mais importa. A ética e a moral se transformam em um obstáculo diante da luta pela vida. Retorna o homem a seus instintos mais básicos, se torna um animal em meio à adversidade da natureza. 
 

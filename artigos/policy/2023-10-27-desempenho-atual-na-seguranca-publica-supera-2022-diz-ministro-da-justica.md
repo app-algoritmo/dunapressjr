@@ -1,11 +1,12 @@
 ---
-title: "Desempenho atual na segurança pública supera 2022, diz ministro da Justiça"
+title: Desempenho atual na segurança pública supera 2022, diz ministro da Justiça
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Orçamento do setor prevê em 2024 os mesmos R$ 5,17 bilhões deste ano, valor 17% maior que o de 2022.
 

@@ -1,11 +1,13 @@
 ---
-title: "Kremlin Afirma: China é Capaz de Defender seus Interesses Contra Pressão dos EUA"
+title: 'Kremlin Afirma: China é Capaz de Defender seus Interesses Contra Pressão dos
+  EUA'
 date: 2024-04-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Artigo:**O Kremlin reagiu com confiança à pressão dos Estados Unidos sobre a China, enfatizando que Pequim tem plena capacidade de proteger seus próprios interesses soberanos. Dmitry Peskov, porta-voz presidencial russo, declarou que não há necessidade de comentar sobre as tentativas de Washington de influenciar as relações sino-russas, destacando a soberania e a força da China como um Estado poderoso.
 

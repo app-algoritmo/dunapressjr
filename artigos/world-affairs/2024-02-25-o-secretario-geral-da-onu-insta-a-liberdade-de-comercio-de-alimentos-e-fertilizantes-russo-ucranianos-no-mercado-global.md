@@ -1,11 +1,13 @@
 ---
-title: "O Secretário-Geral da ONU insta à Liberdade de Comércio de Alimentos e Fertilizantes Russo-Ucranianos no Mercado Global"
+title: O Secretário-Geral da ONU insta à Liberdade de Comércio de Alimentos e Fertilizantes
+  Russo-Ucranianos no Mercado Global
 date: 2024-02-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na reunião recente do Conselho de Segurança da ONU sobre a situação na Ucrânia, o Secretário-Geral António Guterres reafirmou o compromisso das Nações Unidas em garantir que os alimentos e fertilizantes provenientes da Rússia e da Ucrânia possam alcançar o mercado global sem restrições. Guterres destacou a importância vital desses produtos para a segurança alimentar global e expressou preocupação com possíveis obstáculos à sua livre circulação.
 

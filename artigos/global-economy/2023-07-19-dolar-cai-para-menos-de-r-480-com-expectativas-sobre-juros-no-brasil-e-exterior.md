@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para menos de R$ 4,80 com expectativas sobre juros no Brasil e exterior"
+title: Dólar cai para menos de R$ 4,80 com expectativas sobre juros no Brasil e exterior
 date: 2023-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Mercado cambial registra redução expressiva, enquanto a bolsa de valores sofre segunda queda consecutiva.
 

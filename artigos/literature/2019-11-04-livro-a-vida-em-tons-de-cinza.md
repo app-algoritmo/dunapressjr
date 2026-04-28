@@ -1,11 +1,12 @@
 ---
-title: "Livro: A Vida Em Tons de Cinza"
+title: 'Livro: A Vida Em Tons de Cinza'
 date: 2019-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Me envolvi tanto com a história que quando li este livro eu
 imaginava a fisionomia dos irmãos Lina e Jonas com as características físicas

@@ -1,11 +1,13 @@
 ---
-title: "Brasil: Governo prevê 20 mil novos empregos com a retomada de 10 mil obras paradas"
+title: 'Brasil: Governo prevê 20 mil novos empregos com a retomada de 10 mil obras
+  paradas'
 date: 2020-06-04
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 R$343,6 bilhões sancionados pelo presidente Jair Bolsonaro deverá gerar 20 mil novos empregos.
 

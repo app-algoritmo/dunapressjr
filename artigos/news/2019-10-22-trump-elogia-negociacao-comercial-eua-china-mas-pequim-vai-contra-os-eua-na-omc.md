@@ -1,11 +1,13 @@
 ---
-title: "Trump elogia negociação comercial EUA-China, mas Pequim vai contra os EUA na OMC"
+title: Trump elogia negociação comercial EUA-China, mas Pequim vai contra os EUA na
+  OMC
 date: 2019-10-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente dos Estados Unidos, Donald Trump, disse nesta
 segunda-feira (21) que os esforços para pôr fim à guerra comercial entre EUA e

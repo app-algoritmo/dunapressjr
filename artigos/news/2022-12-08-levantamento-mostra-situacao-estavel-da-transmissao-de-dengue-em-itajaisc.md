@@ -1,11 +1,12 @@
 ---
-title: "Levantamento mostra situação estável da transmissão de dengue em Itajaí/SC"
+title: Levantamento mostra situação estável da transmissão de dengue em Itajaí/SC
 date: 2022-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O resultado do Levantamento de Índice Rápido para o Aedes aegypti (LIRAa), realizado pelo Programa de Controle da Dengue de Itajaí no mês de novembro deste ano, apontou o Município com médio risco de transmissão da dengue, chikungunya e zika vírus. Nenhum bairro da cidade apresentou alto risco neste relatório. O levantamento foi publicado no 10° Boletim Epidemiológico, elaborado pela Secretaria da Saúde [(clique aqui e acesse o documento completo)](https://saude.itajai.sc.gov.br/c/boletim-epidemiologico#.Y5B7ZH3MIdW).
 

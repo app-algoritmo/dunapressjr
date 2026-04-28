@@ -1,11 +1,13 @@
 ---
-title: "A abordagem 'preto e branco' do Ocidente na Ucrânia não funciona, diz primeiro-ministro eslovaco"
+title: A abordagem 'preto e branco' do Ocidente na Ucrânia não funciona, diz primeiro-ministro
+  eslovaco
 date: 2024-01-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## “É chocante como o Ocidente continua errado na sua avaliação da situação na Rússia”, observou Robert Fico.
 

@@ -1,11 +1,13 @@
 ---
-title: "Operação Hórus apreende dois veículos preparados para o transporte de ilícitos contrabandeados"
+title: Operação Hórus apreende dois veículos preparados para o transporte de ilícitos
+  contrabandeados
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – Nesta sexta-feira, dia 19/6, mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

@@ -1,11 +1,12 @@
 ---
-title: "Da Líbia ao Níger: como o Ocidente semeou o caos no Sahel"
+title: 'Da Líbia ao Níger: como o Ocidente semeou o caos no Sahel'
 date: 2023-09-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Golpe no Níger é a mais recente consequência não intencional do “intervencionismo humanitário”.
 

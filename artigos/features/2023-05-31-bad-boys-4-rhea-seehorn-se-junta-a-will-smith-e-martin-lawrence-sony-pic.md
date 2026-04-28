@@ -1,11 +1,13 @@
 ---
-title: "'Bad Boys 4': Rhea Seehorn se junta a Will Smith e Martin Lawrence Sony Pic"
+title: '''Bad Boys 4'': Rhea Seehorn se junta a Will Smith e Martin Lawrence Sony
+  Pic'
 date: 2023-05-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Rhea Seehorn, duas vezes indicada ao Primetime Emmy, embarcou na quarta parcela da franquia Bad Boys, que arrecadou US$ 841 milhões.
 

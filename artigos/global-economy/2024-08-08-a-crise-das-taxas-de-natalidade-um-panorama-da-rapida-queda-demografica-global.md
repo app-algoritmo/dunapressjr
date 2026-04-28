@@ -1,11 +1,12 @@
 ---
-title: "A Crise das Taxas de Natalidade: Um Panorama da Rápida Queda Demográfica Global"
+title: 'A Crise das Taxas de Natalidade: Um Panorama da Rápida Queda Demográfica Global'
 date: 2024-08-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 A queda nas taxas de natalidade é uma das questões demográficas mais urgentes do século XXI. Embora a diminuição das taxas de fertilidade tenha sido gradual ao longo das últimas décadas, o gráfico recente do New York Times, com dados da HSBC baseados em fontes nacionais, destaca a velocidade surpreendente da queda entre 2022 e 2023. Este artigo analisa essa crise de natalidade, discute suas causas e consequências e faz projeções futuras com base em dados oficiais.
 

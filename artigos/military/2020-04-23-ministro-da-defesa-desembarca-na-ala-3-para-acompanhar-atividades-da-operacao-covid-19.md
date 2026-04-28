@@ -1,11 +1,13 @@
 ---
-title: "Ministro da Defesa desembarca na Ala 3 para acompanhar atividades da Operação COVID-19"
+title: Ministro da Defesa desembarca na Ala 3 para acompanhar atividades da Operação
+  COVID-19
 date: 2020-04-23
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Ministro da Defesa Fernando Azevedo e Silva desembarcou na Ala 3, em  Canoas (RS), nesta quinta-feira (23/04) para  acompanhar as atividades realizadas na Operação COVID-19. Os militares das Forças Amadas realizam ações de apoio a órgãos públicos e a sociedade com foco no combate ao novo Coronavírus. Marinha, Exército e Aeronáutica atuam coordenadas em função da ativação de um Centro de Operações Conjuntas (COC), situado no Ministério da Defesa (MD), em Brasília (DF), e dez Comandos Conjuntos, distribuídos por todo o território nacional.
 

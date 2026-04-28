@@ -1,11 +1,13 @@
 ---
-title: "Tecnocrata: Um 'ID Mundial' digital em breve será obrigatório para qualquer pessoa que deseje participar das funções cotidianas da sociedade"
+title: 'Tecnocrata: Um ''ID Mundial'' digital em breve será obrigatório para qualquer
+  pessoa que deseje participar das funções cotidianas da sociedade'
 date: 2023-07-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ***Scanners biométricos de íris estão implantados no sul da Europa; eles são os precursores de um sistema global de identificação digital que será lançado para cidadãos de todo o mundo, quer eles queiram ou não”, diz o CEO tecnocrático de uma nova empresa que planeja escanear os olhos de todos no planeta.***
 

@@ -1,11 +1,12 @@
 ---
-title: "Prazo para modificar acordos entre empregadores e trabalhadores é ampliado"
+title: Prazo para modificar acordos entre empregadores e trabalhadores é ampliado
 date: 2020-08-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 As duas partes serão notificados pelo governo das decisões proferidas sobre os acordos enviados em até 15 dias.
 

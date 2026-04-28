@@ -1,11 +1,13 @@
 ---
-title: "Três comissões vão debater auxílio emergencial para situações decorrentes de secas e enchentes"
+title: Três comissões vão debater auxílio emergencial para situações decorrentes de
+  secas e enchentes
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Environment
+- Environment
 ---
+
 
 Graves e recorrentes problemas com enchentes têm atingido cidades brasileiras
 

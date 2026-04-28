@@ -1,11 +1,12 @@
 ---
-title: "TSE reconhece assinaturas eletrônicas para criação de partidos"
+title: TSE reconhece assinaturas eletrônicas para criação de partidos
 date: 2019-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 Decisão pode impactar na criação do Aliança pelo Brasil, de Bolsonaro
 

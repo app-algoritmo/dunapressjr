@@ -1,11 +1,12 @@
 ---
-title: "<strong>Índice de Confiança da Indústria recua 0,8 ponto em setembro, diz FGV</strong>"
+title: <strong>Índice de Confiança da Indústria recua 0,8 ponto em setembro, diz FGV</strong>
 date: 2022-09-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Nível de Utilização da Capacidade Instalada da Indústria caiu.
 

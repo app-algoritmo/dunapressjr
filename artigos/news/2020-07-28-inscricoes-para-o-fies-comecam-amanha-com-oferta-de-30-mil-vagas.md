@@ -1,11 +1,12 @@
 ---
-title: "Inscrições para o Fies começam amanhã, com oferta de 30 mil vagas"
+title: Inscrições para o Fies começam amanhã, com oferta de 30 mil vagas
 date: 2020-07-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Interessados devem ficar atentos: o prazo termina às 23h59 desta sexta-feira (31).
 

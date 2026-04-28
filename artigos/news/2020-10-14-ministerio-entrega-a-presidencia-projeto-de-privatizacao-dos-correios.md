@@ -1,11 +1,12 @@
 ---
-title: "Ministério entrega à Presidência projeto de privatização dos Correios"
+title: Ministério entrega à Presidência projeto de privatização dos Correios
 date: 2020-10-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O texto final será encaminhado ao Congresso no ano que vem.
 

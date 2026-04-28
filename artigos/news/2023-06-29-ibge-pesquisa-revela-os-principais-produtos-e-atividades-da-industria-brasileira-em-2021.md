@@ -1,11 +1,13 @@
 ---
-title: "IBGE: Pesquisa revela os principais produtos e atividades da indústria brasileira em 2021"
+title: 'IBGE: Pesquisa revela os principais produtos e atividades da indústria brasileira
+  em 2021'
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Minério de ferro lidera o ranking de receitas, seguido por óleos brutos de petróleo e óleo diesel.
 

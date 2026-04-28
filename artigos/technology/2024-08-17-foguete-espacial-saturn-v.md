@@ -1,11 +1,12 @@
 ---
-title: "Foguete espacial Saturn V"
+title: Foguete espacial Saturn V
 date: 2024-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Dando continuidade à série “50 máquinas que mudaram o rumo da história”, vamos falar sobre o foguete espacial Saturn V.
 

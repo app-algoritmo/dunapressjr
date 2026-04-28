@@ -1,11 +1,13 @@
 ---
-title: "Secretaria Nacional da Juventude oferece gratuitamente curso de redação em EaD"
+title: Secretaria Nacional da Juventude oferece gratuitamente curso de redação em
+  EaD
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) disponibilizou o curso ‘Redação Aprovada’ para a população mais jovem. A proposta do curso é ensinar redação para o Enem ou concurso público de uma forma simples, como uma “conversa no WhatsApp”.
 

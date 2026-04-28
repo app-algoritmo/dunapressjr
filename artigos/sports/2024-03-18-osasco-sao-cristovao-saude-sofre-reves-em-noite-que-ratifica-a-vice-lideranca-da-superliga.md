@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde sofre revés em noite que ratifica a vice-liderança da Superliga"
+title: Osasco São Cristóvão Saúde sofre revés em noite que ratifica a vice-liderança
+  da Superliga
 date: 2024-03-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Apesar do resultado negativo diante do Dentil Praia Clube, equipe comandada pelo técnico Luizomar avança para os playoffs na segunda colocação.
 

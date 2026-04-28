@@ -1,11 +1,12 @@
 ---
-title: "Brasil: Ativista brasileira Sara Winter detida"
+title: 'Brasil: Ativista brasileira Sara Winter detida'
 date: 2020-06-15
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Segundo o amado ministro da prestigiada corte vermelha suprema do Brasil, a ativista foi presa sobre acusação de protestos antidemocráticos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estudo abrangente relaciona coronavírus e derrame em jovens"
+title: Estudo abrangente relaciona coronavírus e derrame em jovens
 date: 2021-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Estudo em grande escala encontrou forte conexão entre coronavírus e derrames - particularmente em pacientes mais jovens.
 

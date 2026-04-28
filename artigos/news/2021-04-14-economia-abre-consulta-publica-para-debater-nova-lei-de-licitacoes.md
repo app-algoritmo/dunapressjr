@@ -1,11 +1,12 @@
 ---
-title: "Economia abre consulta pública para debater nova Lei de Licitações"
+title: Economia abre consulta pública para debater nova Lei de Licitações
 date: 2021-04-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Compras públicas do governo movimentaram R$ 51 bilhões em 2020.
 

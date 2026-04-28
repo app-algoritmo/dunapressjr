@@ -1,11 +1,12 @@
 ---
-title: "Setor de serviços na cidade de SP cresce 11,1% no primeiro semestre"
+title: Setor de serviços na cidade de SP cresce 11,1% no primeiro semestre
 date: 2022-10-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O faturamento do setor atingiu R$ 313,4 bilhões.
 

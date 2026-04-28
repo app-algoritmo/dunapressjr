@@ -1,11 +1,12 @@
 ---
-title: "Porque Snoop Dogg foi impedido de entrar na Noruega?"
+title: Porque Snoop Dogg foi impedido de entrar na Noruega?
 date: 2024-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 No mundo da música, Snoop Dogg é uma figura icônica, conhecida por sua música e estilo de vida extravagante. No entanto, sua fama não o poupou de problemas quando tentou entrar na Noruega. O rapper e produtor americano foi impedido de entrar no país escandinavo devido à posse de maconha.
 

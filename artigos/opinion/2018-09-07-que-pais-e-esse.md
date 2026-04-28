@@ -1,11 +1,12 @@
 ---
-title: "Que país é esse?"
+title: Que país é esse?
 date: 2018-09-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Por viver no Sul dizemos, quando tudo está bagunçado, que virou um "Banzé", que é o mesmo que tá tudo esculhambado.
 

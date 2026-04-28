@@ -1,11 +1,12 @@
 ---
-title: "Cerimônia de promoção de militares no CMRJ"
+title: Cerimônia de promoção de militares no CMRJ
 date: 2020-04-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – No dia 03 de abril de 2020, no Colégio Militar do Rio de Janeiro (CMRJ), ocorreu a formatura de promoção de oito soldados à graduação de cabos.
 

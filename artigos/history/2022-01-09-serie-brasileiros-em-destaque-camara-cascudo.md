@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Câmara Cascudo"
+title: 'Série Brasileiros em Destaque: Câmara Cascudo'
 date: 2022-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Antropólogo.
 

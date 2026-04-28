@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal já zerou tarifa de importação de 394 produtos durante pandemia"
+title: Governo Federal já zerou tarifa de importação de 394 produtos durante pandemia
 date: 2020-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Decisão mais recente incluiu 81 produtos para o combate à pandemia do novo coronavírus, como insumos para produção de ventiladores pulmonar
 O Governo Federal zerou o Imposto de Importação de mais 81 produtos utilizados no combate à pandemia da Covid-19 no Brasil. A medida inclui insumos para a produção de ventiladores pulmonares e materiais e equipamentos de uso médico-hospitalar.  Com a nova lista, chega a 394 o número de produtos que tiveram a tarifa de importação zerada para o combate à pandemia.

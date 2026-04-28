@@ -1,11 +1,12 @@
 ---
-title: "Bolsa tem maior queda do ano puxada por petróleo e inflação"
+title: Bolsa tem maior queda do ano puxada por petróleo e inflação
 date: 2022-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O dólar terminou o dia com leve alta de 0,03%, vendido a R$ 5,08.
 

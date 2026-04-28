@@ -1,11 +1,12 @@
 ---
-title: "Educação profissional beneficia pessoas com deficiências"
+title: Educação profissional beneficia pessoas com deficiências
 date: 2021-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A formação profissional desenvolve habilidades, desperta a autoestima e incentiva a autonomia. É o que revela a pesquisa de pós-doutorado do bolsista da Coordenação de Pessoal de Nível Superior (CAPES), Renan Antônio da Silva, pelo Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/Ceam/UnB). O estudo apresenta a importância dos cursos profissionalizantes na inserção de pessoas com deficiência no mercado de trabalho.
 

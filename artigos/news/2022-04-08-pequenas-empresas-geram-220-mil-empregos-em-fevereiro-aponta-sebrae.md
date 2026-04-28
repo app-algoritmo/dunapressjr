@@ -1,11 +1,12 @@
 ---
-title: "Pequenas empresas geram 220 mil empregos em fevereiro, aponta Sebrae"
+title: Pequenas empresas geram 220 mil empregos em fevereiro, aponta Sebrae
 date: 2022-04-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Setor de serviços foi o que mais contratou, abrindo 134.024 empregos.
 

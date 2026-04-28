@@ -1,11 +1,13 @@
 ---
-title: "Prova de mountain bike por etapas será realizada na região turística da Serra do Espinhaço/MG"
+title: Prova de mountain bike por etapas será realizada na região turística da Serra
+  do Espinhaço/MG
 date: 2021-12-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A cidade de Conceição do Mato Dentro (MG), com pouco mais de 17 mil habitantes, terá sua rotina alterada entre os dias 14 e 18 de dezembro. As bicicletas de competidores vindos de todas as partes do País e também do mundo tomarão conta das ruas e trilhas da região, durante a realização da Santander Brasil Ride Espinhaço, prova de mountain bike com cinco etapas, responsável por encerrar o calendário internacional de competições da modalidade no Brasil em 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "Educação Alimentar e Nutricional tem a 4ª jornada adiada para 2021"
+title: Educação Alimentar e Nutricional tem a 4ª jornada adiada para 2021
 date: 2020-07-07
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A 4ª edição da Jornada de Educação Alimentar e Nutricional será realizada em 2021. Por conta da suspensão das aulas nas escolas de educação básica, o Fundo Nacional de Desenvolvimento da Educação (FNDE) decidiu transferir o cronograma que antes estava previsto para o segundo semestre de 2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 4,84 e fecha no menor valor desde março de 2020"
+title: Dólar cai para R$ 4,84 e fecha no menor valor desde março de 2020
 date: 2022-03-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa resistiu a queda no exterior e fechou com pequena alta.
 

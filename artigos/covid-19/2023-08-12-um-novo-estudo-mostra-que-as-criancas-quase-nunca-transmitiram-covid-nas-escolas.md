@@ -1,11 +1,12 @@
 ---
-title: "Um novo estudo mostra que as crianças quase nunca transmitiram Covid nas escolas"
+title: Um novo estudo mostra que as crianças quase nunca transmitiram Covid nas escolas
 date: 2023-08-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Os resultados da pesquisa devem acabar com os fracos esforços da retaguarda para defender o fechamento de escolas – ou qualquer ação corretiva, como fazer com que as crianças usem máscaras de proteção.
 

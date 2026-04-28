@@ -1,11 +1,12 @@
 ---
-title: "Biólogo brasileiro, mostra importância da copaíba no combate à toxoplasmose"
+title: Biólogo brasileiro, mostra importância da copaíba no combate à toxoplasmose
 date: 2021-02-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O biólogo Samuel Cota Teixeira é bolsista de pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) na Universidade Federal de Uberlândia (UFU), onde é pesquisador vinculado ao Programa de Pós-Graduação (PPG) em Imunologia e Parasitologia Aplicadas. Em seu trabalho [desvendou](https://www.gov.br/oleo-de-copaiba-pode-combater-a-toxoplasmose) o papel do óleo de copaíba no combate à toxoplasmose ([leia o artigo aqui](https://www.nature.com/articles/s41598-020-72230-0.epdf?sharing_token=pHxJjHbl2UQZvniJKp4kX9RgN0jAjWel9jnR3ZoTv0PXN6c5nAwHoZyP0KMHXD_H-WLgoUGkkc5HUwGVmsJRvzz_dxCWY3tJTvyMuJryluZLwt1GPTK8Z59-QlH6mjitG49tbulPltp2ofIICU70o0NT8vHYrMR1FixTZuesafk%3D)).
 

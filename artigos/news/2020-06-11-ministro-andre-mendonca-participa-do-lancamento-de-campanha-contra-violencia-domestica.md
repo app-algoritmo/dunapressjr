@@ -1,11 +1,13 @@
 ---
-title: "Ministro André Mendonça participa do lançamento de campanha contra violência doméstica"
+title: Ministro André Mendonça participa do lançamento de campanha contra violência
+  doméstica
 date: 2020-06-11
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Justiça e Segurança Pública, André Mendonça, participou nesta quarta-feira (10), do lançamento da campanha “Sinal Vermelho para violência doméstica”. A iniciativa do Conselho Nacional de Justiça (CNJ) e da Associação dos Magistrados Brasileiros (AMB) tem como foco ajudar mulheres em situação de violência a pedirem ajuda nas farmácias do país.
 

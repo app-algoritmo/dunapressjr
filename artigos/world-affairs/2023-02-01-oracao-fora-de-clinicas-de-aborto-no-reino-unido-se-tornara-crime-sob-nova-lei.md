@@ -1,11 +1,13 @@
 ---
-title: "Oração fora de clínicas de aborto no Reino Unido se tornará crime sob nova lei"
+title: Oração fora de clínicas de aborto no Reino Unido se tornará crime sob nova
+  lei
 date: 2023-02-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ontem a Câmara dos Lordes aprovou uma emenda ao Projeto de Lei de Ordem Pública que introduzirá zonas tampão fora das clínicas de aborto. Por mais de oito anos, o maior provedor de aborto no Reino Unido (British Pregnancy Advisory Service) fez campanha para introduzir essas zonas tampão. Em primeiro lugar, o que é uma zona tampão?
 

@@ -1,11 +1,13 @@
 ---
-title: "Rússia Promete Resposta Contundente às Sanções dos EUA e Prioriza Desenvolvimento Econômico Interno"
+title: Rússia Promete Resposta Contundente às Sanções dos EUA e Prioriza Desenvolvimento
+  Econômico Interno
 date: 2024-02-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O ministro dos Negócios Estrangeiros da Rússia, Sergey Lavrov, reagiu com determinação às iminentes sanções dos Estados Unidos, prometendo uma resposta direta e focada no fortalecimento da economia russa e na melhoria dos padrões de vida dos cidadãos.
 

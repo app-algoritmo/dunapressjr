@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas têm déficit de R$ 14,182 bilhões em março"
+title: Contas públicas têm déficit de R$ 14,182 bilhões em março
 date: 2023-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dívida bruta está em 73% do PIB.
 

@@ -1,11 +1,13 @@
 ---
-title: "No Piauí, rede Ebserh, disponibiliza mais 65 leitos para tratamento da pandemia em hospital"
+title: No Piauí, rede Ebserh, disponibiliza mais 65 leitos para tratamento da pandemia
+  em hospital
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Ala Covid foi possível devido à liberação de R$ 7,9 milhões pela Ebserh e contratação de profissionais.
 

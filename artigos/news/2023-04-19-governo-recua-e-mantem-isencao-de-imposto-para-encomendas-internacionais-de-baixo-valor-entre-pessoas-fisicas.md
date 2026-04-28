@@ -1,11 +1,13 @@
 ---
-title: "Governo recua e mantém isenção de imposto para encomendas internacionais de baixo valor entre pessoas físicas"
+title: Governo recua e mantém isenção de imposto para encomendas internacionais de
+  baixo valor entre pessoas físicas
 date: 2023-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O presidente Lula pediu o recuo da medida que acabaria com a isenção de Imposto de Importação para mercadorias de até US$ 50 para transações entre pessoas físicas.
 

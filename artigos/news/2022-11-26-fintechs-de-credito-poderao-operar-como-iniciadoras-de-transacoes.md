@@ -1,11 +1,12 @@
 ---
-title: "Fintechs de crédito poderão operar como iniciadoras de transações"
+title: Fintechs de crédito poderão operar como iniciadoras de transações
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CMN autorizou medida, que cumpre terceira fase do open finance.
 

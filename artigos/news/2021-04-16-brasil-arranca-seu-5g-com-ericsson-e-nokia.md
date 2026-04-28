@@ -1,11 +1,12 @@
 ---
-title: "Brasil arranca seu 5G com Ericsson e Nokia"
+title: Brasil arranca seu 5G com Ericsson e Nokia
 date: 2021-04-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -"***Trusted supplyer***" parceiros confiáveis, assim são conhecidas as empresas nórdicas que tornaram possível o gigante latino americano dar início ao seu projeto de telecomunicação de quinta geração. 
 

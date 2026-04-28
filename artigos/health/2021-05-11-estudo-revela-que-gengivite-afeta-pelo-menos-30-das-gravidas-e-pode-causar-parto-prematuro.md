@@ -1,11 +1,13 @@
 ---
-title: "Estudo revela que gengivite afeta pelo menos 30% das grávidas e pode causar parto prematuro"
+title: Estudo revela que gengivite afeta pelo menos 30% das grávidas e pode causar
+  parto prematuro
 date: 2021-05-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A predisposição de gestantes à gengivite é maior e isso deve ser motivo de alerta. É o que mostram diversos estudos que ressaltam a importância de um acompanhamento odontológico dentro do pré-natal tradicional das grávidas. As visitas regulares a clínicas de odontologia podem evitar futuros problemas, pois a saúde bucal da mãe influencia diretamente na saúde do bebê. Um estudo realizado pelo Departamento de Odontologia Preventiva do Hospital da Universidade Estadual de Lagos, na Nigéria, mostrou que a ocorrência de gengivite em gestantes varia entre 30% a 100% das mulheres. A pesquisa concluiu que o aumento da taxa de metabolismo do estrogênio e da síntese de  prostaglandinas pela gengiva ajudou para as mudanças gengivais neste período de gestação.
 

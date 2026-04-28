@@ -1,11 +1,12 @@
 ---
-title: "Conflito Prolongado de Israel em Gaza Desperta Preocupações Globais"
+title: Conflito Prolongado de Israel em Gaza Desperta Preocupações Globais
 date: 2024-01-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Diante da crescente pressão dos Estados Unidos para desescalar o conflito, Israel iniciou o remanejamento de suas forças e se prepara para um engajamento prolongado na Faixa de Gaza. Apesar dos apelos internacionais por uma cessação das hostilidades, o principal general de Israel afirma que levará vários meses para desmantelar as capacidades militares do Hamas no enclave. Este artigo examina os ajustes estratégicos de Israel, o impacto humanitário na população de Gaza e as repercussões geopolíticas do conflito em curso.
 

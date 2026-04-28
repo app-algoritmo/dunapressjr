@@ -1,11 +1,12 @@
 ---
-title: "Governadores discutem fundo para estabilizar preço de combustíveis"
+title: Governadores discutem fundo para estabilizar preço de combustíveis
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Fórum também discutiu piso dos professores e pandemia.
 

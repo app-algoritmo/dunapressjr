@@ -1,11 +1,12 @@
 ---
-title: "João Azevêdo apresenta plano de retomada da atividade econômica na Paraíba"
+title: João Azevêdo apresenta plano de retomada da atividade econômica na Paraíba
 date: 2020-06-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governador João Azevêdo apresentou, neste domingo (31), por meio de transmissão ao vivo nas redes sociais, o plano de retomada da atividade econômica na Paraíba, que ocorrerá a partir do dia 15 de junho.
 

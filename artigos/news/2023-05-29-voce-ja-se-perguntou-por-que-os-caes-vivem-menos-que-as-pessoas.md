@@ -1,12 +1,13 @@
 ---
-title: "'Você já se perguntou por que os cães vivem menos que as pessoas?"
+title: '''Você já se perguntou por que os cães vivem menos que as pessoas?'
 date: 2023-05-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Pets
+- News
+- Pets
 ---
+
 
 O veterinário Jorge encontrou esta resposta num dia de trabalho, quando conheceu Pedro, um garotinho de seis anos de idade.
 

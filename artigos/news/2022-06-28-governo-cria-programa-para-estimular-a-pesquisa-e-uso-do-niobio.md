@@ -1,11 +1,12 @@
 ---
-title: "Governo cria programa para estimular a pesquisa e uso do nióbio"
+title: Governo cria programa para estimular a pesquisa e uso do nióbio
 date: 2022-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir de agora, o desenvolvimento da cadeia produtiva do nióbio passa a contar com incentivos federais. Para isso, o Ministério da Ciência, Tecnologia e Inovações (MCTI) criou o Programa InovaNióbio, com foco no uso e aplicações do nióbio em óxidos, metais, ligas em materiais e produtos de alta tecnologia. Com isso, o Governo Federal pretende promover a inovação na indústria brasileira, dinamizar a economia, especializar os mercados e assegurar a autonomia tecnológica do país em setores de alta tecnologia. 
 

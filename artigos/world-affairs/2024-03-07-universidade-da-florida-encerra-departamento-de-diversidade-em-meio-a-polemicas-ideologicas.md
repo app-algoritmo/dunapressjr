@@ -1,11 +1,13 @@
 ---
-title: "Universidade da Flórida encerra Departamento de Diversidade em meio a polêmicas ideológicas"
+title: Universidade da Flórida encerra Departamento de Diversidade em meio a polêmicas
+  ideológicas
 date: 2024-03-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Universidade da Flórida, uma das maiores instituições de ensino superior dos Estados Unidos, com mais de 87 mil alunos, está no centro de uma controvérsia após o governador republicano Ron DeSantis ordenar o encerramento do Departamento de Diversidade da instituição.
 

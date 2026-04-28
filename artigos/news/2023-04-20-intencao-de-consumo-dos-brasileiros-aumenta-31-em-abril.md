@@ -1,11 +1,12 @@
 ---
-title: "Intenção de consumo dos brasileiros aumenta 3,1% em abril"
+title: Intenção de consumo dos brasileiros aumenta 3,1% em abril
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice está em 97,1 pontos, o maior desde março de 2020.
 

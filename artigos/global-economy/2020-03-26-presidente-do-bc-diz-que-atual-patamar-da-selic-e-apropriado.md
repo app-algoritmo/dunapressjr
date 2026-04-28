@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BC diz que atual patamar da Selic é apropriado"
+title: Presidente do BC diz que atual patamar da Selic é apropriado
 date: 2020-03-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Perspectiva não mudou desde a última reunião do Copom, diz Campos Neto
 

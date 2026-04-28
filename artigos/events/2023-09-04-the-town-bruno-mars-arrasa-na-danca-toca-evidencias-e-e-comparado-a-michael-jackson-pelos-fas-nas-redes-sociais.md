@@ -1,12 +1,14 @@
 ---
-title: "The Town: Bruno Mars arrasa na dança, toca 'Evidências' e é comparado a Michael Jackson pelos fãs nas redes sociais"
+title: 'The Town: Bruno Mars arrasa na dança, toca ''Evidências'' e é comparado a
+  Michael Jackson pelos fãs nas redes sociais'
 date: 2023-09-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Features
+- Events
+- Features
 ---
+
 
 ## Internautas elogiaram muito a performance do artista, que também cantou em português durante sua apresentação no festival The Town.
 

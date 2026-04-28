@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,23 com temores sobre juros nos Estados Unidos"
+title: Dólar sobe para R$ 5,23 com temores sobre juros nos Estados Unidos
 date: 2022-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores cai 0,54% e atinge menor nível em uma semana.
 

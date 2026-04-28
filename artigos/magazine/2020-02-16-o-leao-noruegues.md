@@ -1,11 +1,12 @@
 ---
-title: "O leão norueguês"
+title: O leão norueguês
 date: 2020-02-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 No período anterior a 1900, foram feitas críticas na imprensa norueguesa de que os cavaleiros da Ordem Serafim Sueca estavam à frente dos detentores da Grã-Cruz da Ordem de São Olavo. Eles queriam que a Noruega tivesse um sistema de ordem que estivesse em equilíbrio com os dinamarqueses e suecos.
 

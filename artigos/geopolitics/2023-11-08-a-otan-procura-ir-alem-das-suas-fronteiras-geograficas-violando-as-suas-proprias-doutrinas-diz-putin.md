@@ -1,11 +1,13 @@
 ---
-title: "A OTAN procura ir além das suas fronteiras geográficas, violando as suas próprias doutrinas, diz Putin"
+title: A OTAN procura ir além das suas fronteiras geográficas, violando as suas próprias
+  doutrinas, diz Putin
 date: 2023-11-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O presidente russo afirmou que Moscovo e Pequim estavam a moderar a sua resposta às tentativas de Washington de estabelecer blocos militares e políticos na Ásia.
 

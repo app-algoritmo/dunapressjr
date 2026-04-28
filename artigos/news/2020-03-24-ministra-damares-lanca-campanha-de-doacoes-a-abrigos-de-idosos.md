@@ -1,11 +1,12 @@
 ---
-title: "Ministra Damares lança campanha de doações a abrigos de idosos"
+title: Ministra Damares lança campanha de doações a abrigos de idosos
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, na segunda-feira (23), uma campanha de doação de alimentos e materiais de prevenção, como álcool em gel, máscaras e sabão, a abrigos de idosos.
 

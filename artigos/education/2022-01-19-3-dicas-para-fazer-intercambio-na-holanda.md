@@ -1,11 +1,12 @@
 ---
-title: "3 dicas para fazer intercâmbio na Holanda"
+title: 3 dicas para fazer intercâmbio na Holanda
 date: 2022-01-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Se viajar durante poucos dias para conhecer outro país já traz muitos aprendizados, estudar em um lugar diferente pode trazer ainda mais benefícios. Aprender outro idioma, desenvolver o autoconhecimento, conhecer uma nova cultura, fazer amigos e aprimorar o currículo são algumas das vantagens. O intercâmbio pode ser uma fase de muito aprendizado e amadurecimento para quem faz, como garante a estudante de agronomia, Anna Júlia Lütkemeyer. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal combate fraudes contra o INSS"
+title: Polícia Federal combate fraudes contra o INSS
 date: 2023-03-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Esquema criminoso que fraudava benefícios de Pensão por Morte e Salário Maternidade.
 

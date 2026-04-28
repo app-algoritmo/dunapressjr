@@ -1,11 +1,12 @@
 ---
-title: "<strong>Cinco dicas para arrasar na redação do Enem 2022</strong>"
+title: <strong>Cinco dicas para arrasar na redação do Enem 2022</strong>
 date: 2022-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Estudante alcança nota máxima na redação do Enem.” Uma vez ao ano, manchetes como essa pipocam nos mais variados sites de notícias e chamam a atenção de jovens que estão se preparando para fazer o Exame Nacional do Ensino Médio. A tão sonhada nota mil é um passo muito importante para quem quer garantir pontuação para concorrer a vagas nas universidades mais concorridas do país. E alcançar essa nota é possível, basta que o texto cumpra à risca alguns critérios de correção estabelecidos.
 

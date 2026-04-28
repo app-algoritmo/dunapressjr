@@ -1,11 +1,12 @@
 ---
-title: "Congresso garante compensação fiscal a emissoras nas eleições"
+title: Congresso garante compensação fiscal a emissoras nas eleições
 date: 2022-02-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Parlamentares derrubaram o veto do presidente Jair Bolsonaro.
 

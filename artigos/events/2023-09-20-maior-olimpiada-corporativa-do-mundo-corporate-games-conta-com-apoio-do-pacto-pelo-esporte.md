@@ -1,12 +1,14 @@
 ---
-title: "Maior olimpíada corporativa do mundo, Corporate Games conta com apoio do Pacto pelo Esporte"
+title: Maior olimpíada corporativa do mundo, Corporate Games conta com apoio do Pacto
+  pelo Esporte
 date: 2023-09-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Events
-  - Sports
+- Events
+- Sports
 ---
+
 
 ## Evento será em novembro, em São Paulo (SP), com uma combinação única de esportes, bem-estar e networking, para todos os tipos e porte de empresas e seus colaboradores.
 

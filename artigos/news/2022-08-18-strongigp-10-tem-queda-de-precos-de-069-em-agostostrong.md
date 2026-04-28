@@ -1,11 +1,12 @@
 ---
-title: "<strong>IGP-10 tem queda de preços de 0,69% em agosto</strong>"
+title: <strong>IGP-10 tem queda de preços de 0,69% em agosto</strong>
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Tanto os preços do atacado quanto os do varejo tiveram deflação no mês.
 

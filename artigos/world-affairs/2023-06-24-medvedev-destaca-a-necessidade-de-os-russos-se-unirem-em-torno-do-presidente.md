@@ -1,11 +1,12 @@
 ---
-title: "Medvedev destaca a necessidade de os russos se unirem em torno do presidente"
+title: Medvedev destaca a necessidade de os russos se unirem em torno do presidente
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Reunir-se com o presidente e o comandante supremo das forças armadas do país é crucial para derrotar o inimigo externo e interno, disse o vice-presidente do Conselho de Segurança.
 

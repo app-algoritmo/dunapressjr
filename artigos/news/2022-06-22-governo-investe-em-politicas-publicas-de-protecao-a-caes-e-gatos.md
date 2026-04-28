@@ -1,11 +1,12 @@
 ---
-title: "Governo investe em políticas públicas de proteção a cães e gatos"
+title: Governo investe em políticas públicas de proteção a cães e gatos
 date: 2022-06-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil possui cerca de 55 milhões de cães e 24 milhões de gatos, o que corresponde a mais de 56% do total de animais de estimação do país. E esses números tendem a crescer e chegar a 100 milhões de animais até 2030. O problema está no descontrole populacional que pode levar ao abandono, maus-tratos, disseminação de doenças e impactos ao meio ambiente.
 

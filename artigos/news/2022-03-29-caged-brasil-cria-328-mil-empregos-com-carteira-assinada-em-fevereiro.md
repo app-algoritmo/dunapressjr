@@ -1,11 +1,12 @@
 ---
-title: "Caged: Brasil cria 328 mil empregos com carteira assinada em fevereiro"
+title: 'Caged: Brasil cria 328 mil empregos com carteira assinada em fevereiro'
 date: 2022-03-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Trata-se do segundo melhor resultado para o mês desde 2010.
 

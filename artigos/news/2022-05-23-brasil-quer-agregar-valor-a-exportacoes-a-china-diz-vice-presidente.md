@@ -1,11 +1,12 @@
 ---
-title: "Brasil quer agregar valor a exportações à China, diz vice-presidente"
+title: Brasil quer agregar valor a exportações à China, diz vice-presidente
 date: 2022-05-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mourão busca abertura para produtos ligados à soja e petróleo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Luisa Stefani segue nas duplas mistas em Wimbledon"
+title: Luisa Stefani segue nas duplas mistas em Wimbledon
 date: 2024-07-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Paulistana e a holandesa Demi Schuurs foram superadas na primeira rodada, nesta quinta-feira (4), por Nicholis e Mihalikova.
 

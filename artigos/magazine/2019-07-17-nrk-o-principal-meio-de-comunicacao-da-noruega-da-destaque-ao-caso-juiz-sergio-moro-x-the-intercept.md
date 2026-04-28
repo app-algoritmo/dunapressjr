@@ -1,12 +1,14 @@
 ---
-title: "NRK, o principal meio de comunicação da Noruega, dá destaque ao caso Juiz Sergio Moro x The Intercept"
+title: NRK, o principal meio de comunicação da Noruega, dá destaque ao caso Juiz Sergio
+  Moro x The Intercept
 date: 2019-07-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - Policy
+- Magazine
+- Policy
 ---
+
 
 ## Dois presidentes foram derrubados por corrupção - agora ele (Moro) é acusado de abuso de poder
 

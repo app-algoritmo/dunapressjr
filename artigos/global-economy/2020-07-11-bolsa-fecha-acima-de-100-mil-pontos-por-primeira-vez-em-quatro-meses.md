@@ -1,11 +1,12 @@
 ---
-title: "Bolsa fecha acima de 100 mil pontos por primeira vez em quatro meses"
+title: Bolsa fecha acima de 100 mil pontos por primeira vez em quatro meses
 date: 2020-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar oscilou bastante, mas fechou em queda.
 

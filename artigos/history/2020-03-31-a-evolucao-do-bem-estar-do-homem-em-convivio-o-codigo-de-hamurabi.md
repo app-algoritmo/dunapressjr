@@ -1,11 +1,12 @@
 ---
-title: "A Evolução do Bem-Estar do Homem em convívio, O Código de Hamurabi"
+title: A Evolução do Bem-Estar do Homem em convívio, O Código de Hamurabi
 date: 2020-03-31
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 **O caminho até as
 leis**

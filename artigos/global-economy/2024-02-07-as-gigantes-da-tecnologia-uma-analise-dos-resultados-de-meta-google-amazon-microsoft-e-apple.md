@@ -1,11 +1,13 @@
 ---
-title: "As gigantes da tecnologia: uma análise dos resultados de Meta, Google, Amazon, Microsoft e Apple"
+title: 'As gigantes da tecnologia: uma análise dos resultados de Meta, Google, Amazon,
+  Microsoft e Apple'
 date: 2024-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O setor de tecnologia é um dos mais dinâmicos e inovadores da economia mundial, e apenas algumas empresas dominam esse mercado: Meta, Google, Amazon, Microsoft e Apple. Juntas, elas formam o acrônimo GAMAM ou GAMMA, e possuem uma base de usuários na casa dos bilhões e um valor de mercado combinado de quase sete trilhões de dólares, tornando-as as maiores empresas de internet do mundo. Com cada novo produto, serviço e inovação, as Cinco Grandes consolidam sua presença digital e expandem sua influência sobre a economia global. Neste artigo, vamos analisar os resultados financeiros e operacionais dessas empresas no ano de 2023, e discutir os principais desafios e oportunidades que elas enfrentam no cenário atual.
 

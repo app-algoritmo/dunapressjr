@@ -1,11 +1,13 @@
 ---
-title: "Casa Imperial do Brasil emite nota de esclarecimento sobre o poder moderador do Imperador"
+title: Casa Imperial do Brasil emite nota de esclarecimento sobre o poder moderador
+  do Imperador
 date: 2020-08-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Nota de **esclarecimento**: Explicitação sobre o poder moderador.
 

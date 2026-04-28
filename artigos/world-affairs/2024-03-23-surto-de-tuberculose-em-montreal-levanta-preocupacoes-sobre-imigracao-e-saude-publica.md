@@ -1,11 +1,13 @@
 ---
-title: "Surto de Tuberculose em Montreal Levanta Preocupações sobre Imigração e Saúde Pública"
+title: Surto de Tuberculose em Montreal Levanta Preocupações sobre Imigração e Saúde
+  Pública
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Montreal, a maior cidade da província de Quebec, está enfrentando um surto alarmante de tuberculose, uma doença que havia sido erradicada no Canadá. O aumento dos casos coincide com a chegada de uma onda de imigrantes à região, gerando preocupações sobre saúde pública e imigração.
 

@@ -1,11 +1,12 @@
 ---
-title: "Estado-Maior do Exército realiza painel sobre Liderança e Ética"
+title: Estado-Maior do Exército realiza painel sobre Liderança e Ética
 date: 2023-10-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 No dia 10 de outubro, o Estado-Maior do Exército (EME), por meio do Centro de Estudos Estratégicos (CEEEx) promoveu o Painel “Liderança e ética sob uma perspectiva estratégica: lições a partir de conflitos contemporâneos”, no Quartel-General do Exército (QGEx).
 

@@ -1,11 +1,13 @@
 ---
-title: "Polícia Civil do RJ realiza exercício antiterrorismo no Cristo Redentor em preparação para o G20"
+title: Polícia Civil do RJ realiza exercício antiterrorismo no Cristo Redentor em
+  preparação para o G20
 date: 2024-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Nesta segunda-feira (15), a Polícia Civil do Rio de Janeiro conduziu um amplo exercício simulado no emblemático monumento do Cristo Redentor, visando aprimorar os protocolos de segurança em antecipação à reunião de cúpula do G20, agendada para novembro na cidade. Sob a coordenação da Coordenadoria de Recursos Especiais (Core), cerca de 40 policiais participaram da simulação, enfrentando cenários que simulavam uma possível ameaça terrorista.
 

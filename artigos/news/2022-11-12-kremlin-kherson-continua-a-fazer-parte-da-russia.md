@@ -1,11 +1,12 @@
 ---
-title: "Kremlin: Kherson continua a fazer parte da Rússia"
+title: 'Kremlin: Kherson continua a fazer parte da Rússia'
 date: 2022-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## O status legal da região permanece inalterado, diz Dmitry Peskov, enquanto as forças russas se redistribuem através do rio Dnieper.
 

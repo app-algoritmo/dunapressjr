@@ -1,11 +1,12 @@
 ---
-title: "Marinha realiza operação de combate a ilícitos em ilha da Baía de Guanabara"
+title: Marinha realiza operação de combate a ilícitos em ilha da Baía de Guanabara
 date: 2023-12-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Iniciativa faz parte das ações da Força durante a GLO e visa evitar que a região seja utilizada pelo crime organizado para a prática de atividades ilegais.
 

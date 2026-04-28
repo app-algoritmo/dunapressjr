@@ -1,12 +1,13 @@
 ---
-title: "Rocky Mountain Games abre temporada 2024 com recorde de atletas"
+title: Rocky Mountain Games abre temporada 2024 com recorde de atletas
 date: 2024-03-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Cycling
-  - Sports
+- Cycling
+- Sports
 ---
+
 
 ## Maior festival de esportes outdoor e cultura de montanha do Brasil recebeu 1.200 corredores e bikers em Atibaia, aumento de 50% em relação à etapa do ano passado.
 

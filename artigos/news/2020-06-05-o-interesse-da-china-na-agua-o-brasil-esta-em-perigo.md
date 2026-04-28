@@ -1,11 +1,12 @@
 ---
-title: "O interesse da China na água, o Brasil está em perigo?"
+title: O interesse da China na água, o Brasil está em perigo?
 date: 2020-06-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Existe uma predisposição para compartilhar a água, disse o PR da WWC.
 

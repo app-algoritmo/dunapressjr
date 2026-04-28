@@ -1,11 +1,12 @@
 ---
-title: "Aposentar o pano de chão pode ajudar a prevenir doenças"
+title: Aposentar o pano de chão pode ajudar a prevenir doenças
 date: 2021-04-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Uma das ferramentas mais utilizadas para a limpeza doméstica, o pano de chão pode gerar contaminação nos ambientes e ajudar a proliferar doenças quando não usado corretamente. De acordo com o doutor em Ciências Biológicas e coordenador dos cursos de limpeza profissional da Fundação de Asseio e Conservação, Serviços Especializados e Facilities (Facop), Mário Guedes, a má utilização do pano de chão pode trazer riscos à saúde pela contaminação cruzada, que acontece por meio do transporte de micro-organismos de um local para outro. Ou seja, não se trata apenas de praticidade, mas de saúde. O pano utilizado no banheiro, por exemplo, pode carregar vírus, fungos e bactérias para a cozinha, a sala ou o quarto.
 

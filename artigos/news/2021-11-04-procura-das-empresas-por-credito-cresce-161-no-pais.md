@@ -1,11 +1,12 @@
 ---
-title: "Procura das empresas por crédito cresce 16,1% no país"
+title: Procura das empresas por crédito cresce 16,1% no país
 date: 2021-11-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Busca foi maior por parte das micro e pequenas empresas.
 

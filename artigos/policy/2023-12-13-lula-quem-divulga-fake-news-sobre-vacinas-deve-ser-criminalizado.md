@@ -1,11 +1,12 @@
 ---
-title: "Lula: quem divulga fake news sobre vacinas deve ser criminalizado"
+title: 'Lula: quem divulga fake news sobre vacinas deve ser criminalizado'
 date: 2023-12-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Presidente falou em seu programa semanal no Canal Gov.
 

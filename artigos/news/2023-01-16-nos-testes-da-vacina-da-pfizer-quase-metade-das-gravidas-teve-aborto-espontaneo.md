@@ -1,11 +1,12 @@
 ---
-title: "Nos testes da vacina da Pfizer, quase metade das grávidas teve aborto espontâneo"
+title: Nos testes da vacina da Pfizer, quase metade das grávidas teve aborto espontâneo
 date: 2023-01-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Um dado alarmante e pouco divulgado pela mídia tradicional, quase metade das mulheres grávidas nos testes da vacina Pfizer sofreram um aborto espontâneo durante a gestação.
 

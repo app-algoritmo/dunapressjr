@@ -1,11 +1,13 @@
 ---
-title: "A Imagem Distante: Como a Mídia Britânica Molda a Política do Reino Unido em Relação à China"
+title: 'A Imagem Distante: Como a Mídia Britânica Molda a Política do Reino Unido
+  em Relação à China'
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 **Relatório revela cobertura consistentemente negativa da China nos principais meios de comunicação britânicos e suas implicações políticas**.
 

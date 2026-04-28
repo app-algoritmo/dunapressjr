@@ -1,11 +1,13 @@
 ---
-title: "Instrução Normativa altera normas para concessão e extinção de regimes especiais aduaneiros"
+title: Instrução Normativa altera normas para concessão e extinção de regimes especiais
+  aduaneiros
 date: 2020-05-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Alterações foram motivadas pela pandemia causada pelo coronavírus
 Foi publicada na edição desta sexta-feira (08) do Diário Oficial da União a [Instrução Normativa RFB nº 1.947](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=109157), que estabelece, em caráter temporário, procedimentos e prazos para formalização dos pedidos de aplicação e de extinção da aplicação dos regimes aduaneiros especiais e dos aplicados em áreas especiais durante o estado de emergência de saúde pública de importância internacional decorrente da doença pelo coronavírus identificado em 2019 (Covid-19).

@@ -1,11 +1,12 @@
 ---
-title: "O depoimento do QG de Brasília que está emocionando o Brasil"
+title: O depoimento do QG de Brasília que está emocionando o Brasil
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Milhões de brasileiros realizam manifestacões por todo o território brasileiro: Incríveis depoimentos estão surgindo para marcar esse ponto na história do Brasil. Ouça e compartilhe o retato desta patriota.
 

@@ -1,12 +1,14 @@
 ---
-title: "Ministério da Mulher, da Família e dos Direitos Humanos, lança campanha em defesa da criança no carnaval"
+title: Ministério da Mulher, da Família e dos Direitos Humanos, lança campanha em
+  defesa da criança no carnaval
 date: 2020-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, nesta sexta-feira (21), a campanha “Criança protegida, entre nesse bloco”. 
 

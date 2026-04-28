@@ -1,11 +1,12 @@
 ---
-title: "Alesc premia empresas que investem em responsabilidade social"
+title: Alesc premia empresas que investem em responsabilidade social
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Assembleia Legislativa será palco, em cerimônia via online e transmitida ao vivo pela TVAL, na próxima segunda-feira (7), a partir das 19h, da cerimônia de premiação às empresas e organizações ganhadoras do Certificado e do Troféu de Responsabilidade Social – Destaque SC. Nesta edição, 77 organizações conquistaram a certificação e sete empresas e entidades, as que obtiveram as melhores avaliações de seus balanços sociais, receberão o Troféu Destaque.
 

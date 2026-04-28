@@ -1,11 +1,12 @@
 ---
-title: "França acusa Hamas de não permitir a saída de residentes de Gaza"
+title: França acusa Hamas de não permitir a saída de residentes de Gaza
 date: 2023-10-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A França afirma que os residentes de Gaza devem ser autorizados a sair, acusando o grupo terrorista Hamas de os impedir de o fazer, e quer que o bloqueio de Gaza seja aliviado para permitir a ajuda humanitária.
 

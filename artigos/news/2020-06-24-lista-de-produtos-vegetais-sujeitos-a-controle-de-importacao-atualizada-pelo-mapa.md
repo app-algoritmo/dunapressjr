@@ -1,11 +1,13 @@
 ---
-title: "Lista de produtos vegetais sujeitos a controle de importação atualizada pelo Mapa"
+title: Lista de produtos vegetais sujeitos a controle de importação atualizada pelo
+  Mapa
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A revisão é resultado do gerenciamento de risco promovido pelo Departamento de Sanidade Vegetal e Insumos Agrícolas, que busca eficiência e redução dos impactos burocráticos na importação.
 

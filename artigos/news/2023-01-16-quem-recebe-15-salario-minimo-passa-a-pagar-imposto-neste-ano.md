@@ -1,11 +1,12 @@
 ---
-title: "Quem recebe 1,5 salário mínimo passa a pagar imposto neste ano"
+title: Quem recebe 1,5 salário mínimo passa a pagar imposto neste ano
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ano de 2023 será o primeiro em que pessoas que recebem 1,5 salário mínimo mensal terão que pagar Imposto de Renda. Isso é resultado da combinação entre a tabela do IR, sem atualização desde 2015, e [do valor atual para o salário mínimo aprovado pelo Congresso Nacional em dezembro, de R$ 1.320](http://www12.senado.leg.br/noticias/materias/2022/12/22/orcamento-e-aprovado-com-dinheiro-extra-para-programas-sociais-e-infraestrutura). A situação preocupa senadores, que cobram a ampliação da faixa de isenção para que cidadãos de menor renda sejam desonerados.
 

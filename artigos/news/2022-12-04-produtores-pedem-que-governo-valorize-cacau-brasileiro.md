@@ -1,11 +1,12 @@
 ---
-title: "Produtores pedem que governo valorize cacau brasileiro"
+title: Produtores pedem que governo valorize cacau brasileiro
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em debate nesta quinta-feira (1) na Comissão Senado do Futuro (CSF), representantes da Associação Nacional dos Produtores de Cacau (ANPC) afirmaram que essa cadeia produtiva na prática "tem sido boicotada" pelo governo. Eles também pediram apoio do Parlamento para a aprovação de dois projetos de lei que têm o objetivo de beneficiar o setor: o [PL 1.769/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/135966), do senador Zequinha Marinho (PL-PA), e o [PL 4.107/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/137797), do senador Angelo Coronel (PSD-BA).
 

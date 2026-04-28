@@ -1,11 +1,12 @@
 ---
-title: "Lei concede auxílio-aluguel para mulher vítima de violência"
+title: Lei concede auxílio-aluguel para mulher vítima de violência
 date: 2023-09-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Benefício deve ser dado pelo juiz e vale para mulheres afastadas do lar em situação de vulnerabilidade social e econômica.
 

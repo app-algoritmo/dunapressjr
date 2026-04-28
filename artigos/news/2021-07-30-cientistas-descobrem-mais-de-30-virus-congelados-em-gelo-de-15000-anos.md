@@ -1,11 +1,12 @@
 ---
-title: "Cientistas descobrem mais de 30 vírus congelados em gelo de 15.000 anos"
+title: Cientistas descobrem mais de 30 vírus congelados em gelo de 15.000 anos
 date: 2021-07-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Equipe que estuda amostras de gelo do Platô Tibetano encontra 28 marcadores genéticos de vírus não estudados anteriormente pela ciência.
 

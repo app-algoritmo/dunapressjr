@@ -1,11 +1,12 @@
 ---
-title: "IBGE: emprego com carteira assinada na área privada têm alta de 4,4%"
+title: 'IBGE: emprego com carteira assinada na área privada têm alta de 4,4%'
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados da Pnad Contínua se referem ao terceiro trimestre deste ano.
 

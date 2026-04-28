@@ -1,11 +1,12 @@
 ---
-title: "The Great Famine Reset: Você não terá nada e passará fome"
+title: 'The Great Famine Reset: Você não terá nada e passará fome'
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## "Você não terá nada e será feliz". Esta declaração de confronto vem do Fórum Econômico Mundial (WEF), uma organização não-governamental fundada em 1971 por Klaus Schwab.
 

@@ -1,12 +1,13 @@
 ---
-title: "Quem Mandou Você Pensar?"
+title: Quem Mandou Você Pensar?
 date: 2018-05-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Education
+- Books
+- Education
 ---
+
 
 ## Origens do Controle Mental e da Engenharia Social.
 

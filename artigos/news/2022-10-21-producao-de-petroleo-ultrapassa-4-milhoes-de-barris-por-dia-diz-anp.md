@@ -1,11 +1,12 @@
 ---
-title: "Produção de petróleo ultrapassa 4 milhões de barris por dia, diz ANP"
+title: Produção de petróleo ultrapassa 4 milhões de barris por dia, diz ANP
 date: 2022-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### É a segunda vez que o índice é superado.
 

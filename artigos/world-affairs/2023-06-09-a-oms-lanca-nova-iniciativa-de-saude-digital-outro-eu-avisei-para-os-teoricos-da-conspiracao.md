@@ -1,11 +1,13 @@
 ---
-title: "A OMS lança nova “iniciativa de saúde digital” – outro “eu avisei” para os teóricos da conspiração"
+title: A OMS lança nova “iniciativa de saúde digital” – outro “eu avisei” para os
+  teóricos da conspiração
 date: 2023-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na segunda-feira, a Organização Mundial da Saúde e a União Europeia anunciaram o lançamento de sua nova "parceria", que se baseia na rede de certificação digital "extremamente bem-sucedida" da UE lançada durante a "pandemia".
 

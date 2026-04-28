@@ -1,11 +1,13 @@
 ---
-title: "Conheça a importância das proteínas para a construção e reparação tecidual em nosso organismo"
+title: Conheça a importância das proteínas para a construção e reparação tecidual
+  em nosso organismo
 date: 2020-05-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 Por Rodrigo Manzke Rodriguez.
 

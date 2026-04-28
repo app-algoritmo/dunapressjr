@@ -1,11 +1,12 @@
 ---
-title: "Eslovênia: vacinação em massa contra COVID leva a incidentes fatais"
+title: 'Eslovênia: vacinação em massa contra COVID leva a incidentes fatais'
 date: 2023-04-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 [Um estudo](https://www.primescholars.com/articles/forgotten-primum-non-nocere-and-increased-mortality-after--covid19-vaccination.pdf) recente de um grupo da Eslovênia contradiz as afirmações da medicina convencional e das autoridades nacionais de saúde de que a vacinação contra a COVID-19 está associada à redução da mortalidade. Pelo contrário, os cálculos dos autores do estudo mostram que a taxa de mortalidade após a vacinação em massa é maior nos grupos vacinados. No entanto, o post foi publicado na revista Prime Scholars, considerada questionável pelo mainstream.
 

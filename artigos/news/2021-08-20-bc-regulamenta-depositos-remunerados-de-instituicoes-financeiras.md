@@ -1,11 +1,12 @@
 ---
-title: "BC regulamenta depósitos remunerados de instituições financeiras"
+title: BC regulamenta depósitos remunerados de instituições financeiras
 date: 2021-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instrumento pode entrar em vigor no fim de agosto.
 

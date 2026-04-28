@@ -1,11 +1,12 @@
 ---
-title: "Prazo para adesão ao Programa Litígio Zero é prorrogado até 31 de maio"
+title: Prazo para adesão ao Programa Litígio Zero é prorrogado até 31 de maio
 date: 2023-04-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida atende às demandas recebidas por entidades representativas da classe contábil.
 

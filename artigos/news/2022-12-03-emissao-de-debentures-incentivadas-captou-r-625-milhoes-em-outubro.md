@@ -1,11 +1,12 @@
 ---
-title: "Emissão de debêntures incentivadas captou R$ 625 milhões em outubro"
+title: Emissão de debêntures incentivadas captou R$ 625 milhões em outubro
 date: 2022-12-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Volume total distribuído chegou a R$ 201,9 bilhões desde 2012, relacionado a projetos de investimento, especificamente na área de infraestrutura definidos como prioritários.
 

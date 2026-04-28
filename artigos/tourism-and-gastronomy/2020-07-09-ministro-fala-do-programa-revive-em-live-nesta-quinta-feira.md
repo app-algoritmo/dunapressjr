@@ -1,11 +1,12 @@
 ---
-title: "Ministro fala do Programa Revive em live nesta quinta-feira"
+title: Ministro fala do Programa Revive em live nesta quinta-feira
 date: 2020-07-09
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Evento será transmitido pelo Facebook do Ministério do Turismo, a partir das 16h30min.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dieese: outubro tem as mais baixas correções salariais fechadas no ano"
+title: 'Dieese: outubro tem as mais baixas correções salariais fechadas no ano'
 date: 2021-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Maioria dos acordos feitos no mês passado ficou abaixo da inflação.
 

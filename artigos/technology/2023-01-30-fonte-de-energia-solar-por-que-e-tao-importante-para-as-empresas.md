@@ -1,11 +1,12 @@
 ---
-title: "Fonte de Energia solar: por que é tão importante para as empresas?"
+title: 'Fonte de Energia solar: por que é tão importante para as empresas?'
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Technology
+- Technology
 ---
+
 
 O alto consumo de energia das fábricas traz uma preocupação com custos e também com o impacto ao meio ambiente. Com isso, a energia solar tem sido uma alternativa para reduzir substancialmente os gastos com as contas de luz, além de diminuir consideravelmente o impacto ambiental. Segundo a Associação Brasileira de Energia Solar Fotovoltaica (Absolar), esse tipo de fonte evitou a emissão de 27,8 milhões de toneladas de CO2 na geração de eletricidade. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dia Internacional da Mulher: 10 cuidados primordiais para a saúde da mulher"
+title: 'Dia Internacional da Mulher: 10 cuidados primordiais para a saúde da mulher'
 date: 2021-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 **1 – Manter alimentação saudável**
 

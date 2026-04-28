@@ -1,11 +1,12 @@
 ---
-title: "Recuperação do mercado de trabalho no Brasil perde fôlego em 2023"
+title: Recuperação do mercado de trabalho no Brasil perde fôlego em 2023
 date: 2023-08-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de desemprego volta a subir e taxa de participação não se recupera, indicando desafios para a economia brasileira.
 

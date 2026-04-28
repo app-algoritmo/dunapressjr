@@ -1,11 +1,12 @@
 ---
-title: "Taiwan relata um aumento de 18 vezes nas lesões causadas por vacinas"
+title: Taiwan relata um aumento de 18 vezes nas lesões causadas por vacinas
 date: 2023-09-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O pagamento total de NT$ 153 milhões por lesões causadas pela vacina contra a COVID-19 é equivalente aos NT$ 129,6 milhões pagos a todas as vítimas da vacina por todas as vacinas combinadas nas últimas três décadas, talvez indicando um potencial sinal de segurança! E isso representa apenas 45% dos pedidos processados ​​até agora. De acordo com os Centros de Controle e Prevenção de Doenças (CDC) de Taiwan, os especialistas e as autoridades de saúde locais estão completamente sobrecarregados. Em 2023, uma média de 235 casos por mês serão examinados para detecção de lesões vacinais, um aumento de 18 vezes em relação à média de 20 casos por mês em 2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "Mourão condena ataque do Hamas e diz que terrorismo é 'perigo para o mundo'"
+title: Mourão condena ataque do Hamas e diz que terrorismo é 'perigo para o mundo'
 date: 2023-10-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Hamilton Mourão (Republicanos-RS) lamentou, em pronunciamento no Plenário nesta segunda-feira (16), o conflito instalado entre Israel e o grupo Hamas, que controla a Faixa de Gaza. O parlamentar destacou que o grupo, que busca ser reconhecido como a única opção para destruir Israel, junto com outras organizações terroristas, representa um perigo para o mundo.
 

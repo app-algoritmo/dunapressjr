@@ -1,11 +1,12 @@
 ---
-title: "A agenda 2030 com as metas de sustentabilidade"
+title: A agenda 2030 com as metas de sustentabilidade
 date: 2020-12-22
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Noruega | 
 

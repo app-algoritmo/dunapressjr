@@ -1,11 +1,12 @@
 ---
-title: "Inflação nas fábricas sobe para 1,31%, revela pesquisa"
+title: Inflação nas fábricas sobe para 1,31%, revela pesquisa
 date: 2021-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa é maior que a de maio (0,99%) e de junho de 2020 (0,60%).
 

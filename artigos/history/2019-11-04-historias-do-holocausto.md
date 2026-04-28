@@ -1,12 +1,13 @@
 ---
-title: "Histórias do holocausto"
+title: Histórias do holocausto
 date: 2019-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
-  - News
+- History
+- News
 ---
+
 
 O Reencontro! 
 

@@ -1,11 +1,12 @@
 ---
-title: "Cardiologista: Como tirar a proteína spike do corpo após a vacinação"
+title: 'Cardiologista: Como tirar a proteína spike do corpo após a vacinação'
 date: 2023-02-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O que pode ser feito para limitar os danos das vacinas corona? O cardiologista e internista Peter McCullough costuma fazer essa pergunta.
 

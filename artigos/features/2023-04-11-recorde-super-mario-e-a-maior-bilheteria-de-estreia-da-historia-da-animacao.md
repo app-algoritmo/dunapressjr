@@ -1,12 +1,13 @@
 ---
-title: "Recorde! Super Mario é a maior bilheteria de estreia da história da animação"
+title: Recorde! Super Mario é a maior bilheteria de estreia da história da animação
 date: 2023-04-11
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## O filme conseguiu o feito de faturar US$ 377 milhões em apenas cinco dias de exibição.
 

@@ -1,11 +1,12 @@
 ---
-title: "Comércio exterior do agronegócio tem saldo de US$ 9,3 bi em fevereiro"
+title: Comércio exterior do agronegócio tem saldo de US$ 9,3 bi em fevereiro
 date: 2022-03-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Balança comercial registra superávit de US$ 4,0 milhões.
 

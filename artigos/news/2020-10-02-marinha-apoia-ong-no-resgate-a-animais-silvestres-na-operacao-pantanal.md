@@ -1,11 +1,12 @@
 ---
-title: "Marinha apoia ONG no resgate a animais silvestres na Operação Pantanal"
+title: Marinha apoia ONG no resgate a animais silvestres na Operação Pantanal
 date: 2020-10-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As Forças Armadas permanecem no combate a focos de incêndio em Mato Grosso e Mato Grosso do Sul, pela Operação Pantanal. Além desse trabalho, a Marinha, por seus meios militares e de transporte, apoia o Grupo de Resgate de Animais em Desastres (GRAD), no salvamento de animais silvestres da região. Nessa parceria, levam abastecimento de água e de comida, bem como auxílio de saúde para os bichos que sobreviveram ao fogo.
 

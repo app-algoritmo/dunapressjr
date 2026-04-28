@@ -1,11 +1,13 @@
 ---
-title: "Investidos mais R$ 2,6 milhões pela Ebserh no Hospital Universitário de Campina Grande"
+title: Investidos mais R$ 2,6 milhões pela Ebserh no Hospital Universitário de Campina
+  Grande
 date: 2020-05-27
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Investimento possibilitou a criação de 24 leitos para atender pacientes com Covid-19.**
 

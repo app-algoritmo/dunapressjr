@@ -1,11 +1,13 @@
 ---
-title: "Retrocesso em Santa Catarina: Plenário rejeita projeto que proibia corrida de cães"
+title: 'Retrocesso em Santa Catarina: Plenário rejeita projeto que proibia corrida
+  de cães'
 date: 2021-08-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Por maioria de votos, a Assembleia Legislativa de Santa Catarina rejeitou, na sessão desta quarta-feira (25), o Projeto de Lei (PL) 70/2021, de autoria do deputado Marcius Machado (PL), que proibia a realização de corrida de cães no estado. Com a decisão, a proposta será arquivada.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem pequena alta e sobe para R$ 5,33 com piora externa"
+title: Dólar tem pequena alta e sobe para R$ 5,33 com piora externa
 date: 2021-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa caiu e não conseguiu alcançar recorde histórico.
 

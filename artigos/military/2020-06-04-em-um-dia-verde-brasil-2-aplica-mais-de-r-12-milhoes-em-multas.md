@@ -1,11 +1,12 @@
 ---
-title: "Em um dia, Verde Brasil 2 aplica mais de R$ 12 milhões em multas"
+title: Em um dia, Verde Brasil 2 aplica mais de R$ 12 milhões em multas
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Em menos de 24h, a Operação Verde Brasil 2 aplicou R$ 12.357.518,59 em multas por atividades ilegais na área da Amazônia Legal. Na quarta-feira (03), o Comando Conjunto Barão de Melgaço estabeleceu postos de bloqueio e controle de estradas em diversas localidades de Mato Grosso, com o emprego de militares do 66° Batalhão de Infantaria Motorizado e do 47º Batalhão de Infantaria. As ações resultaram na revista de 96 veículos e multas no valor de R$ 8.584.730,00.
 

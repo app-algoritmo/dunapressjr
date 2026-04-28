@@ -1,11 +1,13 @@
 ---
-title: "Grupos de direitos civis pedem ao estado de Nova York que proíba o reconhecimento facial"
+title: Grupos de direitos civis pedem ao estado de Nova York que proíba o reconhecimento
+  facial
 date: 2023-11-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 [Trinta e dois grupos de direitos civis](https://childrenshealthdefense.org/defender/new-york-city-ban-facial-recognition-technology/) , sob a liderança do Surveillance Technology Oversight Project (STOP), apelaram ao estado de Nova Iorque para [proibir o uso governamental de reconhecimento facial](https://www.amnesty.org/en/petition/ban-the-scan-petition/) e outras tecnologias biométricas em edifícios residenciais e acomodações ou instalações [públicas .](https://www.ada.gov/topics/title-iii/)
 

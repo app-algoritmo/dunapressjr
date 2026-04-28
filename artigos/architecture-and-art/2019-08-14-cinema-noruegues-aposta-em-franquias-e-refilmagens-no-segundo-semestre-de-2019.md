@@ -1,11 +1,12 @@
 ---
-title: "Cinema norueguês aposta em franquias e refilmagens no segundo semestre de 2019"
+title: Cinema norueguês aposta em franquias e refilmagens no segundo semestre de 2019
 date: 2019-08-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Para alguns as opções de filmes noruegueses para o segundo semestre do ano säo uma espécie de “mais do mesmo”; já para outros, histórias ansiosamente aguardadas, especialmente pelas crianças, como é o caso da franquia *Kaptein Sabeltann og den magiske diamanten* (Capitão Sabeltann e o diamante mágico), de *Villmarksbarna - en eventyrlig reise* (Crianças do deserto - uma viagem de aventura) baseado em uma famosa série de TV e de *Snekker Andersen og Julenissen: den vesle bygda som glømte at det var jul* (Carpinteiro Andersen e Papai Noel: a pequena aldeia que se esqueceu do Natal).
 

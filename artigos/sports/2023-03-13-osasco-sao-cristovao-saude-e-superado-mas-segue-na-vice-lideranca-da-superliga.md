@@ -1,11 +1,12 @@
 ---
-title: "Osasco São Cristóvão Saúde é superado, mas segue na vice-liderança da Superliga"
+title: Osasco São Cristóvão Saúde é superado, mas segue na vice-liderança da Superliga
 date: 2023-03-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 No duelo dos líderes da Superliga 1XBET, melhor para o primeiro colocado. Na noite deste sábado (11), no ginásio José Liberatti lotado, o Osasco São Cristóvão Saúde jogou de igual para igual, encheu seu torcedor de orgulho, mas acabou superado pelo Dentil Praia Clube, que venceu por 3 sets a 0, com parciais de 25/23, 26/24, 25/23, em 1h46min. Apesar do resultado, a equipe de Fabiana, Tifanny, Natinha, Adenízia e cia. segue na vice-liderança isolada da competição.
 

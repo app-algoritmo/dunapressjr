@@ -1,11 +1,12 @@
 ---
-title: "Poupança tem retirada líquida de R$ 11,01 bi em outubro"
+title: Poupança tem retirada líquida de R$ 11,01 bi em outubro
 date: 2022-11-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em 2022, saques superam depósitos em R$ 102,08 bilhões.
 

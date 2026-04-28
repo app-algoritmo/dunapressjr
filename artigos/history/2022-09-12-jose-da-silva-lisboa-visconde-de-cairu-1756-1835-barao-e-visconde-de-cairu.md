@@ -1,11 +1,12 @@
 ---
-title: "José da Silva Lisboa, Visconde de Cairu (1756-1835) barão e visconde de Cairu"
+title: José da Silva Lisboa, Visconde de Cairu (1756-1835) barão e visconde de Cairu
 date: 2022-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Em 20 de agosto de 1835, falecia no Rio de Janeiro um dos personagens políticos mais importantes de nossa formação como país independente. Nascido em Salvador, no dia 16 de junho de 1756, José da Silva Lisboa merece um lugar de honra no panteão dos heróis nacionais. Foi a Portugal estudar em Coimbra, onde fez Direito Canônico e Filosofia. De volta ao Brasil desempenhou uma série de funções públicas, especialmente com o estabelecimento da sede do império português no Rio de Janeiro e a Independência do Brasil.
 

@@ -1,11 +1,13 @@
 ---
-title: "Governador da Flórida Assina Lei Proibindo Menores de 14 Anos de Terem Contas em Redes Sociais"
+title: Governador da Flórida Assina Lei Proibindo Menores de 14 Anos de Terem Contas
+  em Redes Sociais
 date: 2024-03-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na segunda-feira, o governador republicano da Flórida, Ron DeSantis, promulgou uma lei que proíbe crianças menores de 14 anos de terem contas em redes sociais, em uma tentativa de mitigar os potenciais impactos negativos dessas plataformas na juventude.
 

@@ -1,11 +1,13 @@
 ---
-title: "Grupo Parlamentar de Amizade Brasil/Israel repudia protestos que impediram evento na Unicamp"
+title: Grupo Parlamentar de Amizade Brasil/Israel repudia protestos que impediram
+  evento na Unicamp
 date: 2023-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Grupo Parlamentar de Amizade Brasil/Israel divulgou nota de repúdio aos protestos que provocaram o cancelamento de uma feira de universidades israelenses que seria realizada na Unicamp, em Campinas (SP). O comitê organizador decidiu cancelar a mostra, que ocorreria nesta segunda-feira (3), após a chegada no local de manifestantes favoráveis à questão palestina.
 

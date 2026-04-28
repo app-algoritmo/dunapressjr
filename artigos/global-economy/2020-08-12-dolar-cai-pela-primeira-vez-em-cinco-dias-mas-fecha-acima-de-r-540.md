@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai pela primeira vez em cinco dias, mas fecha acima de R$ 5,40"
+title: Dólar cai pela primeira vez em cinco dias, mas fecha acima de R$ 5,40
 date: 2020-08-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 **Bolsa encerra em queda e volta a ficar abaixo dos 103 mil pontos**.
 

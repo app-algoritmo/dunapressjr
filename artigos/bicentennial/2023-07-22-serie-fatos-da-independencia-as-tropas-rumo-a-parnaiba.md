@@ -1,11 +1,12 @@
 ---
-title: "Série Fatos Da Independência: As tropas rumo a Parnaíba"
+title: 'Série Fatos Da Independência: As tropas rumo a Parnaíba'
 date: 2023-07-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 Em 5 de novembro de 1822, chega a Oeiras a confirmação do apoio de Parnaíba a Dom Pedro. Fidié, que tinha como principal missão assegurar a lealdade do Piauí à Lisboa agiu rapidamente: era necessário sufocar qualquer movimento que colocasse essa lealdade em perigo. O Governador de Armas organizou uma ofensiva e saiu de Oeiras, em 14 de novembro, rumo a Parnaíba, que ficava ao norte da capital. Ao fazer isso, levou grande contingente militar consigo e, certo da lealdade de Oeiras ao rei Dom João VI, não se preocupou em fortificá-la.
 

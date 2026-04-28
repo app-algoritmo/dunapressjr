@@ -1,11 +1,12 @@
 ---
-title: "Presidente do BC: inflação está alta, mas há sinais de estabilização"
+title: 'Presidente do BC: inflação está alta, mas há sinais de estabilização'
 date: 2022-08-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para Campos Neto, inflação no país é reflexo do cenário internacional.
 

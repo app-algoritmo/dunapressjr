@@ -1,11 +1,12 @@
 ---
-title: "Ao menos 9.057 mortos, 52.979 feridas e 6.444 prédios destruídos"
+title: Ao menos 9.057 mortos, 52.979 feridas e 6.444 prédios destruídos
 date: 2023-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Equipes da USAID chegam à base de Incirlik para ajudar nos esforços do terremoto de Türkiye.
 

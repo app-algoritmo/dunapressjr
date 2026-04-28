@@ -1,11 +1,12 @@
 ---
-title: "House Of The Dragon, Nós Iluminamos o Caminho 1x5"
+title: House Of The Dragon, Nós Iluminamos o Caminho 1x5
 date: 2022-09-19
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Definitivamente um episódio sangrento. Temos de perguntar para George R. R Martin por que ele adora destruir festas de casamento. O episódio 1X5 de House of The Dragon foi exatamente como eu imaginei, cheio de sangue, e o fogo, ficou por conta das paixões e ódios não revelados.
 

@@ -1,11 +1,12 @@
 ---
-title: "Marina Silva fala à CPI das ONGs na terça"
+title: Marina Silva fala à CPI das ONGs na terça
 date: 2023-11-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Em reunião na terça-feira (21), às 11h, a CPI das ONGs ouvirá a ministra do Meio Ambiente e Mudança do Clima, Marina Silva, que comparecerá ao colegiado na condição de convidada para falar sobre a atuação de organizações não governamentais e organizações da sociedade civil de interesse público no Norte do país.
 

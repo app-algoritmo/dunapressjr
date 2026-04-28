@@ -1,11 +1,13 @@
 ---
-title: "Produção de cana-de-açúcar no Brasil deve alcançar 652,9 Milhões de toneladas na safra 2023/24, indica CONAB"
+title: Produção de cana-de-açúcar no Brasil deve alcançar 652,9 Milhões de toneladas
+  na safra 2023/24, indica CONAB
 date: 2023-08-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão aponta crescimento de 6,9% na produção em relação à temporada anterior.
 

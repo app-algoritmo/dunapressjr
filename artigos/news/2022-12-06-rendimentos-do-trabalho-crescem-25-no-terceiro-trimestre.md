@@ -1,11 +1,12 @@
 ---
-title: "Rendimentos do trabalho crescem 2,5% no terceiro trimestre"
+title: Rendimentos do trabalho crescem 2,5% no terceiro trimestre
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Aumentos foram menores para mulheres, revela estudo do Ipea.
 

@@ -1,11 +1,12 @@
 ---
-title: "Preço médio da gasolina cai R$ 0,90 no país em três semanas"
+title: Preço médio da gasolina cai R$ 0,90 no país em três semanas
 date: 2022-07-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados fazem parte de levantamento feito pela ANP.
 

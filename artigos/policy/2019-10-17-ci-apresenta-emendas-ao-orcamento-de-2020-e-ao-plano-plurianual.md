@@ -1,11 +1,12 @@
 ---
-title: "CI apresenta emendas ao Orçamento de 2020 e ao Plano Plurianual"
+title: CI apresenta emendas ao Orçamento de 2020 e ao Plano Plurianual
 date: 2019-10-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 A comissão de infraestrutura, presidida pelo senador Marcos Rogério, priorizou investimentos em rodovias
 

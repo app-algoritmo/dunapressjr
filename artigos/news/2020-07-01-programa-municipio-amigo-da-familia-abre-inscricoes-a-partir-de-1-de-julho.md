@@ -1,11 +1,12 @@
 ---
-title: "Programa Município Amigo da Família abre inscrições a partir de 1º de julho"
+title: Programa Município Amigo da Família abre inscrições a partir de 1º de julho
 date: 2020-07-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é incentivar a promoção de ações destinadas à implementação integrada de políticas públicas familiares.
 

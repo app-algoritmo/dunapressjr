@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 4,75 com negociações entre Rússia e Ucrânia"
+title: Dólar cai para R$ 4,75 com negociações entre Rússia e Ucrânia
 date: 2022-03-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Bolsa ultrapassa os 120 mil pontos por primeira vez desde agosto.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha a R$ 5,60 e sobe 2,39% em fevereiro"
+title: Dólar fecha a R$ 5,60 e sobe 2,39% em fevereiro
 date: 2021-02-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai 4,37% no mês e tem pior semana em 11 meses.
 

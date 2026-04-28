@@ -1,11 +1,13 @@
 ---
-title: "Israel sinaliza risco de segurança, com EUA permitindo imagens de satélite em HD de Israel"
+title: Israel sinaliza risco de segurança, com EUA permitindo imagens de satélite
+  em HD de Israel
 date: 2020-07-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Israel teme que o Hezbollah do Líbano e os militantes do Hamas em Gaza possam usar imagens comerciais de satélite para planejar ataques com foguetes em importantes infraestruturas civis e militares.
 

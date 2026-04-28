@@ -1,11 +1,13 @@
 ---
-title: "Mulher de pastor preso por atos de vandalismo em Brasília faz apelo a Bolsonaro; Veja o vídeo"
+title: Mulher de pastor preso por atos de vandalismo em Brasília faz apelo a Bolsonaro;
+  Veja o vídeo
 date: 2022-12-29
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## ‘Cadê você?! É hora de usar sua caneta!’- Disse a mulher.
 

@@ -1,11 +1,12 @@
 ---
-title: "Caixa amplia financiamento do programa Casa Verde Amarela para 35 anos"
+title: Caixa amplia financiamento do programa Casa Verde Amarela para 35 anos
 date: 2022-09-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prazo maior pode diluir valor das parcelas do imóvel ao longo do tempo.
 

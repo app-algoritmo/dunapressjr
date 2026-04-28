@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro zera imposto de medicamento para Atrofia Muscular Espinhal"
+title: Governo Bolsonaro zera imposto de medicamento para Atrofia Muscular Espinhal
 date: 2020-07-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Redução será efetuada por meio da inclusão de destaque tarifário e já consta da Lista de Exceções à Tarifa Externa Comum do Mercosul.
 

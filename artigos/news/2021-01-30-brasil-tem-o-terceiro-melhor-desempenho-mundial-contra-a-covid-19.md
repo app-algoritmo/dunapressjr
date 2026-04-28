@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem o terceiro melhor desempenho mundial contra a covid-19"
+title: Brasil tem o terceiro melhor desempenho mundial contra a covid-19
 date: 2021-01-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Tratamento precoce salva mais de 7.9 milhões de vidas no < [Brasil](https://www.bing.com/covid/local/brazil?form=C19WID) > e São Paulo é o estado com o pior desempenho contra a Covid-19.
 

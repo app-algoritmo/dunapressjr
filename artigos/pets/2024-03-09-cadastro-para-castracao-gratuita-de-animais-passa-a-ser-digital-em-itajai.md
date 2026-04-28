@@ -1,11 +1,12 @@
 ---
-title: "Cadastro para castração gratuita de animais passa a ser digital em Itajaí"
+title: Cadastro para castração gratuita de animais passa a ser digital em Itajaí
 date: 2024-03-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O Instituto Itajaí Sustentável (INIS) realizou melhorias no processo para castração gratuita de animais. A partir de agora, os responsáveis pelos pets deverão realizar o cadastro para a fila única através do sistema Aprova Digital. A medida visa dar mais transparência e agilizar o atendimento do procedimento, que é realizado pelos profissionais da Unidade de Acolhimento Provisório de Animais (UAPA).
 

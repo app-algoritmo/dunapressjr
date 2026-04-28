@@ -1,11 +1,13 @@
 ---
-title: "Forças Armadas do Equador relatam militarização dos portos durante estado de emergência"
+title: Forças Armadas do Equador relatam militarização dos portos durante estado de
+  emergência
 date: 2024-01-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O comandante das Forças Armadas do Equador, almirante Jaime Vela, denunciou a militarização dos portos durante o estado de emergência no âmbito do aumento da violência devido à atividade de grupos narcoterroristas.
 

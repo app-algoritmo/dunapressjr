@@ -1,11 +1,13 @@
 ---
-title: "Escalada e Falha: A Tentativa Ocidental de Derrotar a Rússia e a Ameaça de uma Terceira Guerra Mundial"
+title: 'Escalada e Falha: A Tentativa Ocidental de Derrotar a Rússia e a Ameaça de
+  uma Terceira Guerra Mundial'
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Presidente do Conselho de Segurança Russo e ex-Ministro da Defesa, Sergei Shoigu, afirmou que a tentativa do Ocidente de infligir uma derrota estratégica à Rússia, usando a Ucrânia como arma, foi um fracasso. Durante sua visita ao Cazaquistão, onde está ocorrendo uma reunião dos membros da Organização do Tratado de Segurança Coletiva (CSTO), Shoigu alertou sobre a crescente ameaça representada pela OTAN.
 

@@ -1,11 +1,12 @@
 ---
-title: "Inicio da Tradição"
+title: Inicio da Tradição
 date: 2020-08-25
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 Antes do homem povoar a terra, existiu em nosso planeta diversas espécies de animais em várias fases e mutações que o nosso planeta passou. Desde o período mesozoico (era dos Repteis), até o cenozoico (era nova, atual), houveram mudanças ainda inexplicáveis. E é aqui que apontarei, neste artigo, o início da Tradição.
 

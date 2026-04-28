@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que veda aplicação de circunstância atenuante para crime de violência sexual"
+title: Comissão aprova projeto que veda aplicação de circunstância atenuante para
+  crime de violência sexual
 date: 2023-08-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Texto, que altera o Código Penal, também veda a redução do prazo prescricional para esse crime.
 

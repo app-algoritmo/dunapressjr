@@ -1,11 +1,13 @@
 ---
-title: "Enviado diz que a Alemanha precisa interagir com a Rússia, apesar das diferentes posições sobre a Ucrânia"
+title: Enviado diz que a Alemanha precisa interagir com a Rússia, apesar das diferentes
+  posições sobre a Ucrânia
 date: 2023-12-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O embaixador alemão na Rússia, Alexander Lambsdorff, observou que "a decisão em que circunstâncias as negociações começarão será tomada em Kiev".
 

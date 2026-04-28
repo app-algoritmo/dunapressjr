@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia analisa cálculo de reajuste dos planos de saúde"
+title: Ministério da Economia analisa cálculo de reajuste dos planos de saúde
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Percentual a ser aplicado em 2022 será próximo a 15,8%, prevê Abramge.
 

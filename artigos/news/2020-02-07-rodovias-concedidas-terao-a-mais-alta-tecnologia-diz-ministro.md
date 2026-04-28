@@ -1,11 +1,12 @@
 ---
-title: "Rodovias concedidas terão a mais alta tecnologia, diz ministro"
+title: Rodovias concedidas terão a mais alta tecnologia, diz ministro
 date: 2020-02-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Tarcísio Gomes de Freitas disse que Via Dutra está entre as concessões*
 

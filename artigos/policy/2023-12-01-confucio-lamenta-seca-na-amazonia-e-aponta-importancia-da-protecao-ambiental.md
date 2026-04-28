@@ -1,11 +1,12 @@
 ---
-title: "Confúcio lamenta seca na Amazônia e aponta importância da proteção ambiental"
+title: Confúcio lamenta seca na Amazônia e aponta importância da proteção ambiental
 date: 2023-12-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) chamou a atenção para a forte seca que atinge a região da Amazônia. Em pronunciamento na terça-feira (28), o parlamentar manifestou preocupação com a situação de Rondônia, onde os rios antes caudalosos estão quase secos. Segundo Confúcio, o reservatório de água da cidade de Espigão D'Oeste secou, deixando 30 mil habitantes sem água.
 

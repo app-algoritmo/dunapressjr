@@ -1,11 +1,13 @@
 ---
-title: "Mais 207 cursos técnicos em instituições privadas de ensino superior autorizados pelo MEC"
+title: Mais 207 cursos técnicos em instituições privadas de ensino superior autorizados
+  pelo MEC
 date: 2020-06-23
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Com a novidade, serão criadas mais de 60 mil vagas. Instituições têm até 12 meses para abrir os cursos.
 

@@ -1,12 +1,13 @@
 ---
-title: "BOMBA: Spotify se une a onda de demissões das big techs"
+title: 'BOMBA: Spotify se une a onda de demissões das big techs'
 date: 2023-01-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - World Affairs
+- News
+- World Affairs
 ---
+
 
 ## Gigante da música anunciou nesta segunda-feira que irá demitir cerca de 6% de seus funcionários.
 

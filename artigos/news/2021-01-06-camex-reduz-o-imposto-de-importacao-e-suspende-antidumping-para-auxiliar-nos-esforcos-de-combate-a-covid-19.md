@@ -1,11 +1,13 @@
 ---
-title: "Camex reduz o Imposto de Importação e suspende antidumping para auxiliar nos esforços de combate à Covid-19"
+title: Camex reduz o Imposto de Importação e suspende antidumping para auxiliar nos
+  esforços de combate à Covid-19
 date: 2021-01-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Com a nova redução, sobe para 303 o número de produtos com tarifa zerada até 30 de junho de 2021.
 

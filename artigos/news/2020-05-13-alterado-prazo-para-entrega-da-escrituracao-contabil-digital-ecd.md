@@ -1,11 +1,12 @@
 ---
-title: "Alterado prazo para entrega da Escrituração Contábil Digital (ECD)"
+title: Alterado prazo para entrega da Escrituração Contábil Digital (ECD)
 date: 2020-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pessoas jurídicas têm até o dia 31 de julho para apresentar a ECD
 

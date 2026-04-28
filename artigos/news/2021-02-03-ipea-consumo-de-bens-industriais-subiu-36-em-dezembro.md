@@ -1,11 +1,12 @@
 ---
-title: "Ipea: consumo de bens industriais subiu 3,6% em dezembro"
+title: 'Ipea: consumo de bens industriais subiu 3,6% em dezembro'
 date: 2021-02-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Índice representa a oitava variação positiva seguida.
 

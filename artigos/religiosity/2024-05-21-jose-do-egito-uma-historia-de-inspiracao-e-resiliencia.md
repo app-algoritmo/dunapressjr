@@ -1,11 +1,12 @@
 ---
-title: "José do Egito: Uma História de Inspiração e Resiliência"
+title: 'José do Egito: Uma História de Inspiração e Resiliência'
 date: 2024-05-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 A história de José do Egito, encontrada na Bíblia, é uma narrativa rica em lições de vida, perseverança e fé, que pode servir de inspiração em diversos aspectos da vida contemporânea.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ataque com drones atinge Moscou em rara ofensiva contra a capital russa"
+title: Ataque com drones atinge Moscou em rara ofensiva contra a capital russa
 date: 2023-05-31
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## Autoridades culpam a Ucrânia enquanto investigações estão em andamento para identificar os responsáveis.
 

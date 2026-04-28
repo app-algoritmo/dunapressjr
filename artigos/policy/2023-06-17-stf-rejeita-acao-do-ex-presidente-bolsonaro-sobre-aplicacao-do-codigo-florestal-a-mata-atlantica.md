@@ -1,11 +1,13 @@
 ---
-title: "STF rejeita ação do ex-presidente Bolsonaro sobre aplicação do Código Florestal à Mata Atlântica"
+title: STF rejeita ação do ex-presidente Bolsonaro sobre aplicação do Código Florestal
+  à Mata Atlântica
 date: 2023-06-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## O entendimento da Corte é que a ação direta de inconstitucionalidade não é adequada para discutir o pedido.
 

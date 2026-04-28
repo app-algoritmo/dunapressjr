@@ -1,11 +1,12 @@
 ---
-title: "Produção de cimento pode ser menos agressiva ao ambiente"
+title: Produção de cimento pode ser menos agressiva ao ambiente
 date: 2021-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Engenheiro Civil pela Universidade Federal de Paraíba (UFPB), William Fernandes é mestre em Engenharia Urbana e Ambiental e doutor em Ciência e Engenharia de Materiais pela mesma instituição. Na Universidade de Edimburgo fez seu doutorado-sanduíche, onde se especializou em Química.
 

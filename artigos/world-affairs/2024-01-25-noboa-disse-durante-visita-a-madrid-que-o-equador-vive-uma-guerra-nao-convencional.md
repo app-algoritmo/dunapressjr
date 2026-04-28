@@ -1,11 +1,12 @@
 ---
-title: "Noboa disse durante visita a Madrid que o Equador vive “uma guerra não convencional”"
+title: Noboa disse durante visita a Madrid que o Equador vive “uma guerra não convencional”
 date: 2024-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Equador, Daniel Noboa, disse hoje que o seu país vive “uma guerra não convencional”, ao participar na inauguração da Feira Internacional de Turismo (Fitur) em Madrid, onde recebeu os reis de Espanha, Felipe VI e Letizia, no dia sua primeira viagem ao exterior após declarar o “conflito armado interno” após a escalada da violência.
 

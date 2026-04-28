@@ -1,11 +1,13 @@
 ---
-title: "Entidades criticam falta de apoio a pesquisas clínicas sobre doenças raras no Brasil"
+title: Entidades criticam falta de apoio a pesquisas clínicas sobre doenças raras
+  no Brasil
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Considera-se doença rara aquela que afeta até 65 pessoas a cada 100 mil indivíduos; no País, são 13 milhões de cidadãos.[](#comentario)
 

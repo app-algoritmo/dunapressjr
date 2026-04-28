@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial é de 0,95% em novembro"
+title: Inflação oficial é de 0,95% em novembro
 date: 2021-12-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a maior taxa para um mês de novembro desde 2015 (1,01%).
 

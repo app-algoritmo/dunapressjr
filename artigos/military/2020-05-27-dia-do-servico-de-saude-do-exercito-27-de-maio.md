@@ -1,11 +1,12 @@
 ---
-title: "Dia do Serviço de Saúde do Exército - 27 de maio"
+title: Dia do Serviço de Saúde do Exército - 27 de maio
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 O Exército Brasileiro comemora, em 27 de maio, data do nascimento do General de Brigada Médico João Severiano da Fonseca, primeiro médico a atingir o generalato, o Dia do Serviço de Saúde do Exército.
 

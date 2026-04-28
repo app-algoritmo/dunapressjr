@@ -1,11 +1,12 @@
 ---
-title: "Girão volta a questionar decisões do Judiciário sobre fake news"
+title: Girão volta a questionar decisões do Judiciário sobre fake news
 date: 2023-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Eduardo Girão (Novo-CE) voltou a criticar decisões judiciais que ele considera censura. Em pronunciamento no Plenário nesta terça-feira (27), Girão citou processo movido pela Advocacia-Geral da União (AGU) contra um apresentador da Rádio Jovem Pan News, condenado a pagar uma indenização de R$ 300 mil por danos morais, em função de declarações feitas sobre o ministro da Justiça, Flávio Dino. Segundo o senador, a ação fere a Constituição no que diz respeito às garantias da liberdade de expressão e à proibição da censura.
 

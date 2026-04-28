@@ -1,11 +1,12 @@
 ---
-title: "Academia Militar das Agulhas Negras forma 412 novos oficiais"
+title: Academia Militar das Agulhas Negras forma 412 novos oficiais
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Neste dia 25 de novembro, a [Academia Militar das Agulhas Negras](https://www.aman.eb.mil.br/) realizou Cerimônia do Aspirantado, solenidade que marca a conclusão da formação do oficial da linha de ensino militar bélico. Na solenidade, os cadetes restituíram os Espadins, trajando pela última vez o uniforme histórico da Academia. Em seguida, já uniformizados com a túnica cinza, os Aspirantes receberam de suas madrinhas e padrinhos a espada de oficial.
 

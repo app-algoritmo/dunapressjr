@@ -1,11 +1,12 @@
 ---
-title: "Cinco coisas para fazer em Itajaí/SC durante o verão"
+title: Cinco coisas para fazer em Itajaí/SC durante o verão
 date: 2023-01-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Features
+- Features
 ---
+
 
 O verão é uma das melhores épocas do ano para curtir todas as atrações que Itajaí oferece aos moradores e turistas. Seja na praia ou pelos bairros da cidade, sempre há uma opção para quem quer aproveitar a estação mais quente do ano. Além do clima propício, a cidade conta com praias para todos os gostos, diversas opções passeios pelo centro ou interior, dezenas de praças, museus e paisagens naturais que encantam os turistas e o itajaiense nunca se cansa.
 

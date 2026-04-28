@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva estimativa de inflação para 3,86% este ano"
+title: Mercado financeiro eleva estimativa de inflação para 3,86% este ano
 date: 2019-12-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Informação é do
 Boletim Focus, do Banco Central*

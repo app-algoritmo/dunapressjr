@@ -1,11 +1,12 @@
 ---
-title: "Saiba como aposentado que trabalha pode sacar FGTS"
+title: Saiba como aposentado que trabalha pode sacar FGTS
 date: 2022-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em apenas um caso, é possível retirar dinheiro mensalmente.
 

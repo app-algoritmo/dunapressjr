@@ -1,11 +1,12 @@
 ---
-title: "A educação perdida devido à Covid vai “assustar o mundo por anos”"
+title: A educação perdida devido à Covid vai “assustar o mundo por anos”
 date: 2023-07-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O FMI alerta que o impacto sobre os jovens prejudicará a economia global nas próximas décadas.
 

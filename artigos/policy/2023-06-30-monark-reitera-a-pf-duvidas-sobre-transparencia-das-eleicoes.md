@@ -1,11 +1,12 @@
 ---
-title: "Monark reitera à PF dúvidas sobre transparência das eleições"
+title: Monark reitera à PF dúvidas sobre transparência das eleições
 date: 2023-06-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Influenciador prestou depoimento nesta quinta-feira.
 

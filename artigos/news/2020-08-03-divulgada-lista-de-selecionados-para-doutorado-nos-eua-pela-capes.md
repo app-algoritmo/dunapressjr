@@ -1,11 +1,12 @@
 ---
-title: "Divulgada lista de selecionados para doutorado nos EUA pela Capes"
+title: Divulgada lista de selecionados para doutorado nos EUA pela Capes
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Parceria com a Fulbright concederá bolsas para estudos em 13 universidades norte-americanas.
 

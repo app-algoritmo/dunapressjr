@@ -1,11 +1,12 @@
 ---
-title: "PF investiga desvio de recursos públicos no Vale do Araguaia"
+title: PF investiga desvio de recursos públicos no Vale do Araguaia
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cuiabá/MT - A Polícia Federal, em trabalho conjunto com o Ministério Público Federal (MPF) e a Controladoria-Geral da União (CGU), deflagrou nesta quarta-feira (17/6) a 3ª Fase da Operação Tapiraguaia. A ação visa reprimir associação criminosa voltada à prática de crimes de fraude licitatória, desvio de recursos públicos (peculato) e corrupção ativa/passiva.
 

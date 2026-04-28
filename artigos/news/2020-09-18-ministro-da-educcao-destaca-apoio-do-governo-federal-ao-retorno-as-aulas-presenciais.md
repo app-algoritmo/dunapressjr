@@ -1,11 +1,12 @@
 ---
-title: "Ministro da educção destaca apoio do governo federal ao retorno às aulas presenciais"
+title: Ministro da educção destaca apoio do governo federal ao retorno às aulas presenciais
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em audiência pública do Congresso Nacional, Milton Ribeiro elencou medidas para enfrentar a pandemia de Covid-19. 
 

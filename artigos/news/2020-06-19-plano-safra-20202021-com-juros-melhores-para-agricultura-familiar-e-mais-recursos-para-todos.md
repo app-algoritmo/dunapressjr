@@ -1,11 +1,13 @@
 ---
-title: "Plano Safra 2020/2021 com juros melhores para agricultura familiar e mais recursos para todos"
+title: Plano Safra 2020/2021 com juros melhores para agricultura familiar e mais recursos
+  para todos
 date: 2020-06-19
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As novidades foram debatidas pela ministra Tereza Cristina, os secretários Fernando Schwanke e Eduardo Sampaio e convidados em live nesta quinta-feira. Uma das novidades é lançamento de edital para residência profissional agrícola.
 

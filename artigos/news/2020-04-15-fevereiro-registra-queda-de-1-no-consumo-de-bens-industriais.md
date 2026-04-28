@@ -1,11 +1,12 @@
 ---
-title: "Fevereiro registra queda de 1% no consumo de bens industriais"
+title: Fevereiro registra queda de 1% no consumo de bens industriais
 date: 2020-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Índice foi divulgado hoje pelo Ipea
 

@@ -1,11 +1,13 @@
 ---
-title: "Projeto permite que mulheres prestem serviço militar e institui cota de 30% das vagas para elas"
+title: Projeto permite que mulheres prestem serviço militar e institui cota de 30%
+  das vagas para elas
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Projeto será analisado pelas comissões de Defesa dos Direitos da Mulher; de Relações Exteriores; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania.
 

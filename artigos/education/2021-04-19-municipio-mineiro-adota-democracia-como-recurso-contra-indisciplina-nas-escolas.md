@@ -1,11 +1,12 @@
 ---
-title: "Município mineiro adota democracia como recurso contra indisciplina nas escolas"
+title: Município mineiro adota democracia como recurso contra indisciplina nas escolas
 date: 2021-04-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Nada de professores perdendo a cabeça com a bagunça na sala de aula, seja ela física ou virtual. Na pequena Guaxupé, no sudoeste de Minas Gerais, a indisciplina ficou no passado graças à escuta ativa dos estudantes do Ensino Fundamental. Realizando assembleias, rodas de conversa, votações e outras consultas às crianças, o município tem conseguido melhorar a convivência entre alunos, professores e equipe escolar.
 

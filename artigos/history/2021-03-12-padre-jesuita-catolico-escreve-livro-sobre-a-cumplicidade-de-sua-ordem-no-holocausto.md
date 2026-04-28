@@ -1,11 +1,12 @@
 ---
-title: "Padre jesuíta católico escreve livro sobre a cumplicidade de sua ordem no Holocausto"
+title: Padre jesuíta católico escreve livro sobre a cumplicidade de sua ordem no Holocausto
 date: 2021-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 O livro 'Jesuit Kaddish' do historiador James Bernauer surpreende a ordem católica acadêmica com um estudo inovador do anti-semitismo de seus membros - e homenageia aqueles que salvaram judeus durante a Segunda Guerra Mundial.
 

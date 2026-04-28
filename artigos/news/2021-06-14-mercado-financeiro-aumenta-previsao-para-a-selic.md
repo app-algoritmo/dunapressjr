@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro aumenta previsão para a Selic"
+title: Mercado financeiro aumenta previsão para a Selic
 date: 2021-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Expectativa é que taxa Selic suba para 4,25% ao ano nesta semana.
 

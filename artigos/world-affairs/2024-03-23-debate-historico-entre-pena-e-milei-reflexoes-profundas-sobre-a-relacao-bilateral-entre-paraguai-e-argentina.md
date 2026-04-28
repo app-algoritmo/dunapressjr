@@ -1,11 +1,13 @@
 ---
-title: "Debate Histórico entre Penã e Milei: Reflexões Profundas sobre a Relação Bilateral entre Paraguai e Argentina"
+title: 'Debate Histórico entre Penã e Milei: Reflexões Profundas sobre a Relação Bilateral
+  entre Paraguai e Argentina'
 date: 2024-03-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 No que se tornou um momento emblemático na história das relações entre Paraguai e Argentina, os proeminentes líderes políticos Penã e Milei protagonizaram um debate sem precedentes, mergulhando em questões de importância vital para ambas as nações. O evento, que ocorreu em meio a uma atmosfera carregada de expectativas, proporcionou um fórum único para explorar uma ampla gama de tópicos, desde assuntos econômicos até políticas sociais, que influenciam diretamente a agenda bilateral.
 

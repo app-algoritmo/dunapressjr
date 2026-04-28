@@ -1,11 +1,12 @@
 ---
-title: "PF apreende 130 kg de cocaína em carga de soja"
+title: PF apreende 130 kg de cocaína em carga de soja
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Cruz do Sul/RS - A Polícia Federal apreendeu nesta quarta-feira (3/6) cerca 130 kg de cocaína transportados em um caminhão bi-trem carregado com 36 toneladas de soja. A ação teve o apoio da Polícia Rodoviária Federal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal libera lote residual de restituição do IRPF de abril de 2023"
+title: Receita Federal libera lote residual de restituição do IRPF de abril de 2023
 date: 2023-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Mais de 290 mil contribuintes serão contemplados com um total de R$ 344 milhões em restituições. Saiba como consultar e receber o pagamento.
 

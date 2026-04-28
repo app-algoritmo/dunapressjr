@@ -1,11 +1,13 @@
 ---
-title: "Vacina contra a malária recomendada pela OMS para crianças da África é a primeira que protege humanos de um parasita"
+title: Vacina contra a malária recomendada pela OMS para crianças da África é a primeira
+  que protege humanos de um parasita
 date: 2021-11-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em uma decisão histórica, a Organização Mundial da Saúde (OMS) veio a público, em 6 de outubro de 2021, recomendar a adoção de uma vacina contra a malária para crianças em regiões com alta ocorrência da doença, como a África Subsaariana. O anúncio é resultado de mais de 50 anos de estudos em busca de uma forma de imunização contra a enfermidade que mata, anualmente, 410 mil pessoas, das quais 260 mil crianças com menos de 5 anos. Quase 95% dos óbitos ocorrem na África.
 

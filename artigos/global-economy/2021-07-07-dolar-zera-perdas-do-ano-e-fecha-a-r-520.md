@@ -1,11 +1,12 @@
 ---
-title: "Dólar zera perdas do ano e fecha a R$ 5,20"
+title: Dólar zera perdas do ano e fecha a R$ 5,20
 date: 2021-07-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa cai 1,44% e volta aos 125 mil pontos.
 

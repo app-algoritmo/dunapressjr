@@ -1,11 +1,12 @@
 ---
-title: "Receita atualiza regras de parcelamento para empresas em recuperação judicial"
+title: Receita atualiza regras de parcelamento para empresas em recuperação judicial
 date: 2021-04-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Lei nº 14.112/2020 aumentou de 84 para 120 meses o prazo de parcelamento de débitos tributários sob responsabilidade de empresário ou sociedade em processo de recuperação judicial.
 

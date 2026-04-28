@@ -1,11 +1,13 @@
 ---
-title: "33 anos de história que antecederam a invasão russa da Ucrânia não ensinados nas escolas"
+title: 33 anos de história que antecederam a invasão russa da Ucrânia não ensinados
+  nas escolas
 date: 2023-04-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## 33 anos de história levando à invasão da Ucrânia pela Rússia que você não descobrirá nas escolas dos EUA ou na mídia ocidental.
 

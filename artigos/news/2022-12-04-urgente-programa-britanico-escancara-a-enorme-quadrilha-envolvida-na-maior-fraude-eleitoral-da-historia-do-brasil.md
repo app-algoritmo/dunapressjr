@@ -1,11 +1,13 @@
 ---
-title: "Urgente: Programa britânico escancara a enorme quadrilha envolvida na maior fraude eleitoral da história do Brasil"
+title: 'Urgente: Programa britânico escancara a enorme quadrilha envolvida na maior
+  fraude eleitoral da história do Brasil'
 date: 2022-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Esses acontecimentos tornam o Brasil uma peça chave no mundo para a derrubada de governos tiranos e corruptos.
 

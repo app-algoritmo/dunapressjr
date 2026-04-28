@@ -1,11 +1,12 @@
 ---
-title: "Eletrobras faz aporte de recursos em projetos de sustentabilidade"
+title: Eletrobras faz aporte de recursos em projetos de sustentabilidade
 date: 2023-02-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Obras beneficiarão região de hidrelétricas no Norte e Nordeste.
 

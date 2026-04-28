@@ -1,11 +1,13 @@
 ---
-title: "Revelações Explosivas: Denunciante Acusa CIA de Obstruir Interrogatório de Associado Comercial de Hunter Biden"
+title: 'Revelações Explosivas: Denunciante Acusa CIA de Obstruir Interrogatório de
+  Associado Comercial de Hunter Biden'
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 As recentes revelações de um denunciante lançaram luz sobre a alegada interferência da CIA no interrogatório de um sócio comercial de Hunter Biden, filho do presidente dos EUA, Joe Biden, desencadeando um frenesi de controvérsia e especulação nos corredores do poder em Washington.
 

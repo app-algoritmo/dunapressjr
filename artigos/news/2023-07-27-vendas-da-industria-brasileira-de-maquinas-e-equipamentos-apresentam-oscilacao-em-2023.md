@@ -1,11 +1,13 @@
 ---
-title: "Vendas da indústria brasileira de máquinas e equipamentos apresentam oscilação em 2023"
+title: Vendas da indústria brasileira de máquinas e equipamentos apresentam oscilação
+  em 2023
 date: 2023-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações impulsionam setor, enquanto importações registram crescimento notável. 
 

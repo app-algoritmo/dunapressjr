@@ -1,11 +1,13 @@
 ---
-title: "Grandes bancos centrais anunciam medida coordenada para aumentar liquidez do dólar"
+title: Grandes bancos centrais anunciam medida coordenada para aumentar liquidez do
+  dólar
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Seis dos maiores bancos centrais do mundo anunciaram uma medida coordenada para injetar mais dólares no sistema financeiro global.
 

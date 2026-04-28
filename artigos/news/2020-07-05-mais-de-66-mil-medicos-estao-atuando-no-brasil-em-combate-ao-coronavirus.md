@@ -1,11 +1,12 @@
 ---
-title: "Mais de 6,6 mil médicos estão atuando no Brasil em combate ao coronavírus"
+title: Mais de 6,6 mil médicos estão atuando no Brasil em combate ao coronavírus
 date: 2020-07-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desde o início da situação de emergência causada pela Covid-19 no Brasil, o Ministério da Saúde já contratou 6.622 profissionais médicos para reforçar o atendimento à população nos postos de saúde de 2.127 municípios e 21 Distritos Sanitários Especiais Indígenas (DSEI). Foram lançados, de forma emergencial, quatro editais para provimento médico, no âmbito do programa Mais Médicos, no qual os municípios oferecem as vagas que necessitam e os médicos escolhem onde querem atuar. O edital nº 5/20, para médicos com CRM Brasil, soma 3.803 profissionais atuando em 1.348 municípios e distritos indígenas, alocados neste ano. Capitais e grandes centros voltaram a ser contemplados pelo programa, já que são localidades onde há maior concentração de pessoas e, consequentemente, maior possibilidade de contágio.
 

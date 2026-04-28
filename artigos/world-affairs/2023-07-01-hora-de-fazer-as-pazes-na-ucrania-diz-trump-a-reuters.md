@@ -1,11 +1,12 @@
 ---
-title: "Hora de fazer as pazes na Ucrânia, diz Trump à Reuters"
+title: Hora de fazer as pazes na Ucrânia, diz Trump à Reuters
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O ex-líder dos EUA também acredita que a Ucrânia pode manter o que "ganhou".
 

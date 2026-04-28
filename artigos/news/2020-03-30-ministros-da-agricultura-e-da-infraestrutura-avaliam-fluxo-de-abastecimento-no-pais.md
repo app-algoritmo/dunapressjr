@@ -1,11 +1,13 @@
 ---
-title: "Ministros da Agricultura e da Infraestrutura avaliam fluxo de abastecimento no país"
+title: Ministros da Agricultura e da Infraestrutura avaliam fluxo de abastecimento
+  no país
 date: 2020-03-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento) e o ministro da Infraestrutura, Tarcísio Gomes de Freitas, conversaram nesta sexta-feira (27), por meio de videoconferência, sobre o fluxo de abastecimento do país. Os dois ministros têm atuado em conjunto, com estados e municípios, com o objetivo de garantir o livre acesso a estradas, portos e aeroportos para as cargas essenciais, como são os produtos agropecuários, para o abastecimento da população e do sistema de saúde.
 

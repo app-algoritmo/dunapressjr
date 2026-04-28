@@ -1,11 +1,12 @@
 ---
-title: "Marcos Rogério cobra promessas de campanha do governador de Rondônia"
+title: Marcos Rogério cobra promessas de campanha do governador de Rondônia
 date: 2023-10-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos Rogério (PL-RO) criticou o não cumprimento das promessas de campanha do governador de Rondônia, coronel Marcos Rocha. O senador destacou que a licença de obras para a construção do Hospital de Urgência e Emergência do Estado de Rondônia, conhecido como Heuro, foi cassada. As críticas foram feitas em pronunciamento nesta quarta-feira (18).
 

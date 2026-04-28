@@ -1,11 +1,12 @@
 ---
-title: "Mobilização e Luta Contra a Tuberculose"
+title: Mobilização e Luta Contra a Tuberculose
 date: 2022-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A tuberculose é uma doença infectocontagiosa que afeta principalmente os pulmões, mas também pode acometer órgãos como ossos, rins e meninges (membranas que envolvem o cérebro). A forma pulmonar, além de ser mais frequente, é a principal responsável pela manutenção da cadeia de transmissão da doença.
 

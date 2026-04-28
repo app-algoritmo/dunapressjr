@@ -1,11 +1,13 @@
 ---
-title: "Moto Clubes de Todo o Brasil Convocados para Encontro com Bolsonaro em São Paulo"
+title: Moto Clubes de Todo o Brasil Convocados para Encontro com Bolsonaro em São
+  Paulo
 date: 2024-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 No dia 25 de fevereiro de 2024, São Paulo será o epicentro de uma manifestação política que promete marcar um momento significativo na trajetória política do Brasil. Moto clubes de todas as regiões do país estão sendo convocados para um encontro com o presidente Jair Bolsonaro, que retorna às ruas para promover uma mensagem de resistência contra o que ele chama de "perseguição estatal" e em defesa da liberdade.
 

@@ -1,11 +1,13 @@
 ---
-title: "Díaz-Canel sela na China a mutação do marxismo clássico para o progressismo conveniente"
+title: Díaz-Canel sela na China a mutação do marxismo clássico para o progressismo
+  conveniente
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O ditador não para de homenagear um dos principais promotores da "revolução" cubana.
 

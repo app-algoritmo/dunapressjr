@@ -1,11 +1,13 @@
 ---
-title: "A tendência crescente de cultivo de alimentos em laboratórios e as razões pelas quais isso está acontecendo"
+title: A tendência crescente de cultivo de alimentos em laboratórios e as razões pelas
+  quais isso está acontecendo
 date: 2023-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Ordem Executiva estabelece as bases para alimentos feitos em laboratório.
 

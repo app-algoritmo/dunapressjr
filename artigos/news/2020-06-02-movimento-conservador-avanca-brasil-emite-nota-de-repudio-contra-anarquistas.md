@@ -1,11 +1,12 @@
 ---
-title: "Movimento conservador  Avança Brasil emite nota de repudio contra anarquistas"
+title: Movimento conservador  Avança Brasil emite nota de repudio contra anarquistas
 date: 2020-06-02
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O *Movimento Avança Brasil*, o maior movimento Conservador do país com 2.5 milhões de seguidores, vem oficialmente repudiar qualquer tipo de violência e ataque contra a forças de segurança, contra a democracia Brasileira, contra as famílias e em oposição as manifestações pacíficas e ordeiras, pró-governo realizadas por patriotas vestidos com as cores da nossa bandeira. Infelizmente, o grupo auto-denominado Antifas e Black blocs agiram, na presente data na Avenida Paulista na Cidade de São Paulo de maneira não democrática causando uma atmosfera violenta, desrespeitosa com as pessoas, com os agentes de segurança e com o patrimônio público.
 

@@ -1,11 +1,12 @@
 ---
-title: "'Holocausto Nunca Mais!' Torres do Congresso são iluminadas com a frase"
+title: '''Holocausto Nunca Mais!'' Torres do Congresso são iluminadas com a frase'
 date: 2022-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Além de homenagear as vítimas, a iniciativa lembra também o espírito de resistência dos que conseguiram se rebelar em cidades europeias sob ocupação e em campos de concentração e extermínio.
 

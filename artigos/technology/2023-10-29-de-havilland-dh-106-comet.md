@@ -1,11 +1,12 @@
 ---
-title: "De Havilland DH 106 Comet"
+title: De Havilland DH 106 Comet
 date: 2023-10-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o De Havilland DH 106 Comet.
 

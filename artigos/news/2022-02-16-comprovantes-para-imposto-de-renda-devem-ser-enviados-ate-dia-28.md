@@ -1,11 +1,12 @@
 ---
-title: "Comprovantes para Imposto de Renda devem ser enviados até dia 28"
+title: Comprovantes para Imposto de Renda devem ser enviados até dia 28
 date: 2022-02-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Informes de rendimentos são necessários para preencher declaração.
 

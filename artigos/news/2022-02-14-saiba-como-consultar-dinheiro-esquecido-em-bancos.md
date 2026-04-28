@@ -1,11 +1,12 @@
 ---
-title: "Saiba como consultar dinheiro esquecido em bancos"
+title: Saiba como consultar dinheiro esquecido em bancos
 date: 2022-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Nova plataforma do Banco Central exigirá cadastro no Portal Gov.br.
 

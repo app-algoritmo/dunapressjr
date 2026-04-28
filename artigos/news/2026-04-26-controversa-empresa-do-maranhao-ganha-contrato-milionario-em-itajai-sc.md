@@ -1,11 +1,12 @@
 ---
-title: "Controversa empresa do maranhão ganha contrato milionário em Itajaí - SC"
+title: Controversa empresa do maranhão ganha contrato milionário em Itajaí - SC
 date: 2026-04-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Observatório Social de Itajaí - OSI, denúncia e solicita esclarecimentos relacionados ao PREGÃO n° 008/2020 com Processo Administrativo n° 3520070/2019
 

@@ -1,11 +1,12 @@
 ---
-title: "Como ensinar o valor do dinheiro para o seu filho?￼"
+title: Como ensinar o valor do dinheiro para o seu filho?￼
 date: 2022-05-27
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 Mesmo que muitos pais considerem um assunto de adulto, quanto antes aprender, melhores são os resultados.
 

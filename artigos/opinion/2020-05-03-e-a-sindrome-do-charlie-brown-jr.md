@@ -1,11 +1,12 @@
 ---
-title: "É a sindrome do Charlie Brown Jr"
+title: É a sindrome do Charlie Brown Jr
 date: 2020-05-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 [Por Vinícius Martins](https://www.facebook.com/v.marc12?__tn__=%2CdC-R-R&eid=ARAF5iY0IJ_FQNB48w0Zp2g6F3L2VAW18dbeKQcBowoGmP839vPWqPuJJm-SAp9wxO_tdimyNbiT9A_8&hc_ref=ARSx683tQ3gu3evXYpu84cTeSn1bgiynHLU7If-dtZMM-Lp7gtpiaKUlfSBI6ndTMog&fref=nf)
 Qualquer um que tenha sido um adolescente da pá virada nos idos da década de 90 se lembrará dos seguintes versos de um cancioneiro subversivo: "Hoje eu acordei para sorrir mostrar os dentes, hoje eu acordei para matar o presidente..."

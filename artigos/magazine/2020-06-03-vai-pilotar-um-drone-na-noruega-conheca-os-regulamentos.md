@@ -1,11 +1,12 @@
 ---
-title: "Vai pilotar um  drone na Noruega? conheça os regulamentos"
+title: Vai pilotar um  drone na Noruega? conheça os regulamentos
 date: 2020-06-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 **Neste artigo, coletamos todas as regras relevantes para o uso de drones na Noruega.**
 

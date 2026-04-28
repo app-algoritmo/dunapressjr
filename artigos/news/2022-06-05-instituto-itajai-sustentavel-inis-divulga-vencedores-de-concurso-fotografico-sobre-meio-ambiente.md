@@ -1,11 +1,13 @@
 ---
-title: "Instituto Itajaí Sustentável (INIS) divulga vencedores de concurso fotográfico sobre meio ambiente"
+title: Instituto Itajaí Sustentável (INIS) divulga vencedores de concurso fotográfico
+  sobre meio ambiente
 date: 2022-06-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Concurso Fotográfico Meio Ambiente, promovido pelo Instituto Itajaí Sustentável (INIS), teve seus vencedores anunciados nesta sexta-feira (03). O objetivo da iniciativa era destacar as belezas naturais de Itajaí. A ação faz parte da Semana do Meio Ambiente, que segue com programação até domingo (05).
 

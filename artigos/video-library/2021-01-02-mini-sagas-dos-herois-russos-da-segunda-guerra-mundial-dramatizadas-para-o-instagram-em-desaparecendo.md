@@ -1,11 +1,13 @@
 ---
-title: "Mini-sagas dos heróis russos da segunda guerra mundial dramatizadas para o Instagram em 'Desaparecendo'"
+title: Mini-sagas dos heróis russos da segunda guerra mundial dramatizadas para o
+  Instagram em 'Desaparecendo'
 date: 2021-01-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Video library
+- Video library
 ---
+
 
 Criadores de 'mini-filmes' inspirados no viral israelense 'Eva.Stories', série do Instagram baseada em um garoto de 13 anos no Holocausto; Objetivo do projeto russo de aumentar a conscientização e recursos para idosos.
 

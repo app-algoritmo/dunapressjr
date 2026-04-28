@@ -1,11 +1,12 @@
 ---
-title: "Prática regular de atividade física previne maioria das doenças não transmissíveis"
+title: Prática regular de atividade física previne maioria das doenças não transmissíveis
 date: 2022-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Estimativas da Organização Mundial da Saúde (OMS) indicam que em torno de 71% das 57 milhões de mortes ocorridas globalmente foram ocasionadas pelas DCNT, doenças crônicas não transmissíveis, em 2016. No Brasil, essas doenças são igualmente relevantes, sendo responsáveis, no mesmo ano, por 74% do total de mortes.
 

@@ -1,11 +1,13 @@
 ---
-title: "Chanceler Alemão Expressa Preocupação com Eleições na França e Ascensão do Rally Nacional"
+title: Chanceler Alemão Expressa Preocupação com Eleições na França e Ascensão do
+  Rally Nacional
 date: 2024-06-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O chanceler alemão, Olaf Scholz, expressou neste domingo sua preocupação com o resultado das eleições parlamentares antecipadas na França, onde o partido soberanista Rally Nacional aparece como favorito nas pesquisas, após sua vitória nas eleições europeias no início deste mês.
 

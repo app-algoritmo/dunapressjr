@@ -1,11 +1,13 @@
 ---
-title: "Regeneração Celular Cerebral: Abordagens para Populações Afetadas pela Falta de Saneamento Básico"
+title: 'Regeneração Celular Cerebral: Abordagens para Populações Afetadas pela Falta
+  de Saneamento Básico'
 date: 2024-07-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
+- Health
 ---
+
 
 ### A Questão da Regeneração Celular Cerebral em Populações Afetadas pela Falta de Saneamento Básico
 

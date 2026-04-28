@@ -1,11 +1,12 @@
 ---
-title: "<strong>Consumo nos lares brasileiros cresce 7,75% em julho</strong>"
+title: <strong>Consumo nos lares brasileiros cresce 7,75% em julho</strong>
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No ano, o consumo acumula alta de 2,57%.
 

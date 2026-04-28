@@ -1,11 +1,13 @@
 ---
-title: "Iniciativas de desospitalização garantem mais qualidade de vida para processo de reabilitação de pacientes do SUS"
+title: Iniciativas de desospitalização garantem mais qualidade de vida para processo
+  de reabilitação de pacientes do SUS
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Muitos pacientes que passam por um hospital percorrem um caminho quase obrigatório: exames médicos, cirurgia e internamento para tratamento com medicamentos. Mas experiências sugerem que, com segurança assistencial e olhar focado no paciente, pode existir um atalho até a alta hospitalar. A substituição do leito pelo cuidado domiciliar tem sido uma alternativa implantada por um hospital SUS de Curitiba (PR) para garantir um processo de reabilitação mais humanizado. Retirar o paciente do ambiente hospitalar diminui os riscos de infecção e promove mais qualidade de vida, além de ser uma alternativa de redução dos elevados custos da internação para o Sistema Único de Saúde. Por isso, a desospitalização e a continuidade do tratamento diretamente de casa são recomendadas pela Organização Mundial da Saúde (OMS).
 

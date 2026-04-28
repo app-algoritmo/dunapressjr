@@ -1,11 +1,13 @@
 ---
-title: "Promulgado decreto legislativo com acordo entre Brasil e Angola sobre serviços aéreos"
+title: Promulgado decreto legislativo com acordo entre Brasil e Angola sobre serviços
+  aéreos
 date: 2023-08-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente do Congresso Nacional, senador Rodrigo Pacheco (PSD-MG), promulgou o Decreto Legislativo 78/23, que contém acordo de cooperação sobre serviços aéreos assinado entre Brasil e Angola. O texto foi publicado no Diário Oficial da União desta sexta-feira (18).
 

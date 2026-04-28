@@ -1,11 +1,13 @@
 ---
-title: "Finalizados estudos para a modelagem de concessão de sete Terminais Pesqueiros Públicos"
+title: Finalizados estudos para a modelagem de concessão de sete Terminais Pesqueiros
+  Públicos
 date: 2021-04-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estudos estimam a geração de cerca de 3.200 empregos diretos e indiretos com as concessões.
 

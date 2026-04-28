@@ -1,11 +1,12 @@
 ---
-title: "Tokugawa - o Jogador de Go!"
+title: Tokugawa - o Jogador de Go!
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 A exatos 417 anos atrás, em 24 de março de 1603, Tokugawa Ieyasu, era condecorado pelo 107º imperador do Japão Go-Yozei, recebendo a honraria de *Xogum*, dando início a *era Tokugawa*, um dos períodos mais icônicos do Japão Feudal, onde vários conceitos difundidos na cultura ocidental, como os samurais e o bushido dentre outros, foram solidificados. Mas para compreender-se melhor a importância da condecoração de Tokugawa como Xogum, e os ecos de tal feito, é muito importante conhecer o cenário no qual Ieyasu foi forjado, como uma afiada katana e como surgiu sua lenda.
 

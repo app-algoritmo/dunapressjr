@@ -1,12 +1,13 @@
 ---
-title: "As cortinas de fumaça da república – A previdência hoje"
+title: As cortinas de fumaça da república – A previdência hoje
 date: 2019-02-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - Global Economy
-  - Opinion
+- Global Economy
+- Opinion
 ---
+
 
 Todos, hoje, só falam do mesmo tema, a
 tal previdência.

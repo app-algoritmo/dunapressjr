@@ -1,11 +1,13 @@
 ---
-title: "Professora Marluci Pinheiro informa sobre III Congresso Estadual de Educação no Estado do Rio de Janeiro"
+title: Professora Marluci Pinheiro informa sobre III Congresso Estadual de Educação
+  no Estado do Rio de Janeiro
 date: 2018-10-23
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 A **Professora Marluci Pinheiro**, professora colaboradora na Duna, informa que o prazo para inscrição para a etapa intermunicipal do **III COED - Congresso Estadual de Educação**, termina nesta sexta-feira (26/10).
 

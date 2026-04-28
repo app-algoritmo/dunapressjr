@@ -1,11 +1,12 @@
 ---
-title: "Projeto ABC Cerrado, parceria entre MAPA e Embrapa, planta boas sementes"
+title: Projeto ABC Cerrado, parceria entre MAPA e Embrapa, planta boas sementes
 date: 2020-06-01
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 A experiência do Serviço Nacional de Aprendizagem Rural (Senar) na execução do projeto ABC Cerrado foi apresentada no Congresso Brasileiro de Gestão de Projetos e Liderança, na quinta (28).
 

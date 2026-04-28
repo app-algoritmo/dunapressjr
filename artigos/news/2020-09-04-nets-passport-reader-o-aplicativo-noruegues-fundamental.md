@@ -1,11 +1,12 @@
 ---
-title: "Nets Passport Reader, o aplicativo norueguês fundamental"
+title: Nets Passport Reader, o aplicativo norueguês fundamental
 date: 2020-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # Passaporte MinID - você precisa de uma identificação eletrônica para os serviços digitais da NAV?
 

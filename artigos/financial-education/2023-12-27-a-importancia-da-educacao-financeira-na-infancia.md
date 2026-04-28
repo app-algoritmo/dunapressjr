@@ -1,11 +1,12 @@
 ---
-title: "A Importância da Educação Financeira na Infância"
+title: A Importância da Educação Financeira na Infância
 date: 2023-12-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Financial Education
+- Financial Education
 ---
+
 
 - [Quais são os benefícios de ensinar educação financeira para as crianças desde cedo?](#1)
 

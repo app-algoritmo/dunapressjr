@@ -1,11 +1,12 @@
 ---
-title: "A Rússia poderia iniciar um tribunal internacional contra a Polónia"
+title: A Rússia poderia iniciar um tribunal internacional contra a Polónia
 date: 2023-11-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## O político disse que “a actual Polónia usa os princípios da memória selectiva sem vergonha”.
 

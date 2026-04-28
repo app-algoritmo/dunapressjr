@@ -1,11 +1,13 @@
 ---
-title: "<strong>Nutrição de Precisão: conceito inovador chega ao Brasil e revoluciona alimentação de leitões e suínos</strong>"
+title: '<strong>Nutrição de Precisão: conceito inovador chega ao Brasil e revoluciona
+  alimentação de leitões e suínos</strong>'
 date: 2022-11-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Food
+- Food
 ---
+
 
 Com avanços em vários segmentos, a tecnologia atinge também o agronegócio, provocando mudanças importantes na produção animal. Um dos exemplos é a **Nutrição de Precisão** na suinocultura, que torna mais eficaz a alimentação para suínos. O conceito usa o poder da tecnologia para prescrever dietas, fornecer nutrientes na qualidade e quantidade exatas que o organismo precisa para manter o animal saudável e produtivo.
 

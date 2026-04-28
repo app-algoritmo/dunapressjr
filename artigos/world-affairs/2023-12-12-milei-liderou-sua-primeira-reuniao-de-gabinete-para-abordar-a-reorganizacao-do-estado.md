@@ -1,11 +1,13 @@
 ---
-title: "Milei liderou sua primeira reunião de Gabinete para abordar a “reorganização do Estado”"
+title: Milei liderou sua primeira reunião de Gabinete para abordar a “reorganização
+  do Estado”
 date: 2023-12-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O novo presidente Javier Milei liderou hoje sua primeira reunião com o Gabinete para trabalhar na “reorganização do Estado”, segundo o porta-voz do governo Manuel Adorni.
 

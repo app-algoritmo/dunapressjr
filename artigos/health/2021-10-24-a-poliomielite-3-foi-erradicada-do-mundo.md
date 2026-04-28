@@ -1,11 +1,12 @@
 ---
-title: "A poliomielite 3 foi erradicada do mundo"
+title: A poliomielite 3 foi erradicada do mundo
 date: 2021-10-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No dia 24 de outubro, data que marca o Dia Mundial da Poliomielite.
 

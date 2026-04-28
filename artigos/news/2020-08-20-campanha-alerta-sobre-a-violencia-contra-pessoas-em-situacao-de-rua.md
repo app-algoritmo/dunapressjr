@@ -1,11 +1,12 @@
 ---
-title: "Campanha alerta sobre a violência contra pessoas em situação de rua"
+title: Campanha alerta sobre a violência contra pessoas em situação de rua
 date: 2020-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em resposta à violência cometida contra a população de rua, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) organizou a campanha "E se fosse você na rua?". Realizada por meio da Secretaria Nacional de Proteção Global (SNPG), a campanha, que teve início nesta segunda-feira (17), tem o objetivo de construir um olhar humanizado de toda a sociedade para com esse público e fomentar ações solidárias cotidianas e também em situações emergenciais.
 

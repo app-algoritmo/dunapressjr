@@ -1,11 +1,12 @@
 ---
-title: "Desafios da Economia Chinesa: Meta de Crescimento de 5% para 2024 em Risco"
+title: 'Desafios da Economia Chinesa: Meta de Crescimento de 5% para 2024 em Risco'
 date: 2024-04-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pequim estabeleceu uma meta de crescimento de cerca de 5% para 2024, embora as autoridades já tenham admitido que "não será fácil" alcançá-la. A economia chinesa mostrou um crescimento robusto no primeiro trimestre de 2024, superando as expectativas, mas dados decepcionantes para as famílias e o setor industrial sugerem que o governo enfrentará dificuldades para cumprir as metas anuais.
 

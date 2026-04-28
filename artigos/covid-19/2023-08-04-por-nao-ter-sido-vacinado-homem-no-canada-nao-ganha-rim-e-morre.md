@@ -1,11 +1,12 @@
 ---
-title: "Por não ter sido vacinado, homem no Canadá não ganha rim e morre"
+title: Por não ter sido vacinado, homem no Canadá não ganha rim e morre
 date: 2023-08-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Homem de Ontário morre após ser recusado transplante de rim por não ser vacinadoGarnet Harper, de Sudbury, Ontário, morreu de doença renal depois de ter um transplante negado porque não foi vacinado.
 

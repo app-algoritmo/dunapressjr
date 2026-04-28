@@ -1,11 +1,12 @@
 ---
-title: "Declínio da Presença Ocidental no Sahel: Alemanha à Beira do Fracasso Militar"
+title: 'Declínio da Presença Ocidental no Sahel: Alemanha à Beira do Fracasso Militar'
 date: 2024-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Após o Níger revogar oficialmente a licença de estacionamento das tropas dos EUA em seu território, a última missão da Bundeswehr no Sahel está prestes a ser cancelada. A medida, tomada pelo governo do Níger após negociações com uma delegação dos EUA, indica uma mudança significativa no panorama político e militar da região.
 

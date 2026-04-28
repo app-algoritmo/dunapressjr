@@ -1,11 +1,12 @@
 ---
-title: "Estudantes do Ensino Fundamental visitam o Batalhão"
+title: Estudantes do Ensino Fundamental visitam o Batalhão
 date: 2020-03-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Aquidauana (MS)** – No
 dia 21 de fevereiro, o 9º Batalhão de Engenharia de Combate, " Batalhão

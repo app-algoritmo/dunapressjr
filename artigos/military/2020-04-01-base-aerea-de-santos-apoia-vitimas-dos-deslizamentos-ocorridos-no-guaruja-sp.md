@@ -1,11 +1,12 @@
 ---
-title: "Base Aérea de Santos apoia vítimas dos deslizamentos ocorridos no Guarujá (SP)"
+title: Base Aérea de Santos apoia vítimas dos deslizamentos ocorridos no Guarujá (SP)
 date: 2020-04-01
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Base Aérea de Santos (BAST) apoiou, no início de março, as vítimas dos deslizamentos ocorridos na cidade do Guarujá (SP). Um forte temporal atingiu a região da Baixada Santista. De acordo com a Prefeitura do Guarujá, a precipitação ultrapassou a marca dos 400 mm em pouco mais de 72 horas.
 

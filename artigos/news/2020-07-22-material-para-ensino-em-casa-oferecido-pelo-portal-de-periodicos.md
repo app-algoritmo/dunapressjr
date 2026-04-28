@@ -1,11 +1,12 @@
 ---
-title: "Material para ensino em casa oferecido pelo Portal de Periódicos"
+title: Material para ensino em casa oferecido pelo Portal de Periódicos
 date: 2020-07-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Editora Royal Society Publishing oferece ferramentas de pesquisa para acesso gratuito por professores e famílias de estudantes.
 

@@ -1,12 +1,13 @@
 ---
-title: "18% do jovens estão sem emprego no Brasil"
+title: 18% do jovens estão sem emprego no Brasil
 date: 2023-09-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - News
+- Education
+- News
 ---
+
 
 ## Confira habilidades essenciais para o mercado de trabalho
 

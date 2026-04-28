@@ -1,11 +1,13 @@
 ---
-title: "Como incremento no processo de modernização, Curso de Artilharia da AMAN recebe obuseiros M109 A5"
+title: Como incremento no processo de modernização, Curso de Artilharia da AMAN recebe
+  obuseiros M109 A5
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Resende (RJ) **– No dia 6 de junho, 4 Viaturas Blindadas de Combate Obuseiro Autopropulsado (VBC OAP) M109 A5 foram recebidas pela Academia Militar das Agulhas Negras (AMAN) e farão parte do acervo de Material de Emprego Militar do Curso de Artilharia.
 

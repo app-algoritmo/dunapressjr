@@ -1,11 +1,12 @@
 ---
-title: "Suspensos os eventos de verão da Fundação Municipal de Esporte de Itajaí"
+title: Suspensos os eventos de verão da Fundação Municipal de Esporte de Itajaí
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Fundação Municipal de Esporte e Lazer (FMEL), informa nesta quarta-feira (09) que ficam suspensos por tempo indeterminado os eventos de verão de 2021. A decisão é em virtude da pandemia do novo coronavírus (Covid-19).
 

@@ -1,11 +1,12 @@
 ---
-title: "Novo sistema de pagamentos permitirá saque em lojas, diz Campos Neto"
+title: Novo sistema de pagamentos permitirá saque em lojas, diz Campos Neto
 date: 2020-06-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Pix permite também transferências instantâneas e é gratuito.
 

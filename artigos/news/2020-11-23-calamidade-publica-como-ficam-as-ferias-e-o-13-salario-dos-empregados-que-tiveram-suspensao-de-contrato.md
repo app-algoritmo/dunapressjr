@@ -1,11 +1,13 @@
 ---
-title: "Calamidade pública: como ficam as férias e o 13º salário dos empregados que tiveram suspensão de contrato?"
+title: 'Calamidade pública: como ficam as férias e o 13º salário dos empregados que
+  tiveram suspensão de contrato?'
 date: 2020-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nota Técnica publicada pela Secretaria Especial de Previdência e Trabalho esclarece principais dúvidas dos empregadores quanto às férias e o pagamento do 13º salário dos empregados que fizeram acordo para suspensão do contrato de trabalhado em virtude do estado de calamidade pública.
 

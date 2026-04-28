@@ -1,11 +1,13 @@
 ---
-title: "Rússia anuncia medidas para reequilibrar sistema de segurança após entrada da Finlândia na Otan"
+title: Rússia anuncia medidas para reequilibrar sistema de segurança após entrada
+  da Finlândia na Otan
 date: 2023-04-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Rússia anunciou nesta quarta-feira (05) que tomará medidas para reequilibrar seu sistema de segurança após a adesão da Finlândia à Organização do Tratado do Atlântico Norte (Otan). O porta-voz do Kremlin, Dmitry Peskov, afirmou que a resposta da Rússia não será necessariamente imediata, pois é um processo que requer "certo tempo".
 

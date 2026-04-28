@@ -1,11 +1,13 @@
 ---
-title: "Alemanha financia plano para ajudar sobreviventes do Holocausto em todo o mundo a ter acesso a vacinas"
+title: Alemanha financia plano para ajudar sobreviventes do Holocausto em todo o mundo
+  a ter acesso a vacinas
 date: 2021-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma organização sem fins lucrativos garantiu US $ 13,5 milhões do governo alemão para oferecer a todos os sobreviventes do Holocausto ajuda com a logística de acesso a uma vacina contra o coronavírus.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ibovespa fecha em queda de 0,80% devido ao desempenho das mineradoras e alta dos juros"
+title: Ibovespa fecha em queda de 0,80% devido ao desempenho das mineradoras e alta
+  dos juros
 date: 2023-07-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Performance negativa das ações do setor de mineração e siderurgia, além do aumento das taxas de juros, influenciam o principal índice da Bolsa brasileira.
 

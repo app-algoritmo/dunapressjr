@@ -1,11 +1,12 @@
 ---
-title: "Governo estudará subsídio para o diesel se guerra se prolongar"
+title: Governo estudará subsídio para o diesel se guerra se prolongar
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para ministro, por enquanto, corte de impostos amortecerá preços.
 

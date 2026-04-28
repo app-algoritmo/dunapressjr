@@ -1,11 +1,13 @@
 ---
-title: "PF prende suspeito de participar de diversos assaltos a agências dos Correios no ES"
+title: PF prende suspeito de participar de diversos assaltos a agências dos Correios
+  no ES
 date: 2020-07-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Vila Velha/ES – A Polícia Federal deflagrou nesta sexta-feira, 3/7, após dez meses de investigação, a Operação Aplicativo Francês, com o objetivo de cumprir mandado de prisão, expedido pela Justiça Federal de Vitória, em face de assaltante dos Correios. A operação contou com a participação de dez policiais federais.
 

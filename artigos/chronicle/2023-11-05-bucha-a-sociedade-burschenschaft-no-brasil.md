@@ -1,12 +1,13 @@
 ---
-title: "Bucha: A Sociedade Burschenschaft no Brasil"
+title: 'Bucha: A Sociedade Burschenschaft no Brasil'
 date: 2023-11-05
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 ## Assista ao documentário apresentado pelo pesquisador Kim Paim "[Dossiê: Burschenschaft](https://youtu.be/qVMfIJMQjlw?si=cHE1GswIpaju-2_J) - A Maior Sociedade Secreta do Brasil", que aborda as famílias e os oligopólios nacionais.
 

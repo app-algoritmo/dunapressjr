@@ -1,11 +1,12 @@
 ---
-title: "10 mil máscaras serão produzidas com recursos do MEC pelo Ifes"
+title: 10 mil máscaras serão produzidas com recursos do MEC pelo Ifes
 date: 2020-06-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Pasta repassou R$ 360 mil ao instituto para ações de enfrentamento do novo coronavírus.
 

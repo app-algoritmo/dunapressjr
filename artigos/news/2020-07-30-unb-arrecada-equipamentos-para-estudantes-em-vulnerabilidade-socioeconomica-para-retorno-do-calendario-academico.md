@@ -1,11 +1,13 @@
 ---
-title: "UnB arrecada equipamentos para estudantes em vulnerabilidade socioeconômica para retorno do calendário acadêmico"
+title: UnB arrecada equipamentos para estudantes em vulnerabilidade socioeconômica
+  para retorno do calendário acadêmico
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Campanha já arrecadou 53 aparelhos doados e 450 emprestados, entre notebooks, desktops e tablets.
 

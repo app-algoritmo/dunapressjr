@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,55 em dia de ajustes no mercado"
+title: Dólar cai para R$ 5,55 em dia de ajustes no mercado
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 2,28% e retomou os 108 mil pontos.
 

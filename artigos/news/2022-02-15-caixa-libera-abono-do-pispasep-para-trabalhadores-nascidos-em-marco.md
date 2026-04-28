@@ -1,11 +1,12 @@
 ---
-title: "Caixa libera abono do PIS/Pasep para trabalhadores nascidos em março"
+title: Caixa libera abono do PIS/Pasep para trabalhadores nascidos em março
 date: 2022-02-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Calendário do PIS segue mês de nascimento e vai até fim de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Quem tem Sangue Azul?"
+title: Quem tem Sangue Azul?
 date: 2020-08-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 *“O mal da grandeza é quando ela separa a consciência do poder!”*
 

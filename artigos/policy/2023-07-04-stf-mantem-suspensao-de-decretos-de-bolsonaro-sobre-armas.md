@@ -1,11 +1,12 @@
 ---
-title: "STF mantém suspensão de decretos de Bolsonaro sobre armas"
+title: STF mantém suspensão de decretos de Bolsonaro sobre armas
 date: 2023-07-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Normas não valiam desde setembro e agora foram julgadas em definitivo.
 

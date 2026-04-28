@@ -1,11 +1,13 @@
 ---
-title: "Câmara dos Deputados exibe o documentário Human Life: A Vida Sempre Vale a Pena"
+title: 'Câmara dos Deputados exibe o documentário Human Life: A Vida Sempre Vale a
+  Pena'
 date: 2020-03-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Frente Parlamentar em Defesa da Vida e da Família da Câmara dos Deputados exibeu o documentário Human Life — A Vida Sempre Vale a Pena, de forma inédita no Brasil. Após a exibição do filme, parlamentares e outras autoridades debateram a temática. O evento aconteceu nesta quarta-feira (4), às 15h, no auditório Nereu Ramos.
 

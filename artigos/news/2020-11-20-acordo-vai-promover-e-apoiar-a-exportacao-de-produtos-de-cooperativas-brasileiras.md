@@ -1,11 +1,12 @@
 ---
-title: "Acordo vai promover e apoiar a exportação de produtos de cooperativas brasileiras"
+title: Acordo vai promover e apoiar a exportação de produtos de cooperativas brasileiras
 date: 2020-11-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria para promover o intercâmbio de informações e apoiar as cooperativas brasileiras na exportação de seus produtos. A Agência Brasileira de Promoção de Exportações e Investimentos (APEX-Brasil) e a Organização das Cooperativas Brasileiras (OCB) assinaram, nesta quinta-feira (19), um acordo de cooperação técnica que prevê uma série de ações para ajudar cooperativas de todos os estados brasileiros a entrarem no comércio internacional. Na prática, é uma iniciativa que quer colocar os produtos nacionais nas prateleiras do mercado internacional. Ou seja, levar as nossas cooperativas para além das fronteiras.
 

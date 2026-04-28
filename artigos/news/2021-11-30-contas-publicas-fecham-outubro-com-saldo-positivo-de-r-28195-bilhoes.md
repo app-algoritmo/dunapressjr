@@ -1,11 +1,12 @@
 ---
-title: "Contas públicas fecham outubro com saldo positivo de R$ 28,195 bilhões"
+title: Contas públicas fecham outubro com saldo positivo de R$ 28,195 bilhões
 date: 2021-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Esse foi o maior superávit para o mês desde 2016.
 

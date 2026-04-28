@@ -1,11 +1,12 @@
 ---
-title: "Para enfrentamento da Covid – 19, presidente Jair Bolsonaro libera R$ 20 bilhões"
+title: Para enfrentamento da Covid – 19, presidente Jair Bolsonaro libera R$ 20 bilhões
 date: 2020-06-06
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Valor reforçará o Fundo Garantidor de Crédito em apoio a Pequenas e Médias Empresas
 

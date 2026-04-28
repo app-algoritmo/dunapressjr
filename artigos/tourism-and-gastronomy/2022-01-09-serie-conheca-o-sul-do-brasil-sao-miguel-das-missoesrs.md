@@ -1,11 +1,12 @@
 ---
-title: "Série Conheça o Sul do Brasil: São Miguel das Missões/RS"
+title: 'Série Conheça o Sul do Brasil: São Miguel das Missões/RS'
 date: 2022-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 São Miguel das Missões, no Rio Grande do Sul, tem registros de uma importante história da América do Sul. 
 

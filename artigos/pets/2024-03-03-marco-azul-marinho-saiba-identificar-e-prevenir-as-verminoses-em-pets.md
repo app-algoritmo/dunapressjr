@@ -1,11 +1,12 @@
 ---
-title: "Março azul-marinho: saiba identificar e prevenir as verminoses em pets"
+title: 'Março azul-marinho: saiba identificar e prevenir as verminoses em pets'
 date: 2024-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O mês de março é dedicado à cor azul-marinho e faz um [alerta importante ao combate](https://www.correiobraziliense.com.br/revista-do-correio/2020/11/4885780-parasita-silencioso-verminoses-acometem-com-frequencia-caes-e-gatos.html) às verminoses em animais. Essa doença causada por vermes e parasitas do trato gastrointestinal atinge gatos, cachorros e até animais de criação como bovinos, peixes e porcos.
 

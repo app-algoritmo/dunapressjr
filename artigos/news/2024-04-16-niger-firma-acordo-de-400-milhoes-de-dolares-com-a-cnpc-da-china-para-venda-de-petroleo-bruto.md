@@ -1,11 +1,13 @@
 ---
-title: "Níger firma acordo de 400 milhões de dólares com a CNPC da China para venda de petróleo bruto"
+title: Níger firma acordo de 400 milhões de dólares com a CNPC da China para venda
+  de petróleo bruto
 date: 2024-04-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Na última sexta-feira, o Níger oficializou um memorando de entendimento no valor de 400 milhões de dólares com a China National Petroleum Corp (CNPC), estatal chinesa de petróleo, vinculado à venda de petróleo bruto de seu campo petrolífero de Agadem. A televisão estatal nigeriana RTN reportou a notícia, porém sem fornecer detalhes específicos sobre o acordo. Tanto autoridades militares nigerianas quanto representantes da CNPC não estavam disponíveis para comentar sobre o assunto.
 

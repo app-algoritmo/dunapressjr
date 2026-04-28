@@ -1,11 +1,12 @@
 ---
-title: "The Ocean Race começou neste final de semana na Espanha"
+title: The Ocean Race começou neste final de semana na Espanha
 date: 2023-01-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 A maior regata transoceânica do mundo inicia as atividades da edição 2023 neste final de semana em Alicante, na Espanha. A The Ocean Race, antiga Volvo Ocean Race, parte da cidade espanhola no dia 15 de janeiro e os competidores chegarão em Itajaí no início de abril. O município catarinense vai receber alguns dos melhores velejadores do planeta pela quarta vez consecutiva, desta vez após a perna mais longa da história da competição.
 

@@ -1,11 +1,12 @@
 ---
-title: "Você sabe qual o papel de um protetor de animais?"
+title: Você sabe qual o papel de um protetor de animais?
 date: 2024-06-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Segundo a Organização Mundial da Saúde, existem mais de 30 milhões de animais abandonados no Brasil, vagando pelas ruas das cidades, sozinhos, desprotegidos, com fome, sujeitos a atropelamentos, agressões, doenças e envenenamento.
 

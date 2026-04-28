@@ -1,11 +1,12 @@
 ---
-title: "Que tal estudar na Hungria?"
+title: Que tal estudar na Hungria?
 date: 2020-03-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Governo húngaro em acordo com o governo Brasileiro vai conceder 750 bolsas de ensino para brasileiros até 2022
 

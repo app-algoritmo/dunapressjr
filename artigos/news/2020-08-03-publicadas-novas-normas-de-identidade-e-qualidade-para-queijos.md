@@ -1,11 +1,12 @@
 ---
-title: "Publicadas novas normas de identidade e qualidade para queijos"
+title: Publicadas novas normas de identidade e qualidade para queijos
 date: 2020-08-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## As mudanças agilizam o registro desses produtos, bem como aprimoram as regras de fabricação e fiscalização.
 

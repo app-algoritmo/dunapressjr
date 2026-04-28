@@ -1,11 +1,13 @@
 ---
-title: "Pena de Morte: Dar ao estado o poder punitivo de retirar a vida física é um caminho diante de crimes tão monstruosos?"
+title: 'Pena de Morte: Dar ao estado o poder punitivo de retirar a vida física é um
+  caminho diante de crimes tão monstruosos?'
 date: 2019-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Não tenham piedade dele. Eliminem de Israel a culpa pelo derramamento de sangue inocente, para que tudo vá bem com vocês. 
 

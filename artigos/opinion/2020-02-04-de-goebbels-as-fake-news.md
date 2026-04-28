@@ -1,11 +1,12 @@
 ---
-title: "De Goebbels as Fake News!"
+title: De Goebbels as Fake News!
 date: 2020-02-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Recentemente um dos assuntos mais noticiado na grande mídia, foi o polêmico discurso do até então Secretário Nacional da Cultura, Roberto Alvin, em decorrência de seu pronunciamento realizado no dia 17 de janeiro deste ano. O discurso do secretário fomenta a valorização da arte nacional, enfatizando o sentimento de patriotismo, e frisando que a arte deve ser “heróica”, “imperativa”, “ou não será nada”. Todavia, a grande mídia deixou em segundo plano o sentimento de patriotismo que era a cerne do discurso do secretário, para dar ênfase na infeliz coincidência entre as palavras que foram empregadas, que batem com palavras utilizadas pelo ministro da propaganda da Alemanha nazista, Joseph Goebbels em um dos seus discursos.
 

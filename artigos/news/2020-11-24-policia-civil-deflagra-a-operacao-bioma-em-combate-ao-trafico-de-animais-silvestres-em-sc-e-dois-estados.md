@@ -1,11 +1,13 @@
 ---
-title: "Polícia Civil deflagra a Operação “Bioma” em combate ao tráfico de animais silvestres em SC e dois Estados"
+title: Polícia Civil deflagra a Operação “Bioma” em combate ao tráfico de animais
+  silvestres em SC e dois Estados
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Polícia Civil de Santa Catarina deflagrou a Operação “Bioma” na manhã desta segunda-feira, 23, para combater crimes contra a fauna. A ação é da Delegacia de Repressão a Crimes Ambientais (DRCA) da Diretoria Estadual de Investigações Criminais (DEIC).
 

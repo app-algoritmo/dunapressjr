@@ -1,11 +1,13 @@
 ---
-title: "O Debate Sobre as Vacinas Contra a COVID-19 e as revelações do Professor Angus Dalgleish"
+title: O Debate Sobre as Vacinas Contra a COVID-19 e as revelações do Professor Angus
+  Dalgleish
 date: 2023-09-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A pandemia de COVID-19 tem sido um dos eventos mais desafiadores da história recente da humanidade. Desde o início da disseminação do vírus, cientistas e pesquisadores em todo o mundo têm trabalhado incansavelmente para desenvolver vacinas que possam ajudar a conter a propagação da doença. Recentemente, o professor de Oncologia renomado, Angus Dalgleish, expressou preocupações sobre essas vacinas e sua possível ligação com o câncer.
 

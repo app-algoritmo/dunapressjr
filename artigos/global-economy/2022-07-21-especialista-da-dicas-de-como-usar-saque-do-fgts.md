@@ -1,11 +1,12 @@
 ---
-title: "Especialista dá dicas de como usar saque do FGTS"
+title: Especialista dá dicas de como usar saque do FGTS
 date: 2022-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Mais de 42 milhões de trabalhadores com direito ao saque extraordinário de até R$ 1 mil do Fundo de Garantia de Tempo de Serviço (FGTS) começam a receber a partir desta quarta-feira (20). De acordo com a Caixa Econômica Federal, a medida pode injetar R$ 30 bilhões na economia. O valor liberado vai depender do saldo que cada pessoa possui, considerando a soma disponível de todas as contas. O pagamento será feito conforme o mês de nascimento e segue até 15 de junho. Os primeiros a receber são os nascidos em janeiro. Quem nasceu em fevereiro vai poder sacar o dinheiro em 30 de abril. 
 

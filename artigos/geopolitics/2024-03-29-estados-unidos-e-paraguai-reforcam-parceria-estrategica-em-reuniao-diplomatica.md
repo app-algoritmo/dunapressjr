@@ -1,11 +1,12 @@
 ---
-title: "Estados Unidos e Paraguai Reforçam Parceria Estratégica em Reunião Diplomática"
+title: Estados Unidos e Paraguai Reforçam Parceria Estratégica em Reunião Diplomática
 date: 2024-03-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Subsecretário de Estado dos Estados Unidos, Kurt Campbell, e o Ministro das Relações Exteriores do Paraguai, Rubén Ramírez Lezcano, reiteraram o compromisso firme entre seus países durante uma reunião realizada nesta terça-feira em Washington, DC.
 

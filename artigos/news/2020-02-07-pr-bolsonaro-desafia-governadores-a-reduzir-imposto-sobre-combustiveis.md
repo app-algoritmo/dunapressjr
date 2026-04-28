@@ -1,11 +1,12 @@
 ---
-title: "PR Bolsonaro desafia governadores a reduzir imposto sobre combustíveis"
+title: PR Bolsonaro desafia governadores a reduzir imposto sobre combustíveis
 date: 2020-02-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O presidente Bolsonaro comentou a taxação de combustíveis na 4ª feira (5.fev.2020) e desafiou os governadores: “Eu zero o imposto federal hoje se eles zerarem o ICMS”.  A sigla se refere ao Imposto sobre Circulação de Mercadorias e Serviços.
 

@@ -1,11 +1,13 @@
 ---
-title: "Os manifestantes do Orgulho de Nova York gritam assustadoramente nas ruas: “Estamos indo atrás de seus filhos!'"
+title: 'Os manifestantes do Orgulho de Nova York gritam assustadoramente nas ruas:
+  “Estamos indo atrás de seus filhos!'''
 date: 2023-06-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A anual "Drag March" deste ano pelas ruas da cidade de Nova York em comemoração ao Orgulho LGBT apresentou pedófilos abertamente, cuidando de crianças, [gritando a plenos pulmões](https://www.breitbart.com/social-justice/2023/06/25/watch-were-coming-your-children-nyc-drag-marchers-chant-ominous-message-pride-event/) : "Estamos indo atrás de seus filhos! "
 

@@ -1,11 +1,13 @@
 ---
-title: "27 de janeiro de 2020 - 75 anos do fim de Auschwitz. Algo que nunca deve ser esquecido"
+title: 27 de janeiro de 2020 - 75 anos do fim de Auschwitz. Algo que nunca deve ser
+  esquecido
 date: 2020-01-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O campo de concentração de Auschwitz, foi o projeto mais horrendo e ardiloso feito pelos nazistas, para destruição em massa do povo judeu e qualquer um que se demostrasse opositor aos ideais do Nazismo.
 

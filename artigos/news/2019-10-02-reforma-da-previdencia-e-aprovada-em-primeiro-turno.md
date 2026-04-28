@@ -1,11 +1,12 @@
 ---
-title: "Reforma da Previdência é aprovada em primeiro turno"
+title: Reforma da Previdência é aprovada em primeiro turno
 date: 2019-10-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Também foram apreciados quatro destaques: dois rejeitados, outro retirado e outro aprovado. O presidente do Senado, Davi Alcolumbre, marcou para as 11h desta quarta a votação dos demais destaques
 

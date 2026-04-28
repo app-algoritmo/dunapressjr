@@ -1,11 +1,12 @@
 ---
-title: "Caixa antecipa pagamento da segunda parcela de auxílio emergencial"
+title: Caixa antecipa pagamento da segunda parcela de auxílio emergencial
 date: 2020-04-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Informais e inscritos no CadÚnico começam a receber na quinta-feira (23)
 

@@ -1,11 +1,13 @@
 ---
-title: "Escola Básica Maria José Hulse Peixoto é hexacampeã dos Jogos Escolares da Rede Municipal"
+title: Escola Básica Maria José Hulse Peixoto é hexacampeã dos Jogos Escolares da
+  Rede Municipal
 date: 2022-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A cerimônia de encerramento e premiação da 30ª edição dos Jogos Escolares da Rede Municipal de Ensino de Itajaí (Jorme) foi realizada na manhã desta sexta-feira (02), no Ginásio de Esportes Jucílio de Castro Fernandes, no bairro Cordeiros. Representantes das 35 unidades de ensino participaram do evento, que contou ainda com a presença do paratleta olímpico Flávio Reitz. A campeã dos Jorme deste ano foi a Escola Básica Professora Maria José Hulse Peixoto, da Murta, que conquistou o hexacampeonato.
 

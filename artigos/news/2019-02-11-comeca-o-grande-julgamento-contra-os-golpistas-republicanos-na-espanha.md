@@ -1,11 +1,12 @@
 ---
-title: "Começa o grande julgamento contra os golpistas republicanos na Espanha"
+title: Começa o grande julgamento contra os golpistas republicanos na Espanha
 date: 2019-02-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## A Suprema Corte espanhola julga doze políticos e líderes sociais catalães, protagonistas do frustrado golpe de independência na Catalunha.
 

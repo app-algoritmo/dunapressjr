@@ -1,11 +1,12 @@
 ---
-title: "IBGE: vendas no comércio têm redução de 1,3% em setembro"
+title: 'IBGE: vendas no comércio têm redução de 1,3% em setembro'
 date: 2021-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento acumulado no ano é de 3,8%.
 

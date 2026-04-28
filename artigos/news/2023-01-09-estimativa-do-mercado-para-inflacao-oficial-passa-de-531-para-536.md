@@ -1,11 +1,12 @@
 ---
-title: "Estimativa do mercado para inflação oficial passa de 5,31% para 5,36%"
+title: Estimativa do mercado para inflação oficial passa de 5,31% para 5,36%
 date: 2023-01-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Boletim Focus é divulgado semanalmente pelo Banco Central.
 

@@ -1,11 +1,13 @@
 ---
-title: "Pagamento parcelado de IPVA de veículos com placas final 0 vence no dia 10 de dezembro"
+title: Pagamento parcelado de IPVA de veículos com placas final 0 vence no dia 10
+  de dezembro
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Proprietários de veículos com placas que terminam em 0, que optaram por pagar o IPVA em três vezes sem juros, devem quitar a última parcela até a próxima quinta-feira, 10 de dezembro.
 

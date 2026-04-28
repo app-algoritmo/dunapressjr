@@ -1,12 +1,14 @@
 ---
-title: "O Plano Obscuro da OMS: Brasil como Laboratório para o Controle Global da Saúde"
+title: 'O Plano Obscuro da OMS: Brasil como Laboratório para o Controle Global da
+  Saúde'
 date: 2024-02-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Health
-  - Policy
+- Health
+- Policy
 ---
+
 
 O Brasil foi palco de um encontro de grande relevância internacional nesta segunda-feira, 5 de fevereiro, quando o número 1 da Organização Mundial da Saúde (OMS) desembarcou no país para discutir planos de saúde com o ex-presidente Lula e Nísia Trindade, presidente da Fundação Oswaldo Cruz (Fiocruz). Enquanto oficialmente o foco estava em eliminar doenças como tuberculose, malária e Aids, os bastidores revelam uma trama sinistra: o chamado "tratado pandêmico", um instrumento que poderia dar à OMS poderes extraordinários sobre a saúde global, em detrimento da autonomia dos Estados e dos direitos individuais dos cidadãos.
 

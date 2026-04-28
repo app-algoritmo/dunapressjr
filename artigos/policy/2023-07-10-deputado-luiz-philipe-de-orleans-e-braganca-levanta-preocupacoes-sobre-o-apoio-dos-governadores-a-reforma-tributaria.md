@@ -1,11 +1,13 @@
 ---
-title: "Deputado Luiz Philipe de Orleans e Bragança levanta preocupações sobre o apoio dos governadores à reforma tributária"
+title: Deputado Luiz Philipe de Orleans e Bragança levanta preocupações sobre o apoio
+  dos governadores à reforma tributária
 date: 2023-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Surgem questionamentos em relação à centralização da arrecadação de impostos e à transparência.
 

@@ -1,11 +1,13 @@
 ---
-title: "Comunidades indígenas recebem apoio do governo federal, para produção de alimentos e criação de animais"
+title: Comunidades indígenas recebem apoio do governo federal, para produção de alimentos
+  e criação de animais
 date: 2020-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Funai já investiu mais de R$ 10 milhões para garantir a sustentabilidade alimentar e econômica das aldeias após redução da incidência da Covid-19 no país. A Funai já realizou a distribuição de 423 mil cestas básicas, o equivalente a 9,2 mil toneladas de alimentos por todo o país.
 

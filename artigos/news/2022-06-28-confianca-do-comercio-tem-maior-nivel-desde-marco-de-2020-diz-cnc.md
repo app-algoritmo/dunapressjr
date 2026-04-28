@@ -1,11 +1,12 @@
 ---
-title: "Confiança do comércio tem maior nível desde março de 2020, diz CNC"
+title: Confiança do comércio tem maior nível desde março de 2020, diz CNC
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice subiu 5,1% de maio para junho deste ano e atingiu 122,4 pontos.
 

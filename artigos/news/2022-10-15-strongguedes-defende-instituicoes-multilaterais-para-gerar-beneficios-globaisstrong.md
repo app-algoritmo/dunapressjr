@@ -1,11 +1,12 @@
 ---
-title: "<strong>Guedes defende instituições multilaterais para gerar benefícios globais</strong>"
+title: <strong>Guedes defende instituições multilaterais para gerar benefícios globais</strong>
 date: 2022-10-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ministro fez pronunciamento nesta sexta (14) na plenária do FMI no encerramento das Reuniões Anuais do Fundo Monetário Internacional e dos Conselhos de Governadores do Grupo Banco Mundial, em Washington
 

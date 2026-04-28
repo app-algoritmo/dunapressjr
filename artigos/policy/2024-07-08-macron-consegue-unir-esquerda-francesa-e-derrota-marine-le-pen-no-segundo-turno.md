@@ -1,11 +1,12 @@
 ---
-title: "Macron Consegue Unir Esquerda Francesa e Derrota Marine Le Pen no Segundo Turno"
+title: Macron Consegue Unir Esquerda Francesa e Derrota Marine Le Pen no Segundo Turno
 date: 2024-07-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 No segundo turno das eleições francesas, realizado ontem, Emmanuel Macron emergiu como vencedor, derrotando a candidata Marine Le Pen. O resultado marcou uma virada significativa na política francesa, com Macron conseguindo um feito considerado impossível por muitos analistas políticos. Ele uniu uma ampla coalizão que abrange desde os comunistas até a extrema esquerda, passando pelo centro-esquerda.
 

@@ -1,12 +1,13 @@
 ---
-title: "E se todo professor de creche falasse?"
+title: E se todo professor de creche falasse?
 date: 2023-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Chronicle
-  - News
+- Chronicle
+- News
 ---
+
 
 Quando recebemos uma criança com a fralda da noite ou com a mesma roupa do dia anterior, detalhe, roupa suja..
 

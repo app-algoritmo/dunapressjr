@@ -1,12 +1,13 @@
 ---
-title: "Osasco São Cristóvão Saúde derruba o Gerdau Minas na primeira partida de 2024"
+title: Osasco São Cristóvão Saúde derruba o Gerdau Minas na primeira partida de 2024
 date: 2024-01-07
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Equipe comandada pelo técnico Luizomar mostrou garra e foco para conquistar a vitória por 3 sets a 1, no retorno da Superliga após a pausa para as festas de final de ano.
 

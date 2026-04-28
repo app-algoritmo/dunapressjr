@@ -1,11 +1,13 @@
 ---
-title: "Site mobiliza defensores da vida e CPI do Aborto será instalada na Assembleia Legislativa"
+title: Site mobiliza defensores da vida e CPI do Aborto será instalada na Assembleia
+  Legislativa
 date: 2022-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Cerca de 45 mil assinaturas foram registradas em um período de 15 horas entre o final da tarde de domingo e a manhã desta segunda-feira no site [https://cpidoaborto.com.br](https://cpidoaborto.com.br)
 

@@ -1,11 +1,13 @@
 ---
-title: "Escola de negócios da Noruega oferece cursos on-line gratuitos para demitidos e desempregados"
+title: Escola de negócios da Noruega oferece cursos on-line gratuitos para demitidos
+  e desempregados
 date: 2020-07-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A escola de negócios da Noruega ([BI](https://www.bi.no/om-bi/)), está oferecendo cursos de alta relevância em gerenciamento de projetos, digitalização e estratégia. Os cursos pertencem à nova oferta de cursos on-line rápidos - para quem deseja manter-se atualizado sobre as áreas relevantes voltadas para o futuro. Os cursos têm duração de 3 a 4 semanas e não há requisitos de admissão.
 

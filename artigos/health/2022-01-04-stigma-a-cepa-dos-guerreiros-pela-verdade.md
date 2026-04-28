@@ -1,11 +1,12 @@
 ---
-title: "STIGMA – A cepa dos guerreiros pela verdade"
+title: STIGMA – A cepa dos guerreiros pela verdade
 date: 2022-01-04
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **Se você já foi discriminado com respeito à obrigatoriedade de droga experimental, então você é portador da variante estigma!**
 

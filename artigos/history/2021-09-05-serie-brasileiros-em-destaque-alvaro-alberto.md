@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Álvaro Alberto"
+title: 'Série Brasileiros em Destaque: Álvaro Alberto'
 date: 2021-09-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Físico Nuclear.
 

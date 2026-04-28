@@ -1,11 +1,12 @@
 ---
-title: "Caixa reduz juros do crédito habitacional na modalidade poupança"
+title: Caixa reduz juros do crédito habitacional na modalidade poupança
 date: 2021-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Banco reduziu parte fixa da parcela de 3,35% para 2,95% ao ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Funcionamento dos cemitérios e orientações para o feriado de Finados em Itajaí/SC"
+title: Funcionamento dos cemitérios e orientações para o feriado de Finados em Itajaí/SC
 date: 2020-10-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Para organizar o fluxo de pessoas e evitar aglomerações durante o fim de semana e no feriado de Finados, o Município de Itajaí informa que o horário de funcionamento dos cemitérios municipais da Fazenda e do Espinheiros será estendido: até as 19h, no bairro Espinheiros, e até as 19h30, na Fazenda. Em ambos, a abertura dos portões será às 6h. Neste ano, medidas preventivas de saúde deverão ser observadas pela população, como o uso obrigatório de máscaras, em virtude da pandemia de coronavírus (COVID-19).
 

@@ -1,11 +1,13 @@
 ---
-title: "Mastercard e Banco Africano de Desenvolvimento Lançam Programa de Identificação Digital na África"
+title: Mastercard e Banco Africano de Desenvolvimento Lançam Programa de Identificação
+  Digital na África
 date: 2024-06-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A gigante global de pagamentos Mastercard está anunciando uma nova iniciativa para promover um "impacto social sustentável" e ajudar comunidades remotas ao redor do mundo. A empresa está expandindo o uso do sistema Community Pass, que visa fornecer identificação digital e uma carteira em um "cartão inteligente" para comunidades desfavorecidas.
 

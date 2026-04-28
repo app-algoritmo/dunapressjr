@@ -1,11 +1,12 @@
 ---
-title: "Decreto prevê licitações para concessão de transmissão de energia"
+title: Decreto prevê licitações para concessão de transmissão de energia
 date: 2022-12-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é reduzir custo ao consumidor final.
 

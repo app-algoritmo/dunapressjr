@@ -1,11 +1,12 @@
 ---
-title: "Putin destaca participação nas eleições como expressão de patriotismo"
+title: Putin destaca participação nas eleições como expressão de patriotismo
 date: 2024-03-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, enfatizou a importância da participação nas eleições presidenciais como um ato de patriotismo em um discurso em vídeo antes do pleito. Segundo Putin, o engajamento cívico nas eleições é uma manifestação de amor pela pátria.
 

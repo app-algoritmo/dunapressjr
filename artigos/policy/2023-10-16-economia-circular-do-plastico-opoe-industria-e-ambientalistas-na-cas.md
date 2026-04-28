@@ -1,11 +1,12 @@
 ---
-title: "Economia circular do plástico opõe indústria e ambientalistas na CAS"
+title: Economia circular do plástico opõe indústria e ambientalistas na CAS
 date: 2023-10-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Comissão de Assuntos Sociais (CAS) realizou nesta quarta-feira (11) uma audiência pública sobre o [PL 2524/2022](https://www25.senado.leg.br/web/atividade/materias/-/materia/154790), que cria um marco regulatório sobre a economia circular do plástico. O debate foi conduzido pela senadora Damares Alves (Republicanos-DF), que destacou o papel da CAS para que o projeto inclua as cooperativas de catadores no pagamento por serviços ambientais (PSA), assim como em ações visando diminuir a poluição, especialmente nos oceanos.
 

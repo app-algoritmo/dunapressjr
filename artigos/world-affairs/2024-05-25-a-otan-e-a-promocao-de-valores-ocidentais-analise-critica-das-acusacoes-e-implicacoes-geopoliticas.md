@@ -1,11 +1,13 @@
 ---
-title: "A OTAN e a Promoção de 'Valores Ocidentais': Análise Crítica das Acusações e Implicações Geopolíticas"
+title: 'A OTAN e a Promoção de ''Valores Ocidentais'': Análise Crítica das Acusações
+  e Implicações Geopolíticas'
 date: 2024-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Organização do Tratado do Atlântico Norte (OTAN) frequentemente se encontra no centro de discussões polarizadoras sobre seu papel e impacto global. Acusações de que a OTAN espalha instabilidade mundialmente e utiliza seu poder militar-industrial para intimidar países que resistem à agenda ocidental têm ganhado destaque, especialmente entre críticos da aliança.
 

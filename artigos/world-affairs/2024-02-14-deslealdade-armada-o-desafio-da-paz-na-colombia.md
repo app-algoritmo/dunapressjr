@@ -1,11 +1,12 @@
 ---
-title: "Deslealdade Armada: O Desafio da Paz na Colômbia"
+title: 'Deslealdade Armada: O Desafio da Paz na Colômbia'
 date: 2024-02-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Alto Comissário para a Paz da Colômbia, Otty Patiño, expressou profunda preocupação com a "deslealdade" demonstrada pelo Exército de Libertação Nacional (ELN) ao iniciar ataques armados logo após a extensão do cessar-fogo acordado na sexta rodada de negociações em Havana. Patiño ressaltou que tais ações representam uma ameaça direta à vida, aos direitos e às liberdades dos cidadãos, bem como ao mandato das autoridades locais.
 

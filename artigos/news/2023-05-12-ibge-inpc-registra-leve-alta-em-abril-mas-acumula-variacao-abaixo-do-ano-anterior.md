@@ -1,11 +1,13 @@
 ---
-title: "IBGE: INPC registra leve alta em abril, mas acumula variação abaixo do ano anterior"
+title: 'IBGE: INPC registra leve alta em abril, mas acumula variação abaixo do ano
+  anterior'
 date: 2023-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os produtos alimentícios tiveram aumento, enquanto os não alimentícios desaceleraram.
 

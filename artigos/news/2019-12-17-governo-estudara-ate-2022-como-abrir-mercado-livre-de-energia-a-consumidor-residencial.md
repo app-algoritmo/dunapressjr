@@ -1,11 +1,13 @@
 ---
-title: "Governo estudará até 2022 como abrir mercado livre de energia a consumidor residencial"
+title: Governo estudará até 2022 como abrir mercado livre de energia a consumidor
+  residencial
 date: 2019-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo decidiu determinar a realização até o início de
 2022 de estudos sobre a ampliação para todos consumidores do chamado mercado

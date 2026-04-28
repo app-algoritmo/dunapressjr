@@ -1,11 +1,12 @@
 ---
-title: "X (Ex-Twitter) Fecha Escritório no Brasil Após Conflito com o STF"
+title: X (Ex-Twitter) Fecha Escritório no Brasil Após Conflito com o STF
 date: 2024-08-18
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 ## Elon Musk encerra operações no Brasil após ameaças de prisão a representante legal da plataforma; serviço continuará disponível no país.
 

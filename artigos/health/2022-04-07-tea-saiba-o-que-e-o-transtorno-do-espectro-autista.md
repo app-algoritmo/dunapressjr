@@ -1,11 +1,12 @@
 ---
-title: "TEA: saiba o que é o Transtorno do Espectro Autista"
+title: 'TEA: saiba o que é o Transtorno do Espectro Autista'
 date: 2022-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O TEA é um distúrbio caracterizado pela alteração das funções do neurodesenvolvimento, que podem englobar alterações qualitativas e quantitativas da comunicação, seja na linguagem verbal ou não verbal, na interação social e do comportamento, como: ações repetitivas, hiperfoco para objetos específicos e restrição de interesses. Dentro do espectro são identificados graus que podem ser leves e com total independência, apresentando discretas dificuldades de adaptação, até níveis de total dependência para atividades cotidianas ao longo de toda a vida.
 

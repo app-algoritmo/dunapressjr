@@ -1,11 +1,12 @@
 ---
-title: "A aceleração da floração causada pelas abelhas"
+title: A aceleração da floração causada pelas abelhas
 date: 2020-06-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Quando o pólen é escasso, os abelhões danificam as folhas das plantas de uma maneira que acelera a produção de flores, revela uma nova pesquisa.
 

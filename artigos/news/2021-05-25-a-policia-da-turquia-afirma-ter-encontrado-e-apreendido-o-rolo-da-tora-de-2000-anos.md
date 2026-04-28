@@ -1,11 +1,13 @@
 ---
-title: "A polícia da Turquia afirma ter encontrado e apreendido o rolo da Torá de 2.000 anos"
+title: A polícia da Turquia afirma ter encontrado e apreendido o rolo da Torá de 2.000
+  anos
 date: 2021-05-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A polícia da Turquia afirma ter apreendido um rolo da Torá de 2.000 anos em uma cidade costeira a 480 quilômetros a leste de Istambul.
 

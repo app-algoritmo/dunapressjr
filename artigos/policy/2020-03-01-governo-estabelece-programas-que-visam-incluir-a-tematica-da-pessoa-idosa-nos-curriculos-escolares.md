@@ -1,11 +1,13 @@
 ---
-title: "Governo estabelece programas que visam incluir a temática da pessoa idosa nos currículos escolares"
+title: Governo estabelece programas que visam incluir a temática da pessoa idosa nos
+  currículos escolares
 date: 2020-03-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Programa
 Educar para Valorizar e Respeitar o Estatuto do Idoso na Prática foi lançado

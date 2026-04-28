@@ -1,11 +1,12 @@
 ---
-title: "Roda-gigante de Balneário Camboriú (SC)  completa 1 ano"
+title: Roda-gigante de Balneário Camboriú (SC)  completa 1 ano
 date: 2021-12-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 A Foto da Semana, registrada pelo fotógrafo Hildo Junior, traz a Roda-Gigante de Balneário Camboriú, em Santa Catarina, que completa um ano de atividades nesta sexta-feira (10.12). A FG BIG WHEEL é maior roda gigante estaiada da América Latina: são 82 metros acima do nível do mar e um índice de satisfação superior a 95% por parte dos turistas. E logo no primeiro dia de funcionamento, a roda-gigante foi cenário de um pedido de casamento feito nas alturas, ato que se repetiu mais de uma centena de vezes neste primeiro ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bancos já podem fazer empréstimo consignado do Auxílio Brasil e BPC"
+title: Bancos já podem fazer empréstimo consignado do Auxílio Brasil e BPC
 date: 2022-10-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Juros máximos são de 3,5% ao mês.
 

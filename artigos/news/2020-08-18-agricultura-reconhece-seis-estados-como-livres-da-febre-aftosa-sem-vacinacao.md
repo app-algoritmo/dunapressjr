@@ -1,11 +1,12 @@
 ---
-title: "Agricultura reconhece seis estados como livres da febre aftosa sem vacinação"
+title: Agricultura reconhece seis estados como livres da febre aftosa sem vacinação
 date: 2020-08-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ministra Tereza Cristina ressalta que os estados terão a oportunidade de ampliar a participação no mercado internacional. Para realizar a transição de status sanitário, os estados e regiões tem que atender requisitos básicos.
 

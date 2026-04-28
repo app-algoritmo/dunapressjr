@@ -1,11 +1,13 @@
 ---
-title: "Alerta sobre Novas Capacidades Russas na Esfera Espacial e Nuclear: Estados Unidos Informam Aliados Europeus"
+title: 'Alerta sobre Novas Capacidades Russas na Esfera Espacial e Nuclear: Estados
+  Unidos Informam Aliados Europeus'
 date: 2024-02-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os Estados Unidos deram um alerta aos aliados na Europa sobre as crescentes capacidades russas na esfera espacial e nuclear, revelando novos dados de inteligência que apontam para um possível desenvolvimento de armas nucleares destinadas ao espaço. Segundo informações divulgadas pela Reuters, fontes não identificadas confirmaram que o Congresso e parceiros europeus foram informados sobre essa preocupante escalada por parte da Rússia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Raio-X da mensalidade escolar"
+title: Raio-X da mensalidade escolar
 date: 2021-12-29
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Professores, água, luz, internet, limpeza, manutenção, aluguel, telefone. Os custos para se manter uma escola funcionando são diversos, complexos e podem variar de uma instituição para outra. No entanto, observando algumas margens, é possível entender melhor de que forma a escola que você paga para seu filho está empregando o dinheiro da mensalidade.
 

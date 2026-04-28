@@ -1,11 +1,12 @@
 ---
-title: "RJ e ES têm maiores altas na receita até o 3º bimestre"
+title: RJ e ES têm maiores altas na receita até o 3º bimestre
 date: 2022-08-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Rio de Janeiro teve alta de 36% e Espírito Santo de 34%.
 

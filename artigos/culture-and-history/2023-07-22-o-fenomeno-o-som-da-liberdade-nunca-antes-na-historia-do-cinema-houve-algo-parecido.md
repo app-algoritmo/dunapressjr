@@ -1,12 +1,14 @@
 ---
-title: "O Fenômeno 'O Som da Liberdade' - Nunca antes na história do cinema houve algo parecido"
+title: O Fenômeno 'O Som da Liberdade' - Nunca antes na história do cinema houve algo
+  parecido
 date: 2023-07-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Culture and History
-  - Video library
+- Culture and History
+- Video library
 ---
+
 
 The Sound of Freedom, o filme boicotado, criticado, menosprezado e ridicularizado pela esquerda e pela imprensa, continua sua marcha impávida para novos recordes de audiência.
 

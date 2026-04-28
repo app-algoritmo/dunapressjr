@@ -1,11 +1,12 @@
 ---
-title: "Comissão especial aprova PEC dos Lotéricos e prorroga contratos por 50 anos"
+title: Comissão especial aprova PEC dos Lotéricos e prorroga contratos por 50 anos
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A comissão especial que analisa a Proposta de Emenda à Constituição (PEC) 142/15 (conhecida como [PEC dos Lotéricos](https://www.camara.leg.br/noticias/888697-ccj-aprova-pec-que-disciplina-permissoes-de-servico-publico-com-contratos-firmados-antes-da-constituicao/)) aprovou nesta quarta-feira (30) o parecer do relator, deputado [Darci de Matos (PSD-SC)](https://www.camara.leg.br/deputados/116379). O texto determina que os contratos atuais de todos os agentes lotéricos com a Caixa Econômica Federal terão prazo de vigência adicional de 50 anos.
 

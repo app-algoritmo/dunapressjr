@@ -1,11 +1,13 @@
 ---
-title: "Instituto Militar de Engenharia cria grupo científico em busca de alternativas de enfrentamento da COVID-19"
+title: Instituto Militar de Engenharia cria grupo científico em busca de alternativas
+  de enfrentamento da COVID-19
 date: 2020-04-13
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Rio de Janeiro (RJ)** – A pandemia da COVID-19 tem gerado uma busca incessante por soluções na área de ciência e tecnologia. Diante desse cenário, o Instituto Militar de Engenharia (IME) constituiu um grupo de trabalho, denominado COVID-19 Assessoramento Científico IME, com o objetivo de identificar alternativas para o enfrentamento que apoiem a sociedade na mitigação da pandemia.
 

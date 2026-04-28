@@ -1,11 +1,12 @@
 ---
-title: "Análise de agrotóxicos em água e no solo é premiada"
+title: Análise de agrotóxicos em água e no solo é premiada
 date: 2022-01-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A técnica, descoberta nos anos 1970, amplifica o sinal desses materiais e permite identificar sua presença na natureza por meio de nanopartículas metálicas. A pesquisa foi realizada na Unesp, com um período de estágio no Conselho Superior de Investigação Científica (CSIC), em Madri (Espanha).
 

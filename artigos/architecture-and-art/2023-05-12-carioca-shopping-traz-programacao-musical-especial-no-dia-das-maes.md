@@ -1,12 +1,13 @@
 ---
-title: "Carioca Shopping traz programação musical especial no Dia das Mães"
+title: Carioca Shopping traz programação musical especial no Dia das Mães
 date: 2023-05-12
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Architecture and Art
-  - Culture and History
+- Architecture and Art
+- Culture and History
 ---
+
 
 ## **Evento gratuito faz parte do projeto Música na Praça**.
 

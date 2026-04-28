@@ -1,11 +1,12 @@
 ---
-title: "Decisão chinesa é primeiro passo para derrubar veto à carne brasileira"
+title: Decisão chinesa é primeiro passo para derrubar veto à carne brasileira
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministra Tereza Cristina espera que liberação ocorra no próximo mês.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>Perda de dentes aumenta em 28% riscos de demência</strong>"
+title: <strong>Perda de dentes aumenta em 28% riscos de demência</strong>
 date: 2022-10-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Mais de 10% da população sofre com problemas bucais; além da perda cognitiva, falta de saúde bucal leva a reflexos na mastigação e autoestima.
 

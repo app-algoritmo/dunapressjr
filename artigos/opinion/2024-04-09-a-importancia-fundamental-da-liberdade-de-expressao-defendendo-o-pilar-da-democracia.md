@@ -1,11 +1,13 @@
 ---
-title: "A Importância Fundamental da Liberdade de Expressão: Defendendo o Pilar da Democracia"
+title: 'A Importância Fundamental da Liberdade de Expressão: Defendendo o Pilar da
+  Democracia'
 date: 2024-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 A liberdade de expressão é um dos pilares fundamentais de qualquer sociedade democrática, essencial para o florescimento da diversidade de pensamento, debate saudável e progresso social. Em um mundo onde as vozes podem ser facilmente silenciadas ou censuradas, é crucial reafirmar o valor intrínseco da liberdade de expressão e defender vigorosamente esse direito humano básico.
 

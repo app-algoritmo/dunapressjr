@@ -1,11 +1,13 @@
 ---
-title: "Ministério da Saúde aprova primeiro medicamento para tratamento da Covid-19 no SUS"
+title: Ministério da Saúde aprova primeiro medicamento para tratamento da Covid-19
+  no SUS
 date: 2022-07-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Saúde aprovou nesta sexta-feira (1º) a incorporação do primeiro medicamento para o tratamento da Covid-19 no Sistema Único de Saúde (SUS). A decisão foi publicada por meio da Portaria nº 34/2022 assinada pela Secretaria de Ciência e Tecnologia e Insumos Estratégicos (SCTIE) no Diário Oficial da União. O medicamento baricitinibe será disponibilizado para tratamento de pacientes adultos hospitalizados que necessitam de oxigênio por máscara ou cateter nasal.
 

@@ -1,11 +1,12 @@
 ---
-title: "O Irã está testando mísseis com capacidade nuclear, revela o embaixador israelense"
+title: O Irã está testando mísseis com capacidade nuclear, revela o embaixador israelense
 date: 2021-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O Irã vem testando mísseis balísticos nucleares há meses, violando a Resolução 2231 da ONU, revela o embaixador israelense Gilad Erdan.
 

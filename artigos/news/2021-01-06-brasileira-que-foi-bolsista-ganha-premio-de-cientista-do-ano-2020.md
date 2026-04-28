@@ -1,11 +1,12 @@
 ---
-title: "Brasileira que foi bolsista ganha prêmio de Cientista do Ano 2020"
+title: Brasileira que foi bolsista ganha prêmio de Cientista do Ano 2020
 date: 2021-01-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A pesquisadora Ângela Wyse, do programa de pós-graduação em Bioquímica da Universidade do Rio Grande do Sul (UFRGS), ganhou o prêmio Cientista do Ano 2020 na categoria Ciências Médicas e da Saúde, oferecido pelo *International Achievements Research Center*, de Chicago (EUA). Ela é a única brasileira entre 23 cientistas a receber a premiação.
 

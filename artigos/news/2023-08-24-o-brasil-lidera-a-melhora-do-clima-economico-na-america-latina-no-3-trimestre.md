@@ -1,11 +1,12 @@
 ---
-title: "O Brasil lidera a melhora do Clima Econômico na América Latina no 3º Trimestre"
+title: O Brasil lidera a melhora do Clima Econômico na América Latina no 3º Trimestre
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O Indicador de Clima Econômico (ICE) da América Latina registrou uma notável melhora durante o terceiro trimestre de 2023.
 

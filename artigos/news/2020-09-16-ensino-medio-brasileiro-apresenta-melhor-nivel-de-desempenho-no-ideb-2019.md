@@ -1,11 +1,12 @@
 ---
-title: "Ensino médio brasileiro apresenta melhor nível de desempenho no Ideb 2019"
+title: Ensino médio brasileiro apresenta melhor nível de desempenho no Ideb 2019
 date: 2020-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Indicador alcançou a maior evolução da edição, após quatro anos de estabilidade. Em 2019, o indicador nacional de qualidade da educação do ensino médio alcançou 4,2 pontos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço da gasolina em R$ 0,13 por litro a partir desta sexta-feira"
+title: Petrobras reduz preço da gasolina em R$ 0,13 por litro a partir desta sexta-feira
 date: 2023-06-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Medida visa manter competitividade e otimizar ativos de refino da companhia.
 

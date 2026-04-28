@@ -1,11 +1,12 @@
 ---
-title: "Vitória de Israel na Corte Internacional"
+title: Vitória de Israel na Corte Internacional
 date: 2024-01-31
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Israel recebe com alívio a decisão de Haia de não solicitar um cessar-fogo em Gaza, comprometendo-se a continuar até a "vitória total". O ministro da Defesa afirma que o país "não precisa de lições morais". Enquanto isso, os palestinos celebram o simbolismo da decisão judicial e apelam à comunidade internacional para garantir a implementação das medidas cautelares.
 

@@ -1,12 +1,13 @@
 ---
-title: "Isabel, Redentora Princesa Imperial do Brasil"
+title: Isabel, Redentora Princesa Imperial do Brasil
 date: 2022-09-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
-  - History
+- Bicentennial
+- History
 ---
+
 
 Nascida a 29 de julho de 1846, Isabel era a segunda filha de Dom Pedro II e Dona Teresa Cristina. Seus irmãos eram Afonso Pedro, Pedro Afonso (ambos falecidos na infância) e Leopoldina.
 

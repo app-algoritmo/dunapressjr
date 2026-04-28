@@ -1,11 +1,13 @@
 ---
-title: "Secretário-Geral da ONU alerta para risco de guerra nuclear em reunião do Conselho de Segurança"
+title: Secretário-Geral da ONU alerta para risco de guerra nuclear em reunião do Conselho
+  de Segurança
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Antonio Guterres, secretário-geral da ONU, expressou sua preocupação com uma nova corrida armamentista nuclear, alertando para o risco iminente de uma guerra nuclear durante uma reunião do Conselho de Segurança sobre a não-proliferação nuclear organizada pelo Japão.
 

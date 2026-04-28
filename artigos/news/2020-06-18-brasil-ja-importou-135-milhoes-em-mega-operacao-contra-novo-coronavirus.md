@@ -1,11 +1,12 @@
 ---
-title: "Brasil já importou 135 milhões em mega operação contra novo coronavírus"
+title: Brasil já importou 135 milhões em mega operação contra novo coronavírus
 date: 2020-06-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal em parceria com a LATAM Airlines Brasil, atingiu nesta terça-feira (16) o número de 135 milhões de máscaras cirúrgicas e N95 trazidas ao País para auxiliar no combate à Covid-19. A operação, até então inédita no Brasil, começou em maio e completa nesta terça-feira 50% de sua programação inicial, com o 22º voo sendo realizado de um total de 44 previstos. Até o final de julho, o transporte da totalidade das 240 milhões de máscaras compradas pelo Ministério da Saúde deve estar concluído. Os equipamentos estão sendo destinados aos profissionais de saúde das 27 unidades da federação.
 

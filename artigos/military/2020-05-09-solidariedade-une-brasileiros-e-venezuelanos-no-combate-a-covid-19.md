@@ -1,11 +1,12 @@
 ---
-title: "Solidariedade une brasileiros e venezuelanos no combate à Covid-19"
+title: Solidariedade une brasileiros e venezuelanos no combate à Covid-19
 date: 2020-05-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 09/05/2020 -** Em Boa Vista, no estado de Roraima, venezuelanos e brasileiros se unem, cada vez mais, por um futuro melhor. Homens e mulheres de ambos os países estão trabalhando voluntariamente na confecção de materiais de proteção, como máscaras, jalecos, toucas de cabelo e botas descartáveis, para serem usados no combate ao novo coronavírus.
 

@@ -1,11 +1,12 @@
 ---
-title: "Ameaça Emergente: Gripe Aviária Pode Causar Próxima Pandemia"
+title: 'Ameaça Emergente: Gripe Aviária Pode Causar Próxima Pandemia'
 date: 2024-05-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Recentes desenvolvimentos sugerem que a gripe aviária, inicialmente propagada de patos para bovinos, aves e agora golfinhos, pode estar a caminho de se transformar em uma pandemia global. Segundo o Dr. Peter McCullough, em entrevista para o programa Moms on a Mission, essa variante do vírus H5N1 seria resultado de uma cepa de "ganho de função", criada pelo homem, supostamente originada do Centro de Pesquisa Avícola dos EUA em Atenas, Geórgia.
 

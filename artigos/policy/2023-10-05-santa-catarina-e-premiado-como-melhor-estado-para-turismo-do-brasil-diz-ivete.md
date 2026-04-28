@@ -1,11 +1,12 @@
 ---
-title: "Santa Catarina é premiado como melhor estado para turismo do Brasil, diz Ivete"
+title: Santa Catarina é premiado como melhor estado para turismo do Brasil, diz Ivete
 date: 2023-10-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 A senadora Ivete da Silveira (MDB-SC) destacou, em pronunciamento nesta terça-feira (3), que Santa Catarina recebeu o prêmio Melhor Estado para Fazer Turismo, da Editora Abril e Viagem Turismo. A premiação foi entregue durante a Abav Expo 2023, no Rio de Janeiro.
 

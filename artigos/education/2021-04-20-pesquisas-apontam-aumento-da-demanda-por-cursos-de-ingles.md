@@ -1,11 +1,12 @@
 ---
-title: "Pesquisas apontam aumento da demanda por cursos de Inglês"
+title: Pesquisas apontam aumento da demanda por cursos de Inglês
 date: 2021-04-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Com a pandemia colocando o mundo em regime de isolamento, o *home office* foi a alternativa encontrada por empregadores e profissionais para garantir a continuidade do trabalho. Passado um ano de pandemia, o modelo que caiu no gosto de gestores e colaboradores ganhou um novo conceito: o *anywhere office*, que consiste em permitir que as pessoas realizem suas atividades de qualquer lugar. Essa liberdade que uma boa conexão de internet proporciona está derrubando também barreiras geográficas. Se antes era mais difícil pensar em alçar voos para além de nosso próprio território e país, o isolamento compulsório da pandemia fez o mundo se tornar menor e mais próximo, cabendo dentro de um notebook. 
 

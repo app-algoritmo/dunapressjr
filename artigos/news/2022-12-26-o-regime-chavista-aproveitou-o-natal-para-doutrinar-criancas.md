@@ -1,11 +1,12 @@
 ---
-title: "O regime chavista aproveitou o Natal para doutrinar crianças"
+title: O regime chavista aproveitou o Natal para doutrinar crianças
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## “Super Bigode" e "Cilita" são os dois brinquedos que o regime de Nicolás Maduro distribuiu nos setores populares do país para mostrar a ambos como super-heróis. 
 

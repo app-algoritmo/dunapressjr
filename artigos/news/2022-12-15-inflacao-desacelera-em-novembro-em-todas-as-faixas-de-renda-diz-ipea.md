@@ -1,11 +1,12 @@
 ---
-title: "Inflação desacelera em novembro em todas as faixas de renda, diz Ipea"
+title: Inflação desacelera em novembro em todas as faixas de renda, diz Ipea
 date: 2022-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Alimentos e bebidas pressionam preços nas seis categorias de renda.
 

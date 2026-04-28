@@ -1,11 +1,12 @@
 ---
-title: "<strong>Mordida cruzada: como ela afeta as atividades do dia a dia?</strong>"
+title: '<strong>Mordida cruzada: como ela afeta as atividades do dia a dia?</strong>'
 date: 2022-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Perceptível na maioria dos casos, a mordida cruzada é um problema bucal comum, que começa a ser notado, normalmente, na infância. O distúrbio consiste no desencontro entre os dentes da arcada superior e os da arcada inferior. "Pode ser genético ou causado por outros fatores externos, como chupar o dedo ou chupetas, uso excessivo de mamadeiras e perda precoce dos dentes. Tudo isso pode causar o desalinhamento na arcada", explica a dentista Caroline Aranalde.
 

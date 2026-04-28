@@ -1,11 +1,12 @@
 ---
-title: "A arte da conquista: três animais que dominam os corações de suas parceiras"
+title: 'A arte da conquista: três animais que dominam os corações de suas parceiras'
 date: 2022-12-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Como você impressiona a pessoa amada? Diferente do que muitos pensam, na fauna não são apenas os valentões que obtêm a estima das fêmeas. Aliás, em muitas espécies este método nem cola. Dependendo do animal, apenas os que utilizam técnicas mais poéticas alcançam tal façanha.
 

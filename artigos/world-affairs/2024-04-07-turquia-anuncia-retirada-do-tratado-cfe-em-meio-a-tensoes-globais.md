@@ -1,11 +1,12 @@
 ---
-title: "Turquia Anuncia Retirada do Tratado CFE em Meio a Tensões Globais"
+title: Turquia Anuncia Retirada do Tratado CFE em Meio a Tensões Globais
 date: 2024-04-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente turco, Recep Tayyip Erdogan, deu um passo significativo ao assinar um decreto que confirma a retirada da Turquia do Tratado sobre Forças Armadas Convencionais na Europa (CFE) em 8 de abril de 2024. O anúncio oficial foi publicado no Resmi Gazete, o jornal oficial do país, destacando uma mudança geopolítica importante na região.
 

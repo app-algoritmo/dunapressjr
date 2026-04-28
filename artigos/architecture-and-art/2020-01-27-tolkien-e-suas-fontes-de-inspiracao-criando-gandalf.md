@@ -1,11 +1,12 @@
 ---
-title: "Tolkien e suas Fontes de Inspiração: Criando Gandalf."
+title: 'Tolkien e suas Fontes de Inspiração: Criando Gandalf.'
 date: 2020-01-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Nos épicos de fantasia ambientados em um universo inspirado na Europa Medieval, quase sempre existe a figura do mago. Um ser dotado de sabedoria e conhecimentos ocultos, que sempre atua como a “voz da razão” do protagonista, nos momentos em que este precisa de uma bússola moral para lhe guiar em sua missão. Dependendo da narrativa o mago serve somente como conselheiro ou as vezes põe a mão na massa e luta ao lado do protagonista, unindo habilidades militares com sua magia, e nesta linha narrativa é comumente utilizado como um “*Deus Ex Machina*”, quando as chances estiverem contra o protagonista e aparentemente tudo estiver perdido.
 

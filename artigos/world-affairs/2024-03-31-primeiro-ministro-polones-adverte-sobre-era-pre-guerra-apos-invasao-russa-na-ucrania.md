@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-Ministro Polonês Adverte sobre 'Era Pré-Guerra' após Invasão Russa na Ucrânia"
+title: Primeiro-Ministro Polonês Adverte sobre 'Era Pré-Guerra' após Invasão Russa
+  na Ucrânia
 date: 2024-03-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro polonês, Donald Tusk, emitiu um alerta contundente nesta sexta-feira, declarando que a Europa adentrou uma "era pré-guerra" após a invasão russa na Ucrânia, destacando a falta de preparação do continente para tal cenário. Tusk instou os países europeus a intensificarem seus investimentos em defesa em meio à crescente tensão.
 

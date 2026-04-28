@@ -1,11 +1,13 @@
 ---
-title: "Primeiro reconhecimento de equivalência ao Sistema de Inspeção de Insumos Pecuários é obtido pelo Mato Grosso"
+title: Primeiro reconhecimento de equivalência ao Sistema de Inspeção de Insumos Pecuários
+  é obtido pelo Mato Grosso
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O Sisbi-PEC busca padronizar e harmonizar os procedimentos de inspeção e fiscalização dos insumos utilizados na pecuária brasileira
 

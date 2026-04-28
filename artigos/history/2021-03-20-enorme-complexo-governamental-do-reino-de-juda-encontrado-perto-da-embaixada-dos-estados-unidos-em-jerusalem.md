@@ -1,11 +1,13 @@
 ---
-title: "Enorme complexo governamental do Reino de Judá encontrado perto da Embaixada dos Estados Unidos em Jerusalém"
+title: Enorme complexo governamental do Reino de Judá encontrado perto da Embaixada
+  dos Estados Unidos em Jerusalém
 date: 2021-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Uma das maiores coleções de impressões de selos do reino real de Judá foi descoberta em um enorme complexo de arrecadação e armazenamento de impostos públicos do período do Primeiro Templo que está sendo escavado perto da nova Embaixada dos Estados Unidos em Jerusalém. A estrutura principal da Idade do Ferro é excepcional em termos de tamanho e estilo arquitetônico, disse o arqueólogo Neri Sapir, da Autoridade de Antiguidades de Israel, que co-dirigiu a escavação.
 

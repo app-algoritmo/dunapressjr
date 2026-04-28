@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde transforma apresentação do novo time em festa para torcida"
+title: Osasco São Cristóvão Saúde transforma apresentação do novo time em festa para
+  torcida
 date: 2024-06-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Clube que inovou ao usar o ambiente digital para se comunicar com fãs, traz formato renovado e enche as arquibancadas do ginásio José Liberatti.
 

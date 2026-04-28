@@ -1,11 +1,13 @@
 ---
-title: "Rumores nos Bastidores: Joe Biden Considera Ceder Candidatura a Michelle Obama nas Próximas Eleições"
+title: 'Rumores nos Bastidores: Joe Biden Considera Ceder Candidatura a Michelle Obama
+  nas Próximas Eleições'
 date: 2024-05-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos bastidores do Partido Democrata, um boato ganha força, sugerindo que o atual presidente dos EUA, Joe Biden, está ponderando ceder sua candidatura nas próximas eleições presidenciais à ex-primeira-dama Michelle Obama. O prestigiado semanário alemão Der Spiegel relata esse possível "grande gesto".
 

@@ -1,11 +1,12 @@
 ---
-title: "Marcos do Val faz alerta sobre 'ameaças' à democracia"
+title: Marcos do Val faz alerta sobre 'ameaças' à democracia
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Marcos do Val (Podemos-ES) argumentou nesta quarta-feira (25) que, apesar das comemorações dos 35 anos da Constituição Federal de 1988, é necessário um debate público amplo sobre os desafios e ameaças que a Carta Magna do país enfrenta atualmente. Citando a atuação do Supremo Tribunal Federal (STF), ele disse que decisões monocráticas do ministro Alexandre de Moraes estão afetando a democracia do Brasil. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Em outubro comércio varejista brasileiro sofreu uma variação de -0,3%, segundo IBGE"
+title: Em outubro comércio varejista brasileiro sofreu uma variação de -0,3%, segundo
+  IBGE
 date: 2023-12-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Vendas recuam e setores apresentam diferentes resultados.
 

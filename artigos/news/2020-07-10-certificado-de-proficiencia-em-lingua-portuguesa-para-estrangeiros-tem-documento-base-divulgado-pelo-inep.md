@@ -1,11 +1,13 @@
 ---
-title: "Certificado de Proficiência em Língua Portuguesa para Estrangeiros tem documento base divulgado pelo Inep"
+title: Certificado de Proficiência em Língua Portuguesa para Estrangeiros tem documento
+  base divulgado pelo Inep
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nesta quarta-feira, 8 de julho, o documento-base do exame para Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras). O objetivo é oferecer aos participantes, aos professores de língua portuguesa para estrangeiros e aos pesquisadores da área um instrumento para apresentar o modelo teórico do exame e a sua operacionalização nas partes escritas e oral.
 

@@ -1,11 +1,12 @@
 ---
-title: "AS SOMBRAS DA BARBÁRIE IDEOLÓGICA NO CONTINENTE EUROPEU"
+title: AS SOMBRAS DA BARBÁRIE IDEOLÓGICA NO CONTINENTE EUROPEU
 date: 2019-05-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## *O historiador britânico Mark Mazower analisa a tragédia ideológica totalitária que atormentou o continente europeu no século XX*
 

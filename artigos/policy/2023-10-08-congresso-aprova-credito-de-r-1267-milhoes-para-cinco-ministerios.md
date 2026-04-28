@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova crédito de R$ 126,7 milhões para cinco ministérios"
+title: Congresso aprova crédito de R$ 126,7 milhões para cinco ministérios
 date: 2023-10-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Congresso Nacional aprovou nesta quarta-feira (4) a proposta do Poder Executivo que concede um crédito especial para os ministérios da Justiça, dos Transportes, da Integração, das Cidades, e de Portos e Aeroportos no valor de R$ 126,68 milhões ([PLN 25/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/158913)). O projeto foi relatado na Comissão Mista de Orçamento (CMO) pelo senador Styvenson Valentim (Podemos-RN).
 

@@ -1,11 +1,12 @@
 ---
-title: "Chico Rodrigues defende reforma tributária"
+title: Chico Rodrigues defende reforma tributária
 date: 2023-11-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Chico Rodrigues (PSB-RR) afirmou, em pronunciamento na quarta-feira (8), que “não há nada mais promissor para o futuro do Brasil do que a aprovação da reforma tributária” ([PEC 45/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/158930)). O [Plenário do Senado aprovou a proposta](/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario), também na quarta, em dois turnos de votação, com 53 votos favoráveis e 24 contrários. Para o parlamentar, as grandes vantagens do novo sistema são a uniformização de regras de tributação indireta e a implementação de um verdadeiro imposto sobre valor agregado, eliminando conflitos tributários e pagamentos de impostos sobre impostos, tornando claro o imposto que já pagamos.
 

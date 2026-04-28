@@ -1,11 +1,12 @@
 ---
-title: "Orçamento 2021 é sancionado; Educação, Economia e Defesa têm maiores cortes"
+title: Orçamento 2021 é sancionado; Educação, Economia e Defesa têm maiores cortes
 date: 2021-04-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Somando os cancelamentos e bloqueios, o Orçamento perdeu R$ 29,1 bilhões em comparação com o projeto aprovado pelo Congresso.
 

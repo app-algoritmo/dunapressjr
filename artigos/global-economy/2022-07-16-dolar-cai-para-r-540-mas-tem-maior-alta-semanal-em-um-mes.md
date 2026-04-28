@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,40, mas tem maior alta semanal em um mês"
+title: Dólar cai para R$ 5,40, mas tem maior alta semanal em um mês
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa sobe 0,45%, mas recua quase 4% na semana.
 

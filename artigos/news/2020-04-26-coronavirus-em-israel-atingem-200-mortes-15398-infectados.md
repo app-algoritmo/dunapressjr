@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus em Israel atingem 200 mortes, 15.398 infectados"
+title: Coronavírus em Israel atingem 200 mortes, 15.398 infectados
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os israelenses acordarão no domingo (26/04) para uma realidade nova e menos restritiva, depois que o gabinete aprovou na sexta-feira (24/04) regulamentos de emergência para restaurar ainda mais a economia israelense à sombra da crise do coronavírus.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>5 técnicas de memorização que ajudam nos estudos</strong>"
+title: <strong>5 técnicas de memorização que ajudam nos estudos</strong>
 date: 2022-08-29
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Education
+- Education
 ---
+
 
 É comum ter dificuldades tanto para memorizar quanto para entender alguns assuntos. Mas o que fazer quando isso acontece? As técnicas de estudo e memorização podem te ajudar.
 

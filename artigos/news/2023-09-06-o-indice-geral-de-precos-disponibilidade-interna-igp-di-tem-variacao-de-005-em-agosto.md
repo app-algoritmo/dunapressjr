@@ -1,11 +1,13 @@
 ---
-title: "O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) tem variação de 0,05% em agosto"
+title: O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) tem variação de
+  0,05% em agosto
 date: 2023-09-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Combustíveis e alimentos são os principais influenciadores dos resultados, segundo o coordenador dos Índices de Preços.
 

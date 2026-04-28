@@ -1,12 +1,13 @@
 ---
-title: "Repensar a Educação: Desafiando Modas e Retomando o Rumo"
+title: 'Repensar a Educação: Desafiando Modas e Retomando o Rumo'
 date: 2023-12-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Books
-  - Policy
+- Books
+- Policy
 ---
+
 
 Modas, tópicos e lugares-comuns têm gradualmente se infiltrado no cenário educacional, desviando a atenção do verdadeiro propósito da escola. Muitos afirmam que memorizar informações tornou-se obsoleto na era do Google, enquanto outros propõem que os alunos devem construir seu próprio caminho de aprendizagem, relegando o papel do professor a mero acompanhante. Ainda, há a insistência de que estamos preparando jovens para empregos que ainda nem existem, sublinhando a importância de habilidades genéricas em detrimento de conhecimentos específicos.
 

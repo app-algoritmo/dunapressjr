@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra 71ª fase da Operação Lava Jato"
+title: Polícia Federal deflagra 71ª fase da Operação Lava Jato
 date: 2020-06-18
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Curitiba/PR** - A Polícia Federal deflagrou, nesta manhã (18/06), a **OPERAÇÃO SEM LIMITES II** - 71ª fase da Operação Lava Jato que mira área de Trading - compra e venda de petróleo, óleos combustíveis e derivados - de empresa estatal do ramo da exploração, produção, refino, comercialização e transporte de petróleo e derivados.
 

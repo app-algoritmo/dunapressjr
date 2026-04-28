@@ -1,11 +1,12 @@
 ---
-title: "Valores a Receber volta a funcionar em 7 de março com R$ 6 bilhões a devolver"
+title: Valores a Receber volta a funcionar em 7 de março com R$ 6 bilhões a devolver
 date: 2023-02-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Consulta fica disponível nesta terça-feira (10) a partir das 10 h.
 

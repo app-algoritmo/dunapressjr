@@ -1,11 +1,12 @@
 ---
-title: "Produção agropecuária dobrou no Brasil em 22 anos"
+title: Produção agropecuária dobrou no Brasil em 22 anos
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Cos últimos 47 anos, a agropecuária cresceu em média 3,22% ao ano. Entre os censos de 2006 e 2017, a taxa de crescimento aproximou-se de 4,3%, superando Estados Unidos (1,9%), China (3,3%), Chile (3,1%) e Argentina (2,7%). De 1995 a 2017, o Valor Bruto da Produção dobrou, sendo que a tecnologia foi responsável por mais de 60% desse crescimento.
 

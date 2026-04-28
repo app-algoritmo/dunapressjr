@@ -1,11 +1,13 @@
 ---
-title: "Até 9 de agosto produtores de queijo e bebidas que usam nomes de Indicação Geográfica devem se identificar"
+title: Até 9 de agosto produtores de queijo e bebidas que usam nomes de Indicação
+  Geográfica devem se identificar
 date: 2020-07-15
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Entre os principais produtos da consulta pública estão os queijos Parmesão, Fontina, Gruyère, Grana e Gorgonzola. Entre as bebidas estão a Genebra e o Steinhaeger.
 

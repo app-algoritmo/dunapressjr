@@ -1,11 +1,13 @@
 ---
-title: "Descontaminação de locais públicos é repetida por militares em diversos pontos do país"
+title: Descontaminação de locais públicos é repetida por militares em diversos pontos
+  do país
 date: 2020-05-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A desinfecção de locais públicos é uma das ações repetida incansavelmente pelos militares das Forças Armadas que atuam na Operação Covid-19. Em Mato Grosso do Sul, por meio do Comando Conjunto Oeste, foram higienizadas diversas áreas de circulação de pessoas. No mesmo Estado, nos municípios de Jardim e Dourados a ação beneficiou Unidades Básicas de Saúde.
 

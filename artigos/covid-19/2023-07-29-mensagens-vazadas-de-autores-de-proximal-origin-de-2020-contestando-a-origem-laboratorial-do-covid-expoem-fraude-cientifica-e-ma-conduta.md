@@ -1,11 +1,13 @@
 ---
-title: "Mensagens vazadas de autores de 'Proximal Origin' de 2020 contestando a origem laboratorial do COVID expõem fraude científica e má conduta"
+title: Mensagens vazadas de autores de 'Proximal Origin' de 2020 contestando a origem
+  laboratorial do COVID expõem fraude científica e má conduta
 date: 2023-07-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Mensagens vazadas dos autores do artigo 2020 Proximal Origin, que negaram a origem laboratorial do COVID-19, revelam fraude científica e má conduta, pois eles próprios questionam as conclusões de seu artigo.
 

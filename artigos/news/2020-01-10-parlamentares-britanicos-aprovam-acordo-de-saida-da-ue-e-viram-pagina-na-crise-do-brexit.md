@@ -1,11 +1,13 @@
 ---
-title: "Parlamentares britânicos aprovam acordo de saída da UE e viram página na crise do Brexit"
+title: Parlamentares britânicos aprovam acordo de saída da UE e viram página na crise
+  do Brexit
 date: 2020-01-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Parlamentares britânicos aprovaram nesta quinta-feira(9) uma lei que permite ao Reino Unido deixar a União Europeia em 31 de janeiro com um acordo de saída, encerrando mais de três anos de tumulto sobre os termos da separação do país do restante do bloco.
 

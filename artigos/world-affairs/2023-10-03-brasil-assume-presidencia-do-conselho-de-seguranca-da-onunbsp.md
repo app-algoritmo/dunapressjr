@@ -1,11 +1,12 @@
 ---
-title: "Brasil assume presidência do Conselho de Segurança da ONU&nbsp;"
+title: Brasil assume presidência do Conselho de Segurança da ONU&nbsp;
 date: 2023-10-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## País vai defender importâncias das instituições para mediar conflitos.
 

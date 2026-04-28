@@ -1,11 +1,13 @@
 ---
-title: "Uma Nova Era se Inicia com a Vitória de Javier Milei nas Eleições Presidenciais Argentinas"
+title: Uma Nova Era se Inicia com a Vitória de Javier Milei nas Eleições Presidenciais
+  Argentinas
 date: 2023-11-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Em uma reviravolta histórica, Javier Milei emergiu vitorioso nas recentes eleições presidenciais na Argentina, sinalizando uma mudança significativa no cenário político não apenas do país, mas de toda a região da América do Sul. O economista libertário autoproclamado e outsider político capturou a atenção do público com sua abordagem não convencional e promessas de mudanças transformadoras.
 

@@ -1,12 +1,13 @@
 ---
-title: "Netflix anuncia nova série Live-Action de Resident Evil"
+title: Netflix anuncia nova série Live-Action de Resident Evil
 date: 2020-08-28
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Video library
+- News
+- Video library
 ---
+
 
 # A Netflix anunciou hoje, 27 de agosto, que lançará uma série live-action inspirada na franquia de games Resident Evil, da Capcom.
 

@@ -1,11 +1,12 @@
 ---
-title: "Cultura importa, sim senhor!"
+title: Cultura importa, sim senhor!
 date: 2019-05-22
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Através da cultura conhecemos a real face de um povo.
 

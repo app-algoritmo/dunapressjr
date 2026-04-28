@@ -1,11 +1,13 @@
 ---
-title: "Processo para repasse do maior valor da história para a segurança pública tem início"
+title: Processo para repasse do maior valor da história para a segurança pública tem
+  início
 date: 2020-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Justiça e Segurança Pública iniciou processo de repasse de R$ 755 milhões do Fundo Nacional de Segurança Pública (FNSP) aos estados e ao Distrito Federal para investimentos na área.
 

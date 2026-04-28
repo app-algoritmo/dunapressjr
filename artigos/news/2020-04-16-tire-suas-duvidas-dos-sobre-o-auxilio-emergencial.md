@@ -1,11 +1,12 @@
 ---
-title: "Tire suas dúvidas dos sobre o Auxílio Emergencial"
+title: Tire suas dúvidas dos sobre o Auxílio Emergencial
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O valor do auxílio é de R$ 600,00 com limitação de duas pessoas em uma mesma família pelo período de três meses (podendo ser prorrogado por ato do Poder Executivo).
 

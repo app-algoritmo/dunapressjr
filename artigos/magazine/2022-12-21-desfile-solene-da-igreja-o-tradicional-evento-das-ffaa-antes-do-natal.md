@@ -1,13 +1,14 @@
 ---
-title: "Desfile solene da igreja, o tradicional evento das FFAA antes do natal"
+title: Desfile solene da igreja, o tradicional evento das FFAA antes do natal
 date: 2022-12-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
-  - News
-  - Policy
+- Magazine
+- News
+- Policy
 ---
+
 
 O desfile da igreja é uma tradição antes do Natal para todos os que servem na Guarda do Rei de Sua Majestade. Tanto o Casal Real quanto Sua Alteza Real, o Príncipe Herdeiro, estiveram presentes durante o desfile da igreja de Garden na Catedral de Oslo.
 

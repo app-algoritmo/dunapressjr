@@ -1,11 +1,12 @@
 ---
-title: "Aeronaves da FAB participam de força-tarefa de ajuda à Bahia"
+title: Aeronaves da FAB participam de força-tarefa de ajuda à Bahia
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em decorrência das enchentes nas cidades do extremo sul da Bahia, nos últimos dias, o Ministério da Defesa, por meio das Forças Armadas, está levando ajuda humanitária às populações mais atingidas. Nesse sábado (11), uma aeronave H-36 Caracal, operada pelo Esquadrão Falcão (1º/8º GAV), da Força Aérea Brasileira (FAB), foi deslocada para Porto Seguro (BA), onde será o polo base de atuação da força-tarefa de assistência às localidades. Para os próximos dias, será engajado, ainda, um helicóptero H-60L Black Hawk do Esquadrão Pantera (5º/8º GAV). As aeronaves prestarão apoio à Defesa Civil do estado baiano, sendo a coordenação de emprego dos aviões da FAB feita pelo Comando de Operações Aeroespaciais (COMAE), de Brasília (DF). Um helicóptero da Marinha do Brasil também está empregado na missão.
 

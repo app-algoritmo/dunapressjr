@@ -1,11 +1,12 @@
 ---
-title: "Biden considera novas sanções contra a Rússia após morte de Navalny"
+title: Biden considera novas sanções contra a Rússia após morte de Navalny
 date: 2024-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, anunciou na segunda-feira que sua administração está avaliando a implementação de novas sanções contra a Rússia, em resposta à morte do líder da oposição Alexei Navalny. A morte de Navalny ocorreu na última sexta-feira em uma prisão no Ártico, em circunstâncias ainda não esclarecidas.
 

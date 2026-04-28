@@ -1,11 +1,13 @@
 ---
-title: "Projeto de Lei facilita acesso de estudantes a conteúdo online sobre símbolos nacionais"
+title: Projeto de Lei facilita acesso de estudantes a conteúdo online sobre símbolos
+  nacionais
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 2633/22 torna obrigatório imprimir, em material didático do ensino fundamental, um código de barras (Código QR) que direcione o estudante para informações online sobre os símbolos nacionais: a bandeira, o Hino Nacional, o brasão da República, entre outros. O texto tramita na Câmara dos Deputados.
 

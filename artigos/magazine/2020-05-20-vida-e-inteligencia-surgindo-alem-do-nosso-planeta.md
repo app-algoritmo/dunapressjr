@@ -1,11 +1,12 @@
 ---
-title: "Vida e inteligência surgindo além do nosso planeta"
+title: Vida e inteligência surgindo além do nosso planeta
 date: 2020-05-20
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Apesar de saberem quando a vida apareceu pela primeira vez na Terra, os cientistas ainda não entendem como a vida ocorreu, o que tem implicações importantes para a probabilidade de encontrar vida em outras partes do universo. Um novo artigo mostra como uma análise usando uma técnica estatística chamada inferência bayesiana poderia esclarecer como a vida extraterrestre complexa pode evoluir em mundos alienígenas.
 

@@ -1,11 +1,13 @@
 ---
-title: "Meta lança ameaça 'antidemocrática e imprópria' para censurar notícias nos EUA"
+title: Meta lança ameaça 'antidemocrática e imprópria' para censurar notícias nos
+  EUA
 date: 2022-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Se o Congresso dos EUA não agir, a mídia social pode se tornar o "jornal local de fato da América".
 

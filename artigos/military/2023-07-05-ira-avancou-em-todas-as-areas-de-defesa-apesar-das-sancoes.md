@@ -1,11 +1,12 @@
 ---
-title: "'Irã avançou em todas as áreas de defesa apesar das sanções'"
+title: '''Irã avançou em todas as áreas de defesa apesar das sanções'''
 date: 2023-07-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Um alto oficial do Exército iraniano disse que a República Islâmica fez progressos significativos em todas as áreas de defesa, apesar das sanções impostas ao país pelos Estados Unidos e seus aliados ocidentais.
 

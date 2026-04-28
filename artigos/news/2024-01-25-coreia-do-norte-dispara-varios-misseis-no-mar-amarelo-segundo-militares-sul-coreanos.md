@@ -1,11 +1,12 @@
 ---
-title: "Coreia do Norte dispara vários mísseis no Mar Amarelo, segundo militares sul-coreanos"
+title: Coreia do Norte dispara vários mísseis no Mar Amarelo, segundo militares sul-coreanos
 date: 2024-01-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Coreia do Norte disparou na quarta-feira vários mísseis de cruzeiro em direção ao Mar Amarelo, situado entre a península e a China, informaram hoje os militares sul-coreanos, num momento de crescente tensão na zona.
 

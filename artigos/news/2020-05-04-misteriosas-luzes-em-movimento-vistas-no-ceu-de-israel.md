@@ -1,11 +1,12 @@
 ---
-title: "Misteriosas luzes em movimento vistas no céu de Israel"
+title: Misteriosas luzes em movimento vistas no céu de Israel
 date: 2020-05-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## A Agência Espacial e a Força Aérea de Israel foram chamadas ao resgate para conduzir a investigação: eram satélites SpaceX Starlink.
 

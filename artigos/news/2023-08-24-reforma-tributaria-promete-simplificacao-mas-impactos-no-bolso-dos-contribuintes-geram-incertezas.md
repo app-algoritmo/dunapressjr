@@ -1,11 +1,13 @@
 ---
-title: "Reforma tributária promete simplificação, mas Impactos no bolso dos contribuintes geram incertezas"
+title: Reforma tributária promete simplificação, mas Impactos no bolso dos contribuintes
+  geram incertezas
 date: 2023-08-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Participantes da audiência na CAE manifestam preocupações sobre possíveis aumentos de carga tributária e demandam dados concretos para avaliar proposta. 
 

@@ -1,11 +1,13 @@
 ---
-title: "Nove montadoras de carros, dez de caminhões e nove de ônibus aderem ao programa de redução de impostos para veículos no Brasil"
+title: Nove montadoras de carros, dez de caminhões e nove de ônibus aderem ao programa
+  de redução de impostos para veículos no Brasil
 date: 2023-06-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Programa do governo federal atrai interesse de diversas empresas e visa baratear o valor dos automóveis no país.
 

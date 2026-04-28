@@ -1,11 +1,12 @@
 ---
-title: "Orçamento de 2021 não terá contingenciamento, diz secretário"
+title: Orçamento de 2021 não terá contingenciamento, diz secretário
 date: 2020-09-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Com medida, teto de gastos será única âncora fiscal.
 

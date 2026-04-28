@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal deflagra operação que apura desvio de recursos públicos da educação no Piauí"
+title: Polícia Federal deflagra operação que apura desvio de recursos públicos da
+  educação no Piauí
 date: 2020-05-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Teresina/PI - **A Polícia Federal deflagrou, hoje (12/05), em ação conjunta com a Controladoria-Geral da União - CGU, a “Operação Delivery”, decorrente de investigação de desvio de recursos públicos da educação destinados ao município de União/PI.
 

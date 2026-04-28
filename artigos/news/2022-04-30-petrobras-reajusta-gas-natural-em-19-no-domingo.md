@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reajusta gás natural em 19% no domingo"
+title: Petrobras reajusta gás natural em 19% no domingo
 date: 2022-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### O novo preço tem validade até 31 de julho.
 

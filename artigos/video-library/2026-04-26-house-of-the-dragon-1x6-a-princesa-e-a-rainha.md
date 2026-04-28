@@ -1,11 +1,12 @@
 ---
-title: "House of The Dragon 1x6 - A Princesa e a Rainha"
+title: House of The Dragon 1x6 - A Princesa e a Rainha
 date: 2026-04-26
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Mix de Séries
 

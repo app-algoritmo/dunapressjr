@@ -1,11 +1,12 @@
 ---
-title: "Breaking News: Massacre em Oregon no Texas"
+title: 'Breaking News: Massacre em Oregon no Texas'
 date: 2019-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 20 pessoas morreram e 26 ficaram feridas na sequência de um ataque num centro comercial de El Paso, Texas, Estados Unidos (EUA).
 

@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro instala laboratórios de campanha em universidades"
+title: Governo Bolsonaro instala laboratórios de campanha em universidades
 date: 2020-09-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com investimento de R$35 milhões, 13 universidades participarão da iniciativa que pretende ampliar em cerca de 100 mil exames mês a capacidade nacional de diagnósticos. 
 

@@ -1,12 +1,14 @@
 ---
-title: "Com Camila Brait de volta, Osasco São Cristóvão Saúde estreia com vitória no Paulista"
+title: Com Camila Brait de volta, Osasco São Cristóvão Saúde estreia com vitória no
+  Paulista
 date: 2023-08-19
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Líbero reassumiu a condição de capitã da equipe e fez a alegria da torcida, que vibrou com o 3 a 0 sobre São Caetano.
 

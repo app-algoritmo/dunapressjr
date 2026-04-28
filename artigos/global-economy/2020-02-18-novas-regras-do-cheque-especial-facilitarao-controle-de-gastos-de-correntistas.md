@@ -1,11 +1,12 @@
 ---
-title: "Novas regras do cheque especial facilitarão controle de gastos de correntistas"
+title: Novas regras do cheque especial facilitarão controle de gastos de correntistas
 date: 2020-02-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *O cheque especial é um crédito acessível que fica disponível na conta de correntistas bancários; medida entra em vigor a partir de junho deste ano*
 

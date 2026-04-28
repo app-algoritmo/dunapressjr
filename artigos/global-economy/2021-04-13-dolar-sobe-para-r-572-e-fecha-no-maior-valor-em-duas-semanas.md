@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe para R$ 5,72 e fecha no maior valor em duas semanas"
+title: Dólar sobe para R$ 5,72 e fecha no maior valor em duas semanas
 date: 2021-04-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa de valores resiste a pressões externas e sobe quase 1%.
 

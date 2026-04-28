@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,27% e perde os 112 mil pontos"
+title: Ibovespa cai 0,27% e perde os 112 mil pontos
 date: 2023-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## A criação de uma possível moeda conjunta entre Brasil e Argentina é analisada pelos investidores.
 

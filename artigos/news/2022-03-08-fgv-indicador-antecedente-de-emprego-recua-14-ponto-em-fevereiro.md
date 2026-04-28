@@ -1,11 +1,12 @@
 ---
-title: "FGV: Indicador Antecedente de Emprego recua 1,4 ponto em fevereiro"
+title: 'FGV: Indicador Antecedente de Emprego recua 1,4 ponto em fevereiro'
 date: 2022-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado segue a tendência negativa dos últimos meses.
 

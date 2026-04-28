@@ -1,11 +1,12 @@
 ---
-title: "Regime comunista chinês condena cardeal por apoiar manifestantes"
+title: Regime comunista chinês condena cardeal por apoiar manifestantes
 date: 2022-11-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Zen foi preso pela primeira vez em maio, junto com outros quatro ativistas.
 

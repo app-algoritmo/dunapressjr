@@ -1,11 +1,12 @@
 ---
-title: "PF combate organização criminosa em Minas Gerais"
+title: PF combate organização criminosa em Minas Gerais
 date: 2020-04-10
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uberaba/MG – No dia 08 de abril, a Polícia Federal deflagrou, em conjunto com a Polícia Civil de Minas Gerais, a Operação “Saepta”, para investigar conduta de um possível membro de facção criminosa que agia em Minas Gerais.
 

@@ -1,11 +1,12 @@
 ---
-title: "AGU vai acompanhar de perto cumprimento da legislação eleitoral"
+title: AGU vai acompanhar de perto cumprimento da legislação eleitoral
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Decreto veio deixar clara estas atribuições.
 

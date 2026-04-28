@@ -1,11 +1,12 @@
 ---
-title: "Leilão de oferta permanente de partilha será em 16 de dezembro"
+title: Leilão de oferta permanente de partilha será em 16 de dezembro
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Calendário foi aprovado pela ANP.
 

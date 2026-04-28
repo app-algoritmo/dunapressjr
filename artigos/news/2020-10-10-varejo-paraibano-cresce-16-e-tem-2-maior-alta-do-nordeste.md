@@ -1,11 +1,12 @@
 ---
-title: "Varejo paraibano cresce 16% e tem 2ª maior alta do Nordeste"
+title: Varejo paraibano cresce 16% e tem 2ª maior alta do Nordeste
 date: 2020-10-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Com mais um mês de forte expansão nas vendas, o varejo paraibano registrou um crescimento de 16% em agosto sobre o mesmo período do ano passado, atingindo a 2ª maior alta da Região Nordeste, segundo Pesquisa Mensal do Comércio (PMC), divulgada nesta quinta-feira (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Apenas o Maranhão (23,5%) conseguiu índice maior na Região, mas a taxa da Paraíba ficou entre as sete maiores do País e alcançou alta bem acima da média do crescimento nacional (6,1%).
 

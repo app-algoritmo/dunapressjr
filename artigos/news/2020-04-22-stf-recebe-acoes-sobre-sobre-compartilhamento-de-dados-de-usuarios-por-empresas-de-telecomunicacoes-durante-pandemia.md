@@ -1,11 +1,13 @@
 ---
-title: "STF recebe ações sobre sobre compartilhamento de dados de usuários por empresas de telecomunicações durante pandemia"
+title: STF recebe ações sobre sobre compartilhamento de dados de usuários por empresas
+  de telecomunicações durante pandemia
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Supremo Tribunal Federal (STF) recebeu quatro Ações Diretas de Inconstitucionalidade (ADIs) contra a Medida Provisória (MP) 954/2020, que prevê o compartilhamento de dados de usuários por prestadoras de serviços de telecomunicações com o Instituto Brasileiro de Geografia e Estatística (IBGE), para dar suporte à produção estatística oficial durante a pandemia do coronavírus. 
 

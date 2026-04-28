@@ -1,11 +1,13 @@
 ---
-title: "'Waging Peace': como uma turnê pela Rússia me mostrou que a propaganda distorce a realidade na mente dos americanos"
+title: '''Waging Peace'': como uma turnê pela Rússia me mostrou que a propaganda distorce
+  a realidade na mente dos americanos'
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Minha jornada de um mês pelo país foi uma experiência reveladora, assim como a hostilidade que me esperava em casa.
 

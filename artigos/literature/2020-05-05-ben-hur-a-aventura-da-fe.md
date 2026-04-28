@@ -1,11 +1,12 @@
 ---
-title: "Ben Hur: A aventura da fé"
+title: 'Ben Hur: A aventura da fé'
 date: 2020-05-05
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Literature
+- Literature
 ---
+
 
 Reler um livro é sempre uma surpresa e uma redescoberta; redescoberta, pois, embora já tenhamos adentrado suas paisagens e perscrutado a mente de suas personagens, não somos o mesmo leitor, muitas leituras foram feitas depois daquela primeira e muitas experiências foram vividas depois, o que torna esse novo encontro notadamente mais profundo, atento e com significados diferentes e talvez até mesmo únicos. Surpresa, sim, devemos reconhecer que um clássico nunca se extingui em sua riqueza estética e conteudística, ao contrário, ele nos confronta a cada releitura e nos desafia a vermos, percebermos e compreendermos tudo que escapou às anteriores leituras, nisso está o surpreendente, como diria o brilhante Italo Calvino: “ Toda releitura de um clássico é uma leitura de descoberta como a primeira.” e “Um clássico é um livro que nunca terminou de dizer aquilo que tinha para dizer.”
 

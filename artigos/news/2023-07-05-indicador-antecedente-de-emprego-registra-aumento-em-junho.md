@@ -1,11 +1,12 @@
 ---
-title: "Indicador Antecedente de Emprego registra aumento em junho"
+title: Indicador Antecedente de Emprego registra aumento em junho
 date: 2023-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Resultado do IAEmp indica cautela, mas sinaliza possível retorno a uma trajetória favorável do mercado de trabalho nos próximos meses.
 

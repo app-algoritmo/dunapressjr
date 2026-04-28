@@ -1,11 +1,12 @@
 ---
-title: "Movimentação em portos cresce 5,5% de janeiro a outubro"
+title: Movimentação em portos cresce 5,5% de janeiro a outubro
 date: 2021-12-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## 344,5 milhões de toneladas passaram por terminais.
 

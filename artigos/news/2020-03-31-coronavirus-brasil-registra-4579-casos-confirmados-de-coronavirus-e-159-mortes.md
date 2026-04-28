@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Brasil registra 4.579 casos confirmados de coronavírus e 159 mortes"
+title: 'Coronavírus: Brasil registra 4.579 casos confirmados de coronavírus e 159
+  mortes'
 date: 2020-03-31
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Publicado no site do Ministério da Saúde, segunda, 30 de Março de 2020, 19h16. Última atualização em Segunda, 30 de Março de 2020, 19h45. *Todos os estados têm casos, 15 com óbitos: AM, BA, CE, MA, PE, PI, RN, MG, RJ, SP, DF, GO, PR, RS e SC*.
 

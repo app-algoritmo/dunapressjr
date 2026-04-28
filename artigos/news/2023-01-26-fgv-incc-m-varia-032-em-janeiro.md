@@ -1,11 +1,12 @@
 ---
-title: "FGV: INCC-M varia 0,32% em janeiro"
+title: 'FGV: INCC-M varia 0,32% em janeiro'
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O acumulado nos últimos 12 meses foi de 9,05%.
 

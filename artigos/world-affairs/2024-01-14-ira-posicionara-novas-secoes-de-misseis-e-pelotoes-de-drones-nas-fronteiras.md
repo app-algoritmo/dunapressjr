@@ -1,11 +1,12 @@
 ---
-title: "Irã posicionará novas seções de mísseis e pelotões de drones nas fronteiras"
+title: Irã posicionará novas seções de mísseis e pelotões de drones nas fronteiras
 date: 2024-01-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Comandante da Força Terrestre do Exército Iraniano, Brigadeiro General Kiumars Heidari, disse que novas seções de mísseis e pelotões de drones serão estacionados nas fronteiras.
 

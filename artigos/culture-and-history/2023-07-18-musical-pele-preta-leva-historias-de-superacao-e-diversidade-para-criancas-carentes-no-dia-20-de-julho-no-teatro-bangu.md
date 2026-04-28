@@ -1,11 +1,13 @@
 ---
-title: "Musical 'Pele Preta' leva histórias de superação e diversidade para crianças carentes, no dia 20 de julho, no Teatro Bangu"
+title: Musical 'Pele Preta' leva histórias de superação e diversidade para crianças carentes,
+  no dia 20 de julho, no Teatro Bangu
 date: 2023-07-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Culture and History
+- Culture and History
 ---
+
 
 ## Escrito e dirigido por Binho Cultura, espetáculo ressalta a força do conhecimento ancestral e aborda questões de raça e gênero.
 

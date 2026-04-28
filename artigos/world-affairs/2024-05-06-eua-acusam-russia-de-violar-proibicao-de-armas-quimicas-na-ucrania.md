@@ -1,11 +1,12 @@
 ---
-title: "EUA acusam Rússia de violar proibição de armas químicas na Ucrânia"
+title: EUA acusam Rússia de violar proibição de armas químicas na Ucrânia
 date: 2024-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Departamento de Estado dos Estados Unidos acusou a Rússia de violar a proibição internacional de armas químicas, alegando o uso do agente asfixiante cloropicrina e outras substâncias anti-motim em suas ofensivas na Ucrânia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Licitação do bloco 3 da Cedae deve atingir R$ 3 bilhões"
+title: Licitação do bloco 3 da Cedae deve atingir R$ 3 bilhões
 date: 2021-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Valor foi estimado pelo governador do Rio de Janeiro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Lavrov culpa os anglo-saxões por empurrarem o Médio Oriente para uma grande guerra"
+title: Lavrov culpa os anglo-saxões por empurrarem o Médio Oriente para uma grande
+  guerra
 date: 2023-11-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## De acordo com o chefe do Ministério das Relações Exteriores da Rússia, esta linha do Ocidente tradicionalmente leva a surtos de terrorismo e a fluxos multimilionários de refugiados.
 

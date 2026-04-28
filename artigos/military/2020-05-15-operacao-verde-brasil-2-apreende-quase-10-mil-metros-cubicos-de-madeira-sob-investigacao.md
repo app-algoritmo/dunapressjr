@@ -1,11 +1,13 @@
 ---
-title: "Operação Verde Brasil 2 apreende quase 10 mil metros cúbicos de madeira sob investigação"
+title: Operação Verde Brasil 2 apreende quase 10 mil metros cúbicos de madeira sob
+  investigação
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Quase 10 mil metros cúbicos de madeira foram apreendidos por militares e agentes de órgãos governamentais desde a deflagração da Operação Verde Brasil 2, no começo desta semana. A origem da madeira será investigada, devido à suspeita de ter sido extraída ilegalmente.
 

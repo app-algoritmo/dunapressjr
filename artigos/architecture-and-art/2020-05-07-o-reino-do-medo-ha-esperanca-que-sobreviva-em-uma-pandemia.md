@@ -1,11 +1,12 @@
 ---
-title: "O Reino do Medo: Há esperança que sobreviva em uma pandemia?"
+title: 'O Reino do Medo: Há esperança que sobreviva em uma pandemia?'
 date: 2020-05-07
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Minha mãe sempre me alerta sobre o poder das artes sobre a mente humana. *A arte nos leva para o futuro que não desejamos ver, nos fala das mazelas do presente que não queremos enxergar e nos desafia a entender o passado que lutamos para esquecer*, diz ela sempre que me compra um novo livro de literatura, vamos ao cinema ou ouvimos música. Essa sabedoria tem me guiado pelas veredas artísticas como observador criterioso.
 

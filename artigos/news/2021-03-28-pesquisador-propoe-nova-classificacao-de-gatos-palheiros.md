@@ -1,11 +1,12 @@
 ---
-title: "Pesquisador propõe nova classificação de gatos-palheiros"
+title: Pesquisador propõe nova classificação de gatos-palheiros
 date: 2021-03-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Graduado em Ciências Biológicas pelo Instituto de Biociências da Universidade de São Paulo (IB-USP), Fabio Oliveira é mestre e doutor na área pela mesma intuição. Ao concluir seu doutorado, o pesquisador revelou uma nova classificação, mais completa, para os gatos-palheiros.
 

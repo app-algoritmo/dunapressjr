@@ -1,11 +1,12 @@
 ---
-title: "Previsões astrológicas: como os astros mostram o futuro?"
+title: 'Previsões astrológicas: como os astros mostram o futuro?'
 date: 2022-06-15
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 A posição dos astros no céu é o ponto de partida para muitos estudos na astrologia. Dependendo da configuração dos elementos no [mapa astral](https://astrologialuzesombra.com.br/mapa-astral-gratis/) de uma pessoa, é possível tirar lições sobre diferentes aspectos, como a espiritualidade e, até mesmo, a carreira.
 

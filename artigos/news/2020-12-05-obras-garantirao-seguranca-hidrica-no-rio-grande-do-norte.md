@@ -1,11 +1,12 @@
 ---
-title: "Obras garantirão segurança hídrica no Rio Grande do Norte"
+title: Obras garantirão segurança hídrica no Rio Grande do Norte
 date: 2020-12-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Governo Federal investirá R$ 51 milhões para garantir a segurança hídrica no Rio Grande do Norte. O aporte foi anunciado, nesta quinta-feira (3), pelo ministro do Desenvolvimento Regional, Rogério Marinho, que visitou as barragens Oiticica, em Jucurutu, e Passagem das Traíras, em Jardim do Seridó.
 

@@ -1,11 +1,12 @@
 ---
-title: "FNDE fará repasses extras para alimentação escolar"
+title: FNDE fará repasses extras para alimentação escolar
 date: 2020-12-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Garantir a alimentação dos estudantes das redes públicas de ensino em períodos de estado de emergência ou calamidade pública. Essa foi a intenção do Fundo Nacional de Desenvolvimento da Educação (FNDE) ao alterar a legislação do Programa Nacional de Alimentação Escolar (Pnae) para permitir repasses extras a entes federativos de todo o país durante a crise do coronavírus.
 

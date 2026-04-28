@@ -1,11 +1,12 @@
 ---
-title: "Noruega usa inteligência artificial para promover a sustentabilidade"
+title: Noruega usa inteligência artificial para promover a sustentabilidade
 date: 2020-03-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Inteligência artificial (IA) é uma palavra na boca de todos. O poder da computação e a enorme quantidade de dados a serem processados ​​estão crescendo exponencialmente. Com a IA, grandes oportunidades estão se abrindo para a realização de tarefas que costumavam exigir inteligência humana de maneiras melhores, mais rápidas e mais eficientes.
 

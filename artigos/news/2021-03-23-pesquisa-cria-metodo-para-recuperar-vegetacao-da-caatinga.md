@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa cria método para recuperar vegetação da Caatinga"
+title: Pesquisa cria método para recuperar vegetação da Caatinga
 date: 2021-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma tecnologia da Universidade Federal do Rio Grande do Norte (UFRN) pode reverter a desertificação da Caatinga. Desenvolvida pela professora Gislene Ganade, a técnica consiste em usar mudas de raízes longas apoiadas por tubos e plantá-las em  locais individualmente  hidratados. Dez bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) fazem parte da equipe.
 

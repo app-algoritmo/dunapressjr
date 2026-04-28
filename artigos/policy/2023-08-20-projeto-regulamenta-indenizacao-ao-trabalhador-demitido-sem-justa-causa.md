@@ -1,11 +1,12 @@
 ---
-title: "Projeto regulamenta indenização ao trabalhador demitido sem justa causa"
+title: Projeto regulamenta indenização ao trabalhador demitido sem justa causa
 date: 2023-08-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Mecias de Jesus (Republicanos-RR) apresentou um projeto ([PLP 152/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/158769)) que regulamenta o artigo 7º da Constituição para tratar da indenização compensatória ao trabalhador em casos de despedida arbitrária ou sem justa causa. Pelo texto, os trabalhadores nesses casos devem ter direito a uma indenização, paga pelo empregador, de 40% sobre os depósitos da conta vinculada ao Fundo de Garantia do Tempo de Serviço (FGTS).
 

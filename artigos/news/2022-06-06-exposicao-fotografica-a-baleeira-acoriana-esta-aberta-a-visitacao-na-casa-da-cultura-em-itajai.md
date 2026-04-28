@@ -1,11 +1,13 @@
 ---
-title: "Exposição fotográfica A Baleeira Açoriana está aberta à visitação na Casa da Cultura em Itajaí"
+title: Exposição fotográfica A Baleeira Açoriana está aberta à visitação na Casa da
+  Cultura em Itajaí
 date: 2022-06-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Itajaí recebe, neste mês, durante a programação do aniversário de 162 anos da cidade, a exposição fotográfica A Baleeira Açoriana, de autoria do arquiteto Joel Pacheco, por meio do projeto “Açores – Conhecer é Viver!”. Na quinta-feira (02), aconteceu a abertura da mostra artística, que segue até a próxima quinta-feira (09), na Galeria Mauro Caelum da Casa da Cultura Dide Brandão.
 

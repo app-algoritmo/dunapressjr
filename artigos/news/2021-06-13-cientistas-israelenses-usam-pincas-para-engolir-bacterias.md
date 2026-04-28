@@ -1,11 +1,12 @@
 ---
-title: "Cientistas israelenses usam pinças para engolir bactérias"
+title: Cientistas israelenses usam pinças para engolir bactérias
 date: 2021-06-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Os criadores preveem que as pessoas tomarão comprimidos contendo milhões dessas moléculas, capazes de quebrar as defesas que os germes constroem ao seu redor.
 

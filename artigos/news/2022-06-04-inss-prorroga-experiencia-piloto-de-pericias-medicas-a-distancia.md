@@ -1,11 +1,12 @@
 ---
-title: "INSS prorroga experiência-piloto de perícias médicas a distância"
+title: INSS prorroga experiência-piloto de perícias médicas a distância
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Prorrogação vai até 30 de junho.
 

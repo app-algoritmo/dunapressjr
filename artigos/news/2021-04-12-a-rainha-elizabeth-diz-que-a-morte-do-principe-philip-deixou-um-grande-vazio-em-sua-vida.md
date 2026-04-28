@@ -1,11 +1,13 @@
 ---
-title: "A Rainha Elizabeth diz que a morte do Príncipe Philip deixou 'um grande vazio' em sua vida"
+title: A Rainha Elizabeth diz que a morte do Príncipe Philip deixou 'um grande vazio'
+  em sua vida
 date: 2021-04-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A rainha Elizabeth II ficou desolada com a morte de seu marido, o príncipe Philip, disse um dos filhos do casal no domingo, enquanto as orações eram feitas em cerimônias fúnebres em toda a Grã-Bretanha.
 

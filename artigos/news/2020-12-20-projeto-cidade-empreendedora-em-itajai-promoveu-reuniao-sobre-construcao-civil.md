@@ -1,11 +1,12 @@
 ---
-title: "Projeto Cidade Empreendedora em Itajaí promoveu reunião sobre construção civil"
+title: Projeto Cidade Empreendedora em Itajaí promoveu reunião sobre construção civil
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto Cidade Empreendedora promoveu ações de desenvolvimento com foco na construção civil. O Cidade Empreendedora é uma iniciativa da Secretaria de Desenvolvimento Econômico juntamente ao Sebrae Santa Catarina.
 

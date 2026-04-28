@@ -1,11 +1,12 @@
 ---
-title: "Subunidade inicia suas atividades de apoio de engenharia na 23ª Bda Inf Sl"
+title: Subunidade inicia suas atividades de apoio de engenharia na 23ª Bda Inf Sl
 date: 2020-05-15
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Marabá (PA)** – A 6ª Companhia de Engenharia de Combate de Selva (6ª Cia E Cmb Sl) iniciou as atividades de engenharia na 23ª Brigada de Infantaria de Selva com ações de apoio ao 1ª Grupo de Artilharia de Campanha de Selva.
 

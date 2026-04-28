@@ -1,11 +1,12 @@
 ---
-title: "Em Santos, Governo assina contrato de terminais leiloados e visita instalações"
+title: Em Santos, Governo assina contrato de terminais leiloados e visita instalações
 date: 2020-11-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os contratos de arrendamento de dois terminais de celulose, no Porto de Santos, em São Paulo, leiloados em agosto deste ano e vencidos pelo consórcio Eldorado Brasil Celulose e Bracell Celulose, foram assinados nesta segunda-feira (16).
 

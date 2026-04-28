@@ -1,11 +1,12 @@
 ---
-title: "Quando a saúde bucal atrapalha o emagrecimento?"
+title: Quando a saúde bucal atrapalha o emagrecimento?
 date: 2022-05-31
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Health
+- Health
 ---
+
 
 Manter o peso em métricas saudáveis, de acordo com cada organismo, pode ser uma tarefa difícil, principalmente para pessoas que já possuem doenças que tem como consequência o acúmulo desenfreado de peso. Entretanto, a busca pelo **emagrecimento **pode haver uma relação direta entre saúde bucal.
 

@@ -1,11 +1,12 @@
 ---
-title: "Thorvald,  o robô autônomo que mudará o futuro da agricultura"
+title: Thorvald,  o robô autônomo que mudará o futuro da agricultura
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 A Saga Robotics criou o Thorvald, uma plataforma de robôs modulares autônomos. O Thorvald pode ser configurado para executar tarefas na maioria dos ambientes agrícolas, tornando as fazendas mais eficientes.
 

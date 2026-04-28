@@ -1,11 +1,13 @@
 ---
-title: "A rota marítima secreta que trouxe sobreviventes do Holocausto ao pré-estado de Israel"
+title: A rota marítima secreta que trouxe sobreviventes do Holocausto ao pré-estado
+  de Israel
 date: 2021-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Nas primeiras horas de 19 de junho de 1946, o Wedgwood, um ex-navio da marinha canadense disfarçado de banana boat, se afastou silenciosamente de Vado, na costa da Riviera italiana.
 

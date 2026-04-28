@@ -1,11 +1,12 @@
 ---
-title: "A Epopéia Luso-Brazileira"
+title: A Epopéia Luso-Brazileira
 date: 2020-04-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 Em 22 de Abril de 1500, nascia Brasil
 

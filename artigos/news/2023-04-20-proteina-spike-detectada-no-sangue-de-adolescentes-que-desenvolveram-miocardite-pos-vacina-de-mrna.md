@@ -1,11 +1,13 @@
 ---
-title: "Proteína Spike detectada no sangue de adolescentes que desenvolveram miocardite pós vacina de mRNA"
+title: Proteína Spike detectada no sangue de adolescentes que desenvolveram miocardite
+  pós vacina de mRNA
 date: 2023-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A teoria das vacinas está enraizada na homeopatia, onde o sistema imunológico é estimulado tratando 'igual com igual', o que significa que as respostas de cura a doenças são catapultadas pela administração de substâncias minúsculas que o corpo pode reconhecer e, assim, criar anticorpos para proteção. No entanto, as vacinas se tornaram um veículo para injetar neurotoxinas conhecidas para 'invocar' uma resposta imune que não é natural, opressiva e muito perigosa. Isso não apenas põe em risco o próprio sistema imunológico, mas também põe em risco a função básica do sistema nervoso central, do cérebro e, sim, do coração.
 

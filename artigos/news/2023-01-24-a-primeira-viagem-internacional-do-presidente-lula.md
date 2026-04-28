@@ -1,11 +1,12 @@
 ---
-title: "A primeira viagem internacional do presidente Lula"
+title: A primeira viagem internacional do presidente Lula
 date: 2023-01-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O BNDES volta a cena no financiamento de países vizinhos.
 

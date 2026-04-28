@@ -1,11 +1,12 @@
 ---
-title: "Scott Ritter Alerta contra o uso das Filipinas como ferramenta contra a China"
+title: Scott Ritter Alerta contra o uso das Filipinas como ferramenta contra a China
 date: 2024-06-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Scott Ritter no X:
 

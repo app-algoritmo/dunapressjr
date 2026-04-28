@@ -1,11 +1,13 @@
 ---
-title: "Evento com a participação de Maurício de Sousa, debate como inovar na educação sem ignorar as raízes"
+title: Evento com a participação de Maurício de Sousa, debate como inovar na educação
+  sem ignorar as raízes
 date: 2021-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Dia 27 de maio começa o 1º Congresso da Conquista, que aborda o tema "Educação 4.0: conectando tradição e inovação". O evento, realizado pela Conquista Solução Educacional, visa discutir a necessidade de inovar e trazer soluções inéditas para os problemas que se apresentam e para atender às demandas de um novo mundo, mas também preservando e levando adiante a tradição que sempre vai servir como alicerce para o trabalho pedagógico. 
 

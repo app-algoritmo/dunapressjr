@@ -1,11 +1,12 @@
 ---
-title: "Veja como o gengibre ajuda a aliviar a ansiedade"
+title: Veja como o gengibre ajuda a aliviar a ansiedade
 date: 2023-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 O gengibre ( *Zingiber officinale* ) é frequentemente adicionado a pratos salgados por seu sabor acentuado. Também é fabricado em um chá e embebido por seus benefícios digestivos. No entanto, foi comprovado que esse rizoma [ajuda a aliviar os sintomas de ansiedade](https://www.mindbodygreen.com/articles/ginger-anti-anxiety) .
 

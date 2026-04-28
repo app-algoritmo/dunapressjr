@@ -1,11 +1,12 @@
 ---
-title: "Novo programa para veículos comerciais traz benefícios e vantagens inéditas"
+title: Novo programa para veículos comerciais traz benefícios e vantagens inéditas
 date: 2024-03-27
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - E-auto
+- E-auto
 ---
+
 
 ## Crescimento de 25% em volume e avanço de 28% na participação: Ford Pro vende 16 mil unidades e alcança 8% do segmento.
 

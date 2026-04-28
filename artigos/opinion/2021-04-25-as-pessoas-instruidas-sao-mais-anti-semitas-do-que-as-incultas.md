@@ -1,11 +1,12 @@
 ---
-title: "As pessoas instruídas são mais anti-semitas do que as incultas?"
+title: As pessoas instruídas são mais anti-semitas do que as incultas?
 date: 2021-04-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 ***Por Abraham Cooper***.
 

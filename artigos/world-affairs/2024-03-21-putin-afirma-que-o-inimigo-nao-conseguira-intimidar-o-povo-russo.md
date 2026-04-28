@@ -1,11 +1,12 @@
 ---
-title: "Putin afirma que o inimigo não conseguirá intimidar o povo russo"
+title: Putin afirma que o inimigo não conseguirá intimidar o povo russo
 date: 2024-03-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente russo, Vladimir Putin, reforçou em uma reunião com líderes das facções da Duma que as tentativas do inimigo de intimidar o povo russo não terão sucesso. Putin afirmou que o inimigo subestima a força e a coesão do povo russo, sugerindo que essas tentativas têm o efeito contrário ao desejado.
 

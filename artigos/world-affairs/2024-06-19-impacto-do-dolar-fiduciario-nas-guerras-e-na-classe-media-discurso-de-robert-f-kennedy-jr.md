@@ -1,11 +1,13 @@
 ---
-title: "Impacto do Dólar Fiduciário nas Guerras e na Classe Média - Discurso de Robert F. Kennedy Jr."
+title: Impacto do Dólar Fiduciário nas Guerras e na Classe Média - Discurso de Robert
+  F. Kennedy Jr.
 date: 2024-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 *“A moeda fiduciária foi inventada para financiar guerras... E torna irracional imprimi-la... As guerras não teriam acontecido se os políticos tivessem dito: 'Queremos gastar 3,6 biliões de dólares para nos livrarmos de Saddam Hussein, que tem nada a ver com isso.'Tinha a ver com o World Trade Center.”*
 

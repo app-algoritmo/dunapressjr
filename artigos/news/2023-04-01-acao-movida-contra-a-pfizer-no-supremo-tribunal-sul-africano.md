@@ -1,11 +1,12 @@
 ---
-title: "Ação movida contra a Pfizer no Supremo Tribunal Sul-Africano"
+title: Ação movida contra a Pfizer no Supremo Tribunal Sul-Africano
 date: 2023-04-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Médico britânico-indiano apoia revisão legal da vacina COVID na Suprema Corte da África do Sul.
 

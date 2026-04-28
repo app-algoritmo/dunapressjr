@@ -1,11 +1,13 @@
 ---
-title: "Robôs de precisão de startups israelenses prontos para transformar a cirurgia cerebral"
+title: Robôs de precisão de startups israelenses prontos para transformar a cirurgia
+  cerebral
 date: 2021-04-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Todos os anos, os médicos diagnosticam milhões de pessoas com tumores, coágulos sanguíneos e outras massas em seus cérebros. Em cada caso, os médicos devem pesar os benefícios da cirurgia contra possíveis danos neurológicos de longo prazo.
 

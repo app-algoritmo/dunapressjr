@@ -1,11 +1,12 @@
 ---
-title: "Naftali Bennett: O Irã cometeu um grave erro, sabemos como transmitir a mensagem"
+title: 'Naftali Bennett: O Irã cometeu um grave erro, sabemos como transmitir a mensagem'
 date: 2021-08-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## "Esperamos que o sistema internacional deixe claro para o Irã que eles cometeram um grave erro. Em qualquer caso, sabemos como transmitir a mensagem."
 

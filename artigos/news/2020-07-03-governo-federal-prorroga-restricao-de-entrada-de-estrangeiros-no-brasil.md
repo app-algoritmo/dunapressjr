@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal prorroga restrição de entrada de estrangeiros no Brasil"
+title: Governo Federal prorroga restrição de entrada de estrangeiros no Brasil
 date: 2020-07-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Restrição abrange estrangeiros de qualquer nacionalidade por meios terrestres, aéreos ou aquaviários.
 

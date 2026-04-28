@@ -1,11 +1,13 @@
 ---
-title: "Projeto de lei aprova adesão do Brasil a tratado internacional sobre patente de microrganismos"
+title: Projeto de lei aprova adesão do Brasil a tratado internacional sobre patente
+  de microrganismos
 date: 2023-01-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Decreto Legislativo (PDL) 466/22 aprova o texto do Tratado de Budapeste, da Organização Mundial de Propriedade Intelectual (OMPI), que trata dos critérios para o reconhecimento de patentes que envolvem microrganismos, como as relacionadas a vacinas e medicamentos. O texto tramita na Câmara dos Deputados.
 

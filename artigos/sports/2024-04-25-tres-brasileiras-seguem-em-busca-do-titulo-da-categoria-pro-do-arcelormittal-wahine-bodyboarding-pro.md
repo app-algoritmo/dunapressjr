@@ -1,11 +1,13 @@
 ---
-title: "Três brasileiras seguem em busca do título da categoria Pro do ArcelorMittal Wahine Bodyboarding Pro"
+title: Três brasileiras seguem em busca do título da categoria Pro do ArcelorMittal
+  Wahine Bodyboarding Pro
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Nesta quarta-feira (24), as capixabas Luna Hardman e Maylla Venturin, ao lado da carioca Dani Freitas, avançaram para as quartas de final. Três japonesas - entre as quais a número 1 do mundo e atual campeã, Sari Ohhara - e duas portuguesas também continuam na disputa.
 

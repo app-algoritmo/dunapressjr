@@ -1,11 +1,13 @@
 ---
-title: "Conheça a Medida Provisória que trata das relações de consumo no Turismo e na Cultura durante pandemia"
+title: Conheça a Medida Provisória que trata das relações de consumo no Turismo e
+  na Cultura durante pandemia
 date: 2020-04-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Texto resguarda direito do consumidor e das empresas ao apresentar regras para cancelamentos e remarcações de serviços, reservas e eventos.
 

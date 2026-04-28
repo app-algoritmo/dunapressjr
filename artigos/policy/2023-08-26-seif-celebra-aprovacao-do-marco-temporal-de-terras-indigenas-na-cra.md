@@ -1,11 +1,12 @@
 ---
-title: "Seif celebra aprovação do marco temporal de terras indígenas na CRA"
+title: Seif celebra aprovação do marco temporal de terras indígenas na CRA
 date: 2023-08-26
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Jorge Seif (PL-SC) comemorou, em pronunciamento no Plenário nesta quarta-feira (23), a aprovação projeto de lei que estabelece um marco temporal para a demarcação de terras indígenas ([PL 2.903/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157888)), na Comissão de Agricultura e Reforma Agrária (CRA). A proposta segue para a análise da Câmara dos Deputados.
 

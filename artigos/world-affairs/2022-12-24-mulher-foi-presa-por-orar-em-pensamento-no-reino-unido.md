@@ -1,11 +1,12 @@
 ---
-title: "Mulher foi presa por orar em pensamento no Reino Unido"
+title: Mulher foi presa por orar em pensamento no Reino Unido
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A profecia de George Orwell se concretizou quando Isabel Vaughan-Spruce foi presa no Reino Unido por orar em pensamento, o que constitui crime conforme consta em seu romance 1984.
 

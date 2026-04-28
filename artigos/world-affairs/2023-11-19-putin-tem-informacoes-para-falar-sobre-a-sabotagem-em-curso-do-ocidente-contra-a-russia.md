@@ -1,11 +1,13 @@
 ---
-title: "Putin tem informações para falar sobre a sabotagem em curso do Ocidente contra a Rússia"
+title: Putin tem informações para falar sobre a sabotagem em curso do Ocidente contra
+  a Rússia
 date: 2023-11-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## De acordo com o porta-voz presidencial Dmitry Peskov, o presidente russo “tem motivos para dizê-lo”.
 

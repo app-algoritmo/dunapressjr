@@ -1,11 +1,12 @@
 ---
-title: "Cúpula de Paz na Suíça: Ilusão de Diálogo ou Estratégia de Guerra?"
+title: 'Cúpula de Paz na Suíça: Ilusão de Diálogo ou Estratégia de Guerra?'
 date: 2024-06-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos dias 15 e 16 de junho, a Suíça sediará uma “Cúpula de Paz para a Ucrânia” no luxuoso Bürgenstock Hotel, com vistas deslumbrantes do Lago Lucerna. Esta iniciativa do governo suíço pretende lançar as bases para um processo de paz na Ucrânia, que está em guerra com a Rússia há dois anos. Contudo, a ausência da Rússia no evento levanta questões sobre a eficácia e a real intenção da conferência.
 

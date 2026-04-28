@@ -1,11 +1,12 @@
 ---
-title: "PF investiga grupo que fraudava auxílio emergencial"
+title: PF investiga grupo que fraudava auxílio emergencial
 date: 2020-11-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Resiliência tem a participação de 80 policiais.
 

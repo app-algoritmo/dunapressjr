@@ -1,11 +1,12 @@
 ---
-title: "'Inventaram inegibilidade imaginária para me cassar', diz Dallagnol"
+title: '''Inventaram inegibilidade imaginária para me cassar'', diz Dallagnol'
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Por unanimidade, TSE cassou mandato do ex-procurador.
 

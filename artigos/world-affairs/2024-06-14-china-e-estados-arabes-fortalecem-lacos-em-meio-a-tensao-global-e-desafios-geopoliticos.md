@@ -1,11 +1,13 @@
 ---
-title: "China e Estados Árabes Fortalecem Laços em Meio a Tensão Global e Desafios Geopolíticos"
+title: China e Estados Árabes Fortalecem Laços em Meio a Tensão Global e Desafios
+  Geopolíticos
 date: 2024-06-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A 19ª reunião anual do Fórum de Cooperação China-Estados Árabes (CASCF), realizada em Pequim em 29 de maio deste ano, destacou-se pelo contexto de tensão no Oriente Médio, especialmente devido ao conflito em Gaza, onde se denunciaram os atos de violência apoiados por Washington e pelo Ocidente. O CASCF, estabelecido em 2004, serve como uma plataforma formal de diálogo entre a China e a Liga Árabe.
 

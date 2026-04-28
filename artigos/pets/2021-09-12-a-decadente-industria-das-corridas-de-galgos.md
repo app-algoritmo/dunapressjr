@@ -1,11 +1,12 @@
 ---
-title: "A decadente indústria das corridas de Galgos"
+title: A decadente indústria das corridas de Galgos
 date: 2021-09-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Por Isabelle Tancione. 
 

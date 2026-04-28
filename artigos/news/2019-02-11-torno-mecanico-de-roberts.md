@@ -1,11 +1,12 @@
 ---
-title: "Torno mecânico de Roberts"
+title: Torno mecânico de Roberts
 date: 2019-02-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Roberts lanthe at Science Museum. Designed by Richards Roberts
 

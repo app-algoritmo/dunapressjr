@@ -1,11 +1,12 @@
 ---
-title: "Destinos à Deriva - Netflix"
+title: Destinos à Deriva - Netflix
 date: 2023-10-10
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 ### ** Escute a resenha Aqui:**
 

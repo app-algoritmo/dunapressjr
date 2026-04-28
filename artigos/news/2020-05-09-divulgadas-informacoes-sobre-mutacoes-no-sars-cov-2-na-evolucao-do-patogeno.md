@@ -1,11 +1,12 @@
 ---
-title: "Divulgadas Informações sobre mutações no SARS-CoV-2 na evolução do patógeno"
+title: Divulgadas Informações sobre mutações no SARS-CoV-2 na evolução do patógeno
 date: 2020-05-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Ao analisar os genomas de vírus de mais de 7.500 pessoas infectadas com o Covid-19, uma equipe de pesquisa liderada pela UCL caracterizou padrões de diversidade do genoma do vírus SARS-CoV-2, oferecendo pistas para direcionar medicamentos e alvos de vacina.
 O estudo, liderado pelo Instituto de Genética da UCL, identificou perto de 200 mutações genéticas recorrentes no vírus, destacando como ele pode estar se adaptando e evoluindo para seus hospedeiros humanos.

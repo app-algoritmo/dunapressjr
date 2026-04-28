@@ -1,11 +1,12 @@
 ---
-title: "Um breve resumo da Operação Zelotes"
+title: Um breve resumo da Operação Zelotes
 date: 2020-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Entre os diversos crimes apurados nesta operação merecem destaque: associação criminosa, lavagem de dinheiro e tráfico de influência
 O termo ZELOTES, que empresta nome à Operação, tem como significado o falso zelo ou cuidado fingido. Refere-se a alguns conselheiros julgadores do Conselho Administrativo de Recursos Fiscais -  CARF que não viriam atuando com o zelo e a imparcialidade necessárias.

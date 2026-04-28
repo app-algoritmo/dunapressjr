@@ -1,11 +1,13 @@
 ---
-title: "Pesquisa mostra que corantes alimentares podem danificar a estrutura do DNA e causar câncer"
+title: Pesquisa mostra que corantes alimentares podem danificar a estrutura do DNA
+  e causar câncer
 date: 2023-05-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## De acordo com o Center for Science in the Public Interest (CSPI), corantes alimentares comuns como Red 40 e Yellow 5 são feitos de petróleo e representam muitos riscos à saúde.
 

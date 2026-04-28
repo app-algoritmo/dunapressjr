@@ -1,11 +1,12 @@
 ---
-title: "Governo lança recomendações para garantir segurança nos portos"
+title: Governo lança recomendações para garantir segurança nos portos
 date: 2020-03-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governo Federal e o Ministério Público do Trabalho (MPT) oficializaram uma série de recomendações conjuntas para garantir proteção aos trabalhadores portuários e o funcionamento dos portos brasileiros com segurança. As recomendações são direcionadas às autoridades portuárias, empresas do setor e órgãos gestores.
 

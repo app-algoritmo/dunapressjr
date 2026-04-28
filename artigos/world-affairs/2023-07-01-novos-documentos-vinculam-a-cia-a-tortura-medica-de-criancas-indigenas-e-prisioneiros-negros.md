@@ -1,11 +1,13 @@
 ---
-title: "Novos documentos vinculam a CIA à tortura médica de crianças indígenas e prisioneiros negros"
+title: Novos documentos vinculam a CIA à tortura médica de crianças indígenas e prisioneiros
+  negros
 date: 2023-07-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Embora possamos nunca saber toda a verdade, devemos isso aos feridos e mortos para iluminar suas histórias.
 

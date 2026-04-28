@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai com alívio externo e fecha no menor valor em duas semanas"
+title: Dólar cai com alívio externo e fecha no menor valor em duas semanas
 date: 2021-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa de valores sobe 1,34% e recupera os 126 mil pontos.
 

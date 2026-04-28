@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto de combate à violência contra a mulher"
+title: Câmara aprova projeto de combate à violência contra a mulher
 date: 2022-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou o projeto de lei que propõe mais ações de fiscalização das medidas protetivas para mulheres em situação de violência doméstica e familiar e estimula a criação de delegacias especializadas de atendimento à mulher (Deam) com recursos do Fundo Nacional de Segurança Pública (FNSP).
 

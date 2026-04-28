@@ -1,12 +1,13 @@
 ---
-title: "D. Pedro I e a música da Independência"
+title: D. Pedro I e a música da Independência
 date: 2023-06-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Books
-  - Literature
+- Books
+- Literature
 ---
+
 
 ## E-book de autoria de Rosana Lanzelotte.
 

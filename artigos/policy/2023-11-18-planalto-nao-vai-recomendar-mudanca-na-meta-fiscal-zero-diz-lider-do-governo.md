@@ -1,11 +1,12 @@
 ---
-title: "Planalto não vai recomendar mudança na meta fiscal zero, diz líder do governo"
+title: Planalto não vai recomendar mudança na meta fiscal zero, diz líder do governo
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Poder Executivo decidiu não recomendar mudanças na meta de déficit zero prevista no texto original do projeto da Lei de Diretrizes Orçamentárias — LDO ([PLN 4/2023](https://www.congressonacional.leg.br/materias/pesquisa/-/materia/156890)). A informação é do líder do governo no Congresso Nacional, senador Randolfe Rodrigues (Rede-AP). O prazo para a proposição de emendas de parlamentares, comissões e bancadas estaduais à LDO termina nesta sexta-feira (17).
 

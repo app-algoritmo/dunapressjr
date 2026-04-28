@@ -1,11 +1,12 @@
 ---
-title: "Babosa é usada na criação de nanomateriais"
+title: Babosa é usada na criação de nanomateriais
 date: 2022-06-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Desenvolver materiais mais sustentáveis, de baixo custo e com menor geração de resíduos para o setor tecnológico: esse foi o objetivo de Jakeline Raiane Dora dos Santos, doutoranda no Programa de Pós-Graduação em Ciência e Engenharia de Materiais, da Universidade Federal do Rio Grande do Norte (UFRN). A bolsista  usou o extrato da babosa, uma planta que retem água e forma uma espécie de gel,  para compor nanomateriais que entram na produção de dispositivos de armazenamento e conversão de energia, baterias, células combustíveis e biodiesel. O método já tem pedido de patente no Instituto Nacional da Propriedade Intelectual (INPI).
 

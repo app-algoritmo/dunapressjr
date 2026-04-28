@@ -1,11 +1,12 @@
 ---
-title: "Infraestrutura continua atraente a investimento externo, diz ministro"
+title: Infraestrutura continua atraente a investimento externo, diz ministro
 date: 2020-05-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Segundo ele, 2021 será um ano de recuperação econômica.
 

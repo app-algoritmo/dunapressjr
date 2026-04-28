@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 1,29% e recupera 120 mil pontos"
+title: Ibovespa sobe 1,29% e recupera 120 mil pontos
 date: 2023-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai para R$ 4,91.
 

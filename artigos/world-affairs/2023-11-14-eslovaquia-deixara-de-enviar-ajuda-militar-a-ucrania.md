@@ -1,11 +1,12 @@
 ---
-title: "Eslováquia deixará de enviar ajuda militar à Ucrânia"
+title: Eslováquia deixará de enviar ajuda militar à Ucrânia
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## A decisão de parar de enviar ajuda militar estatal à Ucrânia foi tomada pelo governo do primeiro-ministro eslovaco, Robert Fico, que tomou posse em 25 de outubro.
 

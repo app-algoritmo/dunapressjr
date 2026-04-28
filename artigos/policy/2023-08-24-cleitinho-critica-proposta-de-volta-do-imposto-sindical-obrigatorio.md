@@ -1,11 +1,12 @@
 ---
-title: "Cleitinho critica proposta de volta do imposto sindical obrigatório"
+title: Cleitinho critica proposta de volta do imposto sindical obrigatório
 date: 2023-08-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Cleitinho (Republicanos-MG) criticou, em pronunciamento nesta terça-feira (22), estudo em andamento no Ministério do Trabalho para apresentar ao Congresso Nacional projeto para voltar com a contribuição sindical obrigatória para os trabalhadores. A taxa seria descontada na folha de pagamento e fixada em até 1% do rendimento anual do trabalhador.
 

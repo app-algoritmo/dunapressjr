@@ -1,11 +1,12 @@
 ---
-title: "O novo primeiro-ministro de Portugal renuncia a governar com o CHEGA"
+title: O novo primeiro-ministro de Portugal renuncia a governar com o CHEGA
 date: 2024-04-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A investidura do XXIV Governo Constitucional de Portugal, ocorrida na última terça-feira, 2 de abril, no Palácio Nacional da Ajuda, marcou o início de uma nova era repleta de desafios e expectativas. Composto pela coligação AD e detendo maioria relativa, o governo enfrenta uma série de questões pendentes deixadas por administrações anteriores, especialmente do campo socialista.
 

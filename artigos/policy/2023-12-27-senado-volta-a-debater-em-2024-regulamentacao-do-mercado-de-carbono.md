@@ -1,11 +1,12 @@
 ---
-title: "Senado volta a debater em 2024 regulamentação do mercado de carbono"
+title: Senado volta a debater em 2024 regulamentação do mercado de carbono
 date: 2023-12-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Senado volta a discutir em 2024 a regulamentação do mercado de carbono. A Casa aguarda a chegada do Projeto de Lei [(PL) 2.148/2015](https://www.camara.leg.br/propostas-legislativas/1548579), que cria o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE), estabelece tetos para emissões e prevê regras para a venda de títulos de compensação. O texto foi aprovado em dezembro pela Câmara dos Deputados.
 

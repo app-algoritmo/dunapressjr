@@ -1,11 +1,12 @@
 ---
-title: "Representante republicano diz que impeachment de Biden é provável"
+title: Representante republicano diz que impeachment de Biden é provável
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O presidente Joe Biden pode enfrentar um impeachment à medida que as paredes se fecham sobre ele e seu filho Hunter Biden.
 

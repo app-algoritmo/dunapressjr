@@ -1,11 +1,12 @@
 ---
-title: "O que as empresas podem esperar do marketing para 2023?"
+title: O que as empresas podem esperar do marketing para 2023?
 date: 2022-09-02
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Reconhecimento, medição do retorno do investimento (ROI), estratégia de dados consolidada e fazer da marca uma promessa são as quatro principais tendências globais de marketing para 2023. A projeção é apontada no [Relatório Anual de Marketing: Era do Alinhamento](https://www.nielsen.com/pt/insights/2022/nielsen-annual-marketing-report-era-of-alignment/), da Nielsen. 
 

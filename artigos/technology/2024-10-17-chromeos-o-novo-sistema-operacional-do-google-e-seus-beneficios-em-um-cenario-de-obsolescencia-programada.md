@@ -1,11 +1,13 @@
 ---
-title: "ChromeOS: O Novo Sistema Operacional do Google e Seus Benefícios em um Cenário de Obsolescência Programada"
+title: 'ChromeOS: O Novo Sistema Operacional do Google e Seus Benefícios em um Cenário
+  de Obsolescência Programada'
 date: 2024-10-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 A obsolescência programada tem sido um problema crescente no mundo da tecnologia. Dispositivos perdem o suporte e se tornam obsoletos rapidamente, levando os consumidores a substituí-los frequentemente, com impactos econômicos e ambientais significativos. Nesse cenário, o **ChromeOS**, o sistema operacional do Google, surge como uma alternativa viável, oferecendo uma solução que visa estender a vida útil dos dispositivos e reduzir o impacto ambiental causado pelo consumo desenfreado.
 

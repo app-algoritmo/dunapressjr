@@ -1,11 +1,13 @@
 ---
-title: "Grande tecnologia atrás das grades? A Lei de Segurança Online do Reino Unido explicada"
+title: Grande tecnologia atrás das grades? A Lei de Segurança Online do Reino Unido
+  explicada
 date: 2023-01-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 ## Uma proposta de lei no Reino Unido pode forçar as empresas de tecnologia a lidar com deepfakes, cyberflashing e verificação de idade para menores.
 

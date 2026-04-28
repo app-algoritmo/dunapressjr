@@ -1,11 +1,12 @@
 ---
-title: "Índice Geral de Preços – Mercado (IGP-M) apresenta queda de 0,72% em julho"
+title: Índice Geral de Preços – Mercado (IGP-M) apresenta queda de 0,72% em julho
 date: 2023-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação desacelera, mas índice acumulado em 12 meses ainda preocupa economistas. 
 

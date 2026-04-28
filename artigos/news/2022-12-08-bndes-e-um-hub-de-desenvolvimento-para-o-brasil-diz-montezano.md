@@ -1,11 +1,12 @@
 ---
-title: "BNDES é um hub de desenvolvimento para o Brasil, diz Montezano"
+title: BNDES é um hub de desenvolvimento para o Brasil, diz Montezano
 date: 2022-12-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Segundo ele, banco está entre as 100 marcas mais valiosas do país.
 

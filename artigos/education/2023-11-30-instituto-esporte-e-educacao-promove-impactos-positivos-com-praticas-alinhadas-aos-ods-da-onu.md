@@ -1,12 +1,14 @@
 ---
-title: "Instituto Esporte e Educação promove impactos positivos com práticas alinhadas aos ODS da ONU"
+title: Instituto Esporte e Educação promove impactos positivos com práticas alinhadas
+  aos ODS da ONU
 date: 2023-11-30
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
-  - Sports
+- Education
+- Sports
 ---
+
 
 ## IEE se une a empresas e realiza ações em busca da saúde, educação, igualdade de gênero, trabalho decente, redução de desigualdades, sustentabilidade, paz, justiça, instituições eficazes, parcerias e meios de implementação.
 

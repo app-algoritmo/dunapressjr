@@ -1,11 +1,13 @@
 ---
-title: "Itajaí receberá certificação nacional pela eliminação da transmissão vertical do HIV"
+title: Itajaí receberá certificação nacional pela eliminação da transmissão vertical
+  do HIV
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, através da Diretoria de Vigilância Epidemiológica da Secretaria Municipal de Saúde, receberá certificação nacional pela eliminação da transmissão vertical do HIV. A solenidade de entrega do certificado será na próxima quarta-feira (07), em Brasília. Apenas seis municípios de Santa Catarina foram contemplados. A cidade também receberá o Selo Ouro de Boas Práticas rumo à eliminação da sífilis congênita.
 

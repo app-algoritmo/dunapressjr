@@ -1,11 +1,13 @@
 ---
-title: "Coronavírus: Atualizados 2.915 casos confirmados de coronavírus e 77 mortes no Brasil"
+title: 'Coronavírus: Atualizados 2.915 casos confirmados de coronavírus e 77 mortes
+  no Brasil'
 date: 2020-03-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Informações retiradas do site do [Ministério da Saúde](https://www.saude.gov.br/noticias/agencia-saude/46610-brasil-registra-2-915-casos-confirmados-de-coronavirus-e-77-mortes), publicado: Quinta, 26 de Março de 2020, 21h26. Última atualização em Quinta, 26 de Março de 2020, 21h26.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal alerta sobre inconsistências na GFIP"
+title: Receita Federal alerta sobre inconsistências na GFIP
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## A Operação Falso Simples identificou que 31.899 empresas não optantes pelo SIMPLES NACIONAL informaram indevidamente a condição de optante por esse regime na GFIP.
 

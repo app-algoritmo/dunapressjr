@@ -1,11 +1,13 @@
 ---
-title: "Retomada do crescimento do Estado de Santa Catarina depende da vacina, diz secretário"
+title: Retomada do crescimento do Estado de Santa Catarina depende da vacina, diz
+  secretário
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O secretário de Estado da Fazenda, Paulo Eli, revelou nesta quarta-feira (25), na Assembleia Legislativa, que Santa Catarina trabalha com vários cenários de retomada do crescimento econômico no pós-pandemia de Covid-19. De acordo com o secretário, vai tudo depender da disponibilização da vacina contra a doença. “Se a vacina vier rápido, a recuperação vai ser forte. Se demorar um pouco mais, vai atrapalhar a recuperação econômica do mundo, o que afeta Santa Catarina também.”
 

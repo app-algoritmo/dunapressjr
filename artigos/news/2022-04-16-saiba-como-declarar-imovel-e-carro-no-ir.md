@@ -1,11 +1,12 @@
 ---
-title: "Saiba como declarar imóvel e carro no IR"
+title: Saiba como declarar imóvel e carro no IR
 date: 2022-04-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contribuinte deve prestar atenção a ganhos com valorização.
 

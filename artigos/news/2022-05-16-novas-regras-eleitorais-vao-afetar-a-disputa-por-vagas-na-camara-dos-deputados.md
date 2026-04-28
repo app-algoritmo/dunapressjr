@@ -1,11 +1,12 @@
 ---
-title: "Novas regras eleitorais vão afetar a disputa por vagas na Câmara dos Deputados"
+title: Novas regras eleitorais vão afetar a disputa por vagas na Câmara dos Deputados
 date: 2022-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Fragmentação do quadro partidário
 

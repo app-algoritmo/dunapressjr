@@ -1,12 +1,14 @@
 ---
-title: "O mundo moderno esqueceu que os cidadãos não têm apenas direitos, mas também obrigações"
+title: O mundo moderno esqueceu que os cidadãos não têm apenas direitos, mas também
+  obrigações
 date: 2026-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
-  - Policy
+- Chronicle
+- Policy
 ---
+
 
 Primeiro, sobre algumas observações de amigos e conhecidos: muitos deles, é claro, sabiam que as pessoas na são diferentes em todas as partes. Mas não na mesma medida diferente de escapar de seu próprio país em uma situação de guerra. E alguns dos diferentes não fugiram, mas permaneceram - e agora muitos desses mesmos amigos e conhecidos não sabem se comunicar com pessoas em situação semelhante. A ponto de se recusarem a se comunicar excessivamente, pelo menos para não ter surpresas desagradáveis. Afinal, existem bons paralelos neste tópico, com estatísticas. Só não o nosso, mas o americano. A história é esta: eles tiveram um feriado em família lá outro dia, Dia de Ação de Graças, quando deveriam se reunir à mesma mesa com parentes e amigos. E como resultado desse feriado, no processo de análise do que está acontecendo com a sociedade, surgiram estatísticas surpreendentes. Começando com esse número, o americano médio gastou 38% menos tempo com amigos e familiares este ano do que há dois anos.
 

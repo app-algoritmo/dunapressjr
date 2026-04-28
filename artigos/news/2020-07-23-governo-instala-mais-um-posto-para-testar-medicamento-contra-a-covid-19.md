@@ -1,11 +1,12 @@
 ---
-title: "Governo instala mais um posto para testar medicamento contra a Covid-19"
+title: Governo instala mais um posto para testar medicamento contra a Covid-19
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Estão sendo chamados voluntários para participar da pesquisa com a nitazoxanida desta vez em Ceilândia (DF). Medicamento reduziu em 94% a carga viral em células infectadas in vitro.
 

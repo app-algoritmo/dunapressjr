@@ -1,11 +1,12 @@
 ---
-title: "Condomínios e grandes empresas podem baratear a conta de luz comprando energia"
+title: Condomínios e grandes empresas podem baratear a conta de luz comprando energia
 date: 2022-09-08
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os custos com energia elétrica desafiam os brasileiros em meio à alta da inflação e a tentativa de retomada econômica dos setores produtivos. Nesse cenário, o [mercado livre de energia](https://tyrenergia.com.br/) pode ser uma alternativa para condomínios e empresas que buscam reduzir o valor da conta de luz.
 

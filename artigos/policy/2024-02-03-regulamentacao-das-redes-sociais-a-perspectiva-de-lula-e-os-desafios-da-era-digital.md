@@ -1,11 +1,13 @@
 ---
-title: "Regulamentação das Redes Sociais: A Perspectiva de Lula e os Desafios da Era Digital"
+title: 'Regulamentação das Redes Sociais: A Perspectiva de Lula e os Desafios da Era
+  Digital'
 date: 2024-02-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## *Presidente Luiz Inácio Lula Da Silva destaca a necessidade de regulamentação e responsabilidade nas redes sociais*.
 

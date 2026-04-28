@@ -1,11 +1,12 @@
 ---
-title: "Produção de veículos aumenta 8% no primeiro trimestre"
+title: Produção de veículos aumenta 8% no primeiro trimestre
 date: 2023-04-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Apesar da alta, Anfavea diz que setor repete fraco desempenho de 2022.
 

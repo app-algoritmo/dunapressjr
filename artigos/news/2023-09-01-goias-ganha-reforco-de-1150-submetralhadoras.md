@@ -1,11 +1,12 @@
 ---
-title: "Goiás: ganha reforço de 1.150 submetralhadoras"
+title: 'Goiás: ganha reforço de 1.150 submetralhadoras'
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Governador participa de solenidade no Comando Geral da Polícia Militar, com entrega de armas de fabricação alemã para reforçar combate ao crime no estado.
 

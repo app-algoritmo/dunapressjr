@@ -1,11 +1,12 @@
 ---
-title: "Jair Bolsonaro conversa com presidente da Rússia, Vladimir Putin"
+title: Jair Bolsonaro conversa com presidente da Rússia, Vladimir Putin
 date: 2020-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foram debatidos temas como o combate à Covid-19.
 

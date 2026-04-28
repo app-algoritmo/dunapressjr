@@ -1,11 +1,13 @@
 ---
-title: "Usando células-tronco, pesquisadores brasileiros, conseguiram criar miniatura de cérebro Neandertal"
+title: Usando células-tronco, pesquisadores brasileiros, conseguiram criar miniatura
+  de cérebro Neandertal
 date: 2021-04-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Pesquisadores brasileiros da Pontifícia Universidade Católica do Paraná (PUC-PR), da Universidade Federal do ABC (UFABC) e da Universidade da Califórnia (EUA), reproduziram em laboratório a ‘criação’ de cérebros humanos a partir de células-tronco. A experiência é o primeiro passo para se comparar o funcionamento dos cérebros humanoides primitivo e moderno.
 

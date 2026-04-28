@@ -1,11 +1,12 @@
 ---
-title: "Faturas de cartão com linguagem simples podem reduzir endividamento"
+title: Faturas de cartão com linguagem simples podem reduzir endividamento
 date: 2022-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa do BC faz parte do Relatório de Economia Bancária.
 

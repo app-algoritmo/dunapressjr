@@ -1,11 +1,12 @@
 ---
-title: "São Paulo: Tribuna Virtual discute hospitais de campanha e vacina contra coronavírus"
+title: 'São Paulo: Tribuna Virtual discute hospitais de campanha e vacina contra coronavírus'
 date: 2020-06-16
 status: publish
 author: Vitor Guerino
 categories:
-  - News
+- News
 ---
+
 
 Aplicativo de ensino a distância usado em algumas redes estaduais, visita de deputados a hospital de campanha e parceria com empresa chinesa para testes de vacina contra o coronavírus foram alguns dos assuntos tratados na Tribuna Virtual desta segunda-feira (15/6).
 

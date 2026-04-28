@@ -1,11 +1,12 @@
 ---
-title: "Cientistas identificam proteína que transporta o novo coronavírus"
+title: Cientistas identificam proteína que transporta o novo coronavírus
 date: 2020-03-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Resultado pode facilitar desenvolvimento de terapias antivirais
 

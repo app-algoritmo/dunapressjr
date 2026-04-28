@@ -1,11 +1,12 @@
 ---
-title: "Veja as principais mudanças do Marco Legal do Gás"
+title: Veja as principais mudanças do Marco Legal do Gás
 date: 2021-04-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Texto foi aprovado pelo Congresso Nacional em 17 de março.
 

@@ -1,11 +1,12 @@
 ---
-title: "Aumenta número de denúncias de violação aos direitos de idosos durante pandemia"
+title: Aumenta número de denúncias de violação aos direitos de idosos durante pandemia
 date: 2020-06-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Negligência, violência psicológica e abuso financeiro e econômico estão entre os tipos de violência mais praticados contra as pessoas idosas, de acordo com dados do Disque 100 de 2019. E com a pandemia do novo coronavírus, as denúncias de violações contra essa parcela da população tem aumentado.
 

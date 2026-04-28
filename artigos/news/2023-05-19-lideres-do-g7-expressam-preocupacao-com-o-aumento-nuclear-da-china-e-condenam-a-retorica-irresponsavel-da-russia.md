@@ -1,11 +1,13 @@
 ---
-title: "Líderes do G7 expressam preocupação com o aumento nuclear da China e condenam a retórica irresponsável da Rússia"
+title: Líderes do G7 expressam preocupação com o aumento nuclear da China e condenam
+  a retórica irresponsável da Rússia
 date: 2023-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## G7 destaca ameaças à estabilidade global e reafirma compromisso com um mundo livre de armas nucleares.
 

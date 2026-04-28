@@ -1,11 +1,12 @@
 ---
-title: "Pela primeira vez desde a Guerra dos Seis Dias"
+title: Pela primeira vez desde a Guerra dos Seis Dias
 date: 2020-10-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Este será o primeiro ano desde 1967, quando Jerusalém foi libertada, que o Kotel ficará quase totalmente privado de seus amados judeus.
 

@@ -1,11 +1,13 @@
 ---
-title: "Orbán avisa Tucker: 'A Terceira Guerra Mundial está chegando' - Traga Trump de volta!"
+title: 'Orbán avisa Tucker: ''A Terceira Guerra Mundial está chegando'' - Traga Trump
+  de volta!'
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante a recente visita de Tucker Carlson a Budapeste, onde fez um discurso pedindo desculpas pelo comportamento “repugnante” do embaixador dos EUA na Hungria, o antigo apresentador da Fox News reuniu-se com o primeiro-ministro húngaro, Viktor Orbán.
 

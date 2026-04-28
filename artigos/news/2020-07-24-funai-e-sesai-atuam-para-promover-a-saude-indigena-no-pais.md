@@ -1,11 +1,12 @@
 ---
-title: "Funai e Sesai atuam para promover a saúde indígena no País"
+title: Funai e Sesai atuam para promover a saúde indígena no País
 date: 2020-07-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Órgãos do governo atuam em conjunto no combate ao novo coronavírus em terras indígenas. A Funa monitora as ações e serviços de atenção enquanto a oferta e execução dos trabalhos são de responsabilidade da Sesai.
 

@@ -1,11 +1,12 @@
 ---
-title: "Supremo extingue pena do ex-deputado Paulo Maluf"
+title: Supremo extingue pena do ex-deputado Paulo Maluf
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Decisão leva em conta indulto natalino assinado em 2021.
 

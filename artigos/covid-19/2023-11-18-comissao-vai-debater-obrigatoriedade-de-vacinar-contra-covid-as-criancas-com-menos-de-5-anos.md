@@ -1,11 +1,13 @@
 ---
-title: "Comissão vai debater obrigatoriedade de vacinar contra covid as crianças com menos de 5 anos"
+title: Comissão vai debater obrigatoriedade de vacinar contra covid as crianças com
+  menos de 5 anos
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 A Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados vai realizar audiência pública, na terça-feira (21), para debater a obrigatoriedade de vacinar crianças de seis meses a cinco anos contra Covid.
 

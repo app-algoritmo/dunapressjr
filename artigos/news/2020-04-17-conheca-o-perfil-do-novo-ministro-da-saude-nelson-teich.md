@@ -1,11 +1,12 @@
 ---
-title: "Conheça o perfil do novo Ministro da Saúde Nelson Teich"
+title: Conheça o perfil do novo Ministro da Saúde Nelson Teich
 date: 2020-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Especialista em oncologia e na área de gestão e liderança nas mais renomadas instituições internacionais. Também é pesquisador e conhece o cenário de saúde nas áreas mais complexas.
 

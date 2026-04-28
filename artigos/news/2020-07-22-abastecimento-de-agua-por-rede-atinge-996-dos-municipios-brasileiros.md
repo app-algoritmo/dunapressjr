@@ -1,11 +1,12 @@
 ---
-title: "Abastecimento de água por rede atinge 99,6% dos municípios brasileiros"
+title: Abastecimento de água por rede atinge 99,6% dos municípios brasileiros
 date: 2020-07-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 É o que revela pesquisa feita pelo IBGE.
 

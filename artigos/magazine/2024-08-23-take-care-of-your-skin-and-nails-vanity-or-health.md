@@ -1,11 +1,12 @@
 ---
-title: "Take care of your skin and nails: Vanity or Health?"
+title: 'Take care of your skin and nails: Vanity or Health?'
 date: 2024-08-23
 status: publish
-author: drnataliabellan
+author: Natalia Bellan
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Taking care of your skin and nails is essential to maintaining your health and appearance at any stage of life. This care varies according to gender and age, as each group has specific needs. Let's explore how men, women and children can properly care for their skin and nails to maintain their health and well-being.
 

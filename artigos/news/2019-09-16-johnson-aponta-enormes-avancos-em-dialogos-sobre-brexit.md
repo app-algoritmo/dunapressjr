@@ -1,11 +1,12 @@
 ---
-title: "Johnson aponta 'enormes avanços' em diálogos sobre Brexit"
+title: Johnson aponta 'enormes avanços' em diálogos sobre Brexit
 date: 2019-09-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A União Europeia (UE) segue à espera de "propostas concretas". 
 

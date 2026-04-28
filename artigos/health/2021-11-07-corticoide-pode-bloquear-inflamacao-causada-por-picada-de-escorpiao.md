@@ -1,11 +1,12 @@
 ---
-title: "Corticoide pode bloquear inflamação causada por picada de escorpião"
+title: Corticoide pode bloquear inflamação causada por picada de escorpião
 date: 2021-11-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Pesquisa realizada por Mouzarllem Barros dos Reis, doutor em Imunologia Básica e Aplicada pela Faculdade de Medicina de Ribeirão Preto (USP), analisou o processo inflamatório causado pela picada do escorpião amarelo, *Tityus serrulatus*. O veneno do animal, além de provocar ataque cardíaco e edema pulmonar, principalmente em crianças e idosos, pode ser fatal. O estudo foi vencedor do [Prêmio CAPES de Tese 2021](https://www.gov.br/premios/premio-capes-de-tese-1), na área de Ciências Biológicas III.
 

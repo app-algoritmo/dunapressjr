@@ -1,11 +1,13 @@
 ---
-title: "Eutanásia de cães e gatos: procedimento requer compreensão da dor do animal e aceitação da experiência do luto"
+title: 'Eutanásia de cães e gatos: procedimento requer compreensão da dor do animal
+  e aceitação da experiência do luto'
 date: 2024-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Do grego, “eu” – bom – e “thanatos” – morte -, o termo Eutanásia representa o modo humanitário de matar o animal, sem dor e com mínimo estresse. É indicada quando um animal enfrenta uma doença incurável e está em sofrimento insuportável. A complexidade do tema exige uma compreensão ampla e ética. Bruno Alvarenga, professor de Medicina Veterinária do Centro Universitário de Brasília (CEUB), destaca os diversos aspectos envolvidos e os impactos da prática em animais.
 

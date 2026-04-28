@@ -1,11 +1,12 @@
 ---
-title: "Amazônia e Cerrado receberão R$ 2 milhões para projetos da bioeconomia"
+title: Amazônia e Cerrado receberão R$ 2 milhões para projetos da bioeconomia
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio da Secretaria de Agricultura Familiar e Cooperativismo, anunciou uma nova parceria com a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) para promover a estruturação, o fortalecimento e o aprimoramento das cadeias produtivas do açaí, cupuaçu, castanha-do-Brasil, piaçava, mandioca, mel de abelhas nativas, baunilhas brasileiras e sistemas agroflorestais biodiversos nos biomas Amazônia e Cerrado. Além disso, por meio do desenvolvimento de inovações, a iniciativa buscará potencializar o acesso dessas cadeias aos mercados. Mais de R$ 2 milhões foram assegurados pelo Mapa para a execução das atividades que integram o programa federal Bioeconomia Brasil - Sociobiodiversidade.
 

@@ -1,11 +1,12 @@
 ---
-title: "Crise das Gangues na Suécia: Revelações Chocantes sobre a Escala do Problema"
+title: 'Crise das Gangues na Suécia: Revelações Chocantes sobre a Escala do Problema'
 date: 2024-03-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Recentemente, um novo relatório da polícia sueca lançou luz sobre a terrível situação enfrentada pelo país escandinavo. Com números alarmantes, o relatório revela que cerca de 62.000 pessoas na Suécia estão envolvidas em gangues criminosas, em uma população de apenas 10,4 milhões de habitantes.
 

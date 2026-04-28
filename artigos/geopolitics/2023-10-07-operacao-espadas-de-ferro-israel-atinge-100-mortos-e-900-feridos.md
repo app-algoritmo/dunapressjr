@@ -1,11 +1,12 @@
 ---
-title: "Operação Espadas de Ferro: Israel atinge 100 mortos e 900 feridos"
+title: 'Operação Espadas de Ferro: Israel atinge 100 mortos e 900 feridos'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Até o final de hoje, não haverá mais terroristas vivos em Israel  – porta-voz do exército israelense, Richard Hecht
 

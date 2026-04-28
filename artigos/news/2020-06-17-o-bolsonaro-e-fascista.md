@@ -1,11 +1,12 @@
 ---
-title: "O Bolsonaro é fascista?"
+title: O Bolsonaro é fascista?
 date: 2020-06-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O PR Jair Bolsonaro tem sido caracterizado pela mídia extremista nacional e internacional, por grupos de guerrilhas, por grupos terroristas, por opositores e partidos  comunio-socialistas e até mesmo por ministros da suprema corte e lideres das câmaras legislativas, como “representante do fascismo”, no entanto, se acredita que metade dos eleitores brasileiros não tem ideia do que seja o fascismo e outros 25% estão sendo induzidos pelos grupos anteriormente citados.
 

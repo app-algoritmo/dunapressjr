@@ -1,11 +1,13 @@
 ---
-title: "Fundação alemã doa milhões  para ajudar sobreviventes do Holocausto em meio a pandemia"
+title: Fundação alemã doa milhões  para ajudar sobreviventes do Holocausto em meio
+  a pandemia
 date: 2020-04-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Fundação Alfred Landecker, com sede em Berlim, diz que os sobreviventes são particularmente vulneráveis ​​à luz do COVID-19, tanto à infecção quanto aos efeitos do auto-isolamento.
 

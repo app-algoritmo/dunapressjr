@@ -1,11 +1,12 @@
 ---
-title: "Guedes diz que acordos políticos dificultam privatizações"
+title: Guedes diz que acordos políticos dificultam privatizações
 date: 2020-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Para ministro, divergências em relação à vacina são naturais.
 

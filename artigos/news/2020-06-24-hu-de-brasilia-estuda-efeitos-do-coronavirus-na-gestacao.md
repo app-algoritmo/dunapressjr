@@ -1,11 +1,12 @@
 ---
-title: "HU de Brasília estuda efeitos do coronavírus na gestação"
+title: HU de Brasília estuda efeitos do coronavírus na gestação
 date: 2020-06-24
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Por meio de pré-natal e parto em gestantes curadas, HUB-UnB/Ebserh analisará os impactos da doença, além do acompanhamento da criança
 

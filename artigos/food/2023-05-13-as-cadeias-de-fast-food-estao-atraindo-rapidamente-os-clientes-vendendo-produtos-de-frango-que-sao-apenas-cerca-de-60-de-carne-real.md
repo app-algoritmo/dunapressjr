@@ -1,11 +1,13 @@
 ---
-title: "As cadeias de fast-food estão atraindo rapidamente os clientes, vendendo produtos de frango que são apenas cerca de 60% de carne real"
+title: As cadeias de fast-food estão atraindo rapidamente os clientes, vendendo produtos
+  de frango que são apenas cerca de 60% de carne real
 date: 2023-05-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 A carne orgânica real está ficando cada vez mais difícil de encontrar. Uma análise mais detalhada de 13 cadeias populares de fast-food revela que [a maioria desses restaurantes vende produtos de frango com apenas cerca de 60% de carne real](https://www.dailymail.co.uk/news/article-12068339/How-fast-food-chains-bulking-chicken-based-offerings-seaweed-beef-WOOD.html) .
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente turco mais uma vez descreve Israel como estado terrorista"
+title: Presidente turco mais uma vez descreve Israel como estado terrorista
 date: 2023-11-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O líder observou que a Turquia continuará a trabalhar para garantir que o mundo “reconheça Israel como um estado terrorista”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Melhores opções de investimento em Bancos Digitais"
+title: Melhores opções de investimento em Bancos Digitais
 date: 2021-11-23
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Atualmente, muito se fala na TV, na internet e em canais do YouTube sobre investimentos. Assim, muitas pessoas estão em busca de informações sobre o tema. 
 

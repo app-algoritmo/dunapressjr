@@ -1,11 +1,12 @@
 ---
-title: "Lava-Jato: A maior operação de combate à corrupção da história brasileira"
+title: 'Lava-Jato: A maior operação de combate à corrupção da história brasileira'
 date: 2024-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A Operação Lava-Jato marcou um divisor de águas na história do Brasil, revelando uma teia de corrupção enraizada nos mais altos escalões políticos e empresariais do país. Iniciada em março de 2014, essa operação desencadeou uma série de investigações que resultaram em prisões, condenações e mudanças profundas na forma como a sociedade brasileira encara a corrupção e exige transparência de seus líderes.
 

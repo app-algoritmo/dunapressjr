@@ -1,11 +1,13 @@
 ---
-title: "Rússia se torna o quarto maior exportador agrícola do mundo com receitas de 43,5 bilhões de dólares"
+title: Rússia se torna o quarto maior exportador agrícola do mundo com receitas de
+  43,5 bilhões de dólares
 date: 2024-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Na terça-feira, o presidente russo, Vladimir Putin, anunciou que a Rússia alcançou um marco significativo no setor agrícola, tornando-se o quarto maior país em exportações agrícolas, com receitas impressionantes de 43,5 bilhões de dólares. Putin destacou que esse sucesso é especialmente evidente no setor de trigo, onde a Rússia se posiciona como o líder mundial.
 

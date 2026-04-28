@@ -1,12 +1,14 @@
 ---
-title: "Min Damares Alves discursou 43ª Sessão do Conselho dos Direitos Humanos das Nações Unidas, em Genebra, na Suíça"
+title: Min Damares Alves discursou 43ª Sessão do Conselho dos Direitos Humanos das
+  Nações Unidas, em Genebra, na Suíça
 date: 2020-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
-  - Policy
+- News
+- Policy
 ---
+
 
 No âmbito da 43ª sessão do Conselho de Direitos Humanos da Organização das Nações Unidas, realizada na terça-feira na cidade suíça de Genebra, Damares Alves, chefe do Ministério da Mulher, Família e Direitos Humanos do governo de Jair Bolsonaro, disse que o presidente combaterá "a afronta à fé cristã" que ele acredita estar sendo vista no país durante as comemorações do carnaval.
 

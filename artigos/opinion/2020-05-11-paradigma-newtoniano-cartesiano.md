@@ -1,11 +1,12 @@
 ---
-title: "Paradigma Newtoniano-Cartesiano"
+title: Paradigma Newtoniano-Cartesiano
 date: 2020-05-11
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Por Gabriela Garcia.
 

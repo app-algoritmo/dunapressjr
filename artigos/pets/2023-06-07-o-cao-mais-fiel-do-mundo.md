@@ -1,11 +1,12 @@
 ---
-title: "O cão mais fiel do mundo"
+title: O cão mais fiel do mundo
 date: 2023-06-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 O cão mais leal do mundo que esperou seu dono por 10 anos! Uma história verdadeira que inspirou o emocionante filme “Sempre ao seu lado” com Richard Gere (na imagem).
 

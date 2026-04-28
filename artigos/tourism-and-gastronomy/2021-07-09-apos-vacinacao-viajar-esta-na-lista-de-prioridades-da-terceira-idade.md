@@ -1,11 +1,12 @@
 ---
-title: "Após vacinação, viajar está na lista de prioridades da terceira idade"
+title: Após vacinação, viajar está na lista de prioridades da terceira idade
 date: 2021-07-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 O Brasil completa três meses do começo da vacinação contra a Covid-19, e, em todo o país, os idosos são os primeiros da fila a serem imunizados. Segundo dados do sistema do Ministério da Saúde em que estão registradas todas as doses já aplicadas, o OpendataSUS, quase 12 milhões de idosos, que representam 39% de pessoas da terceira idade no país, receberam as duas doses da vacina.
 

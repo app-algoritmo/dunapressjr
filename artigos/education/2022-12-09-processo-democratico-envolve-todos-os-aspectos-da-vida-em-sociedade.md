@@ -1,11 +1,12 @@
 ---
-title: "Processo democrático envolve todos os aspectos da vida em sociedade"
+title: Processo democrático envolve todos os aspectos da vida em sociedade
 date: 2022-12-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Da merenda servida na hora do intervalo ao asfalto que existe ou falta no caminho de casa até a escola, tudo passa pela política. Por isso, a Base Nacional Comum Curricular (BNCC) traz, entre as competências gerais da Educação Básica, “agir pessoal e coletivamente com autonomia, responsabilidade, flexibilidade, resiliência e determinação, tomando decisões com base em princípios éticos, democráticos, inclusivos, sustentáveis e solidários”. Falar sobre política, democracia e cidadania não é, portanto, uma escolha, mas uma exigência.
 

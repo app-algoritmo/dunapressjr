@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro repassa R$ 4,3 milhões para cidades afetadas por desastres"
+title: Governo Bolsonaro repassa R$ 4,3 milhões para cidades afetadas por desastres
 date: 2020-12-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Ministério do Desenvolvimento Regional, por meio da Secretaria Nacional de Proteção e Defesa Civil, liberou o repasse de R$ 4,3 milhões para cidades afetadas por inundações, vendavais e chuvas intensas. Os recursos beneficiarão municípios do Rio Grande do Sul, Mato Grosso, São Paulo, Minas Gerais e Maranhão.
 

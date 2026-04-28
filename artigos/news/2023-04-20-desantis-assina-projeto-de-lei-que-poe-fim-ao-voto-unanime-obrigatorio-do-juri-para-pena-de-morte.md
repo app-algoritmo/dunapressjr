@@ -1,11 +1,13 @@
 ---
-title: "DeSantis assina projeto de lei que põe fim ao voto unânime obrigatório do júri para pena de morte"
+title: DeSantis assina projeto de lei que põe fim ao voto unânime obrigatório do júri
+  para pena de morte
 date: 2023-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## O governador da Flórida, Ron DeSantis, assinou um projeto de lei que encerra a exigência de júri unânime para casos de pena de morte.
 

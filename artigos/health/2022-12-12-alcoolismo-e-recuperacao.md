@@ -1,11 +1,12 @@
 ---
-title: "Alcoolismo e Recuperação"
+title: Alcoolismo e Recuperação
 date: 2022-12-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 O álcool é uma droga lícita, socialmente aceita, de fácil acesso e a mais vendida no mundo.
 

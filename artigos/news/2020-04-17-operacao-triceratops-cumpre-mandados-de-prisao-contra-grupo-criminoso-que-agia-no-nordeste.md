@@ -1,11 +1,13 @@
 ---
-title: "Operação Tricerátops cumpre mandados de prisão contra grupo criminoso que agia no Nordeste"
+title: Operação Tricerátops cumpre mandados de prisão contra grupo criminoso que agia
+  no Nordeste
 date: 2020-04-17
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Natal/RN – A Força-Tarefa de Combate às Facções Criminosas no Rio Grande do Norte, coordenada pela Polícia Federal e composta por policiais federais, policiais militares e policiais civis da SESED/RN e, ainda, agentes penitenciários federais, atuando com apoio da Secretaria de Operações Integradas do Ministério da Justiça e Segurança Pública (SEOPI/MJSP),  deflagrou na quinta feira (16/4) a Operação Tricerátops, para dar cumprimento a cinco mandados de prisão preventiva expedidos pela 11ª Vara Federal de Assu/RN.
 

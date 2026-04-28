@@ -1,11 +1,12 @@
 ---
-title: "Brasil não apoia sistema de pagamento próprio do Brics, diz ministério"
+title: Brasil não apoia sistema de pagamento próprio do Brics, diz ministério
 date: 2022-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### País defende ajustes na plataforma Swift.
 

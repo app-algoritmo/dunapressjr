@@ -1,11 +1,12 @@
 ---
-title: "Exportações minerais somam US$ 11,62 bi no terceiro trimestre"
+title: Exportações minerais somam US$ 11,62 bi no terceiro trimestre
 date: 2022-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Número indica queda de 36,8% em relação ao mesmo período de 2021.
 

@@ -1,11 +1,13 @@
 ---
-title: "Quebrando o silêncio: música em hospitais auxilia na recuperação de pacientes em períodos de isolamento"
+title: 'Quebrando o silêncio: música em hospitais auxilia na recuperação de pacientes
+  em períodos de isolamento'
 date: 2021-08-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 ## Com o objetivo de multiplicar conhecimento científico sobre tema, psicólogo compartilha em livro vivências e benefícios da música em ambiente hospitalar.
 

@@ -1,11 +1,12 @@
 ---
-title: "Boluarte enfrenta sexta renúncia de seu gabinete em menos de dois meses"
+title: Boluarte enfrenta sexta renúncia de seu gabinete em menos de dois meses
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A ministra da Produção do Peru, Sandra Belaúnde, abandonou o gabinete da presidente, Dina Boluarte, apenas um mês e meio após a sua nomeação. Sua saída representa a sexta renúncia de um alto funcionário do executivo que a presidente enfrenta desde que ela assumiu o poder em 7 de dezembro, após o autogolpe perpetrado por Pedro Castillo.
 

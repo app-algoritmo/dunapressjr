@@ -1,11 +1,12 @@
 ---
-title: "Produção de motocicletas tem alta de 37% no primeiro trimestre"
+title: Produção de motocicletas tem alta de 37% no primeiro trimestre
 date: 2022-04-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De janeiro a março, foram fabricados 327,1 mil veículos.
 

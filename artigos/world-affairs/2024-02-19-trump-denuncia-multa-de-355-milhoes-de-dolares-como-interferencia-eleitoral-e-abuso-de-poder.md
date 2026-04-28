@@ -1,11 +1,13 @@
 ---
-title: "Trump Denuncia Multa de 355 Milhões de Dólares como 'Interferência Eleitoral' e 'Abuso de Poder'"
+title: Trump Denuncia Multa de 355 Milhões de Dólares como 'Interferência Eleitoral'
+  e 'Abuso de Poder'
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A batalha legal entre o ex-presidente dos Estados Unidos, Donald Trump, e as autoridades de Nova Iorque atingiu um novo patamar com a recente decisão do juiz Arthur Engoron de multar Trump e a Trump Organization em mais de 350 milhões de dólares em um caso civil de fraude, além de proibi-los de fazer negócios no estado de Nova Iorque por três anos.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mais uma ferramenta para ajudar no diagnóstico e controle de aprendizagem de crianças com autismo"
+title: Mais uma ferramenta para ajudar no diagnóstico e controle de aprendizagem de
+  crianças com autismo
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Projeto de mestrado em Engenharia Biomédica da UnB indica ainda o espectro do transtorno e pode ser usado para avaliar nível de atenção de estudante.
 

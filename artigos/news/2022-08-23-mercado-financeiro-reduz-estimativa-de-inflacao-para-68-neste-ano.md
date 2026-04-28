@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro reduz estimativa de inflação para 6,8% neste ano"
+title: Mercado financeiro reduz estimativa de inflação para 6,8% neste ano
 date: 2022-08-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Foi a oitava redução seguida na projeção para o IPCA.
 

@@ -1,11 +1,13 @@
 ---
-title: "O que eles descobriram agora sobre as chamadas injeções de corona: 'Parece muito ruim'"
+title: 'O que eles descobriram agora sobre as chamadas injeções de corona: ''Parece
+  muito ruim'''
 date: 2023-07-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## As injeções de corona não apenas contêm quantidades variáveis de mRNA, mas também estão contaminadas com DNA, pequenos fragmentos de DNA derivados do mRNA.
 

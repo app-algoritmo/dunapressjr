@@ -1,11 +1,13 @@
 ---
-title: "Proposta de Auxílio Militar de US$ 17,6 Bilhões a Israel Gera Debate nos EUA ao Excluir Assistência à Ucrânia"
+title: Proposta de Auxílio Militar de US$ 17,6 Bilhões a Israel Gera Debate nos EUA
+  ao Excluir Assistência à Ucrânia
 date: 2024-02-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um projeto de lei apresentado por congressistas dos EUA propõe uma alocação de 17,6 bilhões de dólares em ajuda militar exclusivamente para Israel, desconsiderando qualquer assistência adicional à Ucrânia. Este artigo examina a iniciativa, destacando os detalhes da proposta, seu contexto político e o debate em torno das prioridades de financiamento em meio às tensões internacionais.
 

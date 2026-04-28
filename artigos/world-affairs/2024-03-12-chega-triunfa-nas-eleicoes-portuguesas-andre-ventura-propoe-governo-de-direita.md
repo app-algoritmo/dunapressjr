@@ -1,11 +1,12 @@
 ---
-title: "CHEGA Triunfa nas Eleições Portuguesas: André Ventura Propõe Governo de Direita"
+title: 'CHEGA Triunfa nas Eleições Portuguesas: André Ventura Propõe Governo de Direita'
 date: 2024-03-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O partido CHEGA emergiu como o grande vencedor das eleições em Portugal, testemunhando um salto impressionante de 12 para 46 deputados, com uma impressionante taxa de apoio superior a 18%. Este crescimento notável elevou o partido liderado por André Ventura a uma posição de destaque na paisagem política portuguesa, triplicando seu apoio eleitoral e ultrapassando a marca do milhão de votos, enquanto multiplicava o número de deputados por quatro.
 

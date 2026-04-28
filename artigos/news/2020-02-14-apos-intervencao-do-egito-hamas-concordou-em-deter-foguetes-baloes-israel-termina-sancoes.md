@@ -1,11 +1,13 @@
 ---
-title: "Após intervenção do Egito, Hamas concordou em deter foguetes, balões; Israel termina sanções"
+title: Após intervenção do Egito, Hamas concordou em deter foguetes, balões; Israel
+  termina sanções
 date: 2020-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Israel e o grupo terrorista do Hamas parecem ter chegado a um acordo de cessar-fogo na noite de quinta-feira, após semanas de tensão e agitação ao longo da fronteira de Gaza.
 

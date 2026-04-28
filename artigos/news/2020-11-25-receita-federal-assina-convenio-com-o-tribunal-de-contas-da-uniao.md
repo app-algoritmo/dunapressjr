@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal assina convênio com o Tribunal de Contas da União"
+title: Receita Federal assina convênio com o Tribunal de Contas da União
 date: 2020-11-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O convênio estabelece regras para o compartilhamento de informações com sigilo fiscal, pela Receita Federal ao TCU, em conformidade com as disposições legais e constitucionais.
 

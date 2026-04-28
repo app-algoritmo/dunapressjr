@@ -1,12 +1,13 @@
 ---
-title: "Título do novo filme do Coringa: O que é Folie à Deux?"
+title: 'Título do novo filme do Coringa: O que é Folie à Deux?'
 date: 2023-04-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
-  - News
+- Features
+- News
 ---
+
 
 ## Você já parou para pensar no que significa a expressão Folie à Deux, título do novo filme do Coringa?
 

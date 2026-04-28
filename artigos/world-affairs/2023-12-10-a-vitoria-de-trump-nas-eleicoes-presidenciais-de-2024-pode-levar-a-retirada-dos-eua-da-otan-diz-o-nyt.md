@@ -1,11 +1,13 @@
 ---
-title: "A vitória de Trump nas eleições presidenciais de 2024 pode levar à retirada dos EUA da OTAN, diz o NYT"
+title: A vitória de Trump nas eleições presidenciais de 2024 pode levar à retirada
+  dos EUA da OTAN, diz o NYT
 date: 2023-12-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O jornal destacou que a maioria dos países europeus está incerta sobre a escolha de um possível caminho em caso de vitória do ex-presidente dos EUA nas eleições presidenciais dos EUA.
 

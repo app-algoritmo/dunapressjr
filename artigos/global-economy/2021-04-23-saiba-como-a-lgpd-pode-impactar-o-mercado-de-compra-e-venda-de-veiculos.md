@@ -1,11 +1,12 @@
 ---
-title: "Saiba como a LGPD pode impactar o mercado de compra e venda de veículos"
+title: Saiba como a LGPD pode impactar o mercado de compra e venda de veículos
 date: 2021-04-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Em vigor no país desde setembro do ano passado, a Lei Geral de Proteção da Dados (LGPD) traz para o cenário brasileiro a obrigatoriedade de uma nova governança para todas as empresas e instituições que lidam, de alguma forma, com dados de usuários. Há muito tempo, o setor automotivo se baseia na coleta de dados para gerar oportunidades de vendas. Diante disso, os impactos gerados pela nova legislação também vão atingir concessionárias e revendas de veículos. O varejo automotivo deve fazer, com urgência, uma revisão completa na forma como vem coletando, armazenando e tratando dados de clientes.
 

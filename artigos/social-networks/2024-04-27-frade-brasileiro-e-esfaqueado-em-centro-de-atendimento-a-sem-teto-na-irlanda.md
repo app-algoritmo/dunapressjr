@@ -1,11 +1,12 @@
 ---
-title: "Frade brasileiro é esfaqueado em centro de atendimento a sem-teto na Irlanda"
+title: Frade brasileiro é esfaqueado em centro de atendimento a sem-teto na Irlanda
 date: 2024-04-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 O frade capuchinho brasileiro Ademir Marques foi vítima de um ataque na manhã de quinta-feira dia 25 de abril de 2024 no [Capuchin Day Centre](https://www.capuchindaycentre.ie/Capuchin_Day_Centre_2013/Capuchin_Day_Centre_-_Contact_Us.html), centro de atendimento a sem-teto em Dublin, Irlanda. O frei sofreu um ferimento superficial na cabeça e o agressor foi detido.
 

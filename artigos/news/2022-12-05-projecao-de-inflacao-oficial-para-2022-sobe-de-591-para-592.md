@@ -1,11 +1,12 @@
 ---
-title: "Projeção de inflação oficial para 2022 sobe de 5,91% para 5,92%"
+title: Projeção de inflação oficial para 2022 sobe de 5,91% para 5,92%
 date: 2022-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mercado financeiro também aumenta previsão de alta do PIB para 3,05%.
 

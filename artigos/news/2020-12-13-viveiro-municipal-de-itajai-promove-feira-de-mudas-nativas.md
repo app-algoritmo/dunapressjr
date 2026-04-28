@@ -1,11 +1,12 @@
 ---
-title: "Viveiro Municipal de Itajaí promove Feira de Mudas Nativas"
+title: Viveiro Municipal de Itajaí promove Feira de Mudas Nativas
 date: 2020-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Viveiro Municipal de Itajaí realiza neste mês de dezembro mais uma edição da conhecida Feira de Doação de Mudas Nativas. A ação gratuita, coordenada pelo Instituto Itajaí Sustentável (INIS), ocorre na sede do Viveiro, na rua Osvaldo Bertemes, 144, bairro Fazenda. As doações serão feitas de segunda a quinta-feira, das 8h às 12h e das 13h às 17h, e na sexta-feira, no horário das 8h às 12h e 13h às 16h.
 

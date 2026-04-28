@@ -1,11 +1,12 @@
 ---
-title: "Analistas políticos: as tropas dos EUA não deixarão o Iraque tão cedo"
+title: 'Analistas políticos: as tropas dos EUA não deixarão o Iraque tão cedo'
 date: 2024-01-12
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Pela segunda vez em dias, o primeiro-ministro iraquiano expressou seu apelo para que as tropas dos EUA deixem o país, desta vez pedindo uma saída “rápida” – embora analistas tenham dito ao Breaking Defense que a demanda é provavelmente vazia e que os americanos as tropas não irão para a porta tão cedo.
 

@@ -1,11 +1,13 @@
 ---
-title: "A proibição da carne faz parte do plano da cabala global para controlar o suprimento de alimentos?"
+title: A proibição da carne faz parte do plano da cabala global para controlar o suprimento
+  de alimentos?
 date: 2023-05-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 ## A carne tem sido um alimento básico celebrado desde o início da humanidade. Nunca ninguém precisou justificar o consumo de proteína animal – até agora.
 

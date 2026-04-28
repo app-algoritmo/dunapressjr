@@ -1,11 +1,12 @@
 ---
-title: "Bioimpressão 3D: da pesquisa aos produtos"
+title: 'Bioimpressão 3D: da pesquisa aos produtos'
 date: 2021-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A impressão tridimensional (3D) é um método de fabricação de objetos sólidos a partir de um arquivo digital contendo informações de coordenadas espaciais. A criação de um protótipo impresso em 3D é alcançada depositando-se camadas sucessivas de material, até que o objeto esteja concluído. Uma característica importante dessa metodologia é que podem ser utilizados variados tipos de materiais, tais como metais, resinas, polímeros e, mais recentemente, componentes biológicos, incluindo biomoléculas e células. Quando componentes biológicos estão envolvidos no procedimento de fabricação, o processo é denominado de bioimpressão 3D.
 

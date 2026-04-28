@@ -1,11 +1,13 @@
 ---
-title: "Militares dos EUA conduzem mais ataques contra alvos Houthi no Iêmen, segundo Casa Branca"
+title: Militares dos EUA conduzem mais ataques contra alvos Houthi no Iêmen, segundo
+  Casa Branca
 date: 2024-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## De acordo com John Kirby, esta foi a quarta ação preventiva dos militares dos EUA contra os lançadores de mísseis Houthi.
 

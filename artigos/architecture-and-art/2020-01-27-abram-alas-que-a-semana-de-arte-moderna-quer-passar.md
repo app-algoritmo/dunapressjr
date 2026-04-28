@@ -1,11 +1,12 @@
 ---
-title: "Abram-Alas que a Semana de Arte Moderna quer passar !"
+title: Abram-Alas que a Semana de Arte Moderna quer passar !
 date: 2020-01-27
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Se na Idade Média havia o entendimento de que os filósofos-teólogos medievais eram anões erguidos sobre ombros de gigantes (Sócrates, Platão), o espirito da Semana de Arte Moderna *cria ser um gigante a enfrentar anões*. A ruptura com o passado e a busca por novas formas de expressão artística revela certo pedantismo e arrogância. A semana de 22 não foi mais que um episódio sem muita relevância diante de tudo que se passou nas letras brasileiras, depois dela e, inclusive, antes. Para ser gentil, foi uma semente. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Depen faz doação de viaturas para 7 estados"
+title: Depen faz doação de viaturas para 7 estados
 date: 2020-05-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Departamento Penitenciário Nacional (Depen) adquiriu 100 furgões para transporte de presos para doar ao sistema penitenciário dos estados brasileiros. As viaturas foram entregues, nesta semana, para 7 unidades federativas. O valor do investimento foi de R$ 18.129.700,00, do Fundo Penitenciário Nacional (Funpen).
 

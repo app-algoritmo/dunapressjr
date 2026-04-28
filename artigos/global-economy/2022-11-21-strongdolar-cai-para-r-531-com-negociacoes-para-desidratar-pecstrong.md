@@ -1,11 +1,12 @@
 ---
-title: "<strong>Dólar cai para R$ 5,31 com negociações para desidratar PEC</strong>"
+title: <strong>Dólar cai para R$ 5,31 com negociações para desidratar PEC</strong>
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa interrompe sequência de três quedas e sobe 0,81%.
 

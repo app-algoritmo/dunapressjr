@@ -1,11 +1,12 @@
 ---
-title: "Petrobras anuncia novo aumento de combustíveis"
+title: Petrobras anuncia novo aumento de combustíveis
 date: 2022-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gasolina terá reajuste de 5,2% e diesel, de 14,2%.
 

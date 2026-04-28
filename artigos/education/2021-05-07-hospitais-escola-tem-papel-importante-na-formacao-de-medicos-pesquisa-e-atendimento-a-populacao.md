@@ -1,11 +1,13 @@
 ---
-title: "Hospitais Escola têm papel importante na formação de médicos, pesquisa e atendimento à população"
+title: Hospitais Escola têm papel importante na formação de médicos, pesquisa e atendimento
+  à população
 date: 2021-05-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Mais de 180 mil novos médicos começaram a atuar no Brasil ao longo dos últimos 10 anos. Isso representa um aumento de 118% dos profissionais, segundo  estudo Demografia Médica 2020, realizado pelo Conselho Federal de Medicina. São profissionais que tiveram a atuação e o reconhecimento reforçados com a pandemia do coronavírus. O constante aumento de casos de Covid-19 e as peculiaridades da doença mostraram a importância da excelência na formação e da dedicação às pesquisas - momentos em que instituições de saúde e de educação se unem.
 

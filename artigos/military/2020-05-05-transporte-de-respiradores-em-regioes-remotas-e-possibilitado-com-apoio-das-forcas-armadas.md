@@ -1,11 +1,13 @@
 ---
-title: "Transporte de respiradores em regiões remotas é possibilitado com apoio das Forças Armadas"
+title: Transporte de respiradores em regiões remotas é possibilitado com apoio das
+  Forças Armadas
 date: 2020-05-05
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Brasília (DF), 05/05/2020 -** A parceria do Ministério da Defesa, por meio das três Forças Armadas, com a Confederação Nacional da Indústria (CNI) tem sido fundamental para viabilizar a manutenção de respiradores, equipamentos essenciais no combate à COVID-19, especialmente nas regiões mais remotas do Brasil. A avaliação é do diretor adjunto de Educação e Tecnologia do Serviço Nacional de Aprendizagem Industrial (SENAI), Sérgio Moreira.
 

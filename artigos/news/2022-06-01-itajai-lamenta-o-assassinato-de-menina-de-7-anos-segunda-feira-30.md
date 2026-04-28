@@ -1,11 +1,12 @@
 ---
-title: "Itajaí lamenta o assassinato de menina de 7 anos segunda-feira (30)"
+title: Itajaí lamenta o assassinato de menina de 7 anos segunda-feira (30)
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí lamenta profundamente o falecimento da aluna da Rede Municipal de Ensino, A. X. C., de 07 anos, assassinada nesta segunda-feira (30). A estudante estava no 2° ano da Escola Básica José Potter, do bairro Espinheiros, e será lembrada por todos, colegas, professores e demais funcionários da unidade, como uma menina meiga, carinhosa, inteligente e muito simpática.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF desarticula esquema de grupo que levava drogas e celulares para penitenciária estadual no RS"
+title: PF desarticula esquema de grupo que levava drogas e celulares para penitenciária
+  estadual no RS
 date: 2020-07-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uruguaiana/RS – A Polícia Federal deflagrou, na manhã desta terça-feira (7/7), a Operação Pater, com o objetivo de combater organização criminosa que introduzia drogas e telefones celulares na Penitenciária Modulada Estadual de Uruguaiana - PMEU.
 

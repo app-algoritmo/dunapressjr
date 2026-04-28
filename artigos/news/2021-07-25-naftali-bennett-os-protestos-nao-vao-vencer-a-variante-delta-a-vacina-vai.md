@@ -1,11 +1,13 @@
 ---
-title: "Naftali Bennett: 'Os protestos não vão vencer a variante Delta, a vacina vai'"
+title: 'Naftali Bennett: ''Os protestos não vão vencer a variante Delta, a vacina
+  vai'''
 date: 2021-07-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## PM enfatiza que ele mantém comentários contra aqueles que optam por não receber o tiro COVID e aborda protestos subsequentes.
 

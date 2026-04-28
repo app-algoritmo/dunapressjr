@@ -1,11 +1,13 @@
 ---
-title: "Sergey Surovikin convoca Wagner PMC para resolver os problemas pacificamente, não para ajudar o inimigo"
+title: Sergey Surovikin convoca Wagner PMC para resolver os problemas pacificamente,
+  não para ajudar o inimigo
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O vice-comandante da Rússia das forças conjuntas russas na área de operações militares especiais acrescentou que chegou da linha de frente por ordem do conselho do Ministério da Defesa.
 

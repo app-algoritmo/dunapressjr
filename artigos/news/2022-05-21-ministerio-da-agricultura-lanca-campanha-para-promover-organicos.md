@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Agricultura lança campanha para promover orgânicos"
+title: Ministério da Agricultura lança campanha para promover orgânicos
 date: 2022-05-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ação visa ampliar escala do setor, que cresceu 450% em 12 anos.
 

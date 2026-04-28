@@ -1,11 +1,13 @@
 ---
-title: "Governo Bolsonaro: Plano Safra concede crédito de mais de R$ 340 bilhões aos produtores rurais"
+title: 'Governo Bolsonaro: Plano Safra concede crédito de mais de R$ 340 bilhões aos
+  produtores rurais'
 date: 2023-01-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Recursos são disponibilizados com taxas de juro adequadas e que ajudam a estimular o desenvolvimento da agropecuária.
 

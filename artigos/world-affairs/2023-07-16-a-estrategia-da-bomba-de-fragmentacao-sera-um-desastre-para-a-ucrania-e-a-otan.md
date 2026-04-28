@@ -1,11 +1,12 @@
 ---
-title: "A estratégia da bomba de fragmentação será um desastre para a Ucrânia e a OTAN"
+title: A estratégia da bomba de fragmentação será um desastre para a Ucrânia e a OTAN
 date: 2023-07-16
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Deixar cair toneladas desse explosivo particularmente horrível no exército ucraniano parece um bom curativo para o que na verdade é um corte.
 

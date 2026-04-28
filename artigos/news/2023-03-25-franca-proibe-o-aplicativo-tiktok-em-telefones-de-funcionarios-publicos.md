@@ -1,11 +1,12 @@
 ---
-title: "França proíbe o aplicativo Tiktok em telefones de funcionários públicos"
+title: França proíbe o aplicativo Tiktok em telefones de funcionários públicos
 date: 2023-03-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O governo francês proibiu nesta sexta-feira (24) que seus funcionários usem a rede chinesa TikTok e outros aplicativos "recreativos" em seus telefones profissionais por razões essencialmente de segurança, como já fizeram outros países e instituições da Europa.
 

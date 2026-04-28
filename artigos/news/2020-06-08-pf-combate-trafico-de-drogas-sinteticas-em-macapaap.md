@@ -1,11 +1,12 @@
 ---
-title: "PF combate tráfico de drogas sintéticas em Macapá/AP"
+title: PF combate tráfico de drogas sintéticas em Macapá/AP
 date: 2020-06-08
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Macapá/AP - A Polícia Federal deflagrou nesta segunda-feira (8/6) a Operação *Private**, com objetivo de combater o tráfico de drogas psicotrópicas, no Amapá.
 

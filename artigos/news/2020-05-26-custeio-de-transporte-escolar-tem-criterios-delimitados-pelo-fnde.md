@@ -1,11 +1,12 @@
 ---
-title: "Custeio de transporte escolar tem critérios delimitados pelo FNDE"
+title: Custeio de transporte escolar tem critérios delimitados pelo FNDE
 date: 2020-05-26
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Estados, municípios e o Distrito Federal poderão utilizar os valores na aquisição de combustível, na contratação de serviço terceirizado ou na manutenção de veículos do programa Caminho da Escola**
 

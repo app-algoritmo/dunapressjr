@@ -1,11 +1,12 @@
 ---
-title: "Plenário do Senado aprova indicação de André Mendonça ao STF"
+title: Plenário do Senado aprova indicação de André Mendonça ao STF
 date: 2021-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Placar foi de 47 votos a favor e 32 contra.
 

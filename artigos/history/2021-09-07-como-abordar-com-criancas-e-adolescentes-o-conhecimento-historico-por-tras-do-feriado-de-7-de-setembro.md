@@ -1,11 +1,13 @@
 ---
-title: "Como abordar com crianças e adolescentes o conhecimento histórico por trás do feriado de 7 de setembro"
+title: Como abordar com crianças e adolescentes o conhecimento histórico por trás
+  do feriado de 7 de setembro
 date: 2021-09-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 ## Especialista destaca importância de ressignificar a data para entender efetivamente o significado do processo de independência.
 

@@ -1,11 +1,13 @@
 ---
-title: "Trump Transforma Julgamento em Nova Iorque em Impulso para Arrecadação de Fundos e Consolidação Política"
+title: Trump Transforma Julgamento em Nova Iorque em Impulso para Arrecadação de Fundos
+  e Consolidação Política
 date: 2024-06-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Muito fiel ao seu estilo, Donald Trump transformou o “julgamento” ocorrido em Nova Iorque por alegada falsificação de registos, num outro acontecimento da sua campanha presidencial e, especificamente, numa gigantesca oportunidade de angariar fundos para a mesma. Disse isto num contexto em que o magnata norte-americano já bateu recordes de financiamento nos últimos meses na sua tentativa de regressar à Casa Branca após as eleições de novembro.
 

@@ -1,11 +1,13 @@
 ---
-title: "Direitos, gastos excessivos com defesa e altos juros da dívida federal levam os EUA à beira da falência"
+title: Direitos, gastos excessivos com defesa e altos juros da dívida federal levam
+  os EUA à beira da falência
 date: 2023-11-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Há muitos indicadores de que o medo dos americanos relativamente à [falência iminente](https://www.theburningplatform.com/2023/11/08/doug-casey-on-the-imminent-bankruptcy-of-the-us-government/) dos Estados Unidos irá surgir mais cedo ou mais tarde.
 

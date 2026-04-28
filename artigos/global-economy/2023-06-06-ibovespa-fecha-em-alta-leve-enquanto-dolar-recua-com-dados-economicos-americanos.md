@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha em alta leve enquanto dólar recua com dados econômicos americanos"
+title: Ibovespa fecha em alta leve enquanto dólar recua com dados econômicos americanos
 date: 2023-06-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## CVC lidera as altas no índice, enquanto Eneva registra maior queda; Boletim Focus traz projeções econômicas para o Brasil.
 

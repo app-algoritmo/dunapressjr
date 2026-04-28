@@ -1,11 +1,12 @@
 ---
-title: "Aneel reajusta bandeiras tarifárias em até 64%"
+title: Aneel reajusta bandeiras tarifárias em até 64%
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Consumidores não pagarão mais porque bandeira está verde.
 

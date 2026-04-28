@@ -1,11 +1,12 @@
 ---
-title: "Conselhos de um Irmão: de Quintus T. Cicero para Marcus T. Cicero"
+title: 'Conselhos de um Irmão: de Quintus T. Cicero para Marcus T. Cicero'
 date: 2020-04-02
 status: publish
 author: Vitor Guerino
 categories:
-  - History
+- History
 ---
+
 
 **Contexto: Eleições em Roma, Busca do Cônsul**
 

@@ -1,12 +1,14 @@
 ---
-title: "Palestinian Education - Teaching Peace or War? / Educação Palestina - Ensinando a paz ou a guerra?"
+title: Palestinian Education - Teaching Peace or War? / Educação Palestina - Ensinando
+  a paz ou a guerra?
 date: 2021-05-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Geopolitics
+- Education
+- Geopolitics
 ---
+
 
 ## Como é a educação na Palestina e o que os estudantes aprendem?
 

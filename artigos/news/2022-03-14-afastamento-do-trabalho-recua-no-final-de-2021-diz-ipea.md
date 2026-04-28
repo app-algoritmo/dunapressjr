@@ -1,11 +1,12 @@
 ---
-title: "Afastamento do trabalho recua no final de 2021, diz Ipea"
+title: Afastamento do trabalho recua no final de 2021, diz Ipea
 date: 2022-03-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No quarto trimestre do ano passado a taxa ficou em 1,84%.
 

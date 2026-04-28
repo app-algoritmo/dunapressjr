@@ -1,11 +1,12 @@
 ---
-title: "Índice Nacional da Construção Civil varia 0,11% em novembro"
+title: Índice Nacional da Construção Civil varia 0,11% em novembro
 date: 2019-12-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O Índice Nacional da Construção Civil (Sinapi) variou 0,11%
 em novembro, uma queda de 0,08 ponto percentual (p.p.) em relação ao mês

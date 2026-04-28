@@ -1,11 +1,12 @@
 ---
-title: "Plenário aprova acordos internacionais com Peru e Marrocos"
+title: Plenário aprova acordos internacionais com Peru e Marrocos
 date: 2023-08-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O Plenário do Senado aprovou nesta quinta-feira (24) os textos de acordos assinados pelo Brasil com o Peru ([PDL 289/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/155002)) e com o Marrocos ([PDL 645/2021](https://www25.senado.leg.br/web/atividade/materias/-/materia/155005)). Os documentos foram assinados respectivamente em Lima, em 2009, e em Brasília, em 2014. Os projetos de decreto legislativo seguem para promulgação, mas os acordos só passarão a valer após ratificação do Presidente da República. 
 

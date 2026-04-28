@@ -1,11 +1,13 @@
 ---
-title: "Balança comercial abre 2022 com superávit de US$ 1,45 bilhão na primeira semana de janeiro"
+title: Balança comercial abre 2022 com superávit de US$ 1,45 bilhão na primeira semana
+  de janeiro
 date: 2022-01-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Exportações somaram US$ 5,84 bilhões e importações totalizaram US$ 4,40 bilhões, com corrente de comércio alcançando US$ 10,24 bilhões, uma alta de 36%.
 

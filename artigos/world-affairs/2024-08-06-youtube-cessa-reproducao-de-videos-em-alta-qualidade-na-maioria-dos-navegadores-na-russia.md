@@ -1,11 +1,13 @@
 ---
-title: "YouTube Cessa Reprodução de Vídeos em Alta Qualidade na Maioria dos Navegadores na Rússia"
+title: YouTube Cessa Reprodução de Vídeos em Alta Qualidade na Maioria dos Navegadores
+  na Rússia
 date: 2024-08-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O YouTube, plataforma de compartilhamento de vídeos originária dos Estados Unidos, implementou uma medida drástica na Rússia, interrompendo a reprodução de vídeos de alta qualidade em quase todos os navegadores de desktop. Esta mudança afeta os principais navegadores, incluindo Google Chrome, Opera, Mozilla Firefox e Mi Browser, segundo informações divulgadas pela agência de notícias russa TASS. Curiosamente, os vídeos ainda podem ser visualizados em alta resolução no navegador Yandex e na versão desktop do Safari.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF combate pesca ilegal na Paraíba"
+title: PF combate pesca ilegal na Paraíba
 date: 2020-04-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 João Pessoa/PB – A Polícia Federal deflagrou neste domingo (26/4), com a participação da FUNAI e do Batalhão da Polícia Ambiental, a Operação PIEU – Baía da Traição/PB, com objetivo de combater a pesca ilegal de lagosta em período de defeso, na cidade de Baía da Traição/PB.
 

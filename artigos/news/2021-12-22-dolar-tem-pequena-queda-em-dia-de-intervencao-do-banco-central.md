@@ -1,11 +1,12 @@
 ---
-title: "Dólar tem pequena queda em dia de intervenção do Banco Central"
+title: Dólar tem pequena queda em dia de intervenção do Banco Central
 date: 2021-12-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsa fecha com alta de 0,46% em dia de leve recuperação.
 

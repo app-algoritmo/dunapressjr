@@ -1,11 +1,12 @@
 ---
-title: "Yu Yu Hakusho – Netflix Investe em Live-Action"
+title: Yu Yu Hakusho – Netflix Investe em Live-Action
 date: 2023-10-21
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 https://youtube.com/shorts/Cu3_loaiWTg?si=KGutcHUscaE1JVzF
 

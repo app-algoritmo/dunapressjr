@@ -1,11 +1,12 @@
 ---
-title: "Dólar sobe e fecha a R$ 5,82 com tensões no Brasil e no exterior"
+title: Dólar sobe e fecha a R$ 5,82 com tensões no Brasil e no exterior
 date: 2020-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Dólar sobe e fecha a R$ 5,82 com tensões no Brasil e no exterior
 Em meio a tensões no Brasil e no exterior, o dólar subiu e aproximou-se da cotação recorde. O dólar comercial encerrou esta segunda-feira (11) vendido a R$ 5,824, com alta de R$ 0,084 (+1,47%). Esse é o segundo maior valor nominal (sem considerar a inflação) desde a criação do real, só perdendo para a última quinta-feira (7), quando a cotação tinha fechado em R$ 5,84.

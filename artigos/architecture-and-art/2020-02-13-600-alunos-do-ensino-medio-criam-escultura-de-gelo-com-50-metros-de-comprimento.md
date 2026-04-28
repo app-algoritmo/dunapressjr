@@ -1,11 +1,12 @@
 ---
-title: "600 alunos do ensino médio criam escultura de gelo com 50 metros de comprimento"
+title: 600 alunos do ensino médio criam escultura de gelo com 50 metros de comprimento
 date: 2020-02-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Terá lugar hoje 13.2.20, a apresentação oficial da escultura de gelo “***A mais bela aventura de inverno***”, desenvolvida por alunos do ensino médio das escolas do município de Holmestrand. 
 

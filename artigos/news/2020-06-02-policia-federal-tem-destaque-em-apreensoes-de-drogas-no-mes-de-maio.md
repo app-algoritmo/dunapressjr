@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal tem destaque em apreensões de drogas no mês de maio"
+title: Polícia Federal tem destaque em apreensões de drogas no mês de maio
 date: 2020-06-02
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal deflagrou, no mês de maio, diversas ações que resultaram em apreensões de grande quantidade de drogas em todo o Brasil.
 

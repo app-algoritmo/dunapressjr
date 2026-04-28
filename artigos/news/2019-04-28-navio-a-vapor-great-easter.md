@@ -1,11 +1,12 @@
 ---
-title: "Navio a Vapor Great Easter"
+title: Navio a Vapor Great Easter
 date: 2019-04-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Da série: 50 Máquinas que mudaram
 o rumo da história. Vamos conhecer um pouco da história do Navio a Vapor Great Easter.

@@ -1,11 +1,13 @@
 ---
-title: "Trump promete evitar a Terceira Guerra Mundial se for reeleito presidente dos EUA"
+title: Trump promete evitar a Terceira Guerra Mundial se for reeleito presidente dos
+  EUA
 date: 2024-01-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Segundo Donald Trump, o facto de os EUA terem “um homem fraco como presidente” impedia qualquer possibilidade de evitar os conflitos na Ucrânia e na Faixa de Gaza.
 

@@ -1,11 +1,13 @@
 ---
-title: "Consumo das famílias registra aumento de 2,33% nos primeiros cinco meses do ano"
+title: Consumo das famílias registra aumento de 2,33% nos primeiros cinco meses do
+  ano
 date: 2023-06-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Abril apresenta crescimento acumulado de 2,14%, superando meses anteriores.
 

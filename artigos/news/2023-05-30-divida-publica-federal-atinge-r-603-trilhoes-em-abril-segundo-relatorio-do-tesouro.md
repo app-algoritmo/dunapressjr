@@ -1,11 +1,13 @@
 ---
-title: "Dívida pública federal atinge R$ 6,03 trilhões em abril, segundo relatório do Tesouro"
+title: Dívida pública federal atinge R$ 6,03 trilhões em abril, segundo relatório
+  do Tesouro
 date: 2023-05-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Aumento expressivo na dívida interna e externa reflete cenário de volatilidade no mercado e queda dos juros no Brasil.
 

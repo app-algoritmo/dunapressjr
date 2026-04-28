@@ -1,11 +1,12 @@
 ---
-title: "Publicada pelo Mapa diretrizes para proteção de cultivares de teca e milho"
+title: Publicada pelo Mapa diretrizes para proteção de cultivares de teca e milho
 date: 2020-08-06
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Realizar a proteção de cultivares traz benefícios como o aumento da produtividade dos cultivos, aumento das atividades de melhoramento e, em consequência, um aumento no número de novas cultivares.
 

@@ -1,11 +1,13 @@
 ---
-title: "Ação Integrada do BPFRON e PF resulta na apreensão de 565 Kg de Maconha em Francisco Alves/PR"
+title: Ação Integrada do BPFRON e PF resulta na apreensão de 565 Kg de Maconha em
+  Francisco Alves/PR
 date: 2020-06-12
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Francisco Alves/PR – Na noite desta quarta-feira (10/6), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

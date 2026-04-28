@@ -1,11 +1,12 @@
 ---
-title: "A Proposta de Paz de Putin: Estratégia e Reações no Cenário Global"
+title: 'A Proposta de Paz de Putin: Estratégia e Reações no Cenário Global'
 date: 2024-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 **A Resistência dos BRICS e a Imobilidade do Ocidente Coletivo**.
 

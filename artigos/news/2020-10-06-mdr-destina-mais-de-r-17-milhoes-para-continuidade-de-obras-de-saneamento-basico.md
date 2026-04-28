@@ -1,11 +1,13 @@
 ---
-title: "MDR destina mais de R$ 17 milhões para continuidade de obras de saneamento básico"
+title: MDR destina mais de R$ 17 milhões para continuidade de obras de saneamento
+  básico
 date: 2020-10-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Recursos serão repassados para ações em nove estados e contemplam esgotamento sanitário, manejo de águas pluviais, saneamento integrado e abastecimento de água.
 

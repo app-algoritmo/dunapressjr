@@ -1,11 +1,12 @@
 ---
-title: "Luisa Stefani ganha premiação do melhor ponto de duplas do ano da WTA"
+title: Luisa Stefani ganha premiação do melhor ponto de duplas do ano da WTA
 date: 2021-12-25
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Paulistana foi escolhida, ao lado da canadense Gabriela Dabrowski, pelo ponto no torneio WTA 500 de San Jose, na Califórnia (EUA).
 

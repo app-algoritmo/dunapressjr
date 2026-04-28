@@ -1,11 +1,12 @@
 ---
-title: "Governo mantém cronograma de leilões na infraestrutura"
+title: Governo mantém cronograma de leilões na infraestrutura
 date: 2020-05-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O ministro da Infraestrutura, Tarcísio Gomes de Freitas, afirmou que o governo mantém a decisão de executar os leilões de concessões de ativos no setor de infraestrutura previstos para este ano. Segundo o ministro, o andamento dos processos segue o cronograma estabelecido e há condições para que os certames ocorram no prazo. Freitas participou, por videoconferência, de reunião com investidores, que debateu os desafios e os efeitos da crise do novo coronavírus no setor.
 

@@ -1,11 +1,12 @@
 ---
-title: "Venda de produtos de consumo em supermercados cresce 1,9% em novembro"
+title: Venda de produtos de consumo em supermercados cresce 1,9% em novembro
 date: 2022-01-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Abras descarta ações para reduzir movimento de pessoas nas lojas.
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente Bolsonaro conhece agência-barco da Caixa"
+title: Presidente Bolsonaro conhece agência-barco da Caixa
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Atracado no porto de Breves, no Pará, o barco de três andares e mais de 37 metros de comprimento chama a atenção. A bordo, um serviço precioso para a região: uma agência bancária. São seis guichês de atendimento iguais aos de uma agência convencional da Caixa. Na manhã desta sexta-feira (9), o Presidente Jair Bolsonaro esteve em Breves e visitou a agência-barco Ilha do Marajó.
 

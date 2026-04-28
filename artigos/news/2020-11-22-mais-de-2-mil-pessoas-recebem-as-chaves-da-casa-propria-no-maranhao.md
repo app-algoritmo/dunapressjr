@@ -1,11 +1,12 @@
 ---
-title: "Mais de 2 mil pessoas recebem as chaves da casa própria no Maranhão"
+title: Mais de 2 mil pessoas recebem as chaves da casa própria no Maranhão
 date: 2020-11-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O sonho da casa própria se tornou realidade para mais de 2,2 mil moradores de Açailândia (MA). Em um evento que contou com a presença do secretário Nacional de Habitação do Ministério do Desenvolvimento Regional (MDR), Alfredo Eduardo dos Santos, os contemplados receberam as chaves de 562 unidades do Residencial Jardim de Aulídia VI e VII, no qual foram investidos cerca de R$ 31 milhões do Governo Federal.
 

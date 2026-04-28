@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Saúde entregou mais de 6,5 mil ventiladores pulmonares"
+title: Ministério da Saúde entregou mais de 6,5 mil ventiladores pulmonares
 date: 2020-07-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No início de maio a técnica de análises clínicas, Silvia Teresa Martins, começou se sentir mal. Estava com diarreia, febre, dor de cabeça e no corpo. Ela procurou uma Unidade de Pronto Atendimento (UPA) na cidade onde mora, São Luís, capital do Maranhão, e, após exames, veio o diagnóstico de Covid-19 e pneumonia.
 

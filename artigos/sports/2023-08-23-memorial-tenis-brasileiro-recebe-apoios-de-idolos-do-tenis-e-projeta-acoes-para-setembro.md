@@ -1,12 +1,14 @@
 ---
-title: "Memorial Tênis Brasileiro recebe apoios de ídolos do tênis e projeta ações para setembro"
+title: Memorial Tênis Brasileiro recebe apoios de ídolos do tênis e projeta ações
+  para setembro
 date: 2023-08-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Nomes como Marcelo Melo, Bruno Soares, Thomaz Bellucci, Andréa Vieira, Fernando Meligeni, César Kist, Jaime Oncins e Roberta Burzagli, além da família de Maria Esther Bueno, formalizaram participação em vídeo que acabou de ser publicado.
 

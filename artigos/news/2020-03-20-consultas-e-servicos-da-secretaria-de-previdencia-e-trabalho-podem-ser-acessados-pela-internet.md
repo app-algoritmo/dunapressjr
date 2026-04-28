@@ -1,11 +1,13 @@
 ---
-title: "Consultas e serviços da Secretaria de Previdência e Trabalho podem ser acessados pela internet"
+title: Consultas e serviços da Secretaria de Previdência e Trabalho podem ser acessados
+  pela internet
 date: 2020-03-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A pandemia de coronavírus é um dos maiores desafios globais da última década. Para preservar a saúde da população, várias nações já determinaram o fechamentos de inúmeros serviços, com cidades inteiras em quarentena. No Brasil, Distrito Federal e os estados do Rio de Janeiro e São Paulo já determinaram a paralisação de vários setores como shoppings, escolas, igrejas, museus, e casas noturnas. No âmbito do Governo Federal, já foram suspensos, por exemplo, o atendimento presencial nas agência do Instituto Nacional do Seguro Social (INSS) por 15 dias.
 

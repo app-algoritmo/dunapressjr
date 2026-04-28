@@ -1,11 +1,12 @@
 ---
-title: "Ciclone Mocha causa devastação e mortes em Myanmar"
+title: Ciclone Mocha causa devastação e mortes em Myanmar
 date: 2023-05-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Campos de deslocados Rohingya e cidade de Sittwe são as áreas mais afetadas, enquanto os esforços de ajuda são dificultados pela destruição e falta de acesso.
 

@@ -1,11 +1,13 @@
 ---
-title: "Viktor Orbán Chama à Mudança Política na Europa em Discurso sobre o Estado da Nação"
+title: Viktor Orbán Chama à Mudança Política na Europa em Discurso sobre o Estado
+  da Nação
 date: 2024-02-22
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro húngaro, Viktor Orbán, proferiu no sábado um discurso anual focado nas próximas eleições europeias e na necessidade de uma mudança política para recuperar a soberania das nações europeias das mãos dos burocratas em Bruxelas.
 

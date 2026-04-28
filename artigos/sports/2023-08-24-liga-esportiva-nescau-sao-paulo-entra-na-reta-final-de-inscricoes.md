@@ -1,11 +1,12 @@
 ---
-title: "Liga Esportiva NESCAU® São Paulo entra na reta final de inscrições"
+title: Liga Esportiva NESCAU® São Paulo entra na reta final de inscrições
 date: 2023-08-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
+- Sports
 ---
+
 
 ## Maior campeonato poliesportivo estudantil do Brasil ocorre gratuitamente nos dias 16 e 17 de setembro no Clube Esperia.
 

@@ -1,11 +1,12 @@
 ---
-title: "Dezembro Verde: Mês de conscientização contra o abandono animal"
+title: 'Dezembro Verde: Mês de conscientização contra o abandono animal'
 date: 2023-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Simples ações podem transformar milhares de vidas de cachorros e gatos e ajudar a diminuir o número de abandono de animais nas ruas. Dezembro é uma data importante para a causa animal: é o mês de conscientização contra o abandono.
 

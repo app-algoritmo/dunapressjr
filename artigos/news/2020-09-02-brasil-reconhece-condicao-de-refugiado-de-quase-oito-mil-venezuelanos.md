@@ -1,11 +1,12 @@
 ---
-title: "Brasil reconhece condição de refugiado de quase oito mil venezuelanos"
+title: Brasil reconhece condição de refugiado de quase oito mil venezuelanos
 date: 2020-09-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Decisão foi aprovada pelo Comitê Nacional para os Refugiados (Conare), do Ministério da Justiça e Segurança Pública.
 

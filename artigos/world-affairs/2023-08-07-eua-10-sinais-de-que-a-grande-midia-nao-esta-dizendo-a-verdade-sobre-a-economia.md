@@ -1,11 +1,12 @@
 ---
-title: "EUA: 10 sinais de que a grande mídia não está dizendo a verdade sobre a economia"
+title: 'EUA: 10 sinais de que a grande mídia não está dizendo a verdade sobre a economia'
 date: 2023-08-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Segundo a mídia, a economia americana está indo muito bem no segundo semestre de 2023. 
 

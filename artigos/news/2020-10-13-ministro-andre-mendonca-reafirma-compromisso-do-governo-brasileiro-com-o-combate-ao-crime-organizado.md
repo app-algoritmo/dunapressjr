@@ -1,11 +1,13 @@
 ---
-title: "Ministro André Mendonça reafirma compromisso do Governo brasileiro com o combate ao crime organizado"
+title: Ministro André Mendonça reafirma compromisso do Governo brasileiro com o combate
+  ao crime organizado
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em discurso para a Conferência das Nações Unidas, o ministro da Justiça e Segurança Pública, André Mendonça, reafirmou o compromisso do governo brasileiro com a promoção do Estado de Direito e com o combate ao crime organizado, ao tráfico de armas, ao tráfico de pessoas, ao contrabando de migrantes e aos delitos ambientais.  
 

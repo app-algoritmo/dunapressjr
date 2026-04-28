@@ -1,11 +1,13 @@
 ---
-title: "Reforma tributária vai reestruturar a economia brasileira e não pode ser alvo de polarização política, diz relator"
+title: Reforma tributária vai reestruturar a economia brasileira e não pode ser alvo
+  de polarização política, diz relator
 date: 2023-07-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta foi aprovada em 1º turno no Plenário da Câmara.
 

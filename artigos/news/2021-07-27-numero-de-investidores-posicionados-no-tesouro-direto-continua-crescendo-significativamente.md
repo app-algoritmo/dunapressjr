@@ -1,11 +1,12 @@
 ---
-title: "Número de investidores posicionados no Tesouro Direto continua crescendo significativamente"
+title: Número de investidores posicionados no Tesouro Direto continua crescendo significativamente
 date: 2021-07-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O total de investidores ativos atingiu a marca de 1.558.647 pessoas, um aumento de 34.013 em junho.
 

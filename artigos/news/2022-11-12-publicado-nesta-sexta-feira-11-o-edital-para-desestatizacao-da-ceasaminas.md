@@ -1,11 +1,12 @@
 ---
-title: "Publicado nesta sexta-feira (11) o edital para desestatização da CeasaMinas"
+title: Publicado nesta sexta-feira (11) o edital para desestatização da CeasaMinas
 date: 2022-11-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Leilão da empresa ligada ao Ministério da Agricultura está marcado para a tarde do dia 22 de dezembro, na sede da B3, em São Paulo.
 

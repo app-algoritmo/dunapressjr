@@ -1,11 +1,13 @@
 ---
-title: "Recuperação econômica surpreende e ajudará a reduzir déficit público já em 2021, diz ministro da Economia"
+title: Recuperação econômica surpreende e ajudará a reduzir déficit público já em
+  2021, diz ministro da Economia
 date: 2021-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em evento do BTG Pactual, Paulo Guedes destacou também novas políticas que vão gerar oportunidades de trabalho para os jovens brasileiros.
 

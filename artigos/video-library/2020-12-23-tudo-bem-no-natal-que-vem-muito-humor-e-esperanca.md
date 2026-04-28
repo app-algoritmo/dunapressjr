@@ -1,11 +1,12 @@
 ---
-title: "Tudo Bem no Natal que Vem: Muito humor e esperança"
+title: 'Tudo Bem no Natal que Vem: Muito humor e esperança'
 date: 2020-12-23
 status: publish
-author: carlosduna2019
+author: Carlos Alberto
 categories:
-  - Video library
+- Video library
 ---
+
 
 O natal é sempre revisitado por alguma produção cinematográfica, peça teatral e shows de fim de ano. Muitos tentam oferecer algo que seja bem acolhido pelo público, todavia poucos conseguem.
 

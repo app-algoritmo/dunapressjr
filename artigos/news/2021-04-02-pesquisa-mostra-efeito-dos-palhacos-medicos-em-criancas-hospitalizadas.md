@@ -1,11 +1,12 @@
 ---
-title: "Pesquisa mostra efeito dos palhaços-médicos em crianças hospitalizadas"
+title: Pesquisa mostra efeito dos palhaços-médicos em crianças hospitalizadas
 date: 2021-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Tese de doutorado de Luís Carlos Lopes-Júnior, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), mostra como as intervenções dos palhaços-doutores, conhecidos como *clowns*, influenciam na saúde de pacientes pediátricos com câncer. O trabalho, desenvolvido no âmbito do Programa de Pós-Graduação em Enfermagem em Saúde Pública da Universidade de São Paulo, deu origem a outros artigos que já repercutiram pelo mundo.
 

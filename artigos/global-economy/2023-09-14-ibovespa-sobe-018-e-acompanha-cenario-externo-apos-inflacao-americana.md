@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa sobe 0,18% e acompanha cenário externo após inflação americana"
+title: Ibovespa sobe 0,18% e acompanha cenário externo após inflação americana
 date: 2023-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar cai 0,72%, sendo cotado a R$ 4,917.
 

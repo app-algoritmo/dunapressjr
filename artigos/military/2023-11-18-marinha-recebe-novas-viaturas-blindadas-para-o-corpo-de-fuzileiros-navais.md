@@ -1,11 +1,12 @@
 ---
-title: "Marinha recebe novas viaturas blindadas para o Corpo de Fuzileiros Navais"
+title: Marinha recebe novas viaturas blindadas para o Corpo de Fuzileiros Navais
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Os quatro JLTVs recebidos nesta quinta-feira (16) serão empregados na “GLO do mar”.
 

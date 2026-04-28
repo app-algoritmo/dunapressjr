@@ -1,11 +1,13 @@
 ---
-title: "2.01 Presidente se encontrou com autoridades dos Estados Unidos, China, Hungria e Chile. Também recebeu ligação do presidente da Colômbia"
+title: 2.01 Presidente se encontrou com autoridades dos Estados Unidos, China, Hungria
+  e Chile. Também recebeu ligação do presidente da Colômbia
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Bolsonaro se reúne com líderes estrangeiros e reforça compromissos com países parceiros
 

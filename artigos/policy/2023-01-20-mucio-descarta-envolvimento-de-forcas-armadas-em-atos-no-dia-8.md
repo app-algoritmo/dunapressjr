@@ -1,11 +1,12 @@
 ---
-title: "Múcio descarta envolvimento de Forças Armadas em atos no dia 8"
+title: Múcio descarta envolvimento de Forças Armadas em atos no dia 8
 date: 2023-01-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ministro disse que participação individual de militares será apurada.
 

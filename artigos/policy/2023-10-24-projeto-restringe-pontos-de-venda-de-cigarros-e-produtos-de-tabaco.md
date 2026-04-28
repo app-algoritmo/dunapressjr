@@ -1,11 +1,12 @@
 ---
-title: "Projeto restringe pontos de venda de cigarros e produtos de tabaco"
+title: Projeto restringe pontos de venda de cigarros e produtos de tabaco
 date: 2023-10-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 Supermercados, bancas de jornais e lojas de conveniência são algumas das categorias de estabelecimentos comerciais que não poderão mais vender cigarros e outros produtos de tabaco, caso seja convertido em lei um projeto ([PL 4.605/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/160128)) que começou a tramitar na Comissão de Assuntos Sociais (CAS). O senador Styvenson Valentim (Podemos-RN) espera que a restrição de vendas contribua para o desestímulo ao consumo de tabaco.
 

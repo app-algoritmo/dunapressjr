@@ -1,11 +1,12 @@
 ---
-title: "Novos contratos de aluguel de imóveis variam 9,32% em São Paulo"
+title: Novos contratos de aluguel de imóveis variam 9,32% em São Paulo
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Fiador é a garantia em 45% dos contratos firmados em outubro.
 

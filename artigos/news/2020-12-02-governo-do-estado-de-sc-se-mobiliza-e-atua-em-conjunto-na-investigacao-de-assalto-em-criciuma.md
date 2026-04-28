@@ -1,11 +1,13 @@
 ---
-title: "Governo do Estado de SC, se mobiliza e atua em conjunto na investigação de assalto em Criciúma"
+title: Governo do Estado de SC, se mobiliza e atua em conjunto na investigação de
+  assalto em Criciúma
 date: 2020-12-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 As forças de Segurança Pública de Santa Catarina estão atuando em conjunto e mobilizadas em uma grande operação na investigação e buscas dos criminosos que assaltaram uma agência bancaria em Criciúma na madrugada desta terça-feira, 1º. Em coletiva de imprensa no município do Sul de Santa Catarina, o governador Carlos Moisés ressaltou que o estado tem um histórico bem-sucedido de resolução deste tipo de crime, com um trabalho de excelência das polícias.
 

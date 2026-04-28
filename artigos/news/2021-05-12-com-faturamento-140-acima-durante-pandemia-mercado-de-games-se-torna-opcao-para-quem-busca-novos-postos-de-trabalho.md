@@ -1,11 +1,13 @@
 ---
-title: "Com faturamento 140% acima durante pandemia, mercado de games se torna opção para quem busca novos postos de trabalho"
+title: Com faturamento 140% acima durante pandemia, mercado de games se torna opção
+  para quem busca novos postos de trabalho
 date: 2021-05-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Que a tecnologia e a inovação estão crescendo de forma notável depois da chegada da pandemia da Covid-19 já está claro. Mas não somente as ferramentas que envolvem as necessidades de empresas e colaboradores estão se desenvolvendo. No segmento de lazer, os jogos online e games também são um dos ramos que tiveram a produção e consumo alavancados desde março de 2020. Segundo um estudo feito pela bandeira de cartões Visa, as transações financeiras feitas nas principais plataformas e consoles de jogo cresceram 140% no último ano. 
 

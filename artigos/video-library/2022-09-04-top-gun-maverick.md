@@ -1,11 +1,12 @@
 ---
-title: "Top Gun: Maverick"
+title: 'Top Gun: Maverick'
 date: 2022-09-04
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Uma Sequência Perfeita
 

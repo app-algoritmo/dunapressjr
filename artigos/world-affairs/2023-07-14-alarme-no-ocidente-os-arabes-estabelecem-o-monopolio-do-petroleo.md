@@ -1,11 +1,12 @@
 ---
-title: "Alarme no Ocidente - Os árabes estabelecem o monopólio do petróleo!"
+title: Alarme no Ocidente - Os árabes estabelecem o monopólio do petróleo!
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O petróleo ainda é a fonte de energia mais importante hoje, por isso não é de surpreender que estejam sendo feitas tentativas de monopolizar esse mercado. 
 

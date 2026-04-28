@@ -1,11 +1,13 @@
 ---
-title: "JP Morgan Adverte sobre uma Potencial Crise nos EUA em Meio ao Crescimento da Influência dos BRICS"
+title: JP Morgan Adverte sobre uma Potencial Crise nos EUA em Meio ao Crescimento
+  da Influência dos BRICS
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O JP Morgan, um dos maiores bancos do mundo, lançou um alerta sombrio sobre o futuro econômico dos Estados Unidos, prevendo uma crise semelhante à de 1973 à medida que a aliança económica BRICS (Brasil, Rússia, Índia, China e África do Sul) emerge como uma potência global em 2024. Em uma entrevista ao Wall Street Journal, o CEO do banco, Jamie Dimon, destacou as preocupações sobre a agenda de desglobalização dos EUA e o crescente desafio representado por países em desenvolvimento como os BRICS.
 

@@ -1,11 +1,12 @@
 ---
-title: "PF mira responsáveis por troca de etiquetas de bagagem em aeroporto"
+title: PF mira responsáveis por troca de etiquetas de bagagem em aeroporto
 date: 2023-07-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Operação Colateral II ocorre no estado de São Paulo e visa desarticular organização criminosa que enviava cocaína à Europa através do Aeroporto Internacional de Guarulhos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal orienta contribuintes sobre compras no exterior"
+title: Receita Federal orienta contribuintes sobre compras no exterior
 date: 2022-07-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Conheça as regras de entrada de mercadoria durante o retorno ao país.
 

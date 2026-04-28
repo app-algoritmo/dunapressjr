@@ -1,11 +1,12 @@
 ---
-title: "Macron pede ao governo chinês maior abertura às empresas estrangeiras"
+title: Macron pede ao governo chinês maior abertura às empresas estrangeiras
 date: 2019-11-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O presidente francês Emmanuel Macron pediu nesta terça-feira(5)
 a China que consolide a abertura de seu grande mercado às empresas estrangeiras

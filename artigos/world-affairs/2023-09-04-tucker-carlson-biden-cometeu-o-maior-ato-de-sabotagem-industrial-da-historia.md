@@ -1,11 +1,12 @@
 ---
-title: "Tucker Carlson: Biden cometeu o maior ato de sabotagem industrial da história"
+title: 'Tucker Carlson: Biden cometeu o maior ato de sabotagem industrial da história'
 date: 2023-09-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Tucker Carlson denunciou a hipocrisia do presidente democrata dos EUA, Joe Biden, e a agenda verde de seu governo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Medvedev levanta espectro da Polônia usando armas nucleares"
+title: Medvedev levanta espectro da Polônia usando armas nucleares
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Anteriormente, o primeiro-ministro polonês Morawiecki anunciou que Varsóvia gostaria de ingressar no programa de compartilhamento nuclear da OTAN em meio às intenções da Rússia de implantar armas nucleares táticas na Bielorrússia.
 

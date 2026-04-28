@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro reduz estimativa de crescimento da economia em 2020"
+title: Mercado financeiro reduz estimativa de crescimento da economia em 2020
 date: 2020-03-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Projeção para expansão do PIB cai de 2,20% para 2,17%
 

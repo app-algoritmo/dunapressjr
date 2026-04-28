@@ -1,11 +1,12 @@
 ---
-title: "Governo publica calendário de pagamento Auxílio Emergencial"
+title: Governo publica calendário de pagamento Auxílio Emergencial
 date: 2020-09-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A primeira parcela da extensão do auxílio emergencial para quem não é beneficiário do Bolsa Família começa a ser paga nesta quarta-feira (30). As parcelas têm o valor de R$ 300 ou R$ 600 para os casos de mães que são chefes de família. 
 

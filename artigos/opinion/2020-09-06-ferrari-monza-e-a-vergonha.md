@@ -1,12 +1,13 @@
 ---
-title: "Ferrari, Monza e a vergonha"
+title: Ferrari, Monza e a vergonha
 date: 2020-09-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Opinion
-  - Sports
+- Opinion
+- Sports
 ---
+
 
 ## Ferrari no pior ano em 35 anos?
 

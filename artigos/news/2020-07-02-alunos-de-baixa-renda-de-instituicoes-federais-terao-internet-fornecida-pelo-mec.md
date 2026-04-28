@@ -1,11 +1,13 @@
 ---
-title: "Alunos de baixa renda de instituições federais terão internet fornecida pelo MEC"
+title: Alunos de baixa renda de instituições federais terão internet fornecida pelo
+  MEC
 date: 2020-07-02
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Objetivo é proporcionar conectividade a até 906 mil estudantes em situação de vulnerabilidade social; cerca de 40% dos beneficiados estão na região Nordeste.
 

@@ -1,11 +1,12 @@
 ---
-title: "Bardahl completa 70 anos com mudança de embalagens e nova campanha institucional"
+title: Bardahl completa 70 anos com mudança de embalagens e nova campanha institucional
 date: 2024-03-02
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Features
+- Features
 ---
+
 
 ## Campanha "Cuide bem das suas conquistas" resgata a importância de cuidar e celebrar as pequenas e grandes realizações cotidianas; novas embalagens chegam ao mercado a partir de março.
 

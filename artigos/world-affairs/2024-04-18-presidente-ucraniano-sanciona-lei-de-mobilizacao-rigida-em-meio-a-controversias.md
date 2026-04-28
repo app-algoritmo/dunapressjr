@@ -1,11 +1,12 @@
 ---
-title: "Presidente Ucraniano Sanciona Lei de Mobilização Rígida em Meio a Controvérsias"
+title: Presidente Ucraniano Sanciona Lei de Mobilização Rígida em Meio a Controvérsias
 date: 2024-04-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente ucraniano, Volodymyr Zelensky, assinou um projeto de lei controverso para tornar as regras de mobilização mais rígidas. Segundo o site do Verkhovna Rada, o documento, que permitirá a convocação de centenas de milhares de ucranianos para o exército, recebeu a assinatura do presidente em 16 de abril.
 

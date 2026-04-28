@@ -1,11 +1,12 @@
 ---
-title: "A redefinição global"
+title: A redefinição global
 date: 2023-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Acontecerá rapidamente, você não será avisado.
 

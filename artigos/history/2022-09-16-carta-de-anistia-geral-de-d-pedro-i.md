@@ -1,11 +1,12 @@
 ---
-title: "Carta de anistia geral de D. Pedro I"
+title: Carta de anistia geral de D. Pedro I
 date: 2022-09-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Carta na qual d. Pedro (1798-1834), príncipe regente do Brasil, e José Bonifácio de Andrada e Silva (1763-1838), então ministro dos Negócios do Reino e dos Estrangeiros e conselheiro de Estado, concedem anistia geral a todos os habitantes do Brasil que aderissem à causa da Independência, mesmo que tivessem sido de posição política oposta anteriormente.
 

@@ -1,11 +1,12 @@
 ---
-title: "Helen Mirren interpretará Golda Meir em 'Golda'"
+title: Helen Mirren interpretará Golda Meir em 'Golda'
 date: 2021-04-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A atriz ganhadora do Oscar Helem Mirren interpretará Golda Meir, a única primeira-ministra a governar Israel, em um filme biográfico que acontecerá durante a Guerra do Yom Kippur.
 

@@ -1,11 +1,12 @@
 ---
-title: "Renia Spiegel, 'Anne Frank da Polônia'"
+title: Renia Spiegel, 'Anne Frank da Polônia'
 date: 2021-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Literature
+- Literature
 ---
+
 
 Quase um ano após comemorar seu primeiro beijo, a adolescente judia do tempo de guerra Renia Spiegel usou seu diário em junho de 1942 para orar por sua vida.
 

@@ -1,11 +1,12 @@
 ---
-title: "Por que Elon Musk chama para 'processar Fauci'"
+title: Por que Elon Musk chama para 'processar Fauci'
 date: 2022-12-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O CEO do Twitter, Elon Musk, pediu "impeachment de Fauci". 
 

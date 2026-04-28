@@ -1,11 +1,12 @@
 ---
-title: "Governo quer aprovar medidas de apoio ao mercado de capital"
+title: Governo quer aprovar medidas de apoio ao mercado de capital
 date: 2022-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Afirmação é do ministro Guedes, em posse de novo presidente da CVM.
 

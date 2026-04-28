@@ -1,11 +1,13 @@
 ---
-title: "Estiagem em SC: Governo do Estado destina mais R$ 3 milhões para ações de enfrentamento"
+title: 'Estiagem em SC: Governo do Estado destina mais R$ 3 milhões para ações de
+  enfrentamento'
 date: 2020-11-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Secretaria de Estado do Desenvolvimento Econômico Sustentável (SDE), por meio da Secretaria Executiva do Meio Ambiente (SEMA), destinará R$ 3 milhões para amenizar os prejuízos causados pela estiagem em Santa Catarina.
 

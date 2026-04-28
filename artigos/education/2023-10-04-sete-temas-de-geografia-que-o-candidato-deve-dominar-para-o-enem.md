@@ -1,11 +1,12 @@
 ---
-title: "Sete temas de Geografia que o candidato deve dominar para o Enem"
+title: Sete temas de Geografia que o candidato deve dominar para o Enem
 date: 2023-10-04
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## A prova de Geografia do Exame Nacional do Ensino Médio (Enem) costuma ser bastante versátil, uma vez que é possível relacionar as temáticas abordadas dentro deste componente curricular com conteúdos de História, Sociologia e Atualidades.
 

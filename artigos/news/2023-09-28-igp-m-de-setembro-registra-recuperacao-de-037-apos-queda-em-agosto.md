@@ -1,11 +1,12 @@
 ---
-title: "IGP-M de setembro registra recuperação de 0,37% após queda em agosto"
+title: IGP-M de setembro registra recuperação de 0,37% após queda em agosto
 date: 2023-09-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Inflação acumulada no ano é de -4,93%, mas preço dos combustíveis impacta índice, revelando desafios econômicos.
 

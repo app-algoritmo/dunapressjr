@@ -1,11 +1,13 @@
 ---
-title: "O ganho de peso excessivo e o avanço do sobrepeso e da obesidade devem ser tratados com atenção"
+title: O ganho de peso excessivo e o avanço do sobrepeso e da obesidade devem ser
+  tratados com atenção
 date: 2021-12-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Falar sobre o ganho de peso também é falar sobre aspectos genéticos, comportamentais, socioculturais e econômicos. Nesse contexto, ao perceber o ganho de alguns quilos no seu peso corporal, de forma contínua ou excessiva,  é fundamental tentar compreender o que está provocando esse aumento de peso, ao invés de procurar dietas milagrosas, remédios para emagrecer ou adotar outros comportamentos imediatistas que podem ser prejudiciais à saúde. Nesse momento é necessário manter a calma, analisar o ambiente e as ofertas para a adoção de hábitos mais saudáveis e, assim, buscar apoio para um cuidado adequado com o objetivo de interromper e reverter esse ciclo de ganho excessivo ou estagnação do peso corporal. 
 

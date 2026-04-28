@@ -1,11 +1,12 @@
 ---
-title: "O número de atletas que morrem repentinamente aumentou em 3.800%"
+title: O número de atletas que morrem repentinamente aumentou em 3.800%
 date: 2023-03-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## 64% dos atletas que sofreram acidente no campo esportivo até 31 de dezembro de 2022 morreram, o restante sofreu deficiências graves. 
 

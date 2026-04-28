@@ -1,11 +1,12 @@
 ---
-title: "Moro celebra aprovação do marco temporal"
+title: Moro celebra aprovação do marco temporal
 date: 2023-09-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Sergio Moro (União-PR) celebrou a aprovação do projeto de lei que fixa o marco temporal para as demarcações das terras indígenas ([PL 2.903/2023](https://www25.senado.leg.br/web/atividade/materias/-/materia/157888)). Em pronunciamento na quarta-feira (27), o parlamentar afirmou que o Senado "assumiu sua responsabilidade de legislar sobre um tema tão complexo, dando segurança jurídica à questão”.
 

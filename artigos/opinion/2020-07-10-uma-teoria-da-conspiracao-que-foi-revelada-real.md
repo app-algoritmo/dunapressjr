@@ -1,11 +1,12 @@
 ---
-title: "Uma teoria da conspiração que foi revelada real"
+title: Uma teoria da conspiração que foi revelada real
 date: 2020-07-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 O início da redução populacional.
 

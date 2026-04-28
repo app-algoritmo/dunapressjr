@@ -1,12 +1,14 @@
 ---
-title: "Osasco São Cristóvão Saúde vai ao Rio de Janeiro em busca da nona vitória consecutiva na Superliga"
+title: Osasco São Cristóvão Saúde vai ao Rio de Janeiro em busca da nona vitória consecutiva
+  na Superliga
 date: 2024-02-20
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Volleyball
+- Sports
+- Volleyball
 ---
+
 
 ## Invicto na competição em 2024, a equipe comandada pelo técnico Luizomar enfrenta o Fluminense, a partir das 21h, no ginásio da Hebraica.
 

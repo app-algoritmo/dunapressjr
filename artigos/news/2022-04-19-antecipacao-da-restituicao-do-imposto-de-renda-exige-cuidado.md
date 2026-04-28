@@ -1,11 +1,12 @@
 ---
-title: "Antecipação da restituição do Imposto de Renda exige cuidado"
+title: Antecipação da restituição do Imposto de Renda exige cuidado
 date: 2022-04-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Contribuinte só deve pedir dinheiro para quitar dívidas.
 

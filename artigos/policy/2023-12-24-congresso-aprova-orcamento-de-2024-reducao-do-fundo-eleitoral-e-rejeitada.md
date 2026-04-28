@@ -1,11 +1,12 @@
 ---
-title: "Congresso aprova Orçamento de 2024; redução do Fundo Eleitoral é rejeitada"
+title: Congresso aprova Orçamento de 2024; redução do Fundo Eleitoral é rejeitada
 date: 2023-12-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## A meta fiscal do Orçamento de 2024 é a de zerar o déficit público, ou seja, equilibrar receitas de impostos e despesas de custeio e investimentos.
 

@@ -1,11 +1,12 @@
 ---
-title: "Atividade e nível de emprego da indústria caem em abril, mostra CNI"
+title: Atividade e nível de emprego da indústria caem em abril, mostra CNI
 date: 2022-06-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Faturamento e massa salarial também recuaram no período.
 

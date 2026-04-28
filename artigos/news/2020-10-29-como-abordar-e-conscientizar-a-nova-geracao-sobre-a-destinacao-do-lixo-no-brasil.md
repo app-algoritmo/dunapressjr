@@ -1,11 +1,12 @@
 ---
-title: "Como abordar e conscientizar a nova geração sobre a destinação do lixo no Brasil"
+title: Como abordar e conscientizar a nova geração sobre a destinação do lixo no Brasil
 date: 2020-10-29
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## -Reciclagem também se aprende na escola
 

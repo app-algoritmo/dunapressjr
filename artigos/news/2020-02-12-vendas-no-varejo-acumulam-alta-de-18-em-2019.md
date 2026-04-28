@@ -1,11 +1,12 @@
 ---
-title: "Vendas no varejo acumulam alta de 1,8% em 2019"
+title: Vendas no varejo acumulam alta de 1,8% em 2019
 date: 2020-02-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Setor que exerceu maior contribuição ao resultado geral engloba lojas de departamentos, óticas, joalherias, artigos esportivos e brinquedos, com avanço de 12,9%*
 

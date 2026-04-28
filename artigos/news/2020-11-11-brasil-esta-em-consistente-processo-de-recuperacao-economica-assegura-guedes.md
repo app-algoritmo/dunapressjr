@@ -1,11 +1,12 @@
 ---
-title: "Brasil está em consistente processo de recuperação econômica, assegura Guedes"
+title: Brasil está em consistente processo de recuperação econômica, assegura Guedes
 date: 2020-11-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Ministro destacou que desafio agora é transformar uma recuperação baseada no consumo em um crescimento sustentado focado em investimentos.
 

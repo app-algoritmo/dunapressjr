@@ -1,11 +1,12 @@
 ---
-title: "Promotor Bragg quer o DNA de Trump"
+title: Promotor Bragg quer o DNA de Trump
 date: 2023-04-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Matéria publicada originalmente pelo site Real Raw News.
 

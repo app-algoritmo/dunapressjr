@@ -1,11 +1,12 @@
 ---
-title: "O mal do mundo só tem voz onde o povo de Deus tem se calado!"
+title: O mal do mundo só tem voz onde o povo de Deus tem se calado!
 date: 2019-02-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Religiosity
+- Religiosity
 ---
+
 
 Enquanto os bons, os honestos e os justos se calarem perante a impunidade, os maus, os desonestos e os injustos permanecerão no poder, e neste período, vidas inocentes serão ceifadas de maneira precoce e continuamente. A impunidade protege os inescrupulosos.
 

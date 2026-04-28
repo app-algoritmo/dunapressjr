@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro trabalha para que adoções sejam mais rápidas no Brasil"
+title: Governo Bolsonaro trabalha para que adoções sejam mais rápidas no Brasil
 date: 2020-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A ministra Damares Alves participou de uma live no Facebook com o titular da Secretaria Nacional dos Direitos da Criança e do Adolescente (SNDCA), Maurício Cunha, na noite da última segunda-feira (20). A principal conquista celebrada foi a celeridade nos processos de adoção durante a pandemia do novo coronavírus (Covid-19).
 

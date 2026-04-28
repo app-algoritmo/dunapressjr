@@ -1,11 +1,12 @@
 ---
-title: "Programa PEAC Maquininhas beneficia mais de 20 mil pequenos negócios"
+title: Programa PEAC Maquininhas beneficia mais de 20 mil pequenos negócios
 date: 2020-11-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em menos de dois meses de operação, iniciativa do BNDES atinge R$ 600 milhões em créditos.
 

@@ -1,11 +1,12 @@
 ---
-title: "CMN permite liquidação antecipada de debêntures de infraestrutura"
+title: CMN permite liquidação antecipada de debêntures de infraestrutura
 date: 2019-09-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Investimento financia projetos com isenção de Imposto de Renda.
 

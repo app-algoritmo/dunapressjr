@@ -1,11 +1,12 @@
 ---
-title: "Israel se torna o primeiro país a incorporar terapia inovadora em leucemia"
+title: Israel se torna o primeiro país a incorporar terapia inovadora em leucemia
 date: 2020-07-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Os resultados do estudo constituem um avanço histórico após vinte anos para os 160.000 pacientes em todo o mundo que sofrem desta forma comum de leucemia.
 

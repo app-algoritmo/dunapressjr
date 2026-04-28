@@ -1,11 +1,13 @@
 ---
-title: "Companhias aéreas russas ‘perderam’ 76 aviões devido a sanções, diz Ministério dos Transportes"
+title: Companhias aéreas russas ‘perderam’ 76 aviões devido a sanções, diz Ministério
+  dos Transportes
 date: 2023-11-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Vitaly Savelyev lembrou que existem atualmente 1.167 aeronaves de passageiros em uso na Rússia.
 

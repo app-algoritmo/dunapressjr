@@ -1,11 +1,12 @@
 ---
-title: "Emissão de debêntures incentivadas captou R$ 4,3 bilhões em setembro"
+title: Emissão de debêntures incentivadas captou R$ 4,3 bilhões em setembro
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Volume total distribuído chegou a R$ 201,3 bilhões desde 2012, relacionado a projetos de investimento, especificamente na área de infraestrutura definidos como prioritários.
 

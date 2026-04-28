@@ -1,11 +1,12 @@
 ---
-title: "Lula, o Ditador do Amor: Um Olhar Crítico sobre a Intolerância"
+title: 'Lula, o Ditador do Amor: Um Olhar Crítico sobre a Intolerância'
 date: 2024-02-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 O cenário político brasileiro tem sido marcado por debates acalorados, polarização e figuras controversas. Entre elas, destaca-se o presidente Luiz Inácio Lula da Silva, conhecido por muitos como "Lula". No entanto, uma faceta pouco explorada de sua liderança é sua postura diante das críticas, revelando-se um "ditador" que parece tolerar apenas elogios e apoio.
 

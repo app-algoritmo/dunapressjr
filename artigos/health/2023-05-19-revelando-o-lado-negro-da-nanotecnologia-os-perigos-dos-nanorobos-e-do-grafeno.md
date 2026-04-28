@@ -1,11 +1,12 @@
 ---
-title: "Revelando o lado negro da nanotecnologia: os perigos dos nanorobôs e do grafeno"
+title: 'Revelando o lado negro da nanotecnologia: os perigos dos nanorobôs e do grafeno'
 date: 2023-05-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 ## No campo do avanço científico, a nanotecnologia emergiu como um campo pioneiro com imenso potencial. 
 

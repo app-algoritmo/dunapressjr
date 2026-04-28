@@ -1,11 +1,13 @@
 ---
-title: "Após isenção de visto, cresce 16% número de turistas dos EUA, Canadá e Austrália no Brasil"
+title: Após isenção de visto, cresce 16% número de turistas dos EUA, Canadá e Austrália
+  no Brasil
 date: 2020-02-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Abertura estratégica impacta diretamente na economia brasileira *
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente sanciona lei que destina R$ 300 milhões para o auxílio gás"
+title: Presidente sanciona lei que destina R$ 300 milhões para o auxílio gás
 date: 2021-12-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Recursos contemplarão famílias de baixa renda.
 

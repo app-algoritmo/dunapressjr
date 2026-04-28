@@ -1,11 +1,12 @@
 ---
-title: "Presidente Jair Bolsonaro participa de posse de subprocurador-geral da República"
+title: Presidente Jair Bolsonaro participa de posse de subprocurador-geral da República
 date: 2020-05-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Nesta segunda-feira (25), o Presidente da República, Jair Bolsonaro, participou, por videoconferência, da solenidade de posse do subprocurador-geral da República Carlos Alberto Vilhena no cargo de procurador federal dos Direitos do Cidadão para o biênio 2020-2022. 
 

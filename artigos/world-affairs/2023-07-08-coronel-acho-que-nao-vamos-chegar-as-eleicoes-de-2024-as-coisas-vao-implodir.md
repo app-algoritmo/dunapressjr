@@ -1,11 +1,12 @@
 ---
-title: "Coronel: Acho que não vamos chegar às eleições de 2024, as coisas vão implodir"
+title: 'Coronel: Acho que não vamos chegar às eleições de 2024, as coisas vão implodir'
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Falando no [podcast PBD,](https://youtu.be/o92oSgU17Lo) o coronel aposentado Douglas Macgregor expressou preocupação com o futuro dos EUA e duvidou que o país pudesse permanecer estável até as eleições de 2024.
 

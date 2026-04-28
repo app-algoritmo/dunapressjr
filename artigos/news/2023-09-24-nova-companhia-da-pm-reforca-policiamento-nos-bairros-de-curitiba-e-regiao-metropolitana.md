@@ -1,11 +1,13 @@
 ---
-title: "Nova Companhia da PM reforça policiamento nos bairros de Curitiba e Região Metropolitana"
+title: Nova Companhia da PM reforça policiamento nos bairros de Curitiba e Região
+  Metropolitana
 date: 2023-09-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Nova unidade se dedicará a policiamento preventivo, com aplicação estratégica baseada em geoprocessamento de dados e análise criminal, podendo ser empregada em qualquer bairro de Curitiba e Região Metropolitana. O efetivo é de 100 policiais, com emprego diário de cerca de 40 viaturas.
 

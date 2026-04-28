@@ -1,11 +1,13 @@
 ---
-title: "Ucrânia garante empréstimo de US$ 1,5 bilhão do Banco Mundial com apoio da Grã-Bretanha e do Japão"
+title: Ucrânia garante empréstimo de US$ 1,5 bilhão do Banco Mundial com apoio da
+  Grã-Bretanha e do Japão
 date: 2024-03-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro ucraniano, Denis Shmygal, anunciou que a Ucrânia está prestes a receber um empréstimo significativo do Banco Mundial, no valor de US$ 1,5 bilhão, com garantias financeiras da Grã-Bretanha e do Japão. Este empréstimo destina-se a apoiar políticas de desenvolvimento do país, que enfrenta um déficit orçamentário previsto de 43,9 bilhões de dólares para o ano de 2024.
 

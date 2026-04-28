@@ -1,11 +1,12 @@
 ---
-title: "Brasileiros esquecem R$ 2,2 bi em grupos de consórcio, segundo BC"
+title: Brasileiros esquecem R$ 2,2 bi em grupos de consórcio, segundo BC
 date: 2022-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Número de cotas ativas subiu 6,9% em 2021.
 

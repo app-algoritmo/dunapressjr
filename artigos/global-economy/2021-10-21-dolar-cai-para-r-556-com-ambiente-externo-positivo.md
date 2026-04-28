@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,56 com ambiente externo positivo"
+title: Dólar cai para R$ 5,56 com ambiente externo positivo
 date: 2021-10-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa fechou com pequena alta de 0,1% após discurso de Guedes.
 

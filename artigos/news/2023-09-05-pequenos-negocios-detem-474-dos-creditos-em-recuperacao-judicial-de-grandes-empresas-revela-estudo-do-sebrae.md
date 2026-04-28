@@ -1,11 +1,13 @@
 ---
-title: "Pequenos negócios detêm 47,4% dos créditos em recuperação judicial de grandes empresas, revela estudo do Sebrae"
+title: Pequenos negócios detêm 47,4% dos créditos em recuperação judicial de grandes
+  empresas, revela estudo do Sebrae
 date: 2023-09-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Levantamento inédito mostra a importância das Micro e Pequenas Empresas no cenário das recuperações judiciais corporativas no Brasil.
 

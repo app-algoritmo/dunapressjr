@@ -1,11 +1,12 @@
 ---
-title: "Plataforma permite acessar projeções de mudança do clima para todo o Brasil"
+title: Plataforma permite acessar projeções de mudança do clima para todo o Brasil
 date: 2020-11-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil conta agora com uma plataforma on-line em que é possível visualizar cenários de mudança do clima para todo o território nacional, o portal Projeções Climáticas. A ferramenta inédita no país foi construída para disponibilizar de maneira acessível projeções climáticas, derivadas de modelos globais e regionais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Secretário estadual de Segurança Pública presta contas na Alesp e destaca integração com municípios"
+title: Secretário estadual de Segurança Pública presta contas na Alesp e destaca integração
+  com municípios
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## À Comissão de Segurança Pública e Assuntos Penitenciários, Guilherme Derrite apresentou números e projetos da Pasta.
 

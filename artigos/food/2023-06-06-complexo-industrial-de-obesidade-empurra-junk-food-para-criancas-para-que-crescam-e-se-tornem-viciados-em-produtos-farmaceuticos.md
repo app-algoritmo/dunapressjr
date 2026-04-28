@@ -1,11 +1,13 @@
 ---
-title: "Complexo Industrial de Obesidade empurra junk food para crianças para que cresçam e se tornem viciados em produtos farmacêuticos"
+title: Complexo Industrial de Obesidade empurra junk food para crianças para que cresçam
+  e se tornem viciados em produtos farmacêuticos
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Food
+- Food
 ---
+
 
 As pessoas podem estar vivendo mais hoje, em média, do que há séculos, mas uma vida mais longa significa uma vida *mais saudável ? *A resposta a essa pergunta é um retumbante *não* , e a razão tem a ver com as [maquinações do Complexo Industrial da Obesidade](https://childrenshealthdefense.org/defender/big-food-pharma-media-obesity-industrial-complex/) .
 

@@ -1,11 +1,13 @@
 ---
-title: "Presidente de El Salvador, Nayib Bukele, Antecipa Vitória em Eleições Municipais, mas Reconhece Voto de Punição"
+title: Presidente de El Salvador, Nayib Bukele, Antecipa Vitória em Eleições Municipais,
+  mas Reconhece Voto de Punição
 date: 2024-03-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Antes da publicação oficial dos resultados, o presidente de El Salvador, Nayib Bukele, declarou que seu partido no poder, Nuevas Ideas, teria vencido as eleições municipais em 43 dos 44 municípios incluídos nas urnas.
 

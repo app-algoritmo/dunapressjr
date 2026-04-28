@@ -1,11 +1,13 @@
 ---
-title: "Príncipe herdeiro regente, colocou uma coroa de flores em nome da Noruega no Holocaust Memorial Center Yad Vashem, em Jerusalém"
+title: Príncipe herdeiro regente, colocou uma coroa de flores em nome da Noruega no
+  Holocaust Memorial Center Yad Vashem, em Jerusalém
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 Sua Alteza Real O príncipe herdeiro regente nesta tarde 23 de janeiro de 2020 colocou uma coroa de flores em nome da Noruega no Holocaust Memorial Center Yad Vashem, em Jerusalém. Segunda-feira marca o 75º aniversário da libertação de  Auschwitz.
 

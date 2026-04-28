@@ -1,11 +1,12 @@
 ---
-title: "Reunião define estratégias de atuação contra a COVID-19 em Garanhuns (PE)"
+title: Reunião define estratégias de atuação contra a COVID-19 em Garanhuns (PE)
 date: 2020-04-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Garanhus (PE) **– No dia 23 de março, o 71º Batalhão de Infantaria Motorizado, braço do Comando Conjunto Nordeste na cidade de Garanhus, recebeu a visita de uma equipe técnica da Secretaria Municipal de Saúde daquele município.
 

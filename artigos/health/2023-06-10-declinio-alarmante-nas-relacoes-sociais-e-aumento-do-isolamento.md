@@ -1,11 +1,12 @@
 ---
-title: "Declínio alarmante nas relações sociais e aumento do isolamento"
+title: Declínio alarmante nas relações sociais e aumento do isolamento
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Health
+- Health
 ---
+
 
 Autoridades admitem epidemia de solidão, mas fogem da responsabilidade
 

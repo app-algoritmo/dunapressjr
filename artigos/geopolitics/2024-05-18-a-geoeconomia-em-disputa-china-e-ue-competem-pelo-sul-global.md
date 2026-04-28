@@ -1,11 +1,12 @@
 ---
-title: "A Geoeconomia em Disputa: China e UE Competem pelo Sul Global"
+title: 'A Geoeconomia em Disputa: China e UE Competem pelo Sul Global'
 date: 2024-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O embate entre a China e a União Europeia pelo domínio econômico no Sul Global intensifica-se, enquanto Pequim expande sua influência por meio de investimentos em infraestrutura, desafiando a tradicional presença europeia na região.
 

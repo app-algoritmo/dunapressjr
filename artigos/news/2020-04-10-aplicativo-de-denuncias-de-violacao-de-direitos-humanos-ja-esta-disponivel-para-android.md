@@ -1,11 +1,13 @@
 ---
-title: "Aplicativo de denúncias de violação de direitos humanos já está disponível para Android"
+title: Aplicativo de denúncias de violação de direitos humanos já está disponível
+  para Android
 date: 2020-04-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os donos de celulares com sistema operacional Android já podem baixar, na loja [Google Play](https://play.google.com/store/apps/details?id=br.gov.direitoshumanosbrasil), o aplicativo Direitos Humanos BR. Em breve, também estará disponível em breve para celulares com o sistema iOS.
 

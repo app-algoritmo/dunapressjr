@@ -1,11 +1,12 @@
 ---
-title: "Série Este homem quer ser presidente do Brasil - Parte II - João Dória"
+title: Série Este homem quer ser presidente do Brasil - Parte II - João Dória
 date: 2020-04-03
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - News
+- News
 ---
+
 
 A folha corrida de João Agripino da Costa Dória Junior.
 

@@ -1,11 +1,13 @@
 ---
-title: "Livro da historiadora Wendy Lower, descompacta foto rara da Segunda Guerra Mundial"
+title: Livro da historiadora Wendy Lower, descompacta foto rara da Segunda Guerra
+  Mundial
 date: 2021-02-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 No Museu Memorial do Holocausto dos Estados Unidos em 2009, a historiadora Wendy Lower viu uma imagem perturbadora de uma mãe judia e seu filho sendo executados por vários homens. Lower soube imediatamente que ela estava olhando uma rara evidência visual relacionada aos tiroteios ao ar livre na Ucrânia ocupada pelos nazistas. Durante esta fase do genocídio, os alemães e seus colaboradores massacraram judeus em plena luz do dia.
 

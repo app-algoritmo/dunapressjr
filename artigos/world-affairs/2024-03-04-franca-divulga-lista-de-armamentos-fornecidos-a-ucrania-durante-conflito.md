@@ -1,11 +1,12 @@
 ---
-title: "França divulga lista de armamentos fornecidos à Ucrânia durante conflito"
+title: França divulga lista de armamentos fornecidos à Ucrânia durante conflito
 date: 2024-03-04
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Ministério da Defesa francês tornou pública uma extensa lista de equipamentos militares enviados à Ucrânia ao longo de dois anos de conflito. A lista, composta por 50 seções, revela um apoio diversificado, incluindo mísseis de longo alcance, sistemas de defesa aérea e uma variedade de armamentos.
 

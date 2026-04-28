@@ -1,11 +1,12 @@
 ---
-title: "Nova lei prevê ecocardiograma fetal e ultrassonografia para gestantes no SUS"
+title: Nova lei prevê ecocardiograma fetal e ultrassonografia para gestantes no SUS
 date: 2023-06-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Foi sancionada a lei que obriga a rede pública de saúde a incluir no protocolo de assistência às gestantes a realização de ecocardiograma fetal no pré-natal e de pelo menos dois exames de ultrassonografia transvaginal durante o primeiro quadrimestre de gestação.
 

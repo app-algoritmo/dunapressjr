@@ -1,11 +1,12 @@
 ---
-title: "Seis lições que a Copa do Mundo deixou para os negócios"
+title: Seis lições que a Copa do Mundo deixou para os negócios
 date: 2023-01-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Business and Economy
+- Business and Economy
 ---
+
 
 De quatro em quatro anos, seleções do mundo todo se encontram para colocar as estratégias em prática, mostrar o melhor do futebol em busca da taça e do reconhecimento de todo o planeta. E o que os líderes querem para seus negócios? Sucesso, reconhecimento e a certeza de que suas estratégias estão dando certo. Portanto, há muito mais pontos em comum entre a Copa e os negócios do que se imagina. 
 

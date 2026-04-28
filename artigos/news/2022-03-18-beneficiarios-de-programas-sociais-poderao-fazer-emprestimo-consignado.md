@@ -1,11 +1,12 @@
 ---
-title: "Beneficiários de programas sociais poderão fazer empréstimo consignado"
+title: Beneficiários de programas sociais poderão fazer empréstimo consignado
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Margem do empréstimo também foi elevada para 40% da renda.
 

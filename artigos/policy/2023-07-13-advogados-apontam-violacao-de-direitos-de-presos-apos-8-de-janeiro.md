@@ -1,11 +1,12 @@
 ---
-title: "Advogados apontam violação de direitos de presos após 8 de janeiro"
+title: Advogados apontam violação de direitos de presos após 8 de janeiro
 date: 2023-07-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Audiência no Senado discutiu prisão de envolvidos nos atos golpistas.
 

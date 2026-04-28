@@ -1,12 +1,14 @@
 ---
-title: "Balenciaga que pertence a Gucci perde milhões de dólares e fans por envolvimento com a pedofilia"
+title: Balenciaga que pertence a Gucci perde milhões de dólares e fans por envolvimento
+  com a pedofilia
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Fashion
-  - News
+- Fashion
+- News
 ---
+
 
 ## Pertence ao Grupo Gucci desde 2001, Balenciaga é uma casa de moda criada pelo estilista espanhol Cristóbal Balenciaga, considerado o arquiteto da alta costura pelo seu amplo conhecimento na confecção dos trajes e utilização de linhas puras contando ainda com o perfeccionismo, que era sua marca. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Educação: da interrupção à recuperação"
+title: 'Educação: da interrupção à recuperação'
 date: 2021-04-28
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## -UNESCO reúne organizações internacionais, sociedade civil e parceiros do setor privado em uma ampla coalizão para garantir a #AprendizagemNuncaPara.
 

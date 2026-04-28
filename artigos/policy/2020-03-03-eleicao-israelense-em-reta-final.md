@@ -1,11 +1,12 @@
 ---
-title: "Eleição Israelense em reta final"
+title: Eleição Israelense em reta final
 date: 2020-03-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Policy
+- Policy
 ---
+
 
 Eleições em Israel com 97% dos votos regulares contados, porém resultados finais devem ser publicados apenas na próxima segunda-feira
 

@@ -1,11 +1,12 @@
 ---
-title: "Biomédica brasileira, desenvolve sensores para detectar doenças"
+title: Biomédica brasileira, desenvolve sensores para detectar doenças
 date: 2021-02-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A biomédica Ana Flávia Oliveira Notário construiu sua carreira acadêmica, da graduação ao pós-doutorado, na Universidade Federal de Uberlândia (UFU).  Foi bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) em Biologia Celular e Estrutural, no mestrado, e em Genética e Bioquímica, no doutorado. Nessa última etapa, começou a desenvolver sensores para detecção de doenças.
 

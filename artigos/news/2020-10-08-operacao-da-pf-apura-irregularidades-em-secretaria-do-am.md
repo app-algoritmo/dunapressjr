@@ -1,11 +1,12 @@
 ---
-title: "Operação da PF apura irregularidades em secretaria do AM"
+title: Operação da PF apura irregularidades em secretaria do AM
 date: 2020-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Investigações apontam fraudes na compra de respiradores.
 

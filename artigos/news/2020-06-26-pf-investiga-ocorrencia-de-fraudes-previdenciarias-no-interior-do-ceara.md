@@ -1,11 +1,12 @@
 ---
-title: "PF investiga ocorrência de fraudes previdenciárias no interior do Ceará"
+title: PF investiga ocorrência de fraudes previdenciárias no interior do Ceará
 date: 2020-06-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Juazeiro do Norte/CE - A Polícia Federal deflagrou nesta quinta-feira, 25/6, a Operação Fantasmas, com o objetivo de investigar a ocorrência de fraudes previdenciárias.
 

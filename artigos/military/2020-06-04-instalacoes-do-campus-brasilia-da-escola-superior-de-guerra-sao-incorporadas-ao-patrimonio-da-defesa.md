@@ -1,11 +1,13 @@
 ---
-title: "Instalações do Campus Brasília da Escola Superior de Guerra são incorporadas ao patrimônio da Defesa"
+title: Instalações do Campus Brasília da Escola Superior de Guerra são incorporadas
+  ao patrimônio da Defesa
 date: 2020-06-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 Nesta quarta-feira (3), as novas instalações do Campus Brasília da Escola Superior de Guerra foram incorporadas ao patrimônio do Ministério da Defesa. A área, que estava sob a administração da Escola Nacional de Administração Pública (ENAP), foi transferida à Pasta por meio de Termo de Entrega Patrimonial. O evento ocorreu na sede do Campus, no bairro Jardim Botânico, na capital federal.
 

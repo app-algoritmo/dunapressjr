@@ -1,11 +1,12 @@
 ---
-title: "Índice que reajusta aluguel acumula inflação de 5,87% em 12 meses"
+title: Índice que reajusta aluguel acumula inflação de 5,87% em 12 meses
 date: 2020-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Taxa do IGP-M é inferior à observada na primeira prévia de abril
 O Índice Geral de Preços - Mercado (IGP-M), usado no reajuste dos contratos de aluguel, registrou deflação (queda de preços) de 0,32% na primeira prévia de maio deste ano. A taxa é inferior à observada na primeira prévia de abril, que havia registrado inflação de 1,05%.

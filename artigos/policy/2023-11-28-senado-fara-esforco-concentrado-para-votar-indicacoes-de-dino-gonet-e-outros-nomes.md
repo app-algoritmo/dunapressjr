@@ -1,11 +1,13 @@
 ---
-title: "Senado fará esforço concentrado para votar indicações de Dino, Gonet e outros nomes"
+title: Senado fará esforço concentrado para votar indicações de Dino, Gonet e outros
+  nomes
 date: 2023-11-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O presidente do Senado, Rodrigo Pacheco, anunciou nesta segunda-feira (27) um período de esforço concentrado de 12 a 15 de dezembro para votar nomeações do governo federal. Entre as indicações a serem avaliadas, estarão as de Flávio Dino para o Supremo Tribunal Federal (STF) e de Paulo Gonet para a Procuradoria-Geral da República (PGR), ambas anunciadas nesta segunda.
 

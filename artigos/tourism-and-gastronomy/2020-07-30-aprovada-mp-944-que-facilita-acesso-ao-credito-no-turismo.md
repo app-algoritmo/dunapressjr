@@ -1,11 +1,12 @@
 ---
-title: "Aprovada MP 944 que facilita acesso ao crédito no Turismo"
+title: Aprovada MP 944 que facilita acesso ao crédito no Turismo
 date: 2020-07-30
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Câmara dos Deputados foi unânime na decisão. Texto segue para sanção presidencial.
 

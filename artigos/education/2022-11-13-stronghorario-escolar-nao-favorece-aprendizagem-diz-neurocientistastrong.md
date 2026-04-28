@@ -1,11 +1,12 @@
 ---
-title: "<strong>Horário escolar não favorece aprendizagem, diz neurocientista</strong>"
+title: <strong>Horário escolar não favorece aprendizagem, diz neurocientista</strong>
 date: 2022-11-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Education
+- Education
 ---
+
 
 Acordar às 6h da manhã, todos os dias, e ter concentração e disposição para aprender é uma tarefa que exige mais que disciplina. É preciso ter tido horas suficientes de sono para que o organismo consiga ser produtivo nas primeiras horas do dia. E isso quem diz é a neurociência, cada vez mais inteirada de como funciona e como aprende o cérebro humano.
 

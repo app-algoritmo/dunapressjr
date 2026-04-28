@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: Noruega registra a primeira morte no país à causa do patógeno"
+title: 'Coronavírus: Noruega registra a primeira morte no país à causa do patógeno'
 date: 2020-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 O Instituto de Saúde Pública norueguês, relatou a primeira morte por coronavírus no país. Atualmente, existem 750 casos, dos quais 131 foram relatados entre 00:00h e 24:00h de 12/03/2020.
 

@@ -1,11 +1,12 @@
 ---
-title: "BNDES lança plataforma para impulsionar oportunidades de investimentos"
+title: BNDES lança plataforma para impulsionar oportunidades de investimentos
 date: 2022-05-12
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Ferramenta terá dados sobre sustentabilidade financeira.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto inclui transfobia na lei que coíbe a violência política contra as mulheres"
+title: Projeto inclui transfobia na lei que coíbe a violência política contra as mulheres
 date: 2023-03-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 128/23 inclui a transfobia como ato de violência política. Em análise na Câmara dos Deputados, o texto inclui a medida na [Lei 14.192/21](https://www2.camara.gov.br/legin/fed/lei/2021/lei-14192-4-agosto-2021-791631-norma-pl.html), criada para coibir a violência política contra as mulheres.
 

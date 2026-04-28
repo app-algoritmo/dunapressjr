@@ -1,11 +1,13 @@
 ---
-title: "Chanceleres dos países do Brics expressam preocupação com a falta de atenção dos países ricos para a erradicação da pobreza global"
+title: Chanceleres dos países do Brics expressam preocupação com a falta de atenção
+  dos países ricos para a erradicação da pobreza global
 date: 2023-06-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Ministros do Brics afirmam que agendas multilaterais não atendem às necessidades do sul global e discutem reforma do sistema financeiro internacional.
 

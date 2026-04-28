@@ -1,11 +1,13 @@
 ---
-title: "Os EUA e a Comissão Europeia estão pedindo uma 'estrutura internacional' para incentivar a pesquisa em geoengenharia"
+title: Os EUA e a Comissão Europeia estão pedindo uma 'estrutura internacional' para
+  incentivar a pesquisa em geoengenharia
 date: 2023-08-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## ***As declarações feitas pelo governo dos EUA e pela União Européia na semana passada são mais um passo em direção a uma única agência governamental centralizada para administrar nações individuais.***
 

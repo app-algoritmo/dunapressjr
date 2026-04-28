@@ -1,11 +1,12 @@
 ---
-title: "Atividade econômica brasileira apresenta crescimento em julho"
+title: Atividade econômica brasileira apresenta crescimento em julho
 date: 2023-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Em 12 meses, indicador ficou positivo em 3,12%, revela BC.
 

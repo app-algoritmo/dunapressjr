@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova prorrogação de prazo para renegociação de dívidas de clubes de futebol"
+title: Comissão aprova prorrogação de prazo para renegociação de dívidas de clubes
+  de futebol
 date: 2022-12-06
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto de lei que reabre, até 1º de julho de 2023, o prazo para que clubes de futebol possam aderir ao Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro (Profut).
 

@@ -1,11 +1,12 @@
 ---
-title: "Guedes fecha Davos com sucesso e revela cartel brasileiro 6+6"
+title: Guedes fecha Davos com sucesso e revela cartel brasileiro 6+6
 date: 2020-01-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O Brasil terá um papel de liderança em como a próxima década se desenrola. Uma grande razão para isso são seus imensos recursos naturais - incluindo mais de 40% das florestas tropicais do mundo e 20% do suprimento de água doce do planeta. A Amazônia é frequente e erroneamente descrita como os "pulmões do mundo". Mas os pulmões estão em colapso por motivos diferentes e isso não altera as responsabilidades nos  resultados de incêndios e desmatamentos provocados pelo homem. Com mais de 210 milhões de cidadãos, o Brasil também possui um estoque impressionante de recursos humanos. Mas também é convulsionada pela desigualdade de tirar o fôlego e pela pobreza persistente. Para complicar, o Brasil está sofrendo ataques avassaladores daqueles que mantinham seus 210 milhões de habitantes sequestrados no engano.
 

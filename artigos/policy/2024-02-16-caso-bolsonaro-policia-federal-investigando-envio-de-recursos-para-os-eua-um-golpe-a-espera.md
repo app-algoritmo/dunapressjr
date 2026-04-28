@@ -1,11 +1,13 @@
 ---
-title: "Caso Bolsonaro: Polícia Federal Investigando Envio de Recursos para os EUA, Um Golpe à Espera?"
+title: 'Caso Bolsonaro: Polícia Federal Investigando Envio de Recursos para os EUA,
+  Um Golpe à Espera?'
 date: 2024-02-16
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Na quinta-feira, 15 de fevereiro, a imprensa foi surpreendida com as manchetes que sugeriam um possível esquema de golpe envolvendo transferências financeiras para os Estados Unidos. Segundo relatos da Polícia Federal, o ex-presidente Jair Bolsonaro teria enviado a quantia significativa de R$ 800.000 em dezembro de 2022, à espera de uma operação duvidosa. O mais curioso é que a transferência não saiu do país, mas sim da conta poupança do Banco do Brasil para uma filial nos EUA.
 

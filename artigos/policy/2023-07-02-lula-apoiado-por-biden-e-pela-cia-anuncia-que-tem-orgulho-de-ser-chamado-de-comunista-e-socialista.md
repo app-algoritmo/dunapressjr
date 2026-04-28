@@ -1,11 +1,13 @@
 ---
-title: "Lula, apoiado por Biden e pela CIA, anuncia que tem orgulho de ser chamado de comunista e socialista"
+title: Lula, apoiado por Biden e pela CIA, anuncia que tem orgulho de ser chamado
+  de comunista e socialista
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Em 2022, o regime de Biden e o Deep State trabalharam para derrubar o popular presidente Jair Bolsonaro no Brasil e abrir caminho para o comunista Lula voltar ao cargo.
 

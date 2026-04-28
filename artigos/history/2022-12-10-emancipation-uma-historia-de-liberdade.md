@@ -1,13 +1,14 @@
 ---
-title: "Emancipation – Uma História de Liberdade"
+title: Emancipation – Uma História de Liberdade
 date: 2022-12-10
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - History
-  - News
-  - Video library
+- History
+- News
+- Video library
 ---
+
 
 Escute a resenha aqui:
 

@@ -1,11 +1,12 @@
 ---
-title: "Erdan ao Conselho de Segurança: O ataque do Hamas a Israel foi premeditado"
+title: 'Erdan ao Conselho de Segurança: O ataque do Hamas a Israel foi premeditado'
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O embaixador de Israel nos Estados Unidos e na ONU diz que o ataque maciço do Hamas a Israel foi premeditado, desencadeado pela agitação política interna palestina.
 

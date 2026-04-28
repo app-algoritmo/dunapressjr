@@ -1,11 +1,13 @@
 ---
-title: "Pisa 2018: meninas têm desempenho significativamente melhor que os meninos nas três disciplinas"
+title: 'Pisa 2018: meninas têm desempenho significativamente melhor que os meninos
+  nas três disciplinas'
 date: 2019-12-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 ## Os estudantes noruegueses apresentam desempenho médio mais fraco em leitura e ciências em comparação com a pesquisa anterior do PISA em 2015. Os resultados para matemática são inalterados.
 

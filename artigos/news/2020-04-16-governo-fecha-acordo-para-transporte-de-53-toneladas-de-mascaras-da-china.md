@@ -1,11 +1,12 @@
 ---
-title: "Governo fecha acordo para transporte de 53 toneladas de máscaras da China"
+title: Governo fecha acordo para transporte de 53 toneladas de máscaras da China
 date: 2020-04-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Uma parceria entre o Ministério da Infraestrutura e as Lojas Americanas vai viabilizar a chegada de parte dos equipamentos de saúde da China. A pasta é responsável pela operação especial que trará ao Brasil 960 toneladas de máscaras compradas pelo Ministério da Saúde. 
 

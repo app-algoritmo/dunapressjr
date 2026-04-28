@@ -1,11 +1,13 @@
 ---
-title: "Unfollow terapêutico: uma limpeza nas redes sociais e na percepção sobre seu corpo"
+title: 'Unfollow terapêutico: uma limpeza nas redes sociais e na percepção sobre seu
+  corpo'
 date: 2021-02-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Alguma vez você já se sentiu desconfortável com a sua aparência? Provavelmente a resposta seja sim! Mas quem nunca passou por isso, né? Antigamente eram as revistas de beleza as vilãs. Hoje, seu “inimigo” pode estar no celular: a distorção que as redes sociais provocam.
 

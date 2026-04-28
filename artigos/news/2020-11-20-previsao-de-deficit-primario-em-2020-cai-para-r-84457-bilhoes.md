@@ -1,11 +1,12 @@
 ---
-title: "Previsão de déficit primário em 2020 cai para R$ 844,57 bilhões"
+title: Previsão de déficit primário em 2020 cai para R$ 844,57 bilhões
 date: 2020-11-20
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estimativa caiu R$ 16,43 bi em relação à previsão anterior.
 

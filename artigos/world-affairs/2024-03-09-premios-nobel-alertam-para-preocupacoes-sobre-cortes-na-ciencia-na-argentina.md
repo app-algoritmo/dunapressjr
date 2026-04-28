@@ -1,11 +1,12 @@
 ---
-title: "Prêmios Nobel Alertam para Preocupações sobre Cortes na Ciência na Argentina"
+title: Prêmios Nobel Alertam para Preocupações sobre Cortes na Ciência na Argentina
 date: 2024-03-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Uma carta assinada por 68 ganhadores do Prêmio Nobel foi enviada ao presidente da Argentina, Javier Milei, expressando preocupações sobre os cortes nos investimentos em ciência e tecnologia no país. Os laureados destacaram sua inquietação com os ajustes no setor científico como parte das medidas de economia do governo e instaram o presidente a restaurar os orçamentos para garantir o futuro da pesquisa e da inovação.
 

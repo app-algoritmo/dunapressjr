@@ -1,11 +1,12 @@
 ---
-title: "Dia do Idoso: cuidados com a saúde bucal na terceira idade"
+title: 'Dia do Idoso: cuidados com a saúde bucal na terceira idade'
 date: 2021-10-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As pessoas estão vivendo mais. Com isso, os cuidados com a saúde estão mudando, inclusive com a saúde bucal. No início do milênio, grande parte dos idosos eram desdentados. Esse cenário foi mudando como a implementação de políticas públicas de saúde e a melhora na qualidade de vida, que favoreceram a manutenção e a diminuição das perdas de dentes.
 

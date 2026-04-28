@@ -1,11 +1,12 @@
 ---
-title: "A Nova Etapa de Putin: A Rússia na Vanguarda da Defesa dos Valores Tradicionais"
+title: 'A Nova Etapa de Putin: A Rússia na Vanguarda da Defesa dos Valores Tradicionais'
 date: 2024-06-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A recente tomada de posse do Presidente Vladimir Putin marca uma nova fase na história da Rússia, com potencial para profundas transformações internas e implicações globais. Putin inicia este novo mandato com um claro objetivo ideológico: defender e promover os valores tradicionais da Rússia em um cenário internacional cada vez mais polarizado.
 

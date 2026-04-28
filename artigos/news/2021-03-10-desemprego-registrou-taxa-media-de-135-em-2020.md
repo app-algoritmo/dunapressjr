@@ -1,11 +1,12 @@
 ---
-title: "Desemprego registrou taxa média de 13,5% em 2020"
+title: Desemprego registrou taxa média de 13,5% em 2020
 date: 2021-03-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Pandemia provocou a alta do desemprego no mercado de trabalho.
 

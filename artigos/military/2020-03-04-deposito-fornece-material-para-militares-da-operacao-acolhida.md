@@ -1,11 +1,12 @@
 ---
-title: "Depósito fornece material para militares da Operação Acolhida"
+title: Depósito fornece material para militares da Operação Acolhida
 date: 2020-03-04
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Belém (PA)** – No dia 2 de março, o 8° Depósito de
 Suprimento forneceu material classe II aos militares do atual contingente da

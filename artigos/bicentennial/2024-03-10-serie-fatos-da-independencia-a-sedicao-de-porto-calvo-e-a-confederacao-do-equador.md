@@ -1,11 +1,13 @@
 ---
-title: "Série Fatos Da Independência: A sedição de Porto Calvo e a Confederação do Equador"
+title: 'Série Fatos Da Independência: A sedição de Porto Calvo e a Confederação do
+  Equador'
 date: 2024-03-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Bicentennial
+- Bicentennial
 ---
+
 
 O fato de haver apenas brasileiros na segunda Junta de Governo organizada em Alagoas não significou o fim dos conflitos. Bastaram notícias de que uma Assembleia Constituinte havia sido convocada por Dom Pedro para que representantes da província seguissem em direção ao Rio de Janeiro, de modo a garantir os interesses e a autonomia local, para que os ânimos dos alagoanos voltassem a se exaltar.
 

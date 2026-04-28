@@ -1,11 +1,12 @@
 ---
-title: "Disponível em versão web ferramenta e-PNAE"
+title: Disponível em versão web ferramenta e-PNAE
 date: 2020-07-20
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Sem necessidade de download, nova versão do aplicativo auxilia a sociedade no acompanhamento da alimentação escolar.
 

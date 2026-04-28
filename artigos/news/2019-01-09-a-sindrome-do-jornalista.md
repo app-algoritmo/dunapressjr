@@ -1,11 +1,12 @@
 ---
-title: "A Síndrome do Jornalista"
+title: A Síndrome do Jornalista
 date: 2019-01-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Créditos da Foto: Aquinoticias.com
 

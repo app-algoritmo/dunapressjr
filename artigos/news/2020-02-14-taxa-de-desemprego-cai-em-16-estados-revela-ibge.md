@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desemprego cai em 16 estados, revela IBGE"
+title: Taxa de desemprego cai em 16 estados, revela IBGE
 date: 2020-02-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 *Menor taxa média de desemprego é de Santa Catarina: 6,1%*
 

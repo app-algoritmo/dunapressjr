@@ -1,11 +1,12 @@
 ---
-title: "Brasil bate a marca de 275 mil cestas de alimentos distribuídas"
+title: Brasil bate a marca de 275 mil cestas de alimentos distribuídas
 date: 2020-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Em todo o país, o número de cestas de alimentos distribuídas ultrapassou a marca de 275 mil unidades. Os dados referentes às doações feitas para povos e comunidades tradicionais a fim de minimizar os impactos do novo coronavírus (Covid-19) foram divulgados pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), nesta segunda-feira (13).
 

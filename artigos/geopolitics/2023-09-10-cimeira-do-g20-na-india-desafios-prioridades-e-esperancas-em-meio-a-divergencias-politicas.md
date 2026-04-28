@@ -1,11 +1,13 @@
 ---
-title: "Cimeira do G20 na Índia: Desafios, Prioridades e Esperanças em Meio a Divergências Políticas"
+title: 'Cimeira do G20 na Índia: Desafios, Prioridades e Esperanças em Meio a Divergências
+  Políticas'
 date: 2023-09-10
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 A 18ª Cimeira dos Líderes do G20, programada para ocorrer em Nova Deli, Índia, promete ser um evento repleto de nuances geopolíticas e expectativas elevadas. É a primeira vez que a Índia, com a sua crescente presença no palco mundial, sediará uma cimeira diplomática multilateral de tal envergadura.
 

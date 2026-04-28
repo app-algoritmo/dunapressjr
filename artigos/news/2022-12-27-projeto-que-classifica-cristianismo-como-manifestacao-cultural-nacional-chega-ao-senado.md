@@ -1,11 +1,13 @@
 ---
-title: "Projeto que classifica cristianismo como 'manifestação cultural nacional' chega ao Senado"
+title: Projeto que classifica cristianismo como 'manifestação cultural nacional' chega
+  ao Senado
 date: 2022-12-27
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Projeto de lei ([PL 4.168/2021](http://www25.senado.leg.br/web/atividade/materias/-/materia/155095)) que classifica o cristianismo como "manifestação cultural nacional" chegou ao Senado. De autoria do deputado federal Vinicius Carvalho (Republicanos-SP), a proposta foi aprovada em Plenário da Câmara dos Deputados no dia 7 de novembro e aguarda despacho da Mesa. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,45 e bolsa fecha no maior nível em dois meses"
+title: Dólar cai para R$ 5,45 e bolsa fecha no maior nível em dois meses
 date: 2020-05-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Com feriado nos Estados Unidos, mercado tem dia de alívio no Brasil.
 

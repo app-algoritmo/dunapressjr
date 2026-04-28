@@ -1,11 +1,12 @@
 ---
-title: "A peculiar órbita solar e os braços espirais da galáxia￼￼"
+title: A peculiar órbita solar e os braços espirais da galáxia￼￼
 date: 2022-07-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## O que é a pesquisa?
 

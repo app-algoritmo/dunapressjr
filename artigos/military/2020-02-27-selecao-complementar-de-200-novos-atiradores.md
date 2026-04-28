@@ -1,11 +1,12 @@
 ---
-title: "Seleção Complementar de 200 novos Atiradores"
+title: Seleção Complementar de 200 novos Atiradores
 date: 2020-02-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Maringá (PR)** – De
 17 a 21 de fevereiro, o Tiro de Guerra de Maringá (TG 05-009) realizou a

@@ -1,11 +1,12 @@
 ---
-title: "Prévia da inflação oficial fecha ano em 10,42%"
+title: Prévia da inflação oficial fecha ano em 10,42%
 date: 2021-12-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a maior taxa para um ano desde 2015.
 

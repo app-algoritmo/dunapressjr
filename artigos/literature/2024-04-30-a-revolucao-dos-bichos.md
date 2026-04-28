@@ -1,11 +1,12 @@
 ---
-title: "A Revolução dos Bichos"
+title: A Revolução dos Bichos
 date: 2024-04-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Literature
+- Literature
 ---
+
 
 A história se passa na Granja do Solar, onde o proprietário é o Sr. Jones. Lá, um porco já em idade avançada faz um discurso incitando uma revolução entre os animais. Poucos dias após seu discurso, esse porco falece. Os porcos, considerados os animais mais inteligentes da granja, lideram a revolução inspirados pelas ideias do porco falecido. Os animais conseguem expulsar o proprietário e sua esposa e, sentindo-se livres, mudam o nome da propriedade e estabelecem os sete mandamentos:
 

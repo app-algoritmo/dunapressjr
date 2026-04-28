@@ -1,11 +1,12 @@
 ---
-title: "Crédito concedido por bancos deve crescer 14,6% este ano, estima BC"
+title: Crédito concedido por bancos deve crescer 14,6% este ano, estima BC
 date: 2021-12-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsão é maior que a do relatório anterior, de 12,6%.
 

@@ -1,11 +1,12 @@
 ---
-title: "30/5 – Dia Mundial da Esclerose Múltipla"
+title: 30/5 – Dia Mundial da Esclerose Múltipla
 date: 2022-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A esclerose múltipla (EM) é uma das doenças mais comuns do sistema nervoso central, afetando o cérebro e a medula espinhal. Hoje, 2,8 milhões de pessoas em todo o mundo têm EM. Estima-se que no Brasil, cerca de 40 mil pessoas vivam com a doença.
 

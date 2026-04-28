@@ -1,11 +1,13 @@
 ---
-title: "Celebridades judaicas utilizam o antissemita #JewishPrivilege para compartilhar histórias"
+title: 'Celebridades judaicas utilizam o antissemita #JewishPrivilege para compartilhar
+  histórias'
 date: 2020-07-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os usuários do Twitter decidiram invadir a hashtag #JewishPrivilege usando-a para contar histórias sobre a discriminação que eles e suas famílias enfrentaram ao longo dos anos.
 

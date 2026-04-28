@@ -1,11 +1,13 @@
 ---
-title: "As seringas Covid atendem aos critérios científicos e clínicos de guerra biológica, não 'vacinas'"
+title: As seringas Covid atendem aos critérios científicos e clínicos de guerra biológica,
+  não 'vacinas'
 date: 2023-08-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Nunca é demais enfatizar que não há evidências de que as "vacinas" do Wuhan Coronavirus (Covid-19) sejam realmente vacinas - e muitas evidências de que são apenas armas biológicas [disfarçadas](https://karenkingston.substack.com/p/unlocked-the-intelligent-and-brave) .
 

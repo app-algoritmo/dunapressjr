@@ -1,11 +1,12 @@
 ---
-title: "A parábola do sapo na panela"
+title: A parábola do sapo na panela
 date: 2020-05-22
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Chronicle
+- Chronicle
 ---
+
 
 **EDIÇÃO: 20/03/2022**
 

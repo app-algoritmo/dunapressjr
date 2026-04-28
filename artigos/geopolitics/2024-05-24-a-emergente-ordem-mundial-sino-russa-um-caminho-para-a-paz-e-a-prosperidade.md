@@ -1,11 +1,12 @@
 ---
-title: "A Emergente Ordem Mundial Sino-Russa: Um Caminho para a Paz e a Prosperidade"
+title: 'A Emergente Ordem Mundial Sino-Russa: Um Caminho para a Paz e a Prosperidade'
 date: 2024-05-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Nesta semana, testemunhamos dois vislumbres distintos do futuro da ordem mundial. De um lado, a cooperação frutífera entre a Rússia e a China, e do outro, a persistência de uma hegemonia ocidental decadente. A visita do presidente russo Vladimir Putin à China, onde foi calorosamente recebido pelo presidente Xi Jinping, simboliza a crescente aliança entre essas potências. Juntos, os líderes reafirmaram seu compromisso com uma ordem mundial multipolar baseada no respeito, igualdade e benefício mútuo.
 

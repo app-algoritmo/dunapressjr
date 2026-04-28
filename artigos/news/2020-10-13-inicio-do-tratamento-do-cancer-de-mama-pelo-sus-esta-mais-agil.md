@@ -1,11 +1,12 @@
 ---
-title: "Início do tratamento do câncer de mama pelo SUS está mais ágil"
+title: Início do tratamento do câncer de mama pelo SUS está mais ágil
 date: 2020-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Ter o diagnóstico precoce do câncer de mama aumenta a possibilidade de um tratamento menos agressivo e de cura da doença. Por isso, a campanha Outubro Rosa 2020 busca conscientizar as mulheres sobre a importância de ficar atenta para a prevenção e para os sinais da doença.
 

@@ -1,11 +1,12 @@
 ---
-title: "<strong>Títulos do Tesouro são opção segura de investimento</strong>"
+title: <strong>Títulos do Tesouro são opção segura de investimento</strong>
 date: 2022-08-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para investidores individuais, Tesouro Direto é forma fácil e rápida de aquisição de títulos públicos.
 

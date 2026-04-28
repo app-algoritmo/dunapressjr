@@ -1,11 +1,12 @@
 ---
-title: "Município de Itajaí presta contas de projetos e obras em andamento na cidade"
+title: Município de Itajaí presta contas de projetos e obras em andamento na cidade
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Exposição no átrio da Prefeitura destaca Programa Itajaí 2040: Moderna e Sustentável.
 

@@ -1,12 +1,14 @@
 ---
-title: "Luisa Stefani brilha com Schuurs e conquista, em Doha, no Qatar, seu 3º título de WTA 1000"
+title: Luisa Stefani brilha com Schuurs e conquista, em Doha, no Qatar, seu 3º título
+  de WTA 1000
 date: 2024-02-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Sports
-  - Tennis
+- Sports
+- Tennis
 ---
+
 
 ## Paulistana faturou primeiro título ao lado da nova parceira fixa, a holandesa Demi Schuurs, neste sábado (17).
 

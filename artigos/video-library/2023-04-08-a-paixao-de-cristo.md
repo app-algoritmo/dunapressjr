@@ -1,11 +1,12 @@
 ---
-title: "A Paixão de Cristo"
+title: A Paixão de Cristo
 date: 2023-04-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Video library
+- Video library
 ---
+
 
 ## O filme mais visto na história do cinema
 

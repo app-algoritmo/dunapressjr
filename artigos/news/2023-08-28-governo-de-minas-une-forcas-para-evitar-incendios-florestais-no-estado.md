@@ -1,11 +1,12 @@
 ---
-title: "Governo de Minas une forças para evitar incêndios florestais no estado"
+title: Governo de Minas une forças para evitar incêndios florestais no estado
 date: 2023-08-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Além do programa Minas contra o Fogo, o governo investe em fiscalização e na Operação Alerta Verde.
 

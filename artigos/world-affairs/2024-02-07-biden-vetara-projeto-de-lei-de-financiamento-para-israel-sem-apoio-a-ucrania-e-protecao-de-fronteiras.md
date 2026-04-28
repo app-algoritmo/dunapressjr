@@ -1,11 +1,13 @@
 ---
-title: "Biden Vetará Projeto de Lei de Financiamento para Israel sem Apoio à Ucrânia e Proteção de Fronteiras"
+title: Biden Vetará Projeto de Lei de Financiamento para Israel sem Apoio à Ucrânia
+  e Proteção de Fronteiras
 date: 2024-02-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O presidente dos Estados Unidos, Joe Biden, declarou que vetaria o projeto de lei sobre financiamento para Israel caso não incluísse apoio à Ucrânia e medidas de proteção de fronteiras, conforme divulgado pelo Escritório de Gestão e Orçamento em comunicado.
 

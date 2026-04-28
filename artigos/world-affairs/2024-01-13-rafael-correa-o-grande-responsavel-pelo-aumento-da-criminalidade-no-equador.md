@@ -1,11 +1,12 @@
 ---
-title: "Rafael Correa, o grande responsável pelo aumento da criminalidade no Equador"
+title: Rafael Correa, o grande responsável pelo aumento da criminalidade no Equador
 date: 2024-01-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Equador atravessa os momentos mais violentos da sua história. A mídia e os líderes esquerdistas capitalizam a situação para adicionar água ao seu moinho. Eles sustentam que no período socialista houve menos violência. O que não dizem é que [Rafael Correa perdoou mais de 3 mil traficantes](https://panampost.com/karina-martin/2017/06/10/correa-indulto-narcotraficantes/) antes de deixar a presidência.
 

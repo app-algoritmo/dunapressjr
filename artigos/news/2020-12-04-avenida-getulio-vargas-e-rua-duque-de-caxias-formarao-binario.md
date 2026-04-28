@@ -1,11 +1,12 @@
 ---
-title: "Avenida Getúlio Vargas e rua Duque de Caxias formarão binário"
+title: Avenida Getúlio Vargas e rua Duque de Caxias formarão binário
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A avenida Getúlio Vargas e a rua Duque de Caxias formarão um novo binário em Itajaí, a partir de segunda-feira (07). As modificações serão no trecho entre as ruas Heitor Liberato e João Gaya. A medida auxiliará no trânsito da região ao melhorar o fluxo de veículos, organizar o trânsito e evitar acidentes. A mudança também se integra aos novos binários implantados na cidade.
 

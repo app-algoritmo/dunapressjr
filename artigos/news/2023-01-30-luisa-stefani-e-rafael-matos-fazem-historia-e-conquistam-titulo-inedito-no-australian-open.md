@@ -1,11 +1,13 @@
 ---
-title: "Luisa Stefani e Rafael Matos fazem história e conquistam título inédito no Australian Open"
+title: Luisa Stefani e Rafael Matos fazem história e conquistam título inédito no
+  Australian Open
 date: 2023-01-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 LuisaStefani, número 34 do mundo de duplas, e Rafael Matos, 29º no masculino, fizeram história no fim da noite desta quinta-feira (27), tarde de sexta-feira em Melbourne, na Austrália. A paulistana e o gaúcho conquistaram o título do Australian Open ao derrotarem na final a dupla dos indianos Sania Mirza e Rohan Bopanna, por 2 sets a 0, com parciais de 7/6 (7/2) 6/2. Eles conquistaram o primeiro Grand Slam da carreira e se tornaram a primeira dupla 100% brasileira a vencer um título desse tipo de evento, que são os quatro maiores do esporte.
 

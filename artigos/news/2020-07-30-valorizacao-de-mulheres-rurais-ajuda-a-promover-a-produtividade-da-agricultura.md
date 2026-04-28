@@ -1,11 +1,12 @@
 ---
-title: "Valorização de mulheres rurais ajuda a promover a produtividade da agricultura"
+title: Valorização de mulheres rurais ajuda a promover a produtividade da agricultura
 date: 2020-07-30
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A 5ª edição da campanha #Mulheres Rurais, mulheres com direitos, foi lançada nesta quarta-feira. O objetivo é dar visibilidade às mulheres rurais, indígenas e afrodescendentes.
 

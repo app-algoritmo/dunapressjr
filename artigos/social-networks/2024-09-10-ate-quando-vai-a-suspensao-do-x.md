@@ -1,11 +1,12 @@
 ---
-title: "Até quando vai a suspensão do X?"
+title: Até quando vai a suspensão do X?
 date: 2024-09-10
 status: publish
-author: vamatti
+author: Vera Amatti
 categories:
-  - Social networks
+- Social networks
 ---
+
 
 Não se deixe enganar.  Há  forças que agem nas sombras e querem ver a censura no Brasil. Elas dão  sustentação a Moraes, e basta observar a ação dos demais juízes, em uma estrutura semelhante  a países como China e Rússia, que têm banido plataformas e redes digitais com o objetivo de propagar a agenda globalista. 
 

@@ -1,11 +1,12 @@
 ---
-title: "Séries Para Assistir e Nunca Esquecer"
+title: Séries Para Assistir e Nunca Esquecer
 date: 2022-08-05
 status: publish
-author: nazarethefonseca
+author: Nazareth Fonseca
 categories:
-  - Video library
+- Video library
 ---
+
 
 Ozark
 

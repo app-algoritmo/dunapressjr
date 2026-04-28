@@ -1,11 +1,13 @@
 ---
-title: "Sucesso com tratamento precoce contra o coronavírus na cidade de São Lourenço, em Minas Gerais"
+title: Sucesso com tratamento precoce contra o coronavírus na cidade de São Lourenço,
+  em Minas Gerais
 date: 2021-03-21
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -A Prefeitura de São Lourenço adotou o tratamento preventivo e com os números fechados em fevereiro é possível detectar uma queda de muita relevância que não pode ser deixado de lado e deve ser destacado. Prova disso é que nos números de São Lourenço não se registra internações na ala clínica há um bom tempo e temos apenas uma pessoa da cidade internada em UTI.   
 

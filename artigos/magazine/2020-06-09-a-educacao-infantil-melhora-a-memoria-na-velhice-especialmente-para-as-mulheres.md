@@ -1,11 +1,12 @@
 ---
-title: "A educação infantil melhora a memória na velhice - especialmente para as mulheres"
+title: A educação infantil melhora a memória na velhice - especialmente para as mulheres
 date: 2020-06-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Magazine
+- Magazine
 ---
+
 
 A educação parece proteger adultos mais velhos, especialmente mulheres, contra a perda de memória, de acordo com um estudo realizado por pesquisadores do Centro Médico da Universidade de Georgetown.
 

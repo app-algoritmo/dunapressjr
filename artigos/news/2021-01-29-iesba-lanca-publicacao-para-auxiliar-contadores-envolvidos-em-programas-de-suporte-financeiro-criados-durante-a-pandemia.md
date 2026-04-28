@@ -1,11 +1,13 @@
 ---
-title: "Iesba lança publicação para auxiliar contadores envolvidos em programas de suporte financeiro criados durante a pandemia"
+title: Iesba lança publicação para auxiliar contadores envolvidos em programas de
+  suporte financeiro criados durante a pandemia
 date: 2021-01-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O *International Ethics Standards Board for Accountants *(Iesba) - conselho internacional de normas éticas para a profissão contábil - lançou, nesta terça-feira (26), uma publicação sobre implicações éticas e de auditoria em programas de apoio financeiro criados durante a pandemia de Covid-19. Intitulado como “*Ethical and Auditing Implications Arising from Government-Backed COVID-19 Business Support Schemes”*, o documento traz orientações para contadores envolvidos no processo de solicitação e gestão desse tipo de recurso.
 

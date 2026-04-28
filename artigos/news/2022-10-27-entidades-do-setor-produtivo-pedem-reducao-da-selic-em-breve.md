@@ -1,11 +1,12 @@
 ---
-title: "Entidades do setor produtivo pedem redução da Selic em breve"
+title: Entidades do setor produtivo pedem redução da Selic em breve
 date: 2022-10-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Para CNI, juros altos ainda são necessários para segurar inflação.
 

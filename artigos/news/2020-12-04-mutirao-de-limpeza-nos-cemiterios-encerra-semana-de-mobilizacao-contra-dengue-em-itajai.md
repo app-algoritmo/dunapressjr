@@ -1,11 +1,13 @@
 ---
-title: "Mutirão de limpeza nos cemitérios encerra semana de mobilização contra dengue em Itajaí"
+title: Mutirão de limpeza nos cemitérios encerra semana de mobilização contra dengue
+  em Itajaí
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Município de Itajaí, por meio da Vigilância Epidemiológica, realizou nesta semana atividades preventivas e educativas para o controle do Aedes aegypti. Na manhã de sexta-feira (04) ocorrerá um mutirão de limpeza nos cemitérios da Fazenda e Espinheiros, a partir das 8h15, para encerrar as atividades da semana. O objetivo será eliminar recipientes que possam acumular água.
 

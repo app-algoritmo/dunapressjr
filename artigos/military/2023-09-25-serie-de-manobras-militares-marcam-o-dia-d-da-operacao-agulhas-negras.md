@@ -1,11 +1,12 @@
 ---
-title: "Série de manobras militares marcam o Dia D da Operação Agulhas Negras"
+title: Série de manobras militares marcam o Dia D da Operação Agulhas Negras
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 A Operação Agulhas Negras 2023 teve seu Dia D de Operações nesta sexta-feira, dia 22 de setembro, no Vale do Paraíba. Três principais ações foram realizadas nesta jornada: operação de transposição de curso d’água, assalto aeromóvel e assalto aeroterrestre, empregando tropas de alto nível de capacidade operacional.
 

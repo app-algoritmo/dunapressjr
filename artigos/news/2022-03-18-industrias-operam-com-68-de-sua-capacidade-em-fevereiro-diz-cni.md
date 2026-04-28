@@ -1,11 +1,12 @@
 ---
-title: "Indústrias operam com 68% de sua capacidade em fevereiro, diz CNI"
+title: Indústrias operam com 68% de sua capacidade em fevereiro, diz CNI
 date: 2022-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Índice é inferior ao registrado no mesmo mês de 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "Real tem a melhor performance em 2022 entre 33 moedas globais"
+title: Real tem a melhor performance em 2022 entre 33 moedas globais
 date: 2023-01-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O real é a moeda que mais se valorizou em relação ao dólar em 2022, numa cesta com 33 das principais divisas globais.
 

@@ -1,11 +1,13 @@
 ---
-title: "Mais 100 laboratórios de prototipagem para educação profissional tem incentivo do MEC para serem criados"
+title: Mais 100 laboratórios de prototipagem para educação profissional tem incentivo
+  do MEC para serem criados
 date: 2020-05-28
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## **Novos espaços vão permitir aprendizagem de forma mais prática e ativa ao integrar as novas tecnologias e a sala de aula.**
 

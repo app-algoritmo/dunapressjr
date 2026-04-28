@@ -1,11 +1,12 @@
 ---
-title: "Keanu Reeves teve uma aula improvisada de baixo com Flea"
+title: Keanu Reeves teve uma aula improvisada de baixo com Flea
 date: 2023-10-23
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Music
+- Music
 ---
+
 
 ## “Eu estava tipo, 'Ei, Flea, você pode me dar uma lição?' E ele disse, 'Claro, cara!'
 

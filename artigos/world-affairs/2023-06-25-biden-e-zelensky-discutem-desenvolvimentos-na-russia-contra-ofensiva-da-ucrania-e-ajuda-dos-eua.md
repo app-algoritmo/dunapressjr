@@ -1,11 +1,13 @@
 ---
-title: "Biden e Zelensky discutem desenvolvimentos na Rússia, contra-ofensiva da Ucrânia e ajuda dos EUA"
+title: Biden e Zelensky discutem desenvolvimentos na Rússia, contra-ofensiva da Ucrânia
+  e ajuda dos EUA
 date: 2023-06-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## Durante a conversa, o presidente dos EUA "reafirmou o apoio inabalável dos Estados Unidos, inclusive por meio de segurança contínua, assistência econômica e humanitária", disse a Casa Branca em um comunicado à imprensa.
 

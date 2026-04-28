@@ -1,11 +1,13 @@
 ---
-title: "O que não lhe foi dito sobre os planos ultrajantes de dar poder à OMS sobre sua vida"
+title: O que não lhe foi dito sobre os planos ultrajantes de dar poder à OMS sobre
+  sua vida
 date: 2023-04-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Organização Mundial da Saúde (OMS) está propondo a adoção de um “Tratado Pandêmico” ou “Acordo Pandêmico”, como agora é chamado. Na segunda-feira, 11 meses depois que uma petição do Reino Unido pedindo um debate sobre o assunto ganhou o número de assinaturas necessárias para um debate parlamentar, ela finalmente acontecerá.
 

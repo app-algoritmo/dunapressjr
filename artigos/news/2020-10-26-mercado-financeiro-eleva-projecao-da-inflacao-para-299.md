@@ -1,11 +1,12 @@
 ---
-title: "Mercado financeiro eleva projeção da inflação para 2,99%"
+title: Mercado financeiro eleva projeção da inflação para 2,99%
 date: 2020-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produto Interno Bruto (PIB) deve crescer 3,42% em 2021.
 

@@ -1,11 +1,12 @@
 ---
-title: "PIB varia 0,4% no terceiro trimestre de 2022, diz IBGE"
+title: PIB varia 0,4% no terceiro trimestre de 2022, diz IBGE
 date: 2022-12-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Em valores correntes, o PIB totalizou R$ 2,544 trilhões.
 

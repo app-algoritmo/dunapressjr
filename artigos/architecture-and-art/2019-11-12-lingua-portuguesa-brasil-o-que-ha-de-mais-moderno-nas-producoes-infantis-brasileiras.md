@@ -1,12 +1,13 @@
 ---
-title: "Língua portuguesa Brasil, o que há de mais moderno nas produções infantis brasileiras"
+title: Língua portuguesa Brasil, o que há de mais moderno nas produções infantis brasileiras
 date: 2019-11-12
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
-  - Education
+- Architecture and Art
+- Education
 ---
+
 
 # Programação infantil nacional recomendada
 

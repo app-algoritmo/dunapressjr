@@ -1,12 +1,13 @@
 ---
-title: "Dr. Mercola adverte contra comer carne de porco injetada com mRNA"
+title: Dr. Mercola adverte contra comer carne de porco injetada com mRNA
 date: 2023-04-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
-  - Health
+- Covid-19
+- Health
 ---
+
 
 O Dr. Joseph Mercola alertou os americanos contra [a ingestão de carne de porco contaminada com injeções de RNA mensageiro (mRNA)](https://childrenshealthdefense.org/defender/pork-merck-mrna-livestock-vaccine-cola/) . Segundo Mercola, os produtores de suínos industriais usam essas “vacinas” em seus rebanhos desde 2018.
 

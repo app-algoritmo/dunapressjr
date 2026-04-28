@@ -1,11 +1,12 @@
 ---
-title: "PF combate desvio de recursos públicos em transporte escolar"
+title: PF combate desvio de recursos públicos em transporte escolar
 date: 2020-06-30
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Varginha/MG – A Polícia Federal deflagrou nesta terça-feira, 30/6, em conjunto com o Ministério Público Federal e a Controladoria-Geral da União, a Operação ODISSEIA, para combater desvio de recursos públicos federais do Programa Nacional de Apoio ao Transporte Escolar (PNATE), ocorrido em licitações realizadas entre 2013 e 2017, em Caldas/MG.
 

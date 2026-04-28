@@ -1,11 +1,13 @@
 ---
-title: "Ministro Alexandre de Moraes Bloqueia Bens da Starlink no Brasil para Garantir Pagamento de Multas do X"
+title: Ministro Alexandre de Moraes Bloqueia Bens da Starlink no Brasil para Garantir
+  Pagamento de Multas do X
 date: 2024-09-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Technology
+- Technology
 ---
+
 
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), emitiu uma nova ordem judicial determinando o bloqueio de carros, aeronaves e imóveis pertencentes à empresa Starlink no Brasil. A decisão visa garantir o pagamento de multas impostas à empresa X, também pertencente ao grupo empresarial de Elon Musk.
 

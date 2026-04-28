@@ -1,11 +1,13 @@
 ---
-title: "Israel, 'Apenas 70 anos atrás os judeus foram levados para o matadouro como ovelhas”. Benjamin Netanyahu"
+title: Israel, 'Apenas 70 anos atrás os judeus foram levados para o matadouro como
+  ovelhas”. Benjamin Netanyahu
 date: 2019-01-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Emocionante Discurso do Primeiro Ministro de Israel, Benjamin Netanyahu.
 *Foto: Fernando Frazão | agência Brasil*

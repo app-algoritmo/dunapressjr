@@ -1,11 +1,12 @@
 ---
-title: "Taxa de desocupação registrada em novembro foi de 8,1%"
+title: Taxa de desocupação registrada em novembro foi de 8,1%
 date: 2023-01-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Taxa de subutilização no trimestre de setembro a novembro de 2022 foi de 18,9%.
 

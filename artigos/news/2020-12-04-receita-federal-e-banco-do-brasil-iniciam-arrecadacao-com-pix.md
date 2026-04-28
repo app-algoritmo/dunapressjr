@@ -1,11 +1,12 @@
 ---
-title: "Receita Federal e Banco do Brasil iniciam arrecadação com PIX"
+title: Receita Federal e Banco do Brasil iniciam arrecadação com PIX
 date: 2020-12-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 A Receita Federal passou a inserir um QR Code nos novos modelos de Darf para que os contribuintes possam pagar os tributos federais utilizando o PIX.
 

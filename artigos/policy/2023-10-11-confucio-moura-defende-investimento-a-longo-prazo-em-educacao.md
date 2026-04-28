@@ -1,11 +1,12 @@
 ---
-title: "Confúcio Moura defende investimento a longo prazo em educação"
+title: Confúcio Moura defende investimento a longo prazo em educação
 date: 2023-10-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 O senador Confúcio Moura (MDB-RO) criticou a falta de planejamento a longo prazo dos governos brasileiros e defendeu a priorização do investimento em educação básica. Em pronunciamento nesta segunda-feira (9), o parlamentar afirmou que o Brasil seria um país diferente se todos os prefeitos e governadores levassem a sério a alfabetização na idade certa.
 

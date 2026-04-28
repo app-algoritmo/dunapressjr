@@ -1,11 +1,12 @@
 ---
-title: "A Florida Cup agita o mundo!"
+title: A Florida Cup agita o mundo!
 date: 2019-01-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Sports
+- Sports
 ---
+
 
 A competição ocorre nos Estados Unidos e agita o planeta. Essa é a quinta edição. 
 

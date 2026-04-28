@@ -1,11 +1,12 @@
 ---
-title: "Banco Master Rocky Mountain Games busca mais mulheres em suas provas"
+title: Banco Master Rocky Mountain Games busca mais mulheres em suas provas
 date: 2023-03-05
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 O terceiro mês de cada ano é dedicado às mulheres em todo o mundo. A data de 8 de março é celebrado como o Dia Internacional da Mulher. Em sintonia com a força do sexo feminino também nos esportes, aliado à necessidade de expandir horizontes para as atletas amadoras, o Banco Master Rocky Mountain Games criou uma ação especial para elas. Trata-se do "Vamos Juntas".
 

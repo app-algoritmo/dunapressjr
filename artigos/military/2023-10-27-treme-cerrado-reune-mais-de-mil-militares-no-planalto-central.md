@@ -1,11 +1,12 @@
 ---
-title: "Treme Cerrado reúne mais de mil militares no Planalto Central"
+title: Treme Cerrado reúne mais de mil militares no Planalto Central
 date: 2023-10-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O Comando Militar do Planalto realizou o exercício do período de Adestramento Avançado de suas tropas de emprego geral em 2023. A Operação Treme Cerrado ocorreu entre 16 e 20 de outubro, no Campo de Instrução de Formosa (GO). Foram reunidos mais de mil militares da 3ª Brigada de Infantaria Motorizada no contexto de uma operação ofensiva, com meios mecanizados e de apoio de fogo.
 

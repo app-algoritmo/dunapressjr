@@ -1,11 +1,12 @@
 ---
-title: "Tesouro pagou em agosto R$ 977,63 milhões em dívidas de estados"
+title: Tesouro pagou em agosto R$ 977,63 milhões em dívidas de estados
 date: 2022-09-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### No total, R$ 6 bilhões de dívidas foram honradas pela União em 2022.
 

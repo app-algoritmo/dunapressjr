@@ -1,11 +1,13 @@
 ---
-title: "Primeiro-Ministro Húngaro Orbán Propõe Zona Tampão na Ucrânia em Conversa com Ex-Chanceler Austríaco"
+title: Primeiro-Ministro Húngaro Orbán Propõe Zona Tampão na Ucrânia em Conversa com
+  Ex-Chanceler Austríaco
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O primeiro-ministro húngaro, Viktor Orbán, provocou debate ao sugerir a necessidade de uma zona tampão na Ucrânia durante uma conversa com o ex-chanceler austríaco Wolfgang Schuessel, conforme relatado na nova revista European Voices e amplamente divulgado pela mídia húngara.
 

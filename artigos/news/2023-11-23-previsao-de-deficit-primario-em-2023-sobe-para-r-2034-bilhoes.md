@@ -1,11 +1,12 @@
 ---
-title: "Previsão de déficit primário em 2023 sobe para R$ 203,4 bilhões"
+title: Previsão de déficit primário em 2023 sobe para R$ 203,4 bilhões
 date: 2023-11-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Compensação a estados e piso da saúde justificam elevação.
 

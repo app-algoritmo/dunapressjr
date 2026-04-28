@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha perto de R$ 5,50 e sobe quase 2% na semana"
+title: Dólar fecha perto de R$ 5,50 e sobe quase 2% na semana
 date: 2022-07-23
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ### Bolsa de valores cai 0,11%, mas acumula alta semanal de 2,46%.
 

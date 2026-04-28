@@ -1,11 +1,12 @@
 ---
-title: "Centro de Educação Infantil em Itajaí, inaugura biblioteca contêiner"
+title: Centro de Educação Infantil em Itajaí, inaugura biblioteca contêiner
 date: 2020-12-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Centro de Educação Infantil (CEI) Professora Ermelinda Potter Custódio, no bairro Cidade Nova, inaugurou na terça-feira (15) uma biblioteca contêiner. A Secretaria Municipal de Educação cedeu o local para abrigar o novo espaço, que recebeu, ainda, a doação de 1.768 obras de literatura, pesquisa e livros infantis. A biblioteca também ficará disponível para a comunidade local.
 

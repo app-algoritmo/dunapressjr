@@ -1,11 +1,13 @@
 ---
-title: "Secretaria de Segurança Pública lança operação para intensificar policiamento em Curitiba"
+title: Secretaria de Segurança Pública lança operação para intensificar policiamento
+  em Curitiba
 date: 2023-09-01
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## A operação reúne cerca de 30 equipes policiais e contará com ações preventivas e repressivas, por meio de patrulhamento terrestre e aéreo, bloqueios de trânsito, abordagens policiais e fiscalizações de veículos e pessoas. O lançamento ocorreu na sede da Cidade da Polícia, no bairro Batel.
 

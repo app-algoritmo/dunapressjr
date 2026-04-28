@@ -1,11 +1,12 @@
 ---
-title: "E Freud explica:"
+title: 'E Freud explica:'
 date: 2023-03-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 -Freud: Que objeção pode haver contra os animais? Eu prefiro a companhia dos animais à companhia humana.
 -Viereck: Por quê?

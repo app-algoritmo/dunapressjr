@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro mantém atendimento às famílias vulneráveis durante pandemia"
+title: Governo Bolsonaro mantém atendimento às famílias vulneráveis durante pandemia
 date: 2020-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com ajuda da tecnologia, profissionais gravam vídeos e áudios com as atividades, escrevem as orientações e passam via aplicativo de mensagens para pais ou responsáveis reproduzirem em casa.
 

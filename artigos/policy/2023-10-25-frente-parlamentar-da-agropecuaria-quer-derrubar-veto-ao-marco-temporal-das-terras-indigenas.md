@@ -1,11 +1,13 @@
 ---
-title: "Frente Parlamentar da Agropecuária quer derrubar veto ao marco temporal das terras indígenas"
+title: Frente Parlamentar da Agropecuária quer derrubar veto ao marco temporal das
+  terras indígenas
 date: 2023-10-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Na justificativa do veto, governo afirma que Supremo Tribunal Federal já rejeitou tese do marco temporal.
 

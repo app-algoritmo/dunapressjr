@@ -1,11 +1,12 @@
 ---
-title: "PEC dos precatórios prevê parcelamento em dez vezes"
+title: PEC dos precatórios prevê parcelamento em dez vezes
 date: 2021-08-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Detalhes da proposta foram apresentados pelo Palácio do Planalto.
 

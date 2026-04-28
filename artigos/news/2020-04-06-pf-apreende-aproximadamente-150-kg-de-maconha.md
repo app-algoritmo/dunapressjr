@@ -1,11 +1,12 @@
 ---
-title: "PF apreende aproximadamente 150 kg de maconha"
+title: PF apreende aproximadamente 150 kg de maconha
 date: 2020-04-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Guaíra/PR – No domingo (5/4), mais uma apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, BOPE/PMMS, FORÇA NACIONAL, TIGRE/PCPR,PRF e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 

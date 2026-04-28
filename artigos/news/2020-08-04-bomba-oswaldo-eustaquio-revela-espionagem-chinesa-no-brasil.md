@@ -1,11 +1,12 @@
 ---
-title: "Bomba: Oswaldo Eustáquio revela espionagem chinesa no Brasil"
+title: 'Bomba: Oswaldo Eustáquio revela espionagem chinesa no Brasil'
 date: 2020-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 # URGENTE: FBI e CIA descobrem espião do governo chinês no Brasil.
 

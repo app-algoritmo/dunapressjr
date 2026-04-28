@@ -1,11 +1,13 @@
 ---
-title: "Lançado pelo Mapa serviço automatizado para requerimento de defesa de beneficiários bloqueados no Garantia-Safra"
+title: Lançado pelo Mapa serviço automatizado para requerimento de defesa de beneficiários
+  bloqueados no Garantia-Safra
 date: 2020-07-14
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## O serviço é destinado aos agricultores familiares aderidos ao Programa Garantia-Safra que tiveram a concessão do benefício bloqueada, em função da identificação de indícios de não enquadramento dos critérios de elegibilidade na inscrição
 

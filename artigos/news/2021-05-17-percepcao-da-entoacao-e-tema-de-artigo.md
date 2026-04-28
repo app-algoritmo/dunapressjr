@@ -1,11 +1,12 @@
 ---
-title: "Percepção da entoação é tema de artigo"
+title: Percepção da entoação é tema de artigo
 date: 2021-05-17
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Graduada em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), Luma Miranda é mestre e doutora em língua portuguesa pela mesma instituição e estuda o papel do canal visual na percepção da entoação de afirmações e perguntas no português brasileiro, seu projeto de doutorado.
 

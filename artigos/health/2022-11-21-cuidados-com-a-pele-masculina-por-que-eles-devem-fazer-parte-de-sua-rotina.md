@@ -1,11 +1,12 @@
 ---
-title: "Cuidados com a pele masculina: por que eles devem fazer parte de sua rotina?"
+title: 'Cuidados com a pele masculina: por que eles devem fazer parte de sua rotina?'
 date: 2022-11-21
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Health
+- Health
 ---
+
 
 Os cuidados com a [pele masculina](https://blog.mantecorpskincare.com.br/cuidados-masculino/quer-saber-como-melhorar-a-pele-do-rosto-masculino-aprenda-3-passos/) não se resumem apenas ao uso do protetor solar. Pelo contrário, existem outras etapas que ajudam a manter a pele bonita, com brilho e saudável.
 

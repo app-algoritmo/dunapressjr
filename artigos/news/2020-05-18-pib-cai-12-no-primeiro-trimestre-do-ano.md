@@ -1,11 +1,12 @@
 ---
-title: "PIB cai 1,2% no primeiro trimestre do ano"
+title: PIB cai 1,2% no primeiro trimestre do ano
 date: 2020-05-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Queda interrompe trajetória de crescimento iniciada em 2017.
 

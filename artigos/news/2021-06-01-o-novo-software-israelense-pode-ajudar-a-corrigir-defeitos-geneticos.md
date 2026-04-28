@@ -1,11 +1,12 @@
 ---
-title: "O novo software israelense pode ajudar a corrigir defeitos genéticos"
+title: O novo software israelense pode ajudar a corrigir defeitos genéticos
 date: 2021-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisadores do IDC Herzliya e da Bar-Ilan University desenvolvem uma nova ferramenta de software para ajudar a tornar a modificação genética mais precisa.
 

@@ -1,11 +1,12 @@
 ---
-title: "Presidente Bolsonaro inaugura complexo de energia solar"
+title: Presidente Bolsonaro inaugura complexo de energia solar
 date: 2020-09-18
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Presidente Jair Bolsonaro participou, nesta quinta-feira (17), da inauguração da Usina Fotovoltaica Coremas III, um complexo de energia solar localizado no município de Coremas, na Paraíba. O empreendimento contribui para ampliar a oferta de energia limpa e renovável no País.
 

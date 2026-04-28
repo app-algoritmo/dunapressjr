@@ -1,11 +1,12 @@
 ---
-title: "Ministério da Economia incentiva concorrência no mercado brasileiro de diesel"
+title: Ministério da Economia incentiva concorrência no mercado brasileiro de diesel
 date: 2022-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### CNPE ratifica entendimento da Pasta sobre utilização de diferentes rotas tecnológicas para cumprir mínimo obrigatório de combustível renovável no diesel, favorecendo a concorrência e o consumidor.
 

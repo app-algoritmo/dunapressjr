@@ -1,11 +1,13 @@
 ---
-title: "Preços do petróleo saltam quase 15% em sessão com volume recorde após ataques à Arábia Saudita"
+title: Preços do petróleo saltam quase 15% em sessão com volume recorde após ataques
+  à Arábia Saudita
 date: 2019-09-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 O ataque à infraestrutura de petróleo saudita veio como um choque e uma surpresa para um mercado. 
 

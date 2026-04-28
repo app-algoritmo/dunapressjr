@@ -1,11 +1,13 @@
 ---
-title: "A Organização Mundial do Turismo (OMT) lança diretrizes globais para a reabertura do turismo"
+title: A Organização Mundial do Turismo (OMT) lança diretrizes globais para a reabertura
+  do turismo
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Ministério do Turismo debateu iniciativa na 5ª Reunião do Comitê Global de Crise da Organização Mundial do Turismo, realizada por videoconferência.
 

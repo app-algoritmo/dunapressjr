@@ -1,11 +1,13 @@
 ---
-title: "O Setembro Amarelo:  Uma campanha de conscientização sobre a prevenção do suicídio"
+title: 'O Setembro Amarelo:  Uma campanha de conscientização sobre a prevenção do
+  suicídio'
 date: 2021-09-10
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Setembro Amarelo foi criado no Brasil em 2015 pelo [CVV (Centro de Valorização da Vida)](http://www.cvv.org.br/), [CFM (Conselho Federal de Medicina) ](http://portal.cfm.org.br/)e [ABP (Associação Brasileira de Psiquiatria)](https://www.abp.org.br/), com a proposta de associar à cor ao mês que marca o** Dia Mundial de Prevenção do Suicídio **(10 de setembro). Ao considerarmos a relevância do assunto no exercício da medicina veterinária é fundamental reservarmos um espaço para a discussão.
 

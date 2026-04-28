@@ -1,11 +1,13 @@
 ---
-title: "Tragédia na véspera de Shavuot: Dois mortos, 184 feridos em colapso de arquibancada em Jerusalém"
+title: 'Tragédia na véspera de Shavuot: Dois mortos, 184 feridos em colapso de arquibancada
+  em Jerusalém'
 date: 2021-05-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Um homem de 40 anos e um menino de 12 foram mortos e 184 pessoas ficaram feridas quando uma arquibancada desabou em uma sinagoga em Givat Ze'ev em Jerusalém durante as orações de Shavuot na noite de domingo.
 

@@ -1,11 +1,13 @@
 ---
-title: "O que há com o novo rosto de John Fetterman? E o que aconteceu com o olhar vazio e vítreo?"
+title: O que há com o novo rosto de John Fetterman? E o que aconteceu com o olhar
+  vazio e vítreo?
 date: 2023-03-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Como Kristinn Taylor [relatou anteriormente](https://www.thegatewaypundit.com/2023/03/now-in-sixth-week-incommunicado-fetterman-to-remain-in-psych-ward-at-least-over-a-week-spox/) no The Gateway Pundit - Ninguém viu nenhum vídeo do senador John Fetterman (D-PA), 53, falando ou se movendo desde que foi internado na ala psiquiátrica do Walter Reed National Military Medical Center em Bethesda, Maryland em 15 de fevereiro, supostamente para tratamento de depressão clínica grave. Desde então, a equipe de Fetterman e a esposa Gisele divulgaram apenas um punhado de fotos encenadas que mostram que ele está vivo e pelo menos um pouco consciente. Ninguém, exceto sua esposa e alguns de seus funcionários seniores, afirmam ter falado com Fetterman, mas não forneceram provas.
 

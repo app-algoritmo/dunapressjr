@@ -1,11 +1,13 @@
 ---
-title: "CNM estabelece medidas para apoiar empresas e famílias diante dos efeitos do coronavírus na economia"
+title: CNM estabelece medidas para apoiar empresas e famílias diante dos efeitos do
+  coronavírus na economia
 date: 2020-03-18
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Ações facilitam renegociação de operações de crédito para quem possui boa capacidade financeira
 

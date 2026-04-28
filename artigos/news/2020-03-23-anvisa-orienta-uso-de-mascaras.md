@@ -1,11 +1,12 @@
 ---
-title: "Anvisa orienta uso de máscaras"
+title: Anvisa orienta uso de máscaras
 date: 2020-03-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Agência Nacional de Vigilância Sanitária (Anvisa) publicou[ nota técnica](http://portal.anvisa.gov.br/documents/33852/271858/Nota+T%C3%A9cnica+n+04-2020+GVIMS-GGTES-ANVISA-ATUALIZADA/ab598660-3de4-4f14-8e6f-b9341c196b28) orientando os profissionais de saúde a utilizarem as máscaras N95, FFP2 ou equivalentes, por um período maior que o indicado pelos fabricantes, desde que a máscara esteja íntegra, limpa e seca. Isso porque muitos desses produtos têm indicação de descarte a cada uso.
 

@@ -1,11 +1,13 @@
 ---
-title: "A Câmara Federal de Buenos Aires reabre investigação judicial contra Cristina Kirchner"
+title: A Câmara Federal de Buenos Aires reabre investigação judicial contra Cristina
+  Kirchner
 date: 2023-11-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 A Câmara Federal de Buenos Aires [reabriu](https://www.20minutos.es/noticia/5194462/0/justicia-argentina-reabre-una-investigacion-contra-cristina-fernandez-por-blanqueo-capitales/) esta terça-feira a investigação contra a vice-presidente cessante da Argentina, [Cristina Fernández de Kirchner](https://gaceta.es/europa/la-encrucijada-del-peronismo-adaptarse-otra-vez-a-los-tiempos-o-diluirse-en-la-argentina-de-milei-20231128-0100/) , no caso conhecido como 'A rota do dinheiro K' **por suposta lavagem de dinheiro** , apesar de o caso ter sido arquivado no início de junho.
 

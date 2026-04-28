@@ -1,11 +1,12 @@
 ---
-title: "5 hábitos saudáveis para adotar no ambiente de trabalho"
+title: 5 hábitos saudáveis para adotar no ambiente de trabalho
 date: 2021-03-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 A realidade de muitos trabalhadores modernos é composta por um computador e uma jornada de longas horas sentados em frente a ele. E já que nem sempre o tempo está ao nosso favor, fica difícil aliar hábitos saudáveis à rotina do trabalho. Mas será mesmo?
 

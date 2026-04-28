@@ -1,11 +1,12 @@
 ---
-title: "Inflação medida pelo IPC-S sobe para 0,36% em junho"
+title: Inflação medida pelo IPC-S sobe para 0,36% em junho
 date: 2020-07-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Somente a gasolina subiu 3,28% no mês.
 

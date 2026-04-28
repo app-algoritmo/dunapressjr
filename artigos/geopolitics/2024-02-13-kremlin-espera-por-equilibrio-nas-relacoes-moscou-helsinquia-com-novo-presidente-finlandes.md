@@ -1,11 +1,13 @@
 ---
-title: "Kremlin espera por equilíbrio nas relações Moscou-Helsínquia com novo presidente finlandês"
+title: Kremlin espera por equilíbrio nas relações Moscou-Helsínquia com novo presidente
+  finlandês
 date: 2024-02-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O Kremlin está atento à transição de poder na Finlândia, com o presidente eleito Alexander Stubb prestes a assumir o cargo em março. Em uma declaração à imprensa, Dmitry Peskov, porta-voz presidencial russo, expressou a esperança de que Stubb mantenha um equilíbrio nas relações entre Moscou e Helsínquia durante seu mandato.
 

@@ -1,11 +1,13 @@
 ---
-title: "PF cumpre mandados de busca e de prisão em Rio Pardo/RS no âmbito da Operação Camilo"
+title: PF cumpre mandados de busca e de prisão em Rio Pardo/RS no âmbito da Operação
+  Camilo
 date: 2020-06-20
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Santa Cruz do Sul/RS - A Polícia Federal cumpre, neste sábado (20/6), um mandado de prisão temporária e um de busca e apreensão em Rio Pardo, no âmbito da Operação Camilo.
 

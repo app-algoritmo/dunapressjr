@@ -1,11 +1,12 @@
 ---
-title: "Série Brasileiros em Destaque: Aristides Leão"
+title: 'Série Brasileiros em Destaque: Aristides Leão'
 date: 2021-09-19
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - History
+- History
 ---
+
 
 Profissão: Neurofisiologista.
 

@@ -1,11 +1,12 @@
 ---
-title: "México Nega Morte por Gripe Aviária: Alarmismo da Mídia e Desinformação"
+title: 'México Nega Morte por Gripe Aviária: Alarmismo da Mídia e Desinformação'
 date: 2024-06-13
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O México negou a alegação de que um homem de 59 anos morreu de gripe aviária, desencadeando um frenesi de alarmismo midiático. O caso chamou a atenção depois que a Organização Mundial da Saúde (OMS) emitiu um comunicado anunciando um "caso fatal confirmado de infecção por gripe aviária em humanos".
 

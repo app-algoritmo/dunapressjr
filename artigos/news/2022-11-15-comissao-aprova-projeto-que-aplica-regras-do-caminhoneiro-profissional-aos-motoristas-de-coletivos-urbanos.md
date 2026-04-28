@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova projeto que aplica regras do caminhoneiro profissional aos motoristas de coletivos urbanos"
+title: Comissão aprova projeto que aplica regras do caminhoneiro profissional aos
+  motoristas de coletivos urbanos
 date: 2022-11-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados aprovou projeto de lei que altera a [Consolidação das Leis do Trabalho (CLT)](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-norma-pe.html) para inclui o condutor de transporte coletivo na categoria jurídica de motorista profissional. O texto altera a Lei do Caminhoneiro ([13.103/15](https://www2.camara.gov.br/legin/fed/lei/2015/lei-13103-2-marco-2015-780193-norma-pl.html)).
 

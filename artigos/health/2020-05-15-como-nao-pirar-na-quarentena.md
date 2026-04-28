@@ -1,11 +1,12 @@
 ---
-title: "Como não pirar na quarentena?"
+title: Como não pirar na quarentena?
 date: 2020-05-15
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - Health
+- Health
 ---
+
 
 Que todos estão passando por provações nessa quarentena é fato, mas alguns estão passando mais tranquilamente, já outros estão à beira do abismo.
 

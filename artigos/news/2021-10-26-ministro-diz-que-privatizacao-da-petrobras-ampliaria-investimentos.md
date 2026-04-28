@@ -1,11 +1,12 @@
 ---
-title: "Ministro diz que privatização da Petrobras ampliaria investimentos"
+title: Ministro diz que privatização da Petrobras ampliaria investimentos
 date: 2021-10-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Paulo Guedes fez declaração em evento com presidente Bolsonaro.
 

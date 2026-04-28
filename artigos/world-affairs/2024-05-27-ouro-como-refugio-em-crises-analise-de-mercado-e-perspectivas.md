@@ -1,11 +1,12 @@
 ---
-title: "Ouro como Refúgio em Crises: Análise de Mercado e Perspectivas"
+title: 'Ouro como Refúgio em Crises: Análise de Mercado e Perspectivas'
 date: 2024-05-27
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Nos últimos tempos, os preços do ouro em dólares romperam agressivamente uma resistência de vários anos, impulsionados por crescentes tensões geopolíticas, bolhas de ativos e uma inflação persistente. Essa movimentação do mercado tem levado analistas a preverem uma valorização significativa do ouro, com a possibilidade dos preços dobrarem nos próximos anos.
 

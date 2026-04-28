@@ -1,12 +1,13 @@
 ---
-title: "Melhores praias de surf do litoral norte"
+title: Melhores praias de surf do litoral norte
 date: 2022-11-30
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Sports
-  - Tourism and Gastronomy
+- Sports
+- Tourism and Gastronomy
 ---
+
 
 Neste conteúdo vamos listar algumas das melhores praias de surf do litoral norte em São Paulo. Se você está iniciando ou já é um praticante do esporte, este conteúdo vai te ajudar muito.
 

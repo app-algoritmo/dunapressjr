@@ -1,11 +1,12 @@
 ---
-title: "Situação nos hospitais universitários federais em 21 de maio diante da pandemia"
+title: Situação nos hospitais universitários federais em 21 de maio diante da pandemia
 date: 2020-05-22
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 **Informativo diário é divulgado no portal e nas redes sociais do Ministério da Educação**
 

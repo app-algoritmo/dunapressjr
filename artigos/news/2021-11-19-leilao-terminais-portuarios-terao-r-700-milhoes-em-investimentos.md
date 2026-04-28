@@ -1,11 +1,12 @@
 ---
-title: "Leilão: terminais portuários terão R$ 700 milhões em investimentos"
+title: 'Leilão: terminais portuários terão R$ 700 milhões em investimentos'
 date: 2021-11-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Petrobras e Fertilizantes Santa Catarina arremataram terminais.
 

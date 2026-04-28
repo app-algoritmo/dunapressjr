@@ -1,11 +1,13 @@
 ---
-title: "Unidades de saúde militares oferecem curso indispensável no combate ao novo coronavírus"
+title: Unidades de saúde militares oferecem curso indispensável no combate ao novo
+  coronavírus
 date: 2020-05-06
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 A Escola de Saúde do Exército (ESSEX) está capacitando militares da área de saúde para enfrentamento à Covid 19. As atividades tiveram início nesta terça-feira (05) e integram iniciativa do Ministério da Defesa, por meio da Secretaria de Pessoal, Ensino, Saúde e Desportos (SEPESD), para aumentar o número de profissionais aptos a atender à demanda decorrente da pandemia do novo coronavírus.
 

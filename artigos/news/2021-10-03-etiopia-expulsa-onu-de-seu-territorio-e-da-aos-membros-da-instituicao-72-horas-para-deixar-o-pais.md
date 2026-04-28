@@ -1,11 +1,13 @@
 ---
-title: "Etiópia expulsa ONU de seu território e dá aos membros da instituição 72 horas para deixar o país"
+title: Etiópia expulsa ONU de seu território e dá aos membros da instituição 72 horas
+  para deixar o país
 date: 2021-10-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 Por meio do Ministério das Relações Exteriores, a Etiópia ordenou que sete membros da Organização das Nações Unidas (ONU) deixassem o país em 72 horas por se intrometerem nos assuntos internos.
 

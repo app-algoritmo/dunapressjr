@@ -1,11 +1,12 @@
 ---
-title: "Enem tem aplicativo com simulado para facilitar estudos"
+title: Enem tem aplicativo com simulado para facilitar estudos
 date: 2020-07-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 Quem busca ferramentas para se preparar para o Exame Nacional do Ensino Médio (Enem) 2020 tem uma novidade chegando às mãos. A nova versão do aplicativo do Enem traz funcionalidades inéditas, entre elas um simulado, que ajudará os participantes a estudar para as provas. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará a atualização do aplicativo na próxima segunda-feira, 6 de julho, para iOS e Android.
 

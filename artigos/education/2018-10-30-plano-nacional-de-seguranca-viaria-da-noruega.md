@@ -1,11 +1,12 @@
 ---
-title: "Plano Nacional de Segurança Viária da Noruega"
+title: Plano Nacional de Segurança Viária da Noruega
 date: 2018-10-30
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
+- Education
 ---
+
 
 De acordo com a Oficina Nacional de Estatísticas da Noruega as mortes em decorrência de acidentes de trânsito no país é de em média 8 mortes anuais. O ano mais negro foi o de 2009 quando morreram 13 pessoas.
 

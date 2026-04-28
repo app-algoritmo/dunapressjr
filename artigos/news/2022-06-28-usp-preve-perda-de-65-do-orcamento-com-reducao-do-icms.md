@@ -1,11 +1,12 @@
 ---
-title: "USP prevê perda de 6,5% do orçamento com redução do ICMS"
+title: USP prevê perda de 6,5% do orçamento com redução do ICMS
 date: 2022-06-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Governo de SP diz que valor da tributação passou de 25% para 18%.
 

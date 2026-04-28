@@ -1,11 +1,12 @@
 ---
-title: "Handebol de Itajaí é campeão da Copa Catarinense"
+title: Handebol de Itajaí é campeão da Copa Catarinense
 date: 2020-11-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL se consagrou campeã da Copa Catarinense de Handebol, nas categorias juvenil e adulto. O campeonato estadual promovido pela Associação Desportiva Itajaiense (ADI) e  Associação Cultural Espotiva Univali (ACEU), foi realizado neste final de semana, no ginásio de esportes Gabriel Collares. As equipes itajaienses representam a Fundação Municipal de Esporte e Lazer (FMEL).
 

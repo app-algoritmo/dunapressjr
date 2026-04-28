@@ -1,11 +1,13 @@
 ---
-title: "Estudo israelense relaciona o nível de açúcar no sangue com o risco de COVID-19 - mesmo em não diabéticos"
+title: Estudo israelense relaciona o nível de açúcar no sangue com o risco de COVID-19
+  - mesmo em não diabéticos
 date: 2021-09-20
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ## Pesquisa: Pacientes não diabéticos com altos níveis de açúcar em jejum têm maior probabilidade de sofrer COVID-19 grave do que pacientes com níveis mais baixos de açúcar.
 

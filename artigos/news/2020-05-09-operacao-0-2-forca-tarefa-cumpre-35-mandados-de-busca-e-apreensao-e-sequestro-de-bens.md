@@ -1,11 +1,13 @@
 ---
-title: "Operação 0-2: Força Tarefa cumpre 35 mandados de busca e apreensão e sequestro de bens"
+title: 'Operação 0-2: Força Tarefa cumpre 35 mandados de busca e apreensão e sequestro
+  de bens'
 date: 2020-05-09
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na manhã deste sábado (09/05), a força-tarefa composta pelo Ministério Público de Santa Catarina (MPSC), pelo Tribunal de Contas do Estado (TCE) e pela Polícia Civil desencadeou a Operação 02 (oxigênio). O Grupo de Atuação Especial de Combate às Organizações Criminosas (GAECO) e a Diretoria Estadual de Investigações Criminais (DEIC) estão cumprindo 35 mandados de busca e apreensão e sequestro de bens em quatro estados da federação.
 

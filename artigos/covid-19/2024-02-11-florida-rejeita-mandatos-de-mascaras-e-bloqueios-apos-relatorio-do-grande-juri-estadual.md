@@ -1,11 +1,13 @@
 ---
-title: "Florida rejeita mandatos de máscaras e bloqueios após relatório do grande júri estadual"
+title: Florida rejeita mandatos de máscaras e bloqueios após relatório do grande júri
+  estadual
 date: 2024-02-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O governador da Flórida, Ron DeSantis, em conjunto com o Cirurgião Geral do Estado, Dr. Joseph A. Ladapo, encabeçou uma reunião crucial com membros do Comitê de Integridade de Saúde Pública (PHIC) do estado para analisar de perto o Primeiro Relatório Provisório divulgado pelo 22º Grande Júri Estadual da Flórida. Este relatório lançou luz sobre os efeitos prejudiciais dos mandatos de máscaras e bloqueios, todos eles impulsionados pelo governo federal, revelando uma série de conclusões impactantes.
 

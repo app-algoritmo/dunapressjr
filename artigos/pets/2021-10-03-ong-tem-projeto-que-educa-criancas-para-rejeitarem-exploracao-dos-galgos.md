@@ -1,11 +1,12 @@
 ---
-title: "ONG tem projeto que educa crianças para rejeitarem exploração dos galgos"
+title: ONG tem projeto que educa crianças para rejeitarem exploração dos galgos
 date: 2021-10-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 ## "Nos dedicamos ao resgate de galgos ao mesmo tempo em que educamos as crianças sobre a nossa responsabilidade de respeitar e cuidar deles"
 

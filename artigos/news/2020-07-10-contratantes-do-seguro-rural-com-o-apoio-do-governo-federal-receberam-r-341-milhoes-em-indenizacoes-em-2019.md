@@ -1,11 +1,13 @@
 ---
-title: "Contratantes do seguro rural com o apoio do governo federal receberam R$ 341 milhões em indenizações em 2019"
+title: Contratantes do seguro rural com o apoio do governo federal receberam R$ 341
+  milhões em indenizações em 2019
 date: 2020-07-10
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Além da seca, os principais eventos que motivaram os pagamentos para os produtores foram a geada, granizo e a chuva excessiva.
 

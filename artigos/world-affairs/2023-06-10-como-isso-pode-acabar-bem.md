@@ -1,11 +1,12 @@
 ---
-title: "Como isso pode acabar bem?"
+title: Como isso pode acabar bem?
 date: 2023-06-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Parece que a tão esperada ofensiva de primavera da Ucrânia está finalmente em andamento. Ontem a Rússia repeliu ataques ucranianos em cinco lugares.
 

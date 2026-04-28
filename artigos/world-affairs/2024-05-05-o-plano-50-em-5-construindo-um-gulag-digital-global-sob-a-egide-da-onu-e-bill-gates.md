@@ -1,11 +1,13 @@
 ---
-title: "O Plano 50 em 5: Construindo um Gulag Digital Global sob a égide da ONU e Bill Gates"
+title: 'O Plano 50 em 5: Construindo um Gulag Digital Global sob a égide da ONU e
+  Bill Gates'
 date: 2024-05-05
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Um plano obscuro conhecido como "50 em 5" surgiu no cenário internacional no final do ano passado, mas poucos estão cientes de sua magnitude e implicações. A iniciativa, lançada pelas Nações Unidas em parceria com Bill Gates, visa estabelecer uma vasta infraestrutura digital em 50 países até 2028, mas o que exatamente isso significa para o futuro da humanidade?
 

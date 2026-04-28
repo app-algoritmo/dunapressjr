@@ -1,11 +1,13 @@
 ---
-title: "IFRS tem o primeiro projeto patenteado – Cadeira de rodas mais de mais fácil transporte"
+title: IFRS tem o primeiro projeto patenteado – Cadeira de rodas mais de mais fácil
+  transporte
 date: 2020-06-03
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Produto recebeu a carta-patente em abril; inventor quer que seja ofertado no SUS.
 

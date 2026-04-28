@@ -1,11 +1,13 @@
 ---
-title: "Putin pede fortalecimento de mecanismos para prevenir proliferação de armas biológicas"
+title: Putin pede fortalecimento de mecanismos para prevenir proliferação de armas
+  biológicas
 date: 2023-06-23
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O Presidente sublinhou que “nas atuais difíceis condições internacionais, é muito importante preservar e fortalecer os mecanismos existentes de cooperação multilateral no combate às diversas ameaças de natureza biológica”.
 

@@ -1,11 +1,12 @@
 ---
-title: "Precisamos falar sobre adoção e devolução dos pets"
+title: Precisamos falar sobre adoção e devolução dos pets
 date: 2021-05-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Pets
+- Pets
 ---
+
 
 Em toda adoção fazemos uma entrevista com perguntas e explicação das responsabilidades, mas pelo visto não está sendo o suficiente. Estamos sofrendo com muitas devoluções por vários motivos mas principalmente adaptação. 
 

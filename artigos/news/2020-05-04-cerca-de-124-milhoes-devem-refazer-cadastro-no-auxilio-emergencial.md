@@ -1,11 +1,12 @@
 ---
-title: "Cerca de 12,4 milhões devem refazer cadastro no auxílio emergencial"
+title: Cerca de 12,4 milhões devem refazer cadastro no auxílio emergencial
 date: 2020-05-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Este é o total de inscritos com pedidos avaliados como “inconclusivos”
 Pelo menos 12,4 milhões de brasileiros que pediram o auxílio emergencial de R$ 600 (R$ 1,2 mil para mães solteiras) devem refazer o cadastro no aplicativo do programa ou no site [auxilio.caixa.gov.br](http://auxilio.caixa.gov.br/), disse nesta segunda-feira (4) o presidente da Caixa Econômica Federal, Pedro Guimarães. Segundo ele, este é o total de inscritos que tiveram o cadastro classificado como inconclusivo, porque as informações não puderam ser analisadas pela Dataprev, estatal de tecnologia que processa os pedidos.

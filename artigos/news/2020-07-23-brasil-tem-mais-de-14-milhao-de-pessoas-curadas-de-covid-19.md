@@ -1,11 +1,12 @@
 ---
-title: "Brasil tem mais de 1,4 milhão de pessoas curadas de Covid-19"
+title: Brasil tem mais de 1,4 milhão de pessoas curadas de Covid-19
 date: 2020-07-23
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Brasil registrou 1.465.970 pessoas recuperadas de Covid-19, nessa terça-feira (21). O número de pessoas curadas é superior à quantidade de casos ativos (612.197), que são pacientes que estão em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (67,9%). Os dados foram divulgados pelo Ministério da Saúde. 
 

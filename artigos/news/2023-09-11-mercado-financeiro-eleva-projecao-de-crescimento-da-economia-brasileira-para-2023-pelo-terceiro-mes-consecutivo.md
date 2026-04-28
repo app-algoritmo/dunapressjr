@@ -1,11 +1,13 @@
 ---
-title: "Mercado financeiro eleva projeção de crescimento da economia brasileira para 2023 pelo terceiro mês consecutivo"
+title: Mercado financeiro eleva projeção de crescimento da economia brasileira para
+  2023 pelo terceiro mês consecutivo
 date: 2023-09-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Previsões otimistas indicam crescimento do PIB, inflação acima da meta e expectativa de queda na taxa de juros para o ano em curso.
 

@@ -1,11 +1,12 @@
 ---
-title: "Europol desmantelou um supercartel europeu de cocaína"
+title: Europol desmantelou um supercartel europeu de cocaína
 date: 2022-12-03
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## **Europol desmantela "supercartel de drogas" comandado por Dubai em operação internacional**.
 

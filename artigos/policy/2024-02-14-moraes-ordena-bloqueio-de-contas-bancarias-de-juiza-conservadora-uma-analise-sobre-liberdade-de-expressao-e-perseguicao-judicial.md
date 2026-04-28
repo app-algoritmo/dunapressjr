@@ -1,11 +1,13 @@
 ---
-title: "Moraes ordena bloqueio de contas bancárias de juíza conservadora: Uma análise sobre liberdade de expressão e perseguição judicial"
+title: 'Moraes ordena bloqueio de contas bancárias de juíza conservadora: Uma análise
+  sobre liberdade de expressão e perseguição judicial'
 date: 2024-02-14
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 A recente ordem do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), para o bloqueio das contas bancárias da **[juíza Ludmila Lins Grilo](https://ludmilagrilo.com.br/)** trouxe à tona preocupações sobre liberdade de expressão e perseguição judicial no Brasil. O caso de Ludmila Lins Grilo, que se encontra exilada nos Estados Unidos, levanta questões fundamentais sobre o papel do Judiciário na proteção dos direitos individuais e na garantia de um ambiente democrático saudável.
 

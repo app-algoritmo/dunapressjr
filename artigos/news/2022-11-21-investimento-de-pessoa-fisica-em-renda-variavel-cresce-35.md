@@ -1,11 +1,12 @@
 ---
-title: "Investimento de pessoa física em renda variável cresce 35%"
+title: Investimento de pessoa física em renda variável cresce 35%
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Pesquisa da B3 é referente ao terceiro trimestre.
 

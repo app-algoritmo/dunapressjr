@@ -1,11 +1,13 @@
 ---
-title: "Comissão aprova exigência de cadastro para que operadores de turismo divulguem serviços"
+title: Comissão aprova exigência de cadastro para que operadores de turismo divulguem
+  serviços
 date: 2022-11-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Comissão de Turismo da Câmara dos Deputados aprovou na quarta-feira (9) proposta que altera a [Lei Geral do Turismo](http://www2.camara.gov.br/legin/fed/lei/2008/lei-11771-17-setembro-2008-580751-norma-pl.html) para proibir prestadores de serviços turísticos não cadastrados ou com cadastro vencido no Ministério do Turismo de divulgarem ou promoverem serviços.
 

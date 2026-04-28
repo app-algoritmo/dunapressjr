@@ -1,11 +1,13 @@
 ---
-title: "Comitê Gestor aprova prorrogação de prazos dos parcelamentos com vencimento em maio, junho e julho"
+title: Comitê Gestor aprova prorrogação de prazos dos parcelamentos com vencimento
+  em maio, junho e julho
 date: 2020-05-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Resolução também amplia prazo de Opção pelo Simples Nacional, em 2020, para até 180 dias após a inscrição no CNPJ
 

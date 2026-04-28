@@ -1,11 +1,13 @@
 ---
-title: "Advocacia-Geral garante bloqueio de R$ 319 mil de ex-beneficiário por fraude no INSS"
+title: Advocacia-Geral garante bloqueio de R$ 319 mil de ex-beneficiário por fraude
+  no INSS
 date: 2020-06-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Advocacia-Geral da União (AGU) conseguiu efetivar o bloqueio de R$ 319 mil da conta de um ex-segurado do Instituto Nacional do Seguro Social (INSS) que se beneficiou indevidamente e conscientemente de um esquema fraudulento de concessão de benefícios. O bloqueio foi possível após a AGU conseguir incluir o ex-segurado no polo passivo de uma ação civil pública por ato de improbidade administrativa. Outros R$ 8,5 milhões também foram bloqueados de quatro ex-servidores da autarquia pela concessão ilegal dos benefícios. No entanto, após determinação da Justiça para o bloqueio dos valores, apenas cerca de R$ 3 mil tinham sido encontrados nas contas dos réus.
 

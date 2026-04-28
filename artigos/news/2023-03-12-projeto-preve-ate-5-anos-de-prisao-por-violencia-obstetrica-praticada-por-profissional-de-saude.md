@@ -1,11 +1,13 @@
 ---
-title: "Projeto prevê até 5 anos de prisão por violência obstétrica praticada por profissional de saúde"
+title: Projeto prevê até 5 anos de prisão por violência obstétrica praticada por profissional
+  de saúde
 date: 2023-03-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O Projeto de Lei 190/23 altera o [Código Penal](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-norma-pe.html) para tornar crime a conduta do profissional de saúde que ofende a integridade física ou psicológica da mulher durante as fases da gravidez (gestação, parto e pós-parto). A pena prevista, nesse caso, é de 1 a 5 anos de reclusão e multa, conforme o texto em análise na Câmara dos Deputados.
 

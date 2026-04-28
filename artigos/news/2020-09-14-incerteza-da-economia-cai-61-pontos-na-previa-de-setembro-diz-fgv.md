@@ -1,11 +1,12 @@
 ---
-title: "Incerteza da economia cai 6,1 pontos na prévia de setembro, diz FGV"
+title: Incerteza da economia cai 6,1 pontos na prévia de setembro, diz FGV
 date: 2020-09-14
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Esse é o quinto mês em queda.
 

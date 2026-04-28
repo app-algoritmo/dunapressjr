@@ -1,11 +1,12 @@
 ---
-title: "A bíblia e o armamento civil"
+title: A bíblia e o armamento civil
 date: 2019-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Opinion
+- Opinion
 ---
+
 
 Alguns cristãos acreditam que seria errado buscar a autoproteção e reagir à agressões físicas, principalmente utilizando armas de fogo. 
 

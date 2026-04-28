@@ -1,11 +1,13 @@
 ---
-title: "Covid-19 | Atualização de Dados Oficiais | Estatísticas do Brasil e do Mundo | Os números não mentem!"
+title: Covid-19 | Atualização de Dados Oficiais | Estatísticas do Brasil e do Mundo
+  | Os números não mentem!
 date: 2021-06-20
 status: publish
-author: danberg1000
+author: Dan Berg
 categories:
-  - Health
+- Health
 ---
+
 
 **13/09/2022    21:44** | **ATUALIZAÇÃO DOS NÚMEROS OFICIAIS**
 

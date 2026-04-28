@@ -1,12 +1,14 @@
 ---
-title: "Rotatividade alta no mercado leva empresas a buscarem estratégias para manter bons profissionais na casa"
+title: Rotatividade alta no mercado leva empresas a buscarem estratégias para manter
+  bons profissionais na casa
 date: 2024-04-25
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Courses and Careers
-  - Personal Development
+- Courses and Careers
+- Personal Development
 ---
+
 
 ## Com mais de 10% dos colaboradores promovidos todos os anos, indústria encontra na progressão de carreira clara e no investimento em qualificação saída para reter talentos por mais de 20 anos.
 

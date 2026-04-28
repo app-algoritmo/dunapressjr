@@ -1,11 +1,12 @@
 ---
-title: "Incêndios florestais na Síria são usados ​​como arma de guerra"
+title: Incêndios florestais na Síria são usados ​​como arma de guerra
 date: 2023-08-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## 
 O país inteiro está em uma onda de calor que prepara o cenário para um incêndio florestal que queima plantações, florestas e casas. No entanto, não foi um incêndio florestal acidental, mas um ato de terrorismo.

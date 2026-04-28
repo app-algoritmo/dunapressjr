@@ -1,11 +1,12 @@
 ---
-title: "Vice-presidente diz que adesão do Brasil à OCDE é prioridade"
+title: Vice-presidente diz que adesão do Brasil à OCDE é prioridade
 date: 2022-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Hamilton Mourão discursou na abertura de Fórum Brasil-OCDE.
 

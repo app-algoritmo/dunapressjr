@@ -1,11 +1,12 @@
 ---
-title: "Criança deve ter acesso ao seu próprio guarda-roupa e aprender a organizar"
+title: Criança deve ter acesso ao seu próprio guarda-roupa e aprender a organizar
 date: 2022-06-13
 status: publish
-author: fteodoro10
+author: Fernanda Teodoro
 categories:
-  - Features
+- Features
 ---
+
 
 Existem alguns móveis essenciais para a funcionalidade de um cômodo. Nos quartos das crianças, a disposição de alguns itens pode ajudar os pais a garantirem mais conforto, segurança, acessibilidade e autonomia aos pequenos. O [guarda-roupa infantil](https://www.lilibee.com.br/moveis/guarda-roupa-infantil), por exemplo, é um móvel que favorece a organização e pode ainda ajudar no desenvolvimento infantil. 
 

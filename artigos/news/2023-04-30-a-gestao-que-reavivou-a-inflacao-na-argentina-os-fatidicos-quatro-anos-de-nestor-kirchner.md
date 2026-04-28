@@ -1,11 +1,13 @@
 ---
-title: "A gestão que reavivou a inflação na Argentina: os fatídicos quatro anos de Néstor Kirchner"
+title: 'A gestão que reavivou a inflação na Argentina: os fatídicos quatro anos de
+  Néstor Kirchner'
 date: 2023-04-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 O **processo inflacionário** sofrido pela economia argentina acabou eliminando o acesso ao crédito de longo prazo, corroendo sistematicamente o poder de compra dos salários, impedindo a previsibilidade e o cálculo econômico das empresas. Esse problema, que se acreditava ter sido superado com a aplicação da Lei de Conversibilidade até 2001, foi reintroduzido no governo de Néstor Kirchner. A inflação constitui o legado mais nocivo da primeira experiência kirchnerista.
 

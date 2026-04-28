@@ -1,11 +1,12 @@
 ---
-title: "PF, em ação integrada, prende integrante de facção criminosa em Roraima"
+title: PF, em ação integrada, prende integrante de facção criminosa em Roraima
 date: 2020-05-19
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu, com apoio do CHOQUE da PM/RR, um suspeito de participar de organização criminosa e de ser o responsável por possíveis atos de execução de membros da segurança pública em Roraima.
 

@@ -1,11 +1,13 @@
 ---
-title: "Qualidade da Educação Superior de 2019 tem portaria que estabelece procedimentos para os Indicadores"
+title: Qualidade da Educação Superior de 2019 tem portaria que estabelece procedimentos
+  para os Indicadores
 date: 2020-07-09
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) oficializou como serão calculados os quatro Indicadores de Qualidade da Educação Superior que divulga anualmente: Conceito Enade, Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD), Conceito Preliminar de Curso (CPC) e Índice Geral de Cursos Avaliados da Instituição (IGC). A Portaria nº 429 publicada nesta quarta-feira, 8 de julho, no Diário Oficial da União, detalha como eles serão calculados e como as instituições de educação superior poderão se manifestar sobre os insumos utilizados para os cálculos. Posteriormente, será determinado qual o período previsto para a divulgação dos resultados.
 

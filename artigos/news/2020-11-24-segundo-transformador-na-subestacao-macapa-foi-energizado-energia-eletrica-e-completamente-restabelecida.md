@@ -1,11 +1,13 @@
 ---
-title: "Segundo transformador na subestação Macapá foi energizado, energia elétrica é completamente restabelecida"
+title: Segundo transformador na subestação Macapá foi energizado, energia elétrica
+  é completamente restabelecida
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Na madrugada desta terça-feira (24), às 3h30, foi energizado o segundo transformador na subestação Macapá, sendo possível restabelecer completamente o fornecimento de energia elétrica no estado do Amapá.
 

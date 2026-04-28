@@ -1,11 +1,12 @@
 ---
-title: "Superávit da balança comercial já chega a US$ 54,84 bilhões no ano"
+title: Superávit da balança comercial já chega a US$ 54,84 bilhões no ano
 date: 2022-11-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### De janeiro até a terceira semana de novembro, a corrente de comércio sobe 22,7%, alcançando US$ 541,45 bilhões; no acumulado do mês, saldo positivo atinge US$ 3,49 bilhões.
 

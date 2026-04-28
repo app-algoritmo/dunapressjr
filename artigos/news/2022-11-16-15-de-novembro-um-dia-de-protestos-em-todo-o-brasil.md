@@ -1,11 +1,12 @@
 ---
-title: "15 de novembro, um dia de protestos em todo o Brasil"
+title: 15 de novembro, um dia de protestos em todo o Brasil
 date: 2022-11-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O dia 15 de novembro de 2022 foi marcado por protestos em todo o Brasil, feriado nacional, que é celebrado o golpe republicano que marcou a queda da monarquia do Brasil.
 

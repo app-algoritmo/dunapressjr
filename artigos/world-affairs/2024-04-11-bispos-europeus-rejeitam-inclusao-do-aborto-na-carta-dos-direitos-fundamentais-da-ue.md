@@ -1,11 +1,13 @@
 ---
-title: "Bispos Europeus Rejeitam Inclusão do Aborto na Carta dos Direitos Fundamentais da UE"
+title: Bispos Europeus Rejeitam Inclusão do Aborto na Carta dos Direitos Fundamentais
+  da UE
 date: 2024-04-11
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 A Comissão das Conferências Episcopais e os bispos europeus manifestaram veementemente sua oposição à possível inclusão do aborto na Carta dos Direitos Fundamentais da União Europeia. Este posicionamento surge em antecipação à votação agendada para esta quinta-feira no Parlamento Europeu. Em comunicado, os bispos destacaram que "o aborto nunca pode ser considerado um direito fundamental", enfatizando que o direito à vida é o alicerce primordial de todos os demais direitos humanos.
 

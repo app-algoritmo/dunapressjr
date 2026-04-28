@@ -1,11 +1,12 @@
 ---
-title: "Petrobras não é única responsável por preço, diz presidente da estatal"
+title: Petrobras não é única responsável por preço, diz presidente da estatal
 date: 2021-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Silva e Luna prestaram esclarecimentos no Senado sobre reajustes.
 

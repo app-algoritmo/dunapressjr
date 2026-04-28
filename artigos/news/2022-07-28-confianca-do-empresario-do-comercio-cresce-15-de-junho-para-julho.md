@@ -1,11 +1,12 @@
 ---
-title: "Confiança do empresário do comércio cresce 1,5% de junho para julho"
+title: Confiança do empresário do comércio cresce 1,5% de junho para julho
 date: 2022-07-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Dados foram divulgados pela CNC.
 

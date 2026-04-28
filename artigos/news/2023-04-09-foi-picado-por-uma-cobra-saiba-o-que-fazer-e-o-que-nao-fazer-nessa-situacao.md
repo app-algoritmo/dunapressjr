@@ -1,11 +1,12 @@
 ---
-title: "Foi picado por uma cobra? Saiba o que fazer e o que não fazer nessa situação"
+title: Foi picado por uma cobra? Saiba o que fazer e o que não fazer nessa situação
 date: 2023-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A picada de cobra é muito dolorosa e, caso a serpente seja venenosa, a preocupação aumenta: além de dor e inchaço no local, podem ocorrer sangramentos em outras partes do corpo, dores musculares e alguns sintomas neurológicos, como visão dupla e pálpebras caídas, dependendo do gênero da serpente. Sem atendimento, há risco de hemorragia grave que pode levar à morte.
 

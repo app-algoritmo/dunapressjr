@@ -1,11 +1,13 @@
 ---
-title: "Ciência e Tecnologia investe R$ 352,8 milhões em projetos de pesquisa em detecção da Covid-19"
+title: Ciência e Tecnologia investe R$ 352,8 milhões em projetos de pesquisa em detecção
+  da Covid-19
 date: 2020-05-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Investimentos serão para desenvolvimento de novos testes e materiais de saúde, estruturação de laboratórios e instalação de internet em unidades de saúde.
 

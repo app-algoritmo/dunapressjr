@@ -1,11 +1,12 @@
 ---
-title: "Imposto de Renda: saiba como declarar com as novas mudanças"
+title: 'Imposto de Renda: saiba como declarar com as novas mudanças'
 date: 2023-03-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 O prazo para entrega da declaração de Imposto de Renda Pessoa Física (IRPF), referente ao ano de 2022, começa a contar nesta quarta-feira, 15 de março. A Receita Federal espera que mais de 39 milhões de contribuintes enviem a declaração. Uma das novidades deste ano é a utilização da declaração pré-preenchida já na abertura do período de entrega do documento, disponível via computador, pela solução Meu Imposto de Renda, on-line ou em aplicativo para iOS ou Android.
 

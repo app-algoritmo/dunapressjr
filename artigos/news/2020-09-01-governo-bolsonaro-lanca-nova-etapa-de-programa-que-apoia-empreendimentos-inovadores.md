@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro lança nova etapa de programa que apoia empreendimentos inovadores"
+title: Governo Bolsonaro lança nova etapa de programa que apoia empreendimentos inovadores
 date: 2020-09-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 ### Programa Centelha é uma iniciativa do Ministério da Ciência, Tecnologia e Inovações (MCTI) e parceiros. MCTI divulgou dois editais do Programa Centelha nesta segunda-feira (31).
 

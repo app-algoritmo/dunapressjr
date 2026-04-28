@@ -1,11 +1,12 @@
 ---
-title: "Inflação nos EUA faz dólar subir e ultrapassar R$ 5,30"
+title: Inflação nos EUA faz dólar subir e ultrapassar R$ 5,30
 date: 2021-05-13
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa recua 2,65% e tem pior desempenho diário desde março.
 

@@ -1,11 +1,12 @@
 ---
-title: "A OTAN liderada pelos EUA está afogando a Ucrânia em um banho de sangue"
+title: A OTAN liderada pelos EUA está afogando a Ucrânia em um banho de sangue
 date: 2023-08-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## **Esta carnificina é uma obscenidade, um colossal crime imperial, sem o menor esforço dos líderes americanos e europeus pela paz.**
 

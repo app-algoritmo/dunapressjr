@@ -1,11 +1,12 @@
 ---
-title: "Proposta de reforma administrativa prevê criação de novos vínculos"
+title: Proposta de reforma administrativa prevê criação de novos vínculos
 date: 2020-09-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Estágio probatório pode ceder lugar ao vínculo de experiência.
 

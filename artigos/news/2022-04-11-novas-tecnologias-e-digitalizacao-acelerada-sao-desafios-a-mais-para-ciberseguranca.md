@@ -1,11 +1,12 @@
 ---
-title: "Novas tecnologias e digitalização acelerada são desafios a mais para cibersegurança"
+title: Novas tecnologias e digitalização acelerada são desafios a mais para cibersegurança
 date: 2022-04-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 E-mails de spam, links suspeitos e golpes bancários. A internet está repleta de perigos que podem colocar a privacidade e os dados pessoais em risco. Desde o início da pandemia de covid-19, o cenário da cibersegurança vem enfrentando constantes desafios em se adaptar às novas demandas da digitalização acelerada, ao mesmo tempo em que novas ameaças aparecem. O ano de 2021 encerrou com o maior registro de ataques de hackers da história e, para 2022, especialistas traçam um caminho ainda mais complexo para a segurança cibernética de empresas de todos os portes e setores.
 

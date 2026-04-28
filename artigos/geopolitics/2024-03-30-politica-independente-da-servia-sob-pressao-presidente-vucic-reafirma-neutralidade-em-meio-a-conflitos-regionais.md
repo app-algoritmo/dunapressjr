@@ -1,11 +1,13 @@
 ---
-title: "Política Independente da Sérvia Sob Pressão: Presidente Vucic Reafirma Neutralidade em Meio a Conflitos Regionais"
+title: 'Política Independente da Sérvia Sob Pressão: Presidente Vucic Reafirma Neutralidade
+  em Meio a Conflitos Regionais'
 date: 2024-03-30
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O presidente sérvio Aleksandar Vucic fez um discurso à nação reiterando a constante pressão enfrentada por Belgrado devido à sua política independente. Vucic destacou que essa pressão é uma questão que afeta não apenas o governo, mas todo o povo sérvio, ressaltando a neutralidade militar do país e a decisão de se recusar a aderir às sanções contra a Rússia.
 

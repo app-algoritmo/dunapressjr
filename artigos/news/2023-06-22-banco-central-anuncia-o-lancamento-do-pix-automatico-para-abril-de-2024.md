@@ -1,11 +1,12 @@
 ---
-title: "Banco Central anuncia o lançamento do Pix Automático para abril de 2024"
+title: Banco Central anuncia o lançamento do Pix Automático para abril de 2024
 date: 2023-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Serviço permitirá pagamentos automáticos de contas de energia, telefone, escolas e muito mais, trazendo comodidade aos usuários.
 

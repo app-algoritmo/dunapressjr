@@ -1,11 +1,12 @@
 ---
-title: "Senado aprova projeto que prorroga isenção de ICMS para templos religiosos"
+title: Senado aprova projeto que prorroga isenção de ICMS para templos religiosos
 date: 2019-12-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Templos religiosos e entidades beneficentes de assistência
 social poderão continuar isentos de ICMS até 31 de dezembro de 2032, é o que

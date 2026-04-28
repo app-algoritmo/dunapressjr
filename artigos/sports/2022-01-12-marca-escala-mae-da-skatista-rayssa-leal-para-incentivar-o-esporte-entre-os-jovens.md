@@ -1,11 +1,13 @@
 ---
-title: "Marca escala mãe da skatista Rayssa Leal para incentivar o esporte entre os jovens"
+title: Marca escala mãe da skatista Rayssa Leal para incentivar o esporte entre os
+  jovens
 date: 2022-01-12
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Sports
+- Sports
 ---
+
 
 "Dona da Energia Toda" e integrante do Time NESCAU***®*** até os Jogos Olímpicos de Paris 2024, a skatista Rayssa Leal tem um aliado para se manter ativa e forte: o "Fator Crescer". Essa é a narrativa da nova campanha da marca de achocolatados, em que a atleta de 14 anos aparece pela primeira vez em um comercial ao lado da mãe, Lilian Mendes.
 

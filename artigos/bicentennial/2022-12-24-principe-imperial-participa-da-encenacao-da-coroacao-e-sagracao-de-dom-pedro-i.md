@@ -1,13 +1,15 @@
 ---
-title: "Príncipe Imperial participa da encenação da coroação e sagração de Dom Pedro I"
+title: Príncipe Imperial participa da encenação da coroação e sagração de Dom Pedro
+  I
 date: 2022-12-24
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Bicentennial
-  - News
-  - Policy
+- Bicentennial
+- News
+- Policy
 ---
+
 
 ## [AGENDA DOS PRÍNCIPES](https://www.facebook.com/promonarquia): ENCENAÇÃO DA COROAÇÃO E SAGRAÇÃO DE DOM PEDRO I
 

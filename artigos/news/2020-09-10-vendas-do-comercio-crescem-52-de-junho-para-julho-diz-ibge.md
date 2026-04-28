@@ -1,11 +1,12 @@
 ---
-title: "Vendas do comércio crescem 5,2% de junho para julho, diz IBGE"
+title: Vendas do comércio crescem 5,2% de junho para julho, diz IBGE
 date: 2020-09-10
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Essa é a terceira alta consecutiva do indicador.
 

@@ -1,11 +1,12 @@
 ---
-title: "Projeto da LDO prevê crescimento de 2,5% para o próximo ano"
+title: Projeto da LDO prevê crescimento de 2,5% para o próximo ano
 date: 2022-04-15
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Inflação cairá para 3,3% em 2023, depois de alcançar 6,55% em 2022.
 

@@ -1,11 +1,12 @@
 ---
-title: "Casa da Cultura de Itajaí recebe show de Giana Cervi e Vê Domingos"
+title: Casa da Cultura de Itajaí recebe show de Giana Cervi e Vê Domingos
 date: 2022-06-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Events
+- Events
 ---
+
 
 A Casa da Cultura Dide Brandão recebe a estreia do show “Dá Fonte Até o Mar”, dos cantores e compositores, Giana Cervi e Vê Domingos, com a participação de Keli Bertan. A apresentação será na quinta-feira (02), às 20h. O valor do ingresso antecipado é R$ 30 (valor correspondente à meia entrada no dia do evento) e R$ 60 (inteira – entradas limitadas).
 

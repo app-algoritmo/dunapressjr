@@ -1,11 +1,12 @@
 ---
-title: "Câmara aprova projeto que prevê regras para negociação de criptomoedas"
+title: Câmara aprova projeto que prevê regras para negociação de criptomoedas
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou nesta terça-feira (29) o projeto que estipula diretrizes para a regulamentação da prestação de serviços de ativos virtuais (criptomoedas). A proposta irá à sanção presidencial.
 

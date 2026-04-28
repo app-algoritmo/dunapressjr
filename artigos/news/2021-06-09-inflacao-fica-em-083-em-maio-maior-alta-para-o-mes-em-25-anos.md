@@ -1,11 +1,12 @@
 ---
-title: "Inflação fica em 0,83% em maio, maior alta para o mês em 25 anos"
+title: Inflação fica em 0,83% em maio, maior alta para o mês em 25 anos
 date: 2021-06-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## IPCA acumula taxas de 3,22% no ano e 8,06% em 12 meses.
 

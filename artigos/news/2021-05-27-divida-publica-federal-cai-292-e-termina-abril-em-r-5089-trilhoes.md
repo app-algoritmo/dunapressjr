@@ -1,11 +1,12 @@
 ---
-title: "Dívida Pública Federal cai 2,92% e termina abril em R$ 5,089 trilhões"
+title: Dívida Pública Federal cai 2,92% e termina abril em R$ 5,089 trilhões
 date: 2021-05-27
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Os resgates líquidos da DPF no mês passado somaram R$ 167,16 bilhões, com melhora do perfil do endividamento.
 

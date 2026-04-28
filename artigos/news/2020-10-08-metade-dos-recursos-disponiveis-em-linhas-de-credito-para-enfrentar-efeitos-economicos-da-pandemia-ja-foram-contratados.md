@@ -1,11 +1,13 @@
 ---
-title: "Metade dos recursos disponíveis em linhas de crédito para enfrentar efeitos econômicos da pandemia já foram contratados"
+title: Metade dos recursos disponíveis em linhas de crédito para enfrentar efeitos
+  econômicos da pandemia já foram contratados
 date: 2020-10-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No total, R$ 6 bilhões foram disponibilizados para pequenos empreendedores em atividades urbanas nas regiões Norte, Nordeste e Centro-Oeste.
 

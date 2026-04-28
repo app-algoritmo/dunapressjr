@@ -1,11 +1,12 @@
 ---
-title: "Procon/SC dá dicas para o consumidor aproveitar os descontos da Black Friday"
+title: Procon/SC dá dicas para o consumidor aproveitar os descontos da Black Friday
 date: 2020-11-24
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Com a chegada da Black Friday nesta sexta-feira, 27, é importante reforçar os cuidados na hora de realizar as compras. O Procon/SC, uma diretoria da Secretaria de Estado do Desenvolvimento Econômico Sustentável (SDE), preparou uma série de dicas para tranquilizar e orientar os consumidores, a fim de evitar fraudes ou que clientes sejam lesados.
 

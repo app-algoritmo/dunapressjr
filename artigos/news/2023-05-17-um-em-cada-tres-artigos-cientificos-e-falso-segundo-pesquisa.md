@@ -1,11 +1,12 @@
 ---
-title: "Um em cada três artigos científicos é falso, segundo pesquisa"
+title: Um em cada três artigos científicos é falso, segundo pesquisa
 date: 2023-05-17
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um neuropsicólogo chamado Barnhard Sabel desenvolveu [uma ferramenta](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common) para ajudar a eliminar artigos científicos falsos que estão sendo publicados como se fossem verdadeiros. Surpreendentemente, ou talvez não, Sabel descobriu que mais de 34% das pesquisas publicadas são falsas.
 

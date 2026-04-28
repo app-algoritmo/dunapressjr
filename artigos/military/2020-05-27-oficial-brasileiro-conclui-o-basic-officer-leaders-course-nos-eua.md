@@ -1,11 +1,12 @@
 ---
-title: "Oficial Brasileiro conclui o 'Basic Officer Leaders Course' nos EUA"
+title: Oficial Brasileiro conclui o 'Basic Officer Leaders Course' nos EUA
 date: 2020-05-27
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
+- Military
 ---
+
 
 **Lawton (EUA)** - No dia 22 de maio, o 2º Ten Art **Cícero Farias Tourinho** concluiu o Basic Officer Leaders Course (BOLC, na sigla em inglês) no Centro de Excelência de Fogos do Exército dos Estados Unidos / Fort Sill. O 2º Ten Farias foi o primeiro Oficial de Artilharia do Exército Brasileiro a realizar o curso no Exército dos Estados Unidos. O BOLC destina-se a preparar os recém-formados Oficiais do Exército norte-americano para liderar as pequenas frações em combate.
 

@@ -1,11 +1,13 @@
 ---
-title: "Estratégia de Gestão de Riscos auxiliará estados e municípios na adoção de ações contra Covid-19"
+title: Estratégia de Gestão de Riscos auxiliará estados e municípios na adoção de
+  ações contra Covid-19
 date: 2020-05-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 “Não é uma política de isolamento nem é uma política de flexibilização. Isso é uma análise de cada local”, disse o Ministro da Saúde, Nelson Teich, durante coletiva de imprensa no palácio do Planalto.
 

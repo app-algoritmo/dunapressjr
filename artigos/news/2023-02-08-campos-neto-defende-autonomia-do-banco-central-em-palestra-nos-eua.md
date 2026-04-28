@@ -1,11 +1,12 @@
 ---
-title: "Campos Neto defende autonomia do Banco Central em palestra nos EUA"
+title: Campos Neto defende autonomia do Banco Central em palestra nos EUA
 date: 2023-02-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Presidente do BC disse que pretende lançar moeda digital até 2025.
 

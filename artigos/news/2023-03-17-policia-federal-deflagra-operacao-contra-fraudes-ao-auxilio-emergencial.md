@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal deflagra operação contra fraudes ao Auxílio Emergencial"
+title: Polícia Federal deflagra operação contra fraudes ao Auxílio Emergencial
 date: 2023-03-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Na ação, foram apreendidos mais de R$300 mil em espécie, 129 munições documentos falsos, instrumentos utilizados para falsificação.
 

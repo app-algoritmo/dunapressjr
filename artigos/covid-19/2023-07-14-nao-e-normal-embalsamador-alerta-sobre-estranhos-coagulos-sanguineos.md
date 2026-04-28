@@ -1,11 +1,12 @@
 ---
-title: "'Não é normal': Embalsamador alerta sobre estranhos coágulos sanguíneos"
+title: '''Não é normal'': Embalsamador alerta sobre estranhos coágulos sanguíneos'
 date: 2023-07-14
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 O embalsamador e agente funerário Richard Hirschman continua a fazer descobertas bizarras de coágulos sanguíneos invulgarmente longos em corpos humanos.
 

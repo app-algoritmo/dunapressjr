@@ -1,11 +1,13 @@
 ---
-title: "O CDC tem manipulado os códigos ICD nos atestados de óbito para ocultar o fato de que as vacinas contra a covid são uma causa comum de morte"
+title: O CDC tem manipulado os códigos ICD nos atestados de óbito para ocultar o fato
+  de que as vacinas contra a covid são uma causa comum de morte
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um jornalista disfarçado obteve todos os atestados de óbito de Minnesota desde 2015 e examinou mais de perto os códigos ICD (Classificação Internacional de Doenças) atribuídos pelo CDC. Acontece que o [CDC tem manipulado os códigos do ICD](https://brownstone.org/articles/cdc-altered-death-certificates/) para ocultar o fato de que as vacinas contra a covid são a causa da morte nos atestados de óbito originais.
 

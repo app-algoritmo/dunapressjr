@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil tem lucro de R$ 5,1 bilhões no 3º trimestre"
+title: Banco do Brasil tem lucro de R$ 5,1 bilhões no 3º trimestre
 date: 2021-11-09
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Crescimento é 47,6% em comparação com o mesmo período de 2020.
 

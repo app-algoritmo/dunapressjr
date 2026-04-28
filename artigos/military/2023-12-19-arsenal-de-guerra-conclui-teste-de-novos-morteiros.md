@@ -1,11 +1,12 @@
 ---
-title: "Arsenal de Guerra conclui teste de novos morteiros"
+title: Arsenal de Guerra conclui teste de novos morteiros
 date: 2023-12-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 O [Arsenal de Guerra do Rio](https://www.agr.eb.mil.br/) realizou uma série de tiros técnicos para a validação de 19 morteiros fabricados e de um morteiro revitalizado em suas instalações, entre os dias 12 e 13 de dezembro. 
 

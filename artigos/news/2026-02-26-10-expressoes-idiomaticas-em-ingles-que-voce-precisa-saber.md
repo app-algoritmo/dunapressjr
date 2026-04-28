@@ -1,11 +1,12 @@
 ---
-title: "10 Expressões idiomáticas em inglês que você precisa saber"
+title: 10 Expressões idiomáticas em inglês que você precisa saber
 date: 2026-02-26
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Expressões idiomáticas são frases comuns que não significam literalmente o que as palavras dizem, mas têm um significado diferente. Essas expressões são usadas como parte da linguagem natural de uma língua e têm significados mais profundos ou sutis. Por exemplo, a expressão "ver o lado bom de algo" significa encontrar o lado positivo de algo, em vez de focar apenas no lado negativo. Confira aqui dicas de expressões [em inglês](https://www.seuidioma.com.br/dcs/curso-de-ingles/):
 

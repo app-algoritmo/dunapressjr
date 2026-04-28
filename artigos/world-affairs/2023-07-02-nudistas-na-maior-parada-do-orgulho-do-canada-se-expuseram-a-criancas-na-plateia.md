@@ -1,11 +1,12 @@
 ---
-title: "Nudistas na maior Parada do Orgulho do Canadá se expuseram a crianças na platéia"
+title: Nudistas na maior Parada do Orgulho do Canadá se expuseram a crianças na platéia
 date: 2023-07-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Bolhas voaram por toda parte enquanto bandeiras de arco-íris eram agitadas durante a maior parada do orgulho gay do Canadá em 25 de junho em Toronto, [acompanhadas por nudistas](https://thepostmillennial.com/breaking-trudeau-liberals-celebrate-toronto-pride-sponsored-by-bud-light-as-fetishists-expose-themselves-to-children) que seguravam cartazes gritantes dizendo: "A vida é curta: brinque nu" e "Coisas boas acontecem quando você está nu".
 

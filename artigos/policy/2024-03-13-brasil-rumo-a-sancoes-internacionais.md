@@ -1,11 +1,12 @@
 ---
-title: "Brasil rumo à sanções internacionais?"
+title: Brasil rumo à sanções internacionais?
 date: 2024-03-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Brasil será investigado por violação dos Direitos Humanos
 

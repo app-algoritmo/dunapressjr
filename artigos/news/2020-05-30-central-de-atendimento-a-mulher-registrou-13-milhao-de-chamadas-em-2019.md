@@ -1,11 +1,12 @@
 ---
-title: "Central de Atendimento à mulher registrou 1,3 milhão de chamadas em 2019"
+title: Central de Atendimento à mulher registrou 1,3 milhão de chamadas em 2019
 date: 2020-05-30
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A violência doméstica e familiar representa 78,96% das violações registradas na central.
 

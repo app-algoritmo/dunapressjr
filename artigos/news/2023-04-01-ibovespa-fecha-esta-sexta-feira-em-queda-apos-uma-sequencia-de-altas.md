@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa fecha esta sexta-feira em queda após uma sequência de altas"
+title: Ibovespa fecha esta sexta-feira em queda após uma sequência de altas
 date: 2023-04-01
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Nesta sexta-feira (31), o Ibovespa, principal índice da bolsa brasileira, perdeu o fôlego e encerrou o pregão em queda de 1,77%, aos 101.882 pontos. A queda aconteceu após cinco sessões consecutivas de alta, em um movimento de realização de lucros pelos investidores. No acumulado do mês, o Ibovespa registrou uma queda de 2,90%.
 

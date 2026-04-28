@@ -1,11 +1,13 @@
 ---
-title: "Distorção no uso da língua portuguesa, as expressões negro ou preto, qual, como e quando usar"
+title: Distorção no uso da língua portuguesa, as expressões negro ou preto, qual,
+  como e quando usar
 date: 2020-01-17
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 -Geneticamente falando, a cor da pele difere entre clara, escura, muito clara, muito escura. Enfim, somos todos claros ou escuros, pertencentes de uma única raça, a humana. E não é a raça que produz o racismo, é o racismo que separa os seres em raças. Todos os seres humanos modernos compartilham um ancestral em comum que viveu há cerca de 3 milhões de anos na África do Sul, o hominídeo Australopithecus.
 

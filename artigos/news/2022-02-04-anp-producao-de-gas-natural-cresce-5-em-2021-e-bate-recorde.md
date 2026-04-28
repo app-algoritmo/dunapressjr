@@ -1,11 +1,12 @@
 ---
-title: "ANP: produção de gás natural cresce 5% em 2021 e bate recorde"
+title: 'ANP: produção de gás natural cresce 5% em 2021 e bate recorde'
 date: 2022-02-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Produção de petróleo teve queda de 1,18% em relação a 2020.
 

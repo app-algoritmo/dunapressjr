@@ -1,11 +1,12 @@
 ---
-title: "Agenda da Eugenia: Quebec tem a maior taxa de eutanásia do mundo"
+title: 'Agenda da Eugenia: Quebec tem a maior taxa de eutanásia do mundo'
 date: 2023-06-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em 2022, mais de 5.000 pessoas morreram na província de Quebec como parte do programa MAiD (morte assistida por médicos). Cinco anos atrás, havia menos de 1.000 mortes por MAiD em Quebec.
 

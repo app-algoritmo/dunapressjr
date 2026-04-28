@@ -1,11 +1,13 @@
 ---
-title: "Pesquisadores israelenses alertam para crescimento de ataques cibernéticos por coronavírus"
+title: Pesquisadores israelenses alertam para crescimento de ataques cibernéticos
+  por coronavírus
 date: 2020-04-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os hackers adotaram a crescente popularidade da Netflix como parte de seus esquemas de fraude na web. Temos que "exercer uma boa higiene cibernética e ter muito cuidado ao receber documentos e links".
 

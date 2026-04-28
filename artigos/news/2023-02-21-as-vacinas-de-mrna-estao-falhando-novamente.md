@@ -1,11 +1,12 @@
 ---
-title: "As “vacinas” de mRNA estão falhando novamente"
+title: As “vacinas” de mRNA estão falhando novamente
 date: 2023-02-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Elas nem funcionam melhor do que a vacina contra a gripe (inútil). Mas elas têm muito mais efeitos colaterais. Não acredite em mim, acredite na Moderna!
 

@@ -1,11 +1,12 @@
 ---
-title: "Turismo de SP fecha o ano com movimentação recorde de R$ 289,6 bilhões"
+title: Turismo de SP fecha o ano com movimentação recorde de R$ 289,6 bilhões
 date: 2023-12-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Governo de SP investiu em infraestrutura, criação de novos atrativos turísticos e estímulo crescente à gastronomia regional.
 

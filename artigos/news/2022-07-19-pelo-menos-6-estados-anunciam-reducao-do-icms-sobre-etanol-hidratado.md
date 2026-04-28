@@ -1,11 +1,12 @@
 ---
-title: "Pelo menos 6 estados anunciam redução do ICMS sobre etanol hidratado"
+title: Pelo menos 6 estados anunciam redução do ICMS sobre etanol hidratado
 date: 2022-07-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Gasolina, energia e telecomunicações já tiveram redução.
 

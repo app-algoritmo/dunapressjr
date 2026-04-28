@@ -1,11 +1,13 @@
 ---
-title: "Ataques em Damasco, a Síria acusa Israel de realizar ataques; Netanyahu: 'Talvez tenha sido a força aérea belga'"
+title: 'Ataques em Damasco, a Síria acusa Israel de realizar ataques; Netanyahu: ''Talvez
+  tenha sido a força aérea belga'''
 date: 2020-02-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Quatro membros da Guarda Revolucionária Islâmica do Irã e três soldados sírios foram mortos em ataques aéreos em Damasco na noite de quinta-feira que a Síria atribuiu a Israel, segundo um monitor de guerra civil síria sediado na Grã-Bretanha.
 

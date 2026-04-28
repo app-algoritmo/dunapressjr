@@ -1,13 +1,14 @@
 ---
-title: "Lindum, a empresa norueguesa modelo em gestão de resíduos"
+title: Lindum, a empresa norueguesa modelo em gestão de resíduos
 date: 2018-12-13
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Education
-  - Environment
-  - Global Economy
+- Education
+- Environment
+- Global Economy
 ---
+
 
 Uma das grandes empresas norueguesas neste segmento, o Grupo Lindum AS trabalha há décadas em três áreas de negócios: **reciclagem e processos biológicos**, **meio ambiente** e **gestão de resíduos.**
 

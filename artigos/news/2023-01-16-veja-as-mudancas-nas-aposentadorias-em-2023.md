@@ -1,11 +1,12 @@
 ---
-title: "Veja as mudanças nas aposentadorias em 2023"
+title: Veja as mudanças nas aposentadorias em 2023
 date: 2023-01-16
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Reforma da Previdência estabelece regras automáticas de transição.
 

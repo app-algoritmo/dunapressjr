@@ -1,11 +1,12 @@
 ---
-title: "O Ocidente destruiu a África, a Eurásia irá revivê-la"
+title: O Ocidente destruiu a África, a Eurásia irá revivê-la
 date: 2023-09-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 O renascimento de África já está bem encaminhado através de parcerias com as potências eurasianas, a Rússia e a China, cujas contribuições significativas em termos de segurança, económicas e institucionais são visíveis em todo o continente.
 

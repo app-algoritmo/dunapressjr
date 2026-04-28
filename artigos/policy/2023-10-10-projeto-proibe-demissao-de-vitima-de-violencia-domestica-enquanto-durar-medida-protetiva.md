@@ -1,11 +1,13 @@
 ---
-title: "Projeto proíbe demissão de vítima de violência doméstica enquanto durar medida protetiva"
+title: Projeto proíbe demissão de vítima de violência doméstica enquanto durar medida
+  protetiva
 date: 2023-10-10
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Proposta será analisada pelas comissões de Defesa dos Direitos da Mulher; do Trabalho; e de Constituição e Justiça e de Cidadania.
 

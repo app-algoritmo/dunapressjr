@@ -1,11 +1,13 @@
 ---
-title: "Medida anunciada pelo governo quer reduzir impactos do coronavírus na economia do País"
+title: Medida anunciada pelo governo quer reduzir impactos do coronavírus na economia
+  do País
 date: 2020-04-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Até o final de setembro, os bancos públicos poderão deixar de exigir das empresas uma série de documentos fiscais na hora da conceder ou renegociar empréstimos. A medida busca tornar o crédito menos burocrático e mais ágil, para reduzir os impactos da pandemia do novo coronavírus sobre a economia do País.
 

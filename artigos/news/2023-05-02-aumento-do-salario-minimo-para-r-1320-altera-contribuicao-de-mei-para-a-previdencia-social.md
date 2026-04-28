@@ -1,11 +1,13 @@
 ---
-title: "Aumento do salário mínimo para R$ 1.320 altera contribuição de MEI para a Previdência Social"
+title: Aumento do salário mínimo para R$ 1.320 altera contribuição de MEI para a Previdência
+  Social
 date: 2023-05-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Novo valor da cota, que antes era de R$ 65,10, será de R$ 66,00 a partir de junho
 

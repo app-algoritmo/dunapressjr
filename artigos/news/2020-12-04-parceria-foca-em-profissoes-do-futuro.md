@@ -1,11 +1,12 @@
 ---
-title: "Parceria foca em profissões do futuro"
+title: Parceria foca em profissões do futuro
 date: 2020-12-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O mundo do trabalho passa por uma profunda transformação em função da dinâmica da economia global. Pensando nisso, o Ministério da Educação (MEC) e a Agência Brasileira de Desenvolvimento Industrial (ABDI) formalizaram uma parceria para favorecer a formulação de políticas públicas e a criação de programas e projetos voltados para a qualificação profissional de jovens e adultos brasileiros. A intenção é atender necessidades do mercado de trabalho e demandas da economia digital.
 

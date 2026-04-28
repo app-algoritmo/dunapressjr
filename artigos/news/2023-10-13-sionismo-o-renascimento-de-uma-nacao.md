@@ -1,11 +1,12 @@
 ---
-title: "Sionismo: O renascimento de uma nação"
+title: 'Sionismo: O renascimento de uma nação'
 date: 2023-10-13
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Sion é um nome antigo para Jerusalém e para a Terra de Israel. Sionismo é movimento nacional de libertação do povo judeu, que buscou restaurar a própria liberdade e independência na sua terra natal e de seus ancestrais.
 

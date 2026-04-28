@@ -1,11 +1,12 @@
 ---
-title: "Dicas de Saúde: Doença Pulmonar Obstrutiva Crônica (DPOC)"
+title: 'Dicas de Saúde: Doença Pulmonar Obstrutiva Crônica (DPOC)'
 date: 2021-11-28
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Cerca de 300 milhões de pessoas têm DPOC atualmente. A doença ainda é a 3ª causa de morte globalmente e muito prevalente, sobretudo em países de baixa e média renda.
 

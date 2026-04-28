@@ -1,11 +1,12 @@
 ---
-title: "<strong>Senai lança chamada para acelerar soluções da Indústria 4.0</strong>"
+title: <strong>Senai lança chamada para acelerar soluções da Indústria 4.0</strong>
 date: 2022-09-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Cada projeto selecionado poderá receber até R$ 800 mil.
 

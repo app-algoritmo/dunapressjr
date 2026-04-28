@@ -1,11 +1,12 @@
 ---
-title: "Israel em guerra: IDF confirma que o Hamas tem reféns israelenses"
+title: 'Israel em guerra: IDF confirma que o Hamas tem reféns israelenses'
 date: 2023-10-07
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 Israel em guerra: 40 mortos e mais de 700 feridos.
 

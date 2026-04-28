@@ -1,11 +1,13 @@
 ---
-title: "Trump Condena Decisão Judicial como 'Farsa' e 'Caça às Bruxas' após Ordem de Pagamento de Multa"
+title: Trump Condena Decisão Judicial como 'Farsa' e 'Caça às Bruxas' após Ordem de
+  Pagamento de Multa
 date: 2024-02-19
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O ex-presidente dos Estados Unidos, Donald Trump, está sob os holofotes mais uma vez após o juiz Arthur Engoron ordenar que ele e sua empresa, a Trump Organization, paguem quase 355 milhões de dólares em um julgamento por alegada fraude, além de proibir Trump de ocupar cargos em qualquer empresa sediada no estado de Nova Iorque por três anos.
 

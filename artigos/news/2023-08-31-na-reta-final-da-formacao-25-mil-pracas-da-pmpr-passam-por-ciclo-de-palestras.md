@@ -1,11 +1,12 @@
 ---
-title: "Na reta final da formação, 2,5 mil praças da PMPR passam por ciclo de palestras"
+title: Na reta final da formação, 2,5 mil praças da PMPR passam por ciclo de palestras
 date: 2023-08-31
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Eles ingressaram na Academia Policial Militar do Guatupê no ano passado e a formatura está marcada para setembro. Depois disso serão distribuídos nos quartéis de todo o Estado, auxiliando na segurança pública.
 

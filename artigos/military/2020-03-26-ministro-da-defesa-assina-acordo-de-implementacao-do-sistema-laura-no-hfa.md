@@ -1,12 +1,13 @@
 ---
-title: "Ministro da Defesa assina acordo de implementação do Sistema Laura no HFA"
+title: Ministro da Defesa assina acordo de implementação do Sistema Laura no HFA
 date: 2020-03-26
 status: publish
 author: Marcos Ferreira
 categories:
-  - Military
-  - News
+- Military
+- News
 ---
+
 
 **Brasília, 26/03/2020 -** O
 Ministro da Defesa, Fernando Azevedo, participou nesta quinta-feira (26) da

@@ -1,11 +1,12 @@
 ---
-title: "Ibovespa cai 0,40%, com peso de ações da Vale (VALE3) e investidores cautelosos"
+title: Ibovespa cai 0,40%, com peso de ações da Vale (VALE3) e investidores cautelosos
 date: 2023-09-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Dólar recua 0,31%.
 

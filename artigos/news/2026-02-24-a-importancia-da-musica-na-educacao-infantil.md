@@ -1,11 +1,12 @@
 ---
-title: "A importância da música na educação infantil"
+title: A importância da música na educação infantil
 date: 2026-02-24
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
+- News
 ---
+
 
 **Como a música pode se tornar extremamente necessária na educação das crianças.**
 

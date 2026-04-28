@@ -1,11 +1,12 @@
 ---
-title: "Dólar fecha em R$ 5,37 e tem maior queda em uma semana"
+title: Dólar fecha em R$ 5,37 e tem maior queda em uma semana
 date: 2020-11-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Euforia global faz bolsa encostar em 110 mil pontos.
 

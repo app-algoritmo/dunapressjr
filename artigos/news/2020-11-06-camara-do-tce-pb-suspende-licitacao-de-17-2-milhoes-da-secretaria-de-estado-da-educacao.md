@@ -1,11 +1,13 @@
 ---
-title: "Câmara do TCE-PB suspende licitação de 17, 2 milhões da secretaria de Estado da educação"
+title: Câmara do TCE-PB suspende licitação de 17, 2 milhões da secretaria de Estado
+  da educação
 date: 2020-11-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## O procedimento foi questionado em denúncia formulada à Corte de Contas.
 

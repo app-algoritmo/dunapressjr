@@ -1,11 +1,13 @@
 ---
-title: "Contribuintes com dívidas tributárias podem participar da 15ª Semana Nacional da Conciliação em Itajaí"
+title: Contribuintes com dívidas tributárias podem participar da 15ª Semana Nacional
+  da Conciliação em Itajaí
 date: 2020-11-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Contribuintes com dívidas ativas com o município podem participar da 15ª Semana Nacional da Conciliação, organizada em Itajaí pelo Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) Fazendário. As negociações serão realizadas de 30 de novembro a 04 de dezembro.
 

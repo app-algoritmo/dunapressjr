@@ -1,11 +1,12 @@
 ---
-title: "Ebserh inicia convocação de aprovados em concurso público"
+title: Ebserh inicia convocação de aprovados em concurso público
 date: 2020-09-08
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 No total, foram oferecidas 1.660 vagas em todo o País. Empresa já iniciou convocação de candidatos com Deficiência. 
 

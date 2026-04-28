@@ -1,11 +1,12 @@
 ---
-title: "25 mil títulos de posse devem ser emitidos até o fim do ano pelo governo brasileiro"
+title: 25 mil títulos de posse devem ser emitidos até o fim do ano pelo governo brasileiro
 date: 2019-08-04
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## Incra vai intensificar emissão de títulos de assentamentos em todo país
 

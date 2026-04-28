@@ -1,11 +1,12 @@
 ---
-title: "Lei que cria o SIM Digital é publicada no Diário Oficial da União"
+title: Lei que cria o SIM Digital é publicada no Diário Oficial da União
 date: 2022-08-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Objetivo é facilitar acesso do pequeno investidor ao crédito.
 

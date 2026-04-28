@@ -1,11 +1,12 @@
 ---
-title: "Brasil irá retomar programa da agenda 2030 que enviava dinheiro para Cuba"
+title: Brasil irá retomar programa da agenda 2030 que enviava dinheiro para Cuba
 date: 2023-01-07
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 Segundo o secretário de atenção primária, Nésio Fernandes, o Brasil voltará a abrir vagas para médicos estrangeiros atuarem no Brasil dentro do programa Mais Médicos, criado na gestão de Dilma Rousseff (PT) em 2013.
 

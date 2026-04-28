@@ -1,11 +1,12 @@
 ---
-title: "Nova IN busca agilizar o registro de fertilizantes orgânicos e de biofertilizantes"
+title: Nova IN busca agilizar o registro de fertilizantes orgânicos e de biofertilizantes
 date: 2020-07-16
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## A IN tem o objetivo de adequar e melhorar o dispositivo legal para a concessão de registros de fertilizantes orgânicos e de biofertilizantes e estabelecer procedimentos mais rápidos e eficientes
 

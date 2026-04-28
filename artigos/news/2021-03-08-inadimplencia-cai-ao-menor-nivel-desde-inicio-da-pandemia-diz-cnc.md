@@ -1,11 +1,12 @@
 ---
-title: "Inadimplência cai ao menor nível desde início da pandemia, diz CNC"
+title: Inadimplência cai ao menor nível desde início da pandemia, diz CNC
 date: 2021-03-08
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Dados são da Pesquisa de Endividamento e Inadimplência do Consumidor.
 

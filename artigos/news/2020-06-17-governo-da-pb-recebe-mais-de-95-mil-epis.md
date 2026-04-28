@@ -1,11 +1,12 @@
 ---
-title: "Governo da PB recebe mais de 95 mil EPIs"
+title: Governo da PB recebe mais de 95 mil EPIs
 date: 2020-06-17
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Equipamentos serão usados para combater propagação do coronavírus nas penitenciárias.
 

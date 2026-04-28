@@ -1,12 +1,14 @@
 ---
-title: "EUA: Estados e universidades limitam o uso do TikTok para  funcionários do governo e estudantes"
+title: 'EUA: Estados e universidades limitam o uso do TikTok para  funcionários do
+  governo e estudantes'
 date: 2023-01-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
-  - Technology
+- News
+- Technology
 ---
+
 
 Vários estados proibiram o uso do TikTok em dispositivos emitidos pelo governo. De acordo com o [The New York Times](https://www.nytimes.com/2022/12/20/technology/tiktok-ban-government-issued-devices.html), “Governadores do Alabama, Geórgia, Idaho, Iowa, Maryland, Montana, New Hampshire, Dakota do Norte, Oklahoma, Carolina do Sul, Dakota do Sul, Texas, Utah e Virgínia anunciaram proibições nos últimos três anos. semanas. Nebraska baniu o TikTok de dispositivos emitidos pelo estado em 2020.” Os governadores e outras autoridades estaduais estão preocupados com o fato de a empresa controladora do TikTok, ByteDance, estar compartilhando informações do usuário do TikTok com funcionários do governo chinês.
 

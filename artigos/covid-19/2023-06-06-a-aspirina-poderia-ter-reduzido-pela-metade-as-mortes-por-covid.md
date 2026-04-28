@@ -1,11 +1,12 @@
 ---
-title: "A aspirina poderia ter reduzido pela metade as mortes por Covid?"
+title: A aspirina poderia ter reduzido pela metade as mortes por Covid?
 date: 2023-06-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Suspeito que essa droga popular tenha sido alvo de uma campanha de descrédito pela simples razão de que ela compete com anticoagulantes e analgésicos mais novos e muito mais caros, que custam muito mais.
 

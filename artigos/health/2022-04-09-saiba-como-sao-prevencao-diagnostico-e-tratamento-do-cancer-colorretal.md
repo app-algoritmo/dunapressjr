@@ -1,11 +1,12 @@
 ---
-title: "Saiba como são prevenção, diagnóstico e tratamento do câncer colorretal"
+title: Saiba como são prevenção, diagnóstico e tratamento do câncer colorretal
 date: 2022-04-09
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 No Brasil, o câncer colorretal é o terceiro tipo de tumor com mais incidência na população, com aproximadamente 40 mil novos casos diagnosticados por ano. Somente em 2020 foram registrados 20.540 novos casos de câncer colorretal em homens e 20.470 casos em mulheres, com incidências estimadas de 9,1% e 9,2%, respectivamente.
 

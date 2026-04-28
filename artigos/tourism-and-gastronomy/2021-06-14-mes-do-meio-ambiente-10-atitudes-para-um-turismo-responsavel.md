@@ -1,11 +1,12 @@
 ---
-title: "Mês do Meio Ambiente: 10 atitudes para um turismo responsável"
+title: 'Mês do Meio Ambiente: 10 atitudes para um turismo responsável'
 date: 2021-06-14
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 Em junho é comemorado o mês do Meio Ambiente e, para aqueles que gostam de viajar, é importante saber de que forma o turista pode contribuir com o local onde está de passagem. “O turismo vai muito além de apenas lazer. É importante que o viajante entenda que o local que está conhecendo faz parte de um ecossistema, existem pessoas que vivem ali – e muitas delas trabalham em prol do turismo. Às vezes, não nos damos conta, mas uma pequena atitude pode ser prejudicial a toda uma comunidade. Por isso a discussão que gira em torno do turismo responsável é de extrema importância”, afirma o gerente geral da BWT Operadora, Gabriel Cordeiro. 
 

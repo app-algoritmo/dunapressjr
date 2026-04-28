@@ -1,11 +1,12 @@
 ---
-title: "Gecex reduz tarifas de importação de insumos industriais"
+title: Gecex reduz tarifas de importação de insumos industriais
 date: 2022-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida inclui itens como glifosato e resinas plásticas na Lista de Exceções à Tarifa Externa Comum do Mercosul.
 

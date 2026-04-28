@@ -1,11 +1,12 @@
 ---
-title: "Cursos gratuitos tem inscrições prorrogadas e 75 mil vagas"
+title: Cursos gratuitos tem inscrições prorrogadas e 75 mil vagas
 date: 2020-06-29
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Oportunidades são em cursos de Matemática, Português e Tecnologias da Informação e Comunicação; inscrições vão até 24 de julho.
 

@@ -1,11 +1,12 @@
 ---
-title: "Passageiros de navio de cruzeiro em Recife são retirados"
+title: Passageiros de navio de cruzeiro em Recife são retirados
 date: 2020-03-22
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Como parte da Operação Covid-19 do Ministério da Defesa, a Marinha atuou, neste sábado (21), na retirada de passageiros de um navio de cruzeiro retido em Recife (PE), desde que um passageiro foi atestado com Covid-19. Militares especializados em Defesa Nuclear, Biológica, Química e Radiológica (NBQR) foram empregados na missão. 
 

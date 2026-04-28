@@ -1,11 +1,12 @@
 ---
-title: "O que a mídia não conta sobre os incêndios florestais no Canadá"
+title: O que a mídia não conta sobre os incêndios florestais no Canadá
 date: 2023-07-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Os incêndios destruíram milhões de hectares de floresta no Canadá desde maio, resultando na evacuação de dezenas de milhares de pessoas. A fumaça dos incêndios está incomodando muitas pessoas em todo o país e no nordeste dos Estados Unidos.
 

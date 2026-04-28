@@ -1,13 +1,14 @@
 ---
-title: "Existe o direito à liberdade de expressão"
+title: Existe o direito à liberdade de expressão
 date: 2022-12-18
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - News
-  - Opinion
-  - Policy
+- News
+- Opinion
+- Policy
 ---
+
 
 ## A liberdade de expressão é um direito em Estados que adotam o sistema democrático. Porém, como se deve aceitar a liberdade de expressão.
 

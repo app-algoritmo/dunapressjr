@@ -1,11 +1,12 @@
 ---
-title: "IBGE iniciou ação do Censo 2022 pesquisando entorno de domicílios"
+title: IBGE iniciou ação do Censo 2022 pesquisando entorno de domicílios
 date: 2022-06-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Mais de 22 mil supervisores trabalharão até 22 de julho.
 

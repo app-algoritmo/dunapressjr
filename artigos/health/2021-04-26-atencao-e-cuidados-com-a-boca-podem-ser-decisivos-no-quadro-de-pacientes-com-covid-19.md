@@ -1,11 +1,13 @@
 ---
-title: "Atenção e cuidados com a boca podem ser decisivos no quadro de pacientes com Covid-19"
+title: Atenção e cuidados com a boca podem ser decisivos no quadro de pacientes com
+  Covid-19
 date: 2021-04-26
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Um dos principais desafios da pandemia tem sido o aumento do tempo de internação dos pacientes com Covid-19. A média de permanência em UTIs chega a ser quatro vezes maior do que a de outros pacientes críticos. Cenário que exige uma equipe multidisciplinar para lidar com todo o impacto que uma longa internação pode trazer ao paciente. Além de médicos, enfermeiros e fisioterapeutas, a presença de profissionais de odontologia em UTIs vem ganhando importância. 
 

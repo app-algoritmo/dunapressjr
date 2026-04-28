@@ -1,11 +1,12 @@
 ---
-title: "Quase 70% das empresas ativas no país são MEI, divulga ministério"
+title: Quase 70% das empresas ativas no país são MEI, divulga ministério
 date: 2022-06-07
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Abertura de empresas no país caiu 3,2% de janeiro a abril.
 

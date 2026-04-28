@@ -1,11 +1,12 @@
 ---
-title: "O quebra-cabeça de reinicialização"
+title: O quebra-cabeça de reinicialização
 date: 2023-07-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 https://www.youtube.com/embed/ZbBtReTPVdE?feature=oembed
 

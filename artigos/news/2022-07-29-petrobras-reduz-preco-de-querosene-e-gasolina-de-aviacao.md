@@ -1,11 +1,12 @@
 ---
-title: "Petrobras reduz preço de querosene e gasolina de aviação"
+title: Petrobras reduz preço de querosene e gasolina de aviação
 date: 2022-07-29
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Novos preços começam a valer na segunda-feira.
 

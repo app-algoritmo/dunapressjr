@@ -1,11 +1,13 @@
 ---
-title: "Mercado financeiro eleva previsão de crescimento econômico do Brasil, mas mantém alerta para inflação"
+title: Mercado financeiro eleva previsão de crescimento econômico do Brasil, mas mantém
+  alerta para inflação
 date: 2023-06-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Projeção de expansão do PIB sobe para 1,68% este ano.
 

@@ -1,11 +1,12 @@
 ---
-title: "Conheça 7 estratégias do marketing para aumentar a procura de seus serviços"
+title: Conheça 7 estratégias do marketing para aumentar a procura de seus serviços
 date: 2022-01-28
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Se você ainda não tem **conhecimento em marketing **é possível que você esteja perdido em suas ações como gestor. Mas, não se preocupe! Confira o conteúdo a seguir e descubra tudo do que precisa para aumentar o seu faturamento. Boa leitura!
 

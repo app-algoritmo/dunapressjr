@@ -1,11 +1,13 @@
 ---
-title: "Polícia Federal altera o atendimento do passaporte e aos estrangeiros em virtude da pandemia"
+title: Polícia Federal altera o atendimento do passaporte e aos estrangeiros em virtude
+  da pandemia
 date: 2020-03-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Brasília/DF** - A Polícia Federal, tendo em vista a publicação
 da Medida Provisória nº 926 e do Decreto nº 10.282, ambos de 20 de março de

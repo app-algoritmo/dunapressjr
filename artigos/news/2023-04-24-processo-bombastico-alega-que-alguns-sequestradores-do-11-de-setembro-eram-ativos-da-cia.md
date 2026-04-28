@@ -1,11 +1,13 @@
 ---
-title: "Processo bombástico alega que alguns sequestradores do 11 de setembro eram ativos da CIA"
+title: Processo bombástico alega que alguns sequestradores do 11 de setembro eram
+  ativos da CIA
 date: 2023-04-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Um recente processo judicial fez uma alegação explosiva de que pelo menos dois dos sequestradores do 11 de setembro foram recrutados para uma operação de inteligência conjunta CIA-Saudita que foi encoberta pelos níveis mais altos.
 

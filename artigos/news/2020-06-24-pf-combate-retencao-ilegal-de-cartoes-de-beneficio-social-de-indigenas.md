@@ -1,11 +1,12 @@
 ---
-title: "PF combate retenção ilegal de cartões de benefício social de indígenas"
+title: PF combate retenção ilegal de cartões de benefício social de indígenas
 date: 2020-06-24
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Governador Valadares/MG – A Polícia Federal deflagrou nesta quarta-feira, 24/6, a Operação Policial DESENGATE, com o apoio da Polícia Militar de Minas Gerais, para combater a prática ilegal de retenção de cartões de benefícios sociais de indígenas da etnia Maxakalis e prender autor de graves ameaças e violência contra aquele povo indígena.
 

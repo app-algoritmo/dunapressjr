@@ -1,11 +1,13 @@
 ---
-title: "Elon Musk diz que os respiradores destruíram os pulmões dos pacientes, não o COVID-19"
+title: Elon Musk diz que os respiradores destruíram os pulmões dos pacientes, não
+  o COVID-19
 date: 2023-11-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Em um episódio do podcast “Joe Rogan Experience”, o apresentador Joe Rogan disse ao empresário bilionário Elon Musk que pelo menos  [80% dos pacientes com coronavírus Wuhan (COVID-19) que foram colocados em ventiladores morreram](https://expose-news.com/2023/11/02/elon-musk-the-ventilators-not-covid-destroyed-lungs/) .
 

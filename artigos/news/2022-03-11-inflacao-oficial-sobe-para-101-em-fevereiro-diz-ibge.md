@@ -1,11 +1,12 @@
 ---
-title: "Inflação oficial sobe para 1,01% em fevereiro, diz IBGE"
+title: Inflação oficial sobe para 1,01% em fevereiro, diz IBGE
 date: 2022-03-11
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## É a maior taxa para o mês desde 2015.
 

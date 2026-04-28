@@ -1,11 +1,12 @@
 ---
-title: "Dólar bate em R$ 5,27, mas termina dia vendido a R$ 5,19"
+title: Dólar bate em R$ 5,27, mas termina dia vendido a R$ 5,19
 date: 2021-08-04
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Bolsa subiu 0,87%, impulsionada por alívio externo.
 

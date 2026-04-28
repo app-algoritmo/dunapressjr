@@ -1,11 +1,13 @@
 ---
-title: "'Turistando' pelo Paraná: dicas de passeios para aproveitar o último feriado prolongado do ano"
+title: '''Turistando'' pelo Paraná: dicas de passeios para aproveitar o último feriado
+  prolongado do ano'
 date: 2024-05-06
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## Mês de maio é marcado por datas comemorativas e feriados, como Dia do Turismo, Dia das Mães e Corpus Christi. Destinos paranaenses são repletos de cultura, história, gastronomia e aventura.
 

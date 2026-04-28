@@ -1,11 +1,12 @@
 ---
-title: "Serão avaliadas oito fruticulturas pelo Projeto Monitor do Seguro Rural"
+title: Serão avaliadas oito fruticulturas pelo Projeto Monitor do Seguro Rural
 date: 2020-08-04
 status: publish
-author: Leonardo
+author: Leonardo Gabossa
 categories:
-  - News
+- News
 ---
+
 
 ## Seguros agrícolas de maçã, pêssego, caqui, nectarina, laranja, maracujá, ameixa e tangerina serão analisadas em 07 de agosto.
 

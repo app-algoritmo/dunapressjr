@@ -1,11 +1,12 @@
 ---
-title: "Governo Federal prepara repatriação de 1.505 brasileiros"
+title: Governo Federal prepara repatriação de 1.505 brasileiros
 date: 2020-03-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A partir desta sexta-feira (20), o Brasil deve repatriar 1.505 turistas brasileiros retidos em Portugal e no Peru. As ações, coordenadas pelo Ministério do Turismo (MTur), em conjunto com o Ministério das Relações Exteriores e também com as empresas aéreas Latam, Azul e TAP, fazem parte da repatriação de brasileiros que estão em outros países durante a pandemia de coronavírus (Covid-19).
 

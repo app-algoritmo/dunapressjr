@@ -1,11 +1,12 @@
 ---
-title: "Aprovada consolidação de leis municipais em Itajaí"
+title: Aprovada consolidação de leis municipais em Itajaí
 date: 2020-12-16
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Os vereadores de Itajaí aprovaram, em segunda votação, os dois primeiros projetos de lei complementar que compõem a Consolidação das Leis Municipais. O trabalho objetiva agrupar as leis existentes por temas, criando uma obra única para pesquisa e de fácil acesso para facilitar a aplicação e cumprimento das leis.
  

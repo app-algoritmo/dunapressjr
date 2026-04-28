@@ -1,11 +1,13 @@
 ---
-title: "3.01 Em entrevista ao Planalto, diretor-geral da entidade destacou os temas da reunião com o presidente Bolsonaro"
+title: 3.01 Em entrevista ao Planalto, diretor-geral da entidade destacou os temas
+  da reunião com o presidente Bolsonaro
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 ## OMC vai ajudar o Brasil a tornar suas exportações mais diversificadas
 

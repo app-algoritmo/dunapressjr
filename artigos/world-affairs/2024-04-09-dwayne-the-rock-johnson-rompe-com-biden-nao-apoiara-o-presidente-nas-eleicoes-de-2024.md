@@ -1,11 +1,13 @@
 ---
-title: "Dwayne 'The Rock' Johnson Rompe com Biden: Não Apoiará o Presidente nas Eleições de 2024"
+title: 'Dwayne ''The Rock'' Johnson Rompe com Biden: Não Apoiará o Presidente nas
+  Eleições de 2024'
 date: 2024-04-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Em uma reviravolta surpreendente, o renomado lutador profissional e estrela de Hollywood, Dwayne "The Rock" Johnson, anunciou que não apoiará o atual presidente Joe Biden nas eleições presidenciais de novembro de 2024. Durante uma entrevista na Fox News em 5 de abril, Johnson expressou pesar por seu apoio anterior a Biden durante as eleições de 2020.
 

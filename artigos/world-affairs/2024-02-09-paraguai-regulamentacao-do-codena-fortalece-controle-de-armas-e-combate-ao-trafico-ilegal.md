@@ -1,11 +1,13 @@
 ---
-title: "Paraguai: Regulamentação do CODENA Fortalece Controle de Armas e Combate ao Tráfico Ilegal"
+title: 'Paraguai: Regulamentação do CODENA Fortalece Controle de Armas e Combate ao
+  Tráfico Ilegal'
 date: 2024-02-09
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O Conselho de Defesa Nacional (CODENA) anunciou a regulamentação da Lei nº 4.036/2010, "Sobre Armas de Fogo, suas Partes e Componentes, Munições, Explosivos, Acessórios e Afins", com o objetivo de estabelecer um controle mais eficaz no combate ao tráfico ilegal de armas. A implementação destas medidas visa proporcionar à Direcção de Material Bélico (DIMABEL), enquanto autoridade de aplicação, uma gestão mais transparente por meio do Sistema de Informação Dimabel (SID).
 

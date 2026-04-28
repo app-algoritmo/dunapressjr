@@ -1,11 +1,12 @@
 ---
-title: "Banco do Brasil inaugura quatro usinas solares neste mês"
+title: Banco do Brasil inaugura quatro usinas solares neste mês
 date: 2022-12-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Instituição já tem sete usinas próprias em seis estados.
 

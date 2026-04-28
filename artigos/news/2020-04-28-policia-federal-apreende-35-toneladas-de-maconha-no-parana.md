@@ -1,11 +1,12 @@
 ---
-title: "Polícia Federal apreende 3,5 toneladas de maconha no Paraná"
+title: Polícia Federal apreende 3,5 toneladas de maconha no Paraná
 date: 2020-04-28
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 Maringá/PR  – Na tarde de segunda feira (27/4), durante diligências de repreensão a crime de contrabando e tráfico de drogas, oriundas de rotas fronteiriças, policiais federais  e policiais militares do Choque Canil do 4º Batalhão de Polícia Militar, no âmbito da Operação Hórus e do Programa Vigia, apreenderam 3,5 toneladas de maconha, carregadas em um caminhão vindo do Mato Grosso do Sul.
 

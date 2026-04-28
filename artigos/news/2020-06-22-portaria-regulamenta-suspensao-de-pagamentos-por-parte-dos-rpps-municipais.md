@@ -1,11 +1,12 @@
 ---
-title: "Portaria regulamenta suspensão de pagamentos por parte dos RPPS municipais"
+title: Portaria regulamenta suspensão de pagamentos por parte dos RPPS municipais
 date: 2020-06-22
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida faz parte do Programa Federativo de Enfrentamento ao Coronavírus, previsto na Lei Complementar nº 173/2020.
 

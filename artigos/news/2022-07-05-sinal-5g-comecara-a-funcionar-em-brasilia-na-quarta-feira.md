@@ -1,11 +1,12 @@
 ---
-title: "Sinal 5G começará a funcionar em Brasília na quarta-feira"
+title: Sinal 5G começará a funcionar em Brasília na quarta-feira
 date: 2022-07-05
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Informação foi confirmada por vice-presidente da Anatel.
 

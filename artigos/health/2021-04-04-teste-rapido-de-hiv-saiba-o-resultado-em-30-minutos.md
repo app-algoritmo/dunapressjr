@@ -1,11 +1,12 @@
 ---
-title: "Teste rápido de HIV: saiba o resultado em 30 minutos"
+title: 'Teste rápido de HIV: saiba o resultado em 30 minutos'
 date: 2021-04-04
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 Hoje os testes se modernizaram e o resultado fica pronto em até 30 minutos. A boa notícia é que o Sistema Único de Saúde (SUS) oferece esses testes gratuitamente nas Unidades Básicas de Saúde (UBSs), Unidades de Pronto Atendimento (Upas) e Centros de Testagem e Aconselhamento (CTA). Entenda mais como funcionam estes testes, especialmente o de HIV.
 

@@ -1,11 +1,12 @@
 ---
-title: "Parceria entre empresa e universidade moderniza logística em planta industrial"
+title: Parceria entre empresa e universidade moderniza logística em planta industrial
 date: 2022-04-07
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A parceria entre empresa e universidade resultou em uma solução de baixo custo para modernizar um processo de logística em uma planta industrial de Curitiba (PR). O protótipo de veículo autônomo autoguiado e movido a bateria agiliza o transporte de produtos entre setores da fábrica, resultando em solução sustentável e diminuindo desperdício.
 

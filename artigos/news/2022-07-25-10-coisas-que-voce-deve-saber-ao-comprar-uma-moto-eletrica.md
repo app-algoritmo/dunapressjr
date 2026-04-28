@@ -1,11 +1,12 @@
 ---
-title: "10 Coisas que você deve saber ao comprar uma moto elétrica"
+title: 10 Coisas que você deve saber ao comprar uma moto elétrica
 date: 2022-07-25
 status: publish
-author: qualividaonline
+author: Vanessa Fagundes
 categories:
-  - News
+- News
 ---
+
 
 Está pensando em fazer parte do grupo dos adeptos a veículos sustentáveis e econômicos? Confira as 10 coisas que você deve saber ao comprar uma moto elétrica, aqui nesta página!
 

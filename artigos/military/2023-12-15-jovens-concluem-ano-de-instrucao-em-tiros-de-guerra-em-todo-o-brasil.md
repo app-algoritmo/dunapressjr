@@ -1,11 +1,12 @@
 ---
-title: "Jovens concluem ano de instrução em Tiros de Guerra em todo o Brasil"
+title: Jovens concluem ano de instrução em Tiros de Guerra em todo o Brasil
 date: 2023-12-15
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 Milhares de jovens concluíram o ano de instrução como atiradores nos mais de 200 [Tiros de Guerra espalhados por todo o Brasil](https://www.google.com/maps/d/u/1/viewer?ll=-11.190719612989879%2C-45.961168288036006&z=5&mid=1y1NjzBVJp7Z3WVeUGUKz8yffkA5WYqdS). Os Tiros de Guerra são pequenas unidades do Exército, onde o jovem que completa 18 anos pode prestar o serviço militar. Geralmente, o serviço é prestado entre 6h e 8h da manhã, de modo a conciliar o serviço militar com estudo e trabalho. 
 

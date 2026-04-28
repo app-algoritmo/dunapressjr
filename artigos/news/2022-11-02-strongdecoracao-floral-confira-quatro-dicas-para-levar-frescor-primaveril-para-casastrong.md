@@ -1,11 +1,13 @@
 ---
-title: "<strong>Decoração Floral: confira quatro dicas para levar frescor primaveril para casa</strong>"
+title: '<strong>Decoração Floral: confira quatro dicas para levar frescor primaveril
+  para casa</strong>'
 date: 2022-11-02
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 **Pintura artística floral e papel de parede**
 

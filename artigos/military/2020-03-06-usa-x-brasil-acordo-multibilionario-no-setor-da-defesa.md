@@ -1,11 +1,12 @@
 ---
-title: "USA x Brasil, acordo multibilionário no setor da defesa"
+title: USA x Brasil, acordo multibilionário no setor da defesa
 date: 2020-03-06
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 Assista o vídeo no final do artigo oferecido pelo canal hoje no mundo militar para conhecer sobre o acordo militar multibilionário entre o Brasil e os EUA para defesa.
 

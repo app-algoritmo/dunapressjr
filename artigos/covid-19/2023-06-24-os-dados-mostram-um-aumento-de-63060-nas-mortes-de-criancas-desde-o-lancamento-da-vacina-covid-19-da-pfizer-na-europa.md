@@ -1,11 +1,13 @@
 ---
-title: "Os dados mostram um aumento de 63.060% nas mortes de crianças desde o lançamento da vacina COVID-19 da Pfizer na Europa"
+title: Os dados mostram um aumento de 63.060% nas mortes de crianças desde o lançamento
+  da vacina COVID-19 da Pfizer na Europa
 date: 2023-06-24
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Uma análise recente da EuroMOMO, uma organização encarregada de dados estatísticos oficiais de países europeus, revelou que havia uma correlação direta entre a aprovação da vacina contra o coronavírus Wuhan (COVID-19) da Pfizer para crianças e um aumento no número de mortes em excesso entre [crianças](https://expose-news.com/2023/06/21/report-confirms-632x-increase-in-child-excess-deaths-across-europe-c19-jab/) .
 

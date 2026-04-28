@@ -1,11 +1,13 @@
 ---
-title: "Audiência Pública no Senado Brasileiro Debate a Obrigatoriedade da Vacinação Contra a Covid-19 em Bebês e Crianças"
+title: Audiência Pública no Senado Brasileiro Debate a Obrigatoriedade da Vacinação
+  Contra a Covid-19 em Bebês e Crianças
 date: 2024-02-26
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Policy
+- Policy
 ---
+
 
 Na manhã de hoje, às 9h no horário de Brasília, teve início uma Audiência Pública crucial no Senado brasileiro, última casa legislativa, para discutir a polêmica da "**obrigatoriedade**" da vacinação contra a Covid-19 em bebês e crianças. Esta audiência marca um importante passo no debate público sobre saúde e política, pois propõe substituir narrativas por fatos, evidências e estudos científicos documentados na vida real.
 

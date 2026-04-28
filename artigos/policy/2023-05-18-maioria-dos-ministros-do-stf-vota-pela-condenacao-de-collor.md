@@ -1,11 +1,12 @@
 ---
-title: "Maioria dos ministros do STF vota pela condenação de Collor"
+title: Maioria dos ministros do STF vota pela condenação de Collor
 date: 2023-05-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Policy
+- Policy
 ---
+
 
 ## Ex-senador é acusado de corrupção passiva e lavagem de dinheiro.
 

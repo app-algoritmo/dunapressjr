@@ -1,11 +1,13 @@
 ---
-title: "Câmara aprova MP que autoriza participação privada na exploração de minérios nucleares"
+title: Câmara aprova MP que autoriza participação privada na exploração de minérios
+  nucleares
 date: 2022-12-01
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A Câmara dos Deputados aprovou a Medida Provisória 1133/22, que permite a atuação da iniciativa privada na pesquisa e lavra de minérios nucleares, mas mantém o monopólio da atividade nas Indústrias Nucleares do Brasil S.A. (INB), conforme prevê a Constituição. A MP será enviada ao Senado.
 

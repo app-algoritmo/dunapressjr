@@ -1,11 +1,12 @@
 ---
-title: "Governo Central registra superávit primário de R$ 16,5 bilhões em abril"
+title: Governo Central registra superávit primário de R$ 16,5 bilhões em abril
 date: 2021-05-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## No acumulado do primeiro quadrimestre, há superávit primário de R$ 41 bilhões.
 

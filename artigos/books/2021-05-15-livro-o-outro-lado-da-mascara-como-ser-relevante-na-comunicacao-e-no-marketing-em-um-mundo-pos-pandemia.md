@@ -1,11 +1,13 @@
 ---
-title: "Livro 'O Outro Lado da Máscara: Como ser relevante na comunicação e no marketing em um mundo pós-pandemia'"
+title: 'Livro ''O Outro Lado da Máscara: Como ser relevante na comunicação e no marketing
+  em um mundo pós-pandemia'''
 date: 2021-05-15
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Books
+- Books
 ---
+
 
 Sob organização e edição da jornalista Sulamita Mendes, a obra foi escrita por um time de especialistas experientes e conhecidos no mercado e contou com o prefácio do jornalista e consultor de comunicação e marketing Pyr Marcondes.
 

@@ -1,11 +1,12 @@
 ---
-title: "Agora eles estão realmente trabalhando em um plano para bloquear o sol"
+title: Agora eles estão realmente trabalhando em um plano para bloquear o sol
 date: 2023-07-08
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O que você acha? Sem luz solar suficiente, a vida neste planeta não poderia sobreviver por muito tempo. Portanto, quando os líderes mundiais começarem a falar sobre bloquear o sol ou “remodelar a atmosfera”, todos devemos ficar muito, muito nervosos. As plantas precisam de luz solar para crescer. Portanto, menos luz solar significaria menos comida para todos nós. E dado que estamos nos estágios iniciais de uma grave crise global de alimentos, cultivar alimentos suficientes deve ser uma prioridade muito alta. Infelizmente, os globalistas veem as coisas de maneira muito diferente. Eles parecem dispostos a tomar medidas extremamente arriscadas para trazer as temperaturas de volta ao que consideram faixas "normais".
 

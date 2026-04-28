@@ -1,11 +1,13 @@
 ---
-title: "Índice de Confiança de Serviços (ICS) do FGV IBRE registra quarta queda consecutiva em novembro"
+title: Índice de Confiança de Serviços (ICS) do FGV IBRE registra quarta queda consecutiva
+  em novembro
 date: 2023-11-30
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Cenário macro desafiador impacta setor de serviços.
 

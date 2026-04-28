@@ -1,11 +1,12 @@
 ---
-title: "Redação do Enem: nove dicas para garantir uma boa nota"
+title: 'Redação do Enem: nove dicas para garantir uma boa nota'
 date: 2023-10-31
 status: publish
-author: milah44
+author: Camila Batista
 categories:
-  - Education
+- Education
 ---
+
 
 ## Produzir uma redação adequada no Enem é fundamental para garantir uma boa nota no exame, o que representa justamente o maior desafio para muitos estudantes. 
 

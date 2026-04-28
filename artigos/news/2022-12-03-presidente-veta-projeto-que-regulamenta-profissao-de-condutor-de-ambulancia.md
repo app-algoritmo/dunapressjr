@@ -1,11 +1,12 @@
 ---
-title: "Presidente veta projeto que regulamenta profissão de condutor de ambulância"
+title: Presidente veta projeto que regulamenta profissão de condutor de ambulância
 date: 2022-12-03
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 O presidente Jair Bolsonaro vetou integralmente o [Projeto de Lei 3553/15](https://www.camara.leg.br/noticias/876414-CCJ-APROVA-PARECER-A-EMENDAS-DO-SENADO-A-PROJETO-SOBRE-MOTORISTAS-DE-AMBULANCIAS), que regulamenta o exercício da atividade de condutor de ambulâncias. O veto foi publicado no Diário Oficial da União desta terça-feira (29).
 

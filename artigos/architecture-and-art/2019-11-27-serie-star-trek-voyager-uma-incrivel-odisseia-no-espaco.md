@@ -1,11 +1,12 @@
 ---
-title: "Série Star Trek 'Voyager', uma incrível odisseia no espaço"
+title: Série Star Trek 'Voyager', uma incrível odisseia no espaço
 date: 2019-11-27
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Architecture and Art
+- Architecture and Art
 ---
+
 
 Nesta divertida, dramática e singular série que trazemos indicada ao público maior de 13 anos aporta uma grande carga de valores éticos e morais, de respeito à vida biológica, inteligente-senciente e familiar.
 

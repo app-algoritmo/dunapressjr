@@ -1,11 +1,12 @@
 ---
-title: "Dólar cai para R$ 5,08 e atinge menor nível desde novembro"
+title: Dólar cai para R$ 5,08 e atinge menor nível desde novembro
 date: 2023-01-26
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 ## Ibovespa fecha acima dos 114 mil pontos.
 

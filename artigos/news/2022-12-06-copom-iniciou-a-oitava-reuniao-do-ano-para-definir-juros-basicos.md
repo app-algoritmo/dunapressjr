@@ -1,11 +1,12 @@
 ---
-title: "Copom iniciou a oitava reunião do ano para definir juros básicos"
+title: Copom iniciou a oitava reunião do ano para definir juros básicos
 date: 2022-12-06
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Expectativa é que taxa Selic se mantenha em 13,75% ao ano.
 

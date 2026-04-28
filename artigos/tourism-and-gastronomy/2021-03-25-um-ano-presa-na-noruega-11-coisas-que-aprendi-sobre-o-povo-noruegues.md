@@ -1,11 +1,12 @@
 ---
-title: "Um ano 'presa' na Noruega, 11 coisas que aprendi sobre o povo norueguês"
+title: Um ano 'presa' na Noruega, 11 coisas que aprendi sobre o povo norueguês
 date: 2021-03-25
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Tourism and Gastronomy
+- Tourism and Gastronomy
 ---
+
 
 ## -Blogueira americana conta como foi seu último ano com o vírus chinês vivendo na Noruega.
 

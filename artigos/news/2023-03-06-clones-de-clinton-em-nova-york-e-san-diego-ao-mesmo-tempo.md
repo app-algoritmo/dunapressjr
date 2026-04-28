@@ -1,11 +1,12 @@
 ---
-title: "Clones de Clinton em Nova York e San Diego ao mesmo tempo?"
+title: Clones de Clinton em Nova York e San Diego ao mesmo tempo?
 date: 2023-03-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Reportagem publicada originalmente no site Real Raw News.
 

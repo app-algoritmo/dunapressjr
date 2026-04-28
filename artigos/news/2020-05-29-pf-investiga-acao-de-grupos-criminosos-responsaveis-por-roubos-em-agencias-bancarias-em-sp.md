@@ -1,11 +1,13 @@
 ---
-title: "PF investiga ação de grupos criminosos responsáveis por roubos em agências bancárias em SP"
+title: PF investiga ação de grupos criminosos responsáveis por roubos em agências
+  bancárias em SP
 date: 2020-05-29
 status: publish
 author: Marcos Ferreira
 categories:
-  - News
+- News
 ---
+
 
 São Paulo/SP – A Polícia Federal deflagrou hoje (29/50) a Operação Ataque Furtivo, que tem por objetivo desarticular quadrilhas especializadas em roubos a agências da Caixa Econômica Federal, em São Paulo.
 

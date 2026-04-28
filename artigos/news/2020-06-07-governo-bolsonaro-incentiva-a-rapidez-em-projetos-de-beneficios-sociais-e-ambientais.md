@@ -1,11 +1,12 @@
 ---
-title: "Governo Bolsonaro incentiva a rapidez em projetos de benefícios sociais e ambientais"
+title: Governo Bolsonaro incentiva a rapidez em projetos de benefícios sociais e ambientais
 date: 2020-06-07
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Decreto cria mecanismo que acelera emissão de debêntures verdes com objetivo de implementar infraestruturas de transporte público, saneamento básico e energia renovável
 

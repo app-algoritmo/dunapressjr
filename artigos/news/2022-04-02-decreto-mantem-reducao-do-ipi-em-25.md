@@ -1,11 +1,12 @@
 ---
-title: "Decreto mantém redução do IPI em 25%"
+title: Decreto mantém redução do IPI em 25%
 date: 2022-04-02
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Medida entra em vigor imediatamente.
 

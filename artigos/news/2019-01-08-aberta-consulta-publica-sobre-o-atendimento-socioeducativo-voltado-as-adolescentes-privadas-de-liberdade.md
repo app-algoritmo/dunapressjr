@@ -1,11 +1,13 @@
 ---
-title: "Aberta consulta pública sobre o atendimento socioeducativo voltado às adolescentes privadas de liberdade"
+title: Aberta consulta pública sobre o atendimento socioeducativo voltado às adolescentes
+  privadas de liberdade
 date: 2019-01-08
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - News
+- News
 ---
+
 
 O Mecanismo Nacional de Prevenção e Combate à Tortura (MNPCT) abre consulta pública sobre a **“*Minuta de Resolução que estabelece diretrizes para o atendimento socioeducativo às adolescentes privadas de liberdade no Sistema Nacional de Atendimento Socioeducativo (SINASE)*”**. Constituem o público-alvo, organizações da sociedade civil, gestores da política socioeducativa, conselhos de direitos da criança e do adolescente, órgãos públicos e do sistema de justiça da infância e juventude, e entidades de trabalhadores socioeducativos, além da população em geral.
 

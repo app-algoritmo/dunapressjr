@@ -1,11 +1,12 @@
 ---
-title: "CNI: produção industrial recua, mas intenção de investimento sobe"
+title: 'CNI: produção industrial recua, mas intenção de investimento sobe'
 date: 2020-01-28
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 *Utilização da capacidade instalada atinge maior nível desde 2010*
 

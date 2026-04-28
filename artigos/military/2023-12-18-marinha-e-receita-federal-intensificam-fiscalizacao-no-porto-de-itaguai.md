@@ -1,11 +1,12 @@
 ---
-title: "Marinha e Receita Federal intensificam fiscalização no Porto de Itaguaí"
+title: Marinha e Receita Federal intensificam fiscalização no Porto de Itaguaí
 date: 2023-12-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Military
+- Military
 ---
+
 
 ## Ação faz parte da operação “Lais de Guia”, que age no combate ao crime organizado.
 

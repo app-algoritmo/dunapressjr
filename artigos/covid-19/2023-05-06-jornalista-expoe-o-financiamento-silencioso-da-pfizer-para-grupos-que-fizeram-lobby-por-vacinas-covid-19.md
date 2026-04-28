@@ -1,11 +1,13 @@
 ---
-title: "Jornalista expõe o financiamento silencioso da Pfizer para grupos que fizeram lobby por vacinas COVID-19"
+title: Jornalista expõe o financiamento silencioso da Pfizer para grupos que fizeram
+  lobby por vacinas COVID-19
 date: 2023-05-06
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## Quando as vacinas COVID-19 foram disponibilizadas ao público pela primeira vez, ficou bem claro por que tantos meios de comunicação evitavam relatar algo negativo sobre elas: dólares em publicidade. 
 

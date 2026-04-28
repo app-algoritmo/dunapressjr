@@ -1,11 +1,12 @@
 ---
-title: "Coronavírus: desinformação russa e chinesa se enraíza na Europa"
+title: 'Coronavírus: desinformação russa e chinesa se enraíza na Europa'
 date: 2020-07-21
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - Health
+- Health
 ---
+
 
 As informações errôneas sobre o coronavírus divulgadas pela mídia russa e chinesa fazem mais audiência nas redes sociais na França e na Alemanha do que o conteúdo de certos grandes jornais, segundo um estudo.
 

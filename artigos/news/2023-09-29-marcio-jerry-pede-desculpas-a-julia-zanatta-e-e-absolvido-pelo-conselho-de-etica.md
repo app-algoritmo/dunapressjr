@@ -1,11 +1,13 @@
 ---
-title: "Márcio Jerry pede desculpas a Julia Zanatta e é absolvido pelo Conselho de Ética"
+title: Márcio Jerry pede desculpas a Julia Zanatta e é absolvido pelo Conselho de
+  Ética
 date: 2023-09-29
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Jerry encostou na deputada e falou no seu ouvido, mas inicialmente não se desculpou.
 

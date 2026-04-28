@@ -1,11 +1,13 @@
 ---
-title: "Novo estudo da Dinamarca: a infecção por coronavírus não enfraquece o sistema imunológico"
+title: 'Novo estudo da Dinamarca: a infecção por coronavírus não enfraquece o sistema
+  imunológico'
 date: 2023-10-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 ## O estudo refuta a suposição de que o COVID-19 afeta o sistema imunológico como um todo.
 

@@ -1,11 +1,13 @@
 ---
-title: "Centro de Monitoramento de Redes russas detecta centenas de ataques cibernéticos durante eleições presidenciais"
+title: Centro de Monitoramento de Redes russas detecta centenas de ataques cibernéticos
+  durante eleições presidenciais
 date: 2024-03-20
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Durante as recentes eleições presidenciais na Rússia, o Centro de Monitoramento e Gerenciamento de Redes de Comunicação Pública da agência de vigilância de TI Roskomnadzor identificou e enfrentou quase 500 ataques cibernéticos, exigindo medidas imediatas para proteger a infraestrutura nacional de tecnologia de informação e comunicação (TIC). De acordo com a assessoria de imprensa da agência, os especialistas do Centro conseguiram garantir a proteção de 920 importantes recursos informativos russos, com os ataques principalmente direcionados à Comissão Eleitoral Central e aos sites da plataforma de votação online de Moscou.
 

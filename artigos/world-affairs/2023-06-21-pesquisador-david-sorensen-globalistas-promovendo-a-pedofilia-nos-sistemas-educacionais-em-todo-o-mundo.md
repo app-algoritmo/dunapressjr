@@ -1,11 +1,13 @@
 ---
-title: "Pesquisador David Sorensen: Globalistas promovendo a pedofilia nos sistemas educacionais em todo o mundo"
+title: 'Pesquisador David Sorensen: Globalistas promovendo a pedofilia nos sistemas
+  educacionais em todo o mundo'
 date: 2023-06-21
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 O pesquisador David Sorensen revelou como a *Organização Mundial da Saúde* (OMS) e as Nações Unidas (ONU), bem como seus parceiros globalistas, como a Fundação Bill e Melinda Gates e a Planned Parenthood, assumiram o controle dos sistemas educacionais em todo o mundo [promover a pedofilia](https://www.brighteon.com/8cebfa4b-fc5c-4991-a661-c52a340fdb99).
 

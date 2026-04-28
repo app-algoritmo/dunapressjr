@@ -1,11 +1,12 @@
 ---
-title: "'O colapso da velha ordem'"
+title: '''O colapso da velha ordem'''
 date: 2023-02-18
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - News
+- News
 ---
+
 
 ## Relatório de segurança de Munique: a guerra na Ucrânia faz parte da grande luta de poder contra ou pela ordem mundial dominada pelo Ocidente. O Sul Global está começando a escapar do controle ocidental.
 

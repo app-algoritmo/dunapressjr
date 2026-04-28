@@ -1,11 +1,13 @@
 ---
-title: "Estudo revela que pneumonia adquirida por ventilador matou milhões, não COVID-19, como afirmaram governos de todo o mundo"
+title: Estudo revela que pneumonia adquirida por ventilador matou milhões, não COVID-19,
+  como afirmaram governos de todo o mundo
 date: 2023-05-28
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Covid-19
+- Covid-19
 ---
+
 
 Um novo artigo de pesquisadores da [*Northwestern University*](https://www.northwestern.edu/) em Illinois ofereceu novas evidências de que [a pneumonia adquirida por ventilador](https://www.shtfplan.com/headline-news/covid-was-mild-barely-killed-anyone-ventilator-acquired-pneumonia-killed-millions) , e não o coronavírus Wuhan (COVID-19), matou pacientes, pois o SARS-CoV-2 tem uma “mortalidade relativamente baixa taxa” em comparação com outras doenças respiratórias.
 

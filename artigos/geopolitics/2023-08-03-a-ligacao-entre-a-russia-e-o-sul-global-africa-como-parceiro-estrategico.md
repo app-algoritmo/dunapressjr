@@ -1,11 +1,12 @@
 ---
-title: "A ligação entre a Rússia e o Sul Global: África como parceiro estratégico"
+title: 'A ligação entre a Rússia e o Sul Global: África como parceiro estratégico'
 date: 2023-08-03
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - Geopolitics
+- Geopolitics
 ---
+
 
 ## *Moscou agora parece ter tudo o que precisa para construir uma parceria estratégica frutífera e orientada para a maioria global.*
 

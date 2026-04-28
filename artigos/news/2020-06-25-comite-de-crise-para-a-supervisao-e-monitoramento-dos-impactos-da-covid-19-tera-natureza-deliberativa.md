@@ -1,11 +1,13 @@
 ---
-title: "Comitê de Crise para a Supervisão e Monitoramento dos Impactos da Covid-19 terá natureza deliberativa"
+title: Comitê de Crise para a Supervisão e Monitoramento dos Impactos da Covid-19
+  terá natureza deliberativa
 date: 2020-06-25
 status: publish
-author: Thami
+author: Thami Bernardo da Silva
 categories:
-  - News
+- News
 ---
+
 
 ## Ato do Governo Federal traz prerrogativa expressa do comitê dispor sobre objetivos, estratégias e ações relacionados à pandemia.
 

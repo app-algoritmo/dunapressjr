@@ -1,11 +1,13 @@
 ---
-title: "Wall Street fecha em alta com menor temor de contágio bancário e investidores de olho no Fed"
+title: Wall Street fecha em alta com menor temor de contágio bancário e investidores
+  de olho no Fed
 date: 2023-03-21
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - Global Economy
+- Global Economy
 ---
+
 
 Os índices de [**ações** ](https://www.moneytimes.com.br/tag/acoes/)dos **EUA** terminaram em alta nesta segunda-feira, após um acordo para resgatar o [**Credit Suisse**](https://www.moneytimes.com.br/tag/credit-suisse/) e esforços de [**bancos** ](https://www.moneytimes.com.br/tag/bancos/)centrais para reforçar a confiança no sistema financeiro trazerem alívio aos investidores, enquanto o mercado também pesava a probabilidade de uma pausa na subida das taxas de **juros** pelo [**Federal Reserve**](https://www.moneytimes.com.br/tag/federal-reserve/) esta semana.
 

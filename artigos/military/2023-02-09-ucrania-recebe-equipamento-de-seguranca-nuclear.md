@@ -1,11 +1,12 @@
 ---
-title: "Ucrânia recebe equipamento de segurança nuclear"
+title: Ucrânia recebe equipamento de segurança nuclear
 date: 2023-02-09
 status: publish
-author: debarrospaulo
+author: Paulo Fernando De Barros
 categories:
-  - Military
+- Military
 ---
+
 
 O terrivel confronto na Ucrânia parece ir em uma direção que mudará mais uma vez a história da humanidade, a terceia guerra está instalando-se.
 

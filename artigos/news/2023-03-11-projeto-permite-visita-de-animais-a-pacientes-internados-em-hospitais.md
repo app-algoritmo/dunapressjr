@@ -1,11 +1,12 @@
 ---
-title: "Projeto permite visita de animais a pacientes internados em hospitais"
+title: Projeto permite visita de animais a pacientes internados em hospitais
 date: 2023-03-11
 status: publish
-author: joicemariasc
+author: Joice Ferreira
 categories:
-  - News
+- News
 ---
+
 
 A medida é válida para animais, como cães, gatos e hamsters, e não será permitida na UTI e na quimioterapia, por exemplo.
 

@@ -1,11 +1,12 @@
 ---
-title: "Auxílio Gás será de R$ 110 em agosto, informa Caixa"
+title: Auxílio Gás será de R$ 110 em agosto, informa Caixa
 date: 2022-08-03
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### Benefício será pago entre os dias 9 e 22.
 

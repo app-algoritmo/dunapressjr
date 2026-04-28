@@ -1,11 +1,12 @@
 ---
-title: "Preço da cesta básica paulistana aumenta 1,36%, diz Procon-SP"
+title: Preço da cesta básica paulistana aumenta 1,36%, diz Procon-SP
 date: 2022-06-25
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ### A cesta chegou a R$ 1.226,12, maior que o valor do salário mínimo.
 

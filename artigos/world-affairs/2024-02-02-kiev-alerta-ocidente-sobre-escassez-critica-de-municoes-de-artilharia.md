@@ -1,11 +1,12 @@
 ---
-title: "Kiev alerta Ocidente sobre escassez crítica de munições de artilharia"
+title: Kiev alerta Ocidente sobre escassez crítica de munições de artilharia
 date: 2024-02-02
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 ## O ministro da Defesa ucraniano, Rustem Umerov, pediu aos aliados da UE que fizessem um esforço maior para cumprir a promessa feita ao país Ucrânia com 1 milhão de bombas.
 

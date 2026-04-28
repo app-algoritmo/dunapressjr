@@ -1,11 +1,12 @@
 ---
-title: "Contas externas têm terceiro mês seguido de saldo positivo"
+title: Contas externas têm terceiro mês seguido de saldo positivo
 date: 2020-06-24
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 ## Superávit em transações correntes chegou a US$ 1,326 bilhão.
 

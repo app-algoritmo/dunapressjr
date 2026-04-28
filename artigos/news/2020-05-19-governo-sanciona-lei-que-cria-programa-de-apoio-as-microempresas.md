@@ -1,11 +1,12 @@
 ---
-title: "Governo sanciona lei que cria programa de apoio às microempresas"
+title: Governo sanciona lei que cria programa de apoio às microempresas
 date: 2020-05-19
 status: publish
-author: joabsonjoao
+author: Joabson Joao
 categories:
-  - News
+- News
 ---
+
 
 Medida abre crédito especial no valor de R$ 15,9 bilhões.
 

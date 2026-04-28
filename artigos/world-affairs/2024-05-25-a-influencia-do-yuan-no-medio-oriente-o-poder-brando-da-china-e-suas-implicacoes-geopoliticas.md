@@ -1,11 +1,13 @@
 ---
-title: "A Influência do Yuan no Médio Oriente: O Poder Brando da China e Suas Implicações Geopolíticas"
+title: 'A Influência do Yuan no Médio Oriente: O Poder Brando da China e Suas Implicações
+  Geopolíticas'
 date: 2024-05-25
 status: publish
-author: edicleiaalveslima
+author: Edicliea Alves Lima
 categories:
-  - World Affairs
+- World Affairs
 ---
+
 
 Ao observarmos a dinâmica geopolítica no Médio Oriente, a crescente influência da China através do poder brando representado pelo Yuan é inegável. A estratégia chinesa de financiar a construção de infraestruturas, concedendo empréstimos aos Estados que contratam empresas chinesas para executar as obras, cria um dilema interessante para os países anfitriões. Por um lado, os chineses formam trabalhadores locais, oferecem cursos de formação avançada e geram empregos, contribuindo para o desenvolvimento regional.
 
