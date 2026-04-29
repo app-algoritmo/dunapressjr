@@ -719,7 +719,10 @@ async function publishArticle() {
     if (!token) { showToast('Token GitHub não configurado. Contacte o administrador.', 'error'); return; }
 
     const filepath = `artigos/${cat}/${date}-${slug}.md`;
-    const frontmatter = `---\ntitle: "${title.replace(/"/g,"'")}"\ndate: ${date}\nstatus: ${articleStatus}\nauthor: ${author}\ncategories:\n  - ${cat}\n---\n\n${content}`;
+    const tags = getTagsForFrontmatter();
+    const tagsFm = tags.length > 0 ? `\ntags:\n${tags.map(t=>'  - '+t).join('\n')}` : '';
+    const tagsMeta = tags.length > 0 ? `\nkeywords: "${tags.join(', ')}"` : '';
+    const frontmatter = `---\ntitle: "${title.replace(/"/g,"'")}"\ndate: ${date}\nstatus: ${articleStatus}\nauthor: ${author}\ncategories:\n  - ${cat}${tagsFm}${tagsMeta}\n---\n\n${content}`;
     const encoded = btoa(unescape(encodeURIComponent(frontmatter)));
 
     document.getElementById('publishBtn').disabled = true;
@@ -751,6 +754,7 @@ async function publishArticle() {
         document.getElementById('artDate').value = new Date().toISOString().split('T')[0];
         document.getElementById('imgUploadStatus').style.display = 'none';
         updateSlugPreview();
+        resetTags();
     } catch(e) {
         showToast(`❌ Erro: ${e.message}`, 'error');
     } finally {
@@ -769,6 +773,7 @@ function saveAsDraft() {
         cat:     document.getElementById('artCategory').value,
         author:  document.getElementById('artAuthor').value,
         slug:    document.getElementById('artSlug').value,
+        tags:    getTagsForFrontmatter(),
         savedAt: new Date().toISOString()
     }));
     showToast('📝 Rascunho salvo localmente', 'info');
