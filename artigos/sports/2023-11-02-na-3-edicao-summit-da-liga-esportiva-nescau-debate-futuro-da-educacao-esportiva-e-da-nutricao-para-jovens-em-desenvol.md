@@ -1,13 +1,11 @@
 ---
-title: Na 3ª edição, Summit da Liga Esportiva NESCAU® debate futuro da educação esportiva
-  e da nutrição para jovens em desenvol
+title: "Na 3ª edição, Summit da Liga Esportiva NESCAU® debate futuro da educação esportiva e da nutrição para jovens em desenvol"
 date: 2023-11-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Em modelo híbrido, o evento foi realizado nesta terça-feira (31) e reuniu grandes nomes do setor e esportistas de renome, para discutir temas de relevância a profissionais da educação física.
 

@@ -1,12 +1,11 @@
 ---
-title: Êta trem bão! Arraiá do Pátio Alcântara promete agitar o fim de semana
+title: "Êta trem bão! Arraiá do Pátio Alcântara promete agitar o fim de semana"
 date: 2023-07-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Evento gratuito acontece na Varanda do empreendimento, das 15h às 21h.
 

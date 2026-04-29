@@ -1,13 +1,12 @@
 ---
-title: América Andina é tema de exposição fotográfica de Daniel Castellano
+title: "América Andina é tema de exposição fotográfica de Daniel Castellano"
 date: 2023-10-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Events
+  - Architecture and Art
+  - Events
 ---
-
 
 ## Mostra gratuita de um dos principais nomes da fotografia brasileira ocorre no NH Curitiba The Five e reúne dezenas de imagens inéditas.
 

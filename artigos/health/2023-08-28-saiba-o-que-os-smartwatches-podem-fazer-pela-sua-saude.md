@@ -1,13 +1,12 @@
 ---
-title: Saiba o que os smartwatches podem fazer pela sua saúde
+title: "Saiba o que os smartwatches podem fazer pela sua saúde"
 date: 2023-08-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- Technology
+  - Health
+  - Technology
 ---
-
 
 ## A tecnologia está revolucionando a forma como cuidamos da saúde, e os *smartwatches *parecem liderar essa transformação.
 

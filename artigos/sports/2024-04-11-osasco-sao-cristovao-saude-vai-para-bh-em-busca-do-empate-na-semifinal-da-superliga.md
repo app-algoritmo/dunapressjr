@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde vai para BH em busca do empate na semifinal da Superliga
+title: "Osasco São Cristóvão Saúde vai para BH em busca do empate na semifinal da Superliga"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Após revés na abertura do playoff, equipe de Camila Brait, Butler, Tifanny, Giovana, Lorenne e cia. foca na partida de sexta-feira (12), na casa do adversário.
 

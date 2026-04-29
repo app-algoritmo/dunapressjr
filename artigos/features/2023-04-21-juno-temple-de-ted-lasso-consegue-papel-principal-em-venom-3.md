@@ -1,13 +1,12 @@
 ---
-title: Juno Temple, de Ted Lasso, consegue papel principal em 'Venom 3'
+title: "Juno Temple, de Ted Lasso, consegue papel principal em 'Venom 3'"
 date: 2023-04-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Juno Temple (‘Ted Lasso’) entrou para o elenco da sequência ‘Venom 3‘, que está sendo desenvolvida pela Sony Pictures.
 

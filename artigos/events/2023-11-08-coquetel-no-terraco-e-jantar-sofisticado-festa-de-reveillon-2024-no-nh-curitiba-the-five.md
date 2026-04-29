@@ -1,13 +1,11 @@
 ---
-title: 'Coquetel no terraço e jantar sofisticado: Festa de Réveillon 2024 no NH Curitiba
-  The Five'
+title: "Coquetel no terraço e jantar sofisticado: Festa de Réveillon 2024 no NH Curitiba The Five"
 date: 2023-11-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Hotel de Curitiba oferece celebração elegante em ambientes variados, incluindo coquetel ao ar livre no terraço, festa indoor com open bar, música ao vivo e gastronomia de alta qualidade.
 

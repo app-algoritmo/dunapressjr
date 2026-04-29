@@ -1,12 +1,11 @@
 ---
-title: National Geographic exibe especial em homenagem a Lady Diana
+title: "National Geographic exibe especial em homenagem a Lady Diana"
 date: 2020-08-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 # A Princesa Di, como também é conhecida, foi uma das mulheres mais influentes de sua época.
 

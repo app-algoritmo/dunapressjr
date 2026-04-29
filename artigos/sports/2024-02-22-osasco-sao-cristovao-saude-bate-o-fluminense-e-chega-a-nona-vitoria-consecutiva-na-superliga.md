@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde bate o Fluminense e chega a nona vitória consecutiva
-  na Superliga
+title: "Osasco São Cristóvão Saúde bate o Fluminense e chega a nona vitória consecutiva na Superliga"
 date: 2024-02-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe do técnico Luizomar ganhou por 3 sets a 1 em partida disputada nesta quarta-feira (21), no Rio de Janeiro, local que será palco da próxima rodada para as osasquense, que fazem o clássico dos líderes contra o Flamengo.
 

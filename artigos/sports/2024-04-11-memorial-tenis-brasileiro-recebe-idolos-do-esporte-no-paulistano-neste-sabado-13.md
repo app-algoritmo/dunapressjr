@@ -1,14 +1,12 @@
 ---
-title: Memorial Tênis Brasileiro recebe ídolos do esporte no Paulistano, neste sábado
-  (13)
+title: "Memorial Tênis Brasileiro recebe ídolos do esporte no Paulistano, neste sábado (13)"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Nomes como Thomaz Koch, Carlos Kirmayr, Luiz Mattar, Patrícia Medrado, entre outros, receberão os jornalistas em um encontro marcado para as 11h. Programação começa às 9h30, no clube que é um dos pioneiros na história do tênis nacional.
 

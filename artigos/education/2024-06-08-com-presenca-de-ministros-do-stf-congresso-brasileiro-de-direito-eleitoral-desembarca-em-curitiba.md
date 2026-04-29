@@ -1,13 +1,11 @@
 ---
-title: Com presença de ministros do STF, Congresso Brasileiro de Direito Eleitoral
-  desembarca em Curitiba
+title: "Com presença de ministros do STF, Congresso Brasileiro de Direito Eleitoral desembarca em Curitiba"
 date: 2024-06-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Evento realizado na Universidade Positivo terá palestrantes como Luís Roberto Barroso e Flávio Dino.
 

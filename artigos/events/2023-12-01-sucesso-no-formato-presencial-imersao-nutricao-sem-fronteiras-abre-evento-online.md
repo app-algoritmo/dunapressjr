@@ -1,14 +1,12 @@
 ---
-title: Sucesso no formato presencial, Imersão Nutrição Sem Fronteiras abre evento
-  online
+title: "Sucesso no formato presencial, Imersão Nutrição Sem Fronteiras abre evento online"
 date: 2023-12-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Health
+  - Events
+  - Health
 ---
-
 
 ## Após etapa do Rio de Janeiro, que será neste sábado (2), esgotar as inscrições em dez dias, Escola de Negócios cria mais 500 vagas digitais.
 

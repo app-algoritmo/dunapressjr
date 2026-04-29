@@ -1,13 +1,12 @@
 ---
-title: Exposição de arte sustentável no Sesc Londrina Cadeião
+title: "Exposição de arte sustentável no Sesc Londrina Cadeião"
 date: 2024-04-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Events
+  - Architecture and Art
+  - Events
 ---
-
 
 ## Peças criadas com resíduos da construção civil em destaque em mostra gratuita.
 

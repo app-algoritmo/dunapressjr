@@ -1,12 +1,11 @@
 ---
-title: 'Coração em perigo: uma a cada cinco brasileiras tem risco de sofrer um infarto'
+title: "Coração em perigo: uma a cada cinco brasileiras tem risco de sofrer um infarto"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Enquanto cresce em 157% número de mulheres internadas por infartos, hospitais unem esforços para que pacientes se recuperem sem sequelas.
 

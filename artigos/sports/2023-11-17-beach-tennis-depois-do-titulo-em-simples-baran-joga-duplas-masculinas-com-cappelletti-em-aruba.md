@@ -1,13 +1,11 @@
 ---
-title: 'Beach Tennis: depois do título em simples, Baran joga duplas masculinas com
-  Cappelletti, em Aruba'
+title: "Beach Tennis: depois do título em simples, Baran joga duplas masculinas com Cappelletti, em Aruba"
 date: 2023-11-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A partir desta sexta-feira (17) e até domingo (19), o catarinense - número 1 do Brasil - e o italiano disputam o BT 400, válido pelo calendário da Federação Internacional de Tênis (ITF).
 

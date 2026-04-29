@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani é superada na semifinal do WTA 1000 de Pequim
+title: "Luisa Stefani é superada na semifinal do WTA 1000 de Pequim"
 date: 2023-10-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Ao lado da carioca Ingrid Martins, dupla brasileira caiu diante de tcheca e espanhola. Agora, as duas jogam juntas em Zhengzhou, também na China.
 

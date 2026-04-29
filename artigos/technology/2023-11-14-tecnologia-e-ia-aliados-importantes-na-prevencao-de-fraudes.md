@@ -1,12 +1,11 @@
 ---
-title: 'Tecnologia e IA: aliados importantes na prevenção de fraudes'
+title: "Tecnologia e IA: aliados importantes na prevenção de fraudes"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Em um mundo cada vez mais digital, a prevenção de fraudes tornou-se uma prioridade crucial para empresas, governos e instituições financeiras. A evolução tecnológica oferece tanto oportunidades quanto desafios no combate a fraudes, tornando essencial a adoção de soluções inovadoras. À medida que os fraudadores se tornam mais sofisticados, a necessidade de ferramentas avançadas de prevenção se tornam mais urgentes.
 

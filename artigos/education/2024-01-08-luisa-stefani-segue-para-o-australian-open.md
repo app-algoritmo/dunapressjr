@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue para o Australian Open
+title: "Luisa Stefani segue para o Australian Open"
 date: 2024-01-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Tennis
+  - Education
+  - Tennis
 ---
-
 
 ## Paulistana optou por não disputar o WTA 500 de Adelaide, na Austrália, que começa nesta segunda-feira (8), e segue direto para Melbourne.
 

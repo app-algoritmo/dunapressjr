@@ -1,12 +1,11 @@
 ---
-title: Pier Mauá apoia o projeto Circuito Rio de Cores
+title: "Pier Mauá apoia o projeto Circuito Rio de Cores"
 date: 2023-05-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 Principal porta de entrada do turismo marítimo na cidade do Rio de Janeiro, o Pier Mauá é uma das organizações que apoia o projeto Circuito Rio de Cores, que está no seu terceiro ano consecutivo. A campanha conta com diversos estabelecimentos do trade turístico que reforçam ações de respeito à diversidade e inclusão durante todo o mês de junho.
 

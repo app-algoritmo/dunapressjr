@@ -1,13 +1,12 @@
 ---
-title: O Natal e a esperança
+title: "O Natal e a esperança"
 date: 2022-12-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Opinion
+  - News
+  - Opinion
 ---
-
 
 ## O Natal é um momento de celebração e também de reflexão do que é a vida.
 

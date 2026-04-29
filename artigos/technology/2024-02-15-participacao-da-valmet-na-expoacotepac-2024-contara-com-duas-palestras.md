@@ -1,12 +1,11 @@
 ---
-title: Participação da Valmet na ExpoAcotepac 2024 contará com duas palestras
+title: "Participação da Valmet na ExpoAcotepac 2024 contará com duas palestras"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Multinacional finlandesa destaca-se pela oferta de Tissue Converting, serviço de tecnologia integrada e automação na cadeia de valor de tissue, ampliando sua presença no mercado.
 

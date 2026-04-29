@@ -1,13 +1,12 @@
 ---
-title: Todo mundo quer ser chef, mas ninguém quer ser cozinheiro
+title: "Todo mundo quer ser chef, mas ninguém quer ser cozinheiro"
 date: 2022-12-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- Opinion
+  - Features
+  - Opinion
 ---
-
 
 ## Precisamos investir na educação da gastronomia, e não na formação de “pseudo chefs”.
 

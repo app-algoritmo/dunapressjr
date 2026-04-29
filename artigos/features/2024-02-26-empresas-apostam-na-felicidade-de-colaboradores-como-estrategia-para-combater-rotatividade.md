@@ -1,13 +1,11 @@
 ---
-title: Empresas apostam na felicidade de colaboradores como estratégia para combater
-  rotatividade
+title: "Empresas apostam na felicidade de colaboradores como estratégia para combater rotatividade"
 date: 2024-02-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Terapia, meditação e consulta com nutricionista fazem parte de iniciativas de startup que tem taxa de rotatividade abaixo de 8%.
 

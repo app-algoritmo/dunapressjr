@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear reúne a família e os amigos em Belém no Dia dos Pais
+title: "Festival Vamos Passear reúne a família e os amigos em Belém no Dia dos Pais"
 date: 2023-08-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Oportunidade de comemorar a data ao ar livre, no segundo domingo de agosto, com muita diversão, bem-estar e atividades para todas as idades. As inscrições estão abertas.
 

@@ -1,12 +1,11 @@
 ---
-title: Alinhadores são uma opção para quem quer fazer um novo tratamento ortodôntico?
+title: "Alinhadores são uma opção para quem quer fazer um novo tratamento ortodôntico?"
 date: 2024-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Entenda se é possível realizar um segundo tratamento com alinhadores, mesmo após já ter passado por outro procedimento antes.
 

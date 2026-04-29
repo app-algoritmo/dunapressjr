@@ -1,12 +1,11 @@
 ---
-title: Coleção de Inverno da Toalheria oferece produtos para montar uma mesa com estilo
+title: "Coleção de Inverno da Toalheria oferece produtos para montar uma mesa com estilo"
 date: 2023-07-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
+  - Architecture and Art
 ---
-
 
 ## A Toalheria, atelier home design, acaba de lançar sua coleção de Inverno.
 

@@ -1,13 +1,11 @@
 ---
-title: Valmet apresenta ampla oferta de soluções de automação em principais eventos
-  do setor
+title: "Valmet apresenta ampla oferta de soluções de automação em principais eventos do setor"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Multinacional finlandesa será destaque no 11.º Seminário e Automação da ABTCP e no 6.º Workshop de Embalagens de Papel.
 

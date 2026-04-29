@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a seis estados até o final de abril e beneficia
-  21 mil alunos
+title: "Projeto Formações IEE chega a seis estados até o final de abril e beneficia 21 mil alunos"
 date: 2024-03-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional, um total de 300 professores, gestores, coordenadores e diretores de seis cidades participará do módulo 1.
 

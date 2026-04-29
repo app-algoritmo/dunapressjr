@@ -1,14 +1,12 @@
 ---
-title: 'Beach Tennis: André Baran viaja nesta terça-feira (24) para o Pan-Americano,
-  no Chile'
+title: "Beach Tennis: André Baran viaja nesta terça-feira (24) para o Pan-Americano, no Chile"
 date: 2023-10-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pan American Games
-- Sports
+  - Pan American Games
+  - Sports
 ---
-
 
 ## Número 1 do País, o catarinense integra o Time Brasil e formará dupla com o paulista Allan Oliveira. As disputas começam nesta quinta-feira (26) e seguem até domingo (29), na cidade de Iquique.
 

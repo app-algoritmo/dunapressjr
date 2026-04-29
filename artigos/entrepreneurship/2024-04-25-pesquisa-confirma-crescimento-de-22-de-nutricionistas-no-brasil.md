@@ -1,13 +1,12 @@
 ---
-title: Pesquisa confirma crescimento de 22% de nutricionistas no Brasil
+title: "Pesquisa confirma crescimento de 22% de nutricionistas no Brasil"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
-- Health
+  - Entrepreneurship
+  - Health
 ---
-
 
 ## Apesar do potencial de mercado para cerca de 200 mil profissionais, remuneração ainda é uma barreira a ser ultrapassada. Escola de negócios ensina como empreendedorismo é a chave para o sucesso.
 

@@ -1,12 +1,11 @@
 ---
-title: Startup Business 2023
+title: "Startup Business 2023"
 date: 2023-11-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Evento da Assespro-RJ com foco na conexão das startups com o mercado, será realizado primeira vez em Niterói e visa também maximizar o potencial do ecossistema de inovação Leste Fluminense.
 

@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani vence de virada na estreia no WTA 500 de Abu Dhabi ao lado de
-  Beatriz Haddad Maia
+title: "Luisa Stefani vence de virada na estreia no WTA 500 de Abu Dhabi ao lado de Beatriz Haddad Maia"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Brasileiras derrotaram a cazaque Anna Danilina e a ucraniana Nadiia Kichenok no primeiro jogo delas juntas em um WTA.
 

@@ -1,15 +1,13 @@
 ---
-title: 'De Libras à logística: cursos gratuitos são oportunidade de capacitação com
-  certificado'
+title: "De Libras à logística: cursos gratuitos são oportunidade de capacitação com certificado"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Courses and Careers
-- Education
-- Personal Development
+  - Courses and Careers
+  - Education
+  - Personal Development
 ---
-
 
 ## CIEE/PR oferece 22 opções presenciais em Curitiba para pessoas a partir de 14 anos; formação em Libras é destaque.
 

@@ -1,15 +1,13 @@
 ---
-title: Shimano Fest vai compartilhar conhecimento com mercado e público em geral no
-  Auditório Diversidade
+title: "Shimano Fest vai compartilhar conhecimento com mercado e público em geral no Auditório Diversidade"
 date: 2023-08-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Events
-- Sports
+  - Cycling
+  - Events
+  - Sports
 ---
-
 
 ## Profissionais do setor e público em geral terão a oportunidade de acompanhar palestras, painéis e workshops gratuitos durante os quatro dias do maior festival da bicicleta da América Latina, a partir da próxima quinta-feira (17), em São Paulo.
 

@@ -1,12 +1,11 @@
 ---
-title: Warner Channel exibe 25 pilotos de suas séries históricas
+title: "Warner Channel exibe 25 pilotos de suas séries históricas"
 date: 2020-09-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 **Programação especial acontece no dia 26 de setembro e terá o primeiro episódio de produções que marcaram a história do canal.**
 

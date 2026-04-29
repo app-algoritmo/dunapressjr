@@ -1,13 +1,12 @@
 ---
-title: Os heróis e sua capacidade de nos inspirar e fortalecer
+title: "Os heróis e sua capacidade de nos inspirar e fortalecer"
 date: 2022-12-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Os heróis ajudam crianças – e também adultos – a elaborar conflitos e a enfrentar os desafios do dia a dia.
 

@@ -1,13 +1,12 @@
 ---
-title: Pátio Alcântara promove campanha de vacinação
+title: "Pátio Alcântara promove campanha de vacinação"
 date: 2023-05-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Covid-19
-- Health
+  - Covid-19
+  - Health
 ---
-
 
 ## Ação acontece na quarta-feira, dia 24, das 9h às 17h.
 

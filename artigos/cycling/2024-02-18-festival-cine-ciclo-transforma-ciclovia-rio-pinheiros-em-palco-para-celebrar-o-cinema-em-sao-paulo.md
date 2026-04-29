@@ -1,15 +1,13 @@
 ---
-title: Festival CINE CICLO transforma Ciclovia Rio Pinheiros em palco para celebrar
-  o cinema em São Paulo
+title: "Festival CINE CICLO transforma Ciclovia Rio Pinheiros em palco para celebrar o cinema em São Paulo"
 date: 2024-02-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Events
-- Sports
+  - Cycling
+  - Events
+  - Sports
 ---
-
 
 ## Projeto levará exibições gratuitas neste sábado (17) e domingo (18), com mais de 30 filmes nacionais e internacionais sobre a temática do ciclismo. O evento é gratuito, com curadoria do Rocky Spirit.
 

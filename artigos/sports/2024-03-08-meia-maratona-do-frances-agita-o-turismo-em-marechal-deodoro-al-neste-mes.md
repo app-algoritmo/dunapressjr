@@ -1,12 +1,11 @@
 ---
-title: Meia Maratona do Francês agita o turismo em Marechal Deodoro (AL), neste mês
+title: "Meia Maratona do Francês agita o turismo em Marechal Deodoro (AL), neste mês"
 date: 2024-03-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## No próximo dia 23, a belíssima Praia do Francês receberá participantes de diferentes regiões do País para corridas de 21 km, 10 km e 5 km, além de caminhada de 5 km. Um evento que vai além do esporte, com atividades e parcerias voltadas para o turismo, a música e a gastronomia.
 

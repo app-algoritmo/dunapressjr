@@ -1,14 +1,12 @@
 ---
-title: Domingo (27) é dia de Netshoes Run, na Marginal Pinheiros, com corridas para
-  adultos e crianças
+title: "Domingo (27) é dia de Netshoes Run, na Marginal Pinheiros, com corridas para adultos e crianças"
 date: 2023-08-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Largadas serão a partir das 7h, em frente ao Parque do Povo, em São Paulo (SP), mesmo local das chegadas. E a criançada terá a companhia das Tartarugas Ninja, garantindo momentos de muita diversão.
 

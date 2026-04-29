@@ -1,12 +1,11 @@
 ---
-title: 'Eventos no Caxias Shopping: Feira Pet e Agroecológica no mesmo fim de semana'
+title: "Eventos no Caxias Shopping: Feira Pet e Agroecológica no mesmo fim de semana"
 date: 2023-07-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pets
+  - Pets
 ---
-
 
 ## Encontre seu novo companheiro e aproveite os alimentos saudáveis na mesma ocasião.
 

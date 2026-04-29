@@ -1,12 +1,11 @@
 ---
-title: 'Filme de Gentili: Como funciona a classificação indicativa no Brasil?'
+title: "Filme de Gentili: Como funciona a classificação indicativa no Brasil?"
 date: 2022-03-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 **As classificações etárias são indicadas para toda e qualquer produção audiovisual, tais como: Filmes, séries, jogos e atrações televisivas em geral.**
 

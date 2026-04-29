@@ -1,12 +1,11 @@
 ---
-title: Por que a biossegurança pode salvar vidas
+title: "Por que a biossegurança pode salvar vidas"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Surto de meningite fúngica após cirurgias plásticas causou 12 mortes no México.
 

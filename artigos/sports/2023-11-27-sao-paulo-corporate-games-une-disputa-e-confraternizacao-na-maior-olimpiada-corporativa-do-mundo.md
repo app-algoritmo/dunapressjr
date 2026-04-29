@@ -1,13 +1,11 @@
 ---
-title: São Paulo Corporate Games une disputa e confraternização na maior olimpíada
-  corporativa do mundo
+title: "São Paulo Corporate Games une disputa e confraternização na maior olimpíada corporativa do mundo"
 date: 2023-11-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Foram 1.050 atletas de 23 empresas, na primeira edição encerrada neste domingo (26), na capital paulista, em quatro dias de muito engajamento e interação entre os participantes, em combinação de esportes, bem-estar e networking.
 

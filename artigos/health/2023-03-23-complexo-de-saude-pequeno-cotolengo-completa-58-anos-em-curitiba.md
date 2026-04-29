@@ -1,13 +1,12 @@
 ---
-title: Complexo de Saúde Pequeno Cotolengo completa 58 anos em Curitiba
+title: "Complexo de Saúde Pequeno Cotolengo completa 58 anos em Curitiba"
 date: 2023-03-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- News
+  - Health
+  - News
 ---
-
 
 Organização atende, atualmente, mais de 230 pessoas com múltiplas deficiências, de várias partes do estado, com acolhimento, saúde e educação
 

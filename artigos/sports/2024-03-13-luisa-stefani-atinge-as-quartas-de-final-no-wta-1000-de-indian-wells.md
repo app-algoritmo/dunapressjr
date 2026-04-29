@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani atinge as quartas de final no WTA 1000 de Indian Wells
+title: "Luisa Stefani atinge as quartas de final no WTA 1000 de Indian Wells"
 date: 2024-03-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e a holandesa Demi Schuurs voltam a jogar na quarta-feira (13) contra principais favoritas.
 

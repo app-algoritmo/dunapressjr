@@ -1,12 +1,11 @@
 ---
-title: 'Arquitetura adaptativa: construções verdes residenciais crescem 40%'
+title: "Arquitetura adaptativa: construções verdes residenciais crescem 40%"
 date: 2024-04-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Dentre as tendências para um futuro mais sustentável, a construção civil explora soluções inovadoras visando um mundo mais eficiente e harmonioso. Essas ações tornaram-se diferencial competitivo no segmento.
 

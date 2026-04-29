@@ -1,12 +1,11 @@
 ---
-title: A importância dos árabes para o estudo do Universo
+title: "A importância dos árabes para o estudo do Universo"
 date: 2022-12-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- History
+  - History
 ---
-
 
 ## A contribuição árabe para o desenvolvimento da Astronomia.
 

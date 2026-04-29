@@ -1,12 +1,11 @@
 ---
-title: 5 plantas que afastam o mosquito da dengue
+title: "5 plantas que afastam o mosquito da dengue"
 date: 2024-03-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Com um aumento de mais de 445% nos casos da doença em comparação ao mesmo período do ano passado, a adoção de métodos naturais de prevenção torna-se essencial.
 

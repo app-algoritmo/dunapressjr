@@ -1,13 +1,11 @@
 ---
-title: 'Dor no bolso: conheça as principais despesas para empresas com frota própria
-  de veículos'
+title: "Dor no bolso: conheça as principais despesas para empresas com frota própria de veículos"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Com 20% das companhias privadas optando por frotas terceirizadas, setor vê crescimento. No começo do ano, mais de 1,5 milhão de automóveis foram locados; 52% deles para terceirização de frota, segundo a ABLA.
 

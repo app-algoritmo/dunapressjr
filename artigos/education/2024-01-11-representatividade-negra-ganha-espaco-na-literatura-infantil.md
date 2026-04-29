@@ -1,12 +1,11 @@
 ---
-title: Representatividade negra ganha espaço na literatura infantil
+title: "Representatividade negra ganha espaço na literatura infantil"
 date: 2024-01-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## A literatura infantil possui o poder de transformar as páginas em portais que permitem às crianças explorar mundos imaginários e absorver lições valiosas, construindo sonhos e inspirando realidades para as mentes jovens. 
 

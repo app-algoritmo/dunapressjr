@@ -1,12 +1,11 @@
 ---
-title: 'Suplementos: algumas dicas podem ajudar a conquistar o efeito esperado'
+title: "Suplementos: algumas dicas podem ajudar a conquistar o efeito esperado"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Homens representam 60% do mercado consumidor desses produtos; indústrias observam crescimento de mais de 70% na produção.
 

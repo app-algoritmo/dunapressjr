@@ -1,13 +1,12 @@
 ---
-title: Globo decide não renovar contrato e deixará de transmitir Fórmula 1 em 2021
+title: "Globo decide não renovar contrato e deixará de transmitir Fórmula 1 em 2021"
 date: 2020-08-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Sports
+  - News
+  - Sports
 ---
-
 
 # A Fórmula 1 vai deixar de ser exibida pela Globo em 2021. A emissora decidiu não renovar o contrato que acaba ao fim da temporada deste ano
 

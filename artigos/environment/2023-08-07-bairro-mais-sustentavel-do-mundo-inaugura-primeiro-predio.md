@@ -1,12 +1,11 @@
 ---
-title: Bairro mais sustentável do mundo inaugura primeiro prédio
+title: "Bairro mais sustentável do mundo inaugura primeiro prédio"
 date: 2023-08-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
+  - Environment
 ---
-
 
 ## Com certificações internacionais que reconhecem engenharia e construções que impactam a qualidade de vida da sociedade, a cidade de Maringá (PR) ganha empreendimento estratégico com iniciativas precisas e concretas de sustentabilidade.
 

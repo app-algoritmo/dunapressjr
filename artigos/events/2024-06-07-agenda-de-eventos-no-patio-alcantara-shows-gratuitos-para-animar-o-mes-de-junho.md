@@ -1,13 +1,11 @@
 ---
-title: 'Agenda de eventos no Pátio Alcântara: shows gratuitos para animar o mês de
-  junho'
+title: "Agenda de eventos no Pátio Alcântara: shows gratuitos para animar o mês de junho"
 date: 2024-06-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## O Pátio Alcântara preparou uma programação especial para todo o mês de junho.
 

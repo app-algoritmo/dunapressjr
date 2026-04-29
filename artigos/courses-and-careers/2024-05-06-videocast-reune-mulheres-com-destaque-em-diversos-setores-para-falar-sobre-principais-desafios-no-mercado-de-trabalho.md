@@ -1,14 +1,12 @@
 ---
-title: Videocast reúne mulheres com destaque em diversos setores para falar sobre
-  principais desafios no mercado de trabalho
+title: "Videocast reúne mulheres com destaque em diversos setores para falar sobre principais desafios no mercado de trabalho"
 date: 2024-05-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Courses and Careers
-- Personal Development
+  - Courses and Careers
+  - Personal Development
 ---
-
 
 ## Em bate-papo descontraído com mulheres plurais, "É com ELAS" , estreia dia 7, e traz em debate equidade de gênero, barreiras para o crescimento, estereótipos e mostra trajetórias de sucesso.
 

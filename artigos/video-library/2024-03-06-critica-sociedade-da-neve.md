@@ -1,12 +1,11 @@
 ---
-title: 'Crítica: Sociedade da Neve'
+title: "Crítica: Sociedade da Neve"
 date: 2024-03-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 A película "Sociedade da Neve" retrata os eventos impactantes do acidente aéreo ocorrido em 1972, envolvendo o voo 571 da Força Aérea Uruguaia, que transportava um time de rugby para o Chile. Dos 45 passageiros a bordo, apenas 29 sobreviveram ao desDescubra a emocionante história por trás do acidente do voo 571 da Força Aérea Uruguaia em "Sociedade da Neve". Dirigido por J.A. Bayona e indicado ao Oscar 2024 de Melhor Filme Internacional, este filme mergulha na vida dos passageiros antes da tragédia, destacando sua determinação e coesão diante das adversidades. Uma jornada emocional poderosa que explora os limites da sobrevivência e da solidariedade em meio às condições climáticas brutais e à escassez de alimentos.astre nos Andes. J.A. Bayona, conhecido por dirigir "Jurassic World: Reino Ameaçado", assume a direção desta obra baseada em fatos reais, selecionada pela Espanha para a corrida ao Oscar 2024 na categoria de Melhor Filme Internacional.
 

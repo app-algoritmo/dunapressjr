@@ -1,12 +1,11 @@
 ---
-title: 32ª Dez Milhas Garoto terá show de Léo Santana no encerramento da corrida
+title: "32ª Dez Milhas Garoto terá show de Léo Santana no encerramento da corrida"
 date: 2023-09-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Participantes da corrida terão acesso liberado ao evento e a Garoto irá disponibilizar 2.500 ingressos gratuitos para a população interessada se cadastrar através da plataforma Sympla a partir desta terça-feira (19).
 

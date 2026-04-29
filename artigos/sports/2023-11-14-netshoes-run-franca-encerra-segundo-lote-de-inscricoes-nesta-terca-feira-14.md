@@ -1,12 +1,11 @@
 ---
-title: Netshoes Run Franca encerra segundo lote de inscrições nesta terça-feira (14)
+title: "Netshoes Run Franca encerra segundo lote de inscrições nesta terça-feira (14)"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento, na cidade do interior paulista, será no dia 3 de dezembro. A partir desta quarta-feira (15), passam a valer os valores do Lote 3. Quem quiser participar, tem até o dia 27 deste mês para se inscrever.
 

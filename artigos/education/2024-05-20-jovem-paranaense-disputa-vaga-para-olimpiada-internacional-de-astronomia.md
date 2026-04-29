@@ -1,12 +1,11 @@
 ---
-title: Jovem paranaense disputa vaga para Olimpíada Internacional de Astronomia
+title: "Jovem paranaense disputa vaga para Olimpíada Internacional de Astronomia"
 date: 2024-05-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Enzo Lebelem Gevard, de apenas 17 anos, é único representante do Paraná na última fase nacional da competição.
 

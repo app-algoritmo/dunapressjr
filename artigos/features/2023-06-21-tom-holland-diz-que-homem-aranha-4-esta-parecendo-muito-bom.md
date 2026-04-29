@@ -1,12 +1,11 @@
 ---
-title: Tom Holland diz que 'Homem-Aranha 4' está 'parecendo muito bom'
+title: "Tom Holland diz que 'Homem-Aranha 4' está 'parecendo muito bom'"
 date: 2023-06-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Tom Holland fala sobre o potencial de Homem-Aranha 4 e revela que está “animado” com o futuro do super-herói da Marvel.
 

@@ -1,14 +1,12 @@
 ---
-title: Doação de bicicletas infantis BTWN, organizada pela Shimano, alegra crianças
-  em Queimados, no Rio de Janeiro
+title: "Doação de bicicletas infantis BTWN, organizada pela Shimano, alegra crianças em Queimados, no Rio de Janeiro"
 date: 2023-10-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Marca japonesa de componentes, em parceria com a Decathlon, entregou 14 balance bikes à Associação Pedala Queimados nesta quarta-feira (11), que promoveu uma ação em creche na véspera do Dia da Criança.
 

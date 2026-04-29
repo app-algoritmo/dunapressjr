@@ -1,12 +1,11 @@
 ---
-title: Shawn Mendes encontrou a paz aprendendo a ‘cantar sem perfeição’
+title: "Shawn Mendes encontrou a paz aprendendo a ‘cantar sem perfeição’"
 date: 2024-01-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Music
+  - Music
 ---
-
 
 ## O cantor e compositor ofereceu um vislumbre de sua nova prática musical favorita: tocar harmônio e cantar o que quer que saia.
 

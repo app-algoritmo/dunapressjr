@@ -1,12 +1,11 @@
 ---
-title: Presas em regime semiaberto podem ser soltas para acomodar os detidos em Brasília
+title: "Presas em regime semiaberto podem ser soltas para acomodar os detidos em Brasília"
 date: 2023-01-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Pedido de defensorias públicas solicita ação para não haver ‘sobrecarga’ do sistema prisional do Distrito Federal.
 

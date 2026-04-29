@@ -1,14 +1,12 @@
 ---
-title: Plantio de 1.300 árvores possibilita criação de corredor ecológico e de fluxo
-  gênico de plantas em parque tecnológico
+title: "Plantio de 1.300 árvores possibilita criação de corredor ecológico e de fluxo gênico de plantas em parque tecnológico"
 date: 2024-03-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
-- Technology
+  - Environment
+  - Technology
 ---
-
 
 ## Iniciativa fica dentro de uma área total de 5 milhões de m² no Oeste do Paraná e ampliará espécies plantadas em 2024.
 

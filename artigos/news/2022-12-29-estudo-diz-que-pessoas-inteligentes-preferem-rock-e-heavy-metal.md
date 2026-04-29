@@ -1,12 +1,11 @@
 ---
-title: Estudo diz que pessoas inteligentes preferem Rock e Heavy Metal
+title: "Estudo diz que pessoas inteligentes preferem Rock e Heavy Metal"
 date: 2022-12-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Pesquisa conclui que o QI é um fator importante para determinar o gosto musical de um indivíduo.
 

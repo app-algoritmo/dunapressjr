@@ -1,13 +1,11 @@
 ---
-title: Na véspera do Dia Mundial do Meio Ambiente, Grupo Marista apresenta indicadores
-  estratégicos de ESG
+title: "Na véspera do Dia Mundial do Meio Ambiente, Grupo Marista apresenta indicadores estratégicos de ESG"
 date: 2024-06-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
+  - Environment
 ---
-
 
 ## Lançamento do Relatório de Sustentabilidade aponta caminhos possíveis para próximos anos a partir de cinco frentes.
 

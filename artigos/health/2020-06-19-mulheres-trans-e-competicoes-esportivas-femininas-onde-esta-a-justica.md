@@ -1,12 +1,11 @@
 ---
-title: 'Mulheres Trans e Competições Esportivas Femininas: onde está a Justiça?'
+title: "Mulheres Trans e Competições Esportivas Femininas: onde está a Justiça?"
 date: 2020-06-19
 status: publish
-author: Alessandro Loiola
+author: alessandroloiola
 categories:
-- Health
+  - Health
 ---
-
 
 Recentemente, a Deputada Federal Bia Kicis apresentou um [projeto de Lei](https://www.uol.com.br/esporte/colunas/olhar-olimpico/2020/06/19/deputada-diz-que-deu-entrada-em-pl-contra-atletas-trans-com-numero-falso.htm) na Câmara para tentar proibir mulheres trans da participarem de competições esportivas no Brasil.
 

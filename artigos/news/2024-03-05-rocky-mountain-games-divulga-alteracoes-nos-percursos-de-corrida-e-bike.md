@@ -1,12 +1,11 @@
 ---
-title: Rocky Mountain Games divulga alterações nos percursos de corrida e bike
+title: "Rocky Mountain Games divulga alterações nos percursos de corrida e bike"
 date: 2024-03-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Primeira etapa da temporada do maior evento de esportes e cultura de montanha do Brasil terá novidades na abertura do circuito, no sábado (9) e domingo (10), na Pedra Grande, em Atibaia. Últimas vagas ainda estão disponíveis até esta quarta-feira (6).
 

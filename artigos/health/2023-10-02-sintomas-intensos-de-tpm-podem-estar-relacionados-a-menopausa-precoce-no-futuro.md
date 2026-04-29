@@ -1,12 +1,11 @@
 ---
-title: Sintomas intensos de TPM podem estar relacionados à menopausa precoce no futuro
+title: "Sintomas intensos de TPM podem estar relacionados à menopausa precoce no futuro"
 date: 2023-10-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Cólicas fortes, dores de cabeça frequentes e irritabilidade exacerbada podem dobrar chances de último ciclo menstrual antes dos 40 anos.
 

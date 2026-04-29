@@ -1,13 +1,11 @@
 ---
-title: Cartórios e Governo facilitam regularização fundiária urbana assegurando direitos
-  à população
+title: "Cartórios e Governo facilitam regularização fundiária urbana assegurando direitos à população"
 date: 2024-06-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Se não bastassem todas as mazelas provocadas pelas enchentes no Rio Grande do Sul, muitos gaúchos agora enfrentam um novo obstáculo na árdua tarefa de reconstrução: a comprovação da titularidade do imóvel. 
 

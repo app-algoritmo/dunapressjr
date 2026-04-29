@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde reencontra sua torcida neste feriadão
+title: "Osasco São Cristóvão Saúde reencontra sua torcida neste feriadão"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar recebe o Unilife Maringá nesta quarta-feira (15), pela segunda rodada da Superliga. Atual campeão paulista defende uma invencibilidade de 13 partidas na temporada 23/24.
 

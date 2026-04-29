@@ -1,12 +1,11 @@
 ---
-title: A 'dança das cadeiras' dos chefes de equipe na Fórmula 1
+title: "A 'dança das cadeiras' dos chefes de equipe na Fórmula 1"
 date: 2022-12-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Categoria se depara com extensa mudança no comando das escuderias.
 

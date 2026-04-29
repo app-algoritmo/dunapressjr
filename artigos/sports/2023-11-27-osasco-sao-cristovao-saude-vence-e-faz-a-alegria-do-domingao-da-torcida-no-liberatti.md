@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde vence e faz a alegria do domingão da torcida no
-  Liberatti
+title: "Osasco São Cristóvão Saúde vence e faz a alegria do domingão da torcida no Liberatti"
 date: 2023-11-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar bateu o Pinheiros por 3 sets a 0 na reedição da final do Campeonato Paulista e ganhou a primeira dentro de casa na Superliga 23/24.
 

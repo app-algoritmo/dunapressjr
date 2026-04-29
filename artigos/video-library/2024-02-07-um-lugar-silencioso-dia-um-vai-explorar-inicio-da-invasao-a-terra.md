@@ -1,12 +1,11 @@
 ---
-title: '''Um Lugar Silencioso: Dia Um'' vai explorar início da invasão à Terra'
+title: "'Um Lugar Silencioso: Dia Um' vai explorar início da invasão à Terra"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Filme estreia em junho de 2024 no Brasil.
 

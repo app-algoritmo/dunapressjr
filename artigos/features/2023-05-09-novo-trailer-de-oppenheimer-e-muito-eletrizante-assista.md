@@ -1,13 +1,12 @@
 ---
-title: Novo trailer de 'Oppenheimer' é muito eletrizante. Assista!
+title: "Novo trailer de 'Oppenheimer' é muito eletrizante. Assista!"
 date: 2023-05-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Em julho, Christopher Nolan estreia o thriller histórico da bomba atômica "Oppenheimer". 
 

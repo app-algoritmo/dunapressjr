@@ -1,14 +1,12 @@
 ---
-title: Passeio de Bike e Caminhada são atrações do Festival Vamos Passear em Belém
-  neste domingo (13)
+title: "Passeio de Bike e Caminhada são atrações do Festival Vamos Passear em Belém neste domingo (13)"
 date: 2023-08-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## O evento chega pela primeira vez à cidade, levando muita brincadeira, esporte, saúde e bem-estar ao ar livre para os paraenses que forem ao estádio do Mangueirão, a partir das 7h. Inscrições estão abertas.
 

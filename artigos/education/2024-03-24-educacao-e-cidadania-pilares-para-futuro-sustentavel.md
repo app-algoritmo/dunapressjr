@@ -1,13 +1,12 @@
 ---
-title: 'Educação e cidadania: pilares para futuro sustentável'
+title: "Educação e cidadania: pilares para futuro sustentável"
 date: 2024-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Environment
+  - Education
+  - Environment
 ---
-
 
 ## Investir nas pessoas no tempo presente é um princípio básico e pode ser uma das maneiras mais efetivas de garantir um futuro mais sustentável. Cuidar, renovar, conservar a natureza é crucial.
 

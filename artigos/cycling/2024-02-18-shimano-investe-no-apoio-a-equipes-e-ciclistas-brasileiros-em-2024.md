@@ -1,13 +1,12 @@
 ---
-title: Shimano investe no apoio a equipes e ciclistas brasileiros em 2024
+title: "Shimano investe no apoio a equipes e ciclistas brasileiros em 2024"
 date: 2024-02-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Tradicional marca japonesa de componentes para bikes colabora do desenvolvimento do esporte ao investir em 50 atletas nacionais.
 

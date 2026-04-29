@@ -1,13 +1,12 @@
 ---
-title: Investimento em pesquisa garante a Prati-Donaduzzi premiação pela Época Negócios
+title: "Investimento em pesquisa garante a Prati-Donaduzzi premiação pela Época Negócios"
 date: 2023-10-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Business and Economy
-- Financial Education
+  - Business and Economy
+  - Financial Education
 ---
-
 
 ## Farmacêutica ganhou "Selo Prata" nesse quesito e ficou entre as cinco em Rentabilidade e Receita Líquida; 410 empresas foram avaliadas pela Fundação Dom Cabral.
 

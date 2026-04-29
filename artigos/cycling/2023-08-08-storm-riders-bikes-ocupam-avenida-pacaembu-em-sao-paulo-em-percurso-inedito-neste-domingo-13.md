@@ -1,14 +1,12 @@
 ---
-title: 'Storm Riders: bikes ocupam avenida Pacaembu, em São Paulo, em percurso inédito,
-  neste domingo (13)'
+title: "Storm Riders: bikes ocupam avenida Pacaembu, em São Paulo, em percurso inédito, neste domingo (13)"
 date: 2023-08-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## É a terceira edição do evento, a partir das 6h, com atletas das categorias Elite e Geral por Idade. Largada e chegada serão em frente ao Estádio do Pacaembu, com circuito de 6,2 km. No ano passado, as duas provas foram na Marginal Pinheiros. Inscrições estão abertas até esta quinta-feira (10).
 

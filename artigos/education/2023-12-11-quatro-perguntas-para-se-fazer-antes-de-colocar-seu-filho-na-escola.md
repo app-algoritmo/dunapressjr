@@ -1,12 +1,11 @@
 ---
-title: Quatro perguntas para se fazer antes de colocar seu filho na escola
+title: "Quatro perguntas para se fazer antes de colocar seu filho na escola"
 date: 2023-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## No Brasil, a Lei 12.796/2013 estabelece que as crianças devem ser matriculadas na escola a partir dos quatro anos de idade. 
 

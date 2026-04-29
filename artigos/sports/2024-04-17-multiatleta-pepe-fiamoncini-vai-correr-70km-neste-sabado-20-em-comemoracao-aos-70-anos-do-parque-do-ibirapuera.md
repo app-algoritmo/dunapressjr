@@ -1,13 +1,11 @@
 ---
-title: Multiatleta Pepe Fiamoncini vai correr 70km neste sábado (20) em comemoração
-  aos 70 anos do Parque do Ibirapuera
+title: "Multiatleta Pepe Fiamoncini vai correr 70km neste sábado (20) em comemoração aos 70 anos do Parque do Ibirapuera"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Treinão é uma ação extra-oficial que visa reunir o máximo de pessoas para festejar a data. Para isso, dividiu a atividade em dez trechos de 7km a fim de contar com pessoas de todos os níveis de preparo.
 

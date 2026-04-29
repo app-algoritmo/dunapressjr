@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani se prepara para o WTA 1000 de Roma
+title: "Luisa Stefani se prepara para o WTA 1000 de Roma"
 date: 2024-05-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e a holandesa Demi Schuurs treinam na Holanda para o torneio, que será disputado a partir do meio da próxima semana.
 

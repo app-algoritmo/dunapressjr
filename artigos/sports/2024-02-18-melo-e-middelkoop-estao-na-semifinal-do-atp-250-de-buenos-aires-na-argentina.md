@@ -1,13 +1,12 @@
 ---
-title: Melo e Middelkoop estão na semifinal do ATP 250 de Buenos Aires, na Argentina
+title: "Melo e Middelkoop estão na semifinal do ATP 250 de Buenos Aires, na Argentina"
 date: 2024-02-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Nesta sexta-feira (16), o jogo pelas quartas de final teve como adversários o brasileiro Wild e o argentino Baez, no Buenos Aires Lawn Tennis Club. Agora, em busca de um lugar na decisão, enfrentam neste sábado (17) os cabeças de chave 1, Granollers e Zeballos.
 

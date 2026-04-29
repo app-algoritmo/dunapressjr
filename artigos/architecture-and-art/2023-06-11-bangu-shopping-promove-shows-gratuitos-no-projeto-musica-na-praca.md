@@ -1,13 +1,12 @@
 ---
-title: Bangu Shopping promove shows gratuitos no Projeto Música na Praça
+title: "Bangu Shopping promove shows gratuitos no Projeto Música na Praça"
 date: 2023-06-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Events
+  - Architecture and Art
+  - Events
 ---
-
 
 ## Evento gratuito acontece no domingo (11) com sessão extra no Dia dos Namorados.
 

@@ -1,13 +1,11 @@
 ---
-title: 'Copa do Mundo da Vela: Brasil disputa regata com chances de título na Espanha
-  neste sábado (2)'
+title: "Copa do Mundo da Vela: Brasil disputa regata com chances de título na Espanha neste sábado (2)"
 date: 2023-12-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O time brasileiro, comandado por Robert Scheidt, enfrenta Grã-Bretanha, Holanda e Itália. Os dois mais bem colocados passam para a final deste domingo (3).
 

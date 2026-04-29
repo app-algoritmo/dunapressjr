@@ -1,14 +1,12 @@
 ---
-title: Festival Rocky Spirit reúne 10 mil pessoas em final de semana de calor em São
-  Paulo
+title: "Festival Rocky Spirit reúne 10 mil pessoas em final de semana de calor em São Paulo"
 date: 2023-09-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## O maior festival de cinema ao ar livre dedicado ao esporte, meio ambiente e aventura agitou o Parque Villa-Lobos com atividades esportivas, shows e se firma como programa para a família toda.
 

@@ -1,13 +1,12 @@
 ---
-title: Jogos que serão lançados em janeiro de 2023
+title: "Jogos que serão lançados em janeiro de 2023"
 date: 2023-01-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## O ano de 2023 já começa repleto de jogos e o destaque está em Forspoken, o remake do terror espacial “Dead Space, e Age of Empire 2: Definitive Edition.
 

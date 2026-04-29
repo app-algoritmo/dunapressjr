@@ -1,14 +1,12 @@
 ---
-title: Projetos sociais oferecem oportunidade de emprego e educação para população
-  de rua e comunidades vulneráveis
+title: "Projetos sociais oferecem oportunidade de emprego e educação para população de rua e comunidades vulneráveis"
 date: 2024-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Entrepreneurship
+  - Education
+  - Entrepreneurship
 ---
-
 
 ## Homem conseguiu sair das ruas e comprar casa própria depois de participar de projeto; iniciativas de empresa de educação e de universidade transformam a vida de famílias inteiras.
 

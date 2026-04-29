@@ -1,13 +1,11 @@
 ---
-title: Estreia da natação, lendas do esporte e recorde de público confirmam sucesso
-  do Rocky Mountain Games Juquitiba
+title: "Estreia da natação, lendas do esporte e recorde de público confirmam sucesso do Rocky Mountain Games Juquitiba"
 date: 2024-06-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Um sábado perfeito no Fazendão, em Juquitiba. Sol o dia inteiro, recorde de participantes, sucesso da natação, famílias competindo juntas e nomes que fizeram a história do triatlo brasileiro.
 

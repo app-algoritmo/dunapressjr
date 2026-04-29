@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani estreia com vitória no WTA 1000 de Doha, no Qatar
+title: "Luisa Stefani estreia com vitória no WTA 1000 de Doha, no Qatar"
 date: 2024-02-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e holandesa Demi Schuurs passaram por dupla de ucraniana e cazaque e voltam a jogar na quarta-feira.
 

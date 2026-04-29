@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani estreia com vitória arrasadora no WTA 1000 de Cincinnati, nos
-  Estados Unidos
+title: "Luisa Stefani estreia com vitória arrasadora no WTA 1000 de Cincinnati, nos Estados Unidos"
 date: 2023-08-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Nesta quinta-feira (17), tenista paulistana e a russa Pavlyuchenkova enfrentam dupla campeã de Roland Garros pelas oitavas de final.
 

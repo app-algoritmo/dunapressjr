@@ -1,13 +1,11 @@
 ---
-title: Baran vence nas duplas masculinas e mistas e Brasil termina invicto primeira
-  fase da Copa do Mundo de Beach Tennis
+title: "Baran vence nas duplas masculinas e mistas e Brasil termina invicto primeira fase da Copa do Mundo de Beach Tennis"
 date: 2023-12-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Após três dias de confrontos, os brasileiros comemoraram vitórias diante de Argentina, Estados Unidos e Chile, no torneio que está sendo disputado na Represa de Guarapiranga, em São Paulo, com presença de 16 países.
 

@@ -1,12 +1,11 @@
 ---
-title: '''Sem perrengue chique'': especialista dá dicas para viagem dos sonhos'
+title: "'Sem perrengue chique': especialista dá dicas para viagem dos sonhos"
 date: 2024-01-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Com expertise de 32 anos no segmento, diretor do NH Curitiba The Five compartilha dicas essenciais para garantir uma experiência tranquila e livre de preocupações.
 

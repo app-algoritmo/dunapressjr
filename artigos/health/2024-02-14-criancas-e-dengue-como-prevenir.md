@@ -1,12 +1,11 @@
 ---
-title: 'Crianças e Dengue: como prevenir?'
+title: "Crianças e Dengue: como prevenir?"
 date: 2024-02-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Número de casos é alto entre os pequenos e algumas faixas etárias não podem sequer usar repelentes contra insetos.
 

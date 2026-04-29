@@ -1,12 +1,11 @@
 ---
-title: Luisa Stefani está nas oitavas de final do WTA 1000 de Pequim, na China
+title: "Luisa Stefani está nas oitavas de final do WTA 1000 de Pequim, na China"
 date: 2023-10-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Estreia, ao lado de carioca Ingrid Martins, foi nesta segunda-feira (2), diante da bielorrussa Sizikova e da taiwanesa Chan. As próximas adversárias serão as norte-americanas Pegula e Gauff - cabeças 2.
 

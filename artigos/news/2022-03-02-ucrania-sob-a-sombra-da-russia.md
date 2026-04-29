@@ -1,12 +1,11 @@
 ---
-title: Ucrânia sob a sombra da Rússia
+title: "Ucrânia sob a sombra da Rússia"
 date: 2022-03-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 **Até 1991, a Ucrânia era uma das 15 repúblicas que formavam a União Soviética (URSS). Com o colapso da URSS, em agosto daquele ano, a Ucrânia tornou-se uma nação independente e estabeleceu laços mais próximos com as potências ocidentais, o que incomodou a Rússia.**
 

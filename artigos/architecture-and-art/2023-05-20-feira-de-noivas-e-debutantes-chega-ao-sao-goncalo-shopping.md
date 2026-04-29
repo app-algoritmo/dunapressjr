@@ -1,13 +1,12 @@
 ---
-title: Feira de Noivas e Debutantes chega ao São Gonçalo Shopping
+title: "Feira de Noivas e Debutantes chega ao São Gonçalo Shopping"
 date: 2023-05-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Entrepreneurship
+  - Architecture and Art
+  - Entrepreneurship
 ---
-
 
 ## Feira de Noivas e Debutantes chega ao São Gonçalo Shopping, com 40 expositores. A entrada é gratuita.
 

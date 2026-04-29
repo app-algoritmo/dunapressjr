@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani entra no top 10 e define calendário
+title: "Luisa Stefani entra no top 10 e define calendário"
 date: 2023-09-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana atuará com mexicana nos próximos dois torneios e com Ingrid Martins em torneios na China.
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde vence Seleção Brasileira Sub-21 em jogo-treino
+title: "Osasco São Cristóvão Saúde vence Seleção Brasileira Sub-21 em jogo-treino"
 date: 2023-08-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe entra na semana de estreia no Campeonato Paulista - nesta sexta-feira (18), contra o São Caetano, no ginásio José Liberatti - confiante após intenso período de preparação.
 

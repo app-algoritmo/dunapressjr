@@ -1,13 +1,12 @@
 ---
-title: Quem são os novos personagens de Adão Negro?
+title: "Quem são os novos personagens de Adão Negro?"
 date: 2020-08-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Video library
+  - News
+  - Video library
 ---
-
 
 **No painel do filme que aconteceu no DC FanDome, Dwayne Johnson revelou o nome de alguns personagens que estarão na produção.**
 

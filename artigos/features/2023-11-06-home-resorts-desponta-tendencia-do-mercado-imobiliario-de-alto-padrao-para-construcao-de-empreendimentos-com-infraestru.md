@@ -1,13 +1,11 @@
 ---
-title: 'Home resorts: desponta tendência do mercado imobiliário de alto padrão para
-  construção de empreendimentos com infraestru'
+title: "Home resorts: desponta tendência do mercado imobiliário de alto padrão para construção de empreendimentos com infraestru"
 date: 2023-11-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Com estruturas adaptadas às demandas do consumidor moderno, os home resorts integram ambientes de relaxamento ao lar, proporcionando um verdadeiro oásis. A.Yoshii anuncia 11.º empreendimento em Curitiba com conceito inovador em Ecoville
 

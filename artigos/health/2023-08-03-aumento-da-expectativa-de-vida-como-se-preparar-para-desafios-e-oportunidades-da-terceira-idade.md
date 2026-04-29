@@ -1,13 +1,11 @@
 ---
-title: 'Aumento da expectativa de vida: como se preparar para desafios e oportunidades
-  da terceira idade?'
+title: "Aumento da expectativa de vida: como se preparar para desafios e oportunidades da terceira idade?"
 date: 2023-08-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Desde o início do século, a expectativa de vida em todo o mundo vem aumentando. Saiba Mais.
 

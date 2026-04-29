@@ -1,13 +1,11 @@
 ---
-title: Unidades móveis do SAMPA Saúde em Movimento chegam aos parques das Zonas Leste
-  e Sul
+title: "Unidades móveis do SAMPA Saúde em Movimento chegam aos parques das Zonas Leste e Sul"
 date: 2024-04-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Veículos equipados com aparelhos de ponta oferecem avaliação nutricional e física grátis para a população da cidade de São Paulo das regiões entre esta quinta-feira (18) e domingo (21).
 

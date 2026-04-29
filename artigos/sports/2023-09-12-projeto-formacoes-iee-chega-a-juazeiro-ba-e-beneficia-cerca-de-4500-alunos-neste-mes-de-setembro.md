@@ -1,13 +1,11 @@
 ---
-title: Projeto Formações IEE chega a Juazeiro (BA) e beneficia cerca de 4.500 alunos
-  neste mês de setembro
+title: "Projeto Formações IEE chega a Juazeiro (BA) e beneficia cerca de 4.500 alunos neste mês de setembro"
 date: 2023-09-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## São 60 professores, gestores, coordenadores e diretores na cidade baiana que estarão participando de módulo com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

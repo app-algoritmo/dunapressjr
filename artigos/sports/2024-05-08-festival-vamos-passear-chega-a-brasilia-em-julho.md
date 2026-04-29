@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear chega a Brasília em julho
+title: "Festival Vamos Passear chega a Brasília em julho"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O evento apresentado pela Brasilprev será no dia 14, no Parque da Cidade Sarah Kubitschek, e contará com Passeio de Bike, Caminhada e Corrida Kids, além de diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

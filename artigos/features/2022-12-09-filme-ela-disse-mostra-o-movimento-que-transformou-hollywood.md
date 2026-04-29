@@ -1,13 +1,12 @@
 ---
-title: Filme 'Ela Disse', mostra o movimento que transformou Hollywood
+title: "Filme 'Ela Disse', mostra o movimento que transformou Hollywood"
 date: 2022-12-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A história que ajudou a divulgar o movimento #MeToo.
 

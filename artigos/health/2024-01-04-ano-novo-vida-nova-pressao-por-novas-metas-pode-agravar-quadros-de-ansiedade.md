@@ -1,12 +1,11 @@
 ---
-title: 'Ano novo, vida nova: pressão por novas metas pode agravar quadros de ansiedade'
+title: "Ano novo, vida nova: pressão por novas metas pode agravar quadros de ansiedade"
 date: 2024-01-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Alimentação, exercícios físicos e apoio profissional são aliados para diminuir estresse e trazer mudanças gradativas.
 

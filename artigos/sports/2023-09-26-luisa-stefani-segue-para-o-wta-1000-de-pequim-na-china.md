@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue para o WTA 1000 de Pequim, na China
+title: "Luisa Stefani segue para o WTA 1000 de Pequim, na China"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana jogará o torneio ao lado de carioca Ingrid Martins. Com a mexicana Olmos, parou na primeira rodada em Tóquio, no Japão.
 

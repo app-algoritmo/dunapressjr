@@ -1,13 +1,11 @@
 ---
-title: André Baran joga o Macena Open de Beach Tennis em Alagoas, a partir desta quinta-feira
-  (30)
+title: "André Baran joga o Macena Open de Beach Tennis em Alagoas, a partir desta quinta-feira (30)"
 date: 2023-11-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Catarinense estará ao lado do parceiro italiano Michele Cappelletti, no BT 400 que será realizado até o sábado (2), na Praia do Francês, em Marechal Deodoro.
 

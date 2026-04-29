@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear prioriza ações voltadas para meio ambiente e sustentabilidade
+title: "Festival Vamos Passear prioriza ações voltadas para meio ambiente e sustentabilidade"
 date: 2024-06-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Em cada etapa haverá reciclagem de copos, reaproveitamento de lonas e doação de areia. Evento começou no dia 26 de maio, no Rio de Janeiro, com atrações gratuitas e arenas inclusivas e segue, neste domingo (9) em Salvador.
 

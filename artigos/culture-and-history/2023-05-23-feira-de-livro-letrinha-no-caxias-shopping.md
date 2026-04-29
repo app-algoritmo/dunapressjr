@@ -1,13 +1,12 @@
 ---
-title: Feira de livro Letrinha no Caxias Shopping
+title: "Feira de livro Letrinha no Caxias Shopping"
 date: 2023-05-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Culture and History
-- Education
+  - Culture and History
+  - Education
 ---
-
 
 ## **Livros que abordam sentimentos são a grande atração da feira que permanece até o dia 28 de maio**.
 

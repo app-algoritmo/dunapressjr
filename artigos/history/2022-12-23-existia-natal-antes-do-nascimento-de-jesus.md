@@ -1,13 +1,12 @@
 ---
-title: Existia 'Natal' antes do nascimento de Jesus?
+title: "Existia 'Natal' antes do nascimento de Jesus?"
 date: 2022-12-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- History
-- News
+  - History
+  - News
 ---
-
 
 ## Para a sociedade contemporânea ocidental, parece claro que a origem do Natal é o nascimento do menino Jesus, porém existem algumas curiosidades sobre o tema.
 

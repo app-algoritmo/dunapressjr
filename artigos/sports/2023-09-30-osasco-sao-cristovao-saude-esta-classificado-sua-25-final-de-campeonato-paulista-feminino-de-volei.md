@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde está classificado sua 25ª final de Campeonato Paulista
-  Feminino de Vôlei
+title: "Osasco São Cristóvão Saúde está classificado sua 25ª final de Campeonato Paulista Feminino de Vôlei"
 date: 2023-09-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Com o ginásio José Liberatti lotado, equipe comandada pelo técnico Luizomar garantiu vaga em mais uma decisão de forma invicta, após derrotar o Barueri por 3 sets a 0.
 

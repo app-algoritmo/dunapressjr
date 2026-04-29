@@ -1,12 +1,11 @@
 ---
-title: CARIOCA SHOPPING PROMOVE AÇÕES DE APOIO AO EMPREENDEDORISMO
+title: "CARIOCA SHOPPING PROMOVE AÇÕES DE APOIO AO EMPREENDEDORISMO"
 date: 2023-05-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
+  - Entrepreneurship
 ---
-
 
 ## Loja colaborativa “Empreender Mais” cria oportunidades para microempreendedores da região.
 

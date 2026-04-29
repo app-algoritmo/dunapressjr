@@ -1,14 +1,12 @@
 ---
-title: Pátio Alcântara e São Gonçalo Shopping aderem à campanha da NIAD para inclusão
-  de pessoas com daltonismo
+title: "Pátio Alcântara e São Gonçalo Shopping aderem à campanha da NIAD para inclusão de pessoas com daltonismo"
 date: 2024-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- Shopping
+  - Health
+  - Shopping
 ---
-
 
 O Pátio Alcântara e o São Gonçalo Shopping ganharam uma sinalização com um alfabeto das cores único, inovador e transformador para os portadores de daltonismo. A ação faz parte de uma parceria inédita e pioneira entre a NIAD, administradora dos dois empreendimentos, e a ONG portuguesa ColorADD, criadora do sistema de identificação de cores premiado e aprovado pela comunidade científica internacional.
 

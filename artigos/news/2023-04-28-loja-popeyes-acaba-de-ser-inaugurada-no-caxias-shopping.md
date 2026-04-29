@@ -1,12 +1,11 @@
 ---
-title: Loja Popeyes acaba de ser inaugurada no Caxias Shopping
+title: "Loja Popeyes acaba de ser inaugurada no Caxias Shopping"
 date: 2023-04-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Mais uma novidade. Agora tem mais uma loja na praça de alimentação do Caxias Shopping. Saiba mais.
 

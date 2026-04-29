@@ -1,12 +1,11 @@
 ---
-title: General Júlio Cesar de Arruda assume Comando do Exército
+title: "General Júlio Cesar de Arruda assume Comando do Exército"
 date: 2022-12-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Troca já tinha sido formalizada por meio de decretos publicados no DOU.
 

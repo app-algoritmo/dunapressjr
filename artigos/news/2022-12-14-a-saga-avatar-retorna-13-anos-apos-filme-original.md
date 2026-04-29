@@ -1,13 +1,12 @@
 ---
-title: A saga 'Avatar' retorna 13 anos após filme original
+title: "A saga 'Avatar' retorna 13 anos após filme original"
 date: 2022-12-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Video library
+  - News
+  - Video library
 ---
-
 
 ## Avatar: O Caminho da Água se passa mais de uma década após a primeira história.
 

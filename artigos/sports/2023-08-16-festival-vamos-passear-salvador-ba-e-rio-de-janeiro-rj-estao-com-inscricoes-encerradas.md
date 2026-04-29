@@ -1,13 +1,11 @@
 ---
-title: 'Festival Vamos Passear: Salvador (BA) e Rio de Janeiro (RJ) estão com inscrições
-  encerradas'
+title: "Festival Vamos Passear: Salvador (BA) e Rio de Janeiro (RJ) estão com inscrições encerradas"
 date: 2023-08-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## São as duas últimas etapas da edição 2023 do evento. A capital baiana terá 3.200 participantes neste domingo (20), na Praça de Piatã, e o Rio reunirá 4.200 pessoas na Praia de Copacabana, nos dias 2 e 3 de setembro.
 

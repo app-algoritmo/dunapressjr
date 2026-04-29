@@ -1,12 +1,11 @@
 ---
-title: 6 dicas de planejamento financeiro para quem está ingressando no mundo do trabalho
+title: "6 dicas de planejamento financeiro para quem está ingressando no mundo do trabalho"
 date: 2023-10-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Global Economy
+  - Global Economy
 ---
-
 
 ## Primeiras oportunidades profissionais trazem o contato inicial com a remuneração e sensação de independência, mas é importante criar bons hábitos desde cedo para fazer o dinheiro render.
 

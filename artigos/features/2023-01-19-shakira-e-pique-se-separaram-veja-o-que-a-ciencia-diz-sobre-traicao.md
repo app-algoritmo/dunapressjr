@@ -1,13 +1,12 @@
 ---
-title: 'Shakira e Piqué se separaram: veja o que a ciência diz sobre traição!'
+title: "Shakira e Piqué se separaram: veja o que a ciência diz sobre traição!"
 date: 2023-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Se antes as mulheres faziam canções lamentando um término, hoje demonstram estar mais preparadas e dispostas a ganhar dinheiro com isso. Chorar? Jamais!
 

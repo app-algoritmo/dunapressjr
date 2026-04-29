@@ -1,13 +1,12 @@
 ---
-title: As Tartarugas Ninja Run chegam em setembro a São Paulo
+title: "As Tartarugas Ninja Run chegam em setembro a São Paulo"
 date: 2023-08-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Raphael, Michelangelo, Donatello e Leonardo estarão recebendo os fãs no dia 24 de setembro no Parque Villa-Lobos, para participar de corrida e caminhada, com toda a irreverência e personalidade do novo filme "As Tartarugas Ninja: Caos Mutante", que estreia dia 31 de agosto nos cinemas brasileiros.
 

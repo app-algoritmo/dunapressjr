@@ -1,12 +1,11 @@
 ---
-title: Pequeno Cotolengo realiza Show de Prêmios com carro e moto zero km
+title: "Pequeno Cotolengo realiza Show de Prêmios com carro e moto zero km"
 date: 2023-06-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## O evento acontece de forma presencial e online no dia 25 de junho, cada cartela custa R$20 e vale para todos os prêmios.
 

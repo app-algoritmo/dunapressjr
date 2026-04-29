@@ -1,13 +1,11 @@
 ---
-title: 'Acampamento de férias na Fazenda Faraó: Uma aventura memorável em Cachoeira
-  de Macacu'
+title: "Acampamento de férias na Fazenda Faraó: Uma aventura memorável em Cachoeira de Macacu"
 date: 2023-06-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Descubra uma experiência única em meio à beleza natural da região. As inscrições já estão abertas.
 

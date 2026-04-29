@@ -1,13 +1,12 @@
 ---
-title: Apple lançará aplicativo que funciona como diário para auxiliar saúde mental
+title: "Apple lançará aplicativo que funciona como diário para auxiliar saúde mental"
 date: 2023-04-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Technology
+  - News
+  - Technology
 ---
-
 
 ## Documentos da empresa foram obtidos pelo The Wall Street Journal.
 

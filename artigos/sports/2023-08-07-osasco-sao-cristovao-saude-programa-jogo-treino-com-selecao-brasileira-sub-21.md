@@ -1,12 +1,11 @@
 ---
-title: Osasco São Cristóvão Saúde programa jogo-treino com Seleção Brasileira sub-21
+title: "Osasco São Cristóvão Saúde programa jogo-treino com Seleção Brasileira sub-21"
 date: 2023-08-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Equipe osasquense intensifica a preparação para o Campeonato Paulista 2023. Estreia será contra o São Caetano, no próximo dia 18, no ginásio José Liberatti.
 

@@ -1,13 +1,12 @@
 ---
-title: Pergaminho com textos do Livro Egípcio dos Mortos é encontrado
+title: "Pergaminho com textos do Livro Egípcio dos Mortos é encontrado"
 date: 2023-01-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- History
-- News
+  - History
+  - News
 ---
-
 
 ## O pergaminho foi encontrado em um túmulo junto com sarcófagos, múmias completas e estátuas de deuses que possuem cerca de 16 metros.
 

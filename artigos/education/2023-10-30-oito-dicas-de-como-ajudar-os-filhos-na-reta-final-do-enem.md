@@ -1,12 +1,11 @@
 ---
-title: Oito dicas de como ajudar os filhos na reta final do Enem
+title: "Oito dicas de como ajudar os filhos na reta final do Enem"
 date: 2023-10-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Amor, apoio e incentivo são cruciais nesse momento tão importante na vida dos estudantes.
 

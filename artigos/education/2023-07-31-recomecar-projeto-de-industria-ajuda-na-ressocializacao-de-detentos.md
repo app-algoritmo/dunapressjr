@@ -1,13 +1,12 @@
 ---
-title: 'Recomeçar: projeto de indústria ajuda na ressocialização de detentos'
+title: "Recomeçar: projeto de indústria ajuda na ressocialização de detentos"
 date: 2023-07-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Entrepreneurship
+  - Education
+  - Entrepreneurship
 ---
-
 
 ## Mais de 23 mil atendimentos foram realizados em 13 anos do projeto, auxiliando na reinserção no mercado de trabalho e resgate da autoestima.
 

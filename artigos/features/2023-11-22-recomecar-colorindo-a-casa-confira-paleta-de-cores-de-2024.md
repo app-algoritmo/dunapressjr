@@ -1,12 +1,11 @@
 ---
-title: 'Recomeçar colorindo a casa: confira paleta de cores de 2024'
+title: "Recomeçar colorindo a casa: confira paleta de cores de 2024"
 date: 2023-11-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Tons que serão tendência no próximo ano evocam calma, tranquilidade, conforto, otimismo e energia criativa. Arquiteta especialista analisa as tonalidades e o que elas prometem trazer para casa e decoração.
 

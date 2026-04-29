@@ -1,12 +1,11 @@
 ---
-title: Casal deixa bebê no check-in do aeroporto após se recusar a pagar passagem
+title: "Casal deixa bebê no check-in do aeroporto após se recusar a pagar passagem"
 date: 2023-02-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Um casal deixou seu bebê no check-in do aeroporto enquanto tentava embarcar em um voo da Ryanair para Bruxelas.
 

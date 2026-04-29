@@ -1,12 +1,11 @@
 ---
-title: OGGI segue como patrocinadora máster do Shimano Fest em 2024
+title: "OGGI segue como patrocinadora máster do Shimano Fest em 2024"
 date: 2024-05-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Uma das maiores e mais conceituadas fabricantes de bike do Brasil, empresa investe no maior festival do setor da América Latina, que será entre 15 e 18 de agosto, no Memorial da América Latina, em São Paulo.
 

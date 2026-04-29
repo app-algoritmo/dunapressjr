@@ -1,13 +1,12 @@
 ---
-title: Melo e Zverev estreiam nesta quinta-feira (28) no ATP 500 de Pequim, na China
+title: "Melo e Zverev estreiam nesta quinta-feira (28) no ATP 500 de Pequim, na China"
 date: 2023-09-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Jogo pela primeira rodada do torneio será às 5h30 (horário de Brasília), diante do salvadorenho Arevalo e do croata Mektic.
 

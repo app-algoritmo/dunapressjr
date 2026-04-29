@@ -1,13 +1,12 @@
 ---
-title: Cultura Pop e a transformação da sociedade
+title: "Cultura Pop e a transformação da sociedade"
 date: 2024-02-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Culture and History
-- Opinion
+  - Culture and History
+  - Opinion
 ---
-
 
 ## Como a Cultura Pop está moldando o futuro com diversidade e inclusão.
 

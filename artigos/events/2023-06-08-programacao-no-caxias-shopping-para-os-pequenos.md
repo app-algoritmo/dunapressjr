@@ -1,12 +1,11 @@
 ---
-title: Programação no Caxias Shopping para os pequenos
+title: "Programação no Caxias Shopping para os pequenos"
 date: 2023-06-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 Torre elástica, passarelas, escorregadores tubulares, escorregadores temáticos, piscina de bolinhas são algumas das atrações do Caxias Shopping para os pequenos. Localizado na praça principal de eventos do shopping, o Castelo do Dragão funciona de segunda a sábado, das 10h às 22h e domingo, das 12h às 22h. Crianças com necessidades especiais tem 50% de desconto. A Atração permanece até o dia 01 de julho.
 

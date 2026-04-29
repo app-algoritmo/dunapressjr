@@ -1,12 +1,11 @@
 ---
-title: 5 grandes dúvidas sobre alinhadores transparentes
+title: "5 grandes dúvidas sobre alinhadores transparentes"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Cada vez mais utilizados no tratamento de alinhamento dentário, muitas pessoas ainda têm dúvidas sobre o método.
 

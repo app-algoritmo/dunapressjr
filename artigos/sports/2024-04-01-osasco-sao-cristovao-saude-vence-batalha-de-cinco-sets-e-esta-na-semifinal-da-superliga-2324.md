@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde vence batalha de cinco sets e está na semifinal
-  da Superliga 23/24
+title: "Osasco São Cristóvão Saúde vence batalha de cinco sets e está na semifinal da Superliga 23/24"
 date: 2024-04-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe de Camila Brait, Giovana, Tifanny, Lorenne, Butler e cia. bateu o Pinheiros por 3 sets a 2 para fechar o playoff das quartas de final em 2 a 0 e agora vai enfrentar o Minas na luta por um lugar na decisão.
 

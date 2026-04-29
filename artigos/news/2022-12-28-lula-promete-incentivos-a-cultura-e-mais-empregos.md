@@ -1,12 +1,11 @@
 ---
-title: Lula promete incentivos à cultura e mais empregos
+title: "Lula promete incentivos à cultura e mais empregos"
 date: 2022-12-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## O presidente eleito Lula respondeu a uma publicação da futura ministra da Cultura, Margareth Menezes, com comentário sobre o setor.
 

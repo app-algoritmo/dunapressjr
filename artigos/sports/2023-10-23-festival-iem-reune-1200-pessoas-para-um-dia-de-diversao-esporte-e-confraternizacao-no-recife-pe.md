@@ -1,13 +1,11 @@
 ---
-title: Festival IEM reúne 1.200 pessoas para um dia de diversão, esporte e confraternização
-  no Recife (PE)
+title: "Festival IEM reúne 1.200 pessoas para um dia de diversão, esporte e confraternização no Recife (PE)"
 date: 2023-10-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## As atividades no Centro Esportivo Santos Dumont, no bairro de Boa Viagem, na capital pernambucana, contaram com 400 alunos do Instituto Etiene Medeiros e de diferentes clubes, na segunda edição do evento, neste sábado (21).
 

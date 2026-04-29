@@ -1,12 +1,11 @@
 ---
-title: Baile Dançante no Caxias Shopping
+title: "Baile Dançante no Caxias Shopping"
 date: 2023-06-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Divirta-se e dance ao som dos melhores ritmos.
 

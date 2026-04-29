@@ -1,12 +1,11 @@
 ---
-title: Rocky Mountain Games define calendário com novidades para a temporada 2024
+title: "Rocky Mountain Games define calendário com novidades para a temporada 2024"
 date: 2023-12-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## As inscrições para o maior festival de esportes outdoor e cultura de montanha do Brasil já estão abertas e com direito a promoção de Natal. Serão três etapas no interior paulista, a primeira em Atibaia, em março, seguida por Juquitiba e Campos do Jordão.
 

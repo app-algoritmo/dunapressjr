@@ -1,12 +1,11 @@
 ---
-title: Frio congela e derruba iguanas de árvores na Flórida; veja o vídeo
+title: "Frio congela e derruba iguanas de árvores na Flórida; veja o vídeo"
 date: 2022-12-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Iguanas que caem de árvores nos EUA podem revelar reação inesperada da espécie às mudanças climáticas.
 

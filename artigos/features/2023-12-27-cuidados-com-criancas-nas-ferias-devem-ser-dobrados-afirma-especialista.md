@@ -1,12 +1,11 @@
 ---
-title: Cuidados com crianças nas férias devem ser dobrados, afirma especialista
+title: "Cuidados com crianças nas férias devem ser dobrados, afirma especialista"
 date: 2023-12-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## O período de férias escolares para as crianças que estão em casa faz com que elas se sintam livres para fazer suas atividades preferidas. 
 

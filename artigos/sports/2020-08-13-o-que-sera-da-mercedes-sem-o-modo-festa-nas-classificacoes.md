@@ -1,12 +1,11 @@
 ---
-title: O que será da Mercedes sem o 'modo festa' nas classificações?
+title: "O que será da Mercedes sem o 'modo festa' nas classificações?"
 date: 2020-08-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 **Fia pensa em proibir o "modo festa" que dá vantagem a Mercedes nos treinos classificatórios, especialmente no Q3.**
 

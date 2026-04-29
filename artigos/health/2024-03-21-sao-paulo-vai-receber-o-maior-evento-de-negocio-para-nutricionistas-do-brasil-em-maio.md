@@ -1,13 +1,11 @@
 ---
-title: São Paulo vai receber o maior evento de negócio para nutricionistas do Brasil
-  em maio
+title: "São Paulo vai receber o maior evento de negócio para nutricionistas do Brasil em maio"
 date: 2024-03-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Summit do Nutrição Sem Fronteiras vai ensinar metodologias para profissionais do setor possam cobrar mais, atender com mais eficiência e fidelizar pacientes. Inscrições estão abertas.
 

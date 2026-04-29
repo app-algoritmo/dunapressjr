@@ -1,12 +1,11 @@
 ---
-title: Proteção de dados ganha cada vez mais importância no mercado
+title: "Proteção de dados ganha cada vez mais importância no mercado"
 date: 2023-12-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Desde que se começou a discutir a Lei Geral de Proteção de Dados (LGPD) no Brasil, os consumidores têm se conscientizado sobre o quão sensível é compartilhar dados pessoais ao fechar contratos de compra e venda de bens.
 

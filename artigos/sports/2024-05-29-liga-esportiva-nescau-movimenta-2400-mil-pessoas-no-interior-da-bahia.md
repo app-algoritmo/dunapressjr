@@ -1,13 +1,12 @@
 ---
-title: Liga Esportiva NESCAU® movimenta 2.400 mil pessoas no interior da Bahia
+title: "Liga Esportiva NESCAU® movimenta 2.400 mil pessoas no interior da Bahia"
 date: 2024-05-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Swimming
+  - Sports
+  - Swimming
 ---
-
 
 ## Etapa realizada em Feira de Santana levou esporte, aprendizado e diversão para crianças e jovens, que tiveram a oportunidade de conhecer o atleta Daniel Dias, da natação.
 

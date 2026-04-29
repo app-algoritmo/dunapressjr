@@ -1,13 +1,12 @@
 ---
-title: IEM participa da Copa Nordeste com foco em novas experiências aos alunos
+title: "IEM participa da Copa Nordeste com foco em novas experiências aos alunos"
 date: 2023-08-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Swimming
+  - Sports
+  - Swimming
 ---
-
 
 ## Torneio foi realizado em Recife (PE) e contou com 12 integrantes do IEM, indo além da competição em si, valorizando o trabalho em equipe e contando com apoio dos familiares.
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde encara o Gerdau Minas nesta terça (12), em BH
+title: "Osasco São Cristóvão Saúde encara o Gerdau Minas nesta terça (12), em BH"
 date: 2024-03-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Vice-líder da Superliga, equipe comandada pelo técnico Luizomar vai em busca da 12ª vitória consecutiva na competição, desta vez contra o quarto colocado.
 

@@ -1,12 +1,11 @@
 ---
-title: Carioca Shopping recebe Encontro de Carros Antigos
+title: "Carioca Shopping recebe Encontro de Carros Antigos"
 date: 2023-07-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Carioca Shopping recebe Encontro de Carros Antigos.
 

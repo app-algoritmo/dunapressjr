@@ -1,13 +1,12 @@
 ---
-title: SAMPA Saúde em Movimento atende mais de 5 mil pessoas em um mês
+title: "SAMPA Saúde em Movimento atende mais de 5 mil pessoas em um mês"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- Sports
+  - Health
+  - Sports
 ---
-
 
 ## Programa oferece atendimento com equipamentos de ponta para avaliação física e orientação nutricional grátis para a população em 15 praças e parques esportivos da cidade de São Paulo.
 

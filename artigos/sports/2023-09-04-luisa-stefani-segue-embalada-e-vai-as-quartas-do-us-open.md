@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue embalada e vai às quartas do US Open
+title: "Luisa Stefani segue embalada e vai às quartas do US Open"
 date: 2023-09-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e norte-americana Brady passaram por dupla de holandesa e alemã neste domingo (3).
 

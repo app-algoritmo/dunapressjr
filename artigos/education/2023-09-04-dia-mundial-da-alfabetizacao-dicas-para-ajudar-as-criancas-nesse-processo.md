@@ -1,12 +1,11 @@
 ---
-title: 'Dia Mundial da Alfabetização: dicas para ajudar as crianças nesse processo'
+title: "Dia Mundial da Alfabetização: dicas para ajudar as crianças nesse processo"
 date: 2023-09-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## No Dia Mundial da Alfabetização, especialistas falam da importância dos estudantes dominarem as habilidades de leitura e escrita. O empenho da escola é fundamental, mas os pais também podem estimulá-las. Confira algumas dicas.
 

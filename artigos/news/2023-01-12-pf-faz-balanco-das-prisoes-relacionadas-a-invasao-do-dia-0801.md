@@ -1,12 +1,11 @@
 ---
-title: PF faz balanço das prisões relacionadas a invasão do dia 08/01
+title: "PF faz balanço das prisões relacionadas a invasão do dia 08/01"
 date: 2023-01-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## A Polícia Federal encerrou na tarde desta quarta-feira (11/1) as atividades de polícia judiciária determinadas pelo STF após os atos do último domingo.
 

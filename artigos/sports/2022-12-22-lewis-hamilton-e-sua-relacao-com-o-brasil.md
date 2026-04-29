@@ -1,12 +1,11 @@
 ---
-title: Lewis Hamilton e sua relação com o Brasil
+title: "Lewis Hamilton e sua relação com o Brasil"
 date: 2022-12-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O piloto multi-campeão Lewis Hamilton tem um carinho muito especial pelo Brasil e isso se tornou visível ao longo dos anos. 
 

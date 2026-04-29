@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping tem programação infantil gratuita na Páscoa
+title: "Caxias Shopping tem programação infantil gratuita na Páscoa"
 date: 2023-04-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 **Caça aos chocolates e visita do coelho estão entre as atividades**
 

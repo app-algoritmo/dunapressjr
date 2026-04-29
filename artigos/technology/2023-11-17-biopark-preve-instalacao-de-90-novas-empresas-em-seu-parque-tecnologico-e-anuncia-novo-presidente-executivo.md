@@ -1,13 +1,11 @@
 ---
-title: Biopark prevê instalação de 90 novas empresas em seu Parque Tecnológico e anuncia
-  novo presidente executivo
+title: "Biopark prevê instalação de 90 novas empresas em seu Parque Tecnológico e anuncia novo presidente executivo"
 date: 2023-11-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 O Biopark – Parque Tecnológico instalado em Toledo, Oeste do Paraná – agora tem um novo presidente executivo. Victor Donaduzzi assumiu o posto que era do seu pai, Luiz Donaduzzi, na presidência da empresa no início do mês. Victor estava à frente da vice-presidência do conselho e já ocupou cargo de diretor administrativo do Biopark, e diretor de negócios internacionais da indústria farmacêutica Prati-Donaduzzi – considerada atualmente a maior produtora de medicamentos genéricos da América Latina.
 

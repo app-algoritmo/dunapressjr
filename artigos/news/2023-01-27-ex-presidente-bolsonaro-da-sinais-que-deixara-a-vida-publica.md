@@ -1,12 +1,11 @@
 ---
-title: Ex-presidente, Bolsonaro dá sinais que deixará a vida pública
+title: "Ex-presidente, Bolsonaro dá sinais que deixará a vida pública"
 date: 2023-01-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## O ex-presidente parece que não conseguirá se recuperar da desilusão em ter perdido a eleição de 2022, mesmo ainda obtendo um bom capital político.
 

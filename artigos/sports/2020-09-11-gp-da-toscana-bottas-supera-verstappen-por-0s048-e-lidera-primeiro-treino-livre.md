@@ -1,13 +1,11 @@
 ---
-title: 'GP da Toscana: Bottas supera Verstappen por 0s048 e lidera primeiro treino
-  livre'
+title: "GP da Toscana: Bottas supera Verstappen por 0s048 e lidera primeiro treino livre"
 date: 2020-09-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 **No fim de semana do GP 1000 da Ferrari na Fórmula 1, Leclerc surpreende e fica em terceiro lugar à frente de Hamilton e Gasly.**
 

@@ -1,14 +1,13 @@
 ---
-title: Caxias Shopping recebe feira agroecológica neste fim de semana
+title: "Caxias Shopping recebe feira agroecológica neste fim de semana"
 date: 2023-08-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
-- Events
-- Food
+  - Entrepreneurship
+  - Events
+  - Food
 ---
-
 
 ## Evento reúne produtores rurais com oferta de alimentos in natura e produtos artesanais.
 

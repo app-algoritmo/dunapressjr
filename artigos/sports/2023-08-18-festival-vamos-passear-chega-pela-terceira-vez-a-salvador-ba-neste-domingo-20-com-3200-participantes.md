@@ -1,13 +1,11 @@
 ---
-title: Festival Vamos Passear chega pela terceira vez a Salvador (BA), neste domingo
-  (20), com 3.200 participantes
+title: "Festival Vamos Passear chega pela terceira vez a Salvador (BA), neste domingo (20), com 3.200 participantes"
 date: 2023-08-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Passeio de Bike, Caminhada e Corrida Infantil, assim como diferentes atividades gratuitas, vão movimentar a Praça de Piatã, com programação a partir das 7h, reunindo pessoas de todas as idades para muito lazer e bem-estar.
 

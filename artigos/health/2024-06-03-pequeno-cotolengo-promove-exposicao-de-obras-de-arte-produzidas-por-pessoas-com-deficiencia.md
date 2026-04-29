@@ -1,13 +1,11 @@
 ---
-title: Pequeno Cotolengo promove exposição de obras de arte produzidas por pessoas
-  com deficiência
+title: "Pequeno Cotolengo promove exposição de obras de arte produzidas por pessoas com deficiência"
 date: 2024-06-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## São mais de 70 obras como pinturas, esculturas e desenhos, produzidos por Assistidos da Organização, a primeira exposição acontece no dia 08 de junho, aberta ao público e com entrada gratuita. 
 

@@ -1,13 +1,11 @@
 ---
-title: Nutrição Sem Fronteiras faz evento de capacitação e valorização profissional
-  no Rio de Janeiro
+title: "Nutrição Sem Fronteiras faz evento de capacitação e valorização profissional no Rio de Janeiro"
 date: 2023-11-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Cidade Maravilhosa recebe a Imersão Nutrição Sem Fronteiras - Escala Rio de Janeiro dia 2 de dezembro. Evento traz ferramentas para revolucionar a categoria e pré-venda já está aberta.
 

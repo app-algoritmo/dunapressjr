@@ -1,13 +1,12 @@
 ---
-title: Mayans M.C. anuncia temporada final ganha trailer e data de estreia
+title: "Mayans M.C. anuncia temporada final ganha trailer e data de estreia"
 date: 2023-04-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A FX lançou o primeiro trailer da quinta e última temporada de Mayans MC e as coisas não parecem boas para EZ Reyes (JD Pardo).
 

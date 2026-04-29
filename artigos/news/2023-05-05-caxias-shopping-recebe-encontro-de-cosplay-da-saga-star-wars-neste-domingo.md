@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping recebe encontro de cosplay da saga Star Wars neste domingo
+title: "Caxias Shopping recebe encontro de cosplay da saga Star Wars neste domingo"
 date: 2023-05-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Saiba mais sobre a experiência mágica que vai acontecer no Caxias Shopping nesse domingo.
 

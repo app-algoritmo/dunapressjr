@@ -1,12 +1,11 @@
 ---
-title: 'Terceira Idade: como recuperar a massa muscular perdida com o passar do tempo'
+title: "Terceira Idade: como recuperar a massa muscular perdida com o passar do tempo"
 date: 2023-08-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## A passagem do tempo traz desafios para a saúde e a vitalidade do corpo. A perda involuntária de massa muscular torna-se uma preocupação crescente à medida que as pessoas envelhecem. 
 

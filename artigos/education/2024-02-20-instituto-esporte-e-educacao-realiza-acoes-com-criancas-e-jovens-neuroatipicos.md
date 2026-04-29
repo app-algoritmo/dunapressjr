@@ -1,13 +1,12 @@
 ---
-title: Instituto Esporte e Educação realiza ações com crianças e jovens neuroatípicos
+title: "Instituto Esporte e Educação realiza ações com crianças e jovens neuroatípicos"
 date: 2024-02-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Ao longo de 2023, foram atendidos 223 crianças e jovens em 20 locais diferentes e em atividades desenvolvidas nas etapas da Caravana do Esporte. Sem falar nos encontros sobre o tema e nas reuniões e visitas do Núcleo Temático de Inclusão do IEE.
 

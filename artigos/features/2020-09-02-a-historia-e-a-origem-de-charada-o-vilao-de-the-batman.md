@@ -1,12 +1,11 @@
 ---
-title: A história e a origem de Charada, o vilão de The Batman
+title: "A história e a origem de Charada, o vilão de The Batman"
 date: 2020-09-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 # Um dos maiores vilões de Gotham é o personagem do Charada, que já sabemos ser o vilão do novo filme do Batman.
 

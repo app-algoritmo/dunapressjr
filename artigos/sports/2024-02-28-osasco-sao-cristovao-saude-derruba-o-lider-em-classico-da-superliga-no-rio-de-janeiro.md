@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde derruba o líder em clássico da Superliga no Rio
-  de Janeiro
+title: "Osasco São Cristóvão Saúde derruba o líder em clássico da Superliga no Rio de Janeiro"
 date: 2024-02-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar segue com a segunda colocação isolada após uma atuação marcada por raça e poder de recuperação para fazer 3 sets a 2.
 

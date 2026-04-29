@@ -1,13 +1,12 @@
 ---
-title: Sábado de esporte e diversão outdoor no Rocky Mountain Games Juquitiba
+title: "Sábado de esporte e diversão outdoor no Rocky Mountain Games Juquitiba"
 date: 2023-08-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Maior festival de esportes e cultura de montanha será realizado neste sábado (26) e conta com mountain bike, trail run, canicross e gravel.
 

@@ -1,13 +1,12 @@
 ---
-title: Documentário Aretha no Everest estreia no Festival do Rio
+title: "Documentário Aretha no Everest estreia no Festival do Rio"
 date: 2023-10-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Documentaries
-- Sports
+  - Documentaries
+  - Sports
 ---
-
 
 ## História de Aretha Duarte, primeira negra latino-americana a chegar ao ponto mais alto do planeta ganha as telonas e faz parte de um projeto maior da empreendedora socioambiental brasileira, patrocinado pela Enel Distribuição Rio.
 

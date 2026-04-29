@@ -1,13 +1,12 @@
 ---
-title: Feira agroecológica no Caxias Shopping acontece nos dias 06 e 07 de maio
+title: "Feira agroecológica no Caxias Shopping acontece nos dias 06 e 07 de maio"
 date: 2023-05-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- News
+  - Health
+  - News
 ---
-
 
 ## **Evento conta com oferta de alimentos in natura e produtos artesanais oriundos de produtores locais**.
 

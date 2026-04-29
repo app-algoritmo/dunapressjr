@@ -1,12 +1,11 @@
 ---
-title: Série de fantasia 'Sombra e Ossos' da Netflix é cancelada
+title: "Série de fantasia 'Sombra e Ossos' da Netflix é cancelada"
 date: 2023-11-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Série de fantasia e aventura Sombra e ossos, inspirada nos romances best-sellers Grishaverse de Leigh Bardugo, é cancelada na Netflix.
 

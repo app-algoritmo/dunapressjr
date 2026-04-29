@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani é porta-bandeira do Brasil nos Jogos Pan-Americanos, em Santiago
+title: "Luisa Stefani é porta-bandeira do Brasil nos Jogos Pan-Americanos, em Santiago"
 date: 2023-10-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Cerimônia de abertura está marcada para a noite desta sexta-feira (20), a partir das 20h30, no Chile.
 

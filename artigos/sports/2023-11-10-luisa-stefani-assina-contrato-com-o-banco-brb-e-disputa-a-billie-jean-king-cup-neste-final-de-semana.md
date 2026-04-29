@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani assina contrato com o Banco BRB e disputa a Billie Jean King
-  Cup neste final de semana
+title: "Luisa Stefani assina contrato com o Banco BRB e disputa a Billie Jean King Cup neste final de semana"
 date: 2023-11-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana defende o Brasil no confronto diante da Coreia do Sul e está escalada para jogar com Beatriz Haddad Maia no sábado (11).
 

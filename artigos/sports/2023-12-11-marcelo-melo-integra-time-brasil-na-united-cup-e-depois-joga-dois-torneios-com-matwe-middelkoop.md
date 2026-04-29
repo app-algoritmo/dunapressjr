@@ -1,14 +1,12 @@
 ---
-title: Marcelo Melo integra Time Brasil na United Cup e, depois, joga dois torneios
-  com Matwe Middelkoop
+title: "Marcelo Melo integra Time Brasil na United Cup e, depois, joga dois torneios com Matwe Middelkoop"
 date: 2023-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Competição entre países será na cidade australiana de Perth. Na sequência, também na Austrália, mineiro e holandês disputam o ATP 250 de Adelaide e o Australian Open.
 

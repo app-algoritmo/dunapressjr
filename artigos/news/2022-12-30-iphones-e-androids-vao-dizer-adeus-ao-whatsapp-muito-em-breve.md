@@ -1,13 +1,12 @@
 ---
-title: Iphones e Androids vão dizer ADEUS ao WhatsApp muito em breve
+title: "Iphones e Androids vão dizer ADEUS ao WhatsApp muito em breve"
 date: 2022-12-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Technology
+  - News
+  - Technology
 ---
-
 
 ## Em um novo anúncio realizado pelo WhatsApp, o aplicativo deixará de funcionar nos aparelhos com mais de oito anos de fabricação.
 

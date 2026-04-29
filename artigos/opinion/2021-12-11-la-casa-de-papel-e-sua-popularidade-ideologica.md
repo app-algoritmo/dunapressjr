@@ -1,12 +1,11 @@
 ---
-title: La Casa de Papel e sua popularidade ideológica
+title: "La Casa de Papel e sua popularidade ideológica"
 date: 2021-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
+  - Opinion
 ---
-
 
 Como a série La Casa de Papel se tornou um sucesso mundial usando o drama, o exagero e a ideologia progressista.
 

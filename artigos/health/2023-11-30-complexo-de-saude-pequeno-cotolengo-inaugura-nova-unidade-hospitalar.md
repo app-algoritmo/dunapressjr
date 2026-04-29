@@ -1,12 +1,11 @@
 ---
-title: Complexo de Saúde Pequeno Cotolengo inaugura nova Unidade Hospitalar
+title: "Complexo de Saúde Pequeno Cotolengo inaugura nova Unidade Hospitalar"
 date: 2023-11-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## A Unidade conta com 25 leitos para cuidados prolongados, e vai atuar na reabilitação de pacientes do SUS. Evento de inauguração acontece na sexta (01).
 

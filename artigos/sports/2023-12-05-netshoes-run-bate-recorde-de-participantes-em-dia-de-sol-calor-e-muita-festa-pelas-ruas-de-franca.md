@@ -1,13 +1,11 @@
 ---
-title: Netshoes Run bate recorde de participantes em dia de sol, calor e muita festa
-  pelas ruas de Franca
+title: "Netshoes Run bate recorde de participantes em dia de sol, calor e muita festa pelas ruas de Franca"
 date: 2023-12-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O evento chegou pela primeira vez ao interior de São Paulo, neste domingo (3), elogiado por todos. Foram 1.750 pessoas na segunda etapa da prova em 2023.
 

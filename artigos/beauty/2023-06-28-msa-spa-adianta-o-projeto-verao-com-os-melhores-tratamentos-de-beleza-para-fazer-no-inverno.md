@@ -1,14 +1,12 @@
 ---
-title: MSA Spa adianta o projeto verão com os melhores tratamentos de beleza para
-  fazer no inverno
+title: "MSA Spa adianta o projeto verão com os melhores tratamentos de beleza para fazer no inverno"
 date: 2023-06-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Beauty
-- Health
+  - Beauty
+  - Health
 ---
-
 
 ## Aparelhos estéticos e Ritual de Inverno são destaques da temporada.
 

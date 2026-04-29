@@ -1,13 +1,12 @@
 ---
-title: Volta Ciclística de Goiás já tem 22 equipes confirmadas na 21ª edição, em março
+title: "Volta Ciclística de Goiás já tem 22 equipes confirmadas na 21ª edição, em março"
 date: 2024-02-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Três delas são estrangeiras - entre as quais a primeira europeia na história da competição. Prova, a principal de ciclismo de estrada do calendário nacional, movimentará a cidade de Caldas Novas, entre os dias 13 e 17 do próximo mês.
 

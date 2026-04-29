@@ -1,13 +1,11 @@
 ---
-title: Maringá ganha novo empreendimento com soluções de economia compartilhada e
-  uso responsável dos recursos naturais
+title: "Maringá ganha novo empreendimento com soluções de economia compartilhada e uso responsável dos recursos naturais"
 date: 2024-06-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Solar das Araucárias, da Construtora Yticon, conta com 320 unidades distribuídas em cinco torres.
 

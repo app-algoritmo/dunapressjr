@@ -1,12 +1,11 @@
 ---
-title: Estudantes criam trator para auxiliar comunidades quilombolas da Lapa
+title: "Estudantes criam trator para auxiliar comunidades quilombolas da Lapa"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Projeto de TCC de estudantes da Universidade Positivo aumenta produtividade, reduz custo de produção e melhora qualidade dos alimentos produzidos por pequenos produtores.
 

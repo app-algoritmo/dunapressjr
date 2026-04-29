@@ -1,12 +1,11 @@
 ---
-title: Frio nos Ossos | Crítica
+title: "Frio nos Ossos | Crítica"
 date: 2024-02-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## "Frio nos Ossos", disponível na HBO, mescla o suspense psicológico com segredos sombrios.
 

@@ -1,13 +1,12 @@
 ---
-title: Especialista dá dicas para criar hábitos financeiros saudáveis em 2024
+title: "Especialista dá dicas para criar hábitos financeiros saudáveis em 2024"
 date: 2024-01-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Financial Education
+  - Education
+  - Financial Education
 ---
-
 
 ## O ano de 2023 está chegou ao fim e, com ele, as promessas de mudanças para o próximo ano. Uma das metas mais comuns é melhorar a saúde financeira.
 

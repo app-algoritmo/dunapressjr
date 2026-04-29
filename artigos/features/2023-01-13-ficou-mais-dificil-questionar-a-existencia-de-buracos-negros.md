@@ -1,13 +1,12 @@
 ---
-title: Ficou mais difícil questionar a existência de buracos negros
+title: "Ficou mais difícil questionar a existência de buracos negros"
 date: 2023-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Simulações numéricas sugerem que estranhos impostores de buracos negros seriam instáveis.
 

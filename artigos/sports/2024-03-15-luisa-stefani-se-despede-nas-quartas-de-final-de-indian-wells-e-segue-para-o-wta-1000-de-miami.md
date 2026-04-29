@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani se despede nas quartas de final de Indian Wells e segue para
-  o WTA 1000 de Miami
+title: "Luisa Stefani se despede nas quartas de final de Indian Wells e segue para o WTA 1000 de Miami"
 date: 2024-03-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e a holandesa Demi Schuurs caíram diante de principais favoritas, em jogo na noite desta quarta-feira (13), na Califórnia, nos Estados Unidos.
 

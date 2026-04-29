@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a nove estados em setembro e vai beneficiar 69
-  mil alunos
+title: "Projeto Formações IEE chega a nove estados em setembro e vai beneficiar 69 mil alunos"
 date: 2023-09-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 920 professores, gestores, coordenadores e diretores de 16 cidades que estarão participando de diferentes módulos, com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

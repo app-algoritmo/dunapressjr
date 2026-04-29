@@ -1,12 +1,11 @@
 ---
-title: Farmacêutica busca faturamento de R$ 4 bilhões em 2027
+title: "Farmacêutica busca faturamento de R$ 4 bilhões em 2027"
 date: 2023-12-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Indústria começou há 30 anos com os sonhos de uma família, dentro de casa, e hoje é referência em medicamento genérico e canabidiol.
 

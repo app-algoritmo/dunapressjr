@@ -1,14 +1,13 @@
 ---
-title: Toto Wolff elogia desempenho de Hamilton em Miami
+title: "Toto Wolff elogia desempenho de Hamilton em Miami"
 date: 2023-05-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Formula 1
-- News
-- Sports
+  - Formula 1
+  - News
+  - Sports
 ---
-
 
 ## Toto Wolff elogia desempenho de Hamilton em Miami ao admitir que o W14 é 'venenoso' para dirigir.
 

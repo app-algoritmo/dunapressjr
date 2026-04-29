@@ -1,13 +1,12 @@
 ---
-title: Lewis Hamilton e a falta de liberdade de expressão dentro da Fórmula 1
+title: "Lewis Hamilton e a falta de liberdade de expressão dentro da Fórmula 1"
 date: 2020-09-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
-- Sports
+  - Opinion
+  - Sports
 ---
-
 
 **FIA confirmou que está analisando se camiseta utilizada pelo hexacampeão no GP da Toscana, cobrando justiça pela paramédica Breonna Taylor, configura como manifestação política**
 

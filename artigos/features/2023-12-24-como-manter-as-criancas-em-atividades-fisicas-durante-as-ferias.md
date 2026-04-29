@@ -1,12 +1,11 @@
 ---
-title: Como manter as crianças em atividades físicas durante as férias?
+title: "Como manter as crianças em atividades físicas durante as férias?"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Com a chegada das férias escolares, surge o desafio para os pais em manter as crianças engajadas em atividades físicas e saudáveis.
 

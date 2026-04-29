@@ -1,13 +1,11 @@
 ---
-title: 'Rumo ao carbono zero: Valmet adota práticas a fim de reduzir em 80% as emissões
-  de CO₂ até 2030'
+title: "Rumo ao carbono zero: Valmet adota práticas a fim de reduzir em 80% as emissões de CO₂ até 2030"
 date: 2024-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
+  - Environment
 ---
-
 
 ## Gestão de resíduos, manejo sustentável da água e adoção de energia solar estão entre as iniciativas adotadas pela multinacional finlandesa. O objetivo é zerar as emissões de carbono na cadeia produtiva até 2030, já tendo alcançado uma redução de 50% de CO² desde 2019.
 

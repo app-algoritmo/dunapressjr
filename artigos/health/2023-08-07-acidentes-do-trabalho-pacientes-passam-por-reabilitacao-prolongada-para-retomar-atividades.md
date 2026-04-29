@@ -1,13 +1,11 @@
 ---
-title: 'Acidentes do Trabalho: pacientes passam por reabilitação prolongada para retomar
-  atividades'
+title: "Acidentes do Trabalho: pacientes passam por reabilitação prolongada para retomar atividades"
 date: 2023-08-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Com mais de um caso de acidente por minuto, dedos são os membros mais atingidos e representam um quarto das lesões.
 

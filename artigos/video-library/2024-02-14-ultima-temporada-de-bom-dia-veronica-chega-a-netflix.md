@@ -1,12 +1,11 @@
 ---
-title: Última temporada de 'Bom dia, Verônica' chega a Netflix
+title: "Última temporada de 'Bom dia, Verônica' chega a Netflix"
 date: 2024-02-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Contagem regressiva para a estreia da terceira e última temporada de "*Bom Dia, Verônica", *que chega no streaming nessa quarta-feira de carnaval, 14/02 .
 

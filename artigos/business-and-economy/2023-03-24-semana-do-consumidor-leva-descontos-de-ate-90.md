@@ -1,13 +1,12 @@
 ---
-title: Semana do Consumidor leva descontos de até 90%
+title: "Semana do Consumidor leva descontos de até 90%"
 date: 2023-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Business and Economy
-- News
+  - Business and Economy
+  - News
 ---
-
 
 **Semana do Consumidor leva descontos de até 90% às lojas dos shoppings da Aliansce Sonae + brMalls no Rio de Janeiro**
 

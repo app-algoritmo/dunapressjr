@@ -1,13 +1,11 @@
 ---
-title: Paciente canta e toca violão durante cirurgia para retirada de tumor cerebral
-  em hospital SUS
+title: "Paciente canta e toca violão durante cirurgia para retirada de tumor cerebral em hospital SUS"
 date: 2023-08-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Tradicional silêncio do centro cirúrgico ganhou música que ajudou a guiar procedimento com paciente acordado, garantindo uma recuperação sem sequelas.
 

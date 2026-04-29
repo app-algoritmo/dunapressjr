@@ -1,13 +1,11 @@
 ---
-title: 'Turismo de bem-estar: Global Wellness Institute estima crescimento de 21%
-  ao ano até 2025'
+title: "Turismo de bem-estar: Global Wellness Institute estima crescimento de 21% ao ano até 2025"
 date: 2023-12-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## NH Curitiba The Five Curitiba inaugura Naturo SPA com experiências holísticas que proporcionam sensação de escapismo da vida cosmopolita.
 

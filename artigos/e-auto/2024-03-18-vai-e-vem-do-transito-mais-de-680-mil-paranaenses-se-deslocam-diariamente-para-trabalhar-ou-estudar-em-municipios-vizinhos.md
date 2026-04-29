@@ -1,13 +1,11 @@
 ---
-title: '''Vai e vem do trânsito'': mais de 680 mil paranaenses se deslocam diariamente
-  para trabalhar ou estudar em municípios vizinhos'
+title: "'Vai e vem do trânsito': mais de 680 mil paranaenses se deslocam diariamente para trabalhar ou estudar em municípios vizinhos"
 date: 2024-03-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Estudo do IBGE revela volume de trabalhadores e estudantes em trajetos diários; Curitiba e 17 cidades vizinhas formam a nona maior concentração urbana do país.
 

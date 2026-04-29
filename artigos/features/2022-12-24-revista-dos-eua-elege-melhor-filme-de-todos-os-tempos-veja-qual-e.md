@@ -1,13 +1,12 @@
 ---
-title: Revista dos EUA elege melhor filme de todos os tempos; veja qual é
+title: "Revista dos EUA elege melhor filme de todos os tempos; veja qual é"
 date: 2022-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A “Variety”, publicação de entretenimento, divulgou a lista dos 100 melhores filmes da história na avaliação da revista; confira.
 

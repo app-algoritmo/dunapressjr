@@ -1,13 +1,11 @@
 ---
-title: Mulheres lutam para conquistar espaço na produção científica com pesquisas
-  lideradas por elas
+title: "Mulheres lutam para conquistar espaço na produção científica com pesquisas lideradas por elas"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Apesar de serem maioria na iniciação científica, pesquisadoras enfrentam desafios para conquistar representatividade nas bolsas concedidas no topo de suas carreiras.
 

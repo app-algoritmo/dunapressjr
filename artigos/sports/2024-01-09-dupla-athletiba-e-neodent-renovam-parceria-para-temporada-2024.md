@@ -1,12 +1,11 @@
 ---
-title: Dupla Athletiba e Neodent renovam parceria para temporada 2024
+title: "Dupla Athletiba e Neodent renovam parceria para temporada 2024"
 date: 2024-01-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Marca paranaense, presente nos uniformes dos times desde 2021, renova contratos de patrocínio.
 

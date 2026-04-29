@@ -1,12 +1,11 @@
 ---
-title: Eficiência na logística rende prêmio à Prati-Donaduzzi
+title: "Eficiência na logística rende prêmio à Prati-Donaduzzi"
 date: 2023-09-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Premiação foi entregue durante Abrafarma Future Trends, evento que reuniu mais de 5 mil pessoas em São Paulo.
 

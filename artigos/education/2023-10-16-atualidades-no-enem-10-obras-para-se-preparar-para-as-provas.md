@@ -1,12 +1,11 @@
 ---
-title: 'Atualidades no Enem: 10 obras para se preparar para as provas'
+title: "Atualidades no Enem: 10 obras para se preparar para as provas"
 date: 2023-10-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## O Exame Nacional do Ensino Médio (Enem) costuma apresentar questões importantes para a sociedade. O candidato que vai prestar o exame precisa ter conhecimento sobre os temas em evidência, seja no Brasil ou no restante do mundo. 
 

@@ -1,13 +1,12 @@
 ---
-title: Educação Física ajuda na aprendizagem de outras disciplinas
+title: "Educação Física ajuda na aprendizagem de outras disciplinas"
 date: 2024-05-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Componente curricular preferido de muitos estudantes, a Educação Física é, por vezes, encarada como um momento de descontração da rotina escolar.
 

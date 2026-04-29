@@ -1,13 +1,11 @@
 ---
-title: André Baran e Michele Cappelletti são campeões do River Open Petrolina de Beach
-  Tennis, em Pernambuco
+title: "André Baran e Michele Cappelletti são campeões do River Open Petrolina de Beach Tennis, em Pernambuco"
 date: 2023-09-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Foi o segundo torneio da parceria, que comemora seu primeiro título, em decisão neste domingo (17), na EMS Arena, no Vale do São Francisco. O catarinense - número 1 do Brasil - conquistou também as duplas mistas, ao lado de Vitória Marchezini.
 

@@ -1,13 +1,11 @@
 ---
-title: Dra. Dulci destaca ano positivo, mesmo frustrada com desorganização das provas
-  no Pará
+title: "Dra. Dulci destaca ano positivo, mesmo frustrada com desorganização das provas no Pará"
 date: 2023-12-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Advogada paraense competiu no Circuito OAB de Corrida de Rua, com quatro pódios e o título da categoria Advogada Máster. Agora, disputará apenas provas nacionais em 2024.
 

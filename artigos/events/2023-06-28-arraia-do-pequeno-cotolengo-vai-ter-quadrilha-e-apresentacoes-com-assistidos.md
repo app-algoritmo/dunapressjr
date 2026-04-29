@@ -1,12 +1,11 @@
 ---
-title: Arraiá do Pequeno Cotolengo vai ter quadrilha e apresentações com Assistidos
+title: "Arraiá do Pequeno Cotolengo vai ter quadrilha e apresentações com Assistidos"
 date: 2023-06-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## O evento acontece no domingo, dia 02, começa às 11h com o tradicional churrasco e vai até às 18h com brincadeiras, atrações musicais e comidas típicas.
 

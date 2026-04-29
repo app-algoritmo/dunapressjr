@@ -1,13 +1,11 @@
 ---
-title: Parques das Zonas Oeste e Norte recebem as unidades móveis do SAMPA Saúde em
-  Movimento
+title: "Parques das Zonas Oeste e Norte recebem as unidades móveis do SAMPA Saúde em Movimento"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Entre quinta-feira (11) a domingo (14), os veículos equipados com aparelhos de ponta oferecerão avaliação nutricional e física grátis para a população da cidade de São Paulo.
 

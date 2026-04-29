@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani embarca para iniciar a temporada na Austrália e define equipe
-  técnica
+title: "Luisa Stefani embarca para iniciar a temporada na Austrália e define equipe técnica"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana joga ao lado de Ingrid Martins no torneio que começa a partir do dia 1º de janeiro. Na sequência disputa o WTA de Adelaide e o Australian Open com a holandesa Demi Schuurs. Ela terá Guilherme Pachane como técnico principal e contará com a mentoria de Bruno Soares e Hugo Daibert.
 

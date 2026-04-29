@@ -1,12 +1,11 @@
 ---
-title: Futuro ministro da Integração Nacional já foi condenado pelo STJ
+title: "Futuro ministro da Integração Nacional já foi condenado pelo STJ"
 date: 2022-12-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Governador do Amapá, Waldez Góes, foi anunciado para cargo nesta quinta-feira.
 

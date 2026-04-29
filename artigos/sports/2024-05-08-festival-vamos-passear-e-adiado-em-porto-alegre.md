@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear é adiado em Porto Alegre
+title: "Festival Vamos Passear é adiado em Porto Alegre"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O evento, programado inicialmente para o dia 19 deste mês, ainda não tem nova data definida.
 

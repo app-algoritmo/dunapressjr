@@ -1,13 +1,11 @@
 ---
-title: Caxias Shopping promove atividades infantis gratuitas durante os domingos de
-  junho
+title: "Caxias Shopping promove atividades infantis gratuitas durante os domingos de junho"
 date: 2024-05-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Peça teatral, circuito junino, contação de histórias, baladinha kids e muitas brincadeiras estão na programação deste mês.
 

@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde entra em quadra e lança série de vídeos no Dia da
-  Mulher
+title: "Osasco São Cristóvão Saúde entra em quadra e lança série de vídeos no Dia da Mulher"
 date: 2024-03-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Camila Brait, Lorenne, Tifanny, Butler, Giovana e cia. são as estrelas de uma série para o Youtube e redes sociais do clube. Elas também enfrentam o São Caetano nesta sexta-feira (8), no ginásio José Liberatti.
 

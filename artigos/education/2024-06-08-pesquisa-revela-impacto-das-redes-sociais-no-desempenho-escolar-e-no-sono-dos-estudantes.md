@@ -1,13 +1,11 @@
 ---
-title: Pesquisa revela impacto das redes sociais no desempenho escolar e no sono dos
-  estudantes
+title: "Pesquisa revela impacto das redes sociais no desempenho escolar e no sono dos estudantes"
 date: 2024-06-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Estudo elaborado por aluno do Ensino Médio e UFPR ouviu cerca de mil alunos.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Enem 2023: participação dos pais influencia desempenho de estudantes na prova'
+title: "Enem 2023: participação dos pais influencia desempenho de estudantes na prova"
 date: 2023-10-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Não é novidade para ninguém que a proximidade entre família e escola é muito importante para o processo de ensino e aprendizagem de estudantes de todas as idades.
 

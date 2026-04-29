@@ -1,13 +1,12 @@
 ---
-title: Alanis Morissette e Ed Sheeran serão jurados convidados do 'American Idol'
+title: "Alanis Morissette e Ed Sheeran serão jurados convidados do 'American Idol'"
 date: 2023-05-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Alanis Morissette e Ed Sheeran estão ajudando Luke Bryan a segurar o American Idol no domingo.
 

@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde derrota o Praia Clube fora de casa e volta ao G4
-  da Superliga
+title: "Osasco São Cristóvão Saúde derrota o Praia Clube fora de casa e volta ao G4 da Superliga"
 date: 2024-01-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar jogou com foco e força no ataque e defesa para fechar em 3 sets a 1 e bater o segundo time mineiro em cinco dias.
 

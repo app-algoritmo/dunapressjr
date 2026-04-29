@@ -1,14 +1,12 @@
 ---
-title: Rihanna aparece no CinemaCon e revela que está interpretando 'Smurfette' no
-  Paramount
+title: "Rihanna aparece no CinemaCon e revela que está interpretando 'Smurfette' no Paramount"
 date: 2023-05-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Music
-- Video library
+  - Music
+  - Video library
 ---
-
 
 ## Rihanna diz no CinemaCon, que está interpretando "smurfette para o Paramount Pictures no filme dos Smurfs. 
 

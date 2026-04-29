@@ -1,12 +1,11 @@
 ---
-title: 'COMUNICADO : Wine Run - Vale dos Vinhedos 2024 é cancelada'
+title: "COMUNICADO : Wine Run - Vale dos Vinhedos 2024 é cancelada"
 date: 2024-05-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## A corrida estava programado para o dia 25 deste mês na Serra Gaúcha.
 

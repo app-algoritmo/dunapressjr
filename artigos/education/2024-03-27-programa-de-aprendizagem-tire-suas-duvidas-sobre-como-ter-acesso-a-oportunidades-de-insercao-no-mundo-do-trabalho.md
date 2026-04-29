@@ -1,13 +1,11 @@
 ---
-title: 'Programa de Aprendizagem: tire suas dúvidas sobre como ter acesso a oportunidades
-  de inserção no mundo do trabalho'
+title: "Programa de Aprendizagem: tire suas dúvidas sobre como ter acesso a oportunidades de inserção no mundo do trabalho"
 date: 2024-03-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Iniciativa que beneficiou mais de 11 mil adolescentes e jovens do Paraná em 2023 promove vivência dentro de empresas e acompanhamento multidisciplinar.
 

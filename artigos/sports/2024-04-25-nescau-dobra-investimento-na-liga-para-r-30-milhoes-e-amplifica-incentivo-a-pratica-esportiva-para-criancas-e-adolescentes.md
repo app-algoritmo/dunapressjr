@@ -1,13 +1,11 @@
 ---
-title: NESCAU® dobra investimento na Liga para R$ 30 milhões e amplifica incentivo
-  à prática esportiva para crianças e adolescentes
+title: "NESCAU® dobra investimento na Liga para R$ 30 milhões e amplifica incentivo à prática esportiva para crianças e adolescentes"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## NESCAU® dobra investimento na Liga para R$ 30 milhões e amplifica incentivo à prática esportiva para crianças e adolescentes.
 

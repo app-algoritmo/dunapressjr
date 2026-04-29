@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping realiza contação de história no próximo domingo
+title: "Caxias Shopping realiza contação de história no próximo domingo"
 date: 2024-06-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Atividade infantil  gratuita faz parte do projeto Leitura para Todos.
 

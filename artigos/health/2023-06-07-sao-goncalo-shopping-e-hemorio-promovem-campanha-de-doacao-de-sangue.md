@@ -1,12 +1,11 @@
 ---
-title: SÃO GONÇALO SHOPPING E HEMORIO PROMOVEM CAMPANHA DE DOAÇÃO DE SANGUE
+title: "SÃO GONÇALO SHOPPING E HEMORIO PROMOVEM CAMPANHA DE DOAÇÃO DE SANGUE"
 date: 2023-06-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 No sábado, dia 10 de junho, o São Gonçalo Shopping realiza, em parceria com o Hemorio, uma campanha especial de doação de sangue com o objetivo de aumentar o número de doadores a fim de regularizar os estoques de sangue e atender a todos que precisam.
 

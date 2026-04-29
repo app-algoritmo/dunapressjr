@@ -1,12 +1,11 @@
 ---
-title: Esvaziar a bexiga antes de entrar no carro pode salvar a sua vida
+title: "Esvaziar a bexiga antes de entrar no carro pode salvar a sua vida"
 date: 2023-08-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Podem acontecer complicações por segurar a vontade de ir ao banheiro antes de entrar no automóvel.
 

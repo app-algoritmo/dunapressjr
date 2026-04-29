@@ -1,13 +1,11 @@
 ---
-title: Campanha 'Vire o Jogo' exalta força do esporte como ferramenta de inclusão
-  para crianças e adolescentes
+title: "Campanha 'Vire o Jogo' exalta força do esporte como ferramenta de inclusão para crianças e adolescentes"
 date: 2023-08-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O filme é protagonizado por atletas e paratletas, embaixadores e embaixadoras de NESCAU®, e evidencia que no esporte não há espaço para tabus.
 

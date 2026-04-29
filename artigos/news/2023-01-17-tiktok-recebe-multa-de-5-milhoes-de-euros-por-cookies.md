@@ -1,12 +1,11 @@
 ---
-title: TikTok recebe multa de 5 milhões de euros por cookies
+title: "TikTok recebe multa de 5 milhões de euros por cookies"
 date: 2023-01-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## As autoridades de dados da França perceberam duas violações do TikTok em relação a sua politica com cookies.
 

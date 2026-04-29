@@ -1,12 +1,11 @@
 ---
-title: Porque estão mudando a sexualidade dos heróis?
+title: "Porque estão mudando a sexualidade dos heróis?"
 date: 2022-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
+  - Opinion
 ---
-
 
 **Existem muitas opiniões sobre isso e devemos refletir sobre o futuro. Vários heróis já tiveram sua sexualidade transformada, já aconteceu com Superman, Batman, James Bond (Que não é bem um herói) e agora a nova mudança é o Zorro. **
 

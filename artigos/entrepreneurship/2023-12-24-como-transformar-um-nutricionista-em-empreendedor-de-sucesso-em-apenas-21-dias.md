@@ -1,13 +1,12 @@
 ---
-title: Como transformar um nutricionista em empreendedor de sucesso em apenas 21 dias
+title: "Como transformar um nutricionista em empreendedor de sucesso em apenas 21 dias"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
-- Health
+  - Entrepreneurship
+  - Health
 ---
-
 
 ## Conheça a teoria das três semanas e como desafios como o do Nutrição Sem Fronteiras transformam carreiras.
 

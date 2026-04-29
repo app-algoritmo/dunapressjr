@@ -1,12 +1,11 @@
 ---
-title: Tratamento menos invasivo para próstata aumentada agora é realizado no Brasil
+title: "Tratamento menos invasivo para próstata aumentada agora é realizado no Brasil"
 date: 2023-08-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Procedimento conhecido como Rezum é feito sem anestesia e não requer internamento.
 

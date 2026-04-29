@@ -1,13 +1,11 @@
 ---
-title: Hospital 100% SUS utiliza inteligência artificial para transformar cuidado
-  em melodia
+title: "Hospital 100% SUS utiliza inteligência artificial para transformar cuidado em melodia"
 date: 2024-06-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Equipe do Hospital Universitário Cajuru, em Curitiba, presenteia pacientes com canções baseadas em suas histórias de vida.
 

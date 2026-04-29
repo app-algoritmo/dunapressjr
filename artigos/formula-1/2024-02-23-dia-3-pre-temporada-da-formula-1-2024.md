@@ -1,13 +1,12 @@
 ---
-title: Dia 3 | Pré-Temporada da Fórmula 1 2024
+title: "Dia 3 | Pré-Temporada da Fórmula 1 2024"
 date: 2024-02-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Formula 1
-- Sports
+  - Formula 1
+  - Sports
 ---
-
 
 ## No último dia de testes da pré-temporada de Fórmula 1, Ferrari parece continuar do mesmo ponto em que parou em 2023, e Mercedes parece ter alcançado respostas precisas e superado obstáculos.
 

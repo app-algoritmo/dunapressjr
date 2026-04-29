@@ -1,13 +1,11 @@
 ---
-title: Desafio Mecânico do Shimano Fest 2024 levará vencedores para disputar Campeonato
-  Internacional de Mecânicos
+title: "Desafio Mecânico do Shimano Fest 2024 levará vencedores para disputar Campeonato Internacional de Mecânicos"
 date: 2024-06-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Os três primeiros colocados da tradicional competição ganharão o direito de participar do mundial de mecânicos de bicicleta na Bélgica, com todas as despesas pagas.
 

@@ -1,13 +1,12 @@
 ---
-title: Híbridos lutam contra soldados na segunda temporada da série 'Sweet Tooth'
+title: "Híbridos lutam contra soldados na segunda temporada da série 'Sweet Tooth'"
 date: 2023-04-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Avisado de que “ninguém estará seguro” Gus (Christian Convery) jura lutar contra os Últimos Homens que o mantêm cativo em um esforço para encontrar uma cura para os doentes.
 

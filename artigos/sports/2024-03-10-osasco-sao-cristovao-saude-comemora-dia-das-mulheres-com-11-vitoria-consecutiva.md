@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde comemora Dia das Mulheres com 11ª vitória consecutiva
+title: "Osasco São Cristóvão Saúde comemora Dia das Mulheres com 11ª vitória consecutiva"
 date: 2024-03-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar superou São Caetano em sets diretos e manteve a vice-liderança da Superliga Bet7K.
 

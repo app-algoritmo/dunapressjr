@@ -1,13 +1,11 @@
 ---
-title: '''Barbeiro ou piloto?'': confira infrações no trânsito que motoristas cometem
-  sem saber'
+title: "'Barbeiro ou piloto?': confira infrações no trânsito que motoristas cometem sem saber"
 date: 2023-09-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Em referência ao Dia Nacional do Trânsito (25/9), especialista em mobilidade urbana e instrutor de trânsito do V1 elenca alguns dos comportamentos dos brasileiros que são passíveis de multa.
 

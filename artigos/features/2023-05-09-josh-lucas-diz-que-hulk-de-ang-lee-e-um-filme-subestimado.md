@@ -1,13 +1,12 @@
 ---
-title: Josh Lucas diz que HULK de Ang Lee é um filme 'subestimado'
+title: "Josh Lucas diz que HULK de Ang Lee é um filme 'subestimado'"
 date: 2023-05-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Hulk de Ang lee foi subestimado? Este é um filme da Marvel sobre o qual não se fala o suficiente.
 

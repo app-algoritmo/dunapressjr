@@ -1,12 +1,11 @@
 ---
-title: Direção defensiva e cuidados essenciais para evitar acidentes de trânsito
+title: "Direção defensiva e cuidados essenciais para evitar acidentes de trânsito"
 date: 2024-06-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Especialista enumera dicas cruciais para segurança ao volante em meio a estatísticas alarmantes da Secretaria Nacional de Trânsito.
 

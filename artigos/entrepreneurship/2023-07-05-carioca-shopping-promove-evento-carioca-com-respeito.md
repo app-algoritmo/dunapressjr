@@ -1,13 +1,12 @@
 ---
-title: 'Carioca Shopping promove evento: Carioca com Respeito'
+title: "Carioca Shopping promove evento: Carioca com Respeito"
 date: 2023-07-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
-- Events
+  - Entrepreneurship
+  - Events
 ---
-
 
 ## Feira de empreendedores do movimento LGBTQIA+ e orientação sobre retificação de nome e gênero estão na programação.
 

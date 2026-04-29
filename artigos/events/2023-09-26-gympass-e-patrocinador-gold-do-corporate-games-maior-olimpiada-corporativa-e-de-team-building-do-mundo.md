@@ -1,14 +1,12 @@
 ---
-title: Gympass é patrocinador gold do Corporate Games, maior olimpíada corporativa
-  e de Team Building do mundo
+title: "Gympass é patrocinador gold do Corporate Games, maior olimpíada corporativa e de Team Building do mundo"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Uma plataforma completa de bem-estar corporativo, que apoia empresas de todo o mundo na promoção da saúde física, mental e social no ambiente corporativo, objetivo compartilhado pelo evento: uma combinação única de esportes, bem-estar e networking que movimentará São Paulo (SP), em novembro.
 

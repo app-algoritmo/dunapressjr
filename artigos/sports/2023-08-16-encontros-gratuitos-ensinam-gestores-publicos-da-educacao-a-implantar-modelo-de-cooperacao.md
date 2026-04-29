@@ -1,13 +1,11 @@
 ---
-title: Encontros gratuitos ensinam gestores públicos da educação a implantar modelo
-  de cooperação
+title: "Encontros gratuitos ensinam gestores públicos da educação a implantar modelo de cooperação"
 date: 2023-08-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O objetivo é incentivar que territórios trabalhem juntos para vencer os desafios da educação.
 

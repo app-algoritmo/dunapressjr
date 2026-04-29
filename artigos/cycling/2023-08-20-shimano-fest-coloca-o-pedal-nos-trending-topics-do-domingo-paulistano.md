@@ -1,13 +1,12 @@
 ---
-title: Shimano Fest coloca o pedal nos 'trending topics' do domingo paulistano
+title: "Shimano Fest coloca o pedal nos 'trending topics' do domingo paulistano"
 date: 2023-08-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Maior festival latino-americano dedicado à cultura da bicicleta reuniu 20 mil pessoas em São Paulo, com atividades que envolveram passeio pelas ruas da capital, competição, feira de produtos, shows e atividades para pessoas de todas as idades.
 

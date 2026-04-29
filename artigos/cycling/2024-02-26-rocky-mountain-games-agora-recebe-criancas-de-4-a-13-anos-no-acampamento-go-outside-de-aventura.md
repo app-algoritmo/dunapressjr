@@ -1,14 +1,12 @@
 ---
-title: Rocky Mountain Games agora recebe crianças de 4 a 13 anos no Acampamento Go
-  Outside de Aventura
+title: "Rocky Mountain Games agora recebe crianças de 4 a 13 anos no Acampamento Go Outside de Aventura"
 date: 2024-02-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Projeto inédito permite que pais e mães corram a primeira etapa do evento tranquilamente nos dias 9 e 10 de março, na Pedra Grande em Atibaia.
 

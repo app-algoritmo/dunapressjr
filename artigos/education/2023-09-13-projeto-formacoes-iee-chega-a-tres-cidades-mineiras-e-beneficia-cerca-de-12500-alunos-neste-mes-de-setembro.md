@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a três cidades mineiras e beneficia cerca de 12.500
-  alunos neste mês de setembro
+title: "Projeto Formações IEE chega a três cidades mineiras e beneficia cerca de 12.500 alunos neste mês de setembro"
 date: 2023-09-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 170 professores, gestores, coordenadores e diretores de Arinos, Cachoeira Dourada e Rio Piracicaba, que estarão participando de módulos com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

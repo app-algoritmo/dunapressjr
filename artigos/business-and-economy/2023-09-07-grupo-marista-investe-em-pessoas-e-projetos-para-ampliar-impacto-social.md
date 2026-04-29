@@ -1,14 +1,13 @@
 ---
-title: Grupo Marista investe em pessoas e projetos para ampliar impacto social
+title: "Grupo Marista investe em pessoas e projetos para ampliar impacto social"
 date: 2023-09-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Business and Economy
-- Education
-- Health
+  - Business and Economy
+  - Education
+  - Health
 ---
-
 
 ## Instituição destinou R$ 174 milhões em bolsas de estudo e cerca de R$ 80 milhões em melhorias dos hospitais e em ações que beneficiam colaboradores e pacientes.
 

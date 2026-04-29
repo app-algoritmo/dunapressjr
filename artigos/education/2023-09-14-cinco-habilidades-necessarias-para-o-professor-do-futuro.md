@@ -1,12 +1,11 @@
 ---
-title: Cinco habilidades necessárias para o professor do futuro
+title: "Cinco habilidades necessárias para o professor do futuro"
 date: 2023-09-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## O professor do futuro é, ao mesmo tempo, técnico e humano, um profundo conhecedor das ferramentas educacionais e das necessidades emocionais de seus estudantes.
 

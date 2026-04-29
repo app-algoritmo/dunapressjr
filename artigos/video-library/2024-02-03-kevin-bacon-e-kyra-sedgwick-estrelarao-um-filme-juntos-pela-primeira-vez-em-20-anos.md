@@ -1,13 +1,11 @@
 ---
-title: Kevin Bacon e Kyra Sedgwick estrelarão um filme juntos pela primeira vez em
-  20 anos
+title: "Kevin Bacon e Kyra Sedgwick estrelarão um filme juntos pela primeira vez em 20 anos"
 date: 2024-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## A dupla de marido e mulher Kevin Bacon e Kyra Sedgwick conseguiram papéis juntos em um filme pela primeira vez em duas décadas.
 

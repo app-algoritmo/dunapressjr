@@ -1,14 +1,12 @@
 ---
-title: Festival Vamos Passear reúne 3 mil participantes para um domingo de esporte
-  e diversão no Recife (PE)
+title: "Festival Vamos Passear reúne 3 mil participantes para um domingo de esporte e diversão no Recife (PE)"
 date: 2023-08-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Eles estarão no Passeio de Bike, na Caminhada e na Corrida Infantil. Evento, neste domingo (6), terá diferentes atividades, a partir das 7h, no Forte do Brum, com atrações para todas as idades, reunindo família e amigos em momentos de lazer e bem-estar.
 

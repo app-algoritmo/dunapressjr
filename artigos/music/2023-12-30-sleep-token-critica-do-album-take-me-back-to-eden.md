@@ -1,12 +1,11 @@
 ---
-title: Sleep Token | Crítica do álbum 'Take Me Back To Eden'
+title: "Sleep Token | Crítica do álbum 'Take Me Back To Eden'"
 date: 2023-12-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Music
+  - Music
 ---
-
 
 ## O misterioso grupo se tornou uma das bandas mais comentadas da cena rock no ano de 2023. 
 

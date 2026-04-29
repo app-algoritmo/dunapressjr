@@ -1,12 +1,11 @@
 ---
-title: 'The Walking Dead: A série precisa de mais um spin-off?'
+title: "The Walking Dead: A série precisa de mais um spin-off?"
 date: 2020-08-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 **The Walking Dead, do canal AMC, faz muito sucesso desde 2010. Desde então a produção vem fazendo vários spin-off da série, como, The Walking Dead: Cold Storage, Fear the Walking Dead e The Walking Dead: World Beyond.**
 

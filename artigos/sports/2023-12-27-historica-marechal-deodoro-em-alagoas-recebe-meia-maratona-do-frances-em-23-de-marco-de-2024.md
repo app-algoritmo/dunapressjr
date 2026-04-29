@@ -1,13 +1,11 @@
 ---
-title: Histórica Marechal Deodoro, em Alagoas, recebe Meia Maratona do Francês, em
-  23 de março de 2024
+title: "Histórica Marechal Deodoro, em Alagoas, recebe Meia Maratona do Francês, em 23 de março de 2024"
 date: 2023-12-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Município terá evento com corridas de 21 km e 10 km, caminhada de 5 km e atrações diferenciadas. Tudo em meio às belas paisagens da região, na Praia do Francês, uma das mais famosas do litoral do estado. Inscrições estão abertas.
 

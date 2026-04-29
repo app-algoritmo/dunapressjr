@@ -1,12 +1,11 @@
 ---
-title: Acidentes de trânsito, um problema de saúde pública
+title: "Acidentes de trânsito, um problema de saúde pública"
 date: 2024-05-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## A cada dia que passa, as manchetes dos jornais nos confrontam com uma realidade que transcende as páginas impressas, a tela da TV ou as publicações nas redes sociais: os acidentes de trânsito.
 

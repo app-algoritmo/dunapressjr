@@ -1,13 +1,11 @@
 ---
-title: 'SÍNDROME DO PÂNICO: O QUE É, COMO IDENTIFICAR SEUS SINTOMAS E INICIAR SEU
-  TRATAMENTO'
+title: "SÍNDROME DO PÂNICO: O QUE É, COMO IDENTIFICAR SEUS SINTOMAS E INICIAR SEU TRATAMENTO"
 date: 2022-11-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 **Síndrome do pânico é uma condição caracterizada por um transtorno de ansiedade que culmina com ataques súbitos de pânico ou medo. A boa notícia é que existe tratamento. Devemos sempre estar de olho nos sintomas e procurar auxílio médico sempre que desconfiarmos que se trata de uma doença psíquica. **
 

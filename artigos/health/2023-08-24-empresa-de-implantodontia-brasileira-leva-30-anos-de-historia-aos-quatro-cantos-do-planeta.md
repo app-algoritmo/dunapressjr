@@ -1,13 +1,11 @@
 ---
-title: Empresa de implantodontia brasileira leva 30 anos de história aos quatro cantos
-  do planeta
+title: "Empresa de implantodontia brasileira leva 30 anos de história aos quatro cantos do planeta"
 date: 2023-08-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Neodent, que desenvolve soluções para tornar a implantodontia mais acessível para a população, percorre 11 países com o projeto World Tour.
 

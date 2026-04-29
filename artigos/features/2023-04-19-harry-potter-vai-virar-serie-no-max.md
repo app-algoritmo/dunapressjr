@@ -1,13 +1,12 @@
 ---
-title: '''Harry Potter'' vai virar série no Max'
+title: "'Harry Potter' vai virar série no Max"
 date: 2023-04-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A Warner Bros. Discovery confirmou que uma nova era está chegando para os fãs de Harry Potter.
 

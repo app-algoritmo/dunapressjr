@@ -1,12 +1,11 @@
 ---
-title: AI Summit in Rio no Museu do Amanhã
+title: "AI Summit in Rio no Museu do Amanhã"
 date: 2024-03-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Seminário internacional realizado pela Assespro-RJ vai debater e destacar as melhores estratégias para implantação, utilização e otimização de IA generativa empresarial.
 

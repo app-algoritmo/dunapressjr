@@ -1,14 +1,12 @@
 ---
-title: Em noite de estreia do novo uniforme, Osasco bate Fluminense e entra no G4
-  da Superliga 23/24
+title: "Em noite de estreia do novo uniforme, Osasco bate Fluminense e entra no G4 da Superliga 23/24"
 date: 2023-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe do técnico Luizomar venceu pelo placar de 3 sets a 1 e mesmo com três jogos a menos que o adversário carioca, assumiu o lugar do rival na quarta colocação da classificação geral.
 

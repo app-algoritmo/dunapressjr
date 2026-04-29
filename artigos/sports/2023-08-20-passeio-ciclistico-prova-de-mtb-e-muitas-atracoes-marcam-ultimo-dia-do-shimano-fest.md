@@ -1,13 +1,11 @@
 ---
-title: Passeio ciclístico, prova de MTB e muitas atrações marcam último dia do Shimano
-  Fest
+title: "Passeio ciclístico, prova de MTB e muitas atrações marcam último dia do Shimano Fest"
 date: 2023-08-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Festival da bike termina nesta domingo (20) e oferece muita diversão grátis até às 17h, no Memorial da América Latina.
 

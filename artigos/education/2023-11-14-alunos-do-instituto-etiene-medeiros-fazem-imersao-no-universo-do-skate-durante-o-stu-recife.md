@@ -1,14 +1,12 @@
 ---
-title: Alunos do Instituto Etiene Medeiros fazem imersão no universo do skate durante
-  o STU Recife
+title: "Alunos do Instituto Etiene Medeiros fazem imersão no universo do skate durante o STU Recife"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Meninos e meninas do IEM conferiram diferentes atividades no sábado (11), no Skate Park, na capital pernambucana, a convite do Banco BV. A cidade foi sede do Circuito Brasileiro pelo segundo ano seguido.
 

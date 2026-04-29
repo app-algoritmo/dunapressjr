@@ -1,12 +1,11 @@
 ---
-title: O Complexo de Saúde Pequeno Cotolengo é uma das Melhores ONGs de 2023
+title: "O Complexo de Saúde Pequeno Cotolengo é uma das Melhores ONGs de 2023"
 date: 2023-10-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## O Prêmio parabeniza as Organizações brasileiras que mais se destacaram por sua excelência em gestão, governança, sustentabilidade financeira e transparência. 
 

@@ -1,13 +1,12 @@
 ---
-title: Prati-Donaduzzi abre mais de 300 vagas de trabalho no Paraná
+title: "Prati-Donaduzzi abre mais de 300 vagas de trabalho no Paraná"
 date: 2024-04-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Courses and Careers
-- Personal Development
+  - Courses and Careers
+  - Personal Development
 ---
-
 
 ## A indústria de medicamentos Prati-Donaduzzi está com mais de 300 postos de trabalho abertos para contratação imediata.
 

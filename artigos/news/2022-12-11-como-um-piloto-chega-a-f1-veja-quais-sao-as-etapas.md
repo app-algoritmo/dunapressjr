@@ -1,13 +1,12 @@
 ---
-title: Como um piloto chega à F1? Veja quais são as etapas
+title: "Como um piloto chega à F1? Veja quais são as etapas"
 date: 2022-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Sports
+  - News
+  - Sports
 ---
-
 
 ## Processo conta com várias estágios e questões burocráticas envolvidas desde a infância do piloto.
 

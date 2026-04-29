@@ -1,14 +1,12 @@
 ---
-title: 'Promessa Olímpica: projeto social revela atleta de vôlei que já sonha com
-  jogos de 2028'
+title: "Promessa Olímpica: projeto social revela atleta de vôlei que já sonha com jogos de 2028"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Iniciativas de empresas apoiam jovens esportistas a alcançarem seus objetivos; farmacêutica investe mais de R$ 370 mil em projetos de vôlei, badminton e futsal.
 

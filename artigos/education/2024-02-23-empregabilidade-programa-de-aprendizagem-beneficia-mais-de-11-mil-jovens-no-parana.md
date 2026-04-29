@@ -1,13 +1,11 @@
 ---
-title: 'Empregabilidade: Programa de Aprendizagem beneficia mais de 11 mil jovens
-  no Paraná'
+title: "Empregabilidade: Programa de Aprendizagem beneficia mais de 11 mil jovens no Paraná"
 date: 2024-02-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Números positivos evidenciam o impacto significativo gerado pelo programa em 2023; iniciativa tem contribuído para inserção de estudantes no mundo do trabalho.
 

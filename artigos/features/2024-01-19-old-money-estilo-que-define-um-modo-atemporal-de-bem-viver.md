@@ -1,12 +1,11 @@
 ---
-title: 'Old Money: estilo que define um modo atemporal de bem viver'
+title: "Old Money: estilo que define um modo atemporal de bem viver"
 date: 2024-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Sofisticação e aconchego são características do "luxo silencioso" que conquistaram o design de interiores. Arquiteta da A.Yoshii dá dicas de como aplicar a tendência na decoração e a regra é clara: o que conta é a qualidade e o conforto, jamais a ostentação.
 

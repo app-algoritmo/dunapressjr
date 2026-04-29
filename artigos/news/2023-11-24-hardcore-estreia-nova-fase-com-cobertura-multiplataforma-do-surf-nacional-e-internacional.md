@@ -1,13 +1,11 @@
 ---
-title: Hardcore estreia nova fase, com cobertura multiplataforma do surf nacional
-  e internacional
+title: "Hardcore estreia nova fase, com cobertura multiplataforma do surf nacional e internacional"
 date: 2023-11-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Veículo de comunicação mais tradicional da modalidade no Brasil passa a contar com o comando do experiente jornalista especializado em surf Adrian Kojin.
 

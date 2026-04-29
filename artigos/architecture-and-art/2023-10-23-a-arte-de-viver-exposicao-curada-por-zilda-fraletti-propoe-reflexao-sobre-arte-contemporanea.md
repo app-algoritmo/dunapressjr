@@ -1,14 +1,12 @@
 ---
-title: 'A arte de viver: exposição curada por Zilda Fraletti propõe reflexão sobre
-  arte contemporânea'
+title: "A arte de viver: exposição curada por Zilda Fraletti propõe reflexão sobre arte contemporânea"
 date: 2023-10-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Events
+  - Architecture and Art
+  - Events
 ---
-
 
 ## A.Yoshii Curitiba sedia mostra de quatro consagrados artistas curitibanos: Ana Serafin, Cleverson Oliveira, Emerson Persona e André Mendes. Com entrada gratuita, as obras ficam expostas até 16 de novembro.
 

@@ -1,12 +1,11 @@
 ---
-title: Luisa Stefani embarca para gira de torneios na grama
+title: "Luisa Stefani embarca para gira de torneios na grama"
 date: 2024-06-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Paulistana atua com a holandesa Demi Schuurs em Berlim, Eastboune e Wimbledon.
 

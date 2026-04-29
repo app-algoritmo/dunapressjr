@@ -1,13 +1,12 @@
 ---
-title: Netflix revela trailer da 6ª temporada de Black Mirror
+title: "Netflix revela trailer da 6ª temporada de Black Mirror"
 date: 2023-04-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Netflix revela data de lançamento de Black Mirror e confirma elenco, incluindo Aaron Paul, Kate Mara e Salma Hayek. 
 

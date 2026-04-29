@@ -1,13 +1,11 @@
 ---
-title: Bangu Shopping e Caxias Shopping promovem Campanha de Arrecadação de Agasalhos
-  em parceria com o Instituto da Criança
+title: "Bangu Shopping e Caxias Shopping promovem Campanha de Arrecadação de Agasalhos em parceria com o Instituto da Criança"
 date: 2024-06-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Os empreendimentos Bangu Shopping e Caxias Shopping, em parceria com o Instituto da Criança, lançam uma campanha de arrecadação de agasalhos.
 

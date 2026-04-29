@@ -1,13 +1,11 @@
 ---
-title: 'Da Educação Infantil para o Ensino Fundamental: 8 passos para uma transição
-  tranquila'
+title: "Da Educação Infantil para o Ensino Fundamental: 8 passos para uma transição tranquila"
 date: 2023-12-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Apesar das possíveis inseguranças das crianças, com apoio e reforço positivo dos pais, juntamente com o acolhimento da escola, essa passagem tem tudo para ser fácil.
 

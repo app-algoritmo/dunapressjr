@@ -1,12 +1,11 @@
 ---
-title: Netshoes Run, em Franca (SP), incentiva ação social
+title: "Netshoes Run, em Franca (SP), incentiva ação social"
 date: 2023-10-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento terá a segunda etapa no dia 3 de dezembro, no Ginásio Pedrocão, e está com inscrições abertas. Participantes poderão trocar um par de tênis usado, em bom estado, e 1 kg de alimento não-perecível, por um corta vento da corrida, ajudando a ONG Amigos do Bem.
 

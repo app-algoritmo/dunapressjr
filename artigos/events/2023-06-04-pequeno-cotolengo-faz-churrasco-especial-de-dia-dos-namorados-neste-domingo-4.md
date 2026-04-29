@@ -1,13 +1,11 @@
 ---
-title: Pequeno Cotolengo faz Churrasco especial de Dia dos Namorados neste domingo,
-  4
+title: "Pequeno Cotolengo faz Churrasco especial de Dia dos Namorados neste domingo, 4"
 date: 2023-06-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## O tradicional churrasco do Complexo de Saúde Pequeno Cotolengo é uma forma de complementar a verba destinada ao atendimento para mais de 230 pessoas com múltiplas deficiências. 
 

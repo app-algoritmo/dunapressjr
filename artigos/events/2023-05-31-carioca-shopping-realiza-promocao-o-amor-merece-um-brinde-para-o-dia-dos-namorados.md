@@ -1,13 +1,11 @@
 ---
-title: CARIOCA SHOPPING REALIZA PROMOÇÃO ‘’O AMOR MERECE UM BRINDE” PARA O DIA DOS
-  NAMORADOS
+title: "CARIOCA SHOPPING REALIZA PROMOÇÃO ‘’O AMOR MERECE UM BRINDE” PARA O DIA DOS NAMORADOS"
 date: 2023-05-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 O Carioca Shopping promove, até 12/06, a promoção “O Amor Merece Um Brinde”, que faz parte da campanha em comemoração ao Dia dos Namorados da Aliansce Sonae + brMalls. Momentos de amor e parceria dão o tom à campanha que retrata a importância da conexão entre os casais a partir de experiências compartilhadas. 
 

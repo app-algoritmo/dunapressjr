@@ -1,13 +1,12 @@
 ---
-title: André Baran disputa Sand Series de Valinhos de Beach Tennis
+title: "André Baran disputa Sand Series de Valinhos de Beach Tennis"
 date: 2023-10-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Catarinense - número 1 do Brasil e terceiro do mundo - jogará com o parceiro italiano Michele Cappelletti no torrneio que reunirá os melhores jogadores do mundo de 12 países e terá transmissão ao vivo de todos os jogos a partir desta quinta-feira (12).
 

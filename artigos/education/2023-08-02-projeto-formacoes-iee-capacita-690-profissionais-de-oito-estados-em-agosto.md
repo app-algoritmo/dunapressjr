@@ -1,13 +1,12 @@
 ---
-title: Projeto Formações IEE capacita 690 profissionais de oito estados em agosto
+title: "Projeto Formações IEE capacita 690 profissionais de oito estados em agosto"
 date: 2023-08-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Ações do Instituto Esporte e Educação estão sendo realizadas em Minas Gerais, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Sul, Santa Catarina e São Paulo, levando a metodologia baseada nos princípios do esporte educacional.
 

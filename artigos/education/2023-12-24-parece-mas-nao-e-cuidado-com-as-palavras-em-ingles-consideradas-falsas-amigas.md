@@ -1,13 +1,11 @@
 ---
-title: 'Parece, mas não é: cuidado com as palavras em inglês consideradas ''falsas
-  amigas'''
+title: "Parece, mas não é: cuidado com as palavras em inglês consideradas 'falsas amigas'"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Ao tentar falar ou traduzir palavras e expressões em inglês, quem nunca passou pela situação de se enganar com aquelas palavrinhas que, em inglês, são parecidas com o português, mas que significam uma coisa completamente diferente? 
 

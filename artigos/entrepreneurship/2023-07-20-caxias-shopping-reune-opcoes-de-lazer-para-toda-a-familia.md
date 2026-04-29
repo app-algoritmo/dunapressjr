@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping reúne opções de lazer para toda a família
+title: "Caxias Shopping reúne opções de lazer para toda a família"
 date: 2023-07-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
+  - Entrepreneurship
 ---
-
 
 ## As Férias do Caxias Shopping chegaram! Para agitar o mês de julho, o empreendimento preparou uma programação especial para proporcionar um mês recheado de diversão e cultura para toda a família.
 

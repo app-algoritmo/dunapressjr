@@ -1,12 +1,11 @@
 ---
-title: BGS Day inicia contagem regressiva para a Brasil Game Show de 2021
+title: "BGS Day inicia contagem regressiva para a Brasil Game Show de 2021"
 date: 2020-10-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 Super live acontecerá em 10 e 11 de outubro, nos mesmos dias em que seria realizada a tradicional edição presencial da feira de games.
 

@@ -1,13 +1,11 @@
 ---
-title: Em busca de um carro por assinatura? Confira dicas para não errar na escolha
-  do plano
+title: "Em busca de um carro por assinatura? Confira dicas para não errar na escolha do plano"
 date: 2024-02-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Com opções contratuais de 12, 18 e 24 meses e franquias de 500 a 2 mil quilômetros por mês, especialista lista tudo que precisa saber e considerar antes de fechar o contrato de um carro.
 

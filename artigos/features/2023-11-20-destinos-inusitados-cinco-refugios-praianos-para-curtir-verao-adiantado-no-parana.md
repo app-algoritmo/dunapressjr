@@ -1,13 +1,11 @@
 ---
-title: 'Destinos inusitados: cinco refúgios praianos para curtir verão adiantado no
-  Paraná'
+title: "Destinos inusitados: cinco refúgios praianos para curtir verão adiantado no Paraná"
 date: 2023-11-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Locais pouco conhecidos que se tornam a fuga perfeita para aproveitar as altas temperaturas.
 

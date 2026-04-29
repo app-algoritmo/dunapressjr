@@ -1,12 +1,11 @@
 ---
-title: QR Code revela 'interior das paredes' dos apartamentos e facilita manutenção
+title: "QR Code revela 'interior das paredes' dos apartamentos e facilita manutenção"
 date: 2023-11-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Com solução inovadora, moradores têm acesso facilitado à documentação e projeto do empreendimento.
 

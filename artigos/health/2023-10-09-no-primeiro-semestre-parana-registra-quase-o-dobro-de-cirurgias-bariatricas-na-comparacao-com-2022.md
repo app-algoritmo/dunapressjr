@@ -1,13 +1,11 @@
 ---
-title: No primeiro semestre, Paraná registra quase o dobro de cirurgias bariátricas
-  na comparação com 2022
+title: "No primeiro semestre, Paraná registra quase o dobro de cirurgias bariátricas na comparação com 2022"
 date: 2023-10-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Procedimentos foram represados devido à pandemia; cirurgia é aliada no tratamento da obesidade.
 

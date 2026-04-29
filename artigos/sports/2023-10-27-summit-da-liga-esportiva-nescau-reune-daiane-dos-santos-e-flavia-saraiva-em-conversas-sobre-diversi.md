@@ -1,13 +1,11 @@
 ---
-title: Summit da Liga Esportiva NESCAU® reúne Daiane dos Santos e Flávia Saraiva em
-  conversas sobre diversi
+title: "Summit da Liga Esportiva NESCAU® reúne Daiane dos Santos e Flávia Saraiva em conversas sobre diversi"
 date: 2023-10-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Em modelo híbrido, 3ª edição evento conta ainda com nomes como Etiene Medeiros e Verônica Hipólito; inscrições, gratuitas, seguem abertas até terça-feira (31).
 

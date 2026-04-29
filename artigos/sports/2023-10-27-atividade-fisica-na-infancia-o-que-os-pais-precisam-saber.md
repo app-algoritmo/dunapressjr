@@ -1,12 +1,11 @@
 ---
-title: 'Atividade física na infância: o que os pais precisam saber'
+title: "Atividade física na infância: o que os pais precisam saber"
 date: 2023-10-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A prática regular de atividades físicas desempenha um papel essencial no crescimento e desenvolvimento saudável das crianças. 
 

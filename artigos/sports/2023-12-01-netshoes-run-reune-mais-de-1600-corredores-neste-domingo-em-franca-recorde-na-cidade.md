@@ -1,13 +1,11 @@
 ---
-title: Netshoes Run reúne mais de 1.600 corredores neste domingo em Franca, recorde
-  na cidade
+title: "Netshoes Run reúne mais de 1.600 corredores neste domingo em Franca, recorde na cidade"
 date: 2023-12-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A programação terá, também, caminhada e uma série de atividades e ativações. As largadas serão a partir das 7h30, no Ginásio Pedrocão.
 

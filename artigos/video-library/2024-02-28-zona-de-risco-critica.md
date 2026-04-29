@@ -1,12 +1,11 @@
 ---
-title: Zona de Risco | Crítica
+title: "Zona de Risco | Crítica"
 date: 2024-02-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Novo filme de Liam e Luke Hemsworth é uma boa opção para quem sente falta de uma trama de ação raiz. 
 

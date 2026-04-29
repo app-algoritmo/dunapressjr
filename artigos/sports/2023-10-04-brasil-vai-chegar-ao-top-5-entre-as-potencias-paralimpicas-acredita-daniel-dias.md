@@ -1,13 +1,11 @@
 ---
-title: Brasil vai chegar ao top 5 entre as potências paralímpicas, acredita Daniel
-  Dias
+title: "Brasil vai chegar ao top 5 entre as potências paralímpicas, acredita Daniel Dias"
 date: 2023-10-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Maior medalhista paralímpico do Brasil, nadador aponta investimentos e ações como a Liga Esportiva NESCAU® como um caminho para a descoberta de novos campeões, além de promover inclusão.
 

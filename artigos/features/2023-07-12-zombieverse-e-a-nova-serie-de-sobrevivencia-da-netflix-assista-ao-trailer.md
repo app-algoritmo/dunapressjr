@@ -1,12 +1,11 @@
 ---
-title: '''Zombieverse'' é a nova série de sobrevivência da Netflix; Assista ao trailer'
+title: "'Zombieverse' é a nova série de sobrevivência da Netflix; Assista ao trailer"
 date: 2023-07-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## A Netflix está trazendo os zumbis de volta.
 

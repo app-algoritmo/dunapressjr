@@ -1,14 +1,12 @@
 ---
-title: Coletivo Balzak40 comemora a chegada da Primavera em edição com muitas flores,
-  workshops e desfile
+title: "Coletivo Balzak40 comemora a chegada da Primavera em edição com muitas flores, workshops e desfile"
 date: 2023-08-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Events
+  - Architecture and Art
+  - Events
 ---
-
 
 ## Evento, que acontece na Cobal do Leblon, tem entrada gratuita e acontece das 11h às 19h.
 

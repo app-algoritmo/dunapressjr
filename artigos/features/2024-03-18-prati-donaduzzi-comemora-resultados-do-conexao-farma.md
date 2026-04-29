@@ -1,12 +1,11 @@
 ---
-title: Prati-Donaduzzi comemora resultados do Conexão Farma
+title: "Prati-Donaduzzi comemora resultados do Conexão Farma"
 date: 2024-03-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Mais de 25 mil pessoas visitaram o evento em São Paulo e participaram de palestras sobre diversos temas relacionados à indústria e ao varejo farmacêutico.
 

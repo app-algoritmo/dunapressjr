@@ -1,12 +1,11 @@
 ---
-title: 'Biologia: quais os temas mais abordados no Enem nos últimos cinco anos?'
+title: "Biologia: quais os temas mais abordados no Enem nos últimos cinco anos?"
 date: 2023-10-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Conhecendo os assuntos que mais caem na prova ajuda a concentrar os esforços nos tópicos que têm mais chances de aparecer no exame.
 

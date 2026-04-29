@@ -1,12 +1,11 @@
 ---
-title: Loja Azul do Bangu Shopping é prorrogada até o final de maio
+title: "Loja Azul do Bangu Shopping é prorrogada até o final de maio"
 date: 2024-05-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Espaço oferece palestras, oficinas e suporte especializado para familiares e portadores do Transtorno do Espectro Autista.
 

@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde enfrenta Barueri fora de casa nesta quarta-feira
-  (22)
+title: "Osasco São Cristóvão Saúde enfrenta Barueri fora de casa nesta quarta-feira (22)"
 date: 2023-11-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe de Camila Brait, Fabiana, Tifanny e cia. vai em busca da segunda vitória neste início de Superliga 2023/24.
 

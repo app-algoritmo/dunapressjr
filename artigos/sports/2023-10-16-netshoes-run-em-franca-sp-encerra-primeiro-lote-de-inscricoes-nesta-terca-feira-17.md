@@ -1,13 +1,11 @@
 ---
-title: Netshoes Run, em Franca (SP), encerra primeiro lote de inscrições nesta terça-feira
-  (17)
+title: "Netshoes Run, em Franca (SP), encerra primeiro lote de inscrições nesta terça-feira (17)"
 date: 2023-10-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A partir de quarta-feira (18), os valores serão reajustados com a virada de lote. O evento está marcado para 3 de dezembro, no Ginásio Pedrocão, com Caminhada, Corrida e atividades para todas as idades.
 

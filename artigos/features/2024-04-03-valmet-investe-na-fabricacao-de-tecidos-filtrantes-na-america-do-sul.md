@@ -1,12 +1,11 @@
 ---
-title: Valmet investe na fabricação de tecidos filtrantes na América do Sul
+title: "Valmet investe na fabricação de tecidos filtrantes na América do Sul"
 date: 2024-04-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## A Valmet anuncia o investimento em uma nova unidade de produção de tecidos filtrantes em Belo Horizonte (MG), a fim de melhor atender à crescente demanda por telas filtrantes de alto desempenho nas indústrias de mineração, celulose e papel na América do Sul. 
 

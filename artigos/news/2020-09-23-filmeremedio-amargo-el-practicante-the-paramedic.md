@@ -1,12 +1,11 @@
 ---
-title: 'Filme|Remédio amargo (El Practicante, The Paramedic):'
+title: "Filme|Remédio amargo (El Practicante, The Paramedic):"
 date: 2020-09-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 Filme conta a história de Ángel (Mario Casas), um paramédico, que após um acidente acaba confinado em uma cadeira de rodas. Com um relacionamento distanciado, juntamente com um término com sua namorada Vane (Déborah François), Ángel, desenvolve uma obsessão perigosa pela sua ex e trama um plano de vingança. 
 

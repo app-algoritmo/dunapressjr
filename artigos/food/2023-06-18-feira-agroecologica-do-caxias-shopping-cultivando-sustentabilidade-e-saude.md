@@ -1,13 +1,12 @@
 ---
-title: 'Feira agroecológica do Caxias Shopping: cultivando sustentabilidade e saúde'
+title: "Feira agroecológica do Caxias Shopping: cultivando sustentabilidade e saúde"
 date: 2023-06-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Food
-- Health
+  - Food
+  - Health
 ---
-
 
 ## Evento será realizado nos dias 17 e 18 de junho e conta com oferta de alimentos in natura e produtos artesanais oriundos de produtores locais.
 

@@ -1,12 +1,11 @@
 ---
-title: Rayssa Leal desembarca na Liga Esportiva NESCAU® Imperatriz neste sábado (25)
+title: "Rayssa Leal desembarca na Liga Esportiva NESCAU® Imperatriz neste sábado (25)"
 date: 2023-11-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Natural do município e embaixadora de NESCAU®, a campeã mundial marca presença na etapa da maior competição estudantil poliesportiva do Brasil, que vai reunir crianças e adolescentes para um dia de aprendizado e diversão por meio do esporte.
 

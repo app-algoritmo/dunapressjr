@@ -1,13 +1,11 @@
 ---
-title: Instituto Etiene Medeiros encerra 2023 com recordes nas piscinas, representação
-  nacional e eventos de destaque
+title: "Instituto Etiene Medeiros encerra 2023 com recordes nas piscinas, representação nacional e eventos de destaque"
 date: 2023-12-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Ao longo do ano, IEM deu sequência a sua missão de transformar vidas com educação e esporte, por meio de suas atividades no Centro Esportivo Santos Dumont, no bairro de Boa Viagem, no Recife (PE).
 

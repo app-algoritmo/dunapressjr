@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a três cidades da Paraíba e beneficia cerca de
-  13.500 alunos neste mês de setembro
+title: "Projeto Formações IEE chega a três cidades da Paraíba e beneficia cerca de 13.500 alunos neste mês de setembro"
 date: 2023-09-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 180 professores, gestores, coordenadores e diretores de Campina Grande, João Pessoa e Pedra Lavrada, que estarão participando de módulos com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

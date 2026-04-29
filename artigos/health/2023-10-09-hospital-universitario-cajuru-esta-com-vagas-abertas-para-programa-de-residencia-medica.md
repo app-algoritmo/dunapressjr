@@ -1,13 +1,11 @@
 ---
-title: Hospital Universitário Cajuru está com vagas abertas para programa de residência
-  médica
+title: "Hospital Universitário Cajuru está com vagas abertas para programa de residência médica"
 date: 2023-10-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Candidatos disputam 79 vagas distribuídas em 19 especialidades; inscrições devem ser feitas até 26 de outubro e prova está marcada para o dia 29 de novembro.
 

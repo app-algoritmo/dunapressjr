@@ -1,13 +1,12 @@
 ---
-title: 'Paternidade ativa: como garantir maior envolvimento e benefícios para os filhos'
+title: "Paternidade ativa: como garantir maior envolvimento e benefícios para os filhos"
 date: 2023-08-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Culture and History
-- Education
+  - Culture and History
+  - Education
 ---
-
 
 ## Passou o tempo em que a figura paterna se limitava à imagem do pai provedor, com autoridade inquestionável e ocupado demais para lidar com as questões ligadas à rotina dos filhos.
 

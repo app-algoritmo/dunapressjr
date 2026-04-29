@@ -1,12 +1,11 @@
 ---
-title: Kevin Feige revela por que Tom Cruise não interpretou o Homem de Ferro
+title: "Kevin Feige revela por que Tom Cruise não interpretou o Homem de Ferro"
 date: 2023-10-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Kevin Feige finalmente revelou por que Tom Cruise não interpretou o Homem de Ferro nos estúdios da Marvel.
 

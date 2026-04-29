@@ -1,12 +1,11 @@
 ---
-title: Como ganhar sempre nas apostas esportivas
+title: "Como ganhar sempre nas apostas esportivas"
 date: 2022-11-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 Quer saber como ganhar sempre nas apostas esportivas? Então veio ao lugar certo!
 

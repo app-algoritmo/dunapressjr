@@ -1,13 +1,11 @@
 ---
-title: Etiene Medeiros participa do Summit da Liga Esportiva NESCAU®, nesta terça-feira
-  (31)
+title: "Etiene Medeiros participa do Summit da Liga Esportiva NESCAU®, nesta terça-feira (31)"
 date: 2023-10-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Terceira edição do evento será em formato híbrido e a nadadora pernambucana, fundadora do Instituto Etiene Medeiros (IEM), estará integrando o painel "Educação pelo esporte: projetos sociais". As inscrições, gratuitas, continuam abertas.
 

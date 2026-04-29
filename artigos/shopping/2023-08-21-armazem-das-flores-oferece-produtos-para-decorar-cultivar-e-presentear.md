@@ -1,12 +1,11 @@
 ---
-title: Armazém das Flores oferece produtos para decorar, cultivar e presentear
+title: "Armazém das Flores oferece produtos para decorar, cultivar e presentear"
 date: 2023-08-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Localizada no Carioca Shopping, loja é dedicada a comercialização de plantas e flores.
 

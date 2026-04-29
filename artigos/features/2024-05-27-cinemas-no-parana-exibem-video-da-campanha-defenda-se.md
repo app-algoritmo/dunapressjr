@@ -1,12 +1,11 @@
 ---
-title: Cinemas no Paraná exibem vídeo da campanha 'Defenda-se'
+title: "Cinemas no Paraná exibem vídeo da campanha 'Defenda-se'"
 date: 2024-05-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Animação, parte das ações de combate à violência sexual contra crianças, será mostrada antes de sessões de cinemas em seis cidades paranaenses.
 

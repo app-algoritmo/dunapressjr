@@ -1,13 +1,12 @@
 ---
-title: Série 'Walker' foi renovada para a 4ª temporada pela CW
+title: "Série 'Walker' foi renovada para a 4ª temporada pela CW"
 date: 2023-05-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A CW renovou a 4ª temporada de Walker , estrelado por Jared Padalecki , para ir entre 2023-2024.
 

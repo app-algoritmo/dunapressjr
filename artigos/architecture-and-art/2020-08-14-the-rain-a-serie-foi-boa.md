@@ -1,12 +1,11 @@
 ---
-title: The Rain | A série foi boa?
+title: "The Rain | A série foi boa?"
 date: 2020-08-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
+  - Architecture and Art
 ---
-
 
 **Vale a pena reservar um tempinho para assistir a série Dinamarquesa The Rain?**
 

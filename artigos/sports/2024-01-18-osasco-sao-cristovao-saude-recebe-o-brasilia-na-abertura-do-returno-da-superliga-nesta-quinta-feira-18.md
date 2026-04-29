@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde recebe o Brasília na abertura do returno da Superliga
-  nesta quinta-feira (18)
+title: "Osasco São Cristóvão Saúde recebe o Brasília na abertura do returno da Superliga nesta quinta-feira (18)"
 date: 2024-01-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Top 3 na classificação geral, equipe comandada pelo técnico Luizomar contará com apoio de sua torcida para conquistar a quarta vitória consecutiva.
 

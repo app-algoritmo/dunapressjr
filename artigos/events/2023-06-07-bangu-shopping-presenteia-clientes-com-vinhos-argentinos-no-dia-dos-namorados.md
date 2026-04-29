@@ -1,12 +1,11 @@
 ---
-title: Bangu Shopping presenteia clientes com vinhos argentinos no Dia dos Namorados
+title: "Bangu Shopping presenteia clientes com vinhos argentinos no Dia dos Namorados"
 date: 2023-06-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Promoção ''Compre e Ganhe'' acontece entre os dias 30 de maio e 12 de junho.
 

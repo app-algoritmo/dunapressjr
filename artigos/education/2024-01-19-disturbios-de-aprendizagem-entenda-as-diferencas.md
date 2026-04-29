@@ -1,13 +1,12 @@
 ---
-title: 'Distúrbios de aprendizagem: entenda as diferenças'
+title: "Distúrbios de aprendizagem: entenda as diferenças"
 date: 2024-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Health
+  - Education
+  - Health
 ---
-
 
 ## Especialista dá dicas de como estimular o aprendizado de crianças com cada uma das diferentes condições.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Borderline: o transtorno que faz pessoas irem do céu ao inferno'
+title: "Borderline: o transtorno que faz pessoas irem do céu ao inferno"
 date: 2022-12-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 **Reconhecido como um dos transtornos mais lesivos, leva a episódios de automutilação, abuso de substâncias e agressões físicas**. **Vamos abordar o Borderline?**
 

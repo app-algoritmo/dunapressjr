@@ -1,14 +1,12 @@
 ---
-title: Parque Villa-Lobos recebe maior festival de cinema ao ar livre em clima de
-  piquenique neste final de semana
+title: "Parque Villa-Lobos recebe maior festival de cinema ao ar livre em clima de piquenique neste final de semana"
 date: 2023-09-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Rocky Spirit exibirá 30 documentários sobre esporte, meio ambiente e aventura neste sábado (16) e domingo (17), além de dois shows de música, yoga, slackline e oficina circense, atrações gratuitas.
 

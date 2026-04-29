@@ -1,12 +1,11 @@
 ---
-title: Baile Dançante da Dona Helô volta ao Pátio Alcântara
+title: "Baile Dançante da Dona Helô volta ao Pátio Alcântara"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Evento gratuito acontece nesta quarta-feira, dia 8.
 

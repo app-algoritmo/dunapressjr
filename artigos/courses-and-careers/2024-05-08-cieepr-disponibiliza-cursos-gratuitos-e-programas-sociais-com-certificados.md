@@ -1,13 +1,12 @@
 ---
-title: CIEE/PR disponibiliza cursos gratuitos e programas sociais com certificados
+title: "CIEE/PR disponibiliza cursos gratuitos e programas sociais com certificados"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Courses and Careers
-- Personal Development
+  - Courses and Careers
+  - Personal Development
 ---
-
 
 ## Ações presenciais e a distância são gratuitas; podem participar pessoas a partir de 14 anos.
 

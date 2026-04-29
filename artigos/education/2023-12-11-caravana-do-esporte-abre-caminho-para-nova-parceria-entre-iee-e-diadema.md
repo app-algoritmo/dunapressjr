@@ -1,13 +1,12 @@
 ---
-title: Caravana do Esporte abre caminho para nova parceria entre IEE e Diadema
+title: "Caravana do Esporte abre caminho para nova parceria entre IEE e Diadema"
 date: 2023-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Foi a última ação em 2023 do projeto do Instituto Esporte e Educação, com etapas pelo Brasil ao longo do ano. Atividades movimentaram a cidade da Grande São Paulo durante três dias, com presença de cerca de 1.400 crianças, na arena montada no Parque Ecológico Eldorado.
 

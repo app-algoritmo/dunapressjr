@@ -1,12 +1,11 @@
 ---
-title: Novas tecnologias de monitoramento ajudam a aumentar a segurança nas cidades
+title: "Novas tecnologias de monitoramento ajudam a aumentar a segurança nas cidades"
 date: 2024-04-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Com aumento da criminalidade, prefeituras brasileiras adotam totens de segurança como estratégia para inibir ação de infratores.
 

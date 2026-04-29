@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde estreia com vitória na Superliga 23/24
+title: "Osasco São Cristóvão Saúde estreia com vitória na Superliga 23/24"
 date: 2023-11-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar derrotou o Brasília Vôlei por 3 sets a 0, fora de casa. Na próxima quarta (15), reencontra com sua torcida no José Liberatti.
 

@@ -1,14 +1,12 @@
 ---
-title: Invicto em 2024 na Superliga, Osasco São Cristóvão Saúde bate o Pinheiro e
-  conquista sétima vitória seguida
+title: "Invicto em 2024 na Superliga, Osasco São Cristóvão Saúde bate o Pinheiro e conquista sétima vitória seguida"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Com a vitória por 3 sets a 2, fora de casa, equipe comandada pelo técnico Luizomar amplia a vantagem na vice-liderança.
 

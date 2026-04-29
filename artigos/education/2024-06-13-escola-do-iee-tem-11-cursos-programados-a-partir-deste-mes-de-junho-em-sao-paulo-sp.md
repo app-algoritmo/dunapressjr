@@ -1,14 +1,12 @@
 ---
-title: Escola do IEE tem 11 cursos programados a partir deste mês de junho, em São
-  Paulo (SP)
+title: "Escola do IEE tem 11 cursos programados a partir deste mês de junho, em São Paulo (SP)"
 date: 2024-06-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Aulas, gratuitas, são realizadas na sede do Instituto Esporte e Educação e também em EaD, abordando diferentes temas na área de formação e capacitação, com a metodologia do Esporte Educacional. Essas turmas estão voltadas a professores de educação física, universitários e jovens líderes comunitários.
 

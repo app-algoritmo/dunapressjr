@@ -1,12 +1,11 @@
 ---
-title: Do sertanejo à comédia, Teatro Positivo divulga programação de março
+title: "Do sertanejo à comédia, Teatro Positivo divulga programação de março"
 date: 2024-02-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Além dos shows e peças teatrais, Teatro recebe espetáculos do tradicional Festival de Curitiba.
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde conquista sexta vitória consecutiva na Superliga
+title: "Osasco São Cristóvão Saúde conquista sexta vitória consecutiva na Superliga"
 date: 2024-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar mostrou eficiência em todos os fundamentos para derrotar Barueri por 3 sets a 0, na noite desta sexta-feira (2), no José Liberatti lotado.
 

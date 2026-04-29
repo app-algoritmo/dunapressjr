@@ -1,13 +1,11 @@
 ---
-title: 'Killers Of The Flower Moon'': o novo filme de Martin Scorsese com participação
-  de Leonardo Dicaprio.'
+title: "Killers Of The Flower Moon': o novo filme de Martin Scorsese com participação de Leonardo Dicaprio."
 date: 2023-06-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Genocídio nativo americano torna o filme mais macabro do diretor até agora.
 

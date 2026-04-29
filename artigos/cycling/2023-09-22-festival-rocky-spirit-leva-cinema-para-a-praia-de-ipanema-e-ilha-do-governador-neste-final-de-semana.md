@@ -1,14 +1,12 @@
 ---
-title: Festival Rocky Spirit leva cinema para a praia de Ipanema e Ilha do Governador
-  neste final de semana
+title: "Festival Rocky Spirit leva cinema para a praia de Ipanema e Ilha do Governador neste final de semana"
 date: 2023-09-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Serão 22 filmes com exibição gratuita no sábado (23) e domingo (24), no Posto 10, a partir das 17h. A Vila Olímpica Nilton Santos, na Ilha do Governador, também recebe o festival, no domingo.
 

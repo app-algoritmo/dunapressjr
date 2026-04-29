@@ -1,12 +1,11 @@
 ---
-title: 'Do pop ao sertanejo: pesquisa revela gosto musical do curitibano'
+title: "Do pop ao sertanejo: pesquisa revela gosto musical do curitibano"
 date: 2024-01-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Levantamento realizado pelo Teatro Positivo contoLevantamento realizado pelo Teatro Positivo contou com mais de 1.800 participantes.
 

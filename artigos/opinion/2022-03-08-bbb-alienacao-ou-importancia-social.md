@@ -1,12 +1,11 @@
 ---
-title: 'BBB: Alienação ou Importância Social?'
+title: "BBB: Alienação ou Importância Social?"
 date: 2022-03-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
+  - Opinion
 ---
-
 
 **Quando falamos em BBB, a primeira coisa que vem à mente é a polaridade sobre o assunto. Essa polarização é expressa nos seguintes discursos majoritários sobre o tema: “Não vejo BBB porque é um entretenimento idiota e alienante” versus “O BBB merece ser visto e discutido porque traz à tona ideias e questões sociais relevantes”. Acontece que os dois extremos estão corretos e um não anula o outro, mas essas duas visões não resumem toda a problemática do programa.**
 

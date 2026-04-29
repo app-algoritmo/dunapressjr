@@ -1,13 +1,11 @@
 ---
-title: Liga Esportiva NESCAU® chega à região sul e estreia em Curitiba com 11 modalidades
-  esportivas
+title: "Liga Esportiva NESCAU® chega à região sul e estreia em Curitiba com 11 modalidades esportivas"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento está marcado para o dia 27 próximo, no Clube Social Paraná, e contará com os embaixadores da marca Gean Sampaio e Bboy Luan San.
 

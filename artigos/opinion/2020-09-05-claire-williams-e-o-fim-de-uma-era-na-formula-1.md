@@ -1,13 +1,12 @@
 ---
-title: Claire Williams e o fim de uma era na Fórmula 1?
+title: "Claire Williams e o fim de uma era na Fórmula 1?"
 date: 2020-09-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
-- Sports
+  - Opinion
+  - Sports
 ---
-
 
 # Será que a mudança na Williams vai resolver o problema que já se arrasta por anos?
 

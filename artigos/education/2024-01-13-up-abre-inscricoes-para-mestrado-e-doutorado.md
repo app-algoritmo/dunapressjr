@@ -1,12 +1,11 @@
 ---
-title: UP abre inscrições para mestrado e doutorado
+title: "UP abre inscrições para mestrado e doutorado"
 date: 2024-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Processos seletivos são realizados em duas etapas; aulas iniciam entre março e abril de 2024.
 

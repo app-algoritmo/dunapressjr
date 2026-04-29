@@ -1,13 +1,11 @@
 ---
-title: A capixaba Luna Hardman, número 2 do ranking mundial, é destaque no ArcelorMittal
-  Wahine Bodyboarding Pro
+title: "A capixaba Luna Hardman, número 2 do ranking mundial, é destaque no ArcelorMittal Wahine Bodyboarding Pro"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A atleta, de 18 anos, é uma das estrelas da nova geração. Em Serra (SP), está competindo nas categorias Pro Junior e Profissional e na etapa inicial do Circuito, no Marrocos, em sua primeira final no evento, terminou em segundo lugar. Competição recomeça nesta quarta-feira (24).
 

@@ -1,14 +1,12 @@
 ---
-title: Caxias Shopping, em parceria com a OAB/DC, comemora Mês do Advogado com ação
-  social junto à população do município
+title: "Caxias Shopping, em parceria com a OAB/DC, comemora Mês do Advogado com ação social junto à população do município"
 date: 2023-08-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Shopping
+  - Events
+  - Shopping
 ---
-
 
 ## Evento, que acontece dia 31 de agosto, é gratuito e vai oferecer orientações jurídicas em diversas áreas.
 

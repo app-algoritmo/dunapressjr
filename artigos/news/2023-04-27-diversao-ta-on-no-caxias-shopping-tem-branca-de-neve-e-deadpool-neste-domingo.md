@@ -1,12 +1,11 @@
 ---
-title: Diversão tá ON no Caxias Shopping tem Branca de Neve e Deadpool neste domingo
+title: "Diversão tá ON no Caxias Shopping tem Branca de Neve e Deadpool neste domingo"
 date: 2023-04-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Domingo terá atração para a criançada no Caxias Shopping. Saiba mais.
 

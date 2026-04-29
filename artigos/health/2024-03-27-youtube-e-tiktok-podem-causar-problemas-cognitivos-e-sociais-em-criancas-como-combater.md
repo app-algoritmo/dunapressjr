@@ -1,14 +1,12 @@
 ---
-title: 'YouTube e TikTok podem causar problemas cognitivos e sociais em crianças:
-  como combater?'
+title: "YouTube e TikTok podem causar problemas cognitivos e sociais em crianças: como combater?"
 date: 2024-03-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- Social networks
+  - Health
+  - Social networks
 ---
-
 
 ## Com o crescimento exponencial do uso das tecnologias, a cada dia que passa é mais comum ver as crianças, cada vez mais cedo, usando aparelhos eletrônicos.
 

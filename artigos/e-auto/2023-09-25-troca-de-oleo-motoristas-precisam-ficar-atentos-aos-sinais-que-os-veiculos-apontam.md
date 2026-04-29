@@ -1,13 +1,11 @@
 ---
-title: 'Troca de óleo: motoristas precisam ficar atentos aos sinais que os veículos
-  apontam'
+title: "Troca de óleo: motoristas precisam ficar atentos aos sinais que os veículos apontam"
 date: 2023-09-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Responsáveis pela lubrificação e proteção das partes móveis do motor, além da redução de atritos, lubrificantes evitam desgaste precoce das peças.
 

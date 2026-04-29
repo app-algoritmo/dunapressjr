@@ -1,13 +1,11 @@
 ---
-title: Restabelecer rodovias do RS é fundamental até para evitar tragédias futuras,
-  dizem especialistas
+title: "Restabelecer rodovias do RS é fundamental até para evitar tragédias futuras, dizem especialistas"
 date: 2024-05-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Cerca de 60% de todo o transporte de cargas do Brasil passam pelas rodovias.
 

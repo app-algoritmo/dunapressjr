@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde recebe o Fluminense nesta sexta-feira (8)
+title: "Osasco São Cristóvão Saúde recebe o Fluminense nesta sexta-feira (8)"
 date: 2023-12-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar vai contar com a força de sua torcida para superar as cariocas e tomar o seu lugar no G4 da Superliga.
 

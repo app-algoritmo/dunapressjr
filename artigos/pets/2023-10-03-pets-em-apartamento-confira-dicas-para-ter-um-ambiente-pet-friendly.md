@@ -1,12 +1,11 @@
 ---
-title: 'Pets em apartamento: confira dicas para ter um ambiente pet friendly'
+title: "Pets em apartamento: confira dicas para ter um ambiente pet friendly"
 date: 2023-10-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pets
+  - Pets
 ---
-
 
 ## Decoração diferenciada, espaços próprios e aromaterapia ajudam a melhorar no bem-estar e na saúde do animal de estimação.
 

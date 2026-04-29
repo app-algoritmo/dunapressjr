@@ -1,12 +1,11 @@
 ---
-title: Por meio da pesquisa, instituto busca ampliar acesso a tratamentos odontológicos
+title: "Por meio da pesquisa, instituto busca ampliar acesso a tratamentos odontológicos"
 date: 2024-05-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Com mais de 30 mil pacientes atendidos ao longo de 20 anos, Ilapeo é referência em atendimentos 'pro bono' que apoiam desenvolvimento de novas soluções e técnicas.
 

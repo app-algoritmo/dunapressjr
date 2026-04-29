@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde segue invicto e assume liderança do Paulista 2023
+title: "Osasco São Cristóvão Saúde segue invicto e assume liderança do Paulista 2023"
 date: 2023-09-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar derrotou o Sesi Bauru por 3 sets a 0 e conquistou a quarta vitória seguida no campeonato estadual.
 

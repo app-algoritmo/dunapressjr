@@ -1,12 +1,11 @@
 ---
-title: '''The Blacklist'' marca data para o final da série de duas horas na NBC'
+title: "'The Blacklist' marca data para o final da série de duas horas na NBC"
 date: 2023-05-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## A série dramática da NBC, The Blacklist , agora em sua décima e última temporada, está entrando em suas semanas finais com algumas mudanças pela frente.
 

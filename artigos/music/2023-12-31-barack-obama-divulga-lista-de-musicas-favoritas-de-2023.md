@@ -1,12 +1,11 @@
 ---
-title: Barack Obama divulga lista de músicas favoritas de 2023
+title: "Barack Obama divulga lista de músicas favoritas de 2023"
 date: 2023-12-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Music
+  - Music
 ---
-
 
 ## O ex-presidente dos Estados Unidos, Barack Obama, revelou sua lista de “Músicas favoritas de 2023”.
 

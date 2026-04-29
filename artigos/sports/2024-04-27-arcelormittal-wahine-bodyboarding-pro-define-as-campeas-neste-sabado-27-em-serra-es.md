@@ -1,13 +1,11 @@
 ---
-title: ArcelorMittal Wahine Bodyboarding Pro define as campeãs neste sábado (27),
-  em Serra (ES)
+title: "ArcelorMittal Wahine Bodyboarding Pro define as campeãs neste sábado (27), em Serra (ES)"
 date: 2024-04-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A programação começa às 7h na Praia de Jacaraípe e terá quartas de final, semifinal e final das categorias Pro Junior e Máster e semifinal e final da Profissional.
 

@@ -1,13 +1,11 @@
 ---
-title: Edição Especial de Dias dos Pais do Coletivo Balzak40 acontece no próximo final
-  de semana
+title: "Edição Especial de Dias dos Pais do Coletivo Balzak40 acontece no próximo final de semana"
 date: 2023-08-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Evento gratuito terá opções de presentes para comemorar a data, relançamento de autobiografia e pocket show do renomado compositor Turíbio Santos.
 

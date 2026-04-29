@@ -1,12 +1,11 @@
 ---
-title: Espaços e eventos se adaptam para receber pets e seus donos
+title: "Espaços e eventos se adaptam para receber pets e seus donos"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pets
+  - Pets
 ---
-
 
 ## Do restaurante às atividades físicas, bichos de estimação estão acompanhando tutores em (quase) todos os lugares.
 

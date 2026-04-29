@@ -1,13 +1,11 @@
 ---
-title: Condição do mar adia baterias da categoria Profissional do ArcelorMittal Wahine
-  Bodyboarding Pro
+title: "Condição do mar adia baterias da categoria Profissional do ArcelorMittal Wahine Bodyboarding Pro"
 date: 2024-04-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A Praia de Jacaraípe, em Serra, no Espírito Santo, teve disputas pela manhã nesta segunda-feira (22). Agora, a competição será retomada nesta quarta-feira (24) - a terça-feira será "day off" para esperar melhores condições do mar.
 

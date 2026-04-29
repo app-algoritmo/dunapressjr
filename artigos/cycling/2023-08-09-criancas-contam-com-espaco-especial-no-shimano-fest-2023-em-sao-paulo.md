@@ -1,13 +1,12 @@
 ---
-title: Crianças contam com espaço especial no Shimano Fest 2023, em São Paulo
+title: "Crianças contam com espaço especial no Shimano Fest 2023, em São Paulo"
 date: 2023-08-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Arena Kids by Nathor Bicicletas terá programação exclusiva para meninos e meninas nos próximos dias 19 e 20 (sábado e domingo), no Memorial da América Latina.
 

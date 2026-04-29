@@ -1,13 +1,11 @@
 ---
-title: Liga Esportiva NESCAU® chega ao Clube Espéria, em São Paulo, e recebe Falcão
-  e Veronica Hipólito neste final de semana
+title: "Liga Esportiva NESCAU® chega ao Clube Espéria, em São Paulo, e recebe Falcão e Veronica Hipólito neste final de semana"
 date: 2023-09-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O maior campeonato poliesportivo do pais terá disputas em 15 modalidades convencionais e 9 adaptadas, além de oficinas e desafios variados.
 

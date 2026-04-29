@@ -1,12 +1,11 @@
 ---
-title: 'ANÁLISE: Por que Vettel é essencial para o sucesso da Aston Martin na F1'
+title: "ANÁLISE: Por que Vettel é essencial para o sucesso da Aston Martin na F1"
 date: 2020-09-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
+  - Opinion
 ---
-
 
 **Sebastian Vettel assinou com a Racing Point para 2021. O que isso significa?**
 

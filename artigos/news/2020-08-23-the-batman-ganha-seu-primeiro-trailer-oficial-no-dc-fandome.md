@@ -1,12 +1,11 @@
 ---
-title: The Batman ganha seu primeiro trailer oficial no DC FanDome
+title: "The Batman ganha seu primeiro trailer oficial no DC FanDome"
 date: 2020-08-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 **Os fãs finalmente podem conferir os primeiros vislumbres da nova era do Morcego de Gotham.**
 

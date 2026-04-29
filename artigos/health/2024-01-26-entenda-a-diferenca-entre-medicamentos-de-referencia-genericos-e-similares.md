@@ -1,12 +1,11 @@
 ---
-title: Entenda a diferença entre medicamentos de referência, genéricos e similares
+title: "Entenda a diferença entre medicamentos de referência, genéricos e similares"
 date: 2024-01-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Especialista garante que as diferentes opções não afetam tratamento.
 

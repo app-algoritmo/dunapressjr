@@ -1,12 +1,11 @@
 ---
-title: SUVs representam 46% das vendas de automóveis no Brasil
+title: "SUVs representam 46% das vendas de automóveis no Brasil"
 date: 2023-09-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Global Economy
+  - Global Economy
 ---
-
 
 ## Maior da categoria, novo Ford Territory chega em setembro com mais espaço, novos itens de conforto e novidades de acabamento.
 

@@ -1,13 +1,12 @@
 ---
-title: HBO Max será relançado em maio apenas como 'Max'
+title: "HBO Max será relançado em maio apenas como 'Max'"
 date: 2023-04-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A opção de streaming "aprimorada", ainda está planejando adicionar plano premium.
 

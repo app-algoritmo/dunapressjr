@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani estreia nesta terça-feira (10) no WTA 500 de Zhengzhou
+title: "Luisa Stefani estreia nesta terça-feira (10) no WTA 500 de Zhengzhou"
 date: 2023-10-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana passa a fazer parte do time da Parmalat Whey Fit ao lado de Rebeca Andrade e Isaquias Queiroz.
 

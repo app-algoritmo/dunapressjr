@@ -1,13 +1,12 @@
 ---
-title: 'Harry &amp; Meghan : O documentário que mostra o outro lado da história'
+title: "Harry &amp; Meghan : O documentário que mostra o outro lado da história"
 date: 2023-01-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A série detalha em cada episódio as razões que levaram o casal ao abandono da monarquia, em 2020, para viver na Califórnia. 
 

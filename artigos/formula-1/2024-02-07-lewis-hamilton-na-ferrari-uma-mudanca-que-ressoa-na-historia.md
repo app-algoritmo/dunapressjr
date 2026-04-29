@@ -1,13 +1,12 @@
 ---
-title: 'Lewis Hamilton na Ferrari: Uma Mudança que Ressoa na História'
+title: "Lewis Hamilton na Ferrari: Uma Mudança que Ressoa na História"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Formula 1
-- Sports
+  - Formula 1
+  - Sports
 ---
-
 
 ## Lewis Hamilton, ao se unir à Ferrari, busca novas conquistas na sua ilustre carreira, porém, a equipe Italiana no momento precisa ainda mais do multicampeão.
 

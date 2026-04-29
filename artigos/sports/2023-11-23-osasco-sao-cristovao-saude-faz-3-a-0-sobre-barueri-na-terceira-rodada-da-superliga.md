@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde faz 3 a 0 sobre Barueri na terceira rodada da Superliga
+title: "Osasco São Cristóvão Saúde faz 3 a 0 sobre Barueri na terceira rodada da Superliga"
 date: 2023-11-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe do técnico Luizomar soma a segunda vitória no campeonato nacional e já volta à quadra neste domingo (26), em casa, contra o Pinheiros.
 

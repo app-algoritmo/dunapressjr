@@ -1,12 +1,11 @@
 ---
-title: Menina de oito anos vence barreiras da epilepsia e da paralisia
+title: "Menina de oito anos vence barreiras da epilepsia e da paralisia"
 date: 2024-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 AVISO
 Transformando Limitações em Esperança: A inspiradora história de Joana, uma garota de oito anos que superou a epilepsia e a paralisia cerebral com um tratamento alternativo. Importante lembrar que qualquer decisão relacionada a tratamentos médicos deve ser tomada em consulta com profissionais de saúde qualificados.

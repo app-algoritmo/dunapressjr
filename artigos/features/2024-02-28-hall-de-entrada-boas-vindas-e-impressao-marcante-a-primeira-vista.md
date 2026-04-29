@@ -1,12 +1,11 @@
 ---
-title: 'Hall de entrada: boas-vindas e impressão marcante à primeira vista'
+title: "Hall de entrada: boas-vindas e impressão marcante à primeira vista"
 date: 2024-02-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Ambientes destacam-se em projetos arquitetônicos, refletindo o luxo e a sofisticação dos edifícios.
 

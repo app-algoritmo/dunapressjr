@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde encara o Sorocaba para ratificar liderança e campanha
-  perfeita no Paulista
+title: "Osasco São Cristóvão Saúde encara o Sorocaba para ratificar liderança e campanha perfeita no Paulista"
 date: 2023-09-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Classificada para a semifinal, equipe comandada pelo técnico Luizomar joga fora de casa em busca da sexta vitória em seis partidas no Estadual 2023.
 

@@ -1,12 +1,11 @@
 ---
-title: Liga Esportiva NESCAU® fecha o ano em Imperatriz em temporada de recordes
+title: "Liga Esportiva NESCAU® fecha o ano em Imperatriz em temporada de recordes"
 date: 2023-11-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Com a presença da skatista e embaixadora da marca Rayssa Leal como anfitriã, maior competição poliesportiva estudantil do Brasil chegou pela primeira vez ao Maranhão.
 

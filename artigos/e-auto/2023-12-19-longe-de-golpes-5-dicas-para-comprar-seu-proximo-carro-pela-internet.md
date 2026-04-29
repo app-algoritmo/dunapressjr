@@ -1,12 +1,11 @@
 ---
-title: 'Longe de golpes: 5 dicas para comprar seu próximo carro pela internet'
+title: "Longe de golpes: 5 dicas para comprar seu próximo carro pela internet"
 date: 2023-12-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Empresas do setor percebem aumento de mais de 30% no interesse de buscar automóveis por canais digitais; saiba como iniciar o ano com carro novo na garagem de forma confiável.
 

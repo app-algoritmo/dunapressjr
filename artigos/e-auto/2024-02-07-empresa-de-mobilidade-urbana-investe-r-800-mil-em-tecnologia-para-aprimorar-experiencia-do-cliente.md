@@ -1,14 +1,12 @@
 ---
-title: Empresa de mobilidade urbana investe R$ 800 mil em tecnologia para aprimorar
-  experiência do cliente
+title: "Empresa de mobilidade urbana investe R$ 800 mil em tecnologia para aprimorar experiência do cliente"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
-- Technology
+  - E-auto
+  - Technology
 ---
-
 
 ## V1, empresa de locação e assinatura de carros pertencente ao grupo Águia Branca, transforma seu aplicativo e otimiza operações para proporcionar eficiência e disponibilidade da frota.
 

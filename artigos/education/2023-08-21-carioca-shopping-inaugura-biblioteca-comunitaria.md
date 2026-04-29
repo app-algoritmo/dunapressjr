@@ -1,13 +1,12 @@
 ---
-title: Carioca shopping inaugura biblioteca comunitária
+title: "Carioca shopping inaugura biblioteca comunitária"
 date: 2023-08-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Shopping
+  - Education
+  - Shopping
 ---
-
 
 ## Espaço irá receber doação de exemplares e promover troca entre livros.
 

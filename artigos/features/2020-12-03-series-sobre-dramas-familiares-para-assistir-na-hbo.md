@@ -1,13 +1,12 @@
 ---
-title: Séries sobre dramas familiares para assistir na HBO
+title: "Séries sobre dramas familiares para assistir na HBO"
 date: 2020-12-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 **Objetos Cortantes, The Undoing e I May Destroy You são apenas algumas das produções disponíveis no catálogo da emissora e do streaming.**
 

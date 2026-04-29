@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde bate Pinheiros e está a uma vitória da semifinal
-  da Superliga
+title: "Osasco São Cristóvão Saúde bate Pinheiros e está a uma vitória da semifinal da Superliga"
 date: 2024-04-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar venceu por 3 sets a 0 e pode carimbar o passaporte para a próxima fase com outro resultado positivo neste sábado (30), em São Paulo.
 

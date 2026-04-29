@@ -1,12 +1,11 @@
 ---
-title: O Fenômeno das séries coreanas
+title: "O Fenômeno das séries coreanas"
 date: 2024-02-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Como as produções Sul-Coreanas conquistaram o mundo audiovisual.
 

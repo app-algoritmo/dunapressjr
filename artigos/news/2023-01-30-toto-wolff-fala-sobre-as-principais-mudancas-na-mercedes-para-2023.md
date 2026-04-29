@@ -1,13 +1,12 @@
 ---
-title: Toto Wolff fala sobre as principais mudanças na Mercedes para 2023
+title: "Toto Wolff fala sobre as principais mudanças na Mercedes para 2023"
 date: 2023-01-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Sports
+  - News
+  - Sports
 ---
-
 
 ## O chefe da equipe da Mercedes, Toto Wolff, diz que os Silver Arrows estão fazendo mudanças na “arquitetura” de seu carro.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Beach Tennis: André Baran é campeão do ITF BT 400 de Aruba'
+title: "Beach Tennis: André Baran é campeão do ITF BT 400 de Aruba"
 date: 2023-11-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Final foi na madrugada desta segunda-feira (20). Ao lado do parceiro italiano Michele Cappelletti, catarinense derrotou a dupla brasileira Fabricio Neis e Daniel Schmitt.
 

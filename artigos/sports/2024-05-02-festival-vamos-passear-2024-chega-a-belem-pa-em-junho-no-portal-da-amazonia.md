@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear 2024 chega a Belém (PA) em junho, no Portal da Amazônia
+title: "Festival Vamos Passear 2024 chega a Belém (PA) em junho, no Portal da Amazônia"
 date: 2024-05-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O evento apresentado pela Brasilprev será no dia 23 e contará com Passeio de Bike, Caminhada e Corrida Kids, além de diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

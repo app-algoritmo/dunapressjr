@@ -1,13 +1,12 @@
 ---
-title: Internúcleos do IEE reúne mais de 3.500 participantes na edição 2023
+title: "Internúcleos do IEE reúne mais de 3.500 participantes na edição 2023"
 date: 2023-11-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Atividades serão realizadas até o final de dezembro, promovendo e ampliando a cultura esportiva em diferentes comunidades, em um evento realizado anualmente pelo Instituto Esporte e Educação.
 

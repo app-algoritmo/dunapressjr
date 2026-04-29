@@ -1,12 +1,11 @@
 ---
-title: 'Gestão de frotas: mercado global prevê crescimento de 15% nos próximos anos'
+title: "Gestão de frotas: mercado global prevê crescimento de 15% nos próximos anos"
 date: 2024-01-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Setor integra software, hardware e conectividade com foco em soluções para mobilidade urbana, proporcionando economia de recursos. A mineradora Vale é case de sucesso.
 

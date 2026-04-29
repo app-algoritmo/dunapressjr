@@ -1,14 +1,12 @@
 ---
-title: 'Melhor que ''café da manhã de hotel'': confira nova experiência gastronômica
-  de brunch em Curitiba'
+title: "Melhor que 'café da manhã de hotel': confira nova experiência gastronômica de brunch em Curitiba"
 date: 2023-10-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Food
+  - Events
+  - Food
 ---
-
 
 ## Para aqueles que gostam de acordar tarde e emendar o café da manhã com o almoço, o NH Curitiba The Five apresenta cardápio inédito de brunch aos domingos.
 

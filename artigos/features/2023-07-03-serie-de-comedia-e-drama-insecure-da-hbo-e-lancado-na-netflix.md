@@ -1,12 +1,11 @@
 ---
-title: Série de comédia e drama 'Insecure' da HBO é lançado na Netflix
+title: "Série de comédia e drama 'Insecure' da HBO é lançado na Netflix"
 date: 2023-07-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## A Netflix também confirmou que Band of Brothers, The Pacific, Six Feet Under e Ballers serão lançados em seu serviço como parte de um acordo.
 

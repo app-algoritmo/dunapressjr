@@ -1,13 +1,12 @@
 ---
-title: Igor Rickli diz que aceitou 'absurdos' da Record por dinheiro.
+title: "Igor Rickli diz que aceitou 'absurdos' da Record por dinheiro."
 date: 2022-12-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Ator Igor Rickli criticou o ex-patrão, o bispo Edir Macedo, por falas homofóbicas durante culto exibido pela emissora.
 

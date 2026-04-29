@@ -1,12 +1,11 @@
 ---
-title: Combinações de remédios e alimentos podem ser perigosas
+title: "Combinações de remédios e alimentos podem ser perigosas"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Na maioria das vezes, é recomendado comer algo antes de ingerir qualquer medicamento. 
 

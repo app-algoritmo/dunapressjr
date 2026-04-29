@@ -1,13 +1,11 @@
 ---
-title: 'Julho Amarelo: Pátio Alcântara realiza ação de prevenção e conscientização
-  contra hepatites virais'
+title: "Julho Amarelo: Pátio Alcântara realiza ação de prevenção e conscientização contra hepatites virais"
 date: 2023-07-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## O Pátio Alcântara vai promover uma ação especial de prevenção, diagnóstico e tratamento de hepatites virais. A ação é gratuita.
 

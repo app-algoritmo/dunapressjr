@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani e Beatriz Haddad Maia arrasam e alcançam semifinal no WTA 500
-  de Abu Dhabi
+title: "Luisa Stefani e Beatriz Haddad Maia arrasam e alcançam semifinal no WTA 500 de Abu Dhabi"
 date: 2024-02-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Brasileiras passaram por norte-americanas e buscarão vaga na final no sábado contra outra dupla do mesmo país.
 

@@ -1,12 +1,11 @@
 ---
-title: Madonna presta homenagem à amiga que “salvou sua vida” após um desmaio
+title: "Madonna presta homenagem à amiga que “salvou sua vida” após um desmaio"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Music
+  - Music
 ---
-
 
 ## Tudo aconteceu  depois que a cantora lutou contra uma grave infecção bacteriana durante o verão.
 

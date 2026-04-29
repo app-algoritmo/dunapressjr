@@ -1,12 +1,11 @@
 ---
-title: Aprendizado deve começar antes mesmo da escola, diz especialista
+title: "Aprendizado deve começar antes mesmo da escola, diz especialista"
 date: 2023-09-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Protagonismo infantil precisa ser trabalhado em casa, desde os primeiros dias de vida.
 

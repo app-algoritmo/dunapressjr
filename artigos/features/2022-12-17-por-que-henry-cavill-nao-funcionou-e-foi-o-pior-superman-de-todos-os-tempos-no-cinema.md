@@ -1,14 +1,12 @@
 ---
-title: Por que Henry Cavill não funcionou e foi o pior Superman de todos os tempos
-  no cinema?
+title: "Por que Henry Cavill não funcionou e foi o pior Superman de todos os tempos no cinema?"
 date: 2022-12-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Filmes dirigidos por Zack Snyder não conseguiram traduzir o personagem para as telas.
 

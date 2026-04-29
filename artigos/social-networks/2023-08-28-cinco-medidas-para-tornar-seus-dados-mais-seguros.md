@@ -1,13 +1,12 @@
 ---
-title: Cinco medidas para tornar seus dados mais seguros
+title: "Cinco medidas para tornar seus dados mais seguros"
 date: 2023-08-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Social networks
-- Technology
+  - Social networks
+  - Technology
 ---
-
 
 ## Tomar alguns cuidados ajuda a preservar a privacidade e evita golpes e fraudes.
 

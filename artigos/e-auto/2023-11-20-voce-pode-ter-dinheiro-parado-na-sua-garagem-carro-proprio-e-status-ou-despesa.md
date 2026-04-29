@@ -1,13 +1,11 @@
 ---
-title: '''Você pode ter dinheiro parado na sua garagem'': carro próprio é status ou
-  despesa?'
+title: "'Você pode ter dinheiro parado na sua garagem': carro próprio é status ou despesa?"
 date: 2023-11-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Pesquisa realizada pelo Serasa denominada "A relação do brasileiro com o automóvel" revela que os custos com veículos é a segunda maior despesa em 63% dos lares brasileiros.
 

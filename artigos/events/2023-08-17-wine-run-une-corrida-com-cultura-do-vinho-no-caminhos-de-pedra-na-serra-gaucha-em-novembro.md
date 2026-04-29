@@ -1,14 +1,12 @@
 ---
-title: Wine Run une corrida com cultura do vinho no Caminhos de Pedra, na Serra Gaúcha,
-  em novembro
+title: "Wine Run une corrida com cultura do vinho no Caminhos de Pedra, na Serra Gaúcha, em novembro"
 date: 2023-08-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Prova, considerada um dos principais eventos temáticos do País, está de volta em 2023, com percurso inédito. A largada será na cidade de Pinto Bandeira e a chegada em Bento Gonçalves. As inscrições já estão abertas.
 

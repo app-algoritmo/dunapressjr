@@ -1,12 +1,11 @@
 ---
-title: Foo Fighters nomeia novo baterista para substituir Taylor Hawkins
+title: "Foo Fighters nomeia novo baterista para substituir Taylor Hawkins"
 date: 2023-05-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Josh Freese está assumindo como substituto permanente de Taylor Hawkins em Foo Fighters , o grupo anunciou.
 

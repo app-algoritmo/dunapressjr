@@ -1,12 +1,11 @@
 ---
-title: 'Múltiplos braços, toques individuais: por um SUS cada vez mais humanizado'
+title: "Múltiplos braços, toques individuais: por um SUS cada vez mais humanizado"
 date: 2023-11-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 O que constitui o SUS? Unidades de saúde, pronto-socorros, medicamentos, vacinas, curativos, macas e respiradores. No entanto, apesar dessa estrutura indispensável, a grandeza de um sistema como esse vai muito além. A verdadeira essência está nas pessoas que fazem o SUS acontecer e permitem que ele seja parte viva de uma nação inteira. Previsto na Constituição de 1988, regulamentado em lei dois anos depois e inspirado, especialmente, no modelo do National Health Service britânico, o Sistema Único de Saúde chega até os mais distantes rincões de um país com tamanho continental. Isso já é suficiente para entender sua importância, especialmente se considerarmos que dois terços dos 203 milhões de brasileiros dependem dele para, literalmente, viver. Como uma ponte entre nações, o SUS é um testemunho de que podemos aprender com o mundo, criar algo único para o nosso povo e, então, nos transformarmos em referência para outros países.
 

@@ -1,12 +1,11 @@
 ---
-title: Rocky Mountain Games aperfeiçoa os percursos de bike para a etapa de Juquitiba
+title: "Rocky Mountain Games aperfeiçoa os percursos de bike para a etapa de Juquitiba"
 date: 2024-05-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Etapa será dia 15 de junho, no Fazendão RMG, e terá novos percursos que prometem melhorar a fluidez e aumentar performance nas provas de Mountain Bike e Gravel.
 

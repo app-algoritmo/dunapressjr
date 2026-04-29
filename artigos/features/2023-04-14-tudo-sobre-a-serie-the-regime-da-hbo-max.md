@@ -1,13 +1,12 @@
 ---
-title: Tudo sobre a série The Regime da HBO Max
+title: "Tudo sobre a série The Regime da HBO Max"
 date: 2023-04-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A HBO Max divulgou novidades sobre sua nova minissérie do streaming THE PALACE.
 

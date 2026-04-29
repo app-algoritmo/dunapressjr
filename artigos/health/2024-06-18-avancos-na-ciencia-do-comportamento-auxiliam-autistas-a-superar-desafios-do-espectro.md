@@ -1,13 +1,11 @@
 ---
-title: Avanços na ciência do comportamento auxiliam autistas a superar desafios do
-  espectro
+title: "Avanços na ciência do comportamento auxiliam autistas a superar desafios do espectro"
 date: 2024-06-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Com 70 milhões de autistas no mundo, análise do comportamento é vista como caminho para alterar trajetória de desenvolvimento e aprimorar qualidade de vida.
 

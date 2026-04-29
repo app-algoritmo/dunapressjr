@@ -1,13 +1,12 @@
 ---
-title: 'GP da Itália: Análise'
+title: "GP da Itália: Análise"
 date: 2020-09-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
-- Sports
+  - Opinion
+  - Sports
 ---
-
 
 **O GP da Itália como sempre reservou muitas surpresas e causou novas discussões entre os fãs em torno do regulamento da FIA. O GP foi justo?**
 

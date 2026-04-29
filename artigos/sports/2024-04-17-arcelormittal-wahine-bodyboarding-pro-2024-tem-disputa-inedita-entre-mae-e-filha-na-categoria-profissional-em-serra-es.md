@@ -1,13 +1,11 @@
 ---
-title: ArcelorMittal Wahine Bodyboarding Pro 2024 tem disputa inédita entre mãe e
-  filha na categoria Profissional, em Serra (ES)
+title: "ArcelorMittal Wahine Bodyboarding Pro 2024 tem disputa inédita entre mãe e filha na categoria Profissional, em Serra (ES)"
 date: 2024-04-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Etapa brasileira do Circuito Mundial será realizada a partir do dia 18, na praia de Jacaraípe. As capixabas Neymara Carvalho e Luna Hardman se transformam em adversárias durante as baterias, na busca pelos resultados.
 

@@ -1,12 +1,11 @@
 ---
-title: O que já sabemos sobre a quinta temporada de Stranger Things
+title: "O que já sabemos sobre a quinta temporada de Stranger Things"
 date: 2022-12-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 **Os irmãos Duffer deram uma série de entrevistas para inúmeros veículos, onde algumas sutis informações do futuro do show foram reveladas.**
 

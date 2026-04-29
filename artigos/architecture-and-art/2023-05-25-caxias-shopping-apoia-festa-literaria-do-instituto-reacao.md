@@ -1,14 +1,13 @@
 ---
-title: Caxias Shopping apoia Festa Literária do Instituto Reação
+title: "Caxias Shopping apoia Festa Literária do Instituto Reação"
 date: 2023-05-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Culture and History
-- Literature
+  - Architecture and Art
+  - Culture and History
+  - Literature
 ---
-
 
 ## Projeto de arrecadação de livros acontece entre os dias 24 de maio e 1º de junho.
 

@@ -1,13 +1,12 @@
 ---
-title: Instituto Etiene Medeiros abre inscrições para as Clínicas Nado Por Tudo
+title: "Instituto Etiene Medeiros abre inscrições para as Clínicas Nado Por Tudo"
 date: 2024-05-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Swimming
+  - Sports
+  - Swimming
 ---
-
 
 ## O objetivo do IEM, com sede no Recife (PE), é incentivar a prática da natação, especialmente entre os jovens, oferecendo aprendizagem e aprimoramento dos quatro estilos da modalidade.
 

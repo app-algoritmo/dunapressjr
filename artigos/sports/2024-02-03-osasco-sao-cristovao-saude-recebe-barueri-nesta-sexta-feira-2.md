@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde recebe Barueri nesta sexta-feira (2)
+title: "Osasco São Cristóvão Saúde recebe Barueri nesta sexta-feira (2)"
 date: 2024-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar vai contar com o apoio de sua torcida na defesa da vice-liderança da Superliga Bet7k.
 

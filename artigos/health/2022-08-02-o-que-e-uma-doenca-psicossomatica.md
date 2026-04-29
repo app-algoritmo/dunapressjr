@@ -1,12 +1,11 @@
 ---
-title: O que é uma doença psicossomática?
+title: "O que é uma doença psicossomática?"
 date: 2022-08-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 **As doenças psicossomáticas são causadas por problemas emocionais do indivíduo e representam a ligação direta entre a saúde emocional e a física. Ou seja, quando o sofrimento psicológico, de alguma forma, acaba causando ou agravando uma doença física.**
 

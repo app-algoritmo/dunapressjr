@@ -1,13 +1,11 @@
 ---
-title: 'Crise de gás na Europa, guerra nuclear e Oppenheimer: conteúdos para estudar
-  no Enem'
+title: "Crise de gás na Europa, guerra nuclear e Oppenheimer: conteúdos para estudar no Enem"
 date: 2023-10-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## A prova de Química do Exame Nacional do Ensino Médio costuma preocupar muitos estudantes que se preparam para o Enem devido ao vasto conteúdo abrangido por esse componente curricular. 
 

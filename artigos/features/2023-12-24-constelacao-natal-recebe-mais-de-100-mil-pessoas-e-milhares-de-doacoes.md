@@ -1,12 +1,11 @@
 ---
-title: Constelação Natal recebe mais de 100 mil pessoas e milhares de doações
+title: "Constelação Natal recebe mais de 100 mil pessoas e milhares de doações"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Como parte das atrações que consolidam Curitiba como a capital brasileira do Natal, a primeira edição da Constelação Natal, realizada pela Universidade Positivo (UP), pode ser considerada um sucesso.
 

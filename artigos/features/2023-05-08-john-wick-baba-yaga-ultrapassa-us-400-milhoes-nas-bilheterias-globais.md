@@ -1,13 +1,12 @@
 ---
-title: 'John Wick: Baba Yaga ultrapassa US$ 400 milhões nas bilheterias globais'
+title: "John Wick: Baba Yaga ultrapassa US$ 400 milhões nas bilheterias globais"
 date: 2023-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## O quarto filme da saga John Wick ultrapassou a marca de $ 400 milhões em todo o mundo.
 

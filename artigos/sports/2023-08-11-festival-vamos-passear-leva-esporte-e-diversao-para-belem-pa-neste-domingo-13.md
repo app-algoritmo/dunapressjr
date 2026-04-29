@@ -1,13 +1,11 @@
 ---
-title: Festival Vamos Passear leva esporte e diversão para Belém (PA), neste domingo
-  (13)
+title: "Festival Vamos Passear leva esporte e diversão para Belém (PA), neste domingo (13)"
 date: 2023-08-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento tem mais de 1.300 inscritos, de todas as idades, e chega pela primeira vez à capital paraense neste Dia dos Pais, no estádio do Mangueirão, com Passeio de Bike, Caminhada e Corrida Infantil, além de diversas atividades gratuitas.
 

@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a Campo Verde (MT) e beneficia cerca de 3.700 alunos
-  neste mês de setembro
+title: "Projeto Formações IEE chega a Campo Verde (MT) e beneficia cerca de 3.700 alunos neste mês de setembro"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 50 professores, gestores, coordenadores e diretores na cidade mato-grossense, que estarão participando de módulo com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

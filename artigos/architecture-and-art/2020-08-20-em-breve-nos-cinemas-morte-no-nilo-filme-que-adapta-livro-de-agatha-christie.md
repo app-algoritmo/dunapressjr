@@ -1,12 +1,11 @@
 ---
-title: Em breve nos cinemas | ‘Morte no Nilo’, filme que adapta livro de Agatha Christie
+title: "Em breve nos cinemas | ‘Morte no Nilo’, filme que adapta livro de Agatha Christie"
 date: 2020-08-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
+  - Architecture and Art
 ---
-
 
 **A 20th Century Studio divulgou hoje (19 de agosto) aquele que acreditamos ser o primeiro trailer de Morte no Nilo.**
 

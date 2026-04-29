@@ -1,13 +1,11 @@
 ---
-title: Festival Rocky Spirit leva 22 filmes inspiradores sobre esporte e aventura
-  para os cariocas neste final de semana
+title: "Festival Rocky Spirit leva 22 filmes inspiradores sobre esporte e aventura para os cariocas neste final de semana"
 date: 2023-09-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Festival gratuito e a céu aberto será realizado nos dois dias no posto 10 da praia de Ipanema e no domingo (24) na Vila Olímpica Nilton Santos, na Ilha do Governador.
 

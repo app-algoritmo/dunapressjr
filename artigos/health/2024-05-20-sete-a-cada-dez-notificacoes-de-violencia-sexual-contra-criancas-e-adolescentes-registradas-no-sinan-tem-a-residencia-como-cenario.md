@@ -1,13 +1,11 @@
 ---
-title: Sete a cada dez notificações de violência sexual contra crianças e adolescentes
-  registradas no Sinan têm a residência como cenário
+title: "Sete a cada dez notificações de violência sexual contra crianças e adolescentes registradas no Sinan têm a residência como cenário"
 date: 2024-05-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Campanha Defenda-se aborda a criação de espaços seguros como estratégia de enfrentamento à violência sexual contra meninas e meninos.
 

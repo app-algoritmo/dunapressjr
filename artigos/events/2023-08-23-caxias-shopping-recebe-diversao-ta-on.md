@@ -1,13 +1,12 @@
 ---
-title: Caxias Shopping recebe Diversão Tá On
+title: "Caxias Shopping recebe Diversão Tá On"
 date: 2023-08-23
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Shopping
+  - Events
+  - Shopping
 ---
-
 
 ## Gratuito e para todas as idades, evento acontece neste sábado e domingo.
 

@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde e Sesi Bauru fazem duelo de líderes invictos nesta
-  sexta
+title: "Osasco São Cristóvão Saúde e Sesi Bauru fazem duelo de líderes invictos nesta sexta"
 date: 2023-09-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe de Camila Brait, Fabiana, Tifanny e cia. vai em busca da quarta vitória consecutiva no Campeonato Paulista 2023.
 

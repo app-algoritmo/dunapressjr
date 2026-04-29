@@ -1,13 +1,11 @@
 ---
-title: 'Beach Tennis: André Baran e Michele Cappelletti estreiam com vitória em Viamão
-  (RS)'
+title: "Beach Tennis: André Baran e Michele Cappelletti estreiam com vitória em Viamão (RS)"
 date: 2023-11-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Catarinense - número 1 do Brasil e terceiro do mundo - e italiano derrotaram dupla brasileira Burjalli e Amancio nesta quinta-feira (23), avançando para a segunda rodada do BT 400, que será disputado até este sábado (25), válido pelo calendário da Federação Internacional de Tênis (ITF).
 

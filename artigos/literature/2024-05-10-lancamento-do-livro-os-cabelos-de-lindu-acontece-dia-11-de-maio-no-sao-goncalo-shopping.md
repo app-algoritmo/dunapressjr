@@ -1,14 +1,12 @@
 ---
-title: LANÇAMENTO DO LIVRO “OS CABELOS DE LINDU” ACONTECE DIA 11 DE MAIO NO SÃO GONÇALO
-  SHOPPING
+title: "LANÇAMENTO DO LIVRO “OS CABELOS DE LINDU” ACONTECE DIA 11 DE MAIO NO SÃO GONÇALO SHOPPING"
 date: 2024-05-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Literature
-- Shopping
+  - Literature
+  - Shopping
 ---
-
 
 ## No dia 11 de maio, o São Gonçalo Shopping será palco do aguardado lançamento do livro "Os Cabelos de Lindu".
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde encara o Minas para empatar na semifinal da Superliga
+title: "Osasco São Cristóvão Saúde encara o Minas para empatar na semifinal da Superliga"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe de Camila Brait, Butler, Tifanny, Giovana, Lorenne e cia. entra em quadra nesta sexta-feira (12), em Belo Horizonte, em busca da vitória para provocar a terceira e decisiva partida do playoff.
 

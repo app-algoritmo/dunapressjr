@@ -1,12 +1,11 @@
 ---
-title: Capixaba Luna Hardman é bicampeã mundial Pro Junior de Bodyboarding, no Chile
+title: "Capixaba Luna Hardman é bicampeã mundial Pro Junior de Bodyboarding, no Chile"
 date: 2024-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A bateria desempate, que definiu o título, foi realizada na tarde desta quinta-feira (23), em Antofagasta, contra a portuguesa Luana Dourado. As duas estavam empatadas em primeiro lugar após disputa das duas etapas do Circuito Mundial válidas pela categoria.
 

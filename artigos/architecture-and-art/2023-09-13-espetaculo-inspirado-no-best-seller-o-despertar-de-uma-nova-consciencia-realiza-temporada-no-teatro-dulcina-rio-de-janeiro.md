@@ -1,15 +1,13 @@
 ---
-title: Espetáculo inspirado no best-seller “O Despertar de Uma Nova Consciência”,
-  realiza temporada no Teatro Dulcina, Rio de Janeiro
+title: "Espetáculo inspirado no best-seller “O Despertar de Uma Nova Consciência”, realiza temporada no Teatro Dulcina, Rio de Janeiro"
 date: 2023-09-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
-- Culture and History
-- Events
+  - Architecture and Art
+  - Culture and History
+  - Events
 ---
-
 
 ## “EGO” é uma obra teatral filosófica que questiona o poder do eu interior.
 

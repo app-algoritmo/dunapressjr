@@ -1,12 +1,11 @@
 ---
-title: Curitiba é referência em mobilidade urbana
+title: "Curitiba é referência em mobilidade urbana"
 date: 2024-05-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
+  - E-auto
 ---
-
 
 ## Com investimentos em inovação, frota e tecnologia, a capital paranaense é exemplo de cidade inteligente na gestão e planejamento dos espaços urbanos.
 

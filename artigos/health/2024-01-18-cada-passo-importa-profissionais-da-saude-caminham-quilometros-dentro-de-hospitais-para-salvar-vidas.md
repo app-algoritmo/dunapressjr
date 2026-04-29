@@ -1,13 +1,11 @@
 ---
-title: 'Cada passo importa: profissionais da saúde caminham quilômetros dentro de
-  hospitais para salvar vidas'
+title: "Cada passo importa: profissionais da saúde caminham quilômetros dentro de hospitais para salvar vidas"
 date: 2024-01-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Nos bastidores do atendimento de pacientes graves, gestores e equipes assistenciais mudam estilo de vida para cuidar de outras pessoas.
 

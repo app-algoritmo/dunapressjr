@@ -1,13 +1,11 @@
 ---
-title: Apenas 1% das empresas brasileiras concedem licenças maternidade e paternidade
-  estendidas
+title: "Apenas 1% das empresas brasileiras concedem licenças maternidade e paternidade estendidas"
 date: 2023-12-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Programa permite que mães tenham 180 dias e pais 20 dias em casa; somente empresas que operam pela modalidade Lucro Real podem aderir.
 

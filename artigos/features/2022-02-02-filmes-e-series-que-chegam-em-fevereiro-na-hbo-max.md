@@ -1,12 +1,11 @@
 ---
-title: Filmes e séries que chegam em fevereiro na HBO MAX
+title: "Filmes e séries que chegam em fevereiro na HBO MAX"
 date: 2022-02-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 **Veja algumas estreias da HBO MAX para fevereiro!**
 

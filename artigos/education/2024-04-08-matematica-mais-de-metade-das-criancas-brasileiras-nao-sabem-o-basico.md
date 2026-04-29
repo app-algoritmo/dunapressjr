@@ -1,12 +1,11 @@
 ---
-title: 'Matemática: mais de metade das crianças brasileiras não sabem o básico'
+title: "Matemática: mais de metade das crianças brasileiras não sabem o básico"
 date: 2024-04-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Menos de 50% dos estudantes brasileiros têm nível mínimo de aprendizagem na disciplina.
 

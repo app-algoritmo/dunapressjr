@@ -1,13 +1,11 @@
 ---
-title: 'Água, café, suco ou refrigerante: como você toma medicamentos pode interferir
-  na eficácia'
+title: "Água, café, suco ou refrigerante: como você toma medicamentos pode interferir na eficácia"
 date: 2024-02-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Horário, combinação entre medicamentos diferentes e até o líquido escolhido devem ser levados em conta e analisados em conjunto com profissionais de saúde.
 

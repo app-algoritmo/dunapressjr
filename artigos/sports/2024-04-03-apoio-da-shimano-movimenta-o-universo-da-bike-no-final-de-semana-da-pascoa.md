@@ -1,12 +1,11 @@
 ---
-title: Apoio da Shimano movimenta o universo da bike no final de semana da Páscoa
+title: "Apoio da Shimano movimenta o universo da bike no final de semana da Páscoa"
 date: 2024-04-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Atletas de equipes apoiadas pela marca japonesa dominaram a etapa de Itabirito da Internacional Chaoyang Estrada Real, enquanto a criançada da periferia carioca se divertia com balance bikes e chocolate.
 

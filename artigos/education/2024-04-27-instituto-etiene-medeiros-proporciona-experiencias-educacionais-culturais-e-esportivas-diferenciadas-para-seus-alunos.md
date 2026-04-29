@@ -1,14 +1,12 @@
 ---
-title: Instituto Etiene Medeiros proporciona experiências educacionais, culturais
-  e esportivas diferenciadas para seus alunos
+title: "Instituto Etiene Medeiros proporciona experiências educacionais, culturais e esportivas diferenciadas para seus alunos"
 date: 2024-04-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Crianças e jovens que participam do projeto, no Recife (PE), tiveram agenda repleta de atividades neste mês de abril. Uma delas foi a presença do Time Nado por Tudo no ginásio Geraldão para acompanhar a final da Superliga Feminina de Vôlei, E, neste domingo (28), tem mais, com a decisão masculina.
 

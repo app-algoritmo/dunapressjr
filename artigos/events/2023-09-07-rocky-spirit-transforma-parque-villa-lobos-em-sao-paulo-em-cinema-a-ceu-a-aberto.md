@@ -1,14 +1,12 @@
 ---
-title: Rocky Spirit transforma Parque Villa-Lobos, em São Paulo, em cinema a céu a
-  aberto
+title: "Rocky Spirit transforma Parque Villa-Lobos, em São Paulo, em cinema a céu a aberto"
 date: 2023-09-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Maior festival de documentários sobre vida outdoor, meio ambiente e aventura chega a 13ª edição, nos dias 16 e 17 de setembro, com entrada grátis.
 

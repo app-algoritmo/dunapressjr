@@ -1,13 +1,12 @@
 ---
-title: WhatsApp lança serviço inédito de pagamentos no Brasil
+title: "WhatsApp lança serviço inédito de pagamentos no Brasil"
 date: 2023-04-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Technology
+  - News
+  - Technology
 ---
-
 
 ## Serviço será oferecido em parceria com empresas e bancos.
 

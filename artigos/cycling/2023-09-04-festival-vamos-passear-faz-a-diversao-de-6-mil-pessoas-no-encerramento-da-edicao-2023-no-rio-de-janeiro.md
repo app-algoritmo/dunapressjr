@@ -1,15 +1,13 @@
 ---
-title: Festival Vamos Passear faz a diversão de 6 mil pessoas no encerramento da edição
-  2023, no Rio de Janeiro
+title: "Festival Vamos Passear faz a diversão de 6 mil pessoas no encerramento da edição 2023, no Rio de Janeiro"
 date: 2023-09-04
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Events
-- Sports
+  - Cycling
+  - Events
+  - Sports
 ---
-
 
 ## Evento foi realizado no final de semana, com Corrida Intantil no sábado (3) e Passeio de Bike e Caminhada neste domingo (3), na Praia de Copacabana. Famílias, grupos de amigos, de crianças a idosos, momentos de lazer e bem-estar na orla carioca, com várias atividades gratuitas ao longo dos dois dias.
 

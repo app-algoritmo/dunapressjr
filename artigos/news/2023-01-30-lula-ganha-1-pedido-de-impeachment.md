@@ -1,12 +1,11 @@
 ---
-title: Lula ganha 1º pedido de Impeachment
+title: "Lula ganha 1º pedido de Impeachment"
 date: 2023-01-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Deputado Ubiratan Sanderson entrou com o primeiro pedido de impeachment de Lula. Em apoio, Eduardo Bolsonaro se posicionou nas redes.
 

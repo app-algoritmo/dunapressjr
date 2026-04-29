@@ -1,14 +1,12 @@
 ---
-title: 'SAMPA Saúde em Movimento: orientação esportiva e nutricional de graça nos
-  parques de São Paulo'
+title: "SAMPA Saúde em Movimento: orientação esportiva e nutricional de graça nos parques de São Paulo"
 date: 2024-03-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
-- Sports
+  - Health
+  - Sports
 ---
-
 
 ## Projeto começa nesta terça-feira (12), com presença de profissionais em 15 parques de todas as regiões da capital paulista. A partir desta quinta-feira (14), unidades móveis de saúde levarão equipamentos de ponta para avaliação física da população.
 

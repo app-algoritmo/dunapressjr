@@ -1,13 +1,12 @@
 ---
-title: Campeão pela 17ª vez, Osasco São Cristóvão Saúde conquista título invicto
+title: "Campeão pela 17ª vez, Osasco São Cristóvão Saúde conquista título invicto"
 date: 2023-10-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar fechou o playoff final ao bater o Pinheiros em dois jogos seguidos. Diante de uma ginásio lotada e empurradas por cerca de 4 mil pessoas, osasquenses vencera, por 3 a 0.
 

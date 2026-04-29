@@ -1,13 +1,11 @@
 ---
-title: Referências em traumas e transplantes, hospitais SUS encaram desafio na captação
-  de recursos
+title: "Referências em traumas e transplantes, hospitais SUS encaram desafio na captação de recursos"
 date: 2023-12-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Aquisições essenciais para procedimentos cardiovasculares, como equipamentos de hemodinâmica, dependem de doações generosas.
 

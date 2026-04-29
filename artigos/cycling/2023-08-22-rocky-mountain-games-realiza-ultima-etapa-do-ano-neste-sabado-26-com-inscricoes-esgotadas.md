@@ -1,14 +1,12 @@
 ---
-title: Rocky Mountain Games realiza última etapa do ano neste sábado (26) com inscrições
-  esgotadas
+title: "Rocky Mountain Games realiza última etapa do ano neste sábado (26) com inscrições esgotadas"
 date: 2023-08-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Maior festival de esportes e cultura de montanha será realizado nas modalidades trail run, canicross, mountain bike e gravel em meio à Mata Atlântica de Juquitiba.
 

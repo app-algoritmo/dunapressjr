@@ -1,12 +1,11 @@
 ---
-title: O Louco regressa com novo álbum 'FAMA'
+title: "O Louco regressa com novo álbum 'FAMA'"
 date: 2023-06-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## O Louco lançou o seu novo álbum, "FAMA", nas plataformas digitais.
 

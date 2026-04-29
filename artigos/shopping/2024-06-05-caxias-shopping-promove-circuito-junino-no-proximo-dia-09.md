@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping promove 'Circuito Junino' no proximo dia 09
+title: "Caxias Shopping promove 'Circuito Junino' no proximo dia 09"
 date: 2024-06-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Atividade infantil gratuita terá corrida do saco, ovo na colher, pula fogueira e muito mais.
 

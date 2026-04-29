@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue para o WTA 1000 de Cincinnati, nos Estados Unidos
+title: "Luisa Stefani segue para o WTA 1000 de Cincinnati, nos Estados Unidos"
 date: 2023-08-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana foi superada em Montreal ao lado da número 1 do mundo, a tcheca Katerina Siniakova.
 

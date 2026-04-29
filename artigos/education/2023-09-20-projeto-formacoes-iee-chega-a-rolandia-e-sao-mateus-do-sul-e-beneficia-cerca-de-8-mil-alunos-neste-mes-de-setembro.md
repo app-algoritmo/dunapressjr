@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a Rolândia e São Mateus do Sul e beneficia cerca
-  de 8 mil alunos neste mês de setembro
+title: "Projeto Formações IEE chega a Rolândia e São Mateus do Sul e beneficia cerca de 8 mil alunos neste mês de setembro"
 date: 2023-09-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 110 professores, gestores, coordenadores e diretores nas duas cidades paranaenses, que estarão participando de módulos com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

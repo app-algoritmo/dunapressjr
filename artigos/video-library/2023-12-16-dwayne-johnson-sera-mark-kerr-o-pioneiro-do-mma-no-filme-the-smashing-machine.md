@@ -1,12 +1,11 @@
 ---
-title: Dwayne Johnson será Mark Kerr, o pioneiro do MMA no filme ‘The Smashing Machine’
+title: "Dwayne Johnson será Mark Kerr, o pioneiro do MMA no filme ‘The Smashing Machine’"
 date: 2023-12-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Dwayne Johnson interpretará Mark Kerr, o lendário lutador de MMA da era sem barreiras do UFC, em "A Máquina Esmagadora" da produtora A24.
 

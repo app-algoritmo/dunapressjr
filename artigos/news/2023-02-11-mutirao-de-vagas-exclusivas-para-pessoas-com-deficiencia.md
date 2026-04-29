@@ -1,12 +1,11 @@
 ---
-title: Mutirão de vagas exclusivas para pessoas com deficiência
+title: "Mutirão de vagas exclusivas para pessoas com deficiência"
 date: 2023-02-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 Complexo de Saúde Pequeno Cotolengo promove mutirão de vagas exclusivas para pessoas com deficiência.
 

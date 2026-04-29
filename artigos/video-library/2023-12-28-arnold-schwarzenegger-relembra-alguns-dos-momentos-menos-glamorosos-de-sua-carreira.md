@@ -1,13 +1,11 @@
 ---
-title: Arnold Schwarzenegger relembra alguns dos momentos menos glamorosos de sua
-  carreira
+title: "Arnold Schwarzenegger relembra alguns dos momentos menos glamorosos de sua carreira"
 date: 2023-12-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## Arnold Schwarzenegger contou alguns momentos desagradáveis de sua longa e incrível carreira.
 

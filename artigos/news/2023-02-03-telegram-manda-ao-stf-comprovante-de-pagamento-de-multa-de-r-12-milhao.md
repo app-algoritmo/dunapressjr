@@ -1,12 +1,11 @@
 ---
-title: Telegram manda ao STF comprovante de pagamento de multa de R$ 1,2 milhão.
+title: "Telegram manda ao STF comprovante de pagamento de multa de R$ 1,2 milhão."
 date: 2023-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## Ao Supremo Tribunal Federal (STF), o Telegram afirmou que fez um depósito de R$ 1,2 milhão em uma conta judicial. Porém, manteve recurso.
 

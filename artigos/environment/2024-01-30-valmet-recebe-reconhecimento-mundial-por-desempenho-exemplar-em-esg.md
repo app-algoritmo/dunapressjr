@@ -1,12 +1,11 @@
 ---
-title: Valmet recebe reconhecimento mundial por desempenho exemplar em ESG
+title: "Valmet recebe reconhecimento mundial por desempenho exemplar em ESG"
 date: 2024-01-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
+  - Environment
 ---
-
 
 ## Multinacional é incluída pelo 10.º ano consecutivo no Índice Dow Jones de Sustentabilidade (DJSI) e oferece oportunidades de produção neutras em carbono para indústrias de celulose, papel, cartão e tissue.
 

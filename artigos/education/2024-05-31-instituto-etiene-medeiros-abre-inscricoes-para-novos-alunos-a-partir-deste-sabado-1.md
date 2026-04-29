@@ -1,13 +1,11 @@
 ---
-title: Instituto Etiene Medeiros abre inscrições para novos alunos a partir deste
-  sábado (1)
+title: "Instituto Etiene Medeiros abre inscrições para novos alunos a partir deste sábado (1)"
 date: 2024-05-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## O IEM, com sede em Recife (PE), receberá as novas turmas em julho, com diversas atividades gratuitas, no Complexo Esportivo Santos Dumont, em Boa Viagem. Podem participar crianças e jovens entre 11 e 17 anos.
 

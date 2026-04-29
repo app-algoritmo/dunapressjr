@@ -1,12 +1,11 @@
 ---
-title: 'CBD, THC e drogas K: desvendando a sopa de letrinhas'
+title: "CBD, THC e drogas K: desvendando a sopa de letrinhas"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Liberato Brum Junior e Nelson Ferreira Claro Junior
 

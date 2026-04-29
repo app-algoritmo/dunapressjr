@@ -1,14 +1,12 @@
 ---
-title: Instituto Esporte e Educação reúne 100 alunos para mutirão no Dia Mundial da
-  Limpeza, no sábado (16), em Maresias (SP)
+title: "Instituto Esporte e Educação reúne 100 alunos para mutirão no Dia Mundial da Limpeza, no sábado (16), em Maresias (SP)"
 date: 2023-09-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Jovens integram o Núcleo São Sebastião, do Projeto Rede de Núcleos, do IEE, e estarão na praia, a partir das 8h30, ao lado de 40 convidados, parceiros da comunidade.
 

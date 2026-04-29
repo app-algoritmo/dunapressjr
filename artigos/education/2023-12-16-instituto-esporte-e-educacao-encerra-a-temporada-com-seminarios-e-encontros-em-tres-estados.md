@@ -1,14 +1,12 @@
 ---
-title: Instituto Esporte e Educação encerra a temporada com seminários e encontros
-  em três estados
+title: "Instituto Esporte e Educação encerra a temporada com seminários e encontros em três estados"
 date: 2023-12-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## IEE fez encontros em São Paulo, Rio de Janeiro e Pernambuco, locais do Projeto Rede de Núcleos, além de seminário institucional e conferência interna, ambos na Capital Paulista, todos neste mês de dezembro.
 

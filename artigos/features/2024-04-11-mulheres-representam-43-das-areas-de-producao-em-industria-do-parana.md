@@ -1,12 +1,11 @@
 ---
-title: Mulheres representam 43% das áreas de produção em indústria do Paraná
+title: "Mulheres representam 43% das áreas de produção em indústria do Paraná"
 date: 2024-04-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Antigamente considerado ambiente masculino, áreas fabris têm apresentado crescimento na busca do público feminino.
 

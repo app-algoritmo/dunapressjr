@@ -1,13 +1,12 @@
 ---
-title: Educação inclusiva nas escolas contribui para saúde mental de estudantes
+title: "Educação inclusiva nas escolas contribui para saúde mental de estudantes"
 date: 2023-09-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Health
+  - Education
+  - Health
 ---
-
 
 ## Especialista explica relação entre ambientes mais inclusivos e saúde emocional de crianças e adolescentes.
 

@@ -1,12 +1,11 @@
 ---
-title: Natal é oportunidade para ensinar consumo consciente às crianças
+title: "Natal é oportunidade para ensinar consumo consciente às crianças"
 date: 2023-12-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Aproveite a época de festas para exercitar solidariedade, desapego material e combate ao consumismo.
 

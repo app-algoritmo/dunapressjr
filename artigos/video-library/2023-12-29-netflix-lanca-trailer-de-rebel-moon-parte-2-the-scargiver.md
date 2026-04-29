@@ -1,12 +1,11 @@
 ---
-title: 'Netflix lança trailer de ''Rebel Moon - Parte 2: The Scargiver'''
+title: "Netflix lança trailer de 'Rebel Moon - Parte 2: The Scargiver'"
 date: 2023-12-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 ## A Netflix lançou o primeiro trailer de “Rebel Moon – Parte 2: The Scargiver”, do diretor Zack Snyder.
 

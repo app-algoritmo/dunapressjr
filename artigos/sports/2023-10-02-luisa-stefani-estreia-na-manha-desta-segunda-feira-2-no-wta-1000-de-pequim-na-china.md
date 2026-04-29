@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani estreia na manhã desta segunda-feira (2) no WTA 1000 de Pequim,
-  na China
+title: "Luisa Stefani estreia na manhã desta segunda-feira (2) no WTA 1000 de Pequim, na China"
 date: 2023-10-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana estará no torneio ao lado de carioca Ingrid Martins. Jogo será por volta das 6h (horário de Brasília).
 

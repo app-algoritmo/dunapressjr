@@ -1,12 +1,11 @@
 ---
-title: Tratamentos de beleza para o inverno
+title: "Tratamentos de beleza para o inverno"
 date: 2023-06-30
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Beauty
+  - Beauty
 ---
-
 
 ## Aparelhos estéticos e Ritual de Inverno são destaques da temporada
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde abre o segundo turno da Superliga com vitória
+title: "Osasco São Cristóvão Saúde abre o segundo turno da Superliga com vitória"
 date: 2024-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar derrota Brasília e soma quarta vitória consecutiva. Na próxima segunda-feira (22), time volta à quadra do José Liberatti para enfrentar o Fluminense, pela Copa Brasil.
 

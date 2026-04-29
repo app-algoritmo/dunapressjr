@@ -1,12 +1,11 @@
 ---
-title: Netshoes Run tem segunda etapa em Franca (SP), no início de dezembro
+title: "Netshoes Run tem segunda etapa em Franca (SP), no início de dezembro"
 date: 2023-10-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Depois de reunir 3 mil participantes na capital paulista, evento vai movimentar a cidade do interior de São Paulo com Caminhada (3 km), Corrida (5 km e 10 km) e Corrida Kids. As inscrições já estão abertas.
 

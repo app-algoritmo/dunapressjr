@@ -1,14 +1,12 @@
 ---
-title: Caravana do Esporte, do IEE, realiza ações em Santa Bárbara (MG) e atende a
-  1.500 crianças
+title: "Caravana do Esporte, do IEE, realiza ações em Santa Bárbara (MG) e atende a 1.500 crianças"
 date: 2023-09-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Projeto do Instituto Esporte e Educação movimentará a cidade do interior mineiro durante três dias, a partir desta terça-feira (19), levando a metodologia do esporte educacional.
 

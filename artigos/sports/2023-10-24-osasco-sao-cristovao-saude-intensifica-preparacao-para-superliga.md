@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde intensifica preparação para Superliga
+title: "Osasco São Cristóvão Saúde intensifica preparação para Superliga"
 date: 2023-10-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Campeão paulista de 2023 já tem data para a estreia no campeonato nacional. Será dia 9 de novembro, fora de casa, contra o Brasília.
 

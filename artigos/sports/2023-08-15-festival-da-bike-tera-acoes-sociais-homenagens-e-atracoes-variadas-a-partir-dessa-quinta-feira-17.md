@@ -1,13 +1,11 @@
 ---
-title: Festival da bike terá ações sociais, homenagens e atrações variadas a partir
-  dessa quinta-feira (17)
+title: "Festival da bike terá ações sociais, homenagens e atrações variadas a partir dessa quinta-feira (17)"
 date: 2023-08-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Shimano Fest 2013 tem entrada grátis e vai até domingo, no Memorial da América Latina, na cidade de São Paulo.
 

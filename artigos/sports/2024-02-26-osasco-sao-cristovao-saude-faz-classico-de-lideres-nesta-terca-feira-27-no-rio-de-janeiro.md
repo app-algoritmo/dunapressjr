@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde faz clássico de líderes nesta terça-feira (27),
-  no Rio de Janeiro
+title: "Osasco São Cristóvão Saúde faz clássico de líderes nesta terça-feira (27), no Rio de Janeiro"
 date: 2024-02-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Segundo colocado e invicto na competição há nove rodadas, equipe do técnico Luizomar encara o Sesc Flamengo a partir das 21h, no ginásio do Maracanazinho.
 

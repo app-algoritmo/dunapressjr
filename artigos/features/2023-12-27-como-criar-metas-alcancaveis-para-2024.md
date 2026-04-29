@@ -1,12 +1,11 @@
 ---
-title: Como criar metas alcançáveis para 2024
+title: "Como criar metas alcançáveis para 2024"
 date: 2023-12-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## O início de um novo ano é um momento propício para refletir sobre nossas vidas e estabelecer metas para o futuro.
 

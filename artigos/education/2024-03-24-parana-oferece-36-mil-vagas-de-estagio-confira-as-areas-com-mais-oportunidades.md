@@ -1,12 +1,11 @@
 ---
-title: Paraná oferece 3,6 mil vagas de estágio; confira as áreas com mais oportunidades
+title: "Paraná oferece 3,6 mil vagas de estágio; confira as áreas com mais oportunidades"
 date: 2024-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Para se candidatar, é necessário ter mais de 16 anos e estar matriculado em uma instituição de ensino.
 

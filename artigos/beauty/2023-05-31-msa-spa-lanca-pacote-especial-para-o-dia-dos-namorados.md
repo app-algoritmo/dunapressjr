@@ -1,12 +1,11 @@
 ---
-title: MSA Spa lança pacote especial para o Dia dos Namorados
+title: "MSA Spa lança pacote especial para o Dia dos Namorados"
 date: 2023-05-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Beauty
+  - Beauty
 ---
-
 
 ## Ritual romântico oferece tratamento corporal e relaxante para o casal  finalizado com delicioso fondue. 
 

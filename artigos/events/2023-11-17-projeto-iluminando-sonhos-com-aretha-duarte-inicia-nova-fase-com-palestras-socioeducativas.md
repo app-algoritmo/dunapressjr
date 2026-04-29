@@ -1,14 +1,12 @@
 ---
-title: Projeto Iluminando Sonhos, com Aretha Duarte, inicia nova fase com palestras
-  socioeducativas
+title: "Projeto Iluminando Sonhos, com Aretha Duarte, inicia nova fase com palestras socioeducativas"
 date: 2023-11-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Sports
+  - Events
+  - Sports
 ---
-
 
 ## Após pré-estreia do filme Aretha no Everest, que conta trajetória para se tornar a primeira negra latino-americana a alcançar o topo do mundo,montanhista inicia série de palestras do projeto Iluminando Sonhos,que tem patrocínio da Enel Distribuição Rio por meio da Lei Estadual de Incentivo à Cultura.
 

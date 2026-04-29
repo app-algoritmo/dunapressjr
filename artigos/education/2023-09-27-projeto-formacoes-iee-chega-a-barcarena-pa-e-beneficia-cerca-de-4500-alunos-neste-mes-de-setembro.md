@@ -1,14 +1,12 @@
 ---
-title: Projeto Formações IEE chega a Barcarena (PA) e beneficia cerca de 4.500 alunos
-  neste mês de setembro
+title: "Projeto Formações IEE chega a Barcarena (PA) e beneficia cerca de 4.500 alunos neste mês de setembro"
 date: 2023-09-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## São 60 professores, gestores, coordenadores e diretores na cidade paraense, que estarão participando de módulo com a metodologia do Instituto Esporte e Educação, baseada nos princípios do esporte educacional.
 

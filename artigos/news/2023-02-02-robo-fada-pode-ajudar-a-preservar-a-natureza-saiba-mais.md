@@ -1,13 +1,12 @@
 ---
-title: Robô-fada pode ajudar a preservar a natureza; saiba mais
+title: "Robô-fada pode ajudar a preservar a natureza; saiba mais"
 date: 2023-02-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
-- Technology
+  - News
+  - Technology
 ---
-
 
 ## Pesando apenas 1,2 mg, o robô-fada foi desenvolvido na Finlândia como alternativa para ajudar a reduzir perda de polinizadores.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Evento gratuito: Diversão tá ON no Caxias Shopping'
+title: "Evento gratuito: Diversão tá ON no Caxias Shopping"
 date: 2023-04-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 ## O Caxias Shopping, promove o "Diversão tá ON" em parceria com a loja PS Geek e com a produtora Lucena Corp em todos os domingos de abril.
 

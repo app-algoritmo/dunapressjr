@@ -1,13 +1,11 @@
 ---
-title: Dani Freitas e Mariana Nogueira, estrelas do bodyboarding mundial nos anos
-  90, revivem rivalidade no Wahine 2024
+title: "Dani Freitas e Mariana Nogueira, estrelas do bodyboarding mundial nos anos 90, revivem rivalidade no Wahine 2024"
 date: 2024-04-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## As cariocas tricampeãs mundiais vão disputar a categoria Máster. Etapa brasileira do circuito mundial será realizada entre os dias 18 e 27 de abril, na praia de Jacaraípe, em Serra, no Espírito Santo.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Geografia no Enem: temas que exigem atenção especial'
+title: "Geografia no Enem: temas que exigem atenção especial"
 date: 2023-10-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Não basta depender da capacidade de memorização, mas exige que o candidato esteja por dentro de diversos assuntos, entre eles geopolítica, meio ambiente, espaço agrário e urbano, dinâmicas da terra, entre outros.
 

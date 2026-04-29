@@ -1,12 +1,11 @@
 ---
-title: Nosso Amigo Extraordinário
+title: "Nosso Amigo Extraordinário"
 date: 2024-05-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Video library
+  - Video library
 ---
-
 
 Explorando a solidão, o envelhecimento e as relações humanas, "Nosso Amigo Extraordinário" é uma obra sensível que toca profundamente o espectador.
 

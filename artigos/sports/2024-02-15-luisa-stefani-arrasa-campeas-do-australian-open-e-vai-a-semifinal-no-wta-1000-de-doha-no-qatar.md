@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani arrasa campeãs do Australian Open e vai à semifinal no WTA 1000
-  de Doha, no Qatar
+title: "Luisa Stefani arrasa campeãs do Australian Open e vai à semifinal no WTA 1000 de Doha, no Qatar"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e holandesa Demi Schuurs passaram por principal dupla do torneio e enfrentam tchecas a partir das 9h desta sexta-feira.
 

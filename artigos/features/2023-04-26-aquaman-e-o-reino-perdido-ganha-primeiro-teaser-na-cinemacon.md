@@ -1,13 +1,12 @@
 ---
-title: Aquaman e o Reino Perdido ganha primeiro teaser na CinemaCon
+title: "Aquaman e o Reino Perdido ganha primeiro teaser na CinemaCon"
 date: 2023-04-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Depois de um bom tempo sem notícias, mais novidades sobre o filme devem chegar em breve.
 

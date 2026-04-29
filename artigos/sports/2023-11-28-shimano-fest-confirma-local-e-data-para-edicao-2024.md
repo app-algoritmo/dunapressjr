@@ -1,12 +1,11 @@
 ---
-title: Shimano Fest confirma local e data para edição 2024
+title: "Shimano Fest confirma local e data para edição 2024"
 date: 2023-11-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Maior festival latino-americano da bike será novamente no Memorial da América Latina, em São Paulo, entre 15 e 18 de agosto, sempre com entrada grátis.
 

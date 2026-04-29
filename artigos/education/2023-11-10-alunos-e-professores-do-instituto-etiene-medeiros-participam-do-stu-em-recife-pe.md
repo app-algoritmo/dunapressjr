@@ -1,14 +1,12 @@
 ---
-title: Alunos e professores do Instituto Etiene Medeiros participam do STU, em Recife
-  (PE)
+title: "Alunos e professores do Instituto Etiene Medeiros participam do STU, em Recife (PE)"
 date: 2023-11-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Quarta e última etapa do Circuito Brasileiro de Skate será realizada a partir desta sexta-feira (10) e até domingo (12), no Skate Park. As crianças do IEM foram convidadas para conhecer os bastidores do torneio e acompanhar as competições, em uma oportunidade de ver de perto alguns de seus ídolos.
 

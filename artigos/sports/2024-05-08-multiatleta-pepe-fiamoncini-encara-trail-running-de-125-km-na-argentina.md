@@ -1,12 +1,11 @@
 ---
-title: Multiatleta Pepe Fiamoncini encara trail running de 125 km na Argentina
+title: "Multiatleta Pepe Fiamoncini encara trail running de 125 km na Argentina"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Brasileiro chega ao Valholl Argentina by UTMB embalado após correr 70km para comemorar os 70 anos do Parque do Ibirapuera e pedalar 63km no Giro d’Itália Ride Like a Pro, em Campos do Jordão.
 

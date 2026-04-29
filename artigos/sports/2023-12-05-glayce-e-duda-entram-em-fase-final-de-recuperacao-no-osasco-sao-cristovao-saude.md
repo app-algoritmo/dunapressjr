@@ -1,13 +1,12 @@
 ---
-title: Glayce e Duda entram em fase final de recuperação no Osasco São Cristóvão Saúde
+title: "Glayce e Duda entram em fase final de recuperação no Osasco São Cristóvão Saúde"
 date: 2023-12-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Após cirurgias no joelho, dupla de ponteiras já iniciou trabalho de readaptação às quadras, mantendo os protocolos de reabilitação até receberem 100% deliberação do departamento médico e fisioterapia.
 

@@ -1,13 +1,11 @@
 ---
-title: Corrida de Rua no Parque da Independência é destaque do Corporate Games, em
-  São Paulo (SP)
+title: "Corrida de Rua no Parque da Independência é destaque do Corporate Games, em São Paulo (SP)"
 date: 2023-09-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Entre as diferentes atrações do evento estão as provas de 5 km e 10 km e caminhada de 3 km, marcadas para o local onde fica o Museu do Ipiranga, na maior olimpíada corporativa do mundo, que será realizada em novembro.
 

@@ -1,14 +1,12 @@
 ---
-title: Parceria IEE e SESC capacita 750 educadores do litoral sul paulista para atender
-  crianças neuroatípicas
+title: "Parceria IEE e SESC capacita 750 educadores do litoral sul paulista para atender crianças neuroatípicas"
 date: 2024-05-08
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Com conceitos do Sistema S.I.M, a formação do Instituto Esporte e Educação reunirá esta semana professores e educadores de Santos, São Vicente, Cubatão, Guarujá, Praia Grande, Itanhaém, Mongaguá e Peruíbe.
 

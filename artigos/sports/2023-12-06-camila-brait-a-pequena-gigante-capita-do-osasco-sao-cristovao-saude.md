@@ -1,13 +1,12 @@
 ---
-title: 'Camila Brait: a pequena gigante capitã do Osasco São Cristóvão Saúde'
+title: "Camila Brait: a pequena gigante capitã do Osasco São Cristóvão Saúde"
 date: 2023-12-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Com 1,70m de altura, a líbero está entre as menores em estatura da Superliga. Porém, cresce dentro e fora de quadra, liderando seu time e as estatísticas da competição.
 

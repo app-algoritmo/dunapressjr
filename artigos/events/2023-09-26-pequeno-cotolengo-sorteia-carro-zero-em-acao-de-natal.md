@@ -1,13 +1,12 @@
 ---
-title: Pequeno Cotolengo sorteia carro zero em ação de Natal
+title: "Pequeno Cotolengo sorteia carro zero em ação de Natal"
 date: 2023-09-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Health
+  - Events
+  - Health
 ---
-
 
 ## Neste final de ano, o Complexo de Saúde Pequeno Cotolengo realiza a Ação entre Amigos especial de Natal. O sorteio acontece no dia 23 de dezembro pela Loteria Federal.
 

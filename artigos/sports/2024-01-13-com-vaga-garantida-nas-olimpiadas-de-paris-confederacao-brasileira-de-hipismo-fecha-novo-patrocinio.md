@@ -1,13 +1,11 @@
 ---
-title: Com vaga garantida nas Olimpíadas de Paris, Confederação Brasileira de Hipismo
-  fecha novo patrocínio
+title: "Com vaga garantida nas Olimpíadas de Paris, Confederação Brasileira de Hipismo fecha novo patrocínio"
 date: 2024-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Neodent firma nova parceria com intenção de fortalecer, cada vez mais, diversas modalidades esportivas no país.
 

@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani atinge a semifinal no WTA 500 de Estrasburgo, na França
+title: "Luisa Stefani atinge a semifinal no WTA 500 de Estrasburgo, na França"
 date: 2024-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Número 10 do mundo busca vaga na final nesta sexta-feira (24). Torneio é o último preparatório para Roland Garros, que começa na semana que vem.
 

@@ -1,13 +1,11 @@
 ---
-title: 'Inclusão em hospitais: enfermeira aprende Libras para se comunicar com familiar
-  de paciente e farmacêutico adapta campainha com efeitos visuais'
+title: "Inclusão em hospitais: enfermeira aprende Libras para se comunicar com familiar de paciente e farmacêutico adapta campainha com efeitos visuais"
 date: 2023-12-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Profissionais da saúde tornam-se agentes de acolhimento de pessoas com deficiência e abraçam diferenças entre colegas de trabalho, pacientes e familiares.
 

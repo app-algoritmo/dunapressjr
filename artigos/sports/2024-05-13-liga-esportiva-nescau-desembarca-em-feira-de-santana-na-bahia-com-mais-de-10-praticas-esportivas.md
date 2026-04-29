@@ -1,13 +1,11 @@
 ---
-title: Liga Esportiva NESCAU® desembarca em Feira de Santana, na Bahia, com mais de
-  10 práticas esportivas
+title: "Liga Esportiva NESCAU® desembarca em Feira de Santana, na Bahia, com mais de 10 práticas esportivas"
 date: 2024-05-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento será no dia 25 de maio no SESI Feira de Santana e contará com presença do atleta Daniel Dias.
 

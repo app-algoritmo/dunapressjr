@@ -1,12 +1,11 @@
 ---
-title: Loja Colaborativa reúne mães empreendedoras no Bangu Shopping
+title: "Loja Colaborativa reúne mães empreendedoras no Bangu Shopping"
 date: 2023-05-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Entrepreneurship
+  - Entrepreneurship
 ---
-
 
 ## O Bangu Shopping recebe, até o dia 14 de maio, uma loja colaborativa especial com produtos exclusivamente de mães empreendedoras. 
 

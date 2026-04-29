@@ -1,14 +1,12 @@
 ---
-title: Alinhado com práticas ESG, Instituto Esporte e Educação busca parceiros para
-  transformar vidas
+title: "Alinhado com práticas ESG, Instituto Esporte e Educação busca parceiros para transformar vidas"
 date: 2023-11-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## O IEE, com seus diversos projetos, está fazendo um chamado a empresas e investidores que têm compromisso com práticas ESG (Ambiental, Social e Governança) e desejam fazer a diferença nas comunidades em que atuam, impactando positivamente a sociedade.
 

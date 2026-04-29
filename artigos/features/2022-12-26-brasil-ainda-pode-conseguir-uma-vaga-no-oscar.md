@@ -1,13 +1,12 @@
 ---
-title: Brasil ainda pode conseguir uma vaga no Oscar
+title: "Brasil ainda pode conseguir uma vaga no Oscar"
 date: 2022-12-26
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## "O Território" e "Sideral" têm chances de indicação nas categorias Melhor Documentário e Melhor Curta-Metragem, respectivamente.
 

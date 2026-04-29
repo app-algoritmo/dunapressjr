@@ -1,13 +1,11 @@
 ---
-title: 48% dos municípios paranaenses aumentaram o percentual de execução do Orçamento
-  Criança e Adolescente em 2022
+title: "48% dos municípios paranaenses aumentaram o percentual de execução do Orçamento Criança e Adolescente em 2022"
 date: 2023-12-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## 191 cidades tiveram desempenho superior a 2021 na execução do que se planejava em ações e programas voltados para este público.
 

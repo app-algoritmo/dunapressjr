@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani estreia na tarde desta quarta-feira (9) no WTA 1000 de Montreal,
-  no Canadá
+title: "Luisa Stefani estreia na tarde desta quarta-feira (9) no WTA 1000 de Montreal, no Canadá"
 date: 2023-08-09
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Campeã do torneio em 2021, a paulistana atua com a número 1 do mundo, a tcheca Katerina Siniakova e joga por volta das 16h30 (horário de Brasília), no dia do seu aniversário.
 

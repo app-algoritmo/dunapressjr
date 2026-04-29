@@ -1,13 +1,12 @@
 ---
-title: Universidade Positivo recebe festa de abertura do Festival de Curitiba
+title: "Universidade Positivo recebe festa de abertura do Festival de Curitiba"
 date: 2024-02-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Events
+  - Education
+  - Events
 ---
-
 
 ## Programação do maior evento de teatro, música e arte da América Latina tem início no dia 25 de março.
 

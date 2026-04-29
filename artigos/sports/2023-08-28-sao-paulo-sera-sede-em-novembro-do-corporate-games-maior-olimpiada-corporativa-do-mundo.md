@@ -1,13 +1,11 @@
 ---
-title: São Paulo será sede, em novembro, do Corporate Games, maior olimpíada corporativa
-  do mundo
+title: "São Paulo será sede, em novembro, do Corporate Games, maior olimpíada corporativa do mundo"
 date: 2023-08-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## CEOs, líderes e colaboradores se unem para competir em um evento global que já conquistou todos os continentes, mais de 51 mil empresas, 38 países e um milhão de participantes, realizado pela primeira vez em São Francisco (EUA), em 1988. Inscrições estão abertas.
 

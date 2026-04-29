@@ -1,12 +1,11 @@
 ---
-title: Campanha do Agasalho no Caxias Shopping prorroga prazo para arrecadação
+title: "Campanha do Agasalho no Caxias Shopping prorroga prazo para arrecadação"
 date: 2023-07-05
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## A ação se estende até o dia 09 de julho
 

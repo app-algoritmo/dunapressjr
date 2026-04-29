@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde conquista terceira vitória consecutiva no Paulista
-  2023
+title: "Osasco São Cristóvão Saúde conquista terceira vitória consecutiva no Paulista 2023"
 date: 2023-09-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe osasquense bateu o Pinheiros por 3 sets a 1 na primeira partida fora de casa no estadual e no retorno de Luizomar, após o título africano com a seleção do Quênia.
 

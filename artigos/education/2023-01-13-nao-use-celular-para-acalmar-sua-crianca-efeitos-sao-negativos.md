@@ -1,13 +1,12 @@
 ---
-title: 'Não use celular para acalmar sua criança: efeitos são negativos'
+title: "Não use celular para acalmar sua criança: efeitos são negativos"
 date: 2023-01-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- News
+  - Education
+  - News
 ---
-
 
 ## Estudo apontou que mecanismo pode ter desvantagens, como a reatividade emocional.
 

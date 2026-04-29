@@ -1,12 +1,11 @@
 ---
-title: Nicolas Cage é revelado como personagem de Dead by Daylight
+title: "Nicolas Cage é revelado como personagem de Dead by Daylight"
 date: 2023-05-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Um projeto surpresa de Nicolas Cage acaba de ser revelado com um teaser trailer para o papel no videogame de terror intitulado Dead By Daylight.
 

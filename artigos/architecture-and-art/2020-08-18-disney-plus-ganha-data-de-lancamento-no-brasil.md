@@ -1,12 +1,11 @@
 ---
-title: Disney Plus ganha data de lançamento no Brasil!
+title: "Disney Plus ganha data de lançamento no Brasil!"
 date: 2020-08-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Architecture and Art
+  - Architecture and Art
 ---
-
 
 A **Disney** anunciou hoje, 18 de agosto a data de lançamento da sua plataforma de *Streaming*, **Disney Plus, **que será dia **17 de novembro.** Já podemos comemorar.
 

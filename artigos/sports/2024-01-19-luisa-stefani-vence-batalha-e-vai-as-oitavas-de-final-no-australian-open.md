@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani vence batalha e vai às oitavas de final no Australian Open
+title: "Luisa Stefani vence batalha e vai às oitavas de final no Australian Open"
 date: 2024-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana venceu em parceria com a holandesa Demi Schuurs e, depois, foi superada na estreia de dupla mista, ao lado de Rafael Matos.
 

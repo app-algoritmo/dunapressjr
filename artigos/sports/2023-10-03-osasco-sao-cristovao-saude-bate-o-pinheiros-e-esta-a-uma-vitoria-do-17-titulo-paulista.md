@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde bate o Pinheiros e está a uma vitória do 17° título
-  Paulista
+title: "Osasco São Cristóvão Saúde bate o Pinheiros e está a uma vitória do 17° título Paulista"
 date: 2023-10-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Após derrotar o adversário por 3 sets a 0 fora de casa, equipe comandada pelo técnico Luizomar joga na próxima quinta-feira (5), no José Liberatti, com vantagem para ser campeão diante de sua torcida.
 

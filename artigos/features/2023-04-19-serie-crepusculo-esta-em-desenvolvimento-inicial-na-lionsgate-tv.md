@@ -1,13 +1,12 @@
 ---
-title: Série 'Crepúsculo' está em desenvolvimento inicial na Lionsgate TV
+title: "Série 'Crepúsculo' está em desenvolvimento inicial na Lionsgate TV"
 date: 2023-04-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Crepúsculo, saga de muito sucesso entre jovens vai se tornar série em serviço de streaming.
 

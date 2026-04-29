@@ -1,14 +1,12 @@
 ---
-title: Pequeno Cotolengo promove Bazar com celulares, eletrônicos, perfumes importados
-  e diversos outros produtos apreendidos pela Receita Federal
+title: "Pequeno Cotolengo promove Bazar com celulares, eletrônicos, perfumes importados e diversos outros produtos apreendidos pela Receita Federal"
 date: 2023-10-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Health
+  - Events
+  - Health
 ---
-
 
 ## O Bazar acontece nos dias 06 e 07 de outubro, das 09h às 17h. São milhares de itens com preços baixos. A entrada custa R$5 em dinheiro ou PIX.
 

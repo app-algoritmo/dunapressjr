@@ -1,14 +1,13 @@
 ---
-title: Os 10 filmes mais assistidos da semana
+title: "Os 10 filmes mais assistidos da semana"
 date: 2022-12-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
-- Video library
+  - Features
+  - News
+  - Video library
 ---
-
 
 ## A lista de filmes mais assistidos da semana sempre reserva algumas surpresas para quem está buscando um bom filme para ver. 
 

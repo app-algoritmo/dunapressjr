@@ -1,13 +1,12 @@
 ---
-title: Filme Código do Armagedom é lançado no streaming
+title: "Filme Código do Armagedom é lançado no streaming"
 date: 2022-12-31
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## Longa tem Marine Friesen, Bruna Karla e Felipe Folgosi.
 

@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear 2024 chega a São Paulo em julho, no Parque Villa-Lobos
+title: "Festival Vamos Passear 2024 chega a São Paulo em julho, no Parque Villa-Lobos"
 date: 2024-05-13
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O evento apresentado pela Brasilprev será no dia 7 e contará com Passeio de Bike, Caminhada e Corrida Kids, além de diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

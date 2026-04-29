@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping participa da Hora do Planeta 2023
+title: "Caxias Shopping participa da Hora do Planeta 2023"
 date: 2023-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- News
+  - News
 ---
-
 
 **Em respeito ao meio ambiente, as luzes da fachada do shopping ficarão apagadas por uma hora**
 

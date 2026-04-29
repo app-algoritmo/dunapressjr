@@ -1,12 +1,11 @@
 ---
-title: 10 Motivos para fazer amor regularmente
+title: "10 Motivos para fazer amor regularmente"
 date: 2020-06-19
 status: publish
-author: Alessandro Loiola
+author: alessandroloiola
 categories:
-- Health
+  - Health
 ---
-
 
 Os desentendimentos em relação à atividade sexual estão entre as causas mais comuns de brigas em um relacionamento. Preferências por certas preliminares, posições, intensidade e frequência podem gerar atritos bobos que crescem até dimensões intoleráveis, gerando desconforto, insatisfação, afastamento, infidelidade e términos precoces.
 

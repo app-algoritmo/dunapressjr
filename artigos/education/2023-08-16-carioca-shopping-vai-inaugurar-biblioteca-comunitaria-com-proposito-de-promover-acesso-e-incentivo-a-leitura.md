@@ -1,13 +1,11 @@
 ---
-title: CARIOCA SHOPPING VAI INAUGURAR BIBLIOTECA COMUNITÁRIA COM PROPÓSITO DE PROMOVER
-  ACESSO E INCENTIVO À LEITURA
+title: "CARIOCA SHOPPING VAI INAUGURAR BIBLIOTECA COMUNITÁRIA COM PROPÓSITO DE PROMOVER ACESSO E INCENTIVO À LEITURA"
 date: 2023-08-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Espaço irá receber doação de exemplares e promover troca entre livros.
 

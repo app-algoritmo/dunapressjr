@@ -1,13 +1,11 @@
 ---
-title: 'Cardápio premiado: saiba como adicionar queijos finos reconhecidos internacionalmente
-  em jantar especial'
+title: "Cardápio premiado: saiba como adicionar queijos finos reconhecidos internacionalmente em jantar especial"
 date: 2024-06-12
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Tourism and Gastronomy
+  - Tourism and Gastronomy
 ---
-
 
 ## Da entrada à sobremesa, produtos premiados no terceiro Mundial do Queijo do Brasil podem ser destaque das receitas.
 

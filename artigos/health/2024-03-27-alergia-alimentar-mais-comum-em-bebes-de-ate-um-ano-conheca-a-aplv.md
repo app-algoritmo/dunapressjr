@@ -1,12 +1,11 @@
 ---
-title: 'Alergia alimentar mais comum em bebês de até um ano: conheça a APLV'
+title: "Alergia alimentar mais comum em bebês de até um ano: conheça a APLV"
 date: 2024-03-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## De acordo com protocolo do Ministério da Saúde, diagnóstico é multifatorial e precisa ser feito com cuidado.
 

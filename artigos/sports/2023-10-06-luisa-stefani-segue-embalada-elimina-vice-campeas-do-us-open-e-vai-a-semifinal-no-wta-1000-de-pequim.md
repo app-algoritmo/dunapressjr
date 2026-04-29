@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani segue embalada, elimina vice-campeãs do US Open e vai à semifinal
-  no WTA 1000 de Pequim
+title: "Luisa Stefani segue embalada, elimina vice-campeãs do US Open e vai à semifinal no WTA 1000 de Pequim"
 date: 2023-10-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Ao lado de carioca Ingrid Martins, dupla brasileira passou pelas cabeças de chave 8, Vera Zvonareva e Laura Siegemund, nesta sexta-feira (6), na China.
 

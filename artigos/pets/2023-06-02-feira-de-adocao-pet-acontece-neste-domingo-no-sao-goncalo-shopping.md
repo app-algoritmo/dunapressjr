@@ -1,12 +1,11 @@
 ---
-title: Feira de Adoção PET acontece neste domingo no São Gonçalo Shopping
+title: "Feira de Adoção PET acontece neste domingo no São Gonçalo Shopping"
 date: 2023-06-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pets
+  - Pets
 ---
-
 
 ## Ação acontece em parceria com a ONG ''Leve um Anjo para Casa''.
 

@@ -1,12 +1,11 @@
 ---
-title: 'Gestação Segura: projeto leva conhecimento para empoderar mulheres'
+title: "Gestação Segura: projeto leva conhecimento para empoderar mulheres"
 date: 2023-10-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Mais de três mil famílias já foram impactadas pelo programa que trata de diferentes temas, desde troca de fraldas a primeiros socorros.
 

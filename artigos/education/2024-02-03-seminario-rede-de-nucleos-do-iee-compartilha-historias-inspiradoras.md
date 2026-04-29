@@ -1,13 +1,12 @@
 ---
-title: Seminário Rede de Núcleos, do IEE, compartilha histórias inspiradoras
+title: "Seminário Rede de Núcleos, do IEE, compartilha histórias inspiradoras"
 date: 2024-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Evento, on-line, encerrou as atividades de 2023 reunindo 60 professores e estagiários do Projeto Rede de Núcleos, do Instituto Esporte e Educação. Um encontro aprovado por todos que participaram.
 

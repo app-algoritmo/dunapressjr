@@ -1,12 +1,11 @@
 ---
-title: 'Minuto a minuto: entenda como bebidas energéticas agem no organismo'
+title: "Minuto a minuto: entenda como bebidas energéticas agem no organismo"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Energéticos afetam várias áreas do organismo; pesquisas indicam possíveis efeitos, incluindo pensamentos suicidas.
 

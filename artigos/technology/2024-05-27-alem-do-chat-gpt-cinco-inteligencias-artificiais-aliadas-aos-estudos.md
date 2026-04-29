@@ -1,12 +1,11 @@
 ---
-title: 'Além do Chat GPT: cinco inteligências artificiais aliadas aos estudos'
+title: "Além do Chat GPT: cinco inteligências artificiais aliadas aos estudos"
 date: 2024-05-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Technology
+  - Technology
 ---
-
 
 ## Quando utilizadas corretamente, essas ferramentas podem otimizar tempo e facilitar busca por aprofundamento em conteúdos de projetos escolares.
 

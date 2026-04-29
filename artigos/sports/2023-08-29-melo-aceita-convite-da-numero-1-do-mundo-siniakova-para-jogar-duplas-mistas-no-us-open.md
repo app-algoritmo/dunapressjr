@@ -1,14 +1,12 @@
 ---
-title: Melo aceita convite da número 1 do mundo Siniakova para jogar duplas mistas
-  no US Open
+title: "Melo aceita convite da número 1 do mundo Siniakova para jogar duplas mistas no US Open"
 date: 2023-08-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## O mineiro estará ao lado da tcheca que ocupa a liderança do ranking da WTA e nas duplas masculinas terá como parceiro o australiano John Peers, em sua 17ª participação seguida no Grand Slam, em Nova York.
 

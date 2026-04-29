@@ -1,13 +1,11 @@
 ---
-title: Instituto Etiene Medeiros inicia 2024 com abertura de inscrições para novos
-  alunos
+title: "Instituto Etiene Medeiros inicia 2024 com abertura de inscrições para novos alunos"
 date: 2024-01-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Projeto do IEM, com sede no Recife (PE), recebe crianças e jovens entre 7 e 17 anos, com a missão de ampliar o acesso ao esporte, à educação e à cultura na infância e na adolescência.
 

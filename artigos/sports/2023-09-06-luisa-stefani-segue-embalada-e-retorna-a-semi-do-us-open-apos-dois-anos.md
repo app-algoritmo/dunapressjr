@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue embalada e retorna à semi do US Open após dois anos
+title: "Luisa Stefani segue embalada e retorna à semi do US Open após dois anos"
 date: 2023-09-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana voltou a jogar na quadra Louis Armstrong, de onde saiu de cadeira de rodas na semifinal em 2021 após a lesão no joelho. Ela e a norte-americana Jenifer Brady vão buscar vaga na decisão na próxima sexta-feira (8).
 

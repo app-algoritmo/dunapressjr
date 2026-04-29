@@ -1,13 +1,11 @@
 ---
-title: Exposição gratuita apresenta iniciativa social Obra&amp;Arte com mentoria do
-  premiado arquiteto Fabrício Roncca
+title: "Exposição gratuita apresenta iniciativa social Obra&amp;Arte com mentoria do premiado arquiteto Fabrício Roncca"
 date: 2023-11-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Mostra reúne 33 peças de design sustentável criadas por profissionais da construção civil e produzidas com resíduos das obras.
 

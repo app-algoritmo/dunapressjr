@@ -1,12 +1,11 @@
 ---
-title: 'Dia Nacional da Saúde: 46% dos gastos com saúde são para compra de medicamentos'
+title: "Dia Nacional da Saúde: 46% dos gastos com saúde são para compra de medicamentos"
 date: 2023-08-02
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Especialistas alertam sobre os riscos de interromper tratamentos, principalmente para doentes crônicos; medicamentos genéricos podem garantir acesso para aqueles que mais precisam.
 

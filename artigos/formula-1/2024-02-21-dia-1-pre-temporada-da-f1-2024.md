@@ -1,13 +1,12 @@
 ---
-title: Dia 1 | Pré-temporada da F1 2024
+title: "Dia 1 | Pré-temporada da F1 2024"
 date: 2024-02-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Formula 1
-- Sports
+  - Formula 1
+  - Sports
 ---
-
 
 ## RBR lidera o primeiro dia da pré-temporada F1 2024, Mercedes tenta ser discreta e Sauber surpreende no pelotão intermediário.
 

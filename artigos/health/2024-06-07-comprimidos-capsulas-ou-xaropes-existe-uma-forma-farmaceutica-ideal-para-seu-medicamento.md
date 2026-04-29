@@ -1,13 +1,11 @@
 ---
-title: 'Comprimidos, cápsulas ou xaropes: existe uma forma farmacêutica ideal para
-  seu medicamento?'
+title: "Comprimidos, cápsulas ou xaropes: existe uma forma farmacêutica ideal para seu medicamento?"
 date: 2024-06-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Ainda que com a mesma finalidade, medicamentos podem ser comercializados de diversas formas; entenda as diferenças entre elas.
 

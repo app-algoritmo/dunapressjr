@@ -1,13 +1,11 @@
 ---
-title: André Baran, número 1 do Brasil no Beach Tennis, é campeão em Garopaba (SC),
-  27º título da carreira
+title: "André Baran, número 1 do Brasil no Beach Tennis, é campeão em Garopaba (SC), 27º título da carreira"
 date: 2023-12-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Catarinense jogou ao lado do paulista Hugo Russo, como cabecas de chave 1, no último BT 200 da temporada. Final foi disputada na tarde deste domingo (17), na Praia da Ferrugem.
 

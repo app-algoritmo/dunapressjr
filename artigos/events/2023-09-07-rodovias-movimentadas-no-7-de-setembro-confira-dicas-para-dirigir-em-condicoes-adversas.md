@@ -1,13 +1,11 @@
 ---
-title: 'Rodovias movimentadas no 7 de setembro: confira dicas para dirigir em condições
-  adversas'
+title: "Rodovias movimentadas no 7 de setembro: confira dicas para dirigir em condições adversas"
 date: 2023-09-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Especialista da plataforma de mobilidade urbana V1 lista cuidados com o veículo e recomendações de direção defensiva.
 

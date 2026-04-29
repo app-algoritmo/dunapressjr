@@ -1,14 +1,12 @@
 ---
-title: 'Caos e gritaria: fãs de RBD brigam por lugar na fila para comprar ingressos
-  de show no Rio, VEJA VÍDEOS'
+title: "Caos e gritaria: fãs de RBD brigam por lugar na fila para comprar ingressos de show no Rio, VEJA VÍDEOS"
 date: 2023-01-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
-- News
+  - Features
+  - News
 ---
-
 
 ## A venda de ingressos para a turnê da banda mexicana teve início nesta sexta-feira (27) e encerrou em poucos minutos.
 

@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde recebe Gerdau Minas no primeiro jogo de 2024
+title: "Osasco São Cristóvão Saúde recebe Gerdau Minas no primeiro jogo de 2024"
 date: 2024-01-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe comandada pelo técnico Luizomar vai contar com apoio da torcida que promete lotar o ginásio José Liberatti para derrubar o primeiro colocado da Superliga.
 

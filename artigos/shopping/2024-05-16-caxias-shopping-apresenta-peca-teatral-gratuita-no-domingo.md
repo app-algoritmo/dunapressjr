@@ -1,12 +1,11 @@
 ---
-title: Caxias Shopping apresenta peça teatral gratuita no domingo
+title: "Caxias Shopping apresenta peça teatral gratuita no domingo"
 date: 2024-05-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Espetáculo "Moana uma Aventura no Mar" está na programação do dia 19.
 

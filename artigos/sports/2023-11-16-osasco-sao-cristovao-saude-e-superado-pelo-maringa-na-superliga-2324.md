@@ -1,13 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde é superado pelo Maringá na Superliga 23/24
+title: "Osasco São Cristóvão Saúde é superado pelo Maringá na Superliga 23/24"
 date: 2023-11-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe de Camila Brait, Tifanny, Fabiana e cia. enfrentou dificuldades desde o início da partida. Agora vai em busca da reabilitação contra o Barueri, na próxima quarta-feira (22), fora de casa.
 

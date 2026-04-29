@@ -1,13 +1,12 @@
 ---
-title: Assistidos do Pequeno Cotolengo produzem Cartões de Natal; saiba como adquirir
+title: "Assistidos do Pequeno Cotolengo produzem Cartões de Natal; saiba como adquirir"
 date: 2023-11-10
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
-- Health
+  - Events
+  - Health
 ---
-
 
 ## Os Cartões são produzidos pelos Assistidos e custam R$3 a unidade. Os valores são revertidos para manter o atendimento do Complexo de Saúde Pequeno Cotolengo. 
 

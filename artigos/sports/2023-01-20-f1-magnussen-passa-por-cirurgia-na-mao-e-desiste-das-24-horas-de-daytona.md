@@ -1,12 +1,11 @@
 ---
-title: 'F1: Magnussen passa por cirurgia na mão e desiste das 24 Horas de Daytona'
+title: "F1: Magnussen passa por cirurgia na mão e desiste das 24 Horas de Daytona"
 date: 2023-01-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Kevin Magnussen anunciou que não participará das 24 Horas de Daytona depois de passar por uma cirurgia para remover um cisto na mão esta semana.
 

@@ -1,14 +1,12 @@
 ---
-title: 'Beach Tennis: André Baran inicia parceria com italiano Michele Cappelletti
-  na Alemanha, neste mês de agosto'
+title: "Beach Tennis: André Baran inicia parceria com italiano Michele Cappelletti na Alemanha, neste mês de agosto"
 date: 2023-08-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Catarinense retorna à Europa para o Sand Series Saarlouis Classic. No mês de julho, jogou na Estônia e na França, com o russo Nikita Burmakin, além de representar o Brasil nos Jogos Sul-Americanos de Praia, na Colômbia, com dois ouros.
 

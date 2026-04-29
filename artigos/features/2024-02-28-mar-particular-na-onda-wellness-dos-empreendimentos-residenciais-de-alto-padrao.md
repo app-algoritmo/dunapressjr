@@ -1,13 +1,11 @@
 ---
-title: Mar particular na 'onda wellness' dos empreendimentos residenciais de alto
-  padrão
+title: "Mar particular na 'onda wellness' dos empreendimentos residenciais de alto padrão"
 date: 2024-02-28
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## Borda infinita, olímpica, aquecida, infantis, variados níveis e formatos orgânicos, brinquedos aquáticos: conheça os projetos da A.Yoshii que transformam a área externa em um oásis.
 

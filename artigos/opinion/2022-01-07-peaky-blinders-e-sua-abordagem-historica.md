@@ -1,12 +1,11 @@
 ---
-title: Peaky Blinders e sua abordagem histórica
+title: "Peaky Blinders e sua abordagem histórica"
 date: 2022-01-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Opinion
+  - Opinion
 ---
-
 
 **Uma reflexão sobre o porquê da história de Tommy Shelby e de sua criminosa família agradar tanto ao público.**
 

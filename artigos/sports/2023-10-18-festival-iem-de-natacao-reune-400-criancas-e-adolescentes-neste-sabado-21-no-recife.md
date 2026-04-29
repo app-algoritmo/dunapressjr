@@ -1,14 +1,12 @@
 ---
-title: Festival IEM de Natação reúne 400 crianças e adolescentes neste sábado (21),
-  no Recife
+title: "Festival IEM de Natação reúne 400 crianças e adolescentes neste sábado (21), no Recife"
 date: 2023-10-18
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Swimming
+  - Sports
+  - Swimming
 ---
-
 
 ## É a segunda edição do evento organizado pelo Instituto Etiene Medeiros, que movimentará o Centro Esportivo Santos Dumont, no bairro de Boa Viagem, na capital pernambucana, com participantes entre 7 e 17 anos e atividades a partir das 8h.
 

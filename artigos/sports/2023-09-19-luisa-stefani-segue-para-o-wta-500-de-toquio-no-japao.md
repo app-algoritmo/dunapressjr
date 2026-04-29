@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani segue para o WTA 500 de Tóquio, no Japão
+title: "Luisa Stefani segue para o WTA 500 de Tóquio, no Japão"
 date: 2023-09-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e mexicana Giulia Olmos caíram na estreia no WTA 1000 de Guadalajara, no México.
 

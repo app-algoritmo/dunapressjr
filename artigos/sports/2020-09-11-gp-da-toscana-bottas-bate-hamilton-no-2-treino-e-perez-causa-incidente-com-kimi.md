@@ -1,13 +1,11 @@
 ---
-title: 'GP da Toscana: Bottas bate Hamilton no 2º treino, e Pérez causa incidente
-  com Kimi'
+title: "GP da Toscana: Bottas bate Hamilton no 2º treino, e Pérez causa incidente com Kimi"
 date: 2020-09-11
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 **Em treino dominado pela Mercedes, mexicano saiu dos boxes e tocou no finlandês, que estava em volta cronometrada; a sessão também teve batida de Norris e duas bandeiras vermelhas.**
 

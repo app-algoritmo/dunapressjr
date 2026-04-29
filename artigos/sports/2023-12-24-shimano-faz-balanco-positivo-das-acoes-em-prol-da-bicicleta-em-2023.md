@@ -1,12 +1,11 @@
 ---
-title: Shimano faz balanço positivo das ações em prol da bicicleta em 2023
+title: "Shimano faz balanço positivo das ações em prol da bicicleta em 2023"
 date: 2023-12-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Marca líder mundial em componentes para bike promoveu ações e eventos que impactaram tanto o mercado como o público e planeja fazer mais em 2024.
 

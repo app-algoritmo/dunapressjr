@@ -1,13 +1,12 @@
 ---
-title: 21ª edição da Volta Ciclística de Goiás está confirmada para março
+title: "21ª edição da Volta Ciclística de Goiás está confirmada para março"
 date: 2024-01-19
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## Principal competição de estrada do calendário nacional será disputada entre os dias 13 e 17, em Caldas Novas. Inscrições já estão abertas.
 

@@ -1,14 +1,12 @@
 ---
-title: Luisa Stefani e Pavlyuchenkova derrubam dupla favorita e alcançam as quartas
-  de final em Cincinnati
+title: "Luisa Stefani e Pavlyuchenkova derrubam dupla favorita e alcançam as quartas de final em Cincinnati"
 date: 2023-08-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Nesta sexta-feira (18), a paulistana e a russa buscarão vaga na semifinal do WTA 1000, nos Estados Unidos.
 

@@ -1,13 +1,11 @@
 ---
-title: 'Beach Tennis: André Baran joga em Garopaba, Santa Catarina, a partir desta
-  sexta-feira (15)'
+title: "Beach Tennis: André Baran joga em Garopaba, Santa Catarina, a partir desta sexta-feira (15)"
 date: 2023-12-14
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Número 1 do Brasil, catarinense estará ao lado do paulista Hugo Russo, no BT 200 que será realizado até domingo (17), na Praia da Ferrugem, válido pelo calendário da ITF.
 

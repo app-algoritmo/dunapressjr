@@ -1,12 +1,11 @@
 ---
-title: 'Vacinação contra dengue: esclareça suas dúvidas e saiba mais sobre imunização'
+title: "Vacinação contra dengue: esclareça suas dúvidas e saiba mais sobre imunização"
 date: 2024-02-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Governo Federal vai distribuir doses para 16 estados brasileiros, priorizando cidades com alta transmissão da doença.
 

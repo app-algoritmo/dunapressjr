@@ -1,12 +1,11 @@
 ---
-title: 'Dengue: quando tomar medicamento pode significar um risco?'
+title: "Dengue: quando tomar medicamento pode significar um risco?"
 date: 2024-03-24
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Uso de anti-inflamatórios e aspirinas sem orientação pode levar a complicações e até à dengue hemorrágica. Entenda por que manter a hidratação é crucial para tratar a doença.
 

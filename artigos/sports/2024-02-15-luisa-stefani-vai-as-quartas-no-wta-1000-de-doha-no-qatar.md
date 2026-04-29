@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani vai às quartas no WTA 1000 de Doha, no Qatar
+title: "Luisa Stefani vai às quartas no WTA 1000 de Doha, no Qatar"
 date: 2024-02-15
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana e holandesa Demi Schuurs derrotaram russas e encaram dupla campeã do Australian Open nesta quinta-feira (15) em torno das 11h de Brasília.
 

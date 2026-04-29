@@ -1,13 +1,12 @@
 ---
-title: Em Londres, Ribeiro, Braga e Temer falam sobre as reformas no Brasil
+title: "Em Londres, Ribeiro, Braga e Temer falam sobre as reformas no Brasil"
 date: 2023-09-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Business and Economy
-- Policy
+  - Business and Economy
+  - Policy
 ---
-
 
 ## Reforma tributária e outras medidas econômicas serão debatidas em evento realizado em outubro, em Londres.
 

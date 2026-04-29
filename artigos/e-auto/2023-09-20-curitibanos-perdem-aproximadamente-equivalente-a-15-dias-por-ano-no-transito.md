@@ -1,13 +1,12 @@
 ---
-title: Curitibanos perdem aproximadamente equivalente a 15 dias por ano no trânsito
+title: "Curitibanos perdem aproximadamente equivalente a 15 dias por ano no trânsito"
 date: 2023-09-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- E-auto
-- Features
+  - E-auto
+  - Features
 ---
-
 
 ## Levantamento do Instituto de Pesquisa e Planejamento Urbano de Curitiba (Ippuc) revela que moradores de Curitiba e RMC passam, em média, de 27 a 73 minutos dentro do carro. Locação de automóveis é alternativa para aliviar o congestionamento nos grandes centros urbanos.
 

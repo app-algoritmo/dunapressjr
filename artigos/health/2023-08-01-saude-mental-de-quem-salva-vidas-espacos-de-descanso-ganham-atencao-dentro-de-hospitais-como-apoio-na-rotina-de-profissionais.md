@@ -1,13 +1,11 @@
 ---
-title: 'Saúde mental de quem salva vidas: espaços de descanso ganham atenção dentro
-  de hospitais como apoio na rotina de profissionais'
+title: "Saúde mental de quem salva vidas: espaços de descanso ganham atenção dentro de hospitais como apoio na rotina de profissionais"
 date: 2023-08-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 ## Sala de descompressão é pensada para que médicos, enfermeiros e equipes de assistência tenham ponto de escape durante plantões e estejam bem para cuidar de pacientes.
 

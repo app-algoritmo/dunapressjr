@@ -1,12 +1,11 @@
 ---
-title: E se mudanças climáticas realmente se confirmarem?
+title: "E se mudanças climáticas realmente se confirmarem?"
 date: 2024-04-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Environment
+  - Environment
 ---
-
 
 ## Avaliar riscos deveria fazer parte de planejamento estratégico de empresas e governos, diz especialista.
 

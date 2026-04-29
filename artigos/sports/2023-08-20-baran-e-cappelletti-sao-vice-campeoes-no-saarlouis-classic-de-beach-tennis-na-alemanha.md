@@ -1,13 +1,11 @@
 ---
-title: Baran e Cappelletti são vice-campeões no Saarlouis Classic de Beach Tennis,
-  na Alemanha
+title: "Baran e Cappelletti são vice-campeões no Saarlouis Classic de Beach Tennis, na Alemanha"
 date: 2023-08-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## A final foi disputada neste domingo (20) diante de Gianotti e Spoto. O próximo torneio do catarinense e do italiano, que estrearam parceria no Sand Series, será no Brasil, o River Open Petrolina.
 

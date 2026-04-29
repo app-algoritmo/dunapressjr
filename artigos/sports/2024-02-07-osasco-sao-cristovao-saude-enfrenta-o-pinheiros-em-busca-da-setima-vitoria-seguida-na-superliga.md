@@ -1,14 +1,12 @@
 ---
-title: Osasco São Cristóvão Saúde enfrenta o Pinheiros em busca da sétima vitória
-  seguida na Superliga
+title: "Osasco São Cristóvão Saúde enfrenta o Pinheiros em busca da sétima vitória seguida na Superliga"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Volleyball
+  - Sports
+  - Volleyball
 ---
-
 
 ## Equipe do técnico Luizomar está invicta na competição nacional em 2024 e defender a vice-liderança fora de casa nesta terça-feira (6).
 

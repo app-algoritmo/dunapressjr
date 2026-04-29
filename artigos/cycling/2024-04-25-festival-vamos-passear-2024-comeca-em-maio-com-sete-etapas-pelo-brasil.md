@@ -1,13 +1,12 @@
 ---
-title: Festival Vamos Passear 2024 começa em maio com sete etapas pelo Brasil
+title: "Festival Vamos Passear 2024 começa em maio com sete etapas pelo Brasil"
 date: 2024-04-25
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Cycling
-- Sports
+  - Cycling
+  - Sports
 ---
-
 
 ## O evento apresentado pela Brasilprev contará com Passeio de Bike, Caminhada e Corrida Kids, além de diferentes atividades para o público em geral. Inscrições já estão abertas e custam R$ 20,00.
 

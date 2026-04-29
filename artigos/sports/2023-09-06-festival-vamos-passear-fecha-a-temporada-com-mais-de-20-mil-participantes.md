@@ -1,12 +1,11 @@
 ---
-title: Festival Vamos Passear fecha a temporada com mais de 20 mil participantes
+title: "Festival Vamos Passear fecha a temporada com mais de 20 mil participantes"
 date: 2023-09-06
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## Evento, em sua quarta edição, passou por Brasília (DF), São Paulo (SP), Porto Alegre (RS), Recife (PE), Belém (PA), Salvador (BA) e Rio de Janeiro (RJ), proporcionando momentos de diversão e qualidade de vida para todas as idades.
 

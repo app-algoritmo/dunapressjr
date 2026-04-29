@@ -1,12 +1,11 @@
 ---
-title: 'Stand-up Comedy: Clube dos Canalhas se apresenta no Hard Rock Cafe Curitiba'
+title: "Stand-up Comedy: Clube dos Canalhas se apresenta no Hard Rock Cafe Curitiba"
 date: 2024-05-17
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Events
+  - Events
 ---
-
 
 ## Rafael Aragão, Serginho Lacerda e Alorino Junior são as atrações desta segunda-feira.
 

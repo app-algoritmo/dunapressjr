@@ -1,12 +1,11 @@
 ---
-title: Lições do passado para o ensaio da escola de samba 'Primavera Árabe Tupiniquim'
+title: "Lições do passado para o ensaio da escola de samba 'Primavera Árabe Tupiniquim'"
 date: 2022-11-03
 status: publish
-author: Alessandro Loiola
+author: alessandroloiola
 categories:
-- Chronicle
+  - Chronicle
 ---
-
 
 ## A Primavera Árabe consistiu de movimentos contra a opressão e em busca de democracia que irromperam em alguns países do Oriente Médio e do Norte da África entre 2010 e 2011. Bahrein, Egito, Líbia, Síria, Tunísia e Iêmen foram os “pontos mais quentes”. 
 

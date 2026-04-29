@@ -1,14 +1,12 @@
 ---
-title: Em cinco meses, Projeto Escola do IEE capacita 239 profissionais de educação
-  e saúde
+title: "Em cinco meses, Projeto Escola do IEE capacita 239 profissionais de educação e saúde"
 date: 2023-11-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Criado pelo Instituto Esporte e Educação, teve os cursos iniciados em julho, atendendo a um público bem diversificado, com temas envolvendo a metodologia do esporte educacional do IEE.
 

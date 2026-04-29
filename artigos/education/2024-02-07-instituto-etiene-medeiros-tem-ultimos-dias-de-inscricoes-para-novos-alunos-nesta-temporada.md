@@ -1,14 +1,12 @@
 ---
-title: Instituto Etiene Medeiros tem últimos dias de inscrições para novos alunos
-  nesta temporada
+title: "Instituto Etiene Medeiros tem últimos dias de inscrições para novos alunos nesta temporada"
 date: 2024-02-07
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
-- Sports
+  - Education
+  - Sports
 ---
-
 
 ## Prazo para quem quer participar das turmas abertas para 2024 no projeto do IEM, no Recife (PE), termina nesta sexta-feira (9). Aulas, para crianças e jovens entre 7 e 17 anos, começam no próximo dia 20.
 

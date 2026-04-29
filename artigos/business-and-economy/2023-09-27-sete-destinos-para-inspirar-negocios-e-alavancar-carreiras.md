@@ -1,14 +1,13 @@
 ---
-title: Sete destinos para inspirar negócios e alavancar carreiras
+title: "Sete destinos para inspirar negócios e alavancar carreiras"
 date: 2023-09-27
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Business and Economy
-- Courses and Careers
-- Personal Development
+  - Business and Economy
+  - Courses and Careers
+  - Personal Development
 ---
-
 
 ## Com um faturamento total de R$ 3,35 bilhões no segundo trimestre de 2023, o setor de viagens corporativas registrou um aumento de 13,94% em comparação com o mesmo período do ano passado, de acordo com dados da Associação Brasileira de Agências de Viagens Corporativas (Abracorp).
 

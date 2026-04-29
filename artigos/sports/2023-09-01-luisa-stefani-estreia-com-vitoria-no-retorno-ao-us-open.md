@@ -1,13 +1,12 @@
 ---
-title: Luisa Stefani estreia com vitória no retorno ao US Open
+title: "Luisa Stefani estreia com vitória no retorno ao US Open"
 date: 2023-09-01
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
-- Tennis
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana estreia na dupla mista nesta sexta-feira (01.09) ao lado de britânico Joe Salisbury.
 

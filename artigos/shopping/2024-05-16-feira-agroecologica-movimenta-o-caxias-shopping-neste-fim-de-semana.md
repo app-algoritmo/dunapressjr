@@ -1,12 +1,11 @@
 ---
-title: Feira agroecológica movimenta o Caxias Shopping neste fim de semana
+title: "Feira agroecológica movimenta o Caxias Shopping neste fim de semana"
 date: 2024-05-16
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Shopping
+  - Shopping
 ---
-
 
 ## Evento gratuito valoriza produtores da região.
 

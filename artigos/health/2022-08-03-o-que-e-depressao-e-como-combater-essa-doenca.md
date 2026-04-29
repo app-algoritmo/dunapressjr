@@ -1,12 +1,11 @@
 ---
-title: O que é depressão e como combater essa doença?
+title: "O que é depressão e como combater essa doença?"
 date: 2022-08-03
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Health
+  - Health
 ---
-
 
 **A depressão é conhecida como o mal do século. Estimativas mostram que, no Brasil, a doença aumentou 18% entre 2005 e 2015, e a Organização Mundial de Saúde (OMS) afirma que mais de 322 milhões de pessoas no mundo apresentam esse transtorno (entre todas as idades e classes sociais).**
 

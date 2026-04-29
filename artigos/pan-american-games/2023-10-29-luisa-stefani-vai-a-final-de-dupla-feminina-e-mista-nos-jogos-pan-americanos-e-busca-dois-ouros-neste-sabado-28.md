@@ -1,15 +1,13 @@
 ---
-title: Luisa Stefani vai à final de dupla feminina e mista nos Jogos Pan-Americanos
-  e busca dois ouros neste sábado (28)
+title: "Luisa Stefani vai à final de dupla feminina e mista nos Jogos Pan-Americanos e busca dois ouros neste sábado (28)"
 date: 2023-10-29
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Pan American Games
-- Sports
-- Tennis
+  - Pan American Games
+  - Sports
+  - Tennis
 ---
-
 
 ## Paulistana joga com Laura Pigossi e com Marcelo Demoliner em decisões a partir das 17h30 e 20h, em Santiago, no Chile.
 

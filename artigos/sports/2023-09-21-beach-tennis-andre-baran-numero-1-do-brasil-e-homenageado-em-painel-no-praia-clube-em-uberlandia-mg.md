@@ -1,13 +1,11 @@
 ---
-title: 'Beach Tennis: André Baran, número 1 do Brasil, é homenageado em painel no
-  Praia Clube, em Uberlândia (MG)'
+title: "Beach Tennis: André Baran, número 1 do Brasil, é homenageado em painel no Praia Clube, em Uberlândia (MG)"
 date: 2023-09-21
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Sports
+  - Sports
 ---
-
 
 ## O catarinense mora e treina na cidade mineira e aparece ao lado de outros atletas do clube, na arte feita por Kim Ferreira.
 

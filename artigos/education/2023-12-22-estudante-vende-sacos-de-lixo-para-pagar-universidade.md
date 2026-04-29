@@ -1,12 +1,11 @@
 ---
-title: Estudante vende sacos de lixo para pagar universidade
+title: "Estudante vende sacos de lixo para pagar universidade"
 date: 2023-12-22
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Education
+  - Education
 ---
-
 
 ## Filho único de mãe solo, sem conhecer o pai, Higor Waltrick demonstra determinação inabalável na busca pelos sonhos acadêmicos e profissionais.
 

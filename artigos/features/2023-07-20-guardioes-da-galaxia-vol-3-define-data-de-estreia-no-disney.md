@@ -1,12 +1,11 @@
 ---
-title: '''Guardiões da Galáxia Vol. 3'' define data de estreia no Disney+'
+title: "'Guardiões da Galáxia Vol. 3' define data de estreia no Disney+"
 date: 2023-07-20
 status: publish
-author: Camila Batista
+author: milah44
 categories:
-- Features
+  - Features
 ---
-
 
 ## A Disney definiu uma data de estreia global Disney + para *Guardiões da Galáxia Vol. 3*.
 
