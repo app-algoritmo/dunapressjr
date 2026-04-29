@@ -1978,14 +1978,7 @@
             'news':                   { label:'Notícias',    badge:'badge-politics',   filter:'politics'  },
         };
 
-        const STATIC_PATHS = [
-            'artigos/politics-and-society/2026-04-14-a-corrida-pelo-artico.md',
-            'artigos/global-economy/2026-04-13-desdolarizacao-mito-ou-realidade.md',
-            'artigos/science/2026-04-12-edicao-genica-etica-aprimoramento-humano.md',
-            'artigos/politics-and-society/2026-04-11-direito-espacial-governando-fronteira-final.md',
-            'artigos/global-economy/2026-04-10-mercado-green-bonds-financas-sustentaveis.md',
-            'artigos/politics-and-society/2026-04-09-diplomacia-digital-midia-social-politica-externa.md',
-        ];
+        
 
         function fmtDate(d) {
             if (!d) return '';
@@ -2055,12 +2048,21 @@
                     } catch(e) { return []; }
                 }));
 
-                allArticles = results.flat()
-                    .filter(a => !STATIC_PATHS.includes(a.path))
-                    .sort((a, b) => b.date.localeCompare(a.date));
+               allArticles = results.flat()
+    .sort((a, b) => b.date.localeCompare(a.date));
 
-                filteredArticles = [...allArticles];
-                renderBatch();
+filteredArticles = [...allArticles];
+
+// Limpa o spinner inicial e renderiza
+const grid = document.getElementById('articleGrid');
+if (grid) grid.innerHTML = '';
+renderBatch();
+
+// Atualiza ticker com artigos reais
+buildTicker(allArticles);
+
+// Atualiza contagens de categorias
+updateCategoryCounts(allArticles);
 
                 // Botão carregar mais
                 const sec = document.getElementById('articles');
@@ -2332,7 +2334,35 @@ function resetView() {
          sec.appendChild(btnNormal);
     }
 }
-    
+    // ==================== CATEGORY COUNTS ====================
+function updateCategoryCounts(articles) {
+    // Mapa: valor do cat no path → seletor do elemento de contagem
+    const catCountMap = {
+        'politics-and-society':    0,
+        'international-politics':  0,
+        'international-relations': 0,
+        'geopolitics':             0,
+        'news':                    0,
+        'global-economy':          1,
+        'science':                 2,
+        'world-affairs':           3,
+        'technology':              4,
+        'environment':             5,
+        'health':                  5,
+    };
+    // Conta por grupo visual (6 cards de categoria)
+    const counts = [0, 0, 0, 0, 0, 0];
+    articles.forEach(a => {
+        const idx = catCountMap[a.category];
+        if (idx !== undefined) counts[idx]++;
+    });
+    // Os 6 cards de categoria têm <p class="text-xs text-slate-400 mt-1">X artigos</p>
+    const catCards = document.querySelectorAll('#categories .grid > div');
+    catCards.forEach((card, i) => {
+        const p = card.querySelector('p.text-xs');
+        if (p && counts[i] > 0) p.textContent = counts[i] + ' artigos';
+    });
+}
 
         // ==================== KEYBOARD ====================
         document.addEventListener('keydown', e => { if(e.key==='Escape'){closeMobileSearch();closeAuthModal();closeVideoModal();} });
