@@ -145,6 +145,21 @@
         .img-upload-area { border:2px dashed var(--border); border-radius:8px; padding:16px; text-align:center; cursor:pointer; transition:border-color .2s; margin-top:8px; }
         .img-upload-area:hover { border-color:var(--rust); }
         .img-upload-area p { font-size:12px; color:var(--text-dim); margin-top:6px; }
+
+/* ── TAGS SEO ──────────────────────────────────────────────────────────── */
+.tags-input-wrap { display:flex; flex-direction:column; gap:8px; }
+.tag-input-row { display:flex; align-items:center; gap:6px; position:relative; }
+.tag-prefix { font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--rust-light); font-weight:700; line-height:1; padding-top:1px; flex-shrink:0; }
+.tag-input { flex:1; padding:8px 32px 8px 6px; background:var(--bg3); border:1px solid var(--border); border-radius:6px; color:var(--text); font-size:13px; font-family:'JetBrains Mono',monospace; outline:none; transition:border-color .2s; }
+.tag-input:focus { border-color:var(--rust); }
+.tag-input::placeholder { color:var(--text-dimmer); font-family:'Lato',sans-serif; }
+.tag-edit-btn { position:absolute; right:8px; top:50%; transform:translateY(-50%); background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:12px; padding:0; line-height:1; transition:color .2s; }
+.tag-edit-btn:hover { color:var(--rust-light); }
+.tag-pill-row { display:flex; align-items:center; gap:6px; }
+.tag-pill { display:inline-flex; align-items:center; gap:5px; padding:4px 10px; background:rgba(201,77,58,0.12); border:1px solid rgba(201,77,58,0.3); border-radius:999px; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--rust-light); font-weight:500; }
+.tag-pill-edit { background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:11px; padding:0; line-height:1; transition:color .2s; }
+.tag-pill-edit:hover { color:var(--rust-light); }
+        
     </style>
 </head>
 <body>
@@ -309,6 +324,35 @@
                         <input type="text" id="artSlug" placeholder="meu-artigo" readonly style="background:var(--bg4);cursor:default;opacity:.7;" oninput="updateSlugPreview()">
                         <div class="slug-preview" id="slugPreview">artigos/news/2026-04-26-meu-artigo.md</div>
                     </div>
+                    <!-- TAGS SEO -->
+<div class="sidebar-field" style="margin-top:4px;">
+    <label>Tags SEO <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(máx. 3)</span></label>
+    <div class="tags-input-wrap" id="tagsWrap">
+        <!-- Tag 1 -->
+        <div class="tag-input-row" id="tagRow0">
+            <span class="tag-prefix">#</span>
+            <input type="text" class="tag-input" id="tagInput0" placeholder="assunto da tag"
+                oninput="handleTagInput(0)" onblur="confirmTag(0)" onkeydown="tagKeydown(event,0)">
+            <button class="tag-edit-btn" onclick="editTag(0)" title="Editar tag">✏️</button>
+        </div>
+        <!-- Tag 2 -->
+        <div class="tag-input-row" id="tagRow1">
+            <span class="tag-prefix">#</span>
+            <input type="text" class="tag-input" id="tagInput1" placeholder="assunto da tag"
+                oninput="handleTagInput(1)" onblur="confirmTag(1)" onkeydown="tagKeydown(event,1)">
+            <button class="tag-edit-btn" onclick="editTag(1)" title="Editar tag">✏️</button>
+        </div>
+        <!-- Tag 3 -->
+        <div class="tag-input-row" id="tagRow2">
+            <span class="tag-prefix">#</span>
+            <input type="text" class="tag-input" id="tagInput2" placeholder="assunto da tag"
+                oninput="handleTagInput(2)" onblur="confirmTag(2)" onkeydown="tagKeydown(event,2)">
+            <button class="tag-edit-btn" onclick="editTag(2)" title="Editar tag">✏️</button>
+        </div>
+        <!-- Preview das pills -->
+        <div class="tag-pill-row" id="tagPillRow" style="margin-top:2px;flex-wrap:wrap;gap:6px;min-height:0;"></div>
+    </div>
+</div>
                 </div>
 
                 <!-- Imagem -->
@@ -833,6 +877,79 @@ function showToast(msg, type = 'info') {
 setInterval(() => {
     if (document.getElementById('artTitle')?.value || document.getElementById('artContent')?.value) saveAsDraft();
 }, 30000);
+    // ── TAGS SEO ──────────────────────────────────────────────────────────────
+const tagValues = ['', '', ''];
+
+function slugifyTag(text) {
+    return text.toLowerCase().trim()
+        .replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e')
+        .replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o')
+        .replace(/[úùûü]/g,'u').replace(/[ç]/g,'c')
+        .replace(/[ñ]/g,'n').replace(/[^a-z0-9\s-]/g,'')
+        .replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
+}
+
+function handleTagInput(i) {
+    const input = document.getElementById('tagInput' + i);
+    // Força lowercase em tempo real enquanto digita
+    const pos = input.selectionStart;
+    input.value = input.value.toLowerCase();
+    input.setSelectionRange(pos, pos);
+}
+
+function confirmTag(i) {
+    const input = document.getElementById('tagInput' + i);
+    const raw = input.value.trim();
+    if (!raw) { tagValues[i] = ''; renderTagPills(); return; }
+    const slug = slugifyTag(raw);
+    tagValues[i] = slug;
+    input.value = slug;
+    renderTagPills();
+}
+
+function tagKeydown(e, i) {
+    if (e.key === 'Enter' || e.key === 'Tab') {
+        e.preventDefault();
+        confirmTag(i);
+        // Foca o próximo campo se existir
+        if (i < 2) document.getElementById('tagInput' + (i + 1)).focus();
+    }
+}
+
+function editTag(i) {
+    const input = document.getElementById('tagInput' + i);
+    input.removeAttribute('readonly');
+    input.focus();
+    input.select();
+}
+
+function renderTagPills() {
+    const row = document.getElementById('tagPillRow');
+    const active = tagValues.filter(t => t.length > 0);
+    if (!active.length) { row.innerHTML = ''; row.style.marginTop = '0'; return; }
+    row.style.marginTop = '4px';
+    row.innerHTML = active.map((t, idx) =>
+        `<span class="tag-pill">
+            #${t}
+            <button class="tag-pill-edit" onclick="editTagByValue('${t}')" title="Editar">✏️</button>
+        </span>`
+    ).join('');
+}
+
+function editTagByValue(val) {
+    const i = tagValues.indexOf(val);
+    if (i >= 0) editTag(i);
+}
+
+function getTagsForFrontmatter() {
+    return tagValues.filter(t => t.length > 0);
+}
+
+function resetTags() {
+    tagValues.fill('');
+    for (let i = 0; i < 3; i++) document.getElementById('tagInput' + i).value = '';
+    renderTagPills();
+}
 </script>
 </body>
 </html>
