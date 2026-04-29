@@ -1587,22 +1587,35 @@
         let isDarkMode = true;
 
         // ==================== BREAKING NEWS TICKER ====================
-        function buildTicker() {
-            const el = document.getElementById('tickerContent');
-            if (!el) return;
-            const order = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
-            const titles = order.map(k => videoData[k]?.title).filter(Boolean);
-            const recent = titles.slice(0, 10);
-            const spans = [...recent, ...recent].map(t =>
-  `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
-        onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'">• ${t}</span>`
-).join('');
-            el.innerHTML = spans;
-            el.querySelectorAll('span').forEach((span, i) => {
-                const key = order[i % recent.length];
-                span.onclick = () => openVideoModal(key);
-            });
-        }
+        function buildTicker(extraTitles) {
+    const el = document.getElementById('tickerContent');
+    if (!el) return;
+    const order = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
+    const videoTitles = order.map(k => videoData[k]?.title).filter(Boolean);
+    // Mistura vídeos + artigos recentes do GitHub (se já carregados)
+    const artTitles = (extraTitles || []).slice(0, 6).map(a => a.title);
+    const all = [...videoTitles, ...artTitles].slice(0, 16);
+    const spans = [...all, ...all].map((t, i) => {
+        const isArt = i % all.length >= videoTitles.length;
+        const key = order[i % order.length];
+        return `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
+            onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'"
+            data-ticker-i="${i % all.length}" data-ticker-art="${isArt}">• ${t}</span>`;
+    }).join('');
+    el.innerHTML = spans;
+    el.querySelectorAll('span').forEach(span => {
+        const idx = parseInt(span.dataset.tickerI);
+        const isArt = span.dataset.tickerArt === 'true';
+        span.onclick = () => {
+            if (isArt) {
+                const art = (extraTitles || [])[idx - videoTitles.length];
+                if (art) window.location = `/artigo.html?file=/${art.path}`;
+            } else {
+                openVideoModal(order[idx] || 'featured');
+            }
+        };
+    });
+}
 
         function getVideoState(vid) {
             const raw = localStorage.getItem('dp_video_' + vid);
