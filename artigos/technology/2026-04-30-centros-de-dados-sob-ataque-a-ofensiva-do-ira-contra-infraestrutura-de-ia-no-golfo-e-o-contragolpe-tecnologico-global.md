@@ -12,7 +12,6 @@ tags:
 keywords: "seguranca-de-infraestrutura-de-ia, guerra-ciberfisica, tecnologia-nos-estados-do-golfo"
 ---
 
-## Título da secção
 Quando drones iranianos atingiram instalações da AWS nos Emirados e no Bahrein, o conflito de 2026 transformou as ambições de bilhões de dólares em IA do Golfo Pérsico em um campo de batalha, expondo vulnerabilidades nas cadeias globais de suprimento tecnológico.
 
 
