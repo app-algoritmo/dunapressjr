@@ -1586,16 +1586,27 @@
 
         // ==================== LOAD ARTICLES — ✅ MUDANÇAS 3 e 5 ====================
         let _loadingArticles = false;
+        let _ghToken = null;
+        async function getGHToken() {
+            if (_ghToken !== null) return _ghToken;
+            try {
+                const { data } = await _supabase.from('config').select('value').eq('key','gh_token').single();
+                _ghToken = data?.value || '';
+            } catch(e) { _ghToken = ''; }
+            return _ghToken;
+        }
         async function loadArticlesFromGitHub() {
             if (_loadingArticles) return;
             _loadingArticles = true;
             try {
-                const res=await fetch(`${GH_API}/contents/artigos`);
+                const tok = await getGHToken();
+                const hdrs = tok ? {'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'} : {};
+                const res=await fetch(`${GH_API}/contents/artigos`, {headers:hdrs});
                 if(!res.ok) return;
                 const cats=(await res.json()).filter(i=>i.type==='dir');
                 const results=await Promise.all(cats.map(async cat => {
                     try {
-                        const r=await fetch(cat.url);
+                        const r=await fetch(`${GH_API}/contents/artigos/${cat.name}`, {headers:hdrs});
                         if(!r.ok) return [];
                         const files=await r.json();
                         const catInfo=CAT_MAP[cat.name]||{label:cat.name,badge:'badge-politics',filter:'politics'};
