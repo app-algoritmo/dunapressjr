@@ -5,7 +5,234 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Duna Press - Jornal e Revista</title>
     <meta name="description" content="Jornal e revista com análises independentes sobre assuntos globais, economia, ciência e regulação.">
-
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+ 
+  // Verifica se o usuário já deu consentimento anteriormente
+  var savedConsent = localStorage.getItem('dp_consent');
+  if (savedConsent) {
+    var c = JSON.parse(savedConsent);
+    gtag('consent', 'default', {
+      'ad_storage':         c.marketing ? 'granted' : 'denied',
+      'analytics_storage':  c.analytics ? 'granted' : 'denied',
+      'ad_user_data':       c.marketing ? 'granted' : 'denied',
+      'ad_personalization': c.marketing ? 'granted' : 'denied',
+    });
+  } else {
+    // Padrão: tudo negado até escolha do usuário
+    gtag('consent', 'default', {
+      'ad_storage':         'denied',
+      'analytics_storage':  'denied',
+      'ad_user_data':       'denied',
+      'ad_personalization': 'denied',
+      'wait_for_update':    800
+    });
+  }
+</script>
+    <style>
+  /* --- Banner de Cookies --- */
+  #cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 99999;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    transform: translateY(100%);
+    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+ 
+  #cookie-banner.visible {
+    transform: translateY(0);
+  }
+ 
+  .cb-inner {
+    background: #1a1a1a;
+    border-top: 2px solid #c8a96e;
+    color: #e8e0d0;
+    padding: 20px 28px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+ 
+  .cb-text {
+    flex: 1;
+    min-width: 240px;
+  }
+ 
+  .cb-text strong {
+    display: block;
+    font-size: 14px;
+    color: #c8a96e;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+ 
+  .cb-text p {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #b0a898;
+  }
+ 
+  .cb-text a {
+    color: #c8a96e;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+ 
+  .cb-toggles {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+ 
+  .cb-toggle-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: #b0a898;
+    cursor: pointer;
+    user-select: none;
+  }
+ 
+  .cb-toggle-item input[type="checkbox"] {
+    appearance: none;
+    width: 36px;
+    height: 20px;
+    background: #333;
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.25s;
+    flex-shrink: 0;
+    border: 1px solid #555;
+  }
+ 
+  .cb-toggle-item input[type="checkbox"]:checked {
+    background: #c8a96e;
+    border-color: #c8a96e;
+  }
+ 
+  .cb-toggle-item input[type="checkbox"]::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    background: #fff;
+    border-radius: 50%;
+    transition: left 0.25s;
+  }
+ 
+  .cb-toggle-item input[type="checkbox"]:checked::after {
+    left: 18px;
+  }
+ 
+  .cb-toggle-item.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+ 
+  .cb-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+ 
+  .cb-btn {
+    padding: 9px 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 12px;
+    font-family: inherit;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+ 
+  .cb-btn-accept {
+    background: #c8a96e;
+    color: #1a1a1a;
+    font-weight: bold;
+  }
+ 
+  .cb-btn-accept:hover {
+    background: #d4b87a;
+  }
+ 
+  .cb-btn-save {
+    background: transparent;
+    color: #c8a96e;
+    border: 1px solid #c8a96e;
+  }
+ 
+  .cb-btn-save:hover {
+    background: rgba(200,169,110,0.1);
+  }
+ 
+  .cb-btn-reject {
+    background: transparent;
+    color: #777;
+    border: 1px solid #444;
+    font-size: 11px;
+    padding: 8px 14px;
+  }
+ 
+  .cb-btn-reject:hover {
+    color: #999;
+    border-color: #666;
+  }
+ 
+  /* Link de preferências no rodapé */
+  #cookie-prefs-link {
+    position: fixed;
+    bottom: 16px;
+    left: 16px;
+    z-index: 9998;
+    background: #1a1a1a;
+    border: 1px solid #c8a96e;
+    color: #c8a96e;
+    font-family: 'Georgia', serif;
+    font-size: 11px;
+    padding: 6px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    display: none;
+    transition: all 0.2s;
+  }
+ 
+  #cookie-prefs-link:hover {
+    background: rgba(200,169,110,0.1);
+  }
+ 
+  @media (max-width: 640px) {
+    .cb-inner {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 16px 18px;
+      gap: 16px;
+    }
+    .cb-actions {
+      width: 100%;
+    }
+    .cb-btn-accept {
+      flex: 1;
+    }
+  }
+</style>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
 <script>
@@ -1879,5 +2106,117 @@
         </div>
         <div id="mobileSearchResults"></div>
     </div>
+    <div id="cookie-banner" role="dialog" aria-label="Preferências de cookies">
+  <div class="cb-inner">
+ 
+    <div class="cb-text">
+      <strong>🍪 Privacidade & Cookies</strong>
+      <p>
+        Usamos cookies para analisar o tráfego e personalizar anúncios.
+        Você pode escolher quais aceitar. Leia nossa
+        <a href="/politica-de-privacidade" target="_blank">Política de Privacidade</a>.
+      </p>
+    </div>
+ 
+    <div class="cb-toggles">
+      <label class="cb-toggle-item disabled" title="Sempre ativo">
+        <input type="checkbox" id="cb-necessary" checked disabled>
+        <span>Necessários</span>
+      </label>
+      <label class="cb-toggle-item">
+        <input type="checkbox" id="cb-analytics">
+        <span>Análise</span>
+      </label>
+      <label class="cb-toggle-item">
+        <input type="checkbox" id="cb-marketing">
+        <span>Marketing</span>
+      </label>
+    </div>
+ 
+    <div class="cb-actions">
+      <button class="cb-btn cb-btn-accept" onclick="dpConsentAcceptAll()">Aceitar tudo</button>
+      <button class="cb-btn cb-btn-save"   onclick="dpConsentSave()">Salvar escolha</button>
+      <button class="cb-btn cb-btn-reject" onclick="dpConsentRejectAll()">Rejeitar</button>
+    </div>
+ 
+  </div>
+</div>
+ 
+<button id="cookie-prefs-link" onclick="dpShowBanner()" aria-label="Preferências de cookies">
+  🍪 Cookies
+</button>
+    <script>
+  (function() {
+    var banner = document.getElementById('cookie-banner');
+    var prefsLink = document.getElementById('cookie-prefs-link');
+ 
+    // Mostra banner se não há consentimento salvo
+    function init() {
+      if (!localStorage.getItem('dp_consent')) {
+        setTimeout(function() {
+          banner.classList.add('visible');
+        }, 600);
+      } else {
+        prefsLink.style.display = 'block';
+      }
+    }
+ 
+    // Atualiza Google Consent Mode
+    function updateConsent(analytics, marketing) {
+      if (typeof gtag === 'function') {
+        gtag('consent', 'update', {
+          'ad_storage':         marketing ? 'granted' : 'denied',
+          'analytics_storage':  analytics ? 'granted' : 'denied',
+          'ad_user_data':       marketing ? 'granted' : 'denied',
+          'ad_personalization': marketing ? 'granted' : 'denied',
+        });
+      }
+    }
+ 
+    // Salva e fecha
+    function save(analytics, marketing) {
+      localStorage.setItem('dp_consent', JSON.stringify({
+        analytics: analytics,
+        marketing: marketing,
+        timestamp: new Date().toISOString()
+      }));
+      updateConsent(analytics, marketing);
+      banner.classList.remove('visible');
+      prefsLink.style.display = 'block';
+    }
+ 
+    window.dpConsentAcceptAll = function() {
+      document.getElementById('cb-analytics').checked = true;
+      document.getElementById('cb-marketing').checked = true;
+      save(true, true);
+    };
+ 
+    window.dpConsentRejectAll = function() {
+      document.getElementById('cb-analytics').checked = false;
+      document.getElementById('cb-marketing').checked = false;
+      save(false, false);
+    };
+ 
+    window.dpConsentSave = function() {
+      var analytics = document.getElementById('cb-analytics').checked;
+      var marketing = document.getElementById('cb-marketing').checked;
+      save(analytics, marketing);
+    };
+ 
+    window.dpShowBanner = function() {
+      // Restaura estado salvo nos toggles
+      var saved = localStorage.getItem('dp_consent');
+      if (saved) {
+        var c = JSON.parse(saved);
+        document.getElementById('cb-analytics').checked = !!c.analytics;
+        document.getElementById('cb-marketing').checked = !!c.marketing;
+      }
+      banner.classList.add('visible');
+      prefsLink.style.display = 'none';
+    };
+ 
+    init();
+  })();
+</script>
 </body>
 </html>
