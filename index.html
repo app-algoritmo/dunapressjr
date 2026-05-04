@@ -38,88 +38,88 @@
     left: 0;
     right: 0;
     z-index: 99999;
-    font-family: 'Georgia', 'Times New Roman', serif;
+    font-family: 'Inter', system-ui, sans-serif;
     transform: translateY(100%);
     transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
   }
- 
+
   #cookie-banner.visible {
     transform: translateY(0);
   }
- 
+
   .cb-inner {
-    background: #1a1a1a;
-    border-top: 2px solid #c8a96e;
-    color: #e8e0d0;
+    background: #0b2747;
+    border-top: 2px solid #0c87ec;
+    color: #e2e8f0;
     padding: 20px 28px;
     display: flex;
     align-items: center;
     gap: 24px;
     flex-wrap: wrap;
   }
- 
+
   .cb-text {
     flex: 1;
     min-width: 240px;
   }
- 
+
   .cb-text strong {
     display: block;
     font-size: 14px;
-    color: #c8a96e;
+    color: #36a5f8;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin-bottom: 5px;
   }
- 
+
   .cb-text p {
     margin: 0;
     font-size: 13px;
     line-height: 1.6;
-    color: #b0a898;
+    color: #94a3b8;
   }
- 
+
   .cb-text a {
-    color: #c8a96e;
+    color: #36a5f8;
     text-decoration: underline;
     text-underline-offset: 2px;
   }
- 
+
   .cb-toggles {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
     align-items: center;
   }
- 
+
   .cb-toggle-item {
     display: flex;
     align-items: center;
     gap: 8px;
     font-size: 12px;
-    color: #b0a898;
+    color: #94a3b8;
     cursor: pointer;
     user-select: none;
   }
- 
+
   .cb-toggle-item input[type="checkbox"] {
     appearance: none;
     width: 36px;
     height: 20px;
-    background: #333;
+    background: #0e3e6f;
     border-radius: 20px;
     cursor: pointer;
     position: relative;
     transition: background 0.25s;
     flex-shrink: 0;
-    border: 1px solid #555;
+    border: 1px solid #0557a3;
   }
- 
+
   .cb-toggle-item input[type="checkbox"]:checked {
-    background: #c8a96e;
-    border-color: #c8a96e;
+    background: #0c87ec;
+    border-color: #0c87ec;
   }
- 
+
   .cb-toggle-item input[type="checkbox"]::after {
     content: '';
     position: absolute;
@@ -131,27 +131,27 @@
     border-radius: 50%;
     transition: left 0.25s;
   }
- 
+
   .cb-toggle-item input[type="checkbox"]:checked::after {
     left: 18px;
   }
- 
+
   .cb-toggle-item.disabled {
     opacity: 0.5;
     cursor: not-allowed;
   }
- 
+
   .cb-actions {
     display: flex;
     gap: 10px;
     align-items: center;
     flex-wrap: wrap;
   }
- 
+
   .cb-btn {
     padding: 9px 20px;
     border: none;
-    border-radius: 3px;
+    border-radius: 6px;
     font-size: 12px;
     font-family: inherit;
     letter-spacing: 0.07em;
@@ -160,64 +160,64 @@
     transition: all 0.2s;
     white-space: nowrap;
   }
- 
+
   .cb-btn-accept {
-    background: #c8a96e;
-    color: #1a1a1a;
+    background: linear-gradient(135deg, #10b981, #0c87ec);
+    color: #fff;
     font-weight: bold;
   }
- 
+
   .cb-btn-accept:hover {
-    background: #d4b87a;
+    background: linear-gradient(135deg, #6ee7b7, #36a5f8);
   }
- 
+
   .cb-btn-save {
     background: transparent;
-    color: #c8a96e;
-    border: 1px solid #c8a96e;
+    color: #36a5f8;
+    border: 1px solid #0c87ec;
   }
- 
+
   .cb-btn-save:hover {
-    background: rgba(200,169,110,0.1);
+    background: rgba(12, 135, 236, 0.1);
   }
- 
+
   .cb-btn-reject {
     background: transparent;
-    color: #777;
-    border: 1px solid #444;
+    color: #64748b;
+    border: 1px solid #0557a3;
     font-size: 11px;
     padding: 8px 14px;
   }
- 
+
   .cb-btn-reject:hover {
-    color: #999;
-    border-color: #666;
+    color: #94a3b8;
+    border-color: #046cc9;
   }
- 
+
   /* Link de preferências no rodapé */
   #cookie-prefs-link {
     position: fixed;
     bottom: 16px;
     left: 16px;
     z-index: 9998;
-    background: #1a1a1a;
-    border: 1px solid #c8a96e;
-    color: #c8a96e;
-    font-family: 'Georgia', serif;
+    background: #0b2747;
+    border: 1px solid #0c87ec;
+    color: #36a5f8;
+    font-family: 'Inter', system-ui, sans-serif;
     font-size: 11px;
     padding: 6px 12px;
-    border-radius: 3px;
+    border-radius: 6px;
     cursor: pointer;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     display: none;
     transition: all 0.2s;
   }
- 
+
   #cookie-prefs-link:hover {
-    background: rgba(200,169,110,0.1);
+    background: rgba(12, 135, 236, 0.1);
   }
- 
+
   @media (max-width: 640px) {
     .cb-inner {
       flex-direction: column;
