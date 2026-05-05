@@ -16,11 +16,7 @@
         }
         * { margin:0; padding:0; box-sizing:border-box; }
         body { font-family:'Lato',sans-serif; background:var(--bg); color:var(--text); min-height:100vh; overflow-x:hidden; }
-        #loginScreen {
-            min-height:100vh; display:flex; align-items:center; justify-content:center;
-            background:radial-gradient(ellipse at 30% 50%, rgba(168,62,50,0.12) 0%, transparent 60%),
-                        radial-gradient(ellipse at 70% 20%, rgba(201,77,58,0.06) 0%, transparent 50%), var(--bg);
-        }
+        #loginScreen { min-height:100vh; display:flex; align-items:center; justify-content:center; background:radial-gradient(ellipse at 30% 50%, rgba(168,62,50,0.12) 0%, transparent 60%), radial-gradient(ellipse at 70% 20%, rgba(201,77,58,0.06) 0%, transparent 50%), var(--bg); }
         .login-box { width:100%; max-width:400px; padding:48px 40px; background:var(--bg2); border:1px solid var(--border); border-radius:16px; box-shadow:0 32px 80px rgba(0,0,0,0.6); }
         .login-logo { display:flex; align-items:center; gap:12px; margin-bottom:36px; }
         .login-logo-mark { width:44px; height:44px; border-radius:10px; background:linear-gradient(135deg,var(--rust),var(--rust-dark)); display:flex; align-items:center; justify-content:center; font-family:'Playfair Display',serif; font-size:22px; font-weight:700; color:#fff; box-shadow:0 4px 20px rgba(201,77,58,0.4); }
@@ -29,7 +25,6 @@
         .login-tabs { display:flex; margin-bottom:24px; border-bottom:1px solid var(--border); }
         .login-tab { flex:1; padding:10px; background:none; border:none; color:var(--text-dim); font-size:13px; font-weight:700; cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; font-family:'Lato',sans-serif; }
         .login-tab.active { color:var(--rust-light); border-bottom-color:var(--rust); }
-        .login-title { font-size:13px; color:var(--text-dim); margin-bottom:28px; line-height:1.6; }
         .field { margin-bottom:16px; }
         .field label { display:block; font-size:11px; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--text-dim); margin-bottom:8px; }
         .field input { width:100%; padding:12px 16px; background:var(--bg3); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:14px; font-family:'Lato',sans-serif; transition:border-color .2s, box-shadow .2s; outline:none; }
@@ -37,8 +32,6 @@
         .btn-primary { width:100%; padding:13px; margin-top:8px; background:linear-gradient(135deg,var(--rust),var(--rust-dark)); border:none; border-radius:8px; color:#fff; font-family:'Lato',sans-serif; font-size:14px; font-weight:700; cursor:pointer; transition:all .2s; letter-spacing:.5px; }
         .btn-primary:hover { transform:translateY(-1px); box-shadow:0 8px 24px rgba(201,77,58,0.4); }
         .btn-primary:disabled { opacity:.5; cursor:not-allowed; transform:none; }
-        .btn-secondary { width:100%; padding:13px; margin-top:8px; background:transparent; border:1px solid var(--border); border-radius:8px; color:var(--text-dim); font-family:'Lato',sans-serif; font-size:14px; font-weight:700; cursor:pointer; transition:all .2s; }
-        .btn-secondary:hover { border-color:var(--rust); color:var(--rust-light); }
         .login-msg { margin-top:14px; padding:10px 14px; border-radius:6px; font-size:13px; display:none; }
         .login-msg.error { background:rgba(239,68,68,0.1); border:1px solid rgba(239,68,68,0.2); color:#f87171; }
         .login-msg.success { background:rgba(34,197,94,0.1); border:1px solid rgba(34,197,94,0.2); color:#4ade80; }
@@ -86,6 +79,8 @@
         .preview-area li { margin-bottom:.4rem; }
         .preview-area hr { border:none; border-top:1px solid var(--border); margin:1.5rem 0; }
         .preview-area img { max-width:100%; border-radius:8px; margin:1rem 0; }
+        .preview-area .video-embed { position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px; margin:1rem 0; background:#000; }
+        .preview-area .video-embed iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:none; }
         .sidebar-card { background:var(--bg2); border:1px solid var(--border); border-radius:10px; padding:18px; }
         .sidebar-card h3 { font-size:11px; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--text-dim); margin-bottom:14px; }
         .sidebar-field { margin-bottom:12px; }
@@ -140,30 +135,48 @@
         .cat-technology,.cat-tech { background:linear-gradient(135deg,#334155,#475569); }
         .cat-health { background:linear-gradient(135deg,#be185d,#db2777); }
         .cat-opinion { background:linear-gradient(135deg,#7c3aed,#5b21b6); }
-        .cat-news { background:linear-gradient(135deg,#a83e32,#8b342a); }
+        .cat-global-affairs { background:linear-gradient(135deg,#1e40af,#2563eb); }
         .cat-default { background:linear-gradient(135deg,#475569,#334155); }
-        .img-upload-area { border:2px dashed var(--border); border-radius:8px; padding:16px; text-align:center; cursor:pointer; transition:border-color .2s; margin-top:8px; }
-        .img-upload-area:hover { border-color:var(--rust); }
-        .img-upload-area p { font-size:12px; color:var(--text-dim); margin-top:6px; }
-
-/* ── TAGS SEO ──────────────────────────────────────────────────────────── */
-.tags-input-wrap { display:flex; flex-direction:column; gap:8px; }
-.tag-input-row { display:flex; align-items:center; gap:6px; position:relative; }
-.tag-prefix { font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--rust-light); font-weight:700; line-height:1; padding-top:1px; flex-shrink:0; }
-.tag-input { flex:1; padding:8px 32px 8px 6px; background:var(--bg3); border:1px solid var(--border); border-radius:6px; color:var(--text); font-size:13px; font-family:'JetBrains Mono',monospace; outline:none; transition:border-color .2s; }
-.tag-input:focus { border-color:var(--rust); }
-.tag-input::placeholder { color:var(--text-dimmer); font-family:'Lato',sans-serif; }
-.tag-edit-btn { position:absolute; right:8px; top:50%; transform:translateY(-50%); background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:12px; padding:0; line-height:1; transition:color .2s; }
-.tag-edit-btn:hover { color:var(--rust-light); }
-.tag-pill-row { display:flex; align-items:center; gap:6px; }
-.tag-pill { display:inline-flex; align-items:center; gap:5px; padding:4px 10px; background:rgba(201,77,58,0.12); border:1px solid rgba(201,77,58,0.3); border-radius:999px; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--rust-light); font-weight:500; }
-.tag-pill-edit { background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:11px; padding:0; line-height:1; transition:color .2s; }
-.tag-pill-edit:hover { color:var(--rust-light); }
-        
+        .tags-input-wrap { display:flex; flex-direction:column; gap:8px; }
+        .tag-input-row { display:flex; align-items:center; gap:6px; position:relative; }
+        .tag-prefix { font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--rust-light); font-weight:700; line-height:1; padding-top:1px; flex-shrink:0; }
+        .tag-input { flex:1; padding:8px 32px 8px 6px; background:var(--bg3); border:1px solid var(--border); border-radius:6px; color:var(--text); font-size:13px; font-family:'JetBrains Mono',monospace; outline:none; transition:border-color .2s; }
+        .tag-input:focus { border-color:var(--rust); }
+        .tag-input::placeholder { color:var(--text-dimmer); font-family:'Lato',sans-serif; }
+        .tag-edit-btn { position:absolute; right:8px; top:50%; transform:translateY(-50%); background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:12px; padding:0; line-height:1; transition:color .2s; }
+        .tag-edit-btn:hover { color:var(--rust-light); }
+        .tag-pill-row { display:flex; align-items:center; gap:6px; }
+        .tag-pill { display:inline-flex; align-items:center; gap:5px; padding:4px 10px; background:rgba(201,77,58,0.12); border:1px solid rgba(201,77,58,0.3); border-radius:999px; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--rust-light); font-weight:500; }
+        .tag-pill-edit { background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:11px; padding:0; line-height:1; transition:color .2s; }
+        .tag-pill-edit:hover { color:var(--rust-light); }
+        /* VIDEO MODAL */
+        .modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.75); z-index:500; display:flex; align-items:center; justify-content:center; backdrop-filter:blur(4px); }
+        .modal-box { background:var(--bg2); border:1px solid var(--border); border-radius:14px; padding:28px; width:100%; max-width:460px; box-shadow:0 24px 60px rgba(0,0,0,0.6); }
+        .modal-box h3 { font-family:'Playfair Display',serif; font-size:18px; color:#fff; margin-bottom:6px; }
+        .modal-box p { font-size:13px; color:var(--text-dim); margin-bottom:20px; line-height:1.5; }
+        .modal-input { width:100%; padding:11px 14px; background:var(--bg3); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:14px; font-family:'JetBrains Mono',monospace; outline:none; transition:border-color .2s; }
+        .modal-input:focus { border-color:var(--rust); }
+        .modal-actions { display:flex; gap:10px; margin-top:20px; }
+        .modal-confirm { flex:1; padding:11px; background:linear-gradient(135deg,var(--rust),var(--rust-dark)); border:none; border-radius:8px; color:#fff; font-size:14px; font-weight:700; cursor:pointer; transition:all .2s; }
+        .modal-confirm:hover { transform:translateY(-1px); box-shadow:0 6px 20px rgba(201,77,58,0.35); }
+        .modal-cancel { padding:11px 18px; background:transparent; border:1px solid var(--border); border-radius:8px; color:var(--text-dim); font-size:14px; cursor:pointer; transition:all .2s; }
+        .modal-cancel:hover { border-color:var(--rust); color:var(--rust-light); }
     </style>
-    
 </head>
 <body>
+
+<!-- VIDEO MODAL -->
+<div class="modal-overlay" id="videoModal" style="display:none" onclick="if(event.target===this)closeVideoModal()">
+    <div class="modal-box">
+        <h3>🎬 Incorporar Vídeo</h3>
+        <p>Cole o URL do YouTube, Vimeo ou outra plataforma de vídeo.</p>
+        <input type="url" class="modal-input" id="videoUrlInput" placeholder="https://www.youtube.com/watch?v=...">
+        <div class="modal-actions">
+            <button class="modal-cancel" onclick="closeVideoModal()">Cancelar</button>
+            <button class="modal-confirm" onclick="confirmVideoEmbed()">Inserir vídeo</button>
+        </div>
+    </div>
+</div>
 
 <!-- LOGIN SCREEN -->
 <div id="loginScreen">
@@ -175,46 +188,25 @@
                 <p>Painel Admin</p>
             </div>
         </div>
-        <!-- Tabs Login / Criar Conta -->
         <div class="login-tabs">
             <button class="login-tab active" id="tab-login" onclick="switchLoginTab('login')">Entrar</button>
             <button class="login-tab" id="tab-register" onclick="switchLoginTab('register')">Criar Conta</button>
         </div>
-
-        <!-- Formulário Login -->
         <div id="form-login">
             <form onsubmit="handleLogin(event)">
-                <div class="field">
-                    <label>E-mail</label>
-                    <input type="email" id="loginEmail" placeholder="seu@email.com" required autocomplete="email">
-                </div>
-                <div class="field">
-                    <label>Senha</label>
-                    <input type="password" id="loginPassword" placeholder="••••••••" required autocomplete="current-password">
-                </div>
+                <div class="field"><label>E-mail</label><input type="email" id="loginEmail" placeholder="seu@email.com" required autocomplete="email"></div>
+                <div class="field"><label>Senha</label><input type="password" id="loginPassword" placeholder="••••••••" required autocomplete="current-password"></div>
                 <button type="submit" class="btn-primary" id="loginBtn">Entrar no Painel</button>
             </form>
         </div>
-
-        <!-- Formulário Registo -->
         <div id="form-register" style="display:none">
             <form onsubmit="handleRegister(event)">
-                <div class="field">
-                    <label>Nome completo</label>
-                    <input type="text" id="regName" placeholder="O seu nome" required>
-                </div>
-                <div class="field">
-                    <label>E-mail</label>
-                    <input type="email" id="regEmail" placeholder="seu@email.com" required>
-                </div>
-                <div class="field">
-                    <label>Senha</label>
-                    <input type="password" id="regPassword" placeholder="Mínimo 6 caracteres" required minlength="6">
-                </div>
+                <div class="field"><label>Nome completo</label><input type="text" id="regName" placeholder="O seu nome" required></div>
+                <div class="field"><label>E-mail</label><input type="email" id="regEmail" placeholder="seu@email.com" required></div>
+                <div class="field"><label>Senha</label><input type="password" id="regPassword" placeholder="Mínimo 6 caracteres" required minlength="6"></div>
                 <button type="submit" class="btn-primary" id="regBtn">Criar conta</button>
             </form>
         </div>
-
         <div class="login-msg" id="loginMsg"></div>
     </div>
 </div>
@@ -228,15 +220,11 @@
             <small id="userRole">Editorial</small>
         </div>
         <div class="admin-header-right">
-            <div class="user-chip">
-                <div class="user-dot"></div>
-                <span id="userEmail">—</span>
-            </div>
+            <div class="user-chip"><div class="user-dot"></div><span id="userEmail">—</span></div>
             <a href="https://app-algoritmo.github.io/dunapressjr/" target="_blank" style="padding:6px 14px;background:transparent;border:1px solid var(--border);border-radius:6px;color:var(--text-dim);font-size:12px;text-decoration:none;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='var(--text-dim)'">Ver site ↗</a>
             <button class="btn-logout" onclick="handleLogout()">Sair</button>
         </div>
     </div>
-
     <div class="admin-tabs">
         <button class="tab-btn active" onclick="switchTab('editor')" id="tab-editor">✍️ Novo Artigo</button>
         <button class="tab-btn" onclick="switchTab('articles')" id="tab-articles">📋 Artigos Publicados</button>
@@ -263,7 +251,7 @@
                         <button class="tb-btn" onclick="fmt('quote')" title="Citação">❝</button>
                         <button class="tb-btn" onclick="fmt('hr')" title="Separador">—</button>
                         <button class="tb-btn" onclick="fmt('link')" title="Link">🔗</button>
-                        <button class="tb-btn" onclick="triggerImageUpload()" title="Inserir imagem">🖼️</button>
+                        <button class="tb-btn" onclick="openVideoModal()" title="Incorporar vídeo" style="font-size:12px;gap:4px;">🎬 Vídeo</button>
                         <input type="file" id="imageInput" accept="image/*" style="display:none" onchange="uploadImage(this)">
                     </div>
                 </div>
@@ -300,7 +288,7 @@
                     <div class="sidebar-field">
                         <label>Categoria</label>
                         <select id="artCategory" onchange="updateSlugPreview()">
-                            <option value="news">Notícias (news)</option>
+                            <option value="global-affairs">Assuntos Globais (Global Affairs)</option>
                             <option value="politics-and-society">Política</option>
                             <option value="global-economy">Economia</option>
                             <option value="science">Ciência</option>
@@ -323,47 +311,30 @@
                     <div class="sidebar-field">
                         <label>Slug (URL) <button onclick="toggleSlugEdit()" title="Editar slug" style="background:none;border:none;cursor:pointer;color:var(--text-dim);margin-left:6px;font-size:13px;">✏️</button></label>
                         <input type="text" id="artSlug" placeholder="meu-artigo" readonly style="background:var(--bg4);cursor:default;opacity:.7;" oninput="updateSlugPreview()">
-                        <div class="slug-preview" id="slugPreview">artigos/news/2026-04-26-meu-artigo.md</div>
+                        <div class="slug-preview" id="slugPreview">artigos/global-affairs/2026-05-05-meu-artigo.md</div>
                     </div>
                     <!-- TAGS SEO -->
-<div class="sidebar-field" style="margin-top:4px;">
-    <label>Tags SEO <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(máx. 3)</span></label>
-    <div class="tags-input-wrap" id="tagsWrap">
-        <!-- Tag 1 -->
-        <div class="tag-input-row" id="tagRow0">
-            <span class="tag-prefix">#</span>
-            <input type="text" class="tag-input" id="tagInput0" placeholder="assunto da tag"
-                oninput="handleTagInput(0)" onblur="confirmTag(0)" onkeydown="tagKeydown(event,0)">
-            <button class="tag-edit-btn" onclick="editTag(0)" title="Editar tag">✏️</button>
-        </div>
-        <!-- Tag 2 -->
-        <div class="tag-input-row" id="tagRow1">
-            <span class="tag-prefix">#</span>
-            <input type="text" class="tag-input" id="tagInput1" placeholder="assunto da tag"
-                oninput="handleTagInput(1)" onblur="confirmTag(1)" onkeydown="tagKeydown(event,1)">
-            <button class="tag-edit-btn" onclick="editTag(1)" title="Editar tag">✏️</button>
-        </div>
-        <!-- Tag 3 -->
-        <div class="tag-input-row" id="tagRow2">
-            <span class="tag-prefix">#</span>
-            <input type="text" class="tag-input" id="tagInput2" placeholder="assunto da tag"
-                oninput="handleTagInput(2)" onblur="confirmTag(2)" onkeydown="tagKeydown(event,2)">
-            <button class="tag-edit-btn" onclick="editTag(2)" title="Editar tag">✏️</button>
-        </div>
-        <!-- Preview das pills -->
-        <div class="tag-pill-row" id="tagPillRow" style="margin-top:2px;flex-wrap:wrap;gap:6px;min-height:0;"></div>
-    </div>
-</div>
-                </div>
-
-                <!-- Imagem -->
-                <div class="sidebar-card">
-                    <h3>🖼️ Imagem</h3>
-                    <div class="img-upload-area" onclick="triggerImageUpload()">
-                        <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="color:var(--text-dim);margin:0 auto;display:block"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
-                        <p>Clique para inserir imagem<br><span style="font-size:10px;color:var(--text-dimmer)">Guardada em /imagens/ no GitHub</span></p>
+                    <div class="sidebar-field" style="margin-top:4px;">
+                        <label>Tags SEO <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(máx. 3)</span></label>
+                        <div class="tags-input-wrap" id="tagsWrap">
+                            <div class="tag-input-row" id="tagRow0">
+                                <span class="tag-prefix">#</span>
+                                <input type="text" class="tag-input" id="tagInput0" placeholder="assunto da tag" oninput="handleTagInput(0)" onblur="confirmTag(0)" onkeydown="tagKeydown(event,0)">
+                                <button class="tag-edit-btn" onclick="editTag(0)" title="Editar tag">✏️</button>
+                            </div>
+                            <div class="tag-input-row" id="tagRow1">
+                                <span class="tag-prefix">#</span>
+                                <input type="text" class="tag-input" id="tagInput1" placeholder="assunto da tag" oninput="handleTagInput(1)" onblur="confirmTag(1)" onkeydown="tagKeydown(event,1)">
+                                <button class="tag-edit-btn" onclick="editTag(1)" title="Editar tag">✏️</button>
+                            </div>
+                            <div class="tag-input-row" id="tagRow2">
+                                <span class="tag-prefix">#</span>
+                                <input type="text" class="tag-input" id="tagInput2" placeholder="assunto da tag" oninput="handleTagInput(2)" onblur="confirmTag(2)" onkeydown="tagKeydown(event,2)">
+                                <button class="tag-edit-btn" onclick="editTag(2)" title="Editar tag">✏️</button>
+                            </div>
+                            <div class="tag-pill-row" id="tagPillRow" style="margin-top:2px;flex-wrap:wrap;gap:6px;min-height:0;"></div>
+                        </div>
                     </div>
-                    <div id="imgUploadStatus" style="font-size:11px;color:var(--text-dim);margin-top:8px;display:none"></div>
                 </div>
             </div>
         </div>
@@ -388,36 +359,22 @@
 <div id="toast"><div class="toast-inner" id="toastInner"></div></div>
 
 <script>
-// ── SUPABASE ──────────────────────────────────────────────────────────────
 const SUPABASE_URL = 'https://ohsaqzwtqliiwshecumk.supabase.co';
 const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oc2Fxend0cWxpaXdzaGVjdW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjYxMjQsImV4cCI6MjA5MjcwMjEyNH0.Aaa4I01uYNNl1nOff5NIkOhn454uNBQYjDiLDh-aaYs';
 const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
-
-// ── GITHUB ────────────────────────────────────────────────────────────────
 const REPO_OWNER = 'app-algoritmo';
 const REPO_NAME  = 'dunapressjr';
 const GH_API     = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
-
-// Admins autorizados
 const ADMINS = ['paulofernandodebarros@gmail.com', 'nataliabellan@gmail.com'];
+let currentUser = null, articleStatus = 'publish', allLoadedArticles = [], GH_TOKEN_CACHED = null;
 
-// ── STATE ─────────────────────────────────────────────────────────────────
-let currentUser = null;
-let articleStatus = 'publish';
-let allLoadedArticles = [];
-let GH_TOKEN_CACHED = null;
-
-// ── TOKEN (via Supabase config) ───────────────────────────────────────────
 async function getToken() {
     if (GH_TOKEN_CACHED) return GH_TOKEN_CACHED;
-    try {
-        const { data } = await _supabase.from('config').select('value').eq('key', 'gh_token').single();
-        GH_TOKEN_CACHED = data?.value || '';
-    } catch(e) { GH_TOKEN_CACHED = ''; }
+    try { const { data } = await _supabase.from('config').select('value').eq('key', 'gh_token').single(); GH_TOKEN_CACHED = data?.value || ''; }
+    catch(e) { GH_TOKEN_CACHED = ''; }
     return GH_TOKEN_CACHED;
 }
 
-// ── INIT ──────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('artDate').value = new Date().toISOString().split('T')[0];
     const savedAuthor = localStorage.getItem('duna_author');
@@ -425,15 +382,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('artDate').addEventListener('change', updateSlugPreview);
     document.getElementById('artCategory').addEventListener('change', updateSlugPreview);
     document.getElementById('artSlug').addEventListener('input', updateSlugPreview);
-
+    updateSlugPreview();
     const { data: { session } } = await _supabase.auth.getSession();
-    if (session) {
-        currentUser = session.user;
-        showAdmin();
-    }
+    if (session) { currentUser = session.user; showAdmin(); }
 });
 
-// ── LOGIN TAB SWITCH ──────────────────────────────────────────────────────
 function switchLoginTab(tab) {
     document.getElementById('tab-login').classList.toggle('active', tab === 'login');
     document.getElementById('tab-register').classList.toggle('active', tab === 'register');
@@ -444,111 +397,55 @@ function switchLoginTab(tab) {
 
 function showMsg(msg, type) {
     const el = document.getElementById('loginMsg');
-    el.textContent = msg;
-    el.className = `login-msg ${type}`;
-    el.style.display = 'block';
+    el.textContent = msg; el.className = `login-msg ${type}`; el.style.display = 'block';
 }
 
-// ── AUTH ──────────────────────────────────────────────────────────────────
 async function handleLogin(e) {
     e.preventDefault();
-    const email    = document.getElementById('loginEmail').value.trim();
+    const email = document.getElementById('loginEmail').value.trim();
     const password = document.getElementById('loginPassword').value;
-    const btn      = document.getElementById('loginBtn');
+    const btn = document.getElementById('loginBtn');
     btn.disabled = true; btn.textContent = 'Entrando...';
     document.getElementById('loginMsg').style.display = 'none';
-
     const { data, error } = await _supabase.auth.signInWithPassword({ email, password });
-
-    if (error) {
-        showMsg('E-mail ou senha incorretos.', 'error');
-        btn.disabled = false; btn.textContent = 'Entrar no Painel';
-        return;
-    }
-
-    // Verifica se é admin
-    if (ADMINS.includes(data.user.email)) {
-        currentUser = data.user;
-        showAdmin();
-        return;
-    }
-
-    // Verifica se é autor aprovado
+    if (error) { showMsg('E-mail ou senha incorretos.', 'error'); btn.disabled = false; btn.textContent = 'Entrar no Painel'; return; }
+    if (ADMINS.includes(data.user.email)) { currentUser = data.user; showAdmin(); return; }
     const { data: author } = await _supabase.from('authors').select('status').eq('email', email).single();
-
-    if (!author) {
-        await _supabase.auth.signOut();
-        showMsg('Acesso não autorizado. Registe-se ou contacte o administrador.', 'error');
-        btn.disabled = false; btn.textContent = 'Entrar no Painel';
-        return;
-    }
-
-    if (author.status === 'pending') {
-        await _supabase.auth.signOut();
-        showMsg('⏳ A sua conta está a aguardar aprovação do administrador.', 'info');
-        btn.disabled = false; btn.textContent = 'Entrar no Painel';
-        return;
-    }
-
-    if (author.status === 'approved') {
-        currentUser = data.user;
-        showAdmin();
-        return;
-    }
-
-    await _supabase.auth.signOut();
-    showMsg('Acesso negado.', 'error');
-    btn.disabled = false; btn.textContent = 'Entrar no Painel';
+    if (!author) { await _supabase.auth.signOut(); showMsg('Acesso não autorizado.', 'error'); btn.disabled = false; btn.textContent = 'Entrar no Painel'; return; }
+    if (author.status === 'pending') { await _supabase.auth.signOut(); showMsg('⏳ Conta a aguardar aprovação.', 'info'); btn.disabled = false; btn.textContent = 'Entrar no Painel'; return; }
+    if (author.status === 'approved') { currentUser = data.user; showAdmin(); return; }
+    await _supabase.auth.signOut(); showMsg('Acesso negado.', 'error'); btn.disabled = false; btn.textContent = 'Entrar no Painel';
 }
 
 async function handleRegister(e) {
     e.preventDefault();
-    const name     = document.getElementById('regName').value.trim();
-    const email    = document.getElementById('regEmail').value.trim();
+    const name = document.getElementById('regName').value.trim();
+    const email = document.getElementById('regEmail').value.trim();
     const password = document.getElementById('regPassword').value;
-    const btn      = document.getElementById('regBtn');
+    const btn = document.getElementById('regBtn');
     btn.disabled = true; btn.textContent = 'A criar conta...';
-
     const { data, error } = await _supabase.auth.signUp({ email, password });
-
-    if (error) {
-        showMsg(error.message, 'error');
-        btn.disabled = false; btn.textContent = 'Criar conta';
-        return;
-    }
-
-    // Regista na tabela authors como pending
-    await _supabase.from('authors').insert([{
-        user_id: data.user.id,
-        email: email,
-        name: name,
-        status: 'pending'
-    }]);
-
-    showMsg('✅ Conta criada! Aguarde a aprovação do administrador antes de entrar.', 'success');
+    if (error) { showMsg(error.message, 'error'); btn.disabled = false; btn.textContent = 'Criar conta'; return; }
+    await _supabase.from('authors').insert([{ user_id: data.user.id, email, name, status: 'pending' }]);
+    showMsg('✅ Conta criada! Aguarde aprovação.', 'success');
     btn.disabled = false; btn.textContent = 'Criar conta';
-    document.getElementById('regName').value = '';
-    document.getElementById('regEmail').value = '';
-    document.getElementById('regPassword').value = '';
+    ['regName','regEmail','regPassword'].forEach(id => document.getElementById(id).value = '');
 }
 
 async function handleLogout() {
     await _supabase.auth.signOut();
     document.getElementById('adminScreen').style.display = 'none';
     document.getElementById('loginScreen').style.display = 'flex';
-    currentUser = null;
-    GH_TOKEN_CACHED = null;
+    currentUser = null; GH_TOKEN_CACHED = null;
 }
 
 function showAdmin() {
     document.getElementById('loginScreen').style.display = 'none';
     document.getElementById('adminScreen').style.display = 'block';
     document.getElementById('userEmail').textContent = currentUser.email;
-    const isAdmin = ADMINS.includes(currentUser.email);
-    document.getElementById('userRole').textContent = isAdmin ? 'Admin' : 'Autor';
+    document.getElementById('userRole').textContent = ADMINS.includes(currentUser.email) ? 'Admin' : 'Autor';
 }
 
-// ── TABS ──────────────────────────────────────────────────────────────────
 function switchTab(tab) {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     document.getElementById(`tab-${tab}`).classList.add('active');
@@ -557,42 +454,30 @@ function switchTab(tab) {
     if (tab === 'articles') loadArticlesList();
 }
 
-// ── EDITOR MODE ───────────────────────────────────────────────────────────
 function switchMode(mode) {
     document.getElementById('mode-write').classList.toggle('active', mode === 'write');
     document.getElementById('mode-preview').classList.toggle('active', mode === 'preview');
-    const ta = document.getElementById('artContent');
-    const pv = document.getElementById('previewArea');
-    if (mode === 'preview') {
-        pv.innerHTML = simpleMarkdown(ta.value);
-        ta.style.display = 'none'; pv.style.display = 'block';
-    } else {
-        ta.style.display = 'block'; pv.style.display = 'none';
-    }
+    const ta = document.getElementById('artContent'), pv = document.getElementById('previewArea');
+    if (mode === 'preview') { pv.innerHTML = simpleMarkdown(ta.value); ta.style.display = 'none'; pv.style.display = 'block'; }
+    else { ta.style.display = 'block'; pv.style.display = 'none'; }
 }
 
 function simpleMarkdown(md) {
+    md = md.replace(/\[video\]\((.+?)\)/g, (match, url) => {
+        const embed = getVideoEmbedUrl(url);
+        return embed ? `<div class="video-embed"><iframe src="${embed}" allowfullscreen></iframe></div>` : `<a href="${url}" style="color:#ea8e80">${url}</a>`;
+    });
     return md
-        .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-        .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-        .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*(.+?)\*/g, '<em>$1</em>')
-        .replace(/~~(.+?)~~/g, '<del>$1</del>')
-        .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" style="color:#ea8e80">$1</a>')
-        .replace(/!\[(.+?)\]\((.+?)\)/g, '<img src="$2" alt="$1">')
-        .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
-        .replace(/^- (.+)$/gm, '<li>$1</li>')
-        .replace(/^\d+\. (.+)$/gm, '<li>$1</li>')
-        .replace(/^---$/gm, '<hr>')
-        .replace(/\n\n/g, '</p><p>');
+        .replace(/^### (.+)$/gm,'<h3>$1</h3>').replace(/^## (.+)$/gm,'<h2>$1</h2>').replace(/^# (.+)$/gm,'<h1>$1</h1>')
+        .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<em>$1</em>').replace(/~~(.+?)~~/g,'<del>$1</del>')
+        .replace(/\[(.+?)\]\((.+?)\)/g,'<a href="$2" style="color:#ea8e80">$1</a>').replace(/!\[(.+?)\]\((.+?)\)/g,'<img src="$2" alt="$1">')
+        .replace(/^> (.+)$/gm,'<blockquote>$1</blockquote>').replace(/^- (.+)$/gm,'<li>$1</li>').replace(/^\d+\. (.+)$/gm,'<li>$1</li>')
+        .replace(/^---$/gm,'<hr>').replace(/\n\n/g,'</p><p>');
 }
 
-// ── TOOLBAR ───────────────────────────────────────────────────────────────
 function fmt(type) {
     const ta = document.getElementById('artContent');
-    const start = ta.selectionStart, end = ta.selectionEnd;
-    const sel = ta.value.substring(start, end);
+    const start = ta.selectionStart, end = ta.selectionEnd, sel = ta.value.substring(start, end);
     let r = '';
     switch(type) {
         case 'bold':   r = `**${sel||'texto em negrito'}**`; break;
@@ -610,92 +495,80 @@ function fmt(type) {
             break;
     }
     ta.value = ta.value.substring(0, start) + r + ta.value.substring(end);
-    ta.focus();
-    ta.selectionStart = ta.selectionEnd = start + r.length;
+    ta.focus(); ta.selectionStart = ta.selectionEnd = start + r.length;
 }
 
-// ── IMAGE UPLOAD ──────────────────────────────────────────────────────────
-function triggerImageUpload() {
-    document.getElementById('imageInput').click();
+/* VIDEO EMBED */
+function openVideoModal() {
+    document.getElementById('videoUrlInput').value = '';
+    document.getElementById('videoModal').style.display = 'flex';
+    setTimeout(() => document.getElementById('videoUrlInput').focus(), 80);
 }
+function closeVideoModal() { document.getElementById('videoModal').style.display = 'none'; }
+function getVideoEmbedUrl(url) {
+    const yt = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/);
+    if (yt) return `https://www.youtube.com/embed/${yt[1]}`;
+    const vi = url.match(/vimeo\.com\/(\d+)/);
+    if (vi) return `https://player.vimeo.com/video/${vi[1]}`;
+    if (url.includes('/embed/') || url.includes('player.vimeo')) return url;
+    return null;
+}
+function confirmVideoEmbed() {
+    const url = document.getElementById('videoUrlInput').value.trim();
+    if (!url) { showToast('Insira um URL de vídeo válido.', 'error'); return; }
+    const ta = document.getElementById('artContent'), pos = ta.selectionStart;
+    const md = `\n[video](${url})\n`;
+    ta.value = ta.value.substring(0, pos) + md + ta.value.substring(pos);
+    ta.focus(); ta.selectionStart = ta.selectionEnd = pos + md.length;
+    closeVideoModal(); showToast('🎬 Vídeo inserido no artigo', 'success');
+}
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeVideoModal();
+    if (e.key === 'Enter' && document.getElementById('videoModal').style.display === 'flex') { e.preventDefault(); confirmVideoEmbed(); }
+});
 
+/* IMAGE UPLOAD */
 async function uploadImage(input) {
-    const file = input.files[0];
-    if (!file) return;
-    const statusEl = document.getElementById('imgUploadStatus');
-    statusEl.style.display = 'block';
-    statusEl.textContent = '⏳ A carregar imagem...';
-    showToast('A carregar imagem...', 'info');
-
+    const file = input.files[0]; if (!file) return;
+    showToast('⏳ A carregar imagem...', 'info');
     const token = await getToken();
     const reader = new FileReader();
     reader.onload = async function(e) {
         const base64 = e.target.result.split(',')[1];
-        const filename = `${Date.now()}-${file.name.replace(/\s/g, '-')}`;
-        const filepath = `imagens/${filename}`;
+        const filename = `${Date.now()}-${file.name.replace(/\s/g,'-')}`;
         try {
-            const res = await fetch(`${GH_API}/contents/${filepath}`, {
-                method: 'PUT',
-                headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: `Imagem: ${filename}`, content: base64, branch: 'main' })
-            });
+            const res = await fetch(`${GH_API}/contents/imagens/${filename}`, { method:'PUT', headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json','Content-Type':'application/json'}, body:JSON.stringify({message:`Imagem: ${filename}`,content:base64,branch:'main'}) });
             if (!res.ok) throw new Error('Erro ao carregar');
-            const imageUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${filepath}`;
-            const ta = document.getElementById('artContent');
-            const pos = ta.selectionStart;
+            const imageUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/imagens/${filename}`;
+            const ta = document.getElementById('artContent'), pos = ta.selectionStart;
             const md = `\n![${file.name}](${imageUrl})\n`;
             ta.value = ta.value.substring(0, pos) + md + ta.value.substring(pos);
-            statusEl.textContent = '✅ Imagem inserida no artigo';
             showToast('✅ Imagem inserida!', 'success');
-        } catch(err) {
-            statusEl.textContent = '❌ Erro: ' + err.message;
-            showToast('❌ ' + err.message, 'error');
-        }
+        } catch(err) { showToast('❌ ' + err.message, 'error'); }
         input.value = '';
     };
     reader.readAsDataURL(file);
 }
 
-// ── SLUG ──────────────────────────────────────────────────────────────────
 function toggleSlugEdit() {
-    const input = document.getElementById('artSlug');
-    const isReadonly = input.hasAttribute('readonly');
-    if (isReadonly) {
-        input.removeAttribute('readonly');
-        input.style.background = 'var(--bg3)';
-        input.style.cursor = 'text';
-        input.style.opacity = '1';
-        input.focus();
-    } else {
-        input.setAttribute('readonly', true);
-        input.style.background = 'var(--bg4)';
-        input.style.cursor = 'default';
-        input.style.opacity = '.7';
-    }
+    const input = document.getElementById('artSlug'), isRO = input.hasAttribute('readonly');
+    if (isRO) { input.removeAttribute('readonly'); input.style.background='var(--bg3)'; input.style.cursor='text'; input.style.opacity='1'; input.focus(); }
+    else { input.setAttribute('readonly',true); input.style.background='var(--bg4)'; input.style.cursor='default'; input.style.opacity='.7'; }
 }
 
 function slugify(text) {
     return text.toLowerCase().trim()
-        .replace(/[áàãâä]/g, 'a').replace(/[éèêë]/g, 'e')
-        .replace(/[íìîï]/g, 'i').replace(/[óòõôö]/g, 'o')
-        .replace(/[úùûü]/g, 'u').replace(/[ç]/g, 'c')
-        .replace(/[ñ]/g, 'n').replace(/[^a-z0-9\s-]/g, '')
-        .replace(/\s+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+        .replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e').replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o').replace(/[úùûü]/g,'u').replace(/[ç]/g,'c').replace(/[ñ]/g,'n')
+        .replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
 }
 
-function updateSlug() {
-    const title = document.getElementById('artTitle').value;
-    document.getElementById('artSlug').value = slugify(title);
-    updateSlugPreview();
-}
-
+function updateSlug() { document.getElementById('artSlug').value = slugify(document.getElementById('artTitle').value); updateSlugPreview(); }
 function updateSlugPreview() {
     const date = document.getElementById('artDate').value || new Date().toISOString().split('T')[0];
     const slug = document.getElementById('artSlug').value || 'meu-artigo';
-    const cat  = document.getElementById('artCategory').value || 'news';
+    const cat  = document.getElementById('artCategory').value || 'global-affairs';
     document.getElementById('slugPreview').textContent = `artigos/${cat}/${date}-${slug}.md`;
 }
-
 function setStatus(s) {
     articleStatus = s;
     document.getElementById('status-publish').classList.toggle('active', s === 'publish');
@@ -703,259 +576,127 @@ function setStatus(s) {
     document.getElementById('publishLabel').textContent = s === 'publish' ? '🚀 Publicar no GitHub' : '📝 Salvar rascunho';
 }
 
-// ── PUBLISH ───────────────────────────────────────────────────────────────
 async function publishArticle() {
-    const title   = document.getElementById('artTitle').value.trim();
-    const content = document.getElementById('artContent').value.trim();
-    const date    = document.getElementById('artDate').value;
-    const cat     = document.getElementById('artCategory').value;
-    const author  = document.getElementById('artAuthor').value.trim() || 'Redação Duna Press';
-    const slug    = document.getElementById('artSlug').value.trim() || slugify(title);
-
-    if (!title)   { showToast('Adicione um título ao artigo.', 'error'); return; }
+    const title = document.getElementById('artTitle').value.trim(), content = document.getElementById('artContent').value.trim();
+    const date = document.getElementById('artDate').value, cat = document.getElementById('artCategory').value;
+    const author = document.getElementById('artAuthor').value.trim() || 'Redação Duna Press';
+    const slug = document.getElementById('artSlug').value.trim() || slugify(title);
+    if (!title) { showToast('Adicione um título ao artigo.', 'error'); return; }
     if (!content) { showToast('Escreva o conteúdo do artigo.', 'error'); return; }
-
     localStorage.setItem('duna_author', author);
     const token = await getToken();
-    if (!token) { showToast('Token GitHub não configurado. Contacte o administrador.', 'error'); return; }
-
+    if (!token) { showToast('Token GitHub não configurado.', 'error'); return; }
     const filepath = `artigos/${cat}/${date}-${slug}.md`;
     const tags = getTagsForFrontmatter();
-    const tagsFm = tags.length > 0 ? `\ntags:\n${tags.map(t=>'  - '+t).join('\n')}` : '';
-    const tagsMeta = tags.length > 0 ? `\nkeywords: "${tags.join(', ')}"` : '';
-    const frontmatter = `---\ntitle: "${title.replace(/"/g,"'")}"\ndate: ${date}\nstatus: ${articleStatus}\nauthor: ${author}\ncategories:\n  - ${cat}${tagsFm}${tagsMeta}\n---\n\n${content}`;
-    const encoded = btoa(unescape(encodeURIComponent(frontmatter)));
-
+    const tagsFm = tags.length ? `\ntags:\n${tags.map(t=>'  - '+t).join('\n')}` : '';
+    const tagsMeta = tags.length ? `\nkeywords: "${tags.join(', ')}"` : '';
+    const fm = `---\ntitle: "${title.replace(/"/g,"'")}"\ndate: ${date}\nstatus: ${articleStatus}\nauthor: ${author}\ncategories:\n  - ${cat}${tagsFm}${tagsMeta}\n---\n\n${content}`;
+    const encoded = btoa(unescape(encodeURIComponent(fm)));
     document.getElementById('publishBtn').disabled = true;
     document.getElementById('publishLabel').style.display = 'none';
     document.getElementById('publishSpinner').style.display = 'inline-block';
-
     try {
         let sha = null;
-        const checkRes = await fetch(`${GH_API}/contents/${filepath}`, {
-            headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' }
-        });
-        if (checkRes.ok) sha = (await checkRes.json()).sha;
-
-        const body = { message: `${articleStatus === 'publish' ? 'Publica' : 'Rascunho'}: ${title}`, content: encoded, branch: 'main' };
+        const chk = await fetch(`${GH_API}/contents/${filepath}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
+        if (chk.ok) sha = (await chk.json()).sha;
+        const body = { message:`${articleStatus==='publish'?'Publica':'Rascunho'}: ${title}`, content:encoded, branch:'main' };
         if (sha) body.sha = sha;
-
-        const res = await fetch(`${GH_API}/contents/${filepath}`, {
-            method: 'PUT',
-            headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
-            body: JSON.stringify(body)
-        });
+        const res = await fetch(`${GH_API}/contents/${filepath}`, { method:'PUT', headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json','Content-Type':'application/json'}, body:JSON.stringify(body) });
         if (!res.ok) throw new Error((await res.json()).message || 'Erro ao publicar');
-
         showToast(`✅ Publicado em ${filepath}`, 'success');
         localStorage.removeItem('duna_draft');
-        document.getElementById('artTitle').value = '';
-        document.getElementById('artContent').value = '';
-        document.getElementById('artSlug').value = '';
+        ['artTitle','artContent','artSlug'].forEach(id => document.getElementById(id).value = '');
         document.getElementById('artDate').value = new Date().toISOString().split('T')[0];
-        document.getElementById('imgUploadStatus').style.display = 'none';
-        updateSlugPreview();
-        resetTags();
-    } catch(e) {
-        showToast(`❌ Erro: ${e.message}`, 'error');
-    } finally {
+        updateSlugPreview(); resetTags();
+    } catch(e) { showToast(`❌ Erro: ${e.message}`, 'error'); }
+    finally {
         document.getElementById('publishBtn').disabled = false;
         document.getElementById('publishLabel').style.display = 'inline';
         document.getElementById('publishSpinner').style.display = 'none';
     }
 }
 
-// ── DRAFT ─────────────────────────────────────────────────────────────────
 function saveAsDraft() {
-    localStorage.setItem('duna_draft', JSON.stringify({
-        title:   document.getElementById('artTitle').value,
-        content: document.getElementById('artContent').value,
-        date:    document.getElementById('artDate').value,
-        cat:     document.getElementById('artCategory').value,
-        author:  document.getElementById('artAuthor').value,
-        slug:    document.getElementById('artSlug').value,
-        tags:    getTagsForFrontmatter(),
-        savedAt: new Date().toISOString()
-    }));
+    localStorage.setItem('duna_draft', JSON.stringify({ title:document.getElementById('artTitle').value, content:document.getElementById('artContent').value, date:document.getElementById('artDate').value, cat:document.getElementById('artCategory').value, author:document.getElementById('artAuthor').value, slug:document.getElementById('artSlug').value, tags:getTagsForFrontmatter(), savedAt:new Date().toISOString() }));
     showToast('📝 Rascunho salvo localmente', 'info');
 }
 
-// ── ARTICLES LIST ─────────────────────────────────────────────────────────
 async function loadArticlesList() {
     const container = document.getElementById('articlesListContainer');
     container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
     const token = await getToken();
-    const headers = token ? { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' } : { 'Accept': 'application/vnd.github+json' };
+    const headers = token ? {'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} : {'Accept':'application/vnd.github+json'};
     try {
         const res = await fetch(`${GH_API}/contents/artigos`, { headers });
         if (!res.ok) throw new Error();
         const cats = (await res.json()).filter(i => i.type === 'dir');
-        const results = await Promise.all(cats.slice(0, 10).map(async cat => {
+        const results = await Promise.all(cats.slice(0,10).map(async cat => {
             try {
                 const r = await fetch(cat.url, { headers });
                 if (!r.ok) return [];
-                return (await r.json()).filter(f => f.name.endsWith('.md')).map(f => ({
-                    name: f.name, path: f.path, category: cat.name, sha: f.sha,
-                    date: (f.name.match(/^(\d{4}-\d{2}-\d{2})/) || [])[1] || '',
-                    title: f.name.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace('.md', '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-                }));
+                return (await r.json()).filter(f => f.name.endsWith('.md')).map(f => ({ name:f.name, path:f.path, category:cat.name, sha:f.sha, date:(f.name.match(/^(\d{4}-\d{2}-\d{2})/)||[])[1]||'', title:f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','').replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()) }));
             } catch(e) { return []; }
         }));
-        allLoadedArticles = results.flat().sort((a, b) => b.date.localeCompare(a.date));
+        allLoadedArticles = results.flat().sort((a,b) => b.date.localeCompare(a.date));
         renderArticlesList(allLoadedArticles);
-    } catch(e) {
-        container.innerHTML = `<div class="empty-state"><p>Erro ao carregar artigos.</p></div>`;
-    }
+    } catch(e) { container.innerHTML = `<div class="empty-state"><p>Erro ao carregar artigos.</p></div>`; }
 }
 
-const catClassMap = { 'politics-and-society':'cat-politics','global-economy':'cat-economy','science':'cat-science','technology':'cat-technology','health':'cat-health','opinion':'cat-opinion','news':'cat-news' };
-const catLabelMap = { 'politics-and-society':'Política','global-economy':'Economia','science':'Ciência','technology':'Tecnologia','health':'Saúde','opinion':'Opinião','news':'Notícias','international-relations':'Int. Relations','international-politics':'Int. Politics','history':'História','education':'Educação','environment':'Ambiente','geopolitics':'Geopolítica' };
+const catClassMap = { 'politics-and-society':'cat-politics','global-economy':'cat-economy','science':'cat-science','technology':'cat-technology','health':'cat-health','opinion':'cat-opinion','global-affairs':'cat-global-affairs' };
+const catLabelMap = { 'politics-and-society':'Política','global-economy':'Economia','science':'Ciência','technology':'Tecnologia','health':'Saúde','opinion':'Opinião','global-affairs':'Global Affairs','international-relations':'Int. Relations','international-politics':'Int. Politics','history':'História','education':'Educação','environment':'Ambiente','geopolitics':'Geopolítica','culture-and-history':'Cultura & História' };
 
 function renderArticlesList(articles) {
     const container = document.getElementById('articlesListContainer');
     if (!articles.length) { container.innerHTML = `<div class="empty-state"><p>Nenhum artigo encontrado.</p></div>`; return; }
-    container.innerHTML = `
-        <div class="articles-table">
-            <div class="table-head"><div>Título</div><div>Categoria</div><div>Data</div><div>Status</div><div>Ações</div></div>
-            ${articles.map(art => `
-            <div class="table-row">
-                <div class="table-row-title" title="${art.title}">${art.title}</div>
-                <div><span class="cat-pill ${catClassMap[art.category]||'cat-default'}">${catLabelMap[art.category]||art.category}</span></div>
-                <div class="table-row-date">${art.date||'—'}</div>
-                <div><span class="status-published">Publicado</span></div>
-                <div class="table-actions">
-                    <button class="act-btn" onclick="viewArticle('${art.path}')">Ver</button>
-                    <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button>
-                </div>
-            </div>`).join('')}
-        </div>
-        <div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${articles.length} artigos</div>`;
+    container.innerHTML = `<div class="articles-table"><div class="table-head"><div>Título</div><div>Categoria</div><div>Data</div><div>Status</div><div>Ações</div></div>${articles.map(art=>`<div class="table-row"><div class="table-row-title" title="${art.title}">${art.title}</div><div><span class="cat-pill ${catClassMap[art.category]||'cat-default'}">${catLabelMap[art.category]||art.category}</span></div><div class="table-row-date">${art.date||'—'}</div><div><span class="status-published">Publicado</span></div><div class="table-actions"><button class="act-btn" onclick="viewArticle('${art.path}')">Ver</button><button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button></div></div>`).join('')}</div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${articles.length} artigos</div>`;
 }
 
-function filterArticlesList(q) {
-    renderArticlesList(q ? allLoadedArticles.filter(a => a.title.toLowerCase().includes(q.toLowerCase()) || a.category.toLowerCase().includes(q.toLowerCase())) : allLoadedArticles);
-}
-
-function viewArticle(path) {
-    window.open(`https://app-algoritmo.github.io/dunapressjr/artigo.html?file=/${path}`, '_blank');
-}
+function filterArticlesList(q) { renderArticlesList(q ? allLoadedArticles.filter(a => a.title.toLowerCase().includes(q.toLowerCase())||a.category.toLowerCase().includes(q.toLowerCase())) : allLoadedArticles); }
+function viewArticle(path) { window.open(`https://app-algoritmo.github.io/dunapressjr/artigo.html?file=/${path}`,'_blank'); }
 
 async function editArticle(path, sha) {
-    const token = await getToken();
-    showToast('Carregando artigo...', 'info');
+    const token = await getToken(); showToast('Carregando artigo...','info');
     try {
-        const res = await fetch(`${GH_API}/contents/${path}`, { headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' } });
+        const res = await fetch(`${GH_API}/contents/${path}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
         const data = await res.json();
         const raw = decodeURIComponent(escape(atob(data.content)));
         const fm = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
         if (fm) {
             const block = fm[1], content = fm[2];
-            const tM = block.match(/^title:\s*["']?(.*?)["']?\s*$/m);
-            const dM = block.match(/^date:\s*(.+)\s*$/m);
-            const aM = block.match(/^author:\s*(.+)\s*$/m);
-            const cM = block.match(/^  - (.+)\s*$/m);
-            document.getElementById('artTitle').value   = tM ? tM[1].replace(/^["']|["']$/g, '') : '';
+            const tM = block.match(/^title:\s*["']?(.*?)["']?\s*$/m), dM = block.match(/^date:\s*(.+)\s*$/m), aM = block.match(/^author:\s*(.+)\s*$/m), cM = block.match(/^  - (.+)\s*$/m);
+            document.getElementById('artTitle').value   = tM ? tM[1].replace(/^["']|["']$/g,'') : '';
             document.getElementById('artContent').value = content.trim();
             document.getElementById('artDate').value    = dM ? dM[1].trim() : '';
             document.getElementById('artAuthor').value  = aM ? aM[1].trim() : '';
-            if (cM) { const sel = document.getElementById('artCategory'); const opt = Array.from(sel.options).find(o => o.value === cM[1].trim()); if (opt) sel.value = opt.value; }
+            if (cM) { const sel = document.getElementById('artCategory'); const opt = Array.from(sel.options).find(o=>o.value===cM[1].trim()); if(opt) sel.value=opt.value; }
         }
-        const fname = path.split('/').pop().replace('.md', '').replace(/^\d{4}-\d{2}-\d{2}-/, '');
-        document.getElementById('artSlug').value = fname;
-        updateSlugPreview();
-        switchTab('editor');
-        showToast('✓ Artigo carregado para edição', 'success');
-    } catch(e) { showToast(`Erro: ${e.message}`, 'error'); }
+        document.getElementById('artSlug').value = path.split('/').pop().replace('.md','').replace(/^\d{4}-\d{2}-\d{2}-/,'');
+        updateSlugPreview(); switchTab('editor'); showToast('✓ Artigo carregado para edição','success');
+    } catch(e) { showToast(`Erro: ${e.message}`,'error'); }
 }
 
-// ── TOAST ─────────────────────────────────────────────────────────────────
 let toastTimer;
-function showToast(msg, type = 'info') {
+function showToast(msg, type='info') {
     clearTimeout(toastTimer);
     const inner = document.getElementById('toastInner');
-    inner.className = `toast-inner toast-${type}`;
-    inner.textContent = msg;
+    inner.className = `toast-inner toast-${type}`; inner.textContent = msg;
     document.getElementById('toast').classList.add('show');
     toastTimer = setTimeout(() => document.getElementById('toast').classList.remove('show'), 4000);
 }
 
-// Auto-save draft every 30s
-setInterval(() => {
-    if (document.getElementById('artTitle')?.value || document.getElementById('artContent')?.value) saveAsDraft();
-}, 30000);
-    // ── TAGS SEO ──────────────────────────────────────────────────────────────
-const tagValues = ['', '', ''];
+setInterval(() => { if (document.getElementById('artTitle')?.value || document.getElementById('artContent')?.value) saveAsDraft(); }, 30000);
 
-function slugifyTag(text) {
-    return text.toLowerCase().trim()
-        .replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e')
-        .replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o')
-        .replace(/[úùûü]/g,'u').replace(/[ç]/g,'c')
-        .replace(/[ñ]/g,'n').replace(/[^a-z0-9\s-]/g,'')
-        .replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
-}
-
-function handleTagInput(i) {
-    const input = document.getElementById('tagInput' + i);
-    // Força lowercase em tempo real enquanto digita
-    const pos = input.selectionStart;
-    input.value = input.value.toLowerCase();
-    input.setSelectionRange(pos, pos);
-}
-
-function confirmTag(i) {
-    const input = document.getElementById('tagInput' + i);
-    const raw = input.value.trim();
-    if (!raw) { tagValues[i] = ''; renderTagPills(); return; }
-    const slug = slugifyTag(raw);
-    tagValues[i] = slug;
-    input.value = slug;
-    renderTagPills();
-}
-
-function tagKeydown(e, i) {
-    if (e.key === 'Enter' || e.key === 'Tab') {
-        e.preventDefault();
-        confirmTag(i);
-        // Foca o próximo campo se existir
-        if (i < 2) document.getElementById('tagInput' + (i + 1)).focus();
-    }
-}
-
-function editTag(i) {
-    const input = document.getElementById('tagInput' + i);
-    input.removeAttribute('readonly');
-    input.focus();
-    input.select();
-}
-
-function renderTagPills() {
-    const row = document.getElementById('tagPillRow');
-    const active = tagValues.filter(t => t.length > 0);
-    if (!active.length) { row.innerHTML = ''; row.style.marginTop = '0'; return; }
-    row.style.marginTop = '4px';
-    row.innerHTML = active.map((t, idx) =>
-        `<span class="tag-pill">
-            #${t}
-            <button class="tag-pill-edit" onclick="editTagByValue('${t}')" title="Editar">✏️</button>
-        </span>`
-    ).join('');
-}
-
-function editTagByValue(val) {
-    const i = tagValues.indexOf(val);
-    if (i >= 0) editTag(i);
-}
-
-function getTagsForFrontmatter() {
-    return tagValues.filter(t => t.length > 0);
-}
-
-function resetTags() {
-    tagValues.fill('');
-    for (let i = 0; i < 3; i++) document.getElementById('tagInput' + i).value = '';
-    renderTagPills();
-}
+/* TAGS SEO */
+const tagValues = ['','',''];
+function slugifyTag(text) { return text.toLowerCase().trim().replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e').replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o').replace(/[úùûü]/g,'u').replace(/[ç]/g,'c').replace(/[ñ]/g,'n').replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,''); }
+function handleTagInput(i) { const inp=document.getElementById('tagInput'+i),pos=inp.selectionStart; inp.value=inp.value.toLowerCase(); inp.setSelectionRange(pos,pos); }
+function confirmTag(i) { const inp=document.getElementById('tagInput'+i),raw=inp.value.trim(); if(!raw){tagValues[i]='';renderTagPills();return;} const slug=slugifyTag(raw); tagValues[i]=slug; inp.value=slug; renderTagPills(); }
+function tagKeydown(e,i) { if(e.key==='Enter'||e.key==='Tab'){e.preventDefault();confirmTag(i);if(i<2)document.getElementById('tagInput'+(i+1)).focus();} }
+function editTag(i) { const inp=document.getElementById('tagInput'+i); inp.removeAttribute('readonly'); inp.focus(); inp.select(); }
+function renderTagPills() { const row=document.getElementById('tagPillRow'),active=tagValues.filter(t=>t.length>0); if(!active.length){row.innerHTML='';row.style.marginTop='0';return;} row.style.marginTop='4px'; row.innerHTML=active.map(t=>`<span class="tag-pill">#${t}<button class="tag-pill-edit" onclick="editTagByValue('${t}')" title="Editar">✏️</button></span>`).join(''); }
+function editTagByValue(val) { const i=tagValues.indexOf(val); if(i>=0)editTag(i); }
+function getTagsForFrontmatter() { return tagValues.filter(t=>t.length>0); }
+function resetTags() { tagValues.fill(''); for(let i=0;i<3;i++) document.getElementById('tagInput'+i).value=''; renderTagPills(); }
 </script>
 </body>
 </html>
