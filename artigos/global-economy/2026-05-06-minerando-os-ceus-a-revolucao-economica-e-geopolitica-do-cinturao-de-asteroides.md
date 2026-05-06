@@ -2,7 +2,7 @@
 title: "Minerando os Céus: A Revolução Econômica e Geopolítica do Cinturão de Asteroides"
 date: 2026-05-06
 status: publish
-author: Nazareth Fonseca
+author: Duna Press Redação
 categories:
   - global-economy
 tags:
