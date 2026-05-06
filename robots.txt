@@ -12,4 +12,4 @@ Allow: /dunapressjr/categoria.html
 Allow: /dunapressjr/artigos/
 
 # Sitemap
-Sitemap: https://app-algoritmo.github.io/dunapressjr/sitemap.xml
+Sitemap: https://dunapress.org/sitemap.xml
