@@ -2,14 +2,19 @@ User-agent: *
 Allow: /
 
 # Bloquear áreas administrativas
-Disallow: /dunapressjr/admin.html
-Disallow: /dunapressjr/admin/
+Disallow: /dunapress.org/admin.html
+Disallow: /dunapress.org/admin/
 
 # Permitir todos os artigos e páginas públicas
-Allow: /dunapressjr/
-Allow: /dunapressjr/artigo.html
-Allow: /dunapressjr/categoria.html
-Allow: /dunapressjr/artigos/
+Allow: /dunapress.org/
+Allow: /dunapress.org/artigo.html
+Allow: /dunapress.org/categoria.html
+Allow: /dunapress.org/artigos/
+Allow: /dunapress.org/privacy-policy
+Allow: /dunapress.org/terms-of-use.html
+Allow: /dunapress.org/cookie-notice.html
+Allow: /dunapress.org/escola.html
+Allow: /dunapress.org/biblioteca.html
 
 # Sitemap
 Sitemap: https://dunapress.org/sitemap.xml
