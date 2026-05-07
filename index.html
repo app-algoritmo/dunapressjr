@@ -31,207 +31,250 @@
   }
 </script>
     <style>
-  /* --- Banner de Cookies --- */
-  #cookie-banner {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 99999;
-    font-family: 'Inter', system-ui, sans-serif;
-    transform: translateY(100%);
-    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
-  }
+/* --- Banner de Cookies (Estilo Duna Press) --- */
+#cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 99999;
+  font-family: 'Inter', system-ui, sans-serif;
+  transform: translateY(100%);
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+  /* Efeito Glassmorphism para integrar ao fundo do site */
+  background: rgba(15, 23, 42, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(224, 101, 82, 0.3); /* Borda sutil Rust/Duna */
+  box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.5);
+}
 
-  #cookie-banner.visible {
-    transform: translateY(0);
-  }
+#cookie-banner.visible {
+  transform: translateY(0);
+}
 
+.cb-inner {
+  /* Fundo transparente pois o #cookie-banner já tem o fundo glass */
+  background: transparent; 
+  color: #e2e8f0;
+  padding: 20px 28px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.cb-text {
+  flex: 1;
+  min-width: 240px;
+}
+
+.cb-text strong {
+  display: block;
+  font-size: 14px;
+  /* Cor Duna Accent (Rust/Laranja queimado) */
+  color: #ea8e80; 
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+.cb-text p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #94a3b8;
+}
+
+.cb-text a {
+  /* Cor Duna Primária */
+  color: #e06552; 
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+
+.cb-text a:hover {
+  color: #ea8e80;
+}
+
+.cb-toggles {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cb-toggle-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #94a3b8;
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.2s;
+}
+
+.cb-toggle-item:hover {
+  color: #e2e8f0;
+}
+
+/* Toggle Switch Customizado */
+.cb-toggle-item input[type="checkbox"] {
+  appearance: none;
+  width: 36px;
+  height: 20px;
+  /* Fundo Slate Escuro */
+  background: #1e293b; 
+  border-radius: 20px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.25s;
+  flex-shrink: 0;
+  border: 1px solid #334155;
+}
+
+.cb-toggle-item input[type="checkbox"]:checked {
+  /* Gradiente Duna quando ativo */
+  background: linear-gradient(135deg, #e06552, #c94d3a);
+  border-color: #e06552;
+}
+
+.cb-toggle-item input[type="checkbox"]::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border-radius: 50%;
+  transition: left 0.25s;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.cb-toggle-item input[type="checkbox"]:checked::after {
+  left: 18px;
+}
+
+.cb-toggle-item.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.cb-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cb-btn {
+  padding: 9px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 12px;
+  font-family: inherit;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* Botão Aceitar - Gradiente Duna Principal */
+.cb-btn-accept {
+  background: linear-gradient(135deg, #e06552, #c94d3a);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(224, 101, 82, 0.25);
+}
+
+.cb-btn-accept:hover {
+  background: linear-gradient(135deg, #ea8e80, #e06552);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(224, 101, 82, 0.35);
+}
+
+/* Botão Salvar - Outline Duna */
+.cb-btn-save {
+  background: transparent;
+  color: #ea8e80;
+  border: 1px solid #e06552;
+}
+
+.cb-btn-save:hover {
+  background: rgba(224, 101, 82, 0.1);
+  color: #fff;
+  border-color: #ea8e80;
+}
+
+/* Botão Rejeitar - Subtle Slate */
+.cb-btn-reject {
+  background: transparent;
+  color: #64748b;
+  border: 1px solid #334155;
+  font-size: 11px;
+  padding: 8px 14px;
+}
+
+.cb-btn-reject:hover {
+  color: #94a3b8;
+  border-color: #475569;
+  background: rgba(255,255,255,0.03);
+}
+
+/* Link de preferências no rodapé */
+#cookie-prefs-link {
+  position: fixed;
+  bottom: 16px;
+  left: 16px;
+  z-index: 9998;
+  /* Fundo Slate Escuro com transparência */
+  background: rgba(15, 23, 42, 0.9);
+  border: 1px solid #334155;
+  color: #94a3b8;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 11px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  display: none;
+  transition: all 0.2s;
+  backdrop-filter: blur(4px);
+}
+
+#cookie-prefs-link:hover {
+  background: rgba(30, 41, 59, 0.9);
+  border-color: #e06552;
+  color: #e06552;
+}
+
+@media (max-width: 640px) {
   .cb-inner {
-    background: #0b2747;
-    border-top: 2px solid #0c87ec;
-    color: #e2e8f0;
-    padding: 20px 28px;
-    display: flex;
-    align-items: center;
-    gap: 24px;
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 18px;
+    gap: 16px;
   }
-
-  .cb-text {
-    flex: 1;
-    min-width: 240px;
-  }
-
-  .cb-text strong {
-    display: block;
-    font-size: 14px;
-    color: #36a5f8;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-  }
-
-  .cb-text p {
-    margin: 0;
-    font-size: 13px;
-    line-height: 1.6;
-    color: #94a3b8;
-  }
-
-  .cb-text a {
-    color: #36a5f8;
-    text-decoration: underline;
-    text-underline-offset: 2px;
-  }
-
-  .cb-toggles {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-
-  .cb-toggle-item {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 12px;
-    color: #94a3b8;
-    cursor: pointer;
-    user-select: none;
-  }
-
-  .cb-toggle-item input[type="checkbox"] {
-    appearance: none;
-    width: 36px;
-    height: 20px;
-    background: #0e3e6f;
-    border-radius: 20px;
-    cursor: pointer;
-    position: relative;
-    transition: background 0.25s;
-    flex-shrink: 0;
-    border: 1px solid #0557a3;
-  }
-
-  .cb-toggle-item input[type="checkbox"]:checked {
-    background: #0c87ec;
-    border-color: #0c87ec;
-  }
-
-  .cb-toggle-item input[type="checkbox"]::after {
-    content: '';
-    position: absolute;
-    top: 2px;
-    left: 2px;
-    width: 14px;
-    height: 14px;
-    background: #fff;
-    border-radius: 50%;
-    transition: left 0.25s;
-  }
-
-  .cb-toggle-item input[type="checkbox"]:checked::after {
-    left: 18px;
-  }
-
-  .cb-toggle-item.disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-  }
-
   .cb-actions {
-    display: flex;
-    gap: 10px;
-    align-items: center;
-    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
   }
-
-  .cb-btn {
-    padding: 9px 20px;
-    border: none;
-    border-radius: 6px;
-    font-size: 12px;
-    font-family: inherit;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.2s;
-    white-space: nowrap;
-  }
-
   .cb-btn-accept {
-    background: linear-gradient(135deg, #10b981, #0c87ec);
-    color: #fff;
-    font-weight: bold;
+    flex: 1;
   }
-
-  .cb-btn-accept:hover {
-    background: linear-gradient(135deg, #6ee7b7, #36a5f8);
+  .cb-btn-save, .cb-btn-reject {
+    flex: 1;
+    text-align: center;
   }
-
-  .cb-btn-save {
-    background: transparent;
-    color: #36a5f8;
-    border: 1px solid #0c87ec;
-  }
-
-  .cb-btn-save:hover {
-    background: rgba(12, 135, 236, 0.1);
-  }
-
-  .cb-btn-reject {
-    background: transparent;
-    color: #64748b;
-    border: 1px solid #0557a3;
-    font-size: 11px;
-    padding: 8px 14px;
-  }
-
-  .cb-btn-reject:hover {
-    color: #94a3b8;
-    border-color: #046cc9;
-  }
-
-  /* Link de preferências no rodapé */
-  #cookie-prefs-link {
-    position: fixed;
-    bottom: 16px;
-    left: 16px;
-    z-index: 9998;
-    background: #0b2747;
-    border: 1px solid #0c87ec;
-    color: #36a5f8;
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 11px;
-    padding: 6px 12px;
-    border-radius: 6px;
-    cursor: pointer;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    display: none;
-    transition: all 0.2s;
-  }
-
-  #cookie-prefs-link:hover {
-    background: rgba(12, 135, 236, 0.1);
-  }
-
-  @media (max-width: 640px) {
-    .cb-inner {
-      flex-direction: column;
-      align-items: flex-start;
-      padding: 16px 18px;
-      gap: 16px;
-    }
-    .cb-actions {
-      width: 100%;
-    }
-    .cb-btn-accept {
-      flex: 1;
-    }
-  }
+}
 </style>
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
