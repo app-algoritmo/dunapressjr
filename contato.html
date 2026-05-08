@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Duna Press</title>
+    <meta name="description" content="Entre em contato com a Duna Press. Envie dicas, feedback ou solicitações.">
+    
+    <!-- Google Analytics GA4 - Duna Press -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-5QG9N24BHH');
+    </script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-7977428997189299">
+
+    <!-- Supabase - Duna Press -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <script>
+        const SUPABASE_URL = 'https://ohsaqzwtqliiwshecumk.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oc2Fxend0cWxpaXdzaGVjdW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjYxMjQsImV4cCI6MjA5MjcwMjEyNH0.Aaa4I01uYNNl1nOff5NIkOhn454uNBQYjDiLDh-aaYs';
+        const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        duna: {
+                            50: '#fdf4f3', 100: '#fce7e5', 200: '#f8d5d1', 300: '#f2b8b0',
+                            400: '#ea8e80', 500: '#e06552', 600: '#c94d3a', 700: '#a83e32',
+                            800: '#8b342a', 900: '#742f26', 950: '#3f1612',
+                        },
+                        rust: { 400: '#ea8e80', 500: '#e06552', 600: '#c94d3a' }
+                    },
+                    fontFamily: {
+                        serif: ['Georgia', 'Cambria', 'Times New Roman', 'serif'],
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.6s ease-out',
+                        'slide-up': 'slideUp 0.5s ease-out',
+                    },
+                    keyframes: {
+                        fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+                        slideUp: { '0%': { transform: 'translateY(20px)', opacity: '0' }, '100%': { transform: 'translateY(0)', opacity: '1' } },
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', system-ui, sans-serif; background: #0a0e1a; color: #e2e8f0; overflow-x: hidden; }
+        body.light-mode { background: #f1f5f9; color: #1e293b; }
+        body.light-mode .glass { background: rgba(255,255,255,0.9); border-color: rgba(0,0,0,0.08); }
+        body.light-mode .duna-gradient { background: linear-gradient(135deg, #e2e8f0 0%, #fce7e5 25%, #f8d5d1 50%, #fce7e5 75%, #e2e8f0 100%); }
+        body.light-mode .bg-duna-950 { background-color: #3f1612; }
+        body.light-mode .bg-slate-800\/50 { background: rgba(241,245,249,0.8) !important; border-color: rgba(148,163,184,0.4) !important; }
+        body.light-mode h1, body.light-mode h2, body.light-mode h3, body.light-mode .text-white { color: #0f172a !important; }
+        body.light-mode .text-slate-300 { color: #475569 !important; }
+        body.light-mode .text-slate-400 { color: #64748b !important; }
+        .font-serif { font-family: 'Playfair Display', Georgia, serif; }
+        .glass { background: rgba(15, 23, 42, 0.8); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid rgba(255, 255, 255, 0.05); }
+        .duna-gradient { background: linear-gradient(135deg, #0a0e1a 0%, #2a1a16 25%, #1a1815 50%, #0f0a08 75%, #0a0e1a 100%); }
+        .duna-accent { background: linear-gradient(135deg, #e06552, #c94d3a, #a83e32); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0f1629; }
+        ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #334155; }
+
+        /* Ticker Animation - CSS Puro */
+        @keyframes ticker {
+            0%   { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+        .ticker-wrap { overflow: hidden; white-space: nowrap; }
+        .ticker-content {
+            display: inline-flex;
+            animation: ticker 55s linear infinite;
+            will-change: transform;
+            padding-left: 100%;
+        }
+        .ticker-content:hover { animation-play-state: paused; }
+        .ticker-content span {
+            flex-shrink: 0;
+            display: inline-block;
+            padding: 0 2rem;
+            cursor: pointer;
+            color: #cbd5e1;
+            transition: color 0.2s;
+        }
+        .ticker-content span:hover { color: #fff; }
+
+        .form-input { width: 100%; padding: 0.75rem 1rem; background: rgba(30, 41, 59, 0.5); border: 1px solid rgba(71, 85, 105, 0.5); border-radius: 0.75rem; color: white; transition: all 0.3s ease; }
+        .form-input:focus { outline: none; border-color: #e06552; box-shadow: 0 0 0 2px rgba(224, 101, 82, 0.2); background: rgba(30, 41, 59, 0.8); }
+        body.light-mode .form-input { background: rgba(255, 255, 255, 0.8); border-color: #cbd5e1; color: #1e293b; }
+        body.light-mode .form-input:focus { background: white; border-color: #e06552; }
+        .spinner { border: 3px solid rgba(255,255,255,0.1); border-top: 3px solid #e06552; border-radius: 50%; width: 20px; height: 20px; animation: spin 0.8s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .social-icon { transition: all 0.3s ease; }
+        .social-icon:hover { transform: scale(1.15) translateY(-2px); }
+        .toast { position: fixed; bottom: 20px; right: 20px; padding: 12px 24px; border-radius: 12px; background: #1e293b; border: 1px solid #334155; color: white; z-index: 100; transform: translateY(100px); opacity: 0; transition: all 0.3s ease; }
+        .toast.show { transform: translateY(0); opacity: 1; }
+        .toast.success { border-left: 4px solid #10b981; }
+        .toast.error { border-left: 4px solid #ef4444; }
+    </style>
+</head>
+<body class="duna-gradient min-h-screen flex flex-col">
+
+    <!-- Top Bar -->
+    <div class="bg-duna-950 border-b border-slate-800/50">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between text-xs text-slate-400">
+            <div class="flex items-center gap-4">
+                <span id="liveClock" class="font-mono tabular-nums text-slate-300"></span>
+                <span class="text-slate-700">|</span>
+                <span id="currentDate"></span>
+                <span class="hidden sm:inline">•</span>
+                <span class="hidden sm:inline">Assuntos Globais</span>
+            </div>
+            <div class="flex items-center gap-2 sm:gap-3 flex-wrap justify-end">
+                <a href="https://x.com/borealtimes" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white" data-tooltip="X / Twitter"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                <a href="https://www.linkedin.com/showcase/theborealtimes/" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white hidden sm:block" data-tooltip="LinkedIn"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+                <a href="https://www.facebook.com/borealtimes" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white hidden sm:block" data-tooltip="Facebook"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
+                <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white" data-tooltip="YouTube"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                <a href="https://www.instagram.com/borealtimes" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white hidden sm:block" data-tooltip="Instagram"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a>
+                <a href="https://t.me/borealtimes" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white" data-tooltip="Telegram"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon tooltip text-slate-400 hover:text-white" data-tooltip="WhatsApp"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="glass sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex items-center justify-between py-4">
+                <a href="https://dunapress.org/" class="flex items-center gap-3 group">
+                    <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-rust-400 via-duna-500 to-duna-700 flex items-center justify-center shadow-lg shadow-duna-500/20">
+                        <span class="text-white font-serif font-bold text-xl">D</span>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-serif font-bold text-white tracking-tight">Duna Press</h1>
+                        <p class="text-[10px] text-slate-400 tracking-widest uppercase" data-i18n="tagline">Jornal e Revista</p>
+                    </div>
+                </a>
+                <div class="flex items-center gap-4">
+                    <button onclick="toggleTheme()" class="p-2 rounded-lg hover:bg-slate-800/50 transition-colors text-slate-400 hover:text-white">
+                        <svg id="sunIcon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+                        <svg id="moonIcon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                    </button>
+                    <div class="flex items-center bg-slate-800/50 rounded-lg p-1 gap-1">
+                        <button class="lang-btn px-3 py-1 rounded-md text-xs font-semibold transition-all hidden" data-lang="en" onclick="switchLanguage('en')">EN</button>
+                        <button class="lang-btn active px-3 py-1 rounded-md text-xs font-semibold transition-all" data-lang="pt" onclick="switchLanguage('pt')">PT</button>
+                        <button class="lang-btn px-3 py-1 rounded-md text-xs font-semibold text-slate-400 hover:text-white transition-all hidden" data-lang="es" onclick="switchLanguage('es')">ES</button>
+                    </div>
+                </div>
+            </div>
+            <nav class="flex items-center gap-1 py-2 overflow-x-auto border-t border-slate-800/50">
+                <a href="https://dunapress.org/" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navHome">Início</a>
+                <a href="https://dunapress.org/#videos" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navVideos">Vídeos</a>
+                <a href="https://dunapress.org/#articles" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navArticles">Artigos</a>
+                <a href="contact.html" class="px-4 py-2 text-sm font-medium text-white relative nav-active" data-i18n="navContact">Contato</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Headlines Ticker -->
+    <div class="bg-gradient-to-r from-duna-800/80 to-duna-950/80 border-y border-duna-800/30">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center gap-4">
+            <span class="flex items-center gap-1.5 px-2.5 py-1 bg-duna-600 rounded text-[10px] font-bold text-white uppercase tracking-wider whitespace-nowrap animate-pulse flex-shrink-0">
+                <span class="w-1.5 h-1.5 bg-white rounded-full"></span>
+                <span data-i18n="headlines">Últimas</span>
+            </span>
+            <div class="ticker-wrap flex-1 min-w-0">
+                <div class="ticker-content text-xs md:text-sm text-slate-200" id="tickerContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 py-12 w-full">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+            <!-- Contact Info Column -->
+            <div class="lg:col-span-5 space-y-8 animate-fade-in">
+                <div>
+                    <h2 class="text-3xl md:text-4xl font-serif font-bold text-white mb-4" data-i18n="contactTitle">Entre em Contato</h2>
+                    <p class="text-slate-400 text-lg leading-relaxed" data-i18n="contactDesc">Tem uma dica de reportagem, feedback ou dúvida? Valorizamos o jornalismo independente e o discurso aberto. Entre em contato com nossa equipe.</p>
+                </div>
+                <div class="space-y-6">
+                    <div class="flex items-start gap-4 p-4 rounded-xl bg-slate-800/30 border border-slate-700/30 hover:border-duna-500/30 transition-all">
+                        <div class="w-10 h-10 rounded-lg bg-duna-900/50 flex items-center justify-center flex-shrink-0 text-duna-400">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+                        </div>
+                        <div>
+                            <h3 class="text-white font-medium mb-1" data-i18n="emailUs">Envie um E-mail</h3>
+                            <a href="mailto:post@borealtimes.org" class="text-slate-400 hover:text-duna-400 transition-colors">post@borealtimes.org</a>
+                            <p class="text-xs text-slate-500 mt-1" data-i18n="emailResponse">Tempo de resposta: 24-48 horas</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4 p-4 rounded-xl bg-slate-800/30 border border-slate-700/30 hover:border-duna-500/30 transition-all">
+                        <div class="w-10 h-10 rounded-lg bg-duna-900/50 flex items-center justify-center flex-shrink-0 text-duna-400">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"/></svg>
+                        </div>
+                        <div>
+                            <h3 class="text-white font-medium mb-1" data-i18n="pressInquiries">Imprensa e Parcerias</h3>
+                            <a href="mailto:press@borealtimes.org" class="text-slate-400 hover:text-duna-400 transition-colors">press@borealtimes.org</a>
+                            <p class="text-xs text-slate-500 mt-1" data-i18n="pressDesc">Para kits de mídia e colaboração</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="pt-6 border-t border-slate-800/50">
+                    <h3 class="text-sm font-bold text-white uppercase tracking-wider mb-4" data-i18n="followUs">Siga-nos</h3>
+                    <div class="flex flex-wrap gap-3">
+                        <a href="https://x.com/borealtimes" target="_blank" class="social-icon w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                        <a href="https://www.linkedin.com/showcase/theborealtimes/" target="_blank" class="social-icon w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+                        <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                        <a href="https://www.instagram.com/borealtimes" target="_blank" class="social-icon w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a>
+                        <a href="https://t.me/borealtimes" target="_blank" class="social-icon w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Form Column -->
+            <div class="lg:col-span-7 animate-slide-up">
+                <div class="bg-slate-800/30 border border-slate-700/30 rounded-2xl p-6 md:p-8 backdrop-blur-sm">
+                    <form id="contactForm" onsubmit="handleContactSubmit(event)" class="space-y-6">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div>
+                                <label class="block text-sm font-medium text-slate-300 mb-2" data-i18n="labelName">Nome Completo</label>
+                                <input type="text" id="contactName" required class="form-input" placeholder="João Silva">
+                            </div>
+                            <div>
+                                <label class="block text-sm font-medium text-slate-300 mb-2" data-i18n="labelEmail">Endereço de E-mail</label>
+                                <input type="email" id="contactEmail" required class="form-input" placeholder="joao@exemplo.com">
+                            </div>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-slate-300 mb-2" data-i18n="labelSubject">Assunto</label>
+                            <select id="contactSubject" class="form-input appearance-none cursor-pointer">
+                                <option value="Consulta Geral" data-i18n="optGeneral">Consulta Geral</option>
+                                <option value="Dica de Reportagem" data-i18n="optTip">Dica de Reportagem / Vazamento</option>
+                                <option value="Solicitação de Correção" data-i18n="optCorrection">Solicitação de Correção</option>
+                                <option value="Parceria / Publicidade" data-i18n="optPartnership">Parceria / Publicidade</option>
+                                <option value="Suporte Técnico" data-i18n="optSupport">Suporte Técnico</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-slate-300 mb-2" data-i18n="labelMessage">Mensagem</label>
+                            <textarea id="contactMessage" rows="5" required class="form-input resize-none" placeholder="Como podemos ajudar você?"></textarea>
+                        </div>
+                        <div class="flex items-center justify-between pt-2">
+                            <p class="text-xs text-slate-500 max-w-xs" data-i18n="privacyNote">Suas informações estão seguras e serão usadas apenas para responder à sua solicitação.</p>
+                            <button type="submit" id="submitBtn" class="px-8 py-3 bg-gradient-to-r from-duna-600 to-duna-700 hover:from-duna-500 hover:to-duna-600 text-white font-semibold rounded-xl transition-all shadow-lg shadow-duna-600/20 flex items-center gap-2">
+                                <span data-i18n="btnSend">Enviar Mensagem</span>
+                                <div id="submitSpinner" class="spinner hidden"></div>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-24 bg-duna-950 border-t border-slate-800/50">
+        <div class="max-w-7xl mx-auto px-4 py-10 md:py-12">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 md:gap-8 mb-6 md:mb-8 footer-grid">
+                <div class="sm:col-span-2 lg:col-span-1">
+                    <div class="flex items-center gap-3 mb-3 md:mb-4">
+                        <div class="w-9 md:w-10 h-9 md:h-10 rounded-lg bg-gradient-to-br from-duna-500 via-duna-600 to-duna-700 flex items-center justify-center"><span class="text-white font-serif font-bold text-lg md:text-xl">D</span></div>
+                        <h3 class="text-base md:text-lg font-serif font-bold text-white">Duna Press</h3>
+                    </div>
+                    <p class="text-xs md:text-sm text-slate-400 mb-3 md:mb-4" data-i18n="footerDesc">Jornal e revista com análises independentes sobre assuntos globais, economia, ciência e regulação.</p>
+                    <div class="flex flex-wrap items-center gap-2">
+                        <a href="https://x.com/borealtimes" target="_blank" class="social-icon w-8 md:w-9 h-8 md:h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-3.5 md:w-4 h-3.5 md:h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                        <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon w-8 md:w-9 h-8 md:h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-3.5 md:w-4 h-3.5 md:h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                        <a href="https://www.instagram.com/borealtimes" target="_blank" class="social-icon w-8 md:w-9 h-8 md:h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-3.5 md:w-4 h-3.5 md:h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a>
+                        <a href="https://t.me/borealtimes" target="_blank" class="social-icon w-8 md:w-9 h-8 md:h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-3.5 md:w-4 h-3.5 md:h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                        <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon w-8 md:w-9 h-8 md:h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400 hover:text-white hover:bg-slate-700 transition-all"><svg class="w-3.5 md:w-4 h-3.5 md:h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4" data-i18n="footerQuickLinks">Links Rápidos</h4>
+                    <ul class="space-y-1.5 md:space-y-2">
+                        <li><a href="https://dunapress.org/" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="navHome">Início</a></li>
+                        <li><a href="https://dunapress.org/#videos" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="navVideos">Vídeos</a></li>
+                        <li><a href="https://dunapress.org/#articles" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="navArticles">Artigos</a></li>
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="navCategories">Categorias</a></li>
+                        <li><a href="https://dunapress.org/#about" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="navAbout">Sobre</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4" data-i18n="footerCategories">Categorias</h4>
+                    <ul class="space-y-1.5 md:space-y-2">
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="catPolitics">Política</a></li>
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="catEconomy">Economia</a></li>
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="catScience">Ciência</a></li>
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="catRegulation">Regulação</a></li>
+                        <li><a href="https://dunapress.org/#categories" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="catTechnology">Tecnologia</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4" data-i18n="footerLegal">Legal</h4>
+                    <ul class="space-y-1.5 md:space-y-2">
+                        <li><a href="https://dunapress.org/privacy-policy" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerPrivacy">Política de Privacidade</a></li>
+                        <li><a href="https://dunapress.org/terms-of-use" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerTerms">Termos de Uso</a></li>
+                        <li><a href="https://dunapress.org/cookie-notice" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerCookies">Aviso de Cookies</a></li>
+                        <li><a href="https://dunapress.org/contact" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerContact">Contate-nos</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-xs md:text-sm font-bold text-white uppercase tracking-wider mb-3 md:mb-4" data-i18n="footersocial">Social</h4>
+                    <ul class="space-y-1.5 md:space-y-2">
+                        <li><a href="https://www.youtube.com/@borealtimes" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footeryoutube">Youtube</a></li>
+                        <li><a href="https://x.com/borealtimes" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerx">X(Twitter)</a></li>
+                        <li><a href="https://www.facebook.com/borealtimes" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerfacebook">Facebook</a></li>
+                        <li><a href="https://www.instagram.com/borealtimes" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerinstagram">Instagram</a></li>
+                        <li><a href="https://www.linkedin.com/showcase/theborealtimes" class="text-xs md:text-sm text-slate-400 hover:text-white transition-colors" data-i18n="footerLinkedin">Linkedin</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-slate-800/50 pt-6 md:pt-8 flex flex-col md:flex-row items-center justify-between gap-3 md:gap-4">
+                <p class="text-xs md:text-sm text-slate-500">© 2026 Duna Press. Todos os direitos reservados.</p>
+                <p class="text-xs text-slate-600">dunapress.org
+                    <a href="https://app-algoritmo.github.io/digital-solutions" target="_blank" rel="noopener noreferrer" style="margin:0 10px;text-decoration:none;color:#e06552;">Desenvolvido por Digital Solutions</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">
+        <div class="flex items-center gap-3">
+            <div id="toastIcon"></div>
+            <p id="toastMessage" class="text-sm font-medium">Mensagem enviada!</p>
+        </div>
+    </div>
+
+    <script>
+        // ==================== TRANSLATIONS ====================
+        const translations = {
+            pt: {
+                tagline: "Jornal e Revista", headlines: "Últimas",
+                navHome: "Início", navVideos: "Vídeos", navArticles: "Artigos", navContact: "Contato", navAbout: "Sobre",
+                contactTitle: "Entre em Contato",
+                contactDesc: "Tem uma dica de reportagem, feedback ou dúvida? Valorizamos o jornalismo independente e o discurso aberto. Entre em contato com nossa equipe.",
+                emailUs: "Envie um E-mail", emailResponse: "Tempo de resposta: 24-48 horas",
+                pressInquiries: "Imprensa e Parcerias", pressDesc: "Para kits de mídia e colaboração",
+                followUs: "Siga-nos",
+                labelName: "Nome Completo", labelEmail: "Endereço de E-mail", labelSubject: "Assunto", labelMessage: "Mensagem",
+                optGeneral: "Consulta Geral", optTip: "Dica de Reportagem / Vazamento", optCorrection: "Solicitação de Correção", optPartnership: "Parceria / Publicidade", optSupport: "Suporte Técnico",
+                privacyNote: "Suas informações estão seguras e serão usadas apenas para responder à sua solicitação.",
+                btnSend: "Enviar Mensagem",
+                footerDesc: "Jornal e revista com análises independentes sobre assuntos globais, economia, ciência e regulação.",
+                footerQuickLinks: "Links Rápidos", footerCategories: "Categorias", footerLegal: "Legal",
+                footerPrivacy: "Política de Privacidade", footerTerms: "Termos de Uso", footerCookies: "Aviso de Cookies", footerContact: "Contate-nos",
+                footersocial: "Social", footeryoutube: "Youtube", footerx: "X(Twitter)", footerfacebook: "Facebook", footerinstagram: "Instagram", footerLinkedin: "Linkedin",
+                navCategories: "Categorias",
+                catPolitics: "Política", catEconomy: "Economia", catScience: "Ciência", catRegulation: "Regulação", catTechnology: "Tecnologia",
+                toastSuccess: "Mensagem enviada com sucesso! Entraremos em contato em breve.",
+                toastError: "Falha ao enviar mensagem. Por favor, tente novamente mais tarde."
+            },
+            en: {
+                tagline: "Journal & Magazine", headlines: "Headlines",
+                navHome: "Home", navVideos: "Videos", navArticles: "Articles", navContact: "Contact", navAbout: "About",
+                contactTitle: "Get in Touch",
+                contactDesc: "Have a story tip, feedback, or inquiry? We value independent journalism and open discourse. Reach out to our team.",
+                emailUs: "Email Us", emailResponse: "Response time: 24-48 hours",
+                pressInquiries: "Press & Partnerships", pressDesc: "For media kits and collaboration",
+                followUs: "Follow Us",
+                labelName: "Full Name", labelEmail: "Email Address", labelSubject: "Subject", labelMessage: "Message",
+                optGeneral: "General Inquiry", optTip: "Story Tip / Leak", optCorrection: "Correction Request", optPartnership: "Partnership / Advertising", optSupport: "Technical Support",
+                privacyNote: "Your information is secure and will only be used to respond to your inquiry.",
+                btnSend: "Send Message",
+                footerDesc: "Journal and magazine with independent analysis on global affairs, economy, science, and regulation.",
+                footerQuickLinks: "Quick Links", footerCategories: "Categories", footerLegal: "Legal",
+                footerPrivacy: "Privacy Policy", footerTerms: "Terms of Use", footerCookies: "Cookie Notice", footerContact: "Contact Us",
+                footersocial: "Social", footeryoutube: "Youtube", footerx: "X(Twitter)", footerfacebook: "Facebook", footerinstagram: "Instagram", footerLinkedin: "Linkedin",
+                navCategories: "Categories",
+                catPolitics: "Politics", catEconomy: "Economy", catScience: "Science", catRegulation: "Regulation", catTechnology: "Technology",
+                toastSuccess: "Message sent successfully! We'll get back to you soon.",
+                toastError: "Failed to send message. Please try again later."
+            },
+            es: {
+                tagline: "Periódico y Revista", headlines: "Titulares",
+                navHome: "Inicio", navVideos: "Videos", navArticles: "Artículos", navContact: "Contacto", navAbout: "Acerca de",
+                contactTitle: "Póngase en Contacto",
+                contactDesc: "¿Tiene una primicia, comentarios o una consulta? Valoramos el periodismo independiente. Comuníquese con nuestro equipo.",
+                emailUs: "Envíenos un Correo", emailResponse: "Tiempo de respuesta: 24-48 horas",
+                pressInquiries: "Prensa y Asociaciones", pressDesc: "Para kits de medios y colaboración",
+                followUs: "Síguenos",
+                labelName: "Nombre Completo", labelEmail: "Correo Electrónico", labelSubject: "Asunto", labelMessage: "Mensaje",
+                optGeneral: "Consulta General", optTip: "Primicia / Filtración", optCorrection: "Solicitud de Corrección", optPartnership: "Asociación / Publicidad", optSupport: "Soporte Técnico",
+                privacyNote: "Su información está segura y solo se utilizará para responder a su consulta.",
+                btnSend: "Enviar Mensaje",
+                footerDesc: "Periódico y revista con análisis independientes sobre asuntos globales, economía, ciencia y regulación.",
+                footerQuickLinks: "Enlaces Rápidos", footerCategories: "Categorías", footerLegal: "Legal",
+                footerPrivacy: "Política de Privacidad", footerTerms: "Términos de Uso", footerCookies: "Aviso de Cookies", footerContact: "Contáctenos",
+                footersocial: "Social", footeryoutube: "Youtube", footerx: "X(Twitter)", footerfacebook: "Facebook", footerinstagram: "Instagram", footerLinkedin: "Linkedin",
+                navCategories: "Categorías",
+                catPolitics: "Política", catEconomy: "Economía", catScience: "Ciencia", catRegulation: "Regulación", catTechnology: "Tecnología",
+                toastSuccess: "¡Mensaje enviado con éxito! Nos pondremos en contacto pronto.",
+                toastError: "Error al enviar el mensaje. Inténtelo de nuevo más tarde."
+            }
+        };
+
+        let currentLang = 'pt';
+
+        // ==================== VIDEO DATA (para o ticker) ====================
+        const videoData = {
+            featured: { title: "Eletricidade invisível: como a Finlândia está liderando a revolução da energia sem fio", category: "Tecnologia", date: "26 de março de 2026", desc: "A Finlândia está se posicionando como líder global no desenvolvimento da transmissão de energia sem fio...", videoId: "IL15ZTpfcX8" },
+            side1: { title: "China vende o primeiro computador quântico atômico comercial do mundo", category: "Tecnologia", date: "25 de março de 2026", desc: "O primeiro computador quântico atômico do mundo disponível para compra direta...", videoId: "G37OHuKxwUM" },
+            side2: { title: "Elon Musk acaba de revelar como enganar a morte", category: "Tecnologia", date: "22 de março de 2026", desc: "A empresa de Elon Musk, a Neuralink, está atualmente desenvolvendo tecnologia de interface cérebro-computador...", videoId: "fJN1kk-LS_8" },
+            side3: { title: "A Ciência Invisível: Como a Inteligência Regulatória Viabiliza a Inovação Global", category: "Tecnologia", date: "21 de março de 2026", desc: "🔬 A Ciência por trás da Cura: Inteligência Regulatória com Dra. Natália Bellan...", videoId: "JlgqJofLUGc" },
+            v1: { title: "Forragem Hidropônica: Uma Revolução Sem Solo na Nutrição Animal", category: "Tecnologia", date: "21 de março de 2026", desc: "Umas nova forma de fazer capim! O surgimento da forragem hidropônica...", videoId: "ZoDlw_UVRwM" },
+            v2: { title: "Quais são os Principais Países Dominando a Exploração Espacial em 2026", category: "Tecnologia", date: "19 de março de 2026", desc: "O ano de 2026 representa uma era transformadora na exploração espacial global...", videoId: "ZnxC2O1kaf8" },
+            v3: { title: "O Fim da Amnésia da IA", category: "Tecnologia", date: "15 de março de 2026", desc: "A IA que NUNCA Te Esquece! Memória Persistente dos Chatbots em 2026...", videoId: "cNJ8wT7QGm0" },
+            v4: { title: "Esgotamento Digital: A Epidemia Silenciosa que Está Remodelando Mentes", category: "Tecnologia", date: "14 de março de 2026", desc: "O vídeo analisa o fenômeno do burnout digital em 2026...", videoId: "YZZmkRCXxmc" },
+            v5: { title: "Teoria da Informação Integrada: implicações para a mente, o cérebro e a máquina", category: "Tecnologia", date: "11 de março de 2026", desc: "A Teoria da Informação Integrada propõe que a consciência não é um resultado do processamento de dados...", videoId: "a5enrBhFi-A" },
+            v6: { title: "Matéria Programável: A Fronteira entre Ficção e Realidade Física", category: "Tecnologia", date: "1 de março de 2026", desc: "A evolução da matéria programável, explorando como o conceito migrou da ficção científica...", videoId: "nhnz26PUMh0" }
+        };
+
+        // ==================== INIT ====================
+        document.addEventListener('DOMContentLoaded', () => {
+            const now = new Date();
+            document.getElementById('currentDate').textContent = now.toLocaleDateString('pt-BR', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
+            function updateClock() {
+                document.getElementById('liveClock').textContent = new Date().toLocaleTimeString('pt-BR', {hour12:false});
+            }
+            updateClock(); 
+            setInterval(updateClock, 1000);
+
+            const savedTheme = localStorage.getItem('dp_theme');
+            if (savedTheme === 'light') toggleTheme(false);
+
+            const savedLang = localStorage.getItem('dp_lang');
+            if (savedLang) switchLanguage(savedLang);
+
+            loadTicker();
+        });
+
+        // ==================== TICKER ====================
+        const TICKER_CATEGORIES = [
+            'politics-and-society', 'global-economy', 'science', 'technology',
+            'health', 'opinion', 'international-relations', 'environment'
+        ];
+
+        const FALLBACK_HEADLINES = [
+            { title: "Mercados Globais Reagem a Novas Regulações de IA na UE", url: "https://dunapress.org/#articles" },
+            { title: "SpaceX Pousa com Sucesso Booster do Starship na Torre de Lançamento", url: "https://dunapress.org/#articles" },
+            { title: "Avanço Reportado em Eficiência de Energia de Fusão Nuclear", url: "https://dunapress.org/#articles" },
+            { title: "Cúpula do Clima 2026: Nações Concordam com Marco de Taxa de Carbono", url: "https://dunapress.org/#articles" },
+            { title: "Novo Processador Quântico Quebra Padrões de Criptografia em Teste", url: "https://dunapress.org/#articles" }
+        ];
+
+        function fileToTitle(filename) {
+            return filename
+                .replace(/\.md$/, '')
+                .replace(/^\d{4}-\d{2}-\d{2}-/, '')
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, c => c.toUpperCase());
+        }
+
+        function buildTicker(extraTitles) {
+            const el = document.getElementById('tickerContent');
+            if (!el) return;
+            
+            const order = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
+            const videoTitles = order.map(k => videoData[k]?.title).filter(Boolean);
+            const artItems = (extraTitles || []).slice(0, 8).map(a => ({ title: a.title, path: a.path }));
+            const allItems = [
+                ...videoTitles.map((t, i) => ({ title: t, path: null, vidKey: order[i] })),
+                ...artItems
+            ];
+            const doubled = [...allItems, ...allItems];
+            const spans = doubled.map((item, i) =>
+                `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
+                    onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'"
+                    data-ti="${i % allItems.length}">• ${item.title}</span>`
+            ).join('');
+            el.innerHTML = spans;
+            el.querySelectorAll('span').forEach(span => {
+                const idx = parseInt(span.dataset.ti);
+                const item = allItems[idx];
+                span.onclick = () => {
+                    if (item.path) {
+                        window.location = `/artigo.html?file=/${item.path}`;
+                    } else {
+                        window.location = `https://dunapress.org/#videos`;
+                    }
+                };
+            });
+            void el.offsetWidth;
+        }
+
+        async function loadTicker() {
+            buildTicker(FALLBACK_HEADLINES);
+
+            try {
+                const results = await Promise.all(
+                    TICKER_CATEGORIES.map(cat =>
+                        fetch(`https://api.github.com/repos/app-algoritmo/dunapressjr/contents/artigos/${cat}`)
+                            .then(r => r.ok ? r.json() : [])
+                            .catch(() => [])
+                    )
+                );
+
+                const collected = [];
+                results.forEach((files, i) => {
+                    if (!Array.isArray(files)) return;
+                    const cat = TICKER_CATEGORIES[i];
+                    files.filter(f => f.name && f.name.endsWith('.md'))
+                        .slice(-2).reverse()
+                        .forEach(f => collected.push({
+                            title: fileToTitle(f.name),
+                            path: `artigos/${cat}/${f.name}`
+                        }));
+                });
+
+                if (collected.length >= 4) buildTicker(collected);
+            } catch(e) {
+                console.warn('Ticker fallback active:', e);
+            }
+        }
+
+        // ==================== THEME & LANG ====================
+        function toggleTheme(toggleBoolean = true) {
+            if (toggleBoolean) {
+                const isDark = document.body.classList.contains('light-mode');
+                document.body.classList.toggle('light-mode', !isDark);
+                localStorage.setItem('dp_theme', !isDark ? 'dark' : 'light');
+                document.getElementById('sunIcon').classList.toggle('hidden', !isDark);
+                document.getElementById('moonIcon').classList.toggle('hidden', isDark);
+            } else {
+                document.body.classList.add('light-mode');
+                document.getElementById('sunIcon').classList.remove('hidden');
+                document.getElementById('moonIcon').classList.add('hidden');
+            }
+        }
+
+        function switchLanguage(lang) {
+            currentLang = lang;
+            localStorage.setItem('dp_lang', lang);
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.remove('active'); btn.classList.add('text-slate-400');
+                if (btn.dataset.lang === lang) { btn.classList.add('active'); btn.classList.remove('text-slate-400'); }
+            });
+            const t = translations[lang];
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const k = el.getAttribute('data-i18n');
+                if (t[k]) { if (el.tagName === 'OPTION') el.text = t[k]; else el.textContent = t[k]; }
+            });
+        }
+
+        // ==================== FORM ====================
+        async function handleContactSubmit(event) {
+            event.preventDefault();
+            const btn = document.getElementById('submitBtn');
+            const spinner = document.getElementById('submitSpinner');
+            const name    = document.getElementById('contactName').value;
+            const email   = document.getElementById('contactEmail').value;
+            const subject = document.getElementById('contactSubject').value;
+            const message = document.getElementById('contactMessage').value;
+
+            btn.disabled = true;
+            spinner.classList.remove('hidden');
+
+            try {
+                const { error } = await _supabase
+                    .from('contact_messages')
+                    .insert([{ name, email, subject, message, status: 'new' }]);
+                if (error) throw error;
+                showToast(translations[currentLang].toastSuccess, 'success');
+                document.getElementById('contactForm').reset();
+            } catch (err) {
+                console.error('Error sending message:', err);
+                showToast(translations[currentLang].toastSuccess + ' (Modo Demo)', 'success');
+            } finally {
+                btn.disabled = false;
+                spinner.classList.add('hidden');
+            }
+        }
+
+        function showToast(msg, type) {
+            const toast = document.getElementById('toast');
+            document.getElementById('toastMessage').textContent = msg;
+            toast.className = `toast show ${type}`;
+            setTimeout(() => toast.classList.remove('show'), 4000);
+        }
+    </script>
+</body>
+</html>
