@@ -2246,5 +2246,29 @@
     init();
   })();
 </script>
+    // Fallback para thumbnails do YouTube
+function fallbackYoutubeThumb(img) {
+    const parts = img.src.split('/');
+    const videoId = parts[4];
+    const qualities = ['sddefault', 'hqdefault', 'mqdefault', 'default'];
+    let tried = 0;
+    
+    function tryNext() {
+        if (tried >= qualities.length) {
+            img.src = 'https://via.placeholder.com/640x360/1e293b/94a3b8?text=Video+Indisponivel';
+            return;
+        }
+        const test = new Image();
+        test.onload = function() {
+            img.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
+        };
+        test.onerror = function() {
+            tried++;
+            tryNext();
+        };
+        test.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
+    }
+    tryNext();
+}
 </body>
 </html>
