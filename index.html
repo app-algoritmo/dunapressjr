@@ -2247,7 +2247,8 @@
   })();
 </script>
     // Fallback para thumbnails do YouTube
-function fallbackYoutubeThumb(img) {
+<script>
+    function fallbackYoutubeThumb(img) {
     const parts = img.src.split('/');
     const videoId = parts[4];
     const qualities = ['sddefault', 'hqdefault', 'mqdefault', 'default'];
@@ -2270,5 +2271,6 @@ function fallbackYoutubeThumb(img) {
     }
     tryNext();
 }
+</script>
 </body>
 </html>
