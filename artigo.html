@@ -673,6 +673,9 @@ function parseFrontmatter(raw){
         const tM=block.match(/^title:\s*["']?(.*?)["']?\s*$/m);if(tM)meta.title=tM[1].trim().replace(/^["']|["']$/g,'');
         const dM=block.match(/^date:\s*(.+)\s*$/m);if(dM)meta.date=dM[1].trim();
         const aM=block.match(/^author:\s*(.+)\s*$/m);if(aM)meta.author=aM[1].trim();
+        const fiM=block.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);if(fiM)meta.featuredImage=fiM[1].trim().replace(/^["']|["']$/g,'');
+        const fiAlt=block.match(/^featuredImageAlt:\s*["']?(.+?)["']?\s*$/m);if(fiAlt)meta.featuredImageAlt=fiAlt[1].trim().replace(/^["']|["']$/g,'');
+        const fiCap=block.match(/^featuredImageCaption:\s*["']?(.+?)["']?\s*$/m);if(fiCap)meta.featuredImageCaption=fiCap[1].trim().replace(/^["']|["']$/g,'');
         const cBlock=block.match(/^categories:\s*\n((?:[ \t]+-[ \t]*.+\n?)+)/m);
         if(cBlock){meta.categories=(cBlock[1].match(/[ \t]+-[ \t]*(.+)/g)||[]).map(l=>l.replace(/[ \t]+-[ \t]*/,'').trim());}
         else{const ci=block.match(/^categories:\s*\[(.+)\]/m);if(ci)meta.categories=ci[1].split(',').map(s=>s.trim());}
