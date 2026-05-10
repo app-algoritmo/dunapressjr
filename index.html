@@ -276,7 +276,22 @@
   }
 }
 </style>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5QG9N24BHH');
+</script>
     
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
+
+    <!-- Google Adsense verificação de Propriedade -->
+    <meta name="google-adsense-account" content="ca-pub-7977428997189299">
+
     <!-- ============================================================
          SUPABASE — ACTIVE AUTH INTEGRATION
          Project: Boreal Times | https://ohsaqzwtqliiwshecumk.supabase.co
@@ -297,7 +312,7 @@
         const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
     </script>
 
-    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -1044,8 +1059,11 @@
                     <button onclick="filterVideos('economy')" class="video-filter-btn px-3 md:px-4 py-1.5 md:py-2 rounded-lg text-xs md:text-sm font-medium text-slate-400 hover:text-white hover:bg-slate-800 transition-all whitespace-nowrap" data-filter="economy" data-i18n="filterEconomy">Economia</button>
                 </div>
             </div>
+
             <div id="videoGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+                
             </div>
+
             <div class="text-center mt-6 md:mt-8">
                 <button class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all" data-i18n="loadMore">Carregar Mais Vídeos</button>
             </div>
@@ -2164,37 +2182,29 @@
   })();
 </script>
     <script>
+    // Fallback para thumbnails do YouTube
     function fallbackYoutubeThumb(img) {
-    try {
-        const parts = img.src.split('/');
-        const videoId = parts[4];
-        if (!videoId || videoId.length < 8) {
-            img.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="640" height="360"%3E%3Crect fill="%231e293b" width="640" height="360"/%3E%3Ctext x="320" y="180" text-anchor="middle" fill="%2394a3b8" font-family="sans-serif" font-size="18"%3EVideo+Indisponivel%3C/text%3E%3C/svg%3E';
+    const parts = img.src.split('/');
+    const videoId = parts[4];
+    const qualities = ['sddefault', 'hqdefault', 'mqdefault', 'default'];
+    let tried = 0;
+    
+    function tryNext() {
+        if (tried >= qualities.length) {
+            img.src = 'https://via.placeholder.com/640x360/1e293b/94a3b8?text=Video+Indisponivel';
             return;
         }
-        
-        const qualities = ['sddefault', 'hqdefault', 'mqdefault', 'default'];
-        let tried = 0;
-        
-        function tryNext() {
-            if (tried >= qualities.length) {
-                img.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="640" height="360"%3E%3Crect fill="%231e293b" width="640" height="360"/%3E%3Ctext x="320" y="180" text-anchor="middle" fill="%2394a3b8" font-family="sans-serif" font-size="18"%3EVideo+Indisponivel%3C/text%3E%3C/svg%3E';
-                return;
-            }
-            const test = new Image();
-            test.onload = function() {
-                img.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
-            };
-            test.onerror = function() {
-                tried++;
-                tryNext();
-            };
-            test.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
-        }
-        tryNext();
-    } catch(e) {
-        console.error('Fallback error:', e);
+        const test = new Image();
+        test.onload = function() {
+            img.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
+        };
+        test.onerror = function() {
+            tried++;
+            tryNext();
+        };
+        test.src = 'https://img.youtube.com/vi/' + videoId + '/' + qualities[tried] + '.jpg';
     }
+    tryNext();
 }
         // Gerar cards de vídeo dinamicamente a partir do videoData
 function renderVideoCards() {
