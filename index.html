@@ -2271,7 +2271,16 @@ function renderVideoCards() {
 // Chamar após o DOM carregar
 document.addEventListener('DOMContentLoaded', function() {
   renderVideoCards();
-  // ... resto do código existente
+    window.addEventListener('scroll',updateProgress);
+    window.addEventListener('scroll',handleHeaderScroll);
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.addEventListener('click',function(){document.querySelectorAll('.nav-link').forEach(l=>l.classList.remove('nav-active'));this.classList.add('nav-active');});
+    });
+    document.addEventListener('click',(e)=>{
+        if(!e.target.closest('#shareWrapper')) closeShareDropdown();
+        const menu=document.getElementById('userMenu');
+        if(menu&&!e.target.closest('.group')) menu.classList.add('hidden');
+    });
 });
 </script>
 </body>
