@@ -2376,7 +2376,38 @@ function renderVideoCards() {
     </div>`;
   }).join('');
 }
+// Popular Hero Section com dados do videoData
+function renderHeroSection() {
+    // Featured
+    const featured = videoData.featured;
+    if (featured) {
+        document.getElementById('heroFeaturedImg').src = `https://img.youtube.com/vi/${featured.videoId}/maxresdefault.jpg`;
+        document.getElementById('heroFeaturedTitle').textContent = featured.title;
+        document.getElementById('heroFeaturedDesc').textContent = featured.desc;
+        document.getElementById('heroFeaturedBadge').textContent = featured.category === 'Technology' ? 'Tecnologia' : featured.category;
+        document.getElementById('heroFeaturedDate').textContent = new Date(featured.date).toLocaleDateString('pt-BR', {day: 'numeric', month: 'short', year: 'numeric'});
+    }
 
+    // Side videos
+    ['side1', 'side2', 'side3'].forEach((key, index) => {
+        const video = videoData[key];
+        const el = document.getElementById(`heroSide${index + 1}`);
+        if (video && el) {
+            el.querySelector('.hero-side-badge').textContent = video.category === 'Technology' ? 'Tecnologia' : video.category;
+            el.querySelector('.hero-side-title').textContent = video.title;
+            el.querySelector('.hero-side-meta').textContent = `${new Date(video.date).toLocaleDateString('pt-BR', {day: 'numeric', month: 'short'})}`;
+        }
+    });
+}
+
+// Chamar no DOMContentLoaded
+document.addEventListener('DOMContentLoaded', function() {
+    renderVideoCards();
+    renderHeroSection(); // <-- Adicionar esta linha
+    window.addEventListener('scroll',updateProgress);
+    window.addEventListener('scroll',handleHeaderScroll);
+    // ... resto do código
+});
 // Chamar após o DOM carregar
 document.addEventListener('DOMContentLoaded', function() {
   renderVideoCards();
