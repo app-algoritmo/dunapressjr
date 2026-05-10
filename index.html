@@ -2327,11 +2327,11 @@ function renderVideoCards() {
     return `
     <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="${video.category.toLowerCase()}">
       <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('${key}')">
-        <img src="https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg" 
-             alt="${video.title}" 
-             class="absolute inset-0 w-full h-full object-cover opacity-70" 
-             loading="lazy"
-             onerror="this.onerror=null;fallbackYoutubeThumb(this)">
+        <img src="https://img.youtube.com/vi/${video.videoId}/hqdefault.jpg"
+alt="${video.title}"
+class="absolute inset-0 w-full h-full object-cover opacity-70"
+loading="lazy"
+onerror="this.onerror=null; this.src='https://via.placeholder.com/480x360/1e293b/94a3b8?text=Video';">
         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
         <div class="absolute inset-0 flex items-center justify-center">
           <div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all">
