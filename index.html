@@ -2389,6 +2389,81 @@ document.addEventListener('DOMContentLoaded', function() {
         if(menu&&!e.target.closest('.group')) menu.classList.add('hidden');
     });
 });
+        // Função para carregar dados nos cards do Hero
+function loadHeroContent() {
+    // Verifica se os dados existem
+    if (!videoData) return;
+
+    // Mapeamento de categorias para classes de badge
+    const badgeMap = {
+        'Technology': 'badge-tech',
+        'Science': 'badge-science',
+        'Economy': 'badge-economy',
+        'Health': 'badge-politics'
+    };
+
+    const categoryLabels = {
+        'Technology': 'Tecnologia',
+        'Science': 'Ciência',
+        'Economy': 'Economia',
+        'Health': 'Saúde'
+    };
+
+    function formatDate(dateStr) {
+        const d = new Date(dateStr);
+        return d.toLocaleDateString('pt-BR', { day: 'numeric', month: 'short' });
+    }
+
+    function fillCard(key, data) {
+        if (!data) return;
+        
+        const badgeClass = badgeMap[data.category] || 'badge-tech';
+        const label = categoryLabels[data.category] || 'Geral';
+        const img = document.getElementById(`hero-${key}-img`);
+        
+        // Preenche Badge
+        const badgeEl = document.getElementById(`hero-${key}-badge`);
+        if(badgeEl) {
+            badgeEl.className = `${badgeClass} px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block`;
+            badgeEl.textContent = label;
+        }
+
+        // Preenche Título
+        const titleEl = document.getElementById(`hero-${key}-title`);
+        if(titleEl) titleEl.textContent = data.title;
+
+        // Preenche Meta/Data
+        const metaEl = document.getElementById(`hero-${key}-meta`);
+        if(metaEl) metaEl.textContent = formatDate(data.date);
+
+        // Preenche Imagem (apenas para o Featured)
+        if (key === 'featured' && img) {
+            img.src = `https://img.youtube.com/vi/${data.videoId}/hqdefault.jpg`;
+            img.onerror = function() { fallbackYoutubeThumb(this); };
+        }
+        
+        // Preenche Descrição (apenas para o Featured)
+        if (key === 'featured') {
+            const descEl = document.getElementById('hero-featured-desc');
+            if(descEl) descEl.textContent = data.desc;
+            
+            const dateEl = document.getElementById('hero-featured-date');
+            if(dateEl) dateEl.textContent = formatDate(data.date);
+        }
+    }
+
+    // Executa o preenchimento
+    fillCard('featured', videoData.featured);
+    fillCard('side1', videoData.side1);
+    fillCard('side2', videoData.side2);
+    fillCard('side3', videoData.side3);
+}
+
+// Adicione esta linha dentro do seu DOMContentLoaded existente ou no final do script:
+document.addEventListener('DOMContentLoaded', function() {
+    loadHeroContent(); // Chama a função de preenchimento
+    // ... outras funções existentes ...
+});
 </script>
 </body>
 </html>
