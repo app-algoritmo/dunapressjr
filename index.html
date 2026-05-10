@@ -899,9 +899,7 @@
         <!-- Featured Video -->
         <div class="lg:col-span-8 relative group cursor-pointer" onclick="openVideoModal('featured')">
             <div class="relative aspect-video rounded-xl md:rounded-2xl overflow-hidden bg-slate-800">
-                <!-- ADICIONADO ID: heroFeaturedImg -->
-                <img id="heroFeaturedImg" src="" alt="" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
-                
+                <img id="hero-featured-img" src="" alt="" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
                 <div class="absolute inset-0 bg-gradient-to-br from-duna-900 to-duna-800 flex items-center justify-center">
                     <div class="w-16 md:w-20 h-16 md:h-20 rounded-full bg-white/10 backdrop-blur flex items-center justify-center mx-auto group-hover:scale-110 transition-transform">
@@ -909,68 +907,61 @@
                     </div>
                 </div>
                 <div class="absolute bottom-0 left-0 right-0 p-4 md:p-6 z-20">
-                    <!-- ADICIONADO ID: heroFeaturedBadge -->
-                    <span id="heroFeaturedBadge" class="badge-tech px-2 md:px-3 py-1 rounded-full text-[10px] md:text-xs font-bold text-white mb-2 md:mb-3 inline-block">Carregando...</span>
-                    <!-- ADICIONADO ID: heroFeaturedTitle -->
-                    <h2 id="heroFeaturedTitle" class="hero-title text-xl md:text-3xl lg:text-4xl font-serif font-bold text-white mb-2 md:mb-3 leading-tight group-hover:text-duna-200 transition-colors"></h2>
-                    <!-- ADICIONADO ID: heroFeaturedDesc -->
-                    <p id="heroFeaturedDesc" class="text-slate-300 text-xs md:text-base line-clamp-2 mb-2 md:mb-3 hidden sm:block"></p>
+                    <span id="hero-featured-badge" class="badge-tech px-2 md:px-3 py-1 rounded-full text-[10px] md:text-xs font-bold text-white mb-2 md:mb-3 inline-block">Carregando...</span>
+                    <h2 id="hero-featured-title" class="hero-title text-xl md:text-3xl lg:text-4xl font-serif font-bold text-white mb-2 md:mb-3 leading-tight group-hover:text-duna-200 transition-colors">Carregando...</h2>
+                    <p id="hero-featured-desc" class="text-slate-300 text-xs md:text-base line-clamp-2 mb-2 md:mb-3 hidden sm:block">Carregando descrição...</p>
                     <div class="flex items-center gap-2 md:gap-4 text-xs md:text-sm text-slate-400">
-                        <span class="hidden sm:inline">Por <span class="text-white font-medium">Redação</span></span>
+                        <span class="hidden sm:inline">Por <span class="text-white font-medium">Duna Press</span></span>
                         <span class="hidden sm:inline">•</span>
-                        <!-- ADICIONADO ID: heroFeaturedDate -->
-                        <span id="heroFeaturedDate"></span>
+                        <span id="hero-featured-date">...</span>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- Side Videos (Mantidos com IDs para o loop do JS) -->
+        <!-- Side Videos -->
         <div class="lg:col-span-4 flex flex-col gap-3 md:gap-4 side-articles-mobile lg:side-articles-mobile-reset">
-            <div id="heroSide1" class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side1')">
+            <!-- Side 1 -->
+            <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side1')">
                 <div class="absolute inset-0 bg-gradient-to-br from-duna-900/40 to-duna-800/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
-                        <span class="hero-side-badge px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
-                        <h3 class="hero-side-title text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug"></h3>
+                        <span id="hero-side1-badge" class="badge-economy px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
+                        <h3 id="hero-side1-title" class="text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug">Carregando...</h3>
                     </div>
                     <div class="flex items-center justify-between mt-2 md:mt-3">
-                        <span class="hero-side-meta text-xs text-slate-400"></span>
-                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
-                            <svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                        </div>
+                        <span id="hero-side1-meta" class="text-xs text-slate-400">...</span>
+                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0"><svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
                     </div>
                 </div>
             </div>
 
-            <div id="heroSide2" class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side2')">
+            <!-- Side 2 -->
+            <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side2')">
                 <div class="absolute inset-0 bg-gradient-to-br from-duna-700/40 to-duna-900/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
-                        <span class="hero-side-badge px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
-                        <h3 class="hero-side-title text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug"></h3>
+                        <span id="hero-side2-badge" class="badge-politics px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
+                        <h3 id="hero-side2-title" class="text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug">Carregando...</h3>
                     </div>
                     <div class="flex items-center justify-between mt-2 md:mt-3">
-                        <span class="hero-side-meta text-xs text-slate-400"></span>
-                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
-                            <svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                        </div>
+                        <span id="hero-side2-meta" class="text-xs text-slate-400">...</span>
+                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0"><svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
                     </div>
                 </div>
             </div>
 
-            <div id="heroSide3" class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side3')">
+            <!-- Side 3 -->
+            <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side3')">
                 <div class="absolute inset-0 bg-gradient-to-br from-duna-600/40 to-duna-900/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
-                        <span class="hero-side-badge px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
-                        <h3 class="hero-side-title text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug"></h3>
+                        <span id="hero-side3-badge" class="badge-tech px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
+                        <h3 id="hero-side3-title" class="text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug">Carregando...</h3>
                     </div>
                     <div class="flex items-center justify-between mt-2 md:mt-3">
-                        <span class="hero-side-meta text-xs text-slate-400"></span>
-                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
-                            <svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                        </div>
+                        <span id="hero-side3-meta" class="text-xs text-slate-400">...</span>
+                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0"><svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
                     </div>
                 </div>
             </div>
