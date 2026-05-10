@@ -2277,6 +2277,73 @@
     }
     tryNext();
 }
+        // Gerar cards de vídeo dinamicamente a partir do videoData
+function renderVideoCards() {
+  const grid = document.getElementById('videoGrid');
+  if (!grid) return;
+  
+  const videos = ['v1', 'v2', 'v3', 'v4', 'v5', 'v6'];
+  
+  grid.innerHTML = videos.map(key => {
+    const video = videoData[key];
+    if (!video) return '';
+    
+    const categoryLabel = video.category === 'Technology' ? 'Tecnologia' : 
+                         video.category === 'Science' ? 'Ciência' : 
+                         video.category === 'Economy' ? 'Economia' : 'Saúde';
+    
+    const badgeClass = video.category === 'Technology' ? 'badge-tech' : 
+                      video.category === 'Science' ? 'badge-science' : 
+                      video.category === 'Economy' ? 'badge-economy' : 'badge-politics';
+    
+    // Formatar data
+    const dateObj = new Date(video.date);
+    const day = dateObj.getDate();
+    const month = dateObj.toLocaleString('pt-BR', { month: 'short' });
+    const year = dateObj.getFullYear();
+    
+    return `
+    <div class="video-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50" data-category="${video.category.toLowerCase()}">
+      <div class="relative aspect-video cursor-pointer group" onclick="openVideoModal('${key}')">
+        <img src="https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg" 
+             alt="${video.title}" 
+             class="absolute inset-0 w-full h-full object-cover opacity-70" 
+             loading="lazy"
+             onerror="this.onerror=null;fallbackYoutubeThumb(this)">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+        <div class="absolute inset-0 flex items-center justify-center">
+          <div class="w-14 md:w-16 h-14 md:h-16 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center group-hover:scale-110 group-hover:bg-white/20 transition-all">
+            <svg class="w-5 md:w-6 h-5 md:h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+          </div>
+        </div>
+        <span class="absolute bottom-2 right-2 px-2 py-0.5 bg-black/70 rounded text-xs font-medium text-white">--:--</span>
+      </div>
+      <div class="p-4 md:p-5">
+        <span class="${badgeClass} px-2 py-1 rounded-full text-[10px] font-bold text-white">${categoryLabel}</span>
+        <h3 class="text-base md:text-lg font-serif font-bold text-white mt-2 md:mt-3 mb-1 md:mb-2">${video.title}</h3>
+        <p class="text-xs md:text-sm text-slate-400 line-clamp-2 mb-2 md:mb-3">${video.desc}</p>
+        <div class="flex items-center justify-between text-xs text-slate-500">
+          <span>${day} ${month}, ${year}</span>
+          <span class="flex items-center gap-1">
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+            </svg>
+            <span id="viewCount-${key}">0</span>
+          </span>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// Chamar após o DOM carregar
+document.addEventListener('DOMContentLoaded', function() {
+  renderVideoCards();
+  // ... resto do código existente
+});
 </script>
 </body>
 </html>
