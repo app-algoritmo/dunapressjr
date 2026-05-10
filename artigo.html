@@ -806,7 +806,30 @@ async function loadArticle(){
 
         document.getElementById('loadingSpinner').classList.add('hidden');
         document.getElementById('articleContainer').classList.remove('hidden');
-
+        // === EXIBIR IMAGEM DE DESTAQUE ===
+        if (meta.featuredImage) {
+            const imgContainer = document.getElementById('featuredImageContainer');
+            const img = document.getElementById('featuredImage');
+            const caption = document.getElementById('featuredImageCaption');
+            
+            // Otimização Cloudinary (adiciona resize automático)
+            let imgUrl = meta.featuredImage;
+            if (imgUrl.includes('res.cloudinary.com') && !imgUrl.includes('/upload/w_')) {
+                imgUrl = imgUrl.replace('/upload/', '/upload/w_1200,c_limit,q_auto,f_auto/');
+            }
+            
+            img.src = imgUrl;
+            img.alt = meta.featuredImageAlt || meta.title || 'Imagem de destaque';
+            
+            if (meta.featuredImageCaption) {
+                caption.textContent = meta.featuredImageCaption;
+                caption.style.display = 'block';
+            } else {
+                caption.style.display = 'none';
+            }
+            
+            imgContainer.classList.remove('hidden');
+        }
         // Load related after article is shown
         loadRelated(catSlug, filePath);
 
