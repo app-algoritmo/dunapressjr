@@ -1959,7 +1959,7 @@
             manageLoadMoreButton(results,10);
         }
 
-        function createArticleCard(art, container) {
+       function createArticleCard(art, container) {
     const card = document.createElement('article');
     card.className = 'article-card rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 cursor-pointer animate-fade-in';
     card.dataset.category = art.filter;
@@ -1967,6 +1967,7 @@
 
     // === LÓGICA DA IMAGEM DE DESTAQUE ===
     let imageHTML = '';
+    
     if (art.featuredImage) {
         // Otimização Cloudinary para cards (menor resolução: 600x400)
         let imgUrl = art.featuredImage;
@@ -1997,10 +1998,7 @@
                 </span>
             </div>
             <div class="absolute bottom-3 md:bottom-4 right-3 md:right-4 flex items-center gap-1 text-xs text-slate-400 bg-black/40 backdrop-blur px-2 py-1 rounded-full">
-                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
-                </svg>
-                Leitura
+                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>Leitura
             </div>
         </div>`;
     }
@@ -2014,9 +2012,7 @@
         <div class="flex items-center justify-between mt-3">
             <span class="text-xs text-slate-500">${fmtDate(art.date)}</span>
             <button class="text-duna-400 hover:text-duna-300 transition-colors">
-                <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
-                </svg>
+                <svg class="w-4 md:w-5 h-4 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
             </button>
         </div>
     </div>`;
