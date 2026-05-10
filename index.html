@@ -1844,58 +1844,80 @@
             } catch(e) { _ghToken = ''; }
             return _ghToken;
         }
-        async function loadArticlesFromGitHub() {
-            if (_loadingArticles) return;
-            _loadingArticles = true;
+     async function loadArticlesFromGitHub() {
+    if (_loadingArticles) return;
+    _loadingArticles = true;
+    try {
+        const tok = await getGHToken();
+        const hdrs = tok ? {'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'} : {};
+        
+        // 1. Lista as pastas (categorias)
+        const res = await fetch(`${GH_API}/contents/artigos`, {headers:hdrs});
+        if(!res.ok) return;
+        const cats = (await res.json()).filter(i=>i.type==='dir');
+        
+        // 2. Para cada categoria, pega os arquivos
+        const results = await Promise.all(cats.map(async cat => {
             try {
-                const tok = await getGHToken();
-                const hdrs = tok ? {'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'} : {};
-                const res=await fetch(`${GH_API}/contents/artigos`, {headers:hdrs});
-                if(!res.ok) return;
-                const cats=(await res.json()).filter(i=>i.type==='dir');
-                const results=await Promise.all(cats.map(async cat => {
+                const r = await fetch(`${GH_API}/contents/artigos/${cat.name}`, {headers:hdrs});
+                if(!r.ok) return [];
+                const files = await r.json();
+                const catInfo = CAT_MAP[cat.name] || {label:cat.name, badge:'badge-politics', filter:'politics'};
+                
+                // 3. Mapeia os arquivos .md
+                return await Promise.all(files.filter(f=>f.name.endsWith('.md')).map(async f => {
+                    const dateM = f.name.match(/^(\d{4}-\d{2}-\d{2})-/);
+                    const slug = f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','');
+                    
+                    // 4. Tenta buscar o frontmatter rapidamente para pegar a featuredImage
+                    let featuredImage = null;
                     try {
-                        const r=await fetch(`${GH_API}/contents/artigos/${cat.name}`, {headers:hdrs});
-                        if(!r.ok) return [];
-                        const files=await r.json();
-                        const catInfo=CAT_MAP[cat.name]||{label:cat.name,badge:'badge-politics',filter:'politics'};
-                        return files.filter(f=>f.name.endsWith('.md')).map(f => {
-                            const dateM=f.name.match(/^(\d{4}-\d{2}-\d{2})-/);
-                            const slug=f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','');
-                            return {
-                                title: slug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()),
-                                date: dateM?dateM[1]:'',
-                                path: f.path,
-                                category: cat.name,
-                                catLabel: catInfo.label,
-                                badge: catInfo.badge,
-                                filter: catInfo.filter
-                            };
-                        });
-                    } catch(e) { return []; }
+                        // Fetch do conteúdo bruto
+                        const contentRes = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${f.path}`);
+                        if(contentRes.ok) {
+                            const text = await contentRes.text();
+                            // Regex simples para pegar featuredImage: "url"
+                            const imgMatch = text.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);
+                            if(imgMatch) featuredImage = imgMatch[1].trim().replace(/^["']|["']$/g,'');
+                        }
+                    } catch(e) { console.warn('Erro ao ler frontmatter de', f.name); }
+
+                    return {
+                        title: slug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()),
+                        date: dateM ? dateM[1] : '',
+                        path: f.path,
+                        category: cat.name,
+                        catLabel: catInfo.label,
+                        badge: catInfo.badge,
+                        filter: catInfo.filter,
+                        featuredImage: featuredImage // <--- AQUI ESTÁ A CHAVE
+                    };
                 }));
-
-                allArticles=results.flat().sort((a,b)=>b.date.localeCompare(a.date));
-                filteredArticles=[...allArticles];
-                displayedCount=0;
-
-                // Limpa spinner e renderiza
-                const grid=document.getElementById('articleGrid');
-                if(grid) grid.innerHTML='';
-                renderBatch();
-                buildTicker(allArticles);
-                updateCategoryCounts(allArticles);
-
-                // Botão carregar mais
-                const sec=document.getElementById('articles');
-                if(sec&&allArticles.length>PER_PAGE&&!document.getElementById('loadMoreArticlesBtn')){
-                    const btn=document.createElement('div');
-                    btn.className='text-center mt-6 md:mt-8'; btn.id='loadMoreArticlesBtn';
-                    btn.innerHTML=`<button onclick="loadMoreArticles()" class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all">Carregar Mais Artigos</button>`;
-                    sec.appendChild(btn);
-                }
-            } catch(e) { console.error('Erro:',e); } finally { _loadingArticles = false; }
+            } catch(e) { return []; }
+        }));
+        
+        allArticles = results.flat().sort((a,b)=>b.date.localeCompare(a.date));
+        filteredArticles = [...allArticles];
+        displayedCount = 0;
+        
+        // Limpa spinner e renderiza
+        const grid = document.getElementById('articleGrid');
+        if(grid) grid.innerHTML = '';
+        renderBatch();
+        buildTicker(allArticles);
+        updateCategoryCounts(allArticles);
+        
+        // Botão carregar mais
+        const sec = document.getElementById('articles');
+        if(sec && allArticles.length > PER_PAGE && !document.getElementById('loadMoreArticlesBtn')){
+            const btn = document.createElement('div');
+            btn.className = 'text-center mt-6 md:mt-8'; 
+            btn.id = 'loadMoreArticlesBtn';
+            btn.innerHTML = `<button onclick="loadMoreArticles()" class="px-6 md:px-8 py-2.5 md:py-3 bg-slate-800/50 border border-slate-700/50 rounded-xl text-sm font-medium text-slate-300 hover:text-white hover:border-duna-500/50 transition-all">Carregar Mais Artigos</button>`;
+            sec.appendChild(btn);
         }
+    } catch(e) { console.error('Erro:',e); } finally { _loadingArticles = false; }
+}
 
         function loadMoreArticles() { renderBatch(); }
 
