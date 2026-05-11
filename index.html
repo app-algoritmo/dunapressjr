@@ -2377,7 +2377,8 @@ function renderHeroSection() {
 
 // Chamar após o DOM carregar
 document.addEventListener('DOMContentLoaded', function() {
-  renderVideoCards();
+    renderVideoCards();
+    loadHeroContent();
     window.addEventListener('scroll',updateProgress);
     window.addEventListener('scroll',handleHeaderScroll);
     document.querySelectorAll('.nav-link').forEach(link => {
