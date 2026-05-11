@@ -102,6 +102,31 @@ def gerar_artigo_batch(categoria):
     texto = resultado.content[0].text.strip()
     texto = re.sub(r"^```json\s*", "", texto)
     texto = re.sub(r"\s*```$", "", texto)
+    # Tenta parse directo
+    try:
+        return json.loads(texto)
+    except json.JSONDecodeError:
+        # Extrai campos manualmente com regex
+        def extrair(campo):
+            m = re.search(rf'"{campo}"\s*:\s*"((?:[^"\\]|\\.)*)"', texto, re.DOTALL)
+            return m.group(1) if m else ""
+        def extrair_lista(campo):
+            m = re.search(rf'"{campo}"\s*:\s*\[([^\]]*)\]', texto)
+            if not m: return []
+            return [t.strip().strip('"') for t in m.group(1).split(',')]
+        conteudo_m = re.search(r'"conteudo"\s*:\s*"(.*?)(?:"\s*\})', texto, re.DOTALL)
+        conteudo = conteudo_m.group(1) if conteudo_m else ""
+        conteudo = conteudo.replace('\\"', '"').replace('\\n', '\n')
+        return {
+            "titulo": extrair("titulo"),
+            "subtitulo": extrair("subtitulo"),
+            "autor": extrair("autor"),
+            "categoria": extrair("categoria"),
+            "resumo": extrair("resumo"),
+            "tags": extrair_lista("tags"),
+            "tempo_leitura": 7,
+            "conteudo": conteudo
+        }
     return json.loads(texto)
 
 CATEGORIA_PASTA = {
