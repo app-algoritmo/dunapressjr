@@ -127,7 +127,6 @@ def gerar_artigo_batch(categoria):
             "tempo_leitura": 7,
             "conteudo": conteudo
         }
-    return json.loads(texto)
 
 CATEGORIA_PASTA = {
     "tecnologia":  "technology",
