@@ -899,9 +899,9 @@
         <!-- Featured Video -->
         <div class="lg:col-span-8 relative group cursor-pointer" onclick="openVideoModal('featured')">
             <div class="relative aspect-video rounded-xl md:rounded-2xl overflow-hidden bg-slate-800">
-               <img id="hero-featured-img" src="https://img.youtube.com/vi/VIDEO_ID_PLACEHOLDER/hqdefault.jpg" alt="" class="absolute inset-0 w-full h-full object-cover">
+              <img id="hero-featured-img" src="" alt="" class="absolute inset-0 w-full h-full object-cover" onload="document.getElementById('hero-fallback-bg').style.display='none'">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent z-10"></div>
-                <div class="absolute inset-0 bg-gradient-to-br from-duna-900 to-duna-800 flex items-center justify-center">
+                <div id="hero-fallback-bg" class="absolute inset-0 bg-gradient-to-br from-duna-900 to-duna-800 flex items-center justify-center">
                     <div class="w-16 md:w-20 h-16 md:h-20 rounded-full bg-white/10 backdrop-blur flex items-center justify-center mx-auto group-hover:scale-110 transition-transform">
                         <svg class="w-7 md:w-8 h-7 md:h-8 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
                     </div>
