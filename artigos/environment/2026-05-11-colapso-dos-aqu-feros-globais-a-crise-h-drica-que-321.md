@@ -1,21 +1,18 @@
 ---
 title: "Colapso dos Aquíferos Globais: A Crise Hídrica Que Avança em Silêncio"
-subtitle: "Estudos recentes apontam que um terço dos principais aquíferos do planeta está a ser esgotado mais rapidamente do que consegue ser recarregado — uma ameaça silenciosa que coloca em risco a segurança alimentar e o abastecimento de centenas de milhões de pessoas"
 date: 2026-05-11
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - environment
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778521936/Colapso_dos_Aqui%CC%81feros_Globais_-_A_Crise_Hi%CC%81drica_Que_Avanc%CC%A7a_em_Sile%CC%82ncio_rzz2gq.jpg"
+subtitle: "Estudos recentes apontam que um terço dos principais aquíferos do planeta está a ser esgotado mais rapidamente do que consegue ser recarregado — uma ameaça silenciosa que coloca em risco a segurança alimentar e o abastecimento de centenas de milhões de pessoas"
 description: "A extração descontrolada de águas subterrâneas está a comprometer aquíferos em todos os continentes. Com a agricultura industrial a consumir até 70% das reservas e as alterações climáticas a reduzir a recarga natural, cientistas alertam para um ponto de não retorno que pode transformar regiões inteiras em zonas de instabilidade social e económica até 2040."
 tags:
-  - ambiente
-  - analise
-  - duna press
+  - aquifero
   - agua
-  - aquiferos
-  - crise hidrica
-  - seguranca alimentar
-  - mudancas climaticas
+  - crise-hidrica
+keywords: "aquifero, agua, crise-hidrica"
 ---
 
 ## O Chão Que Afunda, a Água Que Desaparece
