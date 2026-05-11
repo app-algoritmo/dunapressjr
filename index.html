@@ -923,7 +923,8 @@
         <div class="lg:col-span-4 flex flex-col gap-3 md:gap-4 side-articles-mobile lg:side-articles-mobile-reset">
             <!-- Side 1 -->
             <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side1')">
-                <div class="absolute inset-0 bg-gradient-to-br from-duna-900/40 to-duna-800/40"></div>
+            <img id="hero-side1-img" src="" class="absolute inset-0 w-full h-full object-cover opacity-50" onload="document.getElementById('hero-side1-fallback').style.display='none'">
+            <div id="hero-side1-fallback" class="absolute inset-0 bg-gradient-to-br from-duna-900/40 to-duna-800/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
                         <span id="hero-side1-badge" class="badge-economy px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
@@ -938,7 +939,8 @@
 
             <!-- Side 2 -->
             <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side2')">
-                <div class="absolute inset-0 bg-gradient-to-br from-duna-700/40 to-duna-900/40"></div>
+            <img id="hero-side2-img" src="" class="absolute inset-0 w-full h-full object-cover opacity-50" onload="document.getElementById('hero-side2-fallback').style.display='none'">
+            <div id="hero-side2-fallback" class="absolute inset-0 bg-gradient-to-br from-duna-700/40 to-duna-900/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
                         <span id="hero-side2-badge" class="badge-politics px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
@@ -953,7 +955,8 @@
 
             <!-- Side 3 -->
             <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side3')">
-                <div class="absolute inset-0 bg-gradient-to-br from-duna-600/40 to-duna-900/40"></div>
+            <img id="hero-side3-img" src="" class="absolute inset-0 w-full h-full object-cover opacity-50" onload="document.getElementById('hero-side3-fallback').style.display='none'">
+            <div id="hero-side3-fallback" class="absolute inset-0 bg-gradient-to-br from-duna-600/40 to-duna-900/40"></div>
                 <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
                     <div>
                         <span id="hero-side3-badge" class="badge-tech px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
@@ -1488,6 +1491,9 @@
             }
         };
 setTimeout(function(){ document.getElementById('hero-featured-img').src = 'https://img.youtube.com/vi/' + videoData.featured.videoId + '/hqdefault.jpg'; }, 0);
+document.getElementById('hero-side1-img').src = 'https://img.youtube.com/vi/' + videoData.side1.videoId + '/hqdefault.jpg';
+document.getElementById('hero-side2-img').src = 'https://img.youtube.com/vi/' + videoData.side2.videoId + '/hqdefault.jpg';
+document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + videoData.side3.videoId + '/hqdefault.jpg';
         // ==================== STATE ====================
         let currentLang = 'pt';
         let currentUser = null;
