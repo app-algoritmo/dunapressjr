@@ -960,7 +960,7 @@ async function loadArticlesList() {
         const res = await fetch(`${GH_API}/contents/artigos`, { headers });
         if (!res.ok) throw new Error();
         const cats = (await res.json()).filter(i => i.type === 'dir');
-        const results = await Promise.all(cats.slice(0,10).map(async cat => {
+        const results = await Promise.all(cats.slice.map(async cat => {
             try {
                 const r = await fetch(cat.url, { headers });
                 if (!r.ok) return [];
