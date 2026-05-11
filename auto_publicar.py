@@ -205,6 +205,7 @@ def publicar(categoria):
     try:
         artigo = gerar_artigo_batch(categoria)
         slug = salvar_github(artigo, categoria["slug"])
+        actualizar_drafts_index(artigo, f"artigos/{CATEGORIA_PASTA.get(categoria['slug'], categoria['slug'])}/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md", categoria["slug"])
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
