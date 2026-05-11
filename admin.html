@@ -963,7 +963,70 @@ function saveAsDraft() {
     }));
     showToast('📝 Rascunho salvo localmente', 'info');
 }
+let allDrafts = [];
+async function loadDraftsList() {
+    const container = document.getElementById('draftsListContainer');
+    container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
+    const token = await getToken();
+    const headers = {'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'};
+    try {
+        const res = await fetch(`${GH_API}/contents/artigos`, {headers});
+        if (!res.ok) throw new Error();
+        const cats = (await res.json()).filter(i => i.type === 'dir');
+        const results = await Promise.all(cats.map(async cat => {
+            try {
+                const r = await fetch(cat.url, {headers});
+                if (!r.ok) return [];
+                const files = (await r.json()).filter(f => f.name.endsWith('.md'));
+                const drafts = [];
+                for (const f of files) {
+                    try {
+                        const raw = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${f.path}`);
+                        const text = await raw.text();
+                        if (text.includes('status: draft')) {
+                            const dateM = f.name.match(/^(\d{4}-\d{2}-\d{2})/);
+                            const titleM = text.match(/^title:\s*["']?(.*?)["']?\s*$/m);
+                            drafts.push({
+                                name: f.name,
+                                path: f.path,
+                                sha: f.sha,
+                                category: cat.name,
+                                date: dateM ? dateM[1] : '',
+                                title: titleM ? titleM[1].replace(/^["']|["']$/g,'') : f.name.replace('.md','')
+                            });
+                        }
+                    } catch(e) {}
+                }
+                return drafts;
+            } catch(e) { return []; }
+        }));
+        allDrafts = results.flat().sort((a,b) => b.date.localeCompare(a.date));
+        renderDraftsList(allDrafts);
+    } catch(e) {
+        container.innerHTML = `<div class="empty-state"><p>Erro ao carregar rascunhos.</p></div>`;
+    }
+}
 
+function renderDraftsList(drafts) {
+    const container = document.getElementById('draftsListContainer');
+    if (!drafts.length) { container.innerHTML = `<div class="empty-state"><p>Nenhum rascunho encontrado. ✅</p></div>`; return; }
+    container.innerHTML = `<div class="articles-table">
+        <div class="table-head"><div>Título</div><div>Categoria</div><div>Data</div><div>Status</div><div>Ações</div></div>
+        ${drafts.map(art=>`<div class="table-row">
+            <div class="table-row-title" title="${art.title}">${art.title}</div>
+            <div><span class="cat-pill ${catClassMap[art.category]||'cat-default'}">${catLabelMap[art.category]||art.category}</span></div>
+            <div class="table-row-date">${art.date||'—'}</div>
+            <div><span style="display:inline-block;padding:3px 10px;border-radius:999px;font-size:10px;font-weight:700;text-transform:uppercase;background:rgba(245,158,11,0.15);color:#fbbf24;border:1px solid rgba(245,158,11,0.2);">Rascunho</span></div>
+            <div class="table-actions">
+                <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button>
+            </div>
+        </div>`).join('')}
+    </div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${drafts.length} rascunhos</div>`;
+}
+
+function filterDraftsList(q) {
+    renderDraftsList(q ? allDrafts.filter(a => a.title.toLowerCase().includes(q.toLowerCase())) : allDrafts);
+}
 /* ─── ARTICLES LIST ─── */
     async function loadArticlesList() {
     const container = document.getElementById('articlesListContainer');
