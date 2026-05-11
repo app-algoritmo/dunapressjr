@@ -959,43 +959,13 @@ let allDrafts = [];
 async function loadDraftsList() {
     const container = document.getElementById('draftsListContainer');
     container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
-    const token = await getToken();
-    const headers = {'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'};
     try {
-        const res = await fetch(`${GH_API}/contents/artigos`, {headers});
+        const res = await fetch('https://raw.githubusercontent.com/' + REPO_OWNER + '/' + REPO_NAME + '/main/drafts-index.json?t=' + Date.now());
         if (!res.ok) throw new Error();
-        const cats = (await res.json()).filter(i => i.type === 'dir');
-        const results = await Promise.all(cats.map(async cat => {
-            try {
-                const r = await fetch(cat.url, {headers});
-                if (!r.ok) return [];
-                const files = (await r.json()).filter(f => f.name.endsWith('.md'));
-                const drafts = [];
-                for (const f of files) {
-                    try {
-                        const raw = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${f.path}`);
-                        const text = await raw.text();
-                        if (text.includes('status: draft')) {
-                            const dateM = f.name.match(/^(\d{4}-\d{2}-\d{2})/);
-                            const titleM = text.match(/^title:\s*["']?(.*?)["']?\s*$/m);
-                            drafts.push({
-                                name: f.name,
-                                path: f.path,
-                                sha: f.sha,
-                                category: cat.name,
-                                date: dateM ? dateM[1] : '',
-                                title: titleM ? titleM[1].replace(/^["']|["']$/g,'') : f.name.replace('.md','')
-                            });
-                        }
-                    } catch(e) {}
-                }
-                return drafts;
-            } catch(e) { return []; }
-        }));
-        allDrafts = results.flat().sort((a,b) => b.date.localeCompare(a.date));
+        allDrafts = await res.json();
         renderDraftsList(allDrafts);
     } catch(e) {
-        container.innerHTML = `<div class="empty-state"><p>Erro ao carregar rascunhos.</p></div>`;
+        container.innerHTML = `<div class="empty-state"><p>Nenhum rascunho encontrado. ✅</p></div>`;
     }
 }
 
