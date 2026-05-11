@@ -210,7 +210,40 @@ def publicar(categoria):
     except Exception as e:
         print(f"  ERRO: {e}")
         return False
-
+def actualizar_drafts_index(artigo, caminho, categoria_slug):
+    index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/drafts-index.json"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+    
+    # Lê o index actual
+    r = requests.get(index_url, headers=headers, timeout=15)
+    if r.status_code == 200:
+        data = r.json()
+        current = json.loads(base64.b64decode(data["content"]).decode("utf-8"))
+        sha = data["sha"]
+    else:
+        current = []
+        sha = None
+    
+    # Adiciona o novo rascunho
+    pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
+    current.insert(0, {
+        "title": artigo["titulo"],
+        "path": caminho,
+        "category": pasta,
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "status": "draft"
+    })
+    
+    # Guarda
+    payload = {
+        "message": "index: update drafts-index.json",
+        "content": base64.b64encode(json.dumps(current, ensure_ascii=False, indent=2).encode("utf-8")).decode()
+    }
+    if sha:
+        payload["sha"] = sha
+    
+    requests.put(index_url, json=payload, headers=headers, timeout=15)
+    print("  drafts-index.json actualizado")
 def publicar_todos():
     sucesso = 0
     for cat in AGENDA:
