@@ -502,6 +502,17 @@
         </div>
     </div>
 
+    <!-- DRAFTS TAB -->
+<div id="panel-drafts" class="admin-content" style="display:none">
+    <div class="articles-header">
+        <h2>⏳ Esperando Revisão</h2>
+        <input type="text" class="search-input" placeholder="Buscar rascunhos..." oninput="filterDraftsList(this.value)">
+    </div>
+    <div id="draftsListContainer">
+        <div class="empty-state"><p>Carregando rascunhos...</p></div>
+    </div>
+</div>
+   
     <!-- ARTICLES TAB -->
     <div id="panel-articles" class="admin-content" style="display:none">
         <div class="articles-header">
