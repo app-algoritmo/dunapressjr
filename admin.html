@@ -946,22 +946,14 @@ async function publishArticle() {
     }
 }
 
-function saveAsDraft() {
-    localStorage.setItem('duna_draft', JSON.stringify({
-        title: document.getElementById('artTitle').value,
-        content: document.getElementById('artContent').value,
-        date: document.getElementById('artDate').value,
-        cat: document.getElementById('artCategory').value,
-        author: document.getElementById('artAuthor').value,
-        slug: document.getElementById('artSlug').value,
-        subtitle: document.getElementById('artSubtitle').value,
-        summary: document.getElementById('artSummary').value,
-        refLinks: [0,1,2].map(i=>document.getElementById('refLink'+i).value),
-        tags: getTagsForFrontmatter(),
-        featuredImage: document.getElementById('featuredImageUrl').value,
-        savedAt: new Date().toISOString()
-    }));
-    showToast('📝 Rascunho salvo localmente', 'info');
+async function saveAsGitHubDraft() {
+    const title = document.getElementById('artTitle').value.trim();
+    if (!title) { showToast('Adicione um título antes de guardar.', 'error'); return; }
+    const original = articleStatus;
+    articleStatus = 'draft';
+    document.getElementById('publishLabel').textContent = '💾 Guardando...';
+    await publishArticle();
+    articleStatus = original;
 }
 let allDrafts = [];
 async function loadDraftsList() {
