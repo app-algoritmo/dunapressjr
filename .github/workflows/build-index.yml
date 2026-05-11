@@ -66,10 +66,10 @@ jobs:
                 'description': description
             })
 
-with open('search-index.json','w',encoding='utf-8') as out:
-    json.dump(articles, out, ensure_ascii=False)
-print(f"Indexados: {len(articles)} artigos")
-EOF
+          with open('search-index.json','w',encoding='utf-8') as out:
+          json.dump(articles, out, ensure_ascii=False)
+          print(f"Indexados: {len(articles)} artigos")
+          EOF
 
       - name: Commit index
         run: |
