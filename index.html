@@ -1487,7 +1487,7 @@
                 videoId:  "YZZmkRCXxmc"
             }
         };
-document.getElementById('hero-featured-img').src = 'https://img.youtube.com/vi/' + videoData.featured.videoId + '/hqdefault.jpg';
+setTimeout(function(){ document.getElementById('hero-featured-img').src = 'https://img.youtube.com/vi/' + videoData.featured.videoId + '/hqdefault.jpg'; }, 0);
         // ==================== STATE ====================
         let currentLang = 'pt';
         let currentUser = null;
