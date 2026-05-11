@@ -104,25 +104,43 @@ def gerar_artigo_batch(categoria):
     texto = re.sub(r"\s*```$", "", texto)
     return json.loads(texto)
 
+CATEGORIA_PASTA = {
+    "tecnologia":  "technology",
+    "economia":    "global-economy",
+    "ciencia":     "science",
+    "geopolitica": "geopolitics",
+    "saude":       "health",
+    "ambiente":    "environment",
+}
+
 def salvar_github(artigo, categoria_slug):
     agora = datetime.now()
-    slug = re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())[:70].strip("-")
-    caminho = f"artigos/{categoria_slug}/{slug}.xml"
-    xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<artigo>
-  <titulo><![CDATA[{artigo["titulo"]}]]></titulo>
-  <subtitulo><![CDATA[{artigo["subtitulo"]}]]></subtitulo>
-  <autor>{artigo["autor"]}</autor>
-  <categoria>{categoria_slug}</categoria>
-  <data>{agora.strftime("%Y-%m-%dT%H:%M:%S")}</data>
-  <tempo_leitura>{artigo.get("tempo_leitura", 7)}</tempo_leitura>
-  <tags>{",".join(artigo.get("tags", []))}</tags>
-  <resumo><![CDATA[{artigo["resumo"]}]]></resumo>
-  <conteudo><![CDATA[{artigo["conteudo"]}]]></conteudo>
-</artigo>"""
+    data_str = agora.strftime("%Y-%m-%d")
+    slug = re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())[:60].strip("-")
+    pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
+    caminho = f"artigos/{pasta}/{data_str}-{slug}.md"
+    tags = artigo.get("tags", [])
+    tags_fm = "\n".join([f"  - {t}" for t in tags])
+    md = f"""---
+title: "{artigo['titulo'].replace('"', "'")}"
+subtitle: "{artigo.get('subtitulo','').replace('"', "'")}"
+date: {data_str}
+status: draft
+author: {artigo['autor']}
+categories:
+  - {pasta}
+description: "{artigo.get('resumo','').replace('"', "'")}"
+tags:
+{tags_fm}
+---
+
+{artigo['conteudo']}"""
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{caminho}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    payload = {"message": f"auto: {artigo['titulo'][:60]}", "content": base64.b64encode(xml.encode("utf-8")).decode()}
+    payload = {
+        "message": f"rascunho: {artigo['titulo'][:60]}",
+        "content": base64.b64encode(md.encode("utf-8")).decode()
+    }
     print(f"  GitHub: {caminho}")
     r = requests.put(url, json=payload, headers=headers, timeout=30)
     if r.status_code not in (200, 201):
