@@ -1010,7 +1010,7 @@ function renderDraftsList(drafts) {
             <div class="table-row-date">${art.date||'—'}</div>
             <div><span style="display:inline-block;padding:3px 10px;border-radius:999px;font-size:10px;font-weight:700;text-transform:uppercase;background:rgba(245,158,11,0.15);color:#fbbf24;border:1px solid rgba(245,158,11,0.2);">Rascunho</span></div>
             <div class="table-actions">
-                <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button><button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑️ Del</button>
+                <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button><button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑️</button>
             </div>
         </div>`).join('')}
     </div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${drafts.length} rascunhos</div>`;
