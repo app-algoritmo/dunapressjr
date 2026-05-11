@@ -650,8 +650,10 @@ function switchTab(tab) {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     document.getElementById(`tab-${tab}`).classList.add('active');
     document.getElementById('panel-editor').style.display   = tab === 'editor'   ? 'block' : 'none';
+    document.getElementById('panel-drafts').style.display   = tab === 'drafts'   ? 'block' : 'none';
     document.getElementById('panel-articles').style.display = tab === 'articles' ? 'block' : 'none';
     if (tab === 'articles') loadArticlesList();
+    if (tab === 'drafts')   loadDraftsList();
 }
 
 function switchMode(mode) {
