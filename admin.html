@@ -951,25 +951,26 @@ function saveAsDraft() {
 }
 
 /* ─── ARTICLES LIST ─── */
-async function loadArticlesList() {
+    async function loadArticlesList() {
     const container = document.getElementById('articlesListContainer');
     container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
-    const token = await getToken();
-    const headers = token ? {'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} : {'Accept':'application/vnd.github+json'};
     try {
-        const res = await fetch(`${GH_API}/contents/artigos`, { headers });
+        const res = await fetch('https://raw.githubusercontent.com/app-algoritmo/dunapressjr/main/search-index.json');
         if (!res.ok) throw new Error();
-        const cats = (await res.json()).filter(i => i.type === 'dir');
-        const results = await Promise.all(cats.map(async cat => {
-            try {
-                const r = await fetch(cat.url, { headers });
-                if (!r.ok) return [];
-                return (await r.json()).filter(f => f.name.endsWith('.md')).map(f => ({ name:f.name, path:f.path, category:cat.name, sha:f.sha, date:(f.name.match(/^(\d{4}-\d{2}-\d{2})/)||[])[1]||'', title:f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','').replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()) }));
-            } catch(e) { return []; }
+        const articles = await res.json();
+        allLoadedArticles = articles.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+        allLoadedArticles = allLoadedArticles.map(a => ({
+            name: a.path ? a.path.split('/').pop() : '',
+            path: a.path,
+            category: a.category,
+            sha: '',
+            date: a.date,
+            title: a.title
         }));
-        allLoadedArticles = results.flat().sort((a,b) => b.date.localeCompare(a.date));
         renderArticlesList(allLoadedArticles);
-    } catch(e) { container.innerHTML = `<div class="empty-state"><p>Erro ao carregar artigos.</p></div>`; }
+    } catch(e) {
+        container.innerHTML = `<div class="empty-state"><p>Erro ao carregar artigos.</p></div>`;
+    }
 }
 
 const catClassMap = { 'politics-and-society':'cat-politics','global-economy':'cat-economy','science':'cat-science','technology':'cat-technology','health':'cat-health','opinion':'cat-opinion','global-affairs':'cat-global-affairs' };
