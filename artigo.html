@@ -799,8 +799,30 @@ async function loadArticle(){
         const displayCat=meta.categories[0]||category||'Geral';
         const catSlug=category||displayCat.toLowerCase();
 
-        document.getElementById('pageTitle').textContent=meta.title+' — Duna Press';
-        document.getElementById('pageDesc').content=meta.title;
+        // ── META TAGS OPEN GRAPH ──────────────────────────────────────
+const pageUrl = window.location.href;
+const description = meta.description || meta.title + ' — Leia na Duna Press.';
+
+let ogImageUrl = meta.featuredImage || 'https://dunapress.org/og-default.jpg';
+if (ogImageUrl.includes('res.cloudinary.com') && !ogImageUrl.includes('/upload/w_')) {
+    ogImageUrl = ogImageUrl.replace('/upload/', '/upload/w_1200,h_630,c_fill,q_auto,f_auto/');
+}
+
+const setMeta = (id, val) => { const el = document.getElementById(id); if (el) el.setAttribute('content', val); };
+
+setMeta('ogTitle',  meta.title + ' — Duna Press');
+setMeta('ogDesc',   description);
+setMeta('ogImage',  ogImageUrl);
+setMeta('ogUrl',    pageUrl);
+setMeta('twTitle',  meta.title + ' — Duna Press');
+setMeta('twDesc',   description);
+setMeta('twImage',  ogImageUrl);
+setMeta('ogAuthor', meta.author || 'Redação Duna Press');
+setMeta('ogDate',   meta.date   || '');
+
+document.getElementById('pageTitle').textContent = meta.title + ' — Duna Press';
+document.getElementById('pageDesc').setAttribute('content', description);
+// ─────────────────────────────────────────────────────────────
 
         const badge=document.getElementById('artBadge');
         badge.textContent=displayCat;
