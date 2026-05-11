@@ -140,7 +140,9 @@ CATEGORIA_PASTA = {
 def salvar_github(artigo, categoria_slug):
     agora = datetime.now()
     data_str = agora.strftime("%Y-%m-%d")
-    slug = re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())[:60].strip("-")
+    slug = re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())[:50].strip("-")
+import time
+slug = f"{slug}-{int(time.time()) % 10000}"
     pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
     caminho = f"artigos/{pasta}/{data_str}-{slug}.md"
     tags = artigo.get("tags", [])
