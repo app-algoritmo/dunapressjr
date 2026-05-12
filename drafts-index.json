@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "title": "A Crise Silenciosa dos Aquíferos: Como o Esgotamento das Águas Subterrâneas Ameaça a Segurança Alimentar Global",
+    "path": "artigos/environment/2026-05-12-a-crise-silenciosa-dos-aquiferos-como-o-esgotamento-das-agua.md",
+    "category": "environment",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "O Colapso Silencioso da Saúde Mental no Pós-Pandemia: O Brasil Ainda Não Acordou",
+    "path": "artigos/health/2026-05-12-o-colapso-silencioso-da-saude-mental-no-pos-pandemia-o-brasi.md",
+    "category": "health",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Nova Arquitetura do Poder Global: Fragmentação, Blocos e a Crise da Ordem Liberal",
+    "path": "artigos/geopolitics/2026-05-12-a-nova-arquitetura-do-poder-global-fragmentacao-blocos-e-a-c.md",
+    "category": "geopolitics",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Corrida Silenciosa: Como a Computação Quântica Está Redesenhando as Fronteiras da Ciência Moderna",
+    "path": "artigos/science/2026-05-12-a-corrida-silenciosa-como-a-computacao-quantica-esta-redesen.md",
+    "category": "science",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Armadilha do Crescimento Nominal: Por Que o Brasil Cresce no Papel e Estagna na Prática",
+    "path": "artigos/global-economy/2026-05-12-a-armadilha-do-crescimento-nominal-por-que-o-brasil-cresce-n.md",
+    "category": "global-economy",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Corrida pelos Modelos de IA Compactos: Quando Menos Passa a Ser Mais",
+    "path": "artigos/technology/2026-05-12-a-corrida-pelos-modelos-de-ia-compactos-quando-menos-passa-a.md",
+    "category": "technology",
+    "date": "2026-05-12",
+    "status": "draft"
+  }
+]
