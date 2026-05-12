@@ -1986,15 +1986,21 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
                         // Fetch do conteúdo bruto
                         const contentRes = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${f.path}`);
                         if(contentRes.ok) {
-                            const text = await contentRes.text();
-                            // Regex simples para pegar featuredImage: "url"
-                            const imgMatch = text.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);
-                            if(imgMatch) featuredImage = imgMatch[1].trim().replace(/^["']|["']$/g,'');
+                        const text = await contentRes.text();
+                        // Filtra rascunhos — não aparecem no site público
+                        const statusMatch = text.match(/^status:\s*(.+)\s*$/m);
+                        if(statusMatch && statusMatch[1].trim() === 'draft') return null;
+                        // Lê título real do frontmatter (com acentos)
+                        const titleMatch = text.match(/^title:\s*["']?(.*?)["']?\s*$/m);
+                        if(titleMatch) slug = titleMatch[1].replace(/^["']|["']$/g,'');
+                        // Imagem de destaque
+                        const imgMatch = text.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);
+                        if(imgMatch) featuredImage = imgMatch[1].trim().replace(/^["']|["']$/g,'');
                         }
                     } catch(e) { console.warn('Erro ao ler frontmatter de', f.name); }
 
                     return {
-                        title: slug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()),
+                        title: slug,
                         date: dateM ? dateM[1] : '',
                         path: f.path,
                         category: cat.name,
@@ -2007,7 +2013,7 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
             } catch(e) { return []; }
         }));
         
-        allArticles = results.flat().sort((a,b)=>b.date.localeCompare(a.date));
+        allArticles = results.flat().filter(Boolean).sort(...)
         filteredArticles = [...allArticles];
         displayedCount = 0;
         
