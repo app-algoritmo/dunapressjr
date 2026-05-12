@@ -1,23 +1,18 @@
 ---
 title: "A Reconfiguração do Tabuleiro Global: Potências Emergentes e o Fim da Ordem Unipolar"
-subtitle: "A fragmentação da hegemonia ocidental acelera-se em 2026, enquanto novos blocos de poder redesenham alianças, rotas comerciais e doutrinas de segurança num mundo que já não aceita um único centro de gravidade"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - geopolitics
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778600127/A_Reconfigurac%CC%A7a%CC%83o_do_Tabuleiro_Global-_Pote%CC%82ncias_Emergentes_e_o_Fim_da_Ordem_Unipolar_buxs22.jpg"
+subtitle: "A fragmentação da hegemonia ocidental acelera-se em 2026, enquanto novos blocos de poder redesenham alianças, rotas comerciais e doutrinas de segurança num mundo que já não aceita um único centro de gravidade"
 description: "A geopolítica global em 2026 apresenta uma reconfiguração estrutural sem precedentes desde o fim da Guerra Fria. A expansão dos BRICS, a erosão das instituições de Bretton Woods, a guerra tecnológica entre Washington e Pequim e a persistência dos conflitos na Eurásia compõem um mosaico de tensões que define a transição para uma ordem multipolar. Este artigo analisa os vetores centrais dessa transformação e as suas implicações para os próximos anos."
 tags:
-  - geopolitica
-  - analise
-  - duna press
-  - multipolaridade
   - brics
-  - otan
-  - china
-  - russia
-  - estados unidos
-  - ordem mundial
+  - economia
+  - nova-ordem-mundial-2026
+keywords: "brics, economia, nova-ordem-mundial-2026"
 ---
 
 ## A Reconfiguração do Tabuleiro Global: Potências Emergentes e o Fim da Ordem Unipolar
