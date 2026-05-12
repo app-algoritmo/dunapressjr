@@ -1,4 +1,4 @@
-import anthropic, requests, json, base64, re, os, sys, time, uuid, unicodedata
+import anthropic, requests, json, re, os, sys, time, uuid, unicodedata
 from datetime import datetime
 
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_KEY", "")
@@ -152,25 +152,23 @@ CATEGORIA_PASTA = {
     "ambiente":    "environment",
 }
 
-def salvar_github(artigo, categoria_slug):
+def salvar_local(artigo, categoria_slug):
     agora = datetime.now()
     data_str = agora.strftime("%Y-%m-%d")
 
-    # ──────────────────────────────────────────────────────────
-    # FIX: usa slugify() com normalize NFD em vez de re.sub direto
-    # ANTES: re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())
-    #   → "Aquíferos" virava "aqu-feros" (í não é [a-z0-9])
-    # DEPOIS: slugify() decompõe primeiro í→i, ê→e, ç→c, etc.
-    #   → "Aquíferos" vira "aquiferos" ✓
-    #
-    # FIX: remove sufixo de timestamp aleatório
-    # ANTES: slug = f"{slug}-{int(time.time()) % 10000}"
-    #   → produzia o "321" no final dos títulos
-    # DEPOIS: sem sufixo — data + slug já garante unicidade suficiente
-    # ──────────────────────────────────────────────────────────
+    """
+    Escreve o ficheiro .md directamente no sistema de ficheiros local.
+    O workflow git (git add / commit / push) trata do upload para o GitHub.
+    Evita problemas de permissões com GITHUB_TOKEN via API REST.
+    """
+    agora = datetime.now()
+    data_str = agora.strftime("%Y-%m-%d")
     slug = slugify(artigo["titulo"])
-
     pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
+
+    # Garante que a pasta existe
+    os.makedirs(f"artigos/{pasta}", exist_ok=True)
+
     caminho = f"artigos/{pasta}/{data_str}-{slug}.md"
     tags = artigo.get("tags", [])
     tags_fm = "\n".join([f"  - {t}" for t in tags])
@@ -188,18 +186,12 @@ tags:
 ---
 
 {artigo['conteudo']}"""
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{caminho}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    payload = {
-        "message": f"rascunho: {artigo['titulo'][:60]}",
-        "content": base64.b64encode(md.encode("utf-8")).decode()
-    }
-    print(f"  GitHub: {caminho}")
-    r = requests.put(url, json=payload, headers=headers, timeout=30)
-    if r.status_code not in (200, 201):
-        # Lança exceção — impede que drafts-index.json receba entrada para ficheiro inexistente
-        raise RuntimeError(f"GitHub erro {r.status_code}: {r.text[:300]}")
-    return slug
+
+    with open(caminho, "w", encoding="utf-8") as f:
+        f.write(md)
+
+    print(f"  Ficheiro local: {caminho}")
+    return slug, caminho
 
 def inserir_supabase(artigo, slug, categoria_slug):
     url = f"{SUPABASE_URL}/rest/v1/artigos"
@@ -234,27 +226,23 @@ def publicar(categoria):
         return False
     try:
         artigo = gerar_artigo_batch(categoria)
-        slug = salvar_github(artigo, categoria["slug"])
-        pasta = CATEGORIA_PASTA.get(categoria["slug"], categoria["slug"])
-        caminho = f"artigos/{pasta}/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
-        actualizar_drafts_index(artigo, caminho, categoria["slug"])
+        slug, caminho = salvar_local(artigo, categoria["slug"])
+        actualizar_drafts_index_local(artigo, caminho, categoria["slug"])
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
         print(f"  ERRO: {e}")
         return False
 
-def actualizar_drafts_index(artigo, caminho, categoria_slug):
-    index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/drafts-index.json"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    r = requests.get(index_url, headers=headers, timeout=15)
-    if r.status_code == 200:
-        data = r.json()
-        current = json.loads(base64.b64decode(data["content"]).decode("utf-8"))
-        sha = data["sha"]
-    else:
+def actualizar_drafts_index_local(artigo, caminho, categoria_slug):
+    """Actualiza drafts-index.json localmente. O git push trata do resto."""
+    index_path = "drafts-index.json"
+    try:
+        with open(index_path, encoding="utf-8") as f:
+            current = json.load(f)
+    except:
         current = []
-        sha = None
+
     pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
     current.insert(0, {
         "title": artigo["titulo"],
@@ -263,14 +251,11 @@ def actualizar_drafts_index(artigo, caminho, categoria_slug):
         "date": datetime.now().strftime("%Y-%m-%d"),
         "status": "draft"
     })
-    payload = {
-        "message": "index: update drafts-index.json",
-        "content": base64.b64encode(json.dumps(current, ensure_ascii=False, indent=2).encode("utf-8")).decode()
-    }
-    if sha:
-        payload["sha"] = sha
-    requests.put(index_url, json=payload, headers=headers, timeout=15)
-    print("  drafts-index.json actualizado")
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(current, f, ensure_ascii=False, indent=2)
+
+    print("  drafts-index.json actualizado localmente")
 
 def publicar_todos():
     sucesso = 0
