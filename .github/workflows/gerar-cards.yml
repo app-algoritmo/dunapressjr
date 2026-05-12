@@ -3,7 +3,7 @@ name: Gerar articles-cards.json
 on:
   push:
     paths:
-      - 'search-index.json'
+      - 'artigos/**'
   workflow_dispatch:
 
 jobs:
