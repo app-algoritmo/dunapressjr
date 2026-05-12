@@ -1,22 +1,18 @@
 ---
 title: "Brasil em Encruzilhada Fiscal: O Dilema Entre Crescimento e Sustentabilidade da Dívida em 2026"
-subtitle: "Com a relação dívida/PIB prestes a superar 90%, o governo federal enfrenta a pressão crescente dos mercados e o desafio de manter investimentos sem comprometer o arcabouço fiscal aprovado em 2023"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - global-economy
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599767/Brasil_em_Encruzilhada_Fiscal-_O_Dilema_Entre_Crescimento_e_Sustentabilidade_da_Di%CC%81vida_em_2026_fisjqe.jpg"
+subtitle: "Com a relação dívida/PIB prestes a superar 90%, o governo federal enfrenta a pressão crescente dos mercados e o desafio de manter investimentos sem comprometer o arcabouço fiscal aprovado em 2023"
 description: "A economia brasileira vive em maio de 2026 um dos momentos mais delicados de sua trajetória recente. A combinação de dívida pública em ascensão, juros reais elevados e pressão política por gastos coloca o país diante de escolhas que definirão a próxima década. Este artigo analisa os vetores centrais do dilema fiscal brasileiro e suas implicações para investidores, trabalhadores e para a própria governabilidade do país."
 tags:
-  - economia
-  - analise
-  - duna press
-  - fiscal
-  - divida publica
   - brasil
-  - pib
-  - mercados
-  - politica economica
+  - crescimento
+  - sustentabilidade
+keywords: "brasil, crescimento, sustentabilidade"
 ---
 
 ## Brasil em Encruzilhada Fiscal: O Dilema Entre Crescimento e Sustentabilidade da Dívida em 2026
