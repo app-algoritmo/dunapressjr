@@ -1103,10 +1103,17 @@ function viewArticle(path) { window.open(`https://app-algoritmo.github.io/dunapr
    FIX 2 — guarda currentEditingPath para remover do drafts-index
 ────────────────────────────────────────────────────────────── */
 async function editArticle(path, sha) {
-    const token = await getToken(); showToast('Carregando artigo...','info');
+    const token = await getToken();
+    if (!token) { showToast('Token GitHub não configurado.', 'error'); return; }
+    showToast('Carregando artigo...','info');
     try {
         const res = await fetch(`${GH_API}/contents/${path}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
         const data = await res.json();
+
+        // Guarda antes de tentar usar — dá mensagem clara se o ficheiro não existir
+        if (!res.ok || !data.content) {
+            throw new Error(data.message || `Ficheiro não encontrado: ${path}`);
+        }
 
         // FIX 1: remove quebras de linha antes de atob
         const raw = decodeURIComponent(escape(atob(data.content.replace(/\n/g,''))));
