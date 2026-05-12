@@ -512,6 +512,7 @@
         <div class="articles-header">
             <h2>⏳ Esperando Revisão</h2>
             <input type="text" class="search-input" placeholder="Buscar rascunhos..." oninput="filterDraftsList(this.value)">
+            <button class="btn-new" style="background:transparent;border:1px solid var(--border);color:var(--text-dim);font-size:12px;padding:8px 14px;" onclick="limparRascunhosInvalidos()" title="Verificar e remover entradas sem ficheiro no GitHub">🧹 Limpar inválidos</button>
         </div>
         <div id="draftsListContainer">
             <div class="empty-state"><p>Carregando rascunhos...</p></div>
@@ -1112,7 +1113,15 @@ async function editArticle(path, sha) {
 
         // Guarda antes de tentar usar — dá mensagem clara se o ficheiro não existir
         if (!res.ok || !data.content) {
-            throw new Error(data.message || `Ficheiro não encontrado: ${path}`);
+            const msg = data.message || 'Sem conteúdo';
+            if (res.status === 404) {
+                // Oferece remover a entrada inválida do índice
+                if (confirm(`Ficheiro não encontrado no GitHub:\n\n${path}\n\nPode ter sido apagado ou nunca ter sido criado.\n\nRemover esta entrada da lista de rascunhos?`)) {
+                    await removerEntradaRascunho(path);
+                }
+                return;
+            }
+            throw new Error(`${msg} (${res.status})`);
         }
 
         // FIX 1: remove quebras de linha antes de atob
@@ -1170,7 +1179,51 @@ function showToast(msg, type='info') {
 
 setInterval(() => { if (document.getElementById('artTitle')?.value || document.getElementById('artContent')?.value) saveAsDraft(); }, 30000);
 
-/* ─── TAGS SEO ─── */
+/* ─── REMOVE ENTRADA INVÁLIDA DO DRAFTS-INDEX ─── */
+async function removerEntradaRascunho(path) {
+    const token = await getToken();
+    if (!token) { showToast('Token não configurado.', 'error'); return; }
+    try {
+        const r = await fetch(`${GH_API}/contents/drafts-index.json`, {
+            headers: {'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json'}
+        });
+        if (!r.ok) throw new Error('Não foi possível ler o drafts-index.json');
+        const data = await r.json();
+        const drafts = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g,'')))));
+        const updated = drafts.filter(d => d.path !== path);
+        if (updated.length === drafts.length) { showToast('Entrada não encontrada no índice.', 'info'); return; }
+        const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(updated, null, 2))));
+        const res = await fetch(`${GH_API}/contents/drafts-index.json`, {
+            method: 'PUT',
+            headers: {'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json'},
+            body: JSON.stringify({ message: `remove entrada inválida: ${path}`, content: encoded, sha: data.sha, branch: 'main' })
+        });
+        if (!res.ok) throw new Error((await res.json()).message);
+        showToast('✅ Entrada removida do índice.', 'success');
+        allDrafts = allDrafts.filter(d => d.path !== path);
+        renderDraftsList(allDrafts);
+    } catch(e) {
+        showToast(`❌ Erro: ${e.message}`, 'error');
+    }
+}
+
+async function limparRascunhosInvalidos() {
+    const token = await getToken();
+    if (!token) { showToast('Token não configurado.', 'error'); return; }
+    showToast('🔍 Verificando ficheiros...', 'info');
+    const invalidos = [];
+    for (const draft of allDrafts) {
+        const r = await fetch(`${GH_API}/contents/${draft.path}`, {
+            headers: {'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json'}
+        });
+        if (r.status === 404) invalidos.push(draft.path);
+    }
+    if (!invalidos.length) { showToast('✅ Todos os rascunhos existem no GitHub.', 'success'); return; }
+    if (!confirm(`Encontrados ${invalidos.length} rascunho(s) com ficheiro inexistente:\n\n${invalidos.join('\n')}\n\nRemover do índice?`)) return;
+    for (const p of invalidos) await removerEntradaRascunho(p);
+}
+
+/* ─── TOAST ─── */
 const tagValues = ['','',''];
 function slugifyTag(text) { return text.toLowerCase().trim().replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e').replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o').replace(/[úùûü]/g,'u').replace(/[ç]/g,'c').replace(/[ñ]/g,'n').replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,''); }
 function handleTagInput(i) { const inp=document.getElementById('tagInput'+i),pos=inp.selectionStart; inp.value=inp.value.toLowerCase(); inp.setSelectionRange(pos,pos); }
