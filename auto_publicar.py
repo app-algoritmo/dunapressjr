@@ -1,4 +1,4 @@
-import anthropic, requests, json, base64, re, os, sys, time, uuid
+import anthropic, requests, json, base64, re, os, sys, time, uuid, unicodedata
 from datetime import datetime
 
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_KEY", "")
@@ -19,6 +19,23 @@ AGENDA = [
     {"slug": "saude",       "nome": "Saude",        "hora": "18:00"},
     {"slug": "ambiente",    "nome": "Meio Ambiente", "hora": "21:00"},
 ]
+
+# ──────────────────────────────────────────────────────────────
+# FIX: slugify com suporte correto a acentos e caracteres especiais
+# unicodedata.normalize('NFD') decompõe é → e + combining accent
+# .encode('ascii', 'ignore') descarta o combining accent, mantém a letra base
+# Resultado: "Aquíferos" → "aquiferos", "Hídrica" → "hidrica"
+# ──────────────────────────────────────────────────────────────
+def slugify(texto):
+    # Normaliza para NFD: decompõe caracteres acentuados nas suas partes (letra + acento)
+    texto = unicodedata.normalize("NFD", texto)
+    # Encode ASCII ignorando os combining accents (que não têm representação ASCII)
+    texto = texto.encode("ascii", "ignore").decode("ascii")
+    texto = texto.lower().strip()
+    # Substitui qualquer sequência de não-alfanuméricos por "-"
+    texto = re.sub(r"[^a-z0-9]+", "-", texto)
+    # Remove hífens no início/fim e limita tamanho
+    return texto.strip("-")[:60]
 
 def carregar_gastos():
     try:
@@ -102,11 +119,9 @@ def gerar_artigo_batch(categoria):
     texto = resultado.content[0].text.strip()
     texto = re.sub(r"^```json\s*", "", texto)
     texto = re.sub(r"\s*```$", "", texto)
-    # Tenta parse directo
     try:
         return json.loads(texto)
     except json.JSONDecodeError:
-        # Extrai campos manualmente com regex
         def extrair(campo):
             m = re.search(rf'"{campo}"\s*:\s*"((?:[^"\\]|\\.)*)"', texto, re.DOTALL)
             return m.group(1) if m else ""
@@ -140,8 +155,21 @@ CATEGORIA_PASTA = {
 def salvar_github(artigo, categoria_slug):
     agora = datetime.now()
     data_str = agora.strftime("%Y-%m-%d")
-    slug = re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())[:50].strip("-")
-    slug = f"{slug}-{int(time.time()) % 10000}"
+
+    # ──────────────────────────────────────────────────────────
+    # FIX: usa slugify() com normalize NFD em vez de re.sub direto
+    # ANTES: re.sub(r"[^a-z0-9]+", "-", artigo["titulo"].lower())
+    #   → "Aquíferos" virava "aqu-feros" (í não é [a-z0-9])
+    # DEPOIS: slugify() decompõe primeiro í→i, ê→e, ç→c, etc.
+    #   → "Aquíferos" vira "aquiferos" ✓
+    #
+    # FIX: remove sufixo de timestamp aleatório
+    # ANTES: slug = f"{slug}-{int(time.time()) % 10000}"
+    #   → produzia o "321" no final dos títulos
+    # DEPOIS: sem sufixo — data + slug já garante unicidade suficiente
+    # ──────────────────────────────────────────────────────────
+    slug = slugify(artigo["titulo"])
+
     pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
     caminho = f"artigos/{pasta}/{data_str}-{slug}.md"
     tags = artigo.get("tags", [])
@@ -206,17 +234,18 @@ def publicar(categoria):
     try:
         artigo = gerar_artigo_batch(categoria)
         slug = salvar_github(artigo, categoria["slug"])
-        actualizar_drafts_index(artigo, f"artigos/{CATEGORIA_PASTA.get(categoria['slug'], categoria['slug'])}/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md", categoria["slug"])
+        pasta = CATEGORIA_PASTA.get(categoria["slug"], categoria["slug"])
+        caminho = f"artigos/{pasta}/{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
+        actualizar_drafts_index(artigo, caminho, categoria["slug"])
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
         print(f"  ERRO: {e}")
         return False
+
 def actualizar_drafts_index(artigo, caminho, categoria_slug):
     index_url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/drafts-index.json"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    
-    # Lê o index actual
     r = requests.get(index_url, headers=headers, timeout=15)
     if r.status_code == 200:
         data = r.json()
@@ -225,8 +254,6 @@ def actualizar_drafts_index(artigo, caminho, categoria_slug):
     else:
         current = []
         sha = None
-    
-    # Adiciona o novo rascunho
     pasta = CATEGORIA_PASTA.get(categoria_slug, categoria_slug)
     current.insert(0, {
         "title": artigo["titulo"],
@@ -235,17 +262,15 @@ def actualizar_drafts_index(artigo, caminho, categoria_slug):
         "date": datetime.now().strftime("%Y-%m-%d"),
         "status": "draft"
     })
-    
-    # Guarda
     payload = {
         "message": "index: update drafts-index.json",
         "content": base64.b64encode(json.dumps(current, ensure_ascii=False, indent=2).encode("utf-8")).decode()
     }
     if sha:
         payload["sha"] = sha
-    
     requests.put(index_url, json=payload, headers=headers, timeout=15)
     print("  drafts-index.json actualizado")
+
 def publicar_todos():
     sucesso = 0
     for cat in AGENDA:
