@@ -1,21 +1,17 @@
 ---
 title: "A Corrida pelo Controle da Infraestrutura de IA: Quem Vai Decidir o Futuro da Computação Global"
-subtitle: "Enquanto gigantes tecnológicos investem trilhões em data centers e chips proprietários, uma nova guerra silenciosa redefine quem detém o poder sobre a inteligência artificial — e as consequências para governos, empresas e cidadãos comuns"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - technology
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599500/A_Corrida_pelo_Controle_da_Infraestrutura_de_IA_-_Quem_Vai_Decidir_o_Futuro_da_Computac%CC%A7a%CC%83o_Global_annrpg.jpg"
+subtitle: "Enquanto gigantes tecnológicos investem trilhões em data centers e chips proprietários, uma nova guerra silenciosa redefine quem detém o poder sobre a inteligência artificial — e as consequências para governos, empresas e cidadãos comuns"
 description: "A disputa pelo controle da infraestrutura que sustenta a inteligência artificial ultrapassa a competição comercial e assume contornos geopolíticos. Da fabricação de semicondutores à posse de cabos submarinos, este artigo analisa quem são os atores dominantes, quais estratégias estão em curso e por que as decisões tomadas agora vão moldar a arquitetura de poder digital das próximas décadas."
 tags:
-  - tecnologia
-  - analise
-  - duna press
-  - inteligencia artificial
-  - infraestrutura
-  - chips
-  - data centers
-  - geopolitica tech
+  - ia
+  - economia
+keywords: "ia, economia"
 ---
 
 # A Corrida pelo Controle da Infraestrutura de IA: Quem Vai Decidir o Futuro da Computação Global
