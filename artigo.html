@@ -842,9 +842,9 @@ document.getElementById('pageDesc').setAttribute('content', description);
         document.getElementById('breadcrumbTitle').textContent=meta.title;
 
         const catLink=document.getElementById('catLink');
-        catLink.href=catUrl;catLink.textContent=`← ${displayCat}`;catLink.classList.remove('hidden');
+        catLink.href=catUrl;catLink.textContent = `← ${getCatLabel(catSlug)}`;catLink.classList.remove('hidden');
         document.getElementById('catLinkBottom').href=catUrl;
-        document.getElementById('catLinkBottom').textContent=`Ver mais em ${displayCat}`;
+        document.getElementById('catLinkBottom').textContent = `Ver mais em ${getCatLabel(catSlug)}`;
 
         marked.setOptions({breaks:true,gfm:true});
         document.getElementById('artContent').innerHTML=marked.parse(content);
