@@ -1,21 +1,18 @@
 ---
 title: "Crise Hídrica Global: O Colapso Silencioso Que Redesenha Fronteiras e Economias"
-subtitle: "Enquanto governos debatem metas climáticas para 2050, a escassez de água já reescreve tratados, desloca populações e ameaça cadeias alimentares inteiras em 2026"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - environment
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778600441/Crise_Hi%CC%81drica_Global-_O_Colapso_Silencioso_Que_Redesenha_Fronteiras_e_Economias_adjfgu.jpg"
+subtitle: "Enquanto governos debatem metas climáticas para 2050, a escassez de água já reescreve tratados, desloca populações e ameaça cadeias alimentares inteiras em 2026"
 description: "A crise hídrica global deixou de ser uma projeção futura para se tornar o fato político e econômico mais urgente de 2026. Da bacia do Indo ao semiárido brasileiro, da Califórnia ao sul da Europa, a disputa por água potável já provoca tensões diplomáticas, migração forçada e colapso de setores produtivos inteiros. Este artigo analisa os vetores dessa crise, os erros sistêmicos que a alimentam e os caminhos — ainda estreitos — que a ciência e a gestão pública apontam como saída."
 tags:
-  - ambiente
-  - analise
-  - duna press
-  - crise hidrica
+  - crise-hidrica
   - agua
-  - clima
-  - seguranca alimentar
-  - geopolitica
+  - economia
+keywords: "crise-hidrica, agua, economia"
 ---
 
 ## Crise Hídrica Global: O Colapso Silencioso Que Redesenha Fronteiras e Economias
