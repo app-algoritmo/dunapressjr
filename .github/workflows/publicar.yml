@@ -1,5 +1,4 @@
 name: Duna Press — Publicacao Automatica IA
-
 on:
   schedule:
     - cron: '0 9 * * *'
@@ -11,11 +10,15 @@ on:
   workflow_dispatch:
     inputs:
       modo:
-        description: 'todos | gastos'
+        description: 'todos | gastos | tecnologia | economia | ciencia | geopolitica | saude | ambiente'
         required: true
         default: 'todos'
         type: choice
-        options: [todos, gastos]
+        options: [todos, gastos, tecnologia, economia, ciencia, geopolitica, saude, ambiente]
+
+# Permissão explícita para escrever no repositório
+permissions:
+  contents: write
 
 jobs:
   publicar:
@@ -55,7 +58,8 @@ jobs:
         run: |
           git config user.name "Duna Press Bot"
           git config user.email "bot@dunapress.org"
-          git add artigos/ || true
+          # Inclui ficheiros de artigos E o índice de rascunhos
+          git add artigos/ drafts-index.json || true
           git diff --staged --quiet && echo "Nada para commitar" && exit 0
           git commit -m "auto: $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase origin main
