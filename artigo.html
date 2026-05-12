@@ -837,7 +837,7 @@ document.getElementById('pageDesc').setAttribute('content', description);
         document.getElementById('artAuthorAvatar').textContent=author.charAt(0).toUpperCase();
 
         const catUrl=BASE+`/categoria.html?cat=${catSlug}`;
-        document.getElementById('breadcrumbCat').textContent=displayCat;
+        document.getElementById('breadcrumbCat').textContent = getCatLabel(catSlug);
         document.getElementById('breadcrumbCat').href=catUrl;
         document.getElementById('breadcrumbTitle').textContent=meta.title;
 
