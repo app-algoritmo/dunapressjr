@@ -1,20 +1,18 @@
 ---
 title: "A Era dos Materiais Programáveis: Como a Matéria Inteligente Vai Redesenhar a Civilização"
-subtitle: "Pesquisadores avançam em materiais que se adaptam, curam e respondem ao ambiente — e as implicações vão muito além dos laboratórios"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - science
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778599934/A_Era_dos_Materiais_Programa%CC%81veis-_Como_a_Mate%CC%81ria_Inteligente_Vai_Redesenhar_a_Civilizac%CC%A7a%CC%83o_qzvozv.jpg"
+subtitle: "Pesquisadores avançam em materiais que se adaptam, curam e respondem ao ambiente — e as implicações vão muito além dos laboratórios"
 description: "Uma nova fronteira científica emerge com força em 2026: os materiais programáveis, capazes de alterar suas propriedades físicas e químicas em resposta a estímulos externos. Da medicina regenerativa à construção civil adaptativa, a tecnologia promete reescrever as bases da engenharia moderna — mas também levanta questões éticas e geopolíticas que a comunidade científica ainda tenta equacionar."
 tags:
-  - ciencia
-  - analise
-  - duna press
-  - materiais programaveis
-  - nanotecnologia
-  - inovacao
+  - material-programavel
+  - materia-inteligente
   - tecnologia
+keywords: "material-programavel, materia-inteligente, tecnologia"
 ---
 
 ## A Era dos Materiais Programáveis: Como a Matéria Inteligente Vai Redesenhar a Civilização
