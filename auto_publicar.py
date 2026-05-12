@@ -176,7 +176,7 @@ def salvar_local(artigo, categoria_slug):
 title: "{artigo['titulo'].replace('"', "'")}"
 subtitle: "{artigo.get('subtitulo','').replace('"', "'")}"
 date: {data_str}
-status: draft
+status: publish
 author: {artigo['autor']}
 categories:
   - {pasta}
