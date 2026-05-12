@@ -71,9 +71,26 @@
         .editor-mode-tabs { display:flex; border-bottom:1px solid var(--border); }
         .editor-mode-tab { padding:8px 18px; font-size:12px; font-weight:700; letter-spacing:.5px; text-transform:uppercase; background:none; border:none; color:var(--text-dim); cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; }
         .editor-mode-tab.active { color:var(--rust-light); border-bottom-color:var(--rust); }
-        .editor-area { width:100%; min-height:420px; padding:20px 24px; background:transparent; border:none; color:var(--text); font-family:'JetBrains Mono',monospace; font-size:14px; line-height:1.8; resize:vertical; outline:none; }
+
+        /* ────────────────────────────────────────────────
+           FIX 3: área de escrita mais alta
+           Usa altura relativa ao viewport para dar espaço
+        ──────────────────────────────────────────────── */
+        .editor-area {
+            width:100%;
+            min-height: calc(100vh - 310px);
+            padding:20px 24px;
+            background:transparent;
+            border:none;
+            color:var(--text);
+            font-family:'JetBrains Mono',monospace;
+            font-size:14px;
+            line-height:1.8;
+            resize:vertical;
+            outline:none;
+        }
         .editor-area::placeholder { color:var(--text-dimmer); }
-        .preview-area { min-height:420px; padding:20px 24px; display:none; font-family:'Lato',sans-serif; font-size:15px; line-height:1.8; color:#cbd5e1; }
+        .preview-area { min-height:calc(100vh - 310px); padding:20px 24px; display:none; font-family:'Lato',sans-serif; font-size:15px; line-height:1.8; color:#cbd5e1; }
         .preview-area h1,.preview-area h2,.preview-area h3 { font-family:'Playfair Display',serif; color:#f1f5f9; margin:1.5rem 0 .8rem; }
         .preview-area h2 { font-size:1.4rem; border-bottom:1px solid rgba(201,77,58,0.3); padding-bottom:.4rem; }
         .preview-area p { margin-bottom:1.2rem; }
@@ -335,8 +352,6 @@
         <div class="editor-layout">
             <div class="editor-main">
                 <input type="text" class="title-input" id="artTitle" placeholder="Título do artigo..." oninput="updateSlug()">
-
-                <!-- ★ TOOLBAR com novos botões de Imagem e PDF no corpo -->
                 <div class="toolbar">
                     <div class="toolbar-group">
                         <button class="tb-btn" onclick="fmt('bold')" title="Negrito"><b>B</b></button>
@@ -354,14 +369,12 @@
                         <button class="tb-btn" onclick="fmt('hr')" title="Separador">—</button>
                         <button class="tb-btn" onclick="fmt('link')" title="Link">🔗</button>
                     </div>
-                    <!-- ★ Grupo de média -->
                     <div class="toolbar-group">
                         <button class="tb-btn media-btn" onclick="openVideoModal()" title="Incorporar vídeo">🎬 Vídeo</button>
                         <button class="tb-btn media-btn" onclick="openImageModal()" title="Inserir imagem no texto">🖼️ Imagem</button>
                         <button class="tb-btn media-btn" onclick="openPdfModal()" title="Inserir documento PDF">📄 PDF</button>
                     </div>
                 </div>
-
                 <div class="editor-mode-tabs">
                     <button class="editor-mode-tab active" onclick="switchMode('write')" id="mode-write">Escrever</button>
                     <button class="editor-mode-tab" onclick="switchMode('preview')" id="mode-preview">Pré-visualizar</button>
@@ -429,21 +442,16 @@
                             <option value="geopolitics">Geopolítica</option>
                         </select>
                     </div>
-
-                    <!-- ★ NOVO: Subtítulo -->
                     <div class="sidebar-field">
                         <label>Subtítulo <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(opcional)</span></label>
                         <input type="text" id="artSubtitle" placeholder="Complemento do título..." oninput="updateSubtitleCount()">
                         <div class="char-count" id="subtitleCount">0 / 120</div>
                     </div>
-
-                    <!-- ★ NOVO: Resumo para redes sociais -->
                     <div class="sidebar-field">
                         <label>Resumo / Descrição <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(redes sociais)</span></label>
                         <textarea id="artSummary" placeholder="Breve descrição para partilha em redes sociais..." oninput="updateSummaryCount()" style="min-height:80px;"></textarea>
                         <div class="char-count" id="summaryCount">0 / 160</div>
                     </div>
-
                     <div class="sidebar-field">
                         <label>Autor</label>
                         <input type="text" id="artAuthor" placeholder="Nome do autor">
@@ -453,8 +461,6 @@
                         <input type="text" id="artSlug" placeholder="meu-artigo" readonly style="background:var(--bg4);cursor:default;opacity:.7;" oninput="updateSlugPreview()">
                         <div class="slug-preview" id="slugPreview">artigos/global-affairs/2026-05-05-meu-artigo.md</div>
                     </div>
-
-                    <!-- TAGS SEO -->
                     <div class="sidebar-field" style="margin-top:4px;">
                         <label>Tags SEO <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(máx. 3)</span></label>
                         <div class="tags-input-wrap" id="tagsWrap">
@@ -478,7 +484,7 @@
                     </div>
                 </div>
 
-                <!-- ★ NOVO: Links de Referência -->
+                <!-- Links de Referência -->
                 <div class="sidebar-card">
                     <h3>🔗 Links de Referência <span style="font-size:10px;color:var(--text-dimmer);font-weight:400;">(máx. 3)</span></h3>
                     <div class="ref-link-row">
@@ -497,22 +503,21 @@
                         <button class="ref-link-clear" onclick="clearRefLink(2)" title="Limpar">×</button>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 
     <!-- DRAFTS TAB -->
-<div id="panel-drafts" class="admin-content" style="display:none">
-    <div class="articles-header">
-        <h2>⏳ Esperando Revisão</h2>
-        <input type="text" class="search-input" placeholder="Buscar rascunhos..." oninput="filterDraftsList(this.value)">
+    <div id="panel-drafts" class="admin-content" style="display:none">
+        <div class="articles-header">
+            <h2>⏳ Esperando Revisão</h2>
+            <input type="text" class="search-input" placeholder="Buscar rascunhos..." oninput="filterDraftsList(this.value)">
+        </div>
+        <div id="draftsListContainer">
+            <div class="empty-state"><p>Carregando rascunhos...</p></div>
+        </div>
     </div>
-    <div id="draftsListContainer">
-        <div class="empty-state"><p>Carregando rascunhos...</p></div>
-    </div>
-</div>
-   
+
     <!-- ARTICLES TAB -->
     <div id="panel-articles" class="admin-content" style="display:none">
         <div class="articles-header">
@@ -540,6 +545,9 @@ const REPO_NAME  = 'dunapressjr';
 const GH_API     = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
 const ADMINS = ['paulofernandodebarros@gmail.com', 'nataliabellan@gmail.com'];
 let currentUser = null, articleStatus = 'publish', allLoadedArticles = [], GH_TOKEN_CACHED = null;
+
+// FIX 2 — rastreia o path original ao editar um rascunho
+let currentEditingPath = null;
 
 // CLOUDINARY CONFIG
 const CLOUDINARY_CLOUD_NAME = 'dvpqza6z7';
@@ -579,12 +587,8 @@ function updateSummaryCount() {
 }
 
 /* ─── REFERENCE LINKS ─── */
-function clearRefLink(i) {
-    document.getElementById('refLink' + i).value = '';
-}
-function getRefLinks() {
-    return [0,1,2].map(i => document.getElementById('refLink'+i).value.trim()).filter(v => v.length > 0);
-}
+function clearRefLink(i) { document.getElementById('refLink' + i).value = ''; }
+function getRefLinks() { return [0,1,2].map(i => document.getElementById('refLink'+i).value.trim()).filter(v => v.length > 0); }
 
 /* ─── LOGIN ─── */
 function switchLoginTab(tab) {
@@ -728,7 +732,7 @@ function confirmVideoEmbed() {
     closeVideoModal(); showToast('🎬 Vídeo inserido no artigo', 'success');
 }
 
-/* ─── IMAGE IN BODY MODAL (★ NOVO) ─── */
+/* ─── IMAGE IN BODY MODAL ─── */
 let _bodyImageUploadedUrl = '';
 
 function openImageModal() {
@@ -772,7 +776,7 @@ function confirmBodyImage() {
     closeImageModal(); showToast('🖼️ Imagem inserida no artigo', 'success');
 }
 
-/* ─── PDF IN BODY MODAL (★ NOVO) ─── */
+/* ─── PDF IN BODY MODAL ─── */
 let _bodyPdfUploadedUrl = '';
 
 function openPdfModal() {
@@ -893,6 +897,32 @@ function setStatus(s) {
     document.getElementById('publishLabel').textContent = s === 'publish' ? '🚀 Publicar no GitHub' : '📝 Salvar rascunho';
 }
 
+/* ──────────────────────────────────────────────────────────────
+   FIX 2 — remove artigo do drafts-index.json após publicar
+────────────────────────────────────────────────────────────── */
+async function removeFromDraftsIndex(pathToRemove, token) {
+    try {
+        const res = await fetch(`${GH_API}/contents/drafts-index.json`, {
+            headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' }
+        });
+        if (!res.ok) return; // arquivo não existe, nada a fazer
+        const data = await res.json();
+        // FIX 1 aplicado aqui também: .replace(/\n/g,'') antes de atob
+        const drafts = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g,'')))));
+        const updated = drafts.filter(d => d.path !== pathToRemove);
+        if (updated.length === drafts.length) return; // artigo não estava nos rascunhos
+        const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(updated, null, 2))));
+        await fetch(`${GH_API}/contents/drafts-index.json`, {
+            method: 'PUT',
+            headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: `remove rascunho: ${pathToRemove}`, content: encoded, sha: data.sha, branch: 'main' })
+        });
+    } catch(e) {
+        // falha silenciosa — não bloqueia o fluxo principal
+        console.warn('removeFromDraftsIndex:', e.message);
+    }
+}
+
 /* ─── PUBLISH ─── */
 async function publishArticle() {
     const title = document.getElementById('artTitle').value.trim(), content = document.getElementById('artContent').value.trim();
@@ -931,6 +961,16 @@ async function publishArticle() {
         if (sha) body.sha = sha;
         const res = await fetch(`${GH_API}/contents/${filepath}`, { method:'PUT', headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json','Content-Type':'application/json'}, body:JSON.stringify(body) });
         if (!res.ok) throw new Error((await res.json()).message || 'Erro ao publicar');
+
+        // FIX 2 — se publicou (não rascunho), remove do drafts-index
+        if (articleStatus === 'publish') {
+            // Remove pelo path atual E pelo path original (caso tenha mudado ao editar)
+            await removeFromDraftsIndex(filepath, token);
+            if (currentEditingPath && currentEditingPath !== filepath) {
+                await removeFromDraftsIndex(currentEditingPath, token);
+            }
+        }
+
         showToast(`✅ Publicado em ${filepath}`, 'success');
         localStorage.removeItem('duna_draft');
         ['artTitle','artContent','artSlug','artSubtitle','artSummary'].forEach(id => document.getElementById(id).value = '');
@@ -938,6 +978,7 @@ async function publishArticle() {
         document.getElementById('artDate').value = new Date().toISOString().split('T')[0];
         removeCloudinaryImage(); updateSlugPreview(); resetTags();
         updateSubtitleCount(); updateSummaryCount();
+        currentEditingPath = null; // limpa após publicar
     } catch(e) { showToast(`❌ Erro: ${e.message}`, 'error'); }
     finally {
         document.getElementById('publishBtn').disabled = false;
@@ -955,6 +996,7 @@ async function saveAsGitHubDraft() {
     await publishArticle();
     articleStatus = original;
 }
+
 let allDrafts = [];
 async function loadDraftsList() {
     const container = document.getElementById('draftsListContainer');
@@ -980,7 +1022,8 @@ function renderDraftsList(drafts) {
             <div class="table-row-date">${art.date||'—'}</div>
             <div><span style="display:inline-block;padding:3px 10px;border-radius:999px;font-size:10px;font-weight:700;text-transform:uppercase;background:rgba(245,158,11,0.15);color:#fbbf24;border:1px solid rgba(245,158,11,0.2);">Rascunho</span></div>
             <div class="table-actions">
-                <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button><button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑️</button>
+                <button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button>
+                <button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑️</button>
             </div>
         </div>`).join('')}
     </div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${drafts.length} rascunhos</div>`;
@@ -989,8 +1032,9 @@ function renderDraftsList(drafts) {
 function filterDraftsList(q) {
     renderDraftsList(q ? allDrafts.filter(a => a.title.toLowerCase().includes(q.toLowerCase())) : allDrafts);
 }
+
 /* ─── ARTICLES LIST ─── */
-    async function loadArticlesList() {
+async function loadArticlesList() {
     const container = document.getElementById('articlesListContainer');
     container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
     try {
@@ -1018,14 +1062,13 @@ const catLabelMap = { 'politics-and-society':'Política','global-economy':'Econo
 function renderArticlesList(articles) {
     const container = document.getElementById('articlesListContainer');
     if (!articles.length) { container.innerHTML = `<div class="empty-state"><p>Nenhum artigo encontrado.</p></div>`; return; }
- container.innerHTML = `<div class="articles-table"><div class="table-head"><div>Título</div><div>Categoria</div><div>Data</div><div>Status</div><div>Ações</div></div>${articles.map(art=>`<div class="table-row"><div class="table-row-title" title="${art.title}">${art.title}</div><div><span class="cat-pill ${catClassMap[art.category]||'cat-default'}">${catLabelMap[art.category]||art.category}</span></div><div class="table-row-date">${art.date||'—'}</div><div><span class="status-published">Publicado</span></div><div class="table-actions"><button class="act-btn" onclick="viewArticle('${art.path}')">Ver</button><button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button><button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);padding:5px 8px;font-size:14px;" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑</button></div></div>`).join('')}</div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${articles.length} artigos</div>`;
+    container.innerHTML = `<div class="articles-table"><div class="table-head"><div>Título</div><div>Categoria</div><div>Data</div><div>Status</div><div>Ações</div></div>${articles.map(art=>`<div class="table-row"><div class="table-row-title" title="${art.title}">${art.title}</div><div><span class="cat-pill ${catClassMap[art.category]||'cat-default'}">${catLabelMap[art.category]||art.category}</span></div><div class="table-row-date">${art.date||'—'}</div><div><span class="status-published">Publicado</span></div><div class="table-actions"><button class="act-btn" onclick="viewArticle('${art.path}')">Ver</button><button class="act-btn edit" onclick="editArticle('${art.path}','${art.sha}')">Editar</button><button class="act-btn" style="color:#f87171;border-color:rgba(239,68,68,0.3);padding:5px 8px;font-size:14px;" onclick="eliminarArtigo('${art.path}','${art.sha}','${art.title}')">🗑</button></div></div>`).join('')}</div><div style="padding:12px 20px;font-size:12px;color:var(--text-dimmer);text-align:right;">${articles.length} artigos</div>`;
 }
+
 async function eliminarArtigo(path, sha, title) {
     if (!confirm(`Eliminar "${title}"?\n\nEsta acção é irreversível.`)) return;
     const token = await getToken();
     if (!token) { showToast('Token não configurado.', 'error'); return; }
-    
-    // Se não temos sha, busca-o
     let fileSha = sha;
     if (!fileSha) {
         const r = await fetch(`${GH_API}/contents/${path}`, {
@@ -1033,7 +1076,6 @@ async function eliminarArtigo(path, sha, title) {
         });
         if (r.ok) fileSha = (await r.json()).sha;
     }
-    
     showToast('🗑️ Eliminando...', 'info');
     try {
         const res = await fetch(`${GH_API}/contents/${path}`, {
@@ -1043,7 +1085,6 @@ async function eliminarArtigo(path, sha, title) {
         });
         if (!res.ok) throw new Error((await res.json()).message);
         showToast('✅ Artigo eliminado!', 'success');
-        // Remove da lista local
         allLoadedArticles = allLoadedArticles.filter(a => a.path !== path);
         allDrafts = allDrafts.filter(a => a.path !== path);
         renderArticlesList(allLoadedArticles);
@@ -1052,15 +1093,27 @@ async function eliminarArtigo(path, sha, title) {
         showToast(`❌ Erro: ${e.message}`, 'error');
     }
 }
+
 function filterArticlesList(q) { renderArticlesList(q ? allLoadedArticles.filter(a => a.title.toLowerCase().includes(q.toLowerCase())||a.category.toLowerCase().includes(q.toLowerCase())) : allLoadedArticles); }
 function viewArticle(path) { window.open(`https://app-algoritmo.github.io/dunapressjr/artigo.html?file=/${path}`,'_blank'); }
 
+/* ──────────────────────────────────────────────────────────────
+   FIX 1 — editArticle: atob com .replace(/\n/g,'') para corrigir
+            "Failed to execute 'atob': string not correctly encoded"
+   FIX 2 — guarda currentEditingPath para remover do drafts-index
+────────────────────────────────────────────────────────────── */
 async function editArticle(path, sha) {
     const token = await getToken(); showToast('Carregando artigo...','info');
     try {
         const res = await fetch(`${GH_API}/contents/${path}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
         const data = await res.json();
-        const raw = decodeURIComponent(escape(atob(data.content)));
+
+        // FIX 1: remove quebras de linha antes de atob
+        const raw = decodeURIComponent(escape(atob(data.content.replace(/\n/g,''))));
+
+        // FIX 2: guarda o path original para poder remover do drafts-index
+        currentEditingPath = path;
+
         const fm = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
         if (fm) {
             const block = fm[1], content = fm[2];
@@ -1087,7 +1140,6 @@ async function editArticle(path, sha) {
                 document.getElementById('cloudinaryBox').classList.add('has-image');
             }
             if (cM) { const sel = document.getElementById('artCategory'); const opt = Array.from(sel.options).find(o=>o.value===cM[1].trim()); if(opt) sel.value=opt.value; }
-            // parse references
             const refsBlock = block.match(/^references:\n((?:  - .+\n?)+)/m);
             if (refsBlock) {
                 const links = [...refsBlock[1].matchAll(/  - (.+)/g)].map(m=>m[1].trim());
