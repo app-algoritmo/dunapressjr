@@ -10,7 +10,7 @@ subtitle: "Estudos recentes apontam que um terço dos principais aquíferos do p
 description: "A extração descontrolada de águas subterrâneas está a comprometer aquíferos em todos os continentes. Com a agricultura industrial a consumir até 70% das reservas e as alterações climáticas a reduzir a recarga natural, cientistas alertam para um ponto de não retorno que pode transformar regiões inteiras em zonas de instabilidade social e económica até 2040."
 ---
 
-## O Chão Que Afunda, a Água Que Desaparece
+**O Chão Que Afunda, a Água Que Desaparece**
 
 Há uma crise a desenrolar-se debaixo dos nossos pés, literalmente. Enquanto o debate climático se concentra nas temperaturas, nos furacões e no degelo polar, uma outra emergência ambiental avança de forma quase invisível: o esgotamento progressivo e acelerado dos aquíferos subterrâneos, as grandes reservas de água doce que sustentam civilizações inteiras há milénios.
 
