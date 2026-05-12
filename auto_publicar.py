@@ -197,7 +197,8 @@ tags:
     print(f"  GitHub: {caminho}")
     r = requests.put(url, json=payload, headers=headers, timeout=30)
     if r.status_code not in (200, 201):
-        print(f"  GitHub erro {r.status_code}: {r.text[:200]}")
+        # Lança exceção — impede que drafts-index.json receba entrada para ficheiro inexistente
+        raise RuntimeError(f"GitHub erro {r.status_code}: {r.text[:300]}")
     return slug
 
 def inserir_supabase(artigo, slug, categoria_slug):
