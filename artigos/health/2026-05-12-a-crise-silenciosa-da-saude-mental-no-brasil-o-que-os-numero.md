@@ -1,22 +1,18 @@
 ---
 title: "A Crise Silenciosa da Saúde Mental no Brasil: O Que os Números de 2026 Revelam"
-subtitle: "Com mais de 30 milhões de brasileiros afetados por transtornos mentais e um sistema público sobrecarregado, o país enfrenta um colapso anunciado que exige resposta urgente das políticas de saúde"
 date: 2026-05-12
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - health
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778577640/A_Crise_Silenciosa_da_Sau%CC%81de_Mental_no_Brasil_-_O_Que_os_Nu%CC%81meros_de_2026_Revelam_ec2xww.jpg"
+subtitle: "Com mais de 30 milhões de brasileiros afetados por transtornos mentais e um sistema público sobrecarregado, o país enfrenta um colapso anunciado que exige resposta urgente das políticas de saúde"
 description: "O Brasil registra em 2026 índices alarmantes de transtornos mentais, com depressão e ansiedade liderando um quadro agravado pela herança pós-pandêmica, desigualdade social e insuficiência estrutural do sistema de saúde. Uma análise aprofundada sobre os dados, os gargalos do SUS e os caminhos possíveis para uma crise que afeta silenciosamente milhões de famílias brasileiras."
 tags:
-  - saude
-  - analise
-  - duna press
-  - saude mental
+  - saude-mental
+  - virus
   - sus
-  - politicas publicas
-  - psicologia
-  - ansiedade
-  - depressao
+keywords: "saude-mental, virus, sus"
 ---
 
 ## A Crise Silenciosa da Saúde Mental no Brasil: O Que os Números de 2026 Revelam
