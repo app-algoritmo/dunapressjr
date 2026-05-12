@@ -800,6 +800,7 @@
     .sala-left { max-width: 100%; }
 }
     </style>
+    <script src="/categorias.js"></script>
 </head>
 <body class="duna-gradient min-h-screen">
 
@@ -1978,7 +1979,7 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
                 // 3. Mapeia os arquivos .md
                 return await Promise.all(files.filter(f=>f.name.endsWith('.md')).map(async f => {
                     const dateM = f.name.match(/^(\d{4}-\d{2}-\d{2})-/);
-                    let slug = f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','');
+                    const slug = f.name.replace(/^\d{4}-\d{2}-\d{2}-/,'').replace('.md','');
                     
                     // 4. Tenta buscar o frontmatter rapidamente para pegar a featuredImage
                     let featuredImage = null;
@@ -1986,21 +1987,15 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
                         // Fetch do conteúdo bruto
                         const contentRes = await fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/${f.path}`);
                         if(contentRes.ok) {
-                        const text = await contentRes.text();
-                        // Filtra rascunhos — não aparecem no site público
-                        const statusMatch = text.match(/^status:\s*(.+)\s*$/m);
-                        if(statusMatch && statusMatch[1].trim() === 'draft') return null;
-                        // Lê título real do frontmatter (com acentos)
-                        const titleMatch = text.match(/^title:\s*["']?(.*?)["']?\s*$/m);
-                        if(titleMatch) slug = titleMatch[1].replace(/^["']|["']$/g,'');
-                        // Imagem de destaque
-                        const imgMatch = text.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);
-                        if(imgMatch) featuredImage = imgMatch[1].trim().replace(/^["']|["']$/g,'');
+                            const text = await contentRes.text();
+                            // Regex simples para pegar featuredImage: "url"
+                            const imgMatch = text.match(/^featuredImage:\s*["']?(.+?)["']?\s*$/m);
+                            if(imgMatch) featuredImage = imgMatch[1].trim().replace(/^["']|["']$/g,'');
                         }
                     } catch(e) { console.warn('Erro ao ler frontmatter de', f.name); }
 
                     return {
-                        title: slug,
+                        title: slug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()),
                         date: dateM ? dateM[1] : '',
                         path: f.path,
                         category: cat.name,
@@ -2013,7 +2008,7 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
             } catch(e) { return []; }
         }));
         
-        allArticles = results.flat().filter(Boolean).sort(...)
+        allArticles = results.flat().sort((a,b)=>b.date.localeCompare(a.date));
         filteredArticles = [...allArticles];
         displayedCount = 0;
         
