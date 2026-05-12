@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "title": "Crise Hídrica Global: O Colapso Silencioso Que Redesenha Fronteiras e Economias",
+    "path": "artigos/environment/2026-05-12-crise-hidrica-global-o-colapso-silencioso-que-redesenha-fron.md",
+    "category": "environment",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Crise Silenciosa da Saúde Mental no Brasil: O Que os Números de 2026 Revelam",
+    "path": "artigos/health/2026-05-12-a-crise-silenciosa-da-saude-mental-no-brasil-o-que-os-numero.md",
+    "category": "health",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Reconfiguração do Tabuleiro Global: Potências Emergentes e o Fim da Ordem Unipolar",
+    "path": "artigos/geopolitics/2026-05-12-a-reconfiguracao-do-tabuleiro-global-potencias-emergentes-e-.md",
+    "category": "geopolitics",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Era dos Materiais Programáveis: Como a Matéria Inteligente Vai Redesenhar a Civilização",
+    "path": "artigos/science/2026-05-12-a-era-dos-materiais-programaveis-como-a-materia-inteligente-.md",
+    "category": "science",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "Brasil em Encruzilhada Fiscal: O Dilema Entre Crescimento e Sustentabilidade da Dívida em 2026",
+    "path": "artigos/global-economy/2026-05-12-brasil-em-encruzilhada-fiscal-o-dilema-entre-crescimento-e-s.md",
+    "category": "global-economy",
+    "date": "2026-05-12",
+    "status": "draft"
+  },
+  {
+    "title": "A Corrida pelo Controle da Infraestrutura de IA: Quem Vai Decidir o Futuro da Computação Global",
+    "path": "artigos/technology/2026-05-12-a-corrida-pelo-controle-da-infraestrutura-de-ia-quem-vai-dec.md",
+    "category": "technology",
+    "date": "2026-05-12",
+    "status": "draft"
+  }
+]
