@@ -827,7 +827,7 @@ document.getElementById('pageDesc').setAttribute('content', description);
 // ─────────────────────────────────────────────────────────────
 
         const badge=document.getElementById('artBadge');
-        badge.textContent=displayCat;
+        badge.textContent = getCatLabel(catSlug);
         badge.className='badge '+getBadgeClass(catSlug);
 
         document.getElementById('artDate').textContent=formatDate(meta.date);
