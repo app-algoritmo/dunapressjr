@@ -762,7 +762,7 @@ async function loadRelated(category, currentPath) {
                 const badgeClass = getBadgeClass(a.category);
                 return `<div onclick="window.location='${url}'" class="cursor-pointer p-4 rounded-xl border border-slate-700/50 hover:border-red-900/40 transition-all" style="background:rgba(25,25,25,0.6)">
                     <div class="flex items-center gap-2 mb-2">
-                        <span class="badge ${badgeClass}" style="font-size:9px;padding:2px 8px;">${a.category.replace(/-/g,' ')}</span>
+                        <span class="badge ${badgeClass}" style="font-size:9px;padding:2px 8px;">${getCatLabel(a.category)}</span>
                         <span class="text-xs text-slate-500">${date}</span>
                     </div>
                     <p class="text-sm font-semibold text-white leading-snug hover:text-red-400 transition-colors">${title}</p>
