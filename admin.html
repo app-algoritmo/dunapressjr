@@ -177,6 +177,13 @@
         .cat-health { background:linear-gradient(135deg,#be185d,#db2777); }
         .cat-opinion { background:linear-gradient(135deg,#7c3aed,#5b21b6); }
         .cat-global-affairs { background:linear-gradient(135deg,#1e40af,#2563eb); }
+        .cat-geopolitics { background:linear-gradient(135deg,#1e3a5f,#1e40af); }
+        .cat-environment { background:linear-gradient(135deg,#14532d,#15803d); }
+        .cat-history { background:linear-gradient(135deg,#78350f,#92400e); }
+        .cat-education { background:linear-gradient(135deg,#1e4e79,#1d4ed8); }
+        .cat-culture { background:linear-gradient(135deg,#6b21a8,#9333ea); }
+        .cat-sports { background:linear-gradient(135deg,#0c4a6e,#0369a1); }
+        .cat-lifestyle { background:linear-gradient(135deg,#9d174d,#be185d); }
         .cat-default { background:linear-gradient(135deg,#475569,#334155); }
 
         /* ─── TAGS ─── */
@@ -426,20 +433,97 @@
                     <div class="sidebar-field">
                         <label>Categoria</label>
                         <select id="artCategory" onchange="updateSlugPreview()">
-                            <option value="global-affairs">Assuntos Globais (Global Affairs)</option>
-                            <option value="politics-and-society">Política</option>
-                            <option value="global-economy">Economia</option>
-                            <option value="science">Ciência</option>
-                            <option value="technology">Tecnologia</option>
-                            <option value="health">Saúde</option>
-                            <option value="opinion">Opinião</option>
-                            <option value="international-relations">Relações Internacionais</option>
-                            <option value="international-politics">Política Internacional</option>
-                            <option value="history">História</option>
-                            <option value="culture-and-history">Cultura e História</option>
-                            <option value="education">Educação</option>
-                            <option value="environment">Meio Ambiente</option>
-                            <option value="geopolitics">Geopolítica</option>
+                            <optgroup label="── Principal ──">
+                                <option value="global-affairs">Assuntos Globais</option>
+                                <option value="news">Notícias</option>
+                                <option value="opinion">Opinião</option>
+                                <option value="editorial">Editorial</option>
+                                <option value="features">Reportagens</option>
+                                <option value="headlines">Destaques</option>
+                            </optgroup>
+                            <optgroup label="── Política e Mundo ──">
+                                <option value="politics-and-society">Política e Sociedade</option>
+                                <option value="geopolitics">Geopolítica</option>
+                                <option value="international-affairs">Assuntos Internacionais</option>
+                                <option value="international-relations">Relações Internacionais</option>
+                                <option value="international-politics">Política Internacional</option>
+                                <option value="world-affairs">Assuntos Mundiais</option>
+                                <option value="policy">Política Pública</option>
+                                <option value="military">Militar</option>
+                                <option value="ethics-and-society">Ética e Sociedade</option>
+                                <option value="society-and-culture">Sociedade e Cultura</option>
+                            </optgroup>
+                            <optgroup label="── Economia e Negócios ──">
+                                <option value="global-economy">Economia Global</option>
+                                <option value="business-and-economy">Negócios e Economia</option>
+                                <option value="finances">Finanças</option>
+                                <option value="financial-education">Educação Financeira</option>
+                                <option value="entrepreneurship">Empreendedorismo</option>
+                                <option value="shopping">Compras</option>
+                            </optgroup>
+                            <optgroup label="── Ciência e Tecnologia ──">
+                                <option value="science">Ciência</option>
+                                <option value="technology">Tecnologia</option>
+                                <option value="innovation">Inovação</option>
+                                <option value="future-and-innovation">Futuro e Inovação</option>
+                                <option value="astronomy">Astronomia</option>
+                                <option value="e-auto">E-Auto</option>
+                            </optgroup>
+                            <optgroup label="── Saúde e Bem-Estar ──">
+                                <option value="health">Saúde</option>
+                                <option value="well-being">Bem-Estar</option>
+                                <option value="fitness">Fitness</option>
+                                <option value="personal-development">Desenvolvimento Pessoal</option>
+                                <option value="motivational">Motivacional</option>
+                            </optgroup>
+                            <optgroup label="── Cultura e Sociedade ──">
+                                <option value="culture-and-history">Cultura e História</option>
+                                <option value="history">História</option>
+                                <option value="history-and-philosophy">História e Filosofia</option>
+                                <option value="philosophy">Filosofia</option>
+                                <option value="literature">Literatura</option>
+                                <option value="books">Livros</option>
+                                <option value="music">Música</option>
+                                <option value="architecture-and-art">Arquitetura e Arte</option>
+                                <option value="chronicle">Crônica</option>
+                                <option value="story">Conto</option>
+                                <option value="religiosity">Religiosidade</option>
+                                <option value="magazine">Revista</option>
+                            </optgroup>
+                            <optgroup label="── Desporto ──">
+                                <option value="sports">Desporto</option>
+                                <option value="soccer">Futebol</option>
+                                <option value="tennis">Tênis</option>
+                                <option value="formula-1">Fórmula 1</option>
+                                <option value="cycling">Ciclismo</option>
+                                <option value="olympic-games">Jogos Olímpicos</option>
+                                <option value="pan-american-games">Jogos Pan-Americanos</option>
+                            </optgroup>
+                            <optgroup label="── Estilo de Vida ──">
+                                <option value="lifestyle">Estilo de Vida</option>
+                                <option value="food">Gastronomia</option>
+                                <option value="tourism-and-gastronomy">Turismo e Gastronomia</option>
+                                <option value="fashion">Moda</option>
+                                <option value="beauty">Beleza</option>
+                                <option value="pets">Animais de Estimação</option>
+                                <option value="agriculture">Agricultura</option>
+                            </optgroup>
+                            <optgroup label="── Educação e Carreira ──">
+                                <option value="education">Educação</option>
+                                <option value="courses-and-careers">Cursos e Carreiras</option>
+                                <option value="works">Trabalho e Carreira</option>
+                            </optgroup>
+                            <optgroup label="── Media e Digital ──">
+                                <option value="social-networks">Redes Sociais</option>
+                                <option value="video-library">Videoteca</option>
+                                <option value="documentaries">Documentários</option>
+                            </optgroup>
+                            <optgroup label="── Ambiente ──">
+                                <option value="environment">Meio Ambiente</option>
+                                <option value="covid-19">Covid-19</option>
+                                <option value="events">Eventos</option>
+                                <option value="bicentennial">Bicentenário</option>
+                            </optgroup>
                         </select>
                     </div>
                     <div class="sidebar-field">
@@ -1057,8 +1141,62 @@ async function loadArticlesList() {
     }
 }
 
-const catClassMap = { 'politics-and-society':'cat-politics','global-economy':'cat-economy','science':'cat-science','technology':'cat-technology','health':'cat-health','opinion':'cat-opinion','global-affairs':'cat-global-affairs' };
-const catLabelMap = { 'politics-and-society':'Política','global-economy':'Economia','science':'Ciência','technology':'Tecnologia','health':'Saúde','opinion':'Opinião','global-affairs':'Global Affairs','international-relations':'Int. Relations','international-politics':'Int. Politics','history':'História','education':'Educação','environment':'Ambiente','geopolitics':'Geopolítica','culture-and-history':'Cultura & História' };
+const catClassMap = {
+    'politics-and-society':'cat-politics','global-economy':'cat-economy','science':'cat-science',
+    'technology':'cat-technology','health':'cat-health','opinion':'cat-opinion',
+    'global-affairs':'cat-global-affairs','geopolitics':'cat-geopolitics',
+    'environment':'cat-environment','history':'cat-history','education':'cat-education',
+    'international-affairs':'cat-global-affairs','international-relations':'cat-global-affairs',
+    'international-politics':'cat-politics','world-affairs':'cat-global-affairs',
+    'business-and-economy':'cat-economy','finances':'cat-economy','financial-education':'cat-economy',
+    'entrepreneurship':'cat-economy','global-economy':'cat-economy',
+    'innovation':'cat-technology','future-and-innovation':'cat-technology',
+    'astronomy':'cat-science','e-auto':'cat-technology',
+    'well-being':'cat-health','fitness':'cat-health','personal-development':'cat-health',
+    'culture-and-history':'cat-history','history-and-philosophy':'cat-history',
+    'philosophy':'cat-opinion','literature':'cat-culture','books':'cat-culture',
+    'music':'cat-culture','architecture-and-art':'cat-culture','chronicle':'cat-opinion',
+    'story':'cat-culture','religiosity':'cat-culture','magazine':'cat-default',
+    'sports':'cat-sports','soccer':'cat-sports','tennis':'cat-sports',
+    'formula-1':'cat-sports','cycling':'cat-sports','olympic-games':'cat-sports',
+    'pan-american-games':'cat-sports',
+    'lifestyle':'cat-lifestyle','food':'cat-lifestyle','tourism-and-gastronomy':'cat-lifestyle',
+    'fashion':'cat-lifestyle','beauty':'cat-lifestyle','pets':'cat-lifestyle',
+    'agriculture':'cat-environment','social-networks':'cat-technology',
+    'video-library':'cat-culture','documentaries':'cat-culture',
+    'courses-and-careers':'cat-education','works':'cat-education',
+    'ethics-and-society':'cat-politics','society-and-culture':'cat-culture',
+    'policy':'cat-politics','military':'cat-politics',
+    'motivational':'cat-health','shopping':'cat-lifestyle',
+    'news':'cat-global-affairs','headlines':'cat-global-affairs',
+    'features':'cat-default','editorial':'cat-opinion',
+    'covid-19':'cat-health','events':'cat-default','bicentennial':'cat-history',
+};
+const catLabelMap = {
+    'global-affairs':'Global Affairs','politics-and-society':'Política','global-economy':'Economia',
+    'science':'Ciência','technology':'Tecnologia','health':'Saúde','opinion':'Opinião',
+    'international-relations':'Rel. Internacionais','international-politics':'Pol. Internacional',
+    'history':'História','culture-and-history':'Cultura & História','education':'Educação',
+    'environment':'Ambiente','geopolitics':'Geopolítica','news':'Notícias',
+    'editorial':'Editorial','features':'Reportagens','headlines':'Destaques',
+    'international-affairs':'Ass. Internacionais','world-affairs':'Ass. Mundiais',
+    'policy':'Pol. Pública','military':'Militar','ethics-and-society':'Ética & Sociedade',
+    'society-and-culture':'Sociedade & Cultura','business-and-economy':'Negócios & Economia',
+    'finances':'Finanças','financial-education':'Ed. Financeira','entrepreneurship':'Empreendedorismo',
+    'shopping':'Compras','innovation':'Inovação','future-and-innovation':'Futuro & Inovação',
+    'astronomy':'Astronomia','e-auto':'E-Auto','well-being':'Bem-Estar','fitness':'Fitness',
+    'personal-development':'Desenv. Pessoal','motivational':'Motivacional',
+    'history-and-philosophy':'Hist. & Filosofia','philosophy':'Filosofia','literature':'Literatura',
+    'books':'Livros','music':'Música','architecture-and-art':'Arquitetura & Arte',
+    'chronicle':'Crônica','story':'Conto','religiosity':'Religiosidade','magazine':'Revista',
+    'sports':'Desporto','soccer':'Futebol','tennis':'Tênis','formula-1':'Fórmula 1',
+    'cycling':'Ciclismo','olympic-games':'J. Olímpicos','pan-american-games':'J. Pan-Americanos',
+    'lifestyle':'Estilo de Vida','food':'Gastronomia','tourism-and-gastronomy':'Turismo & Gastro',
+    'fashion':'Moda','beauty':'Beleza','pets':'Animais','agriculture':'Agricultura',
+    'social-networks':'Redes Sociais','video-library':'Videoteca','documentaries':'Documentários',
+    'courses-and-careers':'Cursos & Carreiras','works':'Trabalho','covid-19':'Covid-19',
+    'events':'Eventos','bicentennial':'Bicentenário',
+};
 
 function renderArticlesList(articles) {
     const container = document.getElementById('articlesListContainer');
