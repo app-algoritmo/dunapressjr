@@ -680,7 +680,7 @@ window.addEventListener('scroll',()=>{
     document.getElementById('progressBar').style.width=(s/h*100)+'%';
 });
 
-function getBadgeClass(cat){
+function getBadgeClass(cat) { return getCatBadge(cat); }
     const c=(cat||'').toLowerCase().trim();
     const map={'news':'badge-noticias','noticias':'badge-noticias','politics':'badge-politica','politics-and-society':'badge-politica','policy':'badge-politica','opinion':'badge-opinion','global-economy':'badge-economia','economy':'badge-economia','science':'badge-ciencia','technology':'badge-tecnologia','tech':'badge-tecnologia','health':'badge-saude','education':'badge-educacao','history':'badge-history','culture':'badge-culture','culture-and-history':'badge-culture','geopolitics':'badge-politica','international-relations':'badge-politica'};
     return map[c]||'badge-default';
