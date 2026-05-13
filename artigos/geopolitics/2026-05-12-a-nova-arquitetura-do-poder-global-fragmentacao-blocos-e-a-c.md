@@ -1,21 +1,13 @@
 ---
 title: "A Nova Arquitetura do Poder Global: Fragmentação, Blocos e a Crise da Ordem Liberal"
-subtitle: "A multipolaridade não é mais uma teoria acadêmica — é a realidade operacional de um sistema internacional que se reorganiza em velocidade sem precedentes, desafiando instituições, alianças e as próprias regras do jogo geopolítico do pós-Guerra Fria."
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - geopolitics
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778655335/A_Nova_Arquitetura_do_Poder_Global-_Fragmentac%CC%A7a%CC%83o_Blocos_e_a_Crise_da_Ordem_Liberal_vuzfze.jpg"
+subtitle: "A multipolaridade não é mais uma teoria acadêmica — é a realidade operacional de um sistema internacional que se reorganiza em velocidade sem precedentes, desafiando instituições, alianças e as próprias regras do jogo geopolítico do pós-Guerra Fria."
 description: "O sistema internacional de 2026 já não se organiza segundo a lógica unipolar que definiu as três décadas posteriores ao colapso soviético. A competição entre grandes potências, a erosão das instituições multilaterais e a consolidação de blocos regionais alternativos redesenham o mapa do poder global com consequências diretas para diplomacia, economia e segurança."
-tags:
-  - geopolitica
-  - analise
-  - duna press
-  - multipolaridade
-  - ordem mundial
-  - geopolitica 2026
-  - blocos regionais
-  - crise liberal
 ---
 
 ## A Nova Arquitetura do Poder Global: Fragmentação, Blocos e a Crise da Ordem Liberal
