@@ -1,12 +1,11 @@
 ---
-title: Saindo da zona de conforto - 02
+title: "Saindo da zona de conforto - 02"
 date: 2018-08-08
 status: publish
 author: Leonardo Gabossa
 categories:
-- Opinion
+  - global-affairs
 ---
-
 
 Até que toda a humanidade não saia da zona de conforto de forma coletiva, ou uma grande quantidade de pessoas saiam, tudo se manterá o caos que hoje se encontra.
 
@@ -61,5 +60,3 @@ Mt, 6: 33. Busquem, pois, em primeiro lugar o Reino de Deus e a sua justiça, e 
 Não encontre desculpas, encontre um jeito!
 
 Como todo conhecimento, de nada adianta apenas entender o que está escrito, é preciso AÇÃO, ou seja, DIVULGAR E COLOCAR EM PRÁTICA. SUCESSO!
-
-Créditos de imagem: Unsplash. Fotografia de Emma Simpson.
