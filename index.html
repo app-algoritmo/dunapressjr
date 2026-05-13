@@ -953,140 +953,22 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-        <!-- Banner de Assinatura Duna Press -->
-<section class="mb-6 md:mb-10">
-    <style>
-        /* CSS Específico do Banner Ajustado */
-        .duna-sub-banner {
-            background: linear-gradient(135deg, #2a1a16 0%, #1a1815 100%);
-            border: 1px solid rgba(224, 101, 82, 0.2);
-            border-radius: 16px;
-            padding: 1.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 2rem;
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
-            transition: transform 0.3s ease;
-        }
-        .duna-sub-banner:hover {
-            transform: translateY(-2px);
-            border-color: rgba(224, 101, 82, 0.4);
-        }
-        /* Elemento decorativo de fundo */
-        .duna-sub-banner::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            right: -10%;
-            width: 300px;
-            height: 300px;
-            background: radial-gradient(circle, rgba(224, 101, 82, 0.08) 0%, transparent 70%);
-            border-radius: 50%;
-            pointer-events: none;
-        }
-        
-        .duna-sub-content {
-            z-index: 1;
-            flex: 1;
-        }
-        .duna-sub-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #fff;
-            margin-bottom: 0.5rem;
-            line-height: 1.2;
-        }
-        .duna-sub-desc {
-            font-family: 'Inter', sans-serif;
-            font-size: 0.9rem;
-            color: #94a3b8;
-            margin-bottom: 1rem;
-            line-height: 1.5;
-        }
-        .duna-sub-benefits {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
-        .duna-benefit {
-            font-size: 0.75rem;
-            color: #ea8e80;
-            display: flex;
-            align-items: center;
-            gap: 4px;
-            font-weight: 500;
-        }
-        
-        .duna-sub-action {
-            z-index: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 0.5rem;
-            min-width: 180px;
-        }
-        .duna-sub-btn {
-            background: linear-gradient(135deg, #e06552, #c94d3a);
-            color: white;
-            padding: 12px 24px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            transition: all 0.2s ease;
-            text-align: center;
-            box-shadow: 0 4px 12px rgba(224, 101, 82, 0.3);
-        }
-        .duna-sub-btn:hover {
-            background: linear-gradient(135deg, #ea8e80, #e06552);
-            transform: scale(1.02);
-        }
-        .duna-sub-price {
-            font-size: 0.7rem;
-            color: #64748b;
-            text-align: center;
-        }
 
-        /* Responsividade Mobile */
-        @media (max-width: 768px) {
-            .duna-sub-banner {
-                flex-direction: column;
-                text-align: center;
-                padding: 1.25rem;
-                gap: 1.5rem;
-            }
-            .duna-sub-benefits {
-                justify-content: center;
-            }
-            .duna-sub-action {
-                width: 100%;
-            }
-            .duna-sub-btn {
-                width: 100%;
-            }
-        }
-    </style>
-
-    <div class="duna-sub-banner">
-        <div class="duna-sub-content">
-            <h3 class="duna-sub-title">Torne-se Assinante.</h3>
-            <p class="duna-sub-desc">Sua assinatura garante nossa liberdade editorial. Acesse análises exclusivas e conteúdo sem paywall.</p>
-            <div class="duna-sub-benefits">
-                <span class="duna-benefit">✓ Análise aprofundada</span>
-                <span class="duna-benefit">✓ Newsletter Premium</span>
-                <span class="duna-benefit">✓ Liberdade Editorial</span>
+            <!-- Side 3 -->
+            <div class="flex-1 relative group cursor-pointer rounded-xl overflow-hidden bg-slate-800/50 border border-slate-700/50 hover:border-duna-500/30 transition-all" onclick="openVideoModal('side3')">
+            <img id="hero-side3-img" src="" class="absolute inset-0 w-full h-full object-cover opacity-50" onload="document.getElementById('hero-side3-fallback').style.display='none'">
+            <div id="hero-side3-fallback" class="absolute inset-0 bg-gradient-to-br from-duna-600/40 to-duna-900/40"></div>
+                <div class="relative p-4 md:p-5 h-full flex flex-col justify-between">
+                    <div>
+                        <span id="hero-side3-badge" class="badge-tech px-2 py-1 rounded-full text-[10px] font-bold text-white mb-2 inline-block">Carregando...</span>
+                        <h3 id="hero-side3-title" class="text-sm md:text-lg font-serif font-bold text-white group-hover:text-duna-200 transition-colors leading-snug">Carregando...</h3>
+                    </div>
+                    <div class="flex items-center justify-between mt-2 md:mt-3">
+                        <span id="hero-side3-meta" class="text-xs text-slate-400">...</span>
+                        <div class="w-8 md:w-10 h-8 md:h-10 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0"><svg class="w-4 md:w-5 h-4 md:h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="duna-sub-action">
-            <a href="https://dunapress.org/assinatura" class="duna-sub-btn">Assinar Agora</a>
-            <span class="duna-sub-price">R$ 7/mês • Cancele quando quiser</span>
         </div>
     </div>
 </section>
@@ -1536,7 +1418,7 @@
 
         // ==================== VIDEO DATA ====================
         // ── Auto-updated by GitHub Actions from YouTube RSS ──────────────────
-        // ── Last updated: 2026-05-13 10:29 UTC ──
+        // ── Last updated: 2026-05-13 07:50 UTC ──
         const videoData = {
             featured: {
                 title:    "O batismo da IA, foi correto chamar de inteligente?",
