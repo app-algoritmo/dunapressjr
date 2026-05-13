@@ -1,13 +1,11 @@
 ---
-title: Saindo da zona de conforto! - 03
+title: "Saindo da zona de conforto! - 03"
 date: 2018-09-12
 status: publish
 author: Leonardo Gabossa
 categories:
-- Opinion
-- Religiosity
+  - global-affairs
 ---
-
 
 Em continuação aos dois artigos passados, de algumas semanas atrás, cujos links seguem ([https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01](https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01)/ - [https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/](https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/)), temos a lhe dizer:
 
@@ -66,7 +64,5 @@ De igual forma a fé sem obras é morta, como também colhemos dos textos sagrad
 Temos que ter certeza das nossas escolhas.
 
 Pode parecer bobagem, mas saber exatamente o que queremos é essencial para cocriarmos as experiências que desejamos ter.
-
-Créditos de imagem: Unsplash. Fotografia de Emma Simpson.
 
 Revisão e edição de Luiz Gustavo Chrispino.
