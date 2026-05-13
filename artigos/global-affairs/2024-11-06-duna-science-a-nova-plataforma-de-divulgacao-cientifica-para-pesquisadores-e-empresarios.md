@@ -4,11 +4,15 @@ date: 2024-11-06
 status: publish
 author: Natalia Bellan
 categories:
-  - global-affairs
+  - headlines
 featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778615243/Duna_Science_A_Nova_Plataforma_de_Divulgac%CC%A7a%CC%83o_Cienti%CC%81fica_para_Pesquisadores_rc8nmw.jpg"
+subtitle: "A importância de conectar a academia com o mercado"
+description: "A nova seção é uma oportunidade para que pesquisadores compartilhem seus conhecimentos com um público maior e mais diverso, contribuindo para a inovação e o progresso da sociedade."
 tags:
-  - divulgacao-cientifica
-keywords: "divulgacao-cientifica"
+  - pesquisa-cientifica
+  - natalia-bellan
+  - publicacao-cientifica
+keywords: "pesquisa-cientifica, natalia-bellan, publicacao-cientifica"
 ---
 
 Muitos pesquisadores e professores enfrentam o desafio de divulgar suas pesquisas além do ambiente acadêmico. Publicar em revistas indexadas é uma prática comum, mas nem sempre os artigos técnicos alcançam a sociedade e o setor empresarial de maneira acessível e impactante. Pensando nisso, a Duna Press, parte de um grupo editorial norueguês, lançou uma nova seção dedicada a artigos científicos e técnicos. Esta seção permite que pesquisadores publiquem seus trabalhos para um público mais amplo, fomentando o empreendedorismo e a união entre a academia e o setor empresarial.
