@@ -41,6 +41,7 @@ jobs:
         env:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+          UNSPLASH_KEY:  ${{ secrets.UNSPLASH_KEY }}
           # NOVO: passa o cron que disparou para o Python identificar o slot sem depender do relogio
           SCHEDULE: ${{ github.event.schedule }}
         run: |
@@ -53,6 +54,6 @@ jobs:
         run: |
           git config user.name  "Duna Press Bot"
           git config user.email "bot@dunapress.org"
-          git add artigos/ drafts-index.json
+          git add artigos/ search-index.json
           git diff --cached --quiet || git commit -m "draft: $(date -u +'%Y-%m-%d %H:%M') UTC"
           git push
