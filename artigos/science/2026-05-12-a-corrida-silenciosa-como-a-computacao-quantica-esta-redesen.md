@@ -1,20 +1,18 @@
 ---
 title: "A Corrida Silenciosa: Como a Computação Quântica Está Redesenhando as Fronteiras da Ciência Moderna"
-subtitle: "Longe dos holofotes das grandes conferências tecnológicas, laboratórios em três continentes avançam em ritmo acelerado para tornar o processamento quântico uma realidade prática — e as implicações vão muito além da velocidade de cálculo"
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - science
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778655136/A_Corrida_Silenciosa-_Como_a_Computac%CC%A7a%CC%83o_Qua%CC%82ntica_Esta%CC%81_Redesenhando_as_Fronteiras_da_Cie%CC%82ncia_Moderna_rg2vqw.jpg"
+subtitle: "Longe dos holofotes das grandes conferências tecnológicas, laboratórios em três continentes avançam em ritmo acelerado para tornar o processamento quântico uma realidade prática — e as implicações vão muito além da velocidade de cálculo"
 description: "A computação quântica deixou de ser uma promessa distante para se tornar um campo em plena ebulição científica. Em 2026, os avanços em correção de erros quânticos, novos materiais supercondutores e algoritmos híbridos estão aproximando o mundo de uma virada tecnológica que pode transformar desde a descoberta de medicamentos até a segurança digital global. Este artigo analisa o estado atual da corrida quântica, seus protagonistas e o que está genuinamente em jogo."
 tags:
-  - ciencia
-  - analise
-  - duna press
-  - computacao quantica
-  - fisica
+  - computacao-quantica
   - tecnologia
-  - inovacao
+  - qbits
+keywords: "computacao-quantica, tecnologia, qbits"
 ---
 
 ## A Computação Quântica em 2026: Entre a Promessa e a Virada Real
