@@ -1,13 +1,11 @@
 ---
-title: Saindo da zona de conforto! - 04
+title: "Saindo da zona de conforto! - 04"
 date: 2018-09-20
 status: publish
 author: Leonardo Gabossa
 categories:
-- Opinion
-- Religiosity
+  - global-affairs
 ---
-
 
 Somos criados com uma falsa noção de que não temos controle e confiança para nada, que tudo segue um fluxo sem controle e que temos que ir empurrando com a barriga, pois as coisas são desse jeito mesmo.
 
@@ -59,11 +57,5 @@ Além de várias outras coisas que serão necessárias a você fazer, inicie con
 
 Isso tudo também é sair da zona de conforto.
 Para ler os 3 artigos das semanas passadas sobre o mesmo assunto, acesso os links abaixo:
-
-Artigo 1 - clique [aqui.](https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01/)
-Artigo 2 - clique [aqui.](https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/)
-Artigo 3 - clique [aqui.](https://dunapress.org/2018/09/12/saindo-da-zona-de-conforto-03/)
-
-Créditos de imagem: Unsplash. Fotografia de Emma Simpson.
 
 Revisão e edição de Luiz Gustavo Chrispino.
