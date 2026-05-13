@@ -1,11 +1,12 @@
 import anthropic, requests, json, re, os, sys, time, uuid, unicodedata
 from datetime import datetime
 
-ANTHROPIC_KEY = os.environ.get("ANTHROPIC_KEY", "")
-GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
-GITHUB_REPO   = "app-algoritmo/dunapressjr"
-SUPABASE_URL  = os.environ.get("SUPABASE_URL", "")
-SUPABASE_KEY  = os.environ.get("SUPABASE_KEY", "")
+ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_KEY", "")
+GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
+UNSPLASH_KEY   = os.environ.get("UNSPLASH_KEY", "")
+GITHUB_REPO    = "app-algoritmo/dunapressjr"
+SUPABASE_URL   = os.environ.get("SUPABASE_URL", "")
+SUPABASE_KEY   = os.environ.get("SUPABASE_KEY", "")
 ORCAMENTO_MENSAL_USD   = 2.00
 PRECO_INPUT_POR_TOKEN  = 1.50 / 1_000_000
 PRECO_OUTPUT_POR_TOKEN = 7.50 / 1_000_000
@@ -75,15 +76,53 @@ TODOS_SLUGS = [cat["slug"] for agenda in AGENDA_ROTATIVA.values() for cat in age
 NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domingo"]
 
 
+# ──────────────────────────────────────────────────────────────
+# UNSPLASH — busca imagem de destaque para o artigo
+# ──────────────────────────────────────────────────────────────
+def buscar_imagem_unsplash(titulo, categoria_slug):
+    """
+    Tenta 2 queries:
+      1. Primeiras 5 palavras do título (mais específico)
+      2. Slug da categoria (fallback)
+    Devolve dict {"url": str, "autor": str, "autor_url": str} ou None.
+    """
+    if not UNSPLASH_KEY:
+        print("  UNSPLASH_KEY não configurada — sem imagem.")
+        return None
+
+    headers = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
+
+    # Query 1: palavras-chave do título
+    palavras = " ".join(titulo.split()[:5])
+    # Query 2: slug da categoria (substitui hifens por espaços)
+    fallback = categoria_slug.replace("-", " ")
+
+    for query in [palavras, fallback]:
+        try:
+            res = requests.get(
+                "https://api.unsplash.com/photos/random",
+                headers=headers,
+                params={"query": query, "orientation": "landscape", "content_filter": "high"},
+                timeout=10
+            )
+            if res.status_code == 200:
+                data = res.json()
+                url  = data["urls"]["regular"]
+                autor      = data["user"]["name"]
+                autor_url  = data["user"]["links"]["html"]
+                print(f"  Imagem Unsplash: {url[:60]}... (foto de {autor})")
+                return {"url": url, "autor": autor, "autor_url": autor_url}
+            elif res.status_code == 403:
+                print("  Unsplash: chave inválida ou limite atingido.")
+                return None
+        except Exception as e:
+            print(f"  Unsplash erro ({query!r}): {e}")
+
+    print("  Unsplash: sem resultado para nenhuma query.")
+    return None
+
+
 def hora_alvo_do_schedule():
-    """
-    Extrai a hora UTC do cron que disparou o workflow.
-    publicar.yml passa: SCHEDULE: ${{ github.event.schedule }}
-    Exemplos: "0 9  * * *"  ->  "09"
-              "0 12 * * *"  ->  "12"
-              "0 0  * * *"  ->  "00"
-    Retorna None se nao disponivel (trigger manual ou local).
-    """
     schedule = os.environ.get("SCHEDULE", "").strip()
     if not schedule:
         return None
@@ -209,7 +248,7 @@ def gerar_artigo_batch(categoria):
             "conteudo":      conteudo,
         }
 
-def salvar_local(artigo, categoria_slug):
+def salvar_local(artigo, categoria_slug, imagem=None):
     agora    = datetime.now()
     data_str = agora.strftime("%Y-%m-%d")
     slug     = slugify(artigo["titulo"])
@@ -221,16 +260,27 @@ def salvar_local(artigo, categoria_slug):
     tags    = artigo.get("tags", [])
     tags_fm = "\n".join([f"  - {t}" for t in tags])
 
+    # Frontmatter da imagem
+    imagem_fm = ""
+    if imagem and imagem.get("url"):
+        imagem_fm = (
+            f'\nfeaturedImage: "{imagem["url"]}"'
+            f'\nphotoAuthor: "{imagem["autor"]}"'
+            f'\nphotoAuthorUrl: "{imagem["autor_url"]}"'
+            f'\nphotoSource: "Unsplash"'
+        )
+
     md = (
         f'---\n'
         f'title: "{artigo["titulo"].replace(chr(34), chr(39))}"\n'
         f'subtitle: "{artigo.get("subtitulo","").replace(chr(34), chr(39))}"\n'
         f'date: {data_str}\n'
-        f'status: draft\n'
+        f'status: publish\n'
         f'author: {artigo["autor"]}\n'
         f'categories:\n'
         f'  - {pasta}\n'
-        f'description: "{artigo.get("resumo","").replace(chr(34), chr(39))}"\n'
+        f'description: "{artigo.get("resumo","").replace(chr(34), chr(39))}"'
+        f'{imagem_fm}\n'
         f'tags:\n'
         f'{tags_fm}\n'
         f'---\n\n'
@@ -243,26 +293,30 @@ def salvar_local(artigo, categoria_slug):
     print(f"  Ficheiro: {caminho}")
     return slug, caminho
 
-def actualizar_drafts_index_local(artigo, caminho, categoria_slug):
-    index_path = "drafts-index.json"
+def actualizar_search_index_local(artigo, caminho, categoria_slug, imagem=None):
+    index_path = "search-index.json"
     try:
         with open(index_path, encoding="utf-8") as f:
             current = json.load(f)
     except:
         current = []
 
-    current.insert(0, {
+    entry = {
         "title":    artigo["titulo"],
         "path":     caminho,
         "category": categoria_slug,
         "date":     datetime.now().strftime("%Y-%m-%d"),
-        "status":   "draft",
-    })
+        "status":   "publish",
+    }
+    if imagem and imagem.get("url"):
+        entry["featuredImage"] = imagem["url"]
+
+    current.insert(0, entry)
 
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(current, f, ensure_ascii=False, indent=2)
 
-    print("  drafts-index.json actualizado")
+    print("  search-index.json actualizado")
 
 def publicar(categoria):
     print(f"\nPublicando: {categoria['nome']} ({categoria['slug']})")
@@ -270,8 +324,12 @@ def publicar(categoria):
         return False
     try:
         artigo = gerar_artigo_batch(categoria)
-        slug, caminho = salvar_local(artigo, categoria["slug"])
-        actualizar_drafts_index_local(artigo, caminho, categoria["slug"])
+
+        # Busca imagem no Unsplash com o título gerado pela IA
+        imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), categoria["slug"])
+
+        slug, caminho = salvar_local(artigo, categoria["slug"], imagem)
+        actualizar_search_index_local(artigo, caminho, categoria["slug"], imagem)
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
@@ -284,11 +342,9 @@ def publicar_agendado():
     dia_semana  = agora.weekday()
     agenda_hoje = AGENDA_ROTATIVA[dia_semana]
 
-    # Prioridade 1: hora extraida do cron SCHEDULE (sem ambiguidade de relógio)
     hora_alvo = hora_alvo_do_schedule()
     fonte     = f"schedule={os.environ.get('SCHEDULE','').strip()!r}"
 
-    # Prioridade 2: janela de 30 min — o slot mais recente nos ultimos 30 min
     if hora_alvo is None:
         agora_min = agora.hour * 60 + agora.minute
         melhor, melhor_diff = None, 999
@@ -296,7 +352,7 @@ def publicar_agendado():
             h = int(cat["hora"])
             slot_min = h * 60
             diff = agora_min - slot_min
-            if diff < -30:          # slot ainda nao chegou (ou e meia-noite anterior)
+            if diff < -30:
                 diff += 24 * 60
             if 0 <= diff <= 30 and diff < melhor_diff:
                 melhor_diff = diff
