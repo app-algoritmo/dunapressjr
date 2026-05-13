@@ -1,21 +1,18 @@
 ---
 title: "A Reconfiguração do Capital Global: Como a Fragmentação Geopolítica Está Redesenhando os Fluxos de Investimento em 2026"
-subtitle: "Com blocos econômicos se consolidando e cadeias de suprimento sendo repatriadas, o mapa do dinheiro mundial nunca foi tão difícil de ler — nem tão cheio de oportunidades para quem souber interpretá-lo"
 date: 2026-05-13
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - business-and-economy
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778675081/A_Reconfigurac%CC%A7a%CC%83o_do_Capital_Global-_Como_a_Fragmentac%CC%A7a%CC%83o_Geopoli%CC%81tica_Esta%CC%81_Redesenhando_os_Fluxos_de_Investimento_em_2026_b2asbe.jpg"
+subtitle: "Com blocos econômicos se consolidando e cadeias de suprimento sendo repatriadas, o mapa do dinheiro mundial nunca foi tão difícil de ler — nem tão cheio de oportunidades para quem souber interpretá-lo"
 description: "A fragmentação geopolítica acelerou uma reconfiguração profunda dos fluxos de capital global. Em 2026, empresas e governos navegam um ambiente onde blocos econômicos rivais ditam novas regras de investimento, o nearshoring transforma geografias produtivas e a inteligência artificial pressiona modelos de negócio consolidados. Este artigo analisa as forças que estão redesenhando o mapa financeiro mundial e o que isso significa para economias emergentes como o Brasil."
 tags:
-  - business-and-economy
-  - analise
-  - duna press
+  - capital-global
   - investimentos
-  - geopolitica
-  - economia-global
-  - nearshoring
-  - capital
+  - dinheiro
+keywords: "capital-global, investimentos, dinheiro"
 ---
 
 ## A Reconfiguração do Capital Global
