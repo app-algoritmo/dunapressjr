@@ -1,21 +1,17 @@
 ---
 title: "O Colapso Silencioso da Saúde Mental no Pós-Pandemia: O Brasil Ainda Não Acordou"
-subtitle: "Cinco anos após o início da crise sanitária global, os transtornos mentais se consolidaram como a principal causa de afastamento do trabalho no país, enquanto políticas públicas seguem fragmentadas e o acesso ao tratamento permanece privilégio de poucos"
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - health
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778662266/O_Colapso_Silencioso_da_Sau%CC%81de_Mental_no_Po%CC%81s-Pandemia-_O_Brasil_Ainda_Na%CC%83o_Acordou_jpdkvy.jpg"
+subtitle: "Cinco anos após o início da crise sanitária global, os transtornos mentais se consolidaram como a principal causa de afastamento do trabalho no país, enquanto políticas públicas seguem fragmentadas e o acesso ao tratamento permanece privilégio de poucos"
 description: "O Brasil enfrenta uma crise silenciosa e crescente de saúde mental que se aprofundou desde a pandemia de Covid-19. Dados de 2025 e 2026 apontam para um cenário alarmante: aumento expressivo nos diagnósticos de depressão, ansiedade e burnout, colapso parcial da rede de atenção psicossocial e uma lacuna estrutural entre demanda e oferta de tratamento. A análise da Duna Press examina as causas, os números e o que está — ou não está — sendo feito."
 tags:
-  - saude
-  - analise
-  - duna press
-  - saude mental
-  - politicas publicas
+  - saude-mental
   - pos-pandemia
-  - sistema unico de saude
-  - transtornos mentais
+keywords: "saude-mental, pos-pandemia"
 ---
 
 ## O Colapso Silencioso da Saúde Mental no Pós-Pandemia: O Brasil Ainda Não Acordou
