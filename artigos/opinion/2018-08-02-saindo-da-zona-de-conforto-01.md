@@ -1,12 +1,11 @@
 ---
-title: Saindo da zona de conforto - 01
+title: "Saindo da zona de conforto - 01"
 date: 2018-08-02
 status: publish
 author: Leonardo Gabossa
 categories:
-- Opinion
+  - global-affairs
 ---
-
 
 Um dos nossos maiores problemas é a zona de conforto.
 
@@ -57,5 +56,3 @@ Se cada um fizer isso para duas ou três pessoas em cada momento que desperta pa
 Por fim, este pequeno texto serve para sempre te lembrar que, quando se sentires confortável ou estável, é aí que precisa agir, sempre positivamente. 
 
 SE APRENDEU ALGO, COMPARTILHE E REPASSE O CONHECIMENTO, POIS ASSIM MUDAREMOS NOSSA REALIDADE PARA MELHOR! A VIDA ACONTECE FORA DA ZONA DE CONFORTO!
-
-Créditos de imagem: Unsplash. Fotografia de Emma Simpson.
