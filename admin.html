@@ -60,7 +60,6 @@
         .title-input::placeholder { color:var(--text-dimmer); }
         .title-input:focus { border-bottom-color:var(--rust); }
 
-        /* ─── TOOLBAR ─── */
         .toolbar { display:flex; flex-wrap:wrap; gap:4px; padding:10px 16px; background:var(--bg3); border-bottom:1px solid var(--border); }
         .toolbar-group { display:flex; gap:2px; margin-right:8px; padding-right:8px; border-right:1px solid var(--border); }
         .toolbar-group:last-child { border-right:none; margin-right:0; }
@@ -72,10 +71,6 @@
         .editor-mode-tab { padding:8px 18px; font-size:12px; font-weight:700; letter-spacing:.5px; text-transform:uppercase; background:none; border:none; color:var(--text-dim); cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; }
         .editor-mode-tab.active { color:var(--rust-light); border-bottom-color:var(--rust); }
 
-        /* ────────────────────────────────────────────────
-           FIX 3: área de escrita mais alta
-           Usa altura relativa ao viewport para dar espaço
-        ──────────────────────────────────────────────── */
         .editor-area {
             width:100%;
             min-height: calc(100vh - 310px);
@@ -103,7 +98,6 @@
         .preview-area .video-embed { position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px; margin:1rem 0; background:#000; }
         .preview-area .video-embed iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:none; }
 
-        /* ─── SIDEBAR ─── */
         .sidebar-card { background:var(--bg2); border:1px solid var(--border); border-radius:10px; padding:18px; }
         .sidebar-card h3 { font-size:11px; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--text-dim); margin-bottom:14px; }
         .sidebar-field { margin-bottom:12px; }
@@ -127,7 +121,6 @@
         .btn-draft:hover { border-color:var(--rust); color:var(--rust-light); }
         .slug-preview { font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--text-dimmer); margin-top:6px; word-break:break-all; }
 
-        /* ─── REFERENCE LINKS ─── */
         .ref-link-row { display:flex; align-items:center; gap:6px; margin-bottom:8px; }
         .ref-link-num { font-size:10px; color:var(--text-dimmer); font-family:'JetBrains Mono',monospace; width:14px; flex-shrink:0; }
         .ref-link-input { flex:1; padding:8px 10px; background:var(--bg3); border:1px solid var(--border); border-radius:6px; color:var(--text); font-size:12px; font-family:'JetBrains Mono',monospace; outline:none; transition:border-color .2s; }
@@ -136,7 +129,6 @@
         .ref-link-clear { background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:14px; padding:2px 4px; border-radius:3px; transition:color .15s; flex-shrink:0; }
         .ref-link-clear:hover { color:#f87171; }
 
-        /* ─── ARTICLES TABLE ─── */
         .articles-header { display:flex; align-items:center; margin-bottom:20px; gap:12px; }
         .articles-header h2 { font-family:'Playfair Display',serif; font-size:22px; color:#fff; flex:1; }
         .search-input { padding:9px 14px; background:var(--bg2); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:13px; width:240px; outline:none; transition:border-color .2s; }
@@ -159,7 +151,6 @@
         .act-btn.edit { color:var(--rust-light); border-color:rgba(201,77,58,0.3); }
         .act-btn.edit:hover { background:rgba(201,77,58,0.1); }
 
-        /* ─── TOAST ─── */
         #toast { position:fixed; bottom:24px; right:24px; z-index:999; transform:translateY(80px); opacity:0; transition:all .3s cubic-bezier(.34,1.56,.64,1); }
         #toast.show { transform:translateY(0); opacity:1; }
         .toast-inner { padding:14px 20px; border-radius:10px; font-size:14px; font-weight:600; display:flex; align-items:center; gap:10px; box-shadow:0 8px 32px rgba(0,0,0,.5); }
@@ -186,7 +177,6 @@
         .cat-lifestyle { background:linear-gradient(135deg,#9d174d,#be185d); }
         .cat-default { background:linear-gradient(135deg,#475569,#334155); }
 
-        /* ─── TAGS ─── */
         .tags-input-wrap { display:flex; flex-direction:column; gap:8px; }
         .tag-input-row { display:flex; align-items:center; gap:6px; position:relative; }
         .tag-prefix { font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--rust-light); font-weight:700; line-height:1; padding-top:1px; flex-shrink:0; }
@@ -200,7 +190,6 @@
         .tag-pill-edit { background:none; border:none; cursor:pointer; color:var(--text-dimmer); font-size:11px; padding:0; line-height:1; transition:color .2s; }
         .tag-pill-edit:hover { color:var(--rust-light); }
 
-        /* ─── MODALS ─── */
         .modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.75); z-index:500; display:flex; align-items:center; justify-content:center; backdrop-filter:blur(4px); }
         .modal-box { background:var(--bg2); border:1px solid var(--border); border-radius:14px; padding:28px; width:100%; max-width:460px; box-shadow:0 24px 60px rgba(0,0,0,0.6); }
         .modal-box h3 { font-family:'Playfair Display',serif; font-size:18px; color:#fff; margin-bottom:6px; }
@@ -215,7 +204,6 @@
         .modal-field { margin-bottom:14px; }
         .modal-field label { display:block; font-size:11px; color:var(--text-dim); margin-bottom:6px; letter-spacing:.5px; text-transform:uppercase; }
 
-        /* ─── CLOUDINARY ─── */
         .cloudinary-upload-box { background:var(--bg3); border:2px dashed var(--border); border-radius:8px; padding:16px; text-align:center; transition:border-color .2s; }
         .cloudinary-upload-box:hover { border-color:var(--rust); }
         .cloudinary-upload-box.has-image { border-style:solid; border-color:var(--success); background:rgba(34,197,94,0.05); }
@@ -230,7 +218,6 @@
         .cloudinary-remove-btn { margin-top:8px; padding:6px 12px; background:transparent; border:1px solid rgba(239,68,68,0.3); border-radius:5px; color:#f87171; font-size:11px; cursor:pointer; transition:all .2s; }
         .cloudinary-remove-btn:hover { background:rgba(239,68,68,0.1); }
 
-        /* ─── PDF BADGE in preview ─── */
         .preview-area .pdf-embed { display:flex; align-items:center; gap:10px; padding:14px 16px; background:rgba(201,77,58,0.08); border:1px solid rgba(201,77,58,0.25); border-radius:8px; margin:1rem 0; text-decoration:none; }
         .preview-area .pdf-icon { font-size:20px; }
         .preview-area .pdf-name { font-size:13px; color:var(--rust-light); font-family:'JetBrains Mono',monospace; word-break:break-all; }
@@ -631,10 +618,8 @@ const GH_API     = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
 const ADMINS = ['paulofernandodebarros@gmail.com', 'nataliabellan@gmail.com'];
 let currentUser = null, articleStatus = 'publish', allLoadedArticles = [], GH_TOKEN_CACHED = null;
 
-// FIX 2 — rastreia o path original ao editar um rascunho
 let currentEditingPath = null;
 
-// CLOUDINARY CONFIG
 const CLOUDINARY_CLOUD_NAME = 'dvpqza6z7';
 const CLOUDINARY_UPLOAD_PRESET = 'dunapress-artigos';
 
@@ -657,7 +642,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (session) { currentUser = session.user; showAdmin(); }
 });
 
-/* ─── CHAR COUNTERS ─── */
 function updateSubtitleCount() {
     const len = document.getElementById('artSubtitle').value.length;
     const el = document.getElementById('subtitleCount');
@@ -671,11 +655,9 @@ function updateSummaryCount() {
     el.className = 'char-count' + (len > 160 ? ' over' : len > 140 ? ' warn' : '');
 }
 
-/* ─── REFERENCE LINKS ─── */
 function clearRefLink(i) { document.getElementById('refLink' + i).value = ''; }
 function getRefLinks() { return [0,1,2].map(i => document.getElementById('refLink'+i).value.trim()).filter(v => v.length > 0); }
 
-/* ─── LOGIN ─── */
 function switchLoginTab(tab) {
     document.getElementById('tab-login').classList.toggle('active', tab === 'login');
     document.getElementById('tab-register').classList.toggle('active', tab === 'register');
@@ -792,7 +774,6 @@ function fmt(type) {
     ta.focus(); ta.selectionStart = ta.selectionEnd = start + r.length;
 }
 
-/* ─── VIDEO MODAL ─── */
 function openVideoModal() {
     document.getElementById('videoUrlInput').value = '';
     document.getElementById('videoModal').style.display = 'flex';
@@ -817,7 +798,6 @@ function confirmVideoEmbed() {
     closeVideoModal(); showToast('🎬 Vídeo inserido no artigo', 'success');
 }
 
-/* ─── IMAGE IN BODY MODAL ─── */
 let _bodyImageUploadedUrl = '';
 
 function openImageModal() {
@@ -861,7 +841,6 @@ function confirmBodyImage() {
     closeImageModal(); showToast('🖼️ Imagem inserida no artigo', 'success');
 }
 
-/* ─── PDF IN BODY MODAL ─── */
 let _bodyPdfUploadedUrl = '';
 
 function openPdfModal() {
@@ -908,13 +887,11 @@ function confirmBodyPdf() {
     closePdfModal(); showToast('📄 PDF inserido no artigo', 'success');
 }
 
-/* ─── KEYBOARD SHORTCUTS ─── */
 document.addEventListener('keydown', e => {
     if (e.key === 'Escape') { closeVideoModal(); closeImageModal(); closePdfModal(); }
     if (e.key === 'Enter' && document.getElementById('videoModal').style.display === 'flex') { e.preventDefault(); confirmVideoEmbed(); }
 });
 
-/* ─── CLOUDINARY COVER IMAGE ─── */
 async function uploadToCloudinary() {
     const fileInput = document.getElementById('cloudinaryFileInput');
     const file = fileInput.files[0]; if (!file) return;
@@ -954,7 +931,6 @@ function removeCloudinaryImage() {
     showToast('🗑️ Imagem removida', 'info');
 }
 
-/* ─── SLUG ─── */
 function toggleSlugEdit() {
     const input = document.getElementById('artSlug'), isRO = input.hasAttribute('readonly');
     if (isRO) { input.removeAttribute('readonly'); input.style.background='var(--bg3)'; input.style.cursor='text'; input.style.opacity='1'; input.focus(); }
@@ -967,7 +943,13 @@ function slugify(text) {
         .replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
 }
 
-function updateSlug() { document.getElementById('artSlug').value = slugify(document.getElementById('artTitle').value); updateSlugPreview(); }
+// CORRIGIR updateSlug — não regenera slug quando está a editar
+function updateSlug() {
+    if (currentEditingPath) return; 
+    document.getElementById('artSlug').value = slugify(document.getElementById('artTitle').value);
+    updateSlugPreview();
+}
+
 function updateSlugPreview() {
     const date = document.getElementById('artDate').value || new Date().toISOString().split('T')[0];
     const slug = document.getElementById('artSlug').value || 'meu-artigo';
@@ -982,20 +964,16 @@ function setStatus(s) {
     document.getElementById('publishLabel').textContent = s === 'publish' ? '🚀 Publicar no GitHub' : '📝 Salvar rascunho';
 }
 
-/* ──────────────────────────────────────────────────────────────
-   FIX 2 — remove artigo do drafts-index.json após publicar
-────────────────────────────────────────────────────────────── */
 async function removeFromDraftsIndex(pathToRemove, token) {
     try {
         const res = await fetch(`${GH_API}/contents/drafts-index.json`, {
             headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' }
         });
-        if (!res.ok) return; // arquivo não existe, nada a fazer
+        if (!res.ok) return;
         const data = await res.json();
-        // FIX 1 aplicado aqui também: .replace(/\n/g,'') antes de atob
         const drafts = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g,'')))));
         const updated = drafts.filter(d => d.path !== pathToRemove);
-        if (updated.length === drafts.length) return; // artigo não estava nos rascunhos
+        if (updated.length === drafts.length) return;
         const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(updated, null, 2))));
         await fetch(`${GH_API}/contents/drafts-index.json`, {
             method: 'PUT',
@@ -1003,17 +981,18 @@ async function removeFromDraftsIndex(pathToRemove, token) {
             body: JSON.stringify({ message: `remove rascunho: ${pathToRemove}`, content: encoded, sha: data.sha, branch: 'main' })
         });
     } catch(e) {
-        // falha silenciosa — não bloqueia o fluxo principal
         console.warn('removeFromDraftsIndex:', e.message);
     }
 }
 
-/* ─── PUBLISH ─── */
+// CORRIGIR publishArticle — usa o path original ao editar
 async function publishArticle() {
-    const title = document.getElementById('artTitle').value.trim(), content = document.getElementById('artContent').value.trim();
-    const date = document.getElementById('artDate').value, cat = document.getElementById('artCategory').value;
-    const author = document.getElementById('artAuthor').value.trim() || 'Redação Duna Press';
-    const slug = document.getElementById('artSlug').value.trim() || slugify(title);
+    const title   = document.getElementById('artTitle').value.trim();
+    const content = document.getElementById('artContent').value.trim();
+    const date    = document.getElementById('artDate').value;
+    const cat     = document.getElementById('artCategory').value;
+    const author  = document.getElementById('artAuthor').value.trim() || 'Redação Duna Press';
+    const slug    = document.getElementById('artSlug').value.trim() || slugify(title);
     const featuredImage = document.getElementById('featuredImageUrl').value;
     const subtitle = document.getElementById('artSubtitle').value.trim();
     const summary = document.getElementById('artSummary').value.trim();
@@ -1021,10 +1000,14 @@ async function publishArticle() {
 
     if (!title) { showToast('Adicione um título ao artigo.', 'error'); return; }
     if (!content) { showToast('Escreva o conteúdo do artigo.', 'error'); return; }
+
+    // ← LINHA ALTERADA: usa o path original se estiver a editar
+    const filepath = currentEditingPath || `artigos/${cat}/${date}-${slug}.md`;
+
     localStorage.setItem('duna_author', author);
     const token = await getToken();
     if (!token) { showToast('Token GitHub não configurado.', 'error'); return; }
-    const filepath = `artigos/${cat}/${date}-${slug}.md`;
+    
     const tags = getTagsForFrontmatter();
     const tagsFm     = tags.length ? `\ntags:\n${tags.map(t=>'  - '+t).join('\n')}` : '';
     const tagsMeta   = tags.length ? `\nkeywords: "${tags.join(', ')}"` : '';
@@ -1035,9 +1018,11 @@ async function publishArticle() {
 
     const fm = `---\ntitle: "${title.replace(/"/g,"'")}"\ndate: ${date}\nstatus: ${articleStatus}\nauthor: ${author}\ncategories:\n  - ${cat}${imageFm}${subtitleFm}${summaryFm}${tagsFm}${tagsMeta}${refsFm}\n---\n\n${content}`;
     const encoded = btoa(unescape(encodeURIComponent(fm)));
+    
     document.getElementById('publishBtn').disabled = true;
     document.getElementById('publishLabel').style.display = 'none';
     document.getElementById('publishSpinner').style.display = 'inline-block';
+    
     try {
         let sha = null;
         const chk = await fetch(`${GH_API}/contents/${filepath}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
@@ -1047,9 +1032,7 @@ async function publishArticle() {
         const res = await fetch(`${GH_API}/contents/${filepath}`, { method:'PUT', headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json','Content-Type':'application/json'}, body:JSON.stringify(body) });
         if (!res.ok) throw new Error((await res.json()).message || 'Erro ao publicar');
 
-        // FIX 2 — se publicou (não rascunho), remove do drafts-index
         if (articleStatus === 'publish') {
-            // Remove pelo path atual E pelo path original (caso tenha mudado ao editar)
             await removeFromDraftsIndex(filepath, token);
             if (currentEditingPath && currentEditingPath !== filepath) {
                 await removeFromDraftsIndex(currentEditingPath, token);
@@ -1063,7 +1046,7 @@ async function publishArticle() {
         document.getElementById('artDate').value = new Date().toISOString().split('T')[0];
         removeCloudinaryImage(); updateSlugPreview(); resetTags();
         updateSubtitleCount(); updateSummaryCount();
-        currentEditingPath = null; // limpa após publicar
+        currentEditingPath = null; 
     } catch(e) { showToast(`❌ Erro: ${e.message}`, 'error'); }
     finally {
         document.getElementById('publishBtn').disabled = false;
@@ -1118,7 +1101,6 @@ function filterDraftsList(q) {
     renderDraftsList(q ? allDrafts.filter(a => a.title.toLowerCase().includes(q.toLowerCase())) : allDrafts);
 }
 
-/* ─── ARTICLES LIST ─── */
 async function loadArticlesList() {
     const container = document.getElementById('articlesListContainer');
     container.innerHTML = `<div class="empty-state"><div class="spin" style="width:32px;height:32px;margin:0 auto 16px;border-width:3px;border-top-color:var(--rust)"></div><p>Carregando...</p></div>`;
@@ -1236,11 +1218,6 @@ async function eliminarArtigo(path, sha, title) {
 function filterArticlesList(q) { renderArticlesList(q ? allLoadedArticles.filter(a => a.title.toLowerCase().includes(q.toLowerCase())||a.category.toLowerCase().includes(q.toLowerCase())) : allLoadedArticles); }
 function viewArticle(path) { window.open(`https://app-algoritmo.github.io/dunapressjr/artigo.html?file=/${path}`,'_blank'); }
 
-/* ──────────────────────────────────────────────────────────────
-   FIX 1 — editArticle: atob com .replace(/\n/g,'') para corrigir
-            "Failed to execute 'atob': string not correctly encoded"
-   FIX 2 — guarda currentEditingPath para remover do drafts-index
-────────────────────────────────────────────────────────────── */
 async function editArticle(path, sha) {
     const token = await getToken();
     if (!token) { showToast('Token GitHub não configurado.', 'error'); return; }
@@ -1249,12 +1226,10 @@ async function editArticle(path, sha) {
         const res = await fetch(`${GH_API}/contents/${path}`, { headers:{'Authorization':`Bearer ${token}`,'Accept':'application/vnd.github+json'} });
         const data = await res.json();
 
-        // Guarda antes de tentar usar — dá mensagem clara se o ficheiro não existir
         if (!res.ok || !data.content) {
             const msg = data.message || 'Sem conteúdo';
             if (res.status === 404) {
-                // Oferece remover a entrada inválida do índice
-                if (confirm(`Ficheiro não encontrado no GitHub:\n\n${path}\n\nPode ter sido apagado ou nunca ter sido criado.\n\nRemover esta entrada da lista de rascunhos?`)) {
+                if (confirm(`Ficheiro não encontrado no GitHub:\n\n${path}\n\nRemover esta entrada da lista de rascunhos?`)) {
                     await removerEntradaRascunho(path);
                 }
                 return;
@@ -1262,10 +1237,7 @@ async function editArticle(path, sha) {
             throw new Error(`${msg} (${res.status})`);
         }
 
-        // FIX 1: remove quebras de linha antes de atob
         const raw = decodeURIComponent(escape(atob(data.content.replace(/\n/g,''))));
-
-        // FIX 2: guarda o path original para poder remover do drafts-index
         currentEditingPath = path;
 
         const fm = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
@@ -1305,7 +1277,6 @@ async function editArticle(path, sha) {
     } catch(e) { showToast(`Erro: ${e.message}`,'error'); }
 }
 
-/* ─── TOAST ─── */
 let toastTimer;
 function showToast(msg, type='info') {
     clearTimeout(toastTimer);
@@ -1315,9 +1286,6 @@ function showToast(msg, type='info') {
     toastTimer = setTimeout(() => document.getElementById('toast').classList.remove('show'), 4000);
 }
 
-setInterval(() => { if (document.getElementById('artTitle')?.value || document.getElementById('artContent')?.value) saveAsDraft(); }, 30000);
-
-/* ─── REMOVE ENTRADA INVÁLIDA DO DRAFTS-INDEX ─── */
 async function removerEntradaRascunho(path) {
     const token = await getToken();
     if (!token) { showToast('Token não configurado.', 'error'); return; }
@@ -1361,7 +1329,6 @@ async function limparRascunhosInvalidos() {
     for (const p of invalidos) await removerEntradaRascunho(p);
 }
 
-/* ─── TOAST ─── */
 const tagValues = ['','',''];
 function slugifyTag(text) { return text.toLowerCase().trim().replace(/[áàãâä]/g,'a').replace(/[éèêë]/g,'e').replace(/[íìîï]/g,'i').replace(/[óòõôö]/g,'o').replace(/[úùûü]/g,'u').replace(/[ç]/g,'c').replace(/[ñ]/g,'n').replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,''); }
 function handleTagInput(i) { const inp=document.getElementById('tagInput'+i),pos=inp.selectionStart; inp.value=inp.value.toLowerCase(); inp.setSelectionRange(pos,pos); }
