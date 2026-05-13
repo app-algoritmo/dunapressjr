@@ -1,22 +1,18 @@
 ---
 title: "A Armadilha do Crescimento Nominal: Por Que o Brasil Cresce no Papel e Estagna na Prática"
-subtitle: "Dados do PIB escondem uma realidade mais dura: a economia brasileira acumula distorções estruturais que impedem a tradução do crescimento agregado em prosperidade real para a maioria da população"
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - global-economy
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778662618/A_Armadilha_do_Crescimento_Nominal-_Por_Que_o_Brasil_Cresce_no_Papel_e_Estagna_na_Pra%CC%81tica_wkj6dj.jpg"
+subtitle: "Dados do PIB escondem uma realidade mais dura: a economia brasileira acumula distorções estruturais que impedem a tradução do crescimento agregado em prosperidade real para a maioria da população"
 description: "O Brasil encerrou 2025 com crescimento de 2,8% do PIB, número que alimentou manchetes otimistas e discursos celebratórios em Brasília. Mas por trás do indicador agregado, uma análise mais cuidadosa revela um país preso em uma armadilha de expansão nominal sem correspondência em ganhos reais de produtividade, com desigualdade estrutural crescente e uma política fiscal que financia o presente hipotecando o futuro."
 tags:
-  - economia
-  - analise
-  - duna press
-  - pib
+  - crescimento-nominal
   - brasil
-  - crescimento
-  - politica economica
-  - inflacao
   - produtividade
+keywords: "crescimento-nominal, brasil, produtividade"
 ---
 
 ## A Armadilha do Crescimento Nominal
