@@ -12,75 +12,90 @@ PRECO_OUTPUT_POR_TOKEN = 7.50 / 1_000_000
 FICHEIRO_GASTOS = "/tmp/dunapress_gastos.json"
 AUTOR = "Duna Press Redacao"
 
-# ──────────────────────────────────────────────────────────────
-# AGENDA ROTATIVA — 7 dias × 6 categorias (a cada 3 horas)
-# Slugs = nomes exactos das pastas em artigos/ no GitHub
-# 0=Segunda ... 6=Domingo
-# ──────────────────────────────────────────────────────────────
 AGENDA_ROTATIVA = {
-    0: [  # Segunda — Saúde & Bem-Estar
-        {"slug": "health",               "nome": "Saúde",                   "hora": "09:00"},
-        {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "12:00"},
-        {"slug": "fitness",              "nome": "Fitness",                 "hora": "15:00"},
-        {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "18:00"},
-        {"slug": "motivational",         "nome": "Motivacional",            "hora": "21:00"},
-        {"slug": "beauty",               "nome": "Beleza",                  "hora": "00:00"},
+    0: [
+        {"slug": "health",               "nome": "Saude",                   "hora": "09"},
+        {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "12"},
+        {"slug": "fitness",              "nome": "Fitness",                 "hora": "15"},
+        {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "18"},
+        {"slug": "motivational",         "nome": "Motivacional",            "hora": "21"},
+        {"slug": "beauty",               "nome": "Beleza",                  "hora": "00"},
     ],
-    1: [  # Terça — Tecnologia & Ciência
-        {"slug": "technology",            "nome": "Tecnologia",          "hora": "09:00"},
-        {"slug": "science",               "nome": "Ciência",             "hora": "12:00"},
-        {"slug": "innovation",            "nome": "Inovação",            "hora": "15:00"},
-        {"slug": "future-and-innovation", "nome": "Futuro e Inovação",   "hora": "18:00"},
-        {"slug": "astronomy",             "nome": "Astronomia",          "hora": "21:00"},
-        {"slug": "e-auto",                "nome": "E-Auto",              "hora": "00:00"},
+    1: [
+        {"slug": "technology",            "nome": "Tecnologia",        "hora": "09"},
+        {"slug": "science",               "nome": "Ciencia",           "hora": "12"},
+        {"slug": "innovation",            "nome": "Inovacao",          "hora": "15"},
+        {"slug": "future-and-innovation", "nome": "Futuro e Inovacao", "hora": "18"},
+        {"slug": "astronomy",             "nome": "Astronomia",        "hora": "21"},
+        {"slug": "e-auto",                "nome": "E-Auto",            "hora": "00"},
     ],
-    2: [  # Quarta — Economia & Negócios
-        {"slug": "global-economy",       "nome": "Economia Global",       "hora": "09:00"},
-        {"slug": "business-and-economy", "nome": "Negócios e Economia",   "hora": "12:00"},
-        {"slug": "finances",             "nome": "Finanças",              "hora": "15:00"},
-        {"slug": "financial-education",  "nome": "Educação Financeira",   "hora": "18:00"},
-        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",      "hora": "21:00"},
-        {"slug": "courses-and-careers",  "nome": "Cursos e Carreiras",    "hora": "00:00"},
+    2: [
+        {"slug": "global-economy",       "nome": "Economia Global",     "hora": "09"},
+        {"slug": "business-and-economy", "nome": "Negocios e Economia", "hora": "12"},
+        {"slug": "finances",             "nome": "Financas",            "hora": "15"},
+        {"slug": "financial-education",  "nome": "Educacao Financeira", "hora": "18"},
+        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",    "hora": "21"},
+        {"slug": "courses-and-careers",  "nome": "Cursos e Carreiras",  "hora": "00"},
     ],
-    3: [  # Quinta — Política & Mundo
-        {"slug": "geopolitics",           "nome": "Geopolítica",              "hora": "09:00"},
-        {"slug": "politics-and-society",  "nome": "Política e Sociedade",     "hora": "12:00"},
-        {"slug": "international-affairs", "nome": "Assuntos Internacionais",  "hora": "15:00"},
-        {"slug": "military",              "nome": "Militar",                  "hora": "18:00"},
-        {"slug": "world-affairs",         "nome": "Assuntos Mundiais",        "hora": "21:00"},
-        {"slug": "global-affairs",        "nome": "Assuntos Globais",         "hora": "00:00"},
+    3: [
+        {"slug": "geopolitics",           "nome": "Geopolitica",              "hora": "09"},
+        {"slug": "politics-and-society",  "nome": "Politica e Sociedade",     "hora": "12"},
+        {"slug": "international-affairs", "nome": "Assuntos Internacionais",  "hora": "15"},
+        {"slug": "military",              "nome": "Militar",                  "hora": "18"},
+        {"slug": "world-affairs",         "nome": "Assuntos Mundiais",        "hora": "21"},
+        {"slug": "global-affairs",        "nome": "Assuntos Globais",         "hora": "00"},
     ],
-    4: [  # Sexta — Cultura & Sociedade
-        {"slug": "culture-and-history", "nome": "Cultura e História", "hora": "09:00"},
-        {"slug": "history",             "nome": "História",           "hora": "12:00"},
-        {"slug": "literature",          "nome": "Literatura",         "hora": "15:00"},
-        {"slug": "music",               "nome": "Música",             "hora": "18:00"},
-        {"slug": "philosophy",          "nome": "Filosofia",          "hora": "21:00"},
-        {"slug": "education",           "nome": "Educação",           "hora": "00:00"},
+    4: [
+        {"slug": "culture-and-history", "nome": "Cultura e Historia", "hora": "09"},
+        {"slug": "history",             "nome": "Historia",           "hora": "12"},
+        {"slug": "literature",          "nome": "Literatura",         "hora": "15"},
+        {"slug": "music",               "nome": "Musica",             "hora": "18"},
+        {"slug": "philosophy",          "nome": "Filosofia",          "hora": "21"},
+        {"slug": "education",           "nome": "Educacao",           "hora": "00"},
     ],
-    5: [  # Sábado — Desporto & Lazer
-        {"slug": "soccer",        "nome": "Futebol",         "hora": "09:00"},
-        {"slug": "sports",        "nome": "Desporto",        "hora": "12:00"},
-        {"slug": "tennis",        "nome": "Ténis",           "hora": "15:00"},
-        {"slug": "formula-1",     "nome": "Fórmula 1",       "hora": "18:00"},
-        {"slug": "cycling",       "nome": "Ciclismo",        "hora": "21:00"},
-        {"slug": "olympic-games", "nome": "Jogos Olímpicos", "hora": "00:00"},
+    5: [
+        {"slug": "soccer",        "nome": "Futebol",         "hora": "09"},
+        {"slug": "sports",        "nome": "Desporto",        "hora": "12"},
+        {"slug": "tennis",        "nome": "Tenis",           "hora": "15"},
+        {"slug": "formula-1",     "nome": "Formula 1",       "hora": "18"},
+        {"slug": "cycling",       "nome": "Ciclismo",        "hora": "21"},
+        {"slug": "olympic-games", "nome": "Jogos Olimpicos", "hora": "00"},
     ],
-    6: [  # Domingo — Estilo de Vida & Ambiente
-        {"slug": "environment",             "nome": "Meio Ambiente",        "hora": "09:00"},
-        {"slug": "agriculture",             "nome": "Agricultura",          "hora": "12:00"},
-        {"slug": "tourism-and-gastronomy",  "nome": "Turismo e Gastronomia","hora": "15:00"},
-        {"slug": "fashion",                 "nome": "Moda",                 "hora": "18:00"},
-        {"slug": "lifestyle",               "nome": "Estilo de Vida",       "hora": "21:00"},
-        {"slug": "pets",                    "nome": "Animais de Estimação", "hora": "00:00"},
+    6: [
+        {"slug": "environment",            "nome": "Meio Ambiente",         "hora": "09"},
+        {"slug": "agriculture",            "nome": "Agricultura",           "hora": "12"},
+        {"slug": "tourism-and-gastronomy", "nome": "Turismo e Gastronomia", "hora": "15"},
+        {"slug": "fashion",                "nome": "Moda",                  "hora": "18"},
+        {"slug": "lifestyle",              "nome": "Estilo de Vida",        "hora": "21"},
+        {"slug": "pets",                   "nome": "Animais de Estimacao",  "hora": "00"},
     ],
 }
 
-# Lista plana de todos os slugs válidos (para uso manual via CLI)
 TODOS_SLUGS = [cat["slug"] for agenda in AGENDA_ROTATIVA.values() for cat in agenda]
+NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domingo"]
 
 
-# ──────────────────────────────────────────────────────────────
+def hora_alvo_do_schedule():
+    """
+    Extrai a hora UTC do cron que disparou o workflow.
+    publicar.yml passa: SCHEDULE: ${{ github.event.schedule }}
+    Exemplos: "0 9  * * *"  ->  "09"
+              "0 12 * * *"  ->  "12"
+              "0 0  * * *"  ->  "00"
+    Retorna None se nao disponivel (trigger manual ou local).
+    """
+    schedule = os.environ.get("SCHEDULE", "").strip()
+    if not schedule:
+        return None
+    parts = schedule.split()
+    if len(parts) >= 2:
+        try:
+            return str(int(parts[1])).zfill(2)
+        except (ValueError, IndexError):
+            pass
+    return None
+
+
 def slugify(texto):
     texto = unicodedata.normalize("NFD", texto)
     texto = texto.encode("ascii", "ignore").decode("ascii")
@@ -198,7 +213,7 @@ def salvar_local(artigo, categoria_slug):
     agora    = datetime.now()
     data_str = agora.strftime("%Y-%m-%d")
     slug     = slugify(artigo["titulo"])
-    pasta    = categoria_slug  # slug = nome exacto da pasta no GitHub
+    pasta    = categoria_slug
 
     os.makedirs(f"artigos/{pasta}", exist_ok=True)
 
@@ -206,20 +221,21 @@ def salvar_local(artigo, categoria_slug):
     tags    = artigo.get("tags", [])
     tags_fm = "\n".join([f"  - {t}" for t in tags])
 
-    md = f"""---
-title: "{artigo['titulo'].replace('"', "'")}"
-subtitle: "{artigo.get('subtitulo','').replace('"', "'")}"
-date: {data_str}
-status: draft
-author: {artigo['autor']}
-categories:
-  - {pasta}
-description: "{artigo.get('resumo','').replace('"', "'")}"
-tags:
-{tags_fm}
----
-
-{artigo['conteudo']}"""
+    md = (
+        f'---\n'
+        f'title: "{artigo["titulo"].replace(chr(34), chr(39))}"\n'
+        f'subtitle: "{artigo.get("subtitulo","").replace(chr(34), chr(39))}"\n'
+        f'date: {data_str}\n'
+        f'status: draft\n'
+        f'author: {artigo["autor"]}\n'
+        f'categories:\n'
+        f'  - {pasta}\n'
+        f'description: "{artigo.get("resumo","").replace(chr(34), chr(39))}"\n'
+        f'tags:\n'
+        f'{tags_fm}\n'
+        f'---\n\n'
+        f'{artigo["conteudo"]}'
+    )
 
     with open(caminho, "w", encoding="utf-8") as f:
         f.write(md)
@@ -263,28 +279,44 @@ def publicar(categoria):
         return False
 
 def publicar_agendado():
-    agora      = datetime.now()
-    hora_atual = agora.strftime("%H:%M")
-    dia_semana = agora.weekday()  # 0=Segunda ... 6=Domingo
-
-    nomes_dias  = ["Segunda","Terça","Quarta","Quinta","Sexta","Sábado","Domingo"]
+    agora       = datetime.now()
+    hora_atual  = agora.strftime("%H:%M")
+    dia_semana  = agora.weekday()
     agenda_hoje = AGENDA_ROTATIVA[dia_semana]
-    print(f"[{hora_atual}] {nomes_dias[dia_semana]} — {[c['slug'] for c in agenda_hoje]}")
 
-    # Correspondência exacta primeiro
+    # Prioridade 1: hora extraida do cron SCHEDULE (sem ambiguidade de relógio)
+    hora_alvo = hora_alvo_do_schedule()
+    fonte     = f"schedule={os.environ.get('SCHEDULE','').strip()!r}"
+
+    # Prioridade 2: janela de 30 min — o slot mais recente nos ultimos 30 min
+    if hora_alvo is None:
+        agora_min = agora.hour * 60 + agora.minute
+        melhor, melhor_diff = None, 999
+        for cat in agenda_hoje:
+            h = int(cat["hora"])
+            slot_min = h * 60
+            diff = agora_min - slot_min
+            if diff < -30:          # slot ainda nao chegou (ou e meia-noite anterior)
+                diff += 24 * 60
+            if 0 <= diff <= 30 and diff < melhor_diff:
+                melhor_diff = diff
+                melhor = cat["hora"]
+        hora_alvo = melhor
+        fonte     = f"clock={hora_atual} (janela 30 min)"
+
+    print(f"[{hora_atual} UTC] {NOMES_DIAS[dia_semana]} | hora-alvo: {hora_alvo or 'nenhuma'} | {fonte}")
+    print(f"Agenda: {[c['slug'] for c in agenda_hoje]}")
+
+    if hora_alvo is None:
+        print(f"  Nenhum slot activo para {hora_atual}.")
+        return
+
     for cat in agenda_hoje:
-        if cat["hora"] == hora_atual:
+        if cat["hora"] == hora_alvo:
             publicar(cat)
             return
 
-    # Fallback: só a hora (absorve ±1 min de latência do runner)
-    hora_h = hora_atual[:2]
-    for cat in agenda_hoje:
-        if cat["hora"][:2] == hora_h:
-            publicar(cat)
-            return
-
-    print(f"  Nenhuma publicação agendada para {hora_atual}.")
+    print(f"  Slot {hora_alvo} nao encontrado na agenda de hoje.")
 
 def mostrar_gastos():
     dados = carregar_gastos()
@@ -292,19 +324,16 @@ def mostrar_gastos():
           f"${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}\n")
 
 def mostrar_agenda():
-    nomes = ["Segunda","Terça","Quarta","Quinta","Sexta","Sábado","Domingo"]
-    print("\n=== AGENDA SEMANAL ===")
+    print("\n=== AGENDA SEMANAL (UTC) ===")
     for dia, cats in AGENDA_ROTATIVA.items():
-        print(f"\n{nomes[dia]}:")
+        print(f"\n{NOMES_DIAS[dia]}:")
         for c in cats:
-            print(f"  {c['hora']} → {c['slug']} ({c['nome']})")
+            print(f"  {c['hora']}:00 UTC -> {c['slug']} ({c['nome']})")
 
-# ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     modo = sys.argv[1] if len(sys.argv) > 1 else "agendado"
 
     if modo == "todos":
-        # Publica as 6 categorias do dia actual
         dia     = datetime.now().weekday()
         sucesso = 0
         for cat in AGENDA_ROTATIVA[dia]:
@@ -321,7 +350,6 @@ if __name__ == "__main__":
         mostrar_agenda()
 
     elif modo in TODOS_SLUGS:
-        # Força uma categoria específica manualmente
         for cat in [c for agenda in AGENDA_ROTATIVA.values() for c in agenda]:
             if cat["slug"] == modo:
                 publicar(cat)
