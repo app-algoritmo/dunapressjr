@@ -1,20 +1,17 @@
 ---
 title: "A Corrida pelos Modelos de IA Compactos: Quando Menos Passa a Ser Mais"
-subtitle: "A indústria de inteligência artificial vive uma inflexão silenciosa: após anos de obsessão com modelos cada vez maiores, as grandes empresas de tecnologia apostam em sistemas menores, mais eficientes e surpreendentemente capazes — e essa mudança pode redefinir quem domina o setor."
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - technology
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778651999/A_Corrida_pelos_Modelos_de_IA_Compactos-_Quando_Menos_Passa_a_Ser_Mais_sfhit1.jpg"
+subtitle: "A indústria de inteligência artificial vive uma inflexão silenciosa: após anos de obsessão com modelos cada vez maiores, as grandes empresas de tecnologia apostam em sistemas menores, mais eficientes e surpreendentemente capazes — e essa mudança pode redefinir quem domina o setor."
 description: "O mercado de inteligência artificial atravessa uma virada estratégica em 2026: a corrida por modelos compactos e eficientes substitui a disputa por gigantes paramétricos. Empresas como Google, Meta e startups emergentes apostam em sistemas que cabem em dispositivos locais, reduzem custos operacionais e democratizam o acesso à IA — com implicações profundas para toda a cadeia tecnológica global."
 tags:
-  - tecnologia
-  - analise
-  - duna press
-  - inteligencia artificial
-  - modelos de linguagem
-  - big tech
-  - inovacao
+  - ia-compacto
+  - ia
+keywords: "ia-compacto, ia"
 ---
 
 ## A Corrida pelos Modelos de IA Compactos: Quando Menos Passa a Ser Mais
