@@ -972,6 +972,287 @@
         </div>
     </div>
 </section>
+        <!-- Banner de Assinatura Duna Press -->
+<section class="mb-10 md:mb-12">
+  <div class="duna-subscription-banner">
+    <div class="duna-banner-container">
+      <div class="duna-banner-content">
+        <div class="duna-banner-icon">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        
+        <div class="duna-banner-text">
+          <h3 class="duna-banner-title">Informação Independente. Sem Fronteiras.</h3>
+          <p class="duna-banner-subtitle">
+            Apoie o jornalismo de qualidade. Acesse análises exclusivas, newsletter premium e conteúdo sem paywall.
+          </p>
+          <div class="duna-banner-benefits">
+            <span class="duna-benefit-item">✓ Análise aprofundada</span>
+            <span class="duna-benefit-item">✓ Conteúdo exclusivo</span>
+            <span class="duna-benefit-item">✓ Liberdade editorial</span>
+          </div>
+        </div>
+        
+        <div class="duna-banner-action">
+          <a href="https://dunapress.org/assinatura" class="duna-banner-button" aria-label="Assinar Duna Press - R$ 7 por mês">
+            <span class="duna-button-text">Assinar Agora</span>
+            <span class="duna-button-price">R$ 7/mês</span>
+            <svg class="duna-button-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+          <p class="duna-banner-disclaimer">Cancele quando quiser. Sem contratos ou taxas ocultas.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+/* Banner de Assinatura - Duna Press */
+.duna-subscription-banner {
+  width: 100%;
+  background: linear-gradient(135deg, #c24032 0%, #a33025 100%);
+  padding: 2rem 0;
+  margin: 3rem 0;
+  box-shadow: 0 4px 20px rgba(194, 64, 50, 0.3);
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+.duna-subscription-banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  opacity: 0.1;
+  pointer-events: none;
+}
+
+.duna-banner-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  position: relative;
+  z-index: 1;
+}
+
+.duna-banner-content {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.duna-banner-icon {
+  flex-shrink: 0;
+  color: #ffffff;
+  opacity: 0.9;
+}
+
+.duna-banner-text {
+  flex: 1;
+  min-width: 250px;
+  color: #ffffff;
+}
+
+.duna-banner-title {
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.duna-banner-subtitle {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 1rem 0;
+  opacity: 0.95;
+  color: #ffffff;
+}
+
+.duna-banner-benefits {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.duna-benefit-item {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #ffffff;
+  opacity: 0.9;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.duna-banner-action {
+  flex-shrink: 0;
+  text-align: center;
+  min-width: 200px;
+}
+
+.duna-banner-button {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: #ffffff;
+  color: #c24032;
+  text-decoration: none;
+  padding: 1.25rem 2.5rem;
+  border-radius: 8px;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 2px solid transparent;
+  min-width: 180px;
+}
+
+.duna-banner-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.duna-banner-button:active {
+  transform: translateY(0);
+}
+
+.duna-banner-button:focus {
+  outline: 3px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+.duna-button-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.duna-button-price {
+  font-size: 0.875rem;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.duna-button-arrow {
+  transition: transform 0.3s ease;
+}
+
+.duna-banner-button:hover .duna-button-arrow {
+  transform: translateX(4px);
+}
+
+.duna-banner-disclaimer {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.75rem;
+  color: #ffffff;
+  opacity: 0.8;
+  margin-top: 0.75rem;
+  line-height: 1.4;
+}
+
+/* Responsividade */
+@media (max-width: 968px) {
+  .duna-banner-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+  }
+  
+  .duna-banner-icon {
+    display: none;
+  }
+  
+  .duna-banner-text {
+    min-width: 100%;
+  }
+  
+  .duna-banner-title {
+    font-size: 1.5rem;
+  }
+  
+  .duna-banner-benefits {
+    justify-content: center;
+  }
+  
+  .duna-banner-action {
+    min-width: 100%;
+  }
+  
+  .duna-banner-button {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 640px) {
+  .duna-subscription-banner {
+    padding: 1.5rem 0;
+    margin: 2rem 0;
+  }
+  
+  .duna-banner-container {
+    padding: 0 1.5rem;
+  }
+  
+  .duna-banner-title {
+    font-size: 1.25rem;
+  }
+  
+  .duna-banner-subtitle {
+    font-size: 0.9rem;
+  }
+  
+  .duna-banner-benefits {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .duna-benefit-item {
+    font-size: 0.8rem;
+  }
+  
+  .duna-banner-button {
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+/* Animação suave ao carregar */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.duna-subscription-banner {
+  animation: fadeInUp 0.6s ease-out;
+}
+</style>
                <!-- Ad Banner posição 1 — SALA Magnético -->
 <section class="mb-10 md:mb-12">
     <div class="text-center mb-2">
