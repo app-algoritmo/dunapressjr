@@ -1,20 +1,18 @@
 ---
 title: "A Fragmentação da Ordem Econômica Global: Entre Blocos Comerciais e a Corrida por Autonomia Estratégica"
-subtitle: "A economia mundial de 2026 não colapsa — ela se reorganiza. Compreender essa reconfiguração silenciosa é a tarefa mais urgente para governos, empresas e investidores neste momento."
 date: 2026-05-13
-status: draft
+status: publish
 author: Duna Press Redacao
 categories:
   - global-economy
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778705336/A_Fragmentac%CC%A7a%CC%83o_da_Ordem_Econo%CC%82mica_Global-_Entre_Blocos_Comerciais_e_a_Corrida_por_Autonomia_Estrate%CC%81gica_k0k9cy.jpg"
+subtitle: "A economia mundial de 2026 não colapsa — ela se reorganiza. Compreender essa reconfiguração silenciosa é a tarefa mais urgente para governos, empresas e investidores neste momento."
 description: "A economia global de 2026 opera sob uma lógica de fragmentação estrutural acelerada. A disputa entre blocos comerciais, a reorientação das cadeias produtivas e a busca por autonomia estratégica em setores críticos redesenham o mapa do poder econômico mundial. Este artigo analisa os vetores centrais dessa transformação e seus impactos para economias emergentes e consolidadas."
 tags:
-  - global-economy
-  - analise
-  - duna press
-  - geopolitica-economica
-  - blocos-comerciais
+  - fim-da-globalizacao
+  - nova-ordem-economica
   - desglobalizacao
-  - autonomia-estrategica
+keywords: "fim-da-globalizacao, nova-ordem-economica, desglobalizacao"
 ---
 
 ## A Fragmentação da Ordem Econômica Global: Entre Blocos Comerciais e a Corrida por Autonomia Estratégica
