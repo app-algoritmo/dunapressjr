@@ -1,13 +1,11 @@
 ---
-title: Saindo da zona de conforto! - 05
+title: "Saindo da zona de conforto! - 05"
 date: 2018-09-28
 status: publish
 author: Leonardo Gabossa
 categories:
-- Opinion
-- Religiosity
+  - global-affairs
 ---
-
 
 Esmiuçando um pouco mais o tema da zona de conforto, temos que ela pode também ser entendida de duas formas bem claras:
 
@@ -51,13 +49,5 @@ A Inglaterra tem o mesmo número de funcionários públicos desde o ano 1930, qu
 A conta no país não fecha há muito tempo, por muitos motivos, mas também pelos privilégios do funcionalismo em sua maioria, altos salários e aposentadorias altas, em detrimento da iniciativa privada, que tem baixo salário, poucos benefícios e uma aposentadoria miserável.
 
 Enfim, toda zona de conforto é em detrimento de alguém, pelo esforço ou exploração de outras pessoas. Pura matemática.
-
-Links dos artigos anteriores:
-Artigo 1 - clique [aqui.](https://dunapress.org/2018/08/02/saindo-da-zona-de-conforto-01/)
-Artigo 2 - clique [aqui.](https://dunapress.org/2018/08/08/saindo-da-zona-de-conforto-02/)
-Artigo 3 - clique [aqui.](https://dunapress.org/2018/09/12/saindo-da-zona-de-conforto-03/)
-Artigo 4 - clique [aqui.](https://dunapress.org/2018/09/20/saindo-da-zona-de-conforto-04/)
-
-Créditos de imagem: Unsplash. Fotografia de Emma Simpson.
 
 Revisão e edição de Luiz Gustavo Chrispino.
