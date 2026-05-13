@@ -1,5 +1,4 @@
 name: Duna Press - Publicacao Automatica IA
-
 on:
   schedule:
     - cron: '0 9  * * *'   # 09:00 UTC
@@ -8,7 +7,6 @@ on:
     - cron: '0 18 * * *'   # 18:00 UTC
     - cron: '0 21 * * *'   # 21:00 UTC
     - cron: '0 0  * * *'   # 00:00 UTC
-
   workflow_dispatch:
     inputs:
       modo:
@@ -24,10 +22,8 @@ on:
         required: false
         default: 'agendado'
         type: string
-
 permissions:
   contents: write
-
 jobs:
   publicar:
     runs-on: ubuntu-latest
@@ -37,23 +33,22 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - run: pip install anthropic requests
-
       - name: Publicar artigo da hora
         env:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+          # NOVO: passa o cron que disparou para o Python identificar o slot sem depender do relogio
+          SCHEDULE: ${{ github.event.schedule }}
         run: |
           MODO="${{ github.event.inputs.modo }}"
           if [ -z "$MODO" ]; then MODO="agendado"; fi
           echo "Modo: $MODO"
+          echo "Schedule: ${SCHEDULE:-manual/dispatch}"
           python auto_publicar.py $MODO
-
       - name: Commit e push dos rascunhos
         run: |
           git config user.name  "Duna Press Bot"
