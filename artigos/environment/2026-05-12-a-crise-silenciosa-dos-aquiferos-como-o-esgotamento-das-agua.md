@@ -1,21 +1,18 @@
 ---
 title: "A Crise Silenciosa dos Aquíferos: Como o Esgotamento das Águas Subterrâneas Ameaça a Segurança Alimentar Global"
-subtitle: "Estudos recentes apontam que mais de 21 dos principais aquíferos do planeta estão a ser extraídos a um ritmo superior ao da sua recarga natural, colocando em risco o abastecimento de água para milhares de milhões de pessoas nas próximas décadas"
 date: 2026-05-12
 status: publish
 author: Duna Press Redacao
 categories:
   - environment
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778663234/A_Crise_Silenciosa_dos_Aqui%CC%81feros_-_Como_o_Esgotamento_das_A%CC%81guas_Subterra%CC%82neas_Ameac%CC%A7a_a_Seguranc%CC%A7a_Alimentar_Global_p6bqwc.jpg"
+subtitle: "Estudos recentes apontam que mais de 21 dos principais aquíferos do planeta estão a ser extraídos a um ritmo superior ao da sua recarga natural, colocando em risco o abastecimento de água para milhares de milhões de pessoas nas próximas décadas"
 description: "O esgotamento acelerado dos aquíferos subterrâneos configura uma das crises ambientais menos visíveis mas mais devastadoras do século XXI. Com sistemas hídricos subterrâneos em colapso em zonas como o Médio Oriente, Índia, China e partes dos Estados Unidos, a dependência da agricultura industrial na extração intensiva de água subterrânea coloca em xeque a produção alimentar global num horizonte de 20 a 40 anos."
 tags:
-  - ambiente
-  - analise
-  - duna press
   - aquiferos
-  - agua subterranea
-  - seguranca alimentar
-  - crise hidrica
-  - agricultura
+  - agua
+  - agua-subterranea
+keywords: "aquiferos, agua, agua-subterranea"
 ---
 
 ## A Crise Silenciosa dos Aquíferos
