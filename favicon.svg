@@ -1,0 +1,18 @@
+<!-- Salve como: favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .bg { fill: #c44536; }
+      .layer { fill: none; stroke: #fff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+      .letter { fill: #fff; font-family: 'Georgia', serif; font-size: 42px; font-weight: bold; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #a33a2d; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="5" y="5" width="90" height="90" rx="12" ry="12"/>
+  <path class="layer" d="M 25 55 L 50 70 L 75 55"/>
+  <path class="layer" d="M 22 62 L 50 78 L 78 62"/>
+  <path class="layer" d="M 20 48 L 50 65 L 80 48"/>
+  <text class="letter" x="50" y="52" text-anchor="middle" dominant-baseline="middle">D</text>
+</svg>
