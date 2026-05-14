@@ -1,12 +1,12 @@
 name: Duna Press - Publicacao Automatica IA
 on:
   schedule:
-    - cron: '0 4 * * *'   # 06:00 Oslo (CEST)
-    - cron: '0 5 * * *'   # 07:00 Oslo
-    - cron: '0 6 * * *'   # 08:00 Oslo
-    - cron: '0 7 * * *'   # 09:00 Oslo
-    - cron: '0 8 * * *'   # 10:00 Oslo
-    - cron: '0 9 * * *'   # 11:00 Oslo
+    - cron: '0 10 * * *'   # 07:00 Brasil (BRT)
+    - cron: '0 11 * * *'   # 08:00 Brasil
+    - cron: '0 12 * * *'   # 09:00 Brasil
+    - cron: '0 13 * * *'   # 10:00 Brasil
+    - cron: '0 14 * * *'   # 11:00 Brasil
+    - cron: '0 15 * * *'   # 12:00 Brasil
   workflow_dispatch:
     inputs:
       modo:
