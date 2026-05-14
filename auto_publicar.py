@@ -15,60 +15,60 @@ AUTOR = "Duna Press Redacao"
 
 AGENDA_ROTATIVA = {
     0: [
-        {"slug": "health",               "nome": "Saude",                   "hora": "09"},
-        {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "12"},
-        {"slug": "fitness",              "nome": "Fitness",                 "hora": "15"},
-        {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "18"},
-        {"slug": "motivational",         "nome": "Motivacional",            "hora": "21"},
-        {"slug": "beauty",               "nome": "Beleza",                  "hora": "00"},
+        {"slug": "health",               "nome": "Saude",                   "hora": "10"},
+        {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "11"},
+        {"slug": "fitness",              "nome": "Fitness",                 "hora": "12"},
+        {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "13"},
+        {"slug": "motivational",         "nome": "Motivacional",            "hora": "14"},
+        {"slug": "beauty",               "nome": "Beleza",                  "hora": "15"},
     ],
     1: [
-        {"slug": "technology",            "nome": "Tecnologia",        "hora": "09"},
-        {"slug": "science",               "nome": "Ciencia",           "hora": "12"},
-        {"slug": "innovation",            "nome": "Inovacao",          "hora": "15"},
-        {"slug": "future-and-innovation", "nome": "Futuro e Inovacao", "hora": "18"},
-        {"slug": "astronomy",             "nome": "Astronomia",        "hora": "21"},
-        {"slug": "e-auto",                "nome": "E-Auto",            "hora": "00"},
+        {"slug": "technology",            "nome": "Tecnologia",        "hora": "10"},
+        {"slug": "science",               "nome": "Ciencia",           "hora": "11"},
+        {"slug": "innovation",            "nome": "Inovacao",          "hora": "12"},
+        {"slug": "future-and-innovation", "nome": "Futuro e Inovacao", "hora": "13"},
+        {"slug": "astronomy",             "nome": "Astronomia",        "hora": "14"},
+        {"slug": "e-auto",                "nome": "E-Auto",            "hora": "15"},
     ],
     2: [
-        {"slug": "global-economy",       "nome": "Economia Global",     "hora": "09"},
-        {"slug": "business-and-economy", "nome": "Negocios e Economia", "hora": "12"},
-        {"slug": "finances",             "nome": "Financas",            "hora": "15"},
-        {"slug": "financial-education",  "nome": "Educacao Financeira", "hora": "18"},
-        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",    "hora": "21"},
-        {"slug": "courses-and-careers",  "nome": "Cursos e Carreiras",  "hora": "00"},
+        {"slug": "global-economy",       "nome": "Economia Global",     "hora": "10"},
+        {"slug": "business-and-economy", "nome": "Negocios e Economia", "hora": "11"},
+        {"slug": "finances",             "nome": "Financas",            "hora": "12"},
+        {"slug": "financial-education",  "nome": "Educacao Financeira", "hora": "13"},
+        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",    "hora": "14"},
+        {"slug": "courses-and-careers",  "nome": "Cursos e Carreiras",  "hora": "15"},
     ],
     3: [
-        {"slug": "geopolitics",           "nome": "Geopolitica",              "hora": "09"},
-        {"slug": "politics-and-society",  "nome": "Politica e Sociedade",     "hora": "12"},
-        {"slug": "international-affairs", "nome": "Assuntos Internacionais",  "hora": "15"},
-        {"slug": "military",              "nome": "Militar",                  "hora": "18"},
-        {"slug": "world-affairs",         "nome": "Assuntos Mundiais",        "hora": "21"},
-        {"slug": "global-affairs",        "nome": "Assuntos Globais",         "hora": "00"},
+        {"slug": "geopolitics",           "nome": "Geopolitica",              "hora": "10"},
+        {"slug": "politics-and-society",  "nome": "Politica e Sociedade",     "hora": "11"},
+        {"slug": "international-affairs", "nome": "Assuntos Internacionais",  "hora": "12"},
+        {"slug": "military",              "nome": "Militar",                  "hora": "13"},
+        {"slug": "world-affairs",         "nome": "Assuntos Mundiais",        "hora": "14"},
+        {"slug": "global-affairs",        "nome": "Assuntos Globais",         "hora": "15"},
     ],
     4: [
-        {"slug": "culture-and-history", "nome": "Cultura e Historia", "hora": "09"},
-        {"slug": "history",             "nome": "Historia",           "hora": "12"},
-        {"slug": "literature",          "nome": "Literatura",         "hora": "15"},
-        {"slug": "music",               "nome": "Musica",             "hora": "18"},
-        {"slug": "philosophy",          "nome": "Filosofia",          "hora": "21"},
-        {"slug": "education",           "nome": "Educacao",           "hora": "00"},
+        {"slug": "culture-and-history", "nome": "Cultura e Historia", "hora": "10"},
+        {"slug": "history",             "nome": "Historia",           "hora": "11"},
+        {"slug": "literature",          "nome": "Literatura",         "hora": "12"},
+        {"slug": "music",               "nome": "Musica",             "hora": "13"},
+        {"slug": "philosophy",          "nome": "Filosofia",          "hora": "14"},
+        {"slug": "education",           "nome": "Educacao",           "hora": "15"},
     ],
     5: [
-        {"slug": "soccer",        "nome": "Futebol",         "hora": "09"},
-        {"slug": "sports",        "nome": "Desporto",        "hora": "12"},
-        {"slug": "tennis",        "nome": "Tenis",           "hora": "15"},
-        {"slug": "formula-1",     "nome": "Formula 1",       "hora": "18"},
-        {"slug": "cycling",       "nome": "Ciclismo",        "hora": "21"},
-        {"slug": "olympic-games", "nome": "Jogos Olimpicos", "hora": "00"},
+        {"slug": "soccer",        "nome": "Futebol",         "hora": "10"},
+        {"slug": "sports",        "nome": "Desporto",        "hora": "11"},
+        {"slug": "tennis",        "nome": "Tenis",           "hora": "12"},
+        {"slug": "formula-1",     "nome": "Formula 1",       "hora": "13"},
+        {"slug": "cycling",       "nome": "Ciclismo",        "hora": "14"},
+        {"slug": "olympic-games", "nome": "Jogos Olimpicos", "hora": "15"},
     ],
     6: [
-        {"slug": "environment",            "nome": "Meio Ambiente",         "hora": "09"},
-        {"slug": "agriculture",            "nome": "Agricultura",           "hora": "12"},
-        {"slug": "tourism-and-gastronomy", "nome": "Turismo e Gastronomia", "hora": "15"},
-        {"slug": "fashion",                "nome": "Moda",                  "hora": "18"},
-        {"slug": "lifestyle",              "nome": "Estilo de Vida",        "hora": "21"},
-        {"slug": "pets",                   "nome": "Animais de Estimacao",  "hora": "00"},
+        {"slug": "environment",            "nome": "Meio Ambiente",         "hora": "10"},
+        {"slug": "agriculture",            "nome": "Agricultura",           "hora": "11"},
+        {"slug": "tourism-and-gastronomy", "nome": "Turismo e Gastronomia", "hora": "12"},
+        {"slug": "fashion",                "nome": "Moda",                  "hora": "13"},
+        {"slug": "lifestyle",              "nome": "Estilo de Vida",        "hora": "14"},
+        {"slug": "pets",                   "nome": "Animais de Estimacao",  "hora": "15"},
     ],
 }
 
@@ -76,25 +76,13 @@ TODOS_SLUGS = [cat["slug"] for agenda in AGENDA_ROTATIVA.values() for cat in age
 NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domingo"]
 
 
-# ──────────────────────────────────────────────────────────────
-# UNSPLASH — busca imagem de destaque para o artigo
-# ──────────────────────────────────────────────────────────────
 def buscar_imagem_unsplash(titulo, categoria_slug):
-    """
-    Tenta 2 queries:
-      1. Primeiras 5 palavras do título (mais específico)
-      2. Slug da categoria (fallback)
-    Devolve dict {"url": str, "autor": str, "autor_url": str} ou None.
-    """
     if not UNSPLASH_KEY:
         print("  UNSPLASH_KEY não configurada — sem imagem.")
         return None
 
     headers = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
-
-    # Query 1: palavras-chave do título
     palavras = " ".join(titulo.split()[:5])
-    # Query 2: slug da categoria (substitui hifens por espaços)
     fallback = categoria_slug.replace("-", " ")
 
     for query in [palavras, fallback]:
@@ -260,7 +248,6 @@ def salvar_local(artigo, categoria_slug, imagem=None):
     tags    = artigo.get("tags", [])
     tags_fm = "\n".join([f"  - {t}" for t in tags])
 
-    # Frontmatter da imagem
     imagem_fm = ""
     if imagem and imagem.get("url"):
         imagem_fm = (
@@ -324,10 +311,7 @@ def publicar(categoria):
         return False
     try:
         artigo = gerar_artigo_batch(categoria)
-
-        # Busca imagem no Unsplash com o título gerado pela IA
         imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), categoria["slug"])
-
         slug, caminho = salvar_local(artigo, categoria["slug"], imagem)
         actualizar_search_index_local(artigo, caminho, categoria["slug"], imagem)
         print(f"  OK: {artigo['titulo']}")
