@@ -229,6 +229,21 @@
         .preview-area .pdf-embed { display:flex; align-items:center; gap:10px; padding:14px 16px; background:rgba(201,77,58,0.08); border:1px solid rgba(201,77,58,0.25); border-radius:8px; margin:1rem 0; text-decoration:none; }
         .preview-area .pdf-icon { font-size:20px; }
         .preview-area .pdf-name { font-size:13px; color:var(--rust-light); font-family:'JetBrains Mono',monospace; word-break:break-all; }
+
+        .video-embed {
+  position: relative;
+  padding-bottom: 56.25%; /* Proporção 16:9 */
+  height: 0;
+  overflow: hidden;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+.video-embed iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  border: none;
+}
     </style>
 </head>
 <body>
