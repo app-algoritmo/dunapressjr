@@ -1,20 +1,18 @@
 ---
 title: "A Reconfiguração da Ordem Econômica Global: Fragmentação, Resiliência e os Novos Eixos de Poder em 2026"
-subtitle: "Com o comércio multilateral sob pressão crescente e blocos regionais ganhando protagonismo, a economia mundial enfrenta uma transição estrutural que redefine alianças, cadeias produtivas e a própria lógica do crescimento sustentado"
 date: 2026-05-13
 status: publish
 author: Duna Press Redacao
 categories:
   - global-economy
+featuredImage: "https://res.cloudinary.com/dvpqza6z7/image/upload/v1778733864/A_Reconfigurac%CC%A7a%CC%83o_da_Ordem_Econo%CC%82mica_Global-_Fragmentac%CC%A7a%CC%83o_Resilie%CC%82ncia_e_os_Novos_Eixos_de_Poder_em_2026_aaqajp.jpg"
+subtitle: "Com o comércio multilateral sob pressão crescente e blocos regionais ganhando protagonismo, a economia mundial enfrenta uma transição estrutural que redefine alianças, cadeias produtivas e a própria lógica do crescimento sustentado"
 description: "A economia global de 2026 opera sob tensões estruturais profundas: a fragmentação do sistema multilateral de comércio, a ascensão de blocos regionais como alternativa de governança econômica e a redistribuição do poder produtivo entre Ocidente e Sul Global. Este artigo analisa os vetores centrais dessa reconfiguração e o que ela significa para os próximos anos."
 tags:
-  - global-economy
-  - analise
-  - duna press
-  - comercio-internacional
-  - geopolitica-economica
-  - blocos-regionais
-  - desglobalizacao
+  - ordem-economica-global
+  - dinheiro
+  - financas
+keywords: "ordem-economica-global, dinheiro, financas"
 ---
 
 ## A Reconfiguração da Ordem Econômica Global: Fragmentação, Resiliência e os Novos Eixos de Poder em 2026
