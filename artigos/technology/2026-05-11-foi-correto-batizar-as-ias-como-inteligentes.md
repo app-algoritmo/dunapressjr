@@ -13,7 +13,9 @@ description: "Quando, em 1956, o matemático John McCarthy organizou a conferên
 
 Quando, em 1956, o matemático John McCarthy organizou a conferência de Dartmouth e cunhou o termo *Artificial Intelligence*, ele não estava apenas escolhendo um rótulo bonito. Na proposta enviada à Fundação Rockefeller, McCarthy escreveu que o objetivo era “proceder com base na conjectura de que todo aspecto do aprendizado ou qualquer outra característica da inteligência pode, em princípio, ser descrito com tanta precisão que uma máquina possa simular isso”. O termo pegou. E, 70 anos depois, ainda discutimos se foi uma escolha feliz ou um equívoco semântico que hoje gera mais confusão do que clareza.
 
+
 [video](https://www.youtube.com/watch?v=h6ZTKK6RfRw)
+
 
 A pergunta central é simples, mas profunda: **foi correto colocar a palavra “inteligência” no nome das IAs?** E, mais importante, **por quê?**
 
