@@ -1841,33 +1841,69 @@ document.getElementById('hero-side3-img').src = 'https://img.youtube.com/vi/' + 
         let currentVideoId = null;
         let isDarkMode = true;
 
-        // ==================== BREAKING NEWS TICKER — ✅ MUDANÇA 2: aceita artigos do GitHub ====================
-        function buildTicker(extraTitles) {
-            const el = document.getElementById('tickerContent');
-            if (!el) return;
-            const order = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
-            const videoTitles = order.map(k => videoData[k]?.title).filter(Boolean);
-            const artItems = (extraTitles || []).slice(0, 8).map(a => ({ title: a.title, path: a.path }));
-            const allItems = [
-                ...videoTitles.map((t, i) => ({ title: t, path: null, vidKey: order[i] })),
-                ...artItems
-            ];
-            const doubled = [...allItems, ...allItems];
-            const spans = doubled.map((item, i) =>
-                `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
-                    onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'"
-                    data-ti="${i % allItems.length}">• ${item.title}</span>`
-            ).join('');
-            el.innerHTML = spans;
-            el.querySelectorAll('span').forEach(span => {
-                const idx = parseInt(span.dataset.ti);
-                const item = allItems[idx];
-                span.onclick = () => {
-                    if (item.path) window.location = `/artigo.html?file=/${item.path}`;
-                    else openVideoModal(item.vidKey || 'featured');
-                };
-            });
-        }
+        // ==================== BREAKING NEWS TICKER — ====================
+        function buildTicker(articleList = []) {
+    const el = document.getElementById('tickerContent');
+    if (!el) return;
+
+    // 1. Coletar vídeos válidos
+    const videoKeys = ['featured','side1','side2','side3','v1','v2','v3','v4','v5','v6'];
+    const videoItems = videoKeys
+        .filter(k => videoData[k]?.title)
+        .map(k => ({
+            type: 'video',
+            title: videoData[k].title,
+            date: videoData[k].date,
+            key: k
+        }));
+
+    // 2. Coletar artigos válidos (limite de 10 para não sobrecarregar)
+    const articleItems = Array.isArray(articleList) 
+        ? articleList
+            .filter(a => a.title && a.path)
+            .slice(0, 10)
+            .map(a => ({
+                type: 'article',
+                title: a.title,
+                date: a.date,
+                path: a.path
+            }))
+        : [];
+
+    // 3. Normalizar datas para ordenação
+    const parseDate = (d) => {
+        if (!d) return new Date(0);
+        const dateObj = new Date(d);
+        return isNaN(dateObj.getTime()) ? new Date(0) : dateObj;
+    };
+
+    // 4. Unir, ordenar (mais recente primeiro) e limitar a 12 itens totais
+    const allItems = [...videoItems, ...articleItems]
+        .sort((a, b) => parseDate(b.date) - parseDate(a.date))
+        .slice(0, 12);
+
+    // 5. Gerar HTML duplicado para o efeito de rolagem infinita
+    const doubled = [...allItems, ...allItems];
+    el.innerHTML = doubled.map((item, i) => {
+        const safeTitle = item.title.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        return `<span style="padding:0 2rem;cursor:pointer;flex-shrink:0;color:#cbd5e1;transition:color 0.2s"
+                onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'"
+                data-ti="${i % allItems.length}">• ${safeTitle}</span>`;
+    }).join('');
+
+    // 6. Vincular cliques
+    el.querySelectorAll('span').forEach(span => {
+        const idx = parseInt(span.dataset.ti);
+        const item = allItems[idx];
+        span.onclick = () => {
+            if (item.type === 'article' && item.path) {
+                window.location = `/artigo.html?file=/${item.path}`;
+            } else {
+                openVideoModal(item.key || 'featured');
+            }
+        };
+    });
+}
 
         function getVideoState(vid) {
             const raw = localStorage.getItem('dp_video_' + vid);
