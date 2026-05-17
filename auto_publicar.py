@@ -110,7 +110,7 @@ def buscar_subscribers():
         return []
 
 
-def montar_email_html(artigo, caminho, imagem=None):
+def montar_email_html(artigo, caminho, imagem=None, email=""):
     titulo    = artigo.get("titulo", "Novo artigo")
     resumo    = artigo.get("resumo", "")
     categoria = artigo.get("categoria", "")
@@ -165,6 +165,8 @@ def montar_email_html(artigo, caminho, imagem=None):
             <p style="margin:0;font-size:11px;color:#aaa;text-align:center;line-height:1.6;">
               Recebeste este email porque subscreveste a newsletter da Duna Press.<br>
               <a href="https://dunapress.org" style="color:#aaa;">dunapress.org</a>
+              &nbsp;&middot;&nbsp;
+              <a href="https://dunapress.org/unsubscribe.html?email=" + email + "" style="color:#aaa;">Cancelar subscrição</a>
             </p>
           </td>
         </tr>
@@ -185,9 +187,9 @@ def enviar_newsletter(artigo, caminho, imagem=None):
         print("  Sem subscribers activos — newsletter ignorada.")
         return
     titulo  = artigo.get("titulo", "Novo artigo na Duna Press")
-    html, _ = montar_email_html(artigo, caminho, imagem)
     enviados, erros = 0, 0
     for email in subscribers:
+        html, _ = montar_email_html(artigo, caminho, imagem, email=email)
         try:
             res = requests.post(
                 "https://api.resend.com/emails",
