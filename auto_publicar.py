@@ -85,6 +85,12 @@ NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domin
 # NEWSLETTER
 # ──────────────────────────────────────────────────────────────
 def buscar_subscribers():
+    """
+    Devolve o grupo diário de subscribers (rotação semanal de 7 grupos).
+    Cada grupo tem ~1/7 dos subscribers activos.
+    Garante que cada pessoa recebe 1 email por semana,
+    mantendo o total diário abaixo de 100 (limite Resend free).
+    """
     if not SUPABASE_URL or not SUPABASE_KEY:
         print("  Supabase nao configurado — newsletter ignorada.")
         return []
@@ -95,16 +101,23 @@ def buscar_subscribers():
                 "apikey": SUPABASE_KEY,
                 "Authorization": f"Bearer {SUPABASE_KEY}",
             },
-            params={"status": "eq.active", "select": "email"},
+            params={"status": "eq.active", "select": "email", "order": "id.asc"},
             timeout=10
         )
-        if res.status_code == 200:
-            emails = [row["email"] for row in res.json() if row.get("email")]
-            print(f"  Subscribers activos: {len(emails)}")
-            return emails
-        else:
+        if res.status_code != 200:
             print(f"  Supabase erro {res.status_code}: {res.text[:100]}")
             return []
+
+        todos = [row["email"] for row in res.json() if row.get("email")]
+        total = len(todos)
+
+        # Divide em 7 grupos — hoje envia ao grupo do dia da semana
+        dia = datetime.now().weekday()  # 0=Segunda ... 6=Domingo
+        grupo = [todos[i] for i in range(total) if i % 7 == dia]
+
+        print(f"  Subscribers activos: {total} | Grupo hoje (dia {dia}): {len(grupo)}")
+        return grupo
+
     except Exception as e:
         print(f"  Supabase erro: {e}")
         return []
@@ -182,6 +195,16 @@ def enviar_newsletter(artigo, caminho, imagem=None):
     if not RESEND_KEY:
         print("  RESEND_KEY nao configurada — newsletter ignorada.")
         return
+
+    # Só envia newsletter no primeiro artigo do dia (10:00 UTC)
+    # Os outros 5 artigos não disparam email — evita multiplicar envios
+    hora_alvo = hora_alvo_do_schedule()
+    hora_clock = datetime.now().strftime("%H")
+    hora_actual = hora_alvo or hora_clock
+    if hora_actual != "10":
+        print(f"  Newsletter: só enviada às 10:00 UTC (agora {hora_actual}:xx) — ignorada.")
+        return
+
     subscribers = buscar_subscribers()
     if not subscribers:
         print("  Sem subscribers activos — newsletter ignorada.")
