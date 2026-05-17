@@ -70,12 +70,8 @@
         .spinner{border:3px solid rgba(255,255,255,0.1);border-top:3px solid #e06552;border-radius:50%;width:20px;height:20px;animation:spin 0.8s linear infinite;}
         @keyframes spin{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}
         .nav-active{color:#e06552!important;border-bottom:2px solid #e06552;}
-
-        /* States */
         .state{display:none;}
         .state.active{display:block;}
-
-        /* Success animation */
         @keyframes checkPop{0%{transform:scale(0);}70%{transform:scale(1.2);}100%{transform:scale(1);}}
         .check-anim{animation:checkPop 0.5s ease forwards;}
     </style>
@@ -257,7 +253,7 @@
 
     let currentLang = 'pt';
 
-    // ==================== TICKER ====================
+    // ── TICKER ──
     const videoTitles = [
         "Eletricidade invisível: como a Finlândia está liderando a revolução da energia sem fio",
         "China vende o primeiro computador quântico atômico comercial do mundo",
@@ -276,21 +272,20 @@
         ).join('');
     }
 
-    // ==================== STATES ====================
+    // ── STATES ──
     function showState(id) {
         document.querySelectorAll('.state').forEach(s => s.classList.remove('active'));
         document.getElementById(id).classList.add('active');
     }
 
-    // ==================== UNSUBSCRIBE ====================
+    // ── UNSUBSCRIBE — corrigido para tabela 'newsletter' ──
     async function handleUnsubscribe() {
         const emailInput = document.getElementById('unsubEmail');
         const emailError = document.getElementById('emailError');
-        const btn = document.getElementById('unsubBtn');
-        const spinner = document.getElementById('unsubSpinner');
-        const email = emailInput.value.trim();
+        const btn        = document.getElementById('unsubBtn');
+        const spinner    = document.getElementById('unsubSpinner');
+        const email      = emailInput.value.trim();
 
-        // Validate
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         if (!emailRegex.test(email)) {
             emailError.classList.remove('hidden');
@@ -298,73 +293,48 @@
             return;
         }
         emailError.classList.add('hidden');
-
-        // Loading
         btn.disabled = true;
         spinner.classList.remove('hidden');
 
         try {
-            // Tenta deletar o registro com o email na tabela 'subscribers'
-            // Ajuste o nome da tabela conforme necessário
+            // Actualiza status para 'unsubscribed' na tabela 'newsletter'
             const { data, error } = await _supabase
-                .from('subscribers')
-                .delete()
+                .from('newsletter')
+                .update({ status: 'unsubscribed' })
                 .eq('email', email)
                 .select();
 
             if (error) throw error;
 
             if (data && data.length > 0) {
-                // Email encontrado e removido
+                // Email encontrado e actualizado com sucesso
                 document.getElementById('successEmail').textContent = email;
                 showState('stateSuccess');
             } else {
-                // Email não encontrado na lista
-                // Tenta marcar como unsubscribed em vez de deletar
-                const { data: updateData, error: updateError } = await _supabase
-                    .from('subscribers')
-                    .update({ status: 'unsubscribed', unsubscribed_at: new Date().toISOString() })
-                    .eq('email', email)
-                    .select();
-
-                if (!updateError && updateData && updateData.length > 0) {
-                    document.getElementById('successEmail').textContent = email;
-                    showState('stateSuccess');
-                } else {
-                    showState('stateNotFound');
-                }
+                // Email não existe na tabela
+                showState('stateNotFound');
             }
         } catch (err) {
             console.error('Unsubscribe error:', err);
-            // Fallback: tenta inserir registro de unsubscribe
-            try {
-                await _supabase.from('unsubscribes').insert([{
-                    email,
-                    unsubscribed_at: new Date().toISOString()
-                }]);
-                document.getElementById('successEmail').textContent = email;
-                showState('stateSuccess');
-            } catch (e) {
-                showState('stateError');
-            }
+            showState('stateError');
         } finally {
             btn.disabled = false;
             spinner.classList.add('hidden');
         }
     }
 
-    // Enter key
+    // ── INIT ──
     document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('unsubEmail').addEventListener('keydown', e => {
             if (e.key === 'Enter') handleUnsubscribe();
         });
 
-        // Pre-fill email from URL param ?email=
+        // Pré-preenche email se vier no URL (?email=xxx)
         const params = new URLSearchParams(window.location.search);
         const emailParam = params.get('email');
         if (emailParam) document.getElementById('unsubEmail').value = decodeURIComponent(emailParam);
 
-        // Clock
+        // Relógio
         const now = new Date();
         document.getElementById('currentDate').textContent = now.toLocaleDateString('pt-BR', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
         function updateClock() { document.getElementById('liveClock').textContent = new Date().toLocaleTimeString('pt-BR',{hour12:false}); }
@@ -378,7 +348,7 @@
         buildTicker();
     });
 
-    // ==================== THEME & LANG ====================
+    // ── THEME & LANG ──
     function toggleTheme(toggle=true) {
         if (toggle) {
             const isDark = document.body.classList.contains('light-mode');
