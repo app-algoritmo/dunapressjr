@@ -42,7 +42,10 @@ jobs:
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
           GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
           UNSPLASH_KEY:  ${{ secrets.UNSPLASH_KEY }}
-          SCHEDULE: ${{ github.event.schedule }}
+          RESEND_KEY:    ${{ secrets.RESEND_KEY }}
+          SUPABASE_URL:  ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY:  ${{ secrets.SUPABASE_KEY }}
+          SCHEDULE:      ${{ github.event.schedule }}
         run: |
           MODO="${{ github.event.inputs.modo }}"
           if [ -z "$MODO" ]; then MODO="agendado"; fi
