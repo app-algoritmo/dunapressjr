@@ -4,15 +4,20 @@ from datetime import datetime
 ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_KEY", "")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 UNSPLASH_KEY   = os.environ.get("UNSPLASH_KEY", "")
-GITHUB_REPO    = "app-algoritmo/dunapressjr"
+RESEND_KEY     = os.environ.get("RESEND_KEY", "")
 SUPABASE_URL   = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY   = os.environ.get("SUPABASE_KEY", "")
+GITHUB_REPO    = "app-algoritmo/dunapressjr"
+SITE_BASE_URL  = "https://dunapress.org"
+FROM_EMAIL     = "Duna Press <newsletter@dunapress.org>"
+
 ORCAMENTO_MENSAL_USD   = 2.00
 PRECO_INPUT_POR_TOKEN  = 1.50 / 1_000_000
 PRECO_OUTPUT_POR_TOKEN = 7.50 / 1_000_000
 FICHEIRO_GASTOS = "/tmp/dunapress_gastos.json"
 AUTOR = "Duna Press Redacao"
 
+# ── AGENDA: horas UTC 10-15 (igual ao publicar.yml) ──
 AGENDA_ROTATIVA = {
     0: [
         {"slug": "health",               "nome": "Saude",                   "hora": "10"},
@@ -76,15 +81,150 @@ TODOS_SLUGS = [cat["slug"] for agenda in AGENDA_ROTATIVA.values() for cat in age
 NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domingo"]
 
 
+# ──────────────────────────────────────────────────────────────
+# NEWSLETTER
+# ──────────────────────────────────────────────────────────────
+def buscar_subscribers():
+    if not SUPABASE_URL or not SUPABASE_KEY:
+        print("  Supabase nao configurado — newsletter ignorada.")
+        return []
+    try:
+        res = requests.get(
+            f"{SUPABASE_URL}/rest/v1/newsletter",
+            headers={
+                "apikey": SUPABASE_KEY,
+                "Authorization": f"Bearer {SUPABASE_KEY}",
+            },
+            params={"status": "eq.active", "select": "email"},
+            timeout=10
+        )
+        if res.status_code == 200:
+            emails = [row["email"] for row in res.json() if row.get("email")]
+            print(f"  Subscribers activos: {len(emails)}")
+            return emails
+        else:
+            print(f"  Supabase erro {res.status_code}: {res.text[:100]}")
+            return []
+    except Exception as e:
+        print(f"  Supabase erro: {e}")
+        return []
+
+
+def montar_email_html(artigo, caminho, imagem=None):
+    titulo    = artigo.get("titulo", "Novo artigo")
+    resumo    = artigo.get("resumo", "")
+    categoria = artigo.get("categoria", "")
+    artigo_url = f"{SITE_BASE_URL}/artigo.html?file=/{caminho}"
+
+    img_html = ""
+    if imagem and imagem.get("url"):
+        img_html = f"""
+        <div style="margin:0 0 24px 0;">
+            <img src="{imagem['url']}" alt="{titulo}"
+                 style="width:100%;max-width:600px;height:220px;object-fit:cover;
+                        border-radius:8px;display:block;">
+            <p style="font-size:11px;color:#999;margin:6px 0 0 0;text-align:right;">
+                Foto: <a href="{imagem.get('autor_url','#')}" style="color:#999;"
+                         target="_blank">{imagem.get('autor','Unsplash')}</a> / Unsplash
+            </p>
+        </div>"""
+
+    html = f"""<!DOCTYPE html>
+<html lang="pt-BR">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:0;background:#f4f4f4;font-family:'Georgia',serif;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f4f4;padding:32px 0;">
+    <tr><td align="center">
+      <table width="600" cellpadding="0" cellspacing="0"
+             style="background:#ffffff;border-radius:12px;overflow:hidden;
+                    box-shadow:0 2px 12px rgba(0,0,0,0.08);max-width:600px;width:100%;">
+        <tr>
+          <td style="background:#0f0f0f;padding:24px 36px;text-align:center;">
+            <p style="margin:0;font-family:'Georgia',serif;font-size:22px;
+                      font-weight:700;color:#ffffff;letter-spacing:1px;">Duna Press</p>
+            <p style="margin:4px 0 0 0;font-size:11px;color:#888;
+                      letter-spacing:3px;text-transform:uppercase;">
+              {categoria.replace('-',' ').title()}</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:36px 36px 28px 36px;">
+            {img_html}
+            <h1 style="font-family:'Georgia',serif;font-size:24px;
+                       color:#1a1a1a;margin:0 0 16px 0;line-height:1.3;">{titulo}</h1>
+            <p style="font-size:15px;color:#444;line-height:1.7;margin:0 0 28px 0;">{resumo}</p>
+            <a href="{artigo_url}"
+               style="display:inline-block;background:#c94d3a;color:#ffffff;
+                      text-decoration:none;padding:13px 28px;border-radius:6px;
+                      font-size:14px;font-weight:700;letter-spacing:0.5px;">
+              Ler artigo completo →</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="background:#f9f9f9;padding:20px 36px;border-top:1px solid #eee;">
+            <p style="margin:0;font-size:11px;color:#aaa;text-align:center;line-height:1.6;">
+              Recebeste este email porque subscreveste a newsletter da Duna Press.<br>
+              <a href="https://dunapress.org" style="color:#aaa;">dunapress.org</a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>"""
+    return html, artigo_url
+
+
+def enviar_newsletter(artigo, caminho, imagem=None):
+    if not RESEND_KEY:
+        print("  RESEND_KEY nao configurada — newsletter ignorada.")
+        return
+    subscribers = buscar_subscribers()
+    if not subscribers:
+        print("  Sem subscribers activos — newsletter ignorada.")
+        return
+    titulo  = artigo.get("titulo", "Novo artigo na Duna Press")
+    html, _ = montar_email_html(artigo, caminho, imagem)
+    enviados, erros = 0, 0
+    for email in subscribers:
+        try:
+            res = requests.post(
+                "https://api.resend.com/emails",
+                headers={
+                    "Authorization": f"Bearer {RESEND_KEY}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "from":    FROM_EMAIL,
+                    "to":      [email],
+                    "subject": f"📰 {titulo}",
+                    "html":    html,
+                },
+                timeout=15
+            )
+            if res.status_code in (200, 201):
+                enviados += 1
+            else:
+                print(f"  Resend erro {email}: {res.status_code} — {res.text[:80]}")
+                erros += 1
+        except Exception as e:
+            print(f"  Resend excepcao {email}: {e}")
+            erros += 1
+        time.sleep(0.2)
+    print(f"  Newsletter: {enviados} enviados, {erros} erros.")
+
+
+# ──────────────────────────────────────────────────────────────
+# UNSPLASH
+# ──────────────────────────────────────────────────────────────
 def buscar_imagem_unsplash(titulo, categoria_slug):
     if not UNSPLASH_KEY:
-        print("  UNSPLASH_KEY não configurada — sem imagem.")
+        print("  UNSPLASH_KEY nao configurada — sem imagem.")
         return None
-
-    headers = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
+    headers  = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
     palavras = " ".join(titulo.split()[:5])
     fallback = categoria_slug.replace("-", " ")
-
     for query in [palavras, fallback]:
         try:
             res = requests.get(
@@ -94,22 +234,24 @@ def buscar_imagem_unsplash(titulo, categoria_slug):
                 timeout=10
             )
             if res.status_code == 200:
-                data = res.json()
-                url  = data["urls"]["regular"]
-                autor      = data["user"]["name"]
-                autor_url  = data["user"]["links"]["html"]
+                data      = res.json()
+                url       = data["urls"]["regular"]
+                autor     = data["user"]["name"]
+                autor_url = data["user"]["links"]["html"]
                 print(f"  Imagem Unsplash: {url[:60]}... (foto de {autor})")
                 return {"url": url, "autor": autor, "autor_url": autor_url}
             elif res.status_code == 403:
-                print("  Unsplash: chave inválida ou limite atingido.")
+                print("  Unsplash: chave invalida ou limite atingido.")
                 return None
         except Exception as e:
             print(f"  Unsplash erro ({query!r}): {e}")
-
-    print("  Unsplash: sem resultado para nenhuma query.")
+    print("  Unsplash: sem resultado.")
     return None
 
 
+# ──────────────────────────────────────────────────────────────
+# UTILITÁRIOS (iguais ao original)
+# ──────────────────────────────────────────────────────────────
 def hora_alvo_do_schedule():
     schedule = os.environ.get("SCHEDULE", "").strip()
     if not schedule:
@@ -121,7 +263,6 @@ def hora_alvo_do_schedule():
         except (ValueError, IndexError):
             pass
     return None
-
 
 def slugify(texto):
     texto = unicodedata.normalize("NFD", texto)
@@ -241,13 +382,10 @@ def salvar_local(artigo, categoria_slug, imagem=None):
     data_str = agora.strftime("%Y-%m-%d")
     slug     = slugify(artigo["titulo"])
     pasta    = categoria_slug
-
     os.makedirs(f"artigos/{pasta}", exist_ok=True)
-
     caminho = f"artigos/{pasta}/{data_str}-{slug}.md"
     tags    = artigo.get("tags", [])
     tags_fm = "\n".join([f"  - {t}" for t in tags])
-
     imagem_fm = ""
     if imagem and imagem.get("url"):
         imagem_fm = (
@@ -256,7 +394,6 @@ def salvar_local(artigo, categoria_slug, imagem=None):
             f'\nphotoAuthorUrl: "{imagem["autor_url"]}"'
             f'\nphotoSource: "Unsplash"'
         )
-
     md = (
         f'---\n'
         f'title: "{artigo["titulo"].replace(chr(34), chr(39))}"\n'
@@ -273,10 +410,8 @@ def salvar_local(artigo, categoria_slug, imagem=None):
         f'---\n\n'
         f'{artigo["conteudo"]}'
     )
-
     with open(caminho, "w", encoding="utf-8") as f:
         f.write(md)
-
     print(f"  Ficheiro: {caminho}")
     return slug, caminho
 
@@ -287,7 +422,6 @@ def actualizar_search_index_local(artigo, caminho, categoria_slug, imagem=None):
             current = json.load(f)
     except:
         current = []
-
     entry = {
         "title":    artigo["titulo"],
         "path":     caminho,
@@ -297,12 +431,9 @@ def actualizar_search_index_local(artigo, caminho, categoria_slug, imagem=None):
     }
     if imagem and imagem.get("url"):
         entry["featuredImage"] = imagem["url"]
-
     current.insert(0, entry)
-
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(current, f, ensure_ascii=False, indent=2)
-
     print("  search-index.json actualizado")
 
 def publicar(categoria):
@@ -314,6 +445,7 @@ def publicar(categoria):
         imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), categoria["slug"])
         slug, caminho = salvar_local(artigo, categoria["slug"], imagem)
         actualizar_search_index_local(artigo, caminho, categoria["slug"], imagem)
+        enviar_newsletter(artigo, caminho, imagem)   # ← NOVO
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
@@ -325,10 +457,8 @@ def publicar_agendado():
     hora_atual  = agora.strftime("%H:%M")
     dia_semana  = agora.weekday()
     agenda_hoje = AGENDA_ROTATIVA[dia_semana]
-
-    hora_alvo = hora_alvo_do_schedule()
-    fonte     = f"schedule={os.environ.get('SCHEDULE','').strip()!r}"
-
+    hora_alvo   = hora_alvo_do_schedule()
+    fonte       = f"schedule={os.environ.get('SCHEDULE','').strip()!r}"
     if hora_alvo is None:
         agora_min = agora.hour * 60 + agora.minute
         melhor, melhor_diff = None, 999
@@ -343,19 +473,15 @@ def publicar_agendado():
                 melhor = cat["hora"]
         hora_alvo = melhor
         fonte     = f"clock={hora_atual} (janela 30 min)"
-
     print(f"[{hora_atual} UTC] {NOMES_DIAS[dia_semana]} | hora-alvo: {hora_alvo or 'nenhuma'} | {fonte}")
     print(f"Agenda: {[c['slug'] for c in agenda_hoje]}")
-
     if hora_alvo is None:
         print(f"  Nenhum slot activo para {hora_atual}.")
         return
-
     for cat in agenda_hoje:
         if cat["hora"] == hora_alvo:
             publicar(cat)
             return
-
     print(f"  Slot {hora_alvo} nao encontrado na agenda de hoje.")
 
 def mostrar_gastos():
@@ -372,7 +498,6 @@ def mostrar_agenda():
 
 if __name__ == "__main__":
     modo = sys.argv[1] if len(sys.argv) > 1 else "agendado"
-
     if modo == "todos":
         dia     = datetime.now().weekday()
         sucesso = 0
@@ -382,18 +507,14 @@ if __name__ == "__main__":
             time.sleep(3)
         dados = carregar_gastos()
         print(f"\nTotal: {sucesso}/6 | ${dados['total_usd']:.4f} de ${ORCAMENTO_MENSAL_USD:.2f}")
-
     elif modo == "gastos":
         mostrar_gastos()
-
     elif modo == "agenda":
         mostrar_agenda()
-
     elif modo in TODOS_SLUGS:
         for cat in [c for agenda in AGENDA_ROTATIVA.values() for c in agenda]:
             if cat["slug"] == modo:
                 publicar(cat)
                 break
-
     else:
         publicar_agendado()
