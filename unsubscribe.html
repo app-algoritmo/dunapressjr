@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+    <!-- FAVICON DUNA PRESS -->
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=3" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Duna Press" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#c44536" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cancelar Assinatura - Duna Press</title>
+    <meta name="description" content="Cancele sua inscrição na newsletter da Duna Press.">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Analytics GA4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QG9N24BHH"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5QG9N24BHH');</script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7977428997189299" crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-7977428997189299">
+
+    <!-- Supabase -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <script>
+        const SUPABASE_URL = 'https://ohsaqzwtqliiwshecumk.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9oc2Fxend0cWxpaXdzaGVjdW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxMjYxMjQsImV4cCI6MjA5MjcwMjEyNH0.Aaa4I01uYNNl1nOff5NIkOhn454uNBQYjDiLDh-aaYs';
+        const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config={darkMode:'class',theme:{extend:{colors:{duna:{50:'#fdf4f3',100:'#fce7e5',200:'#f8d5d1',300:'#f2b8b0',400:'#ea8e80',500:'#e06552',600:'#c94d3a',700:'#a83e32',800:'#8b342a',900:'#742f26',950:'#3f1612'},rust:{400:'#ea8e80',500:'#e06552',600:'#c94d3a'}},fontFamily:{serif:['Georgia','Cambria','Times New Roman','serif'],sans:['Inter','system-ui','sans-serif']},animation:{'fade-in':'fadeIn 0.6s ease-out','slide-up':'slideUp 0.5s ease-out'},keyframes:{fadeIn:{'0%':{opacity:'0'},'100%':{opacity:'1'}},slideUp:{'0%':{transform:'translateY(20px)',opacity:'0'},'100%':{transform:'translateY(0)',opacity:'1'}}}}}}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box;}
+        body{font-family:'Inter',system-ui,sans-serif;background:#0a0e1a;color:#e2e8f0;overflow-x:hidden;}
+        body.light-mode{background:#f1f5f9;color:#1e293b;}
+        body.light-mode .glass{background:rgba(255,255,255,0.9);border-color:rgba(0,0,0,0.08);}
+        body.light-mode .duna-gradient{background:linear-gradient(135deg,#e2e8f0 0%,#fce7e5 25%,#f8d5d1 50%,#fce7e5 75%,#e2e8f0 100%);}
+        body.light-mode .bg-duna-950{background-color:#3f1612;}
+        body.light-mode h1,body.light-mode h2,body.light-mode h3,body.light-mode .text-white{color:#0f172a!important;}
+        body.light-mode .text-slate-300{color:#475569!important;}
+        body.light-mode .text-slate-400{color:#64748b!important;}
+        .font-serif{font-family:'Playfair Display',Georgia,serif;}
+        .glass{background:rgba(15,23,42,0.8);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,0.05);}
+        .duna-gradient{background:linear-gradient(135deg,#0a0e1a 0%,#2a1a16 25%,#1a1815 50%,#0f0a08 75%,#0a0e1a 100%);}
+        ::-webkit-scrollbar{width:8px;}
+        ::-webkit-scrollbar-track{background:#0f1629;}
+        ::-webkit-scrollbar-thumb{background:#1e293b;border-radius:4px;}
+        @keyframes ticker{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+        .ticker-wrap{overflow:hidden;white-space:nowrap;}
+        .ticker-content{display:inline-flex;animation:ticker 55s linear infinite;will-change:transform;padding-left:100%;}
+        .ticker-content:hover{animation-play-state:paused;}
+        .ticker-content span{flex-shrink:0;display:inline-block;padding:0 2rem;cursor:pointer;color:#cbd5e1;transition:color 0.2s;}
+        .ticker-content span:hover{color:#fff;}
+        .social-icon{transition:all 0.3s ease;}
+        .social-icon:hover{transform:scale(1.15) translateY(-2px);}
+        .form-input{width:100%;padding:0.75rem 1rem;background:rgba(30,41,59,0.5);border:1px solid rgba(71,85,105,0.5);border-radius:0.75rem;color:white;transition:all 0.3s ease;font-size:1rem;}
+        .form-input:focus{outline:none;border-color:#e06552;box-shadow:0 0 0 2px rgba(224,101,82,0.2);background:rgba(30,41,59,0.8);}
+        body.light-mode .form-input{background:rgba(255,255,255,0.8);border-color:#cbd5e1;color:#1e293b;}
+        body.light-mode .form-input:focus{background:white;border-color:#e06552;}
+        .spinner{border:3px solid rgba(255,255,255,0.1);border-top:3px solid #e06552;border-radius:50%;width:20px;height:20px;animation:spin 0.8s linear infinite;}
+        @keyframes spin{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}
+        .nav-active{color:#e06552!important;border-bottom:2px solid #e06552;}
+
+        /* States */
+        .state{display:none;}
+        .state.active{display:block;}
+
+        /* Success animation */
+        @keyframes checkPop{0%{transform:scale(0);}70%{transform:scale(1.2);}100%{transform:scale(1);}}
+        .check-anim{animation:checkPop 0.5s ease forwards;}
+    </style>
+</head>
+<body class="duna-gradient min-h-screen flex flex-col">
+
+    <!-- Top Bar -->
+    <div class="bg-duna-950 border-b border-slate-800/50">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between text-xs text-slate-400">
+            <div class="flex items-center gap-4">
+                <span id="liveClock" class="font-mono tabular-nums text-slate-300"></span>
+                <span class="text-slate-700">|</span>
+                <span id="currentDate"></span>
+                <span class="hidden sm:inline">•</span>
+                <span class="hidden sm:inline">Assuntos Globais</span>
+            </div>
+            <div class="flex items-center gap-2 sm:gap-3 flex-wrap justify-end">
+                <a href="https://x.com/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                <a href="https://www.youtube.com/@borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                <a href="https://t.me/borealtimes" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
+                <a href="https://www.whatsapp.com/channel/0029VaHuT1Q7DAX44v6Rdj3x" target="_blank" class="social-icon text-slate-400 hover:text-white"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="glass sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex items-center justify-between py-4">
+                <a href="https://dunapress.org/" class="flex items-center gap-3 group">
+                    <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-rust-400 via-duna-500 to-duna-700 flex items-center justify-center shadow-lg shadow-duna-500/20 p-1.5">
+                        <svg viewBox="0 0 24 24" fill="none" class="w-full h-full text-white"><path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-serif font-bold text-white tracking-tight">Duna Press</h1>
+                        <p class="text-[10px] text-slate-400 tracking-widest uppercase" data-i18n="tagline">Jornal e Revista</p>
+                    </div>
+                </a>
+                <div class="flex items-center gap-4">
+                    <button onclick="toggleTheme()" class="p-2 rounded-lg hover:bg-slate-800/50 transition-colors text-slate-400 hover:text-white">
+                        <svg id="sunIcon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+                        <svg id="moonIcon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+                    </button>
+                    <div class="flex items-center bg-slate-800/50 rounded-lg p-1 gap-1">
+                        <button class="lang-btn px-3 py-1 rounded-md text-xs font-semibold transition-all hidden" data-lang="en" onclick="switchLanguage('en')">EN</button>
+                        <button class="lang-btn active px-3 py-1 rounded-md text-xs font-semibold transition-all" data-lang="pt" onclick="switchLanguage('pt')">PT</button>
+                        <button class="lang-btn px-3 py-1 rounded-md text-xs font-semibold text-slate-400 hover:text-white transition-all hidden" data-lang="es" onclick="switchLanguage('es')">ES</button>
+                    </div>
+                </div>
+            </div>
+            <nav class="flex items-center gap-1 py-2 overflow-x-auto border-t border-slate-800/50">
+                <a href="https://dunapress.org/" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navHome">Início</a>
+                <a href="https://dunapress.org/#videos" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navVideos">Vídeos</a>
+                <a href="https://dunapress.org/#articles" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navArticles">Artigos</a>
+                <a href="about.html" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navAbout">Sobre</a>
+                <a href="contato.html" class="px-4 py-2 text-sm font-medium text-slate-400 hover:text-white transition-colors" data-i18n="navContact">Contato</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Ticker -->
+    <div class="bg-gradient-to-r from-duna-800/80 to-duna-950/80 border-y border-duna-800/30">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex items-center gap-4">
+            <span class="flex items-center gap-1.5 px-2.5 py-1 bg-duna-600 rounded text-[10px] font-bold text-white uppercase tracking-wider whitespace-nowrap animate-pulse flex-shrink-0">
+                <span class="w-1.5 h-1.5 bg-white rounded-full"></span>
+                <span data-i18n="headlines">Últimas</span>
+            </span>
+            <div class="ticker-wrap flex-1 min-w-0"><div class="ticker-content text-xs md:text-sm text-slate-200" id="tickerContent"></div></div>
+        </div>
+    </div>
+
+    <!-- MAIN -->
+    <main class="flex-grow flex items-center justify-center px-4 py-16">
+        <div class="w-full max-w-lg">
+
+            <!-- FORM STATE -->
+            <div id="stateForm" class="state active animate-fade-in">
+                <div class="text-center mb-10">
+                    <div class="w-16 h-16 rounded-2xl bg-slate-800/60 border border-slate-700/40 flex items-center justify-center mx-auto mb-5">
+                        <svg class="w-8 h-8 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+                    </div>
+                    <h2 class="text-3xl font-serif font-bold text-white mb-3" data-i18n="unsubTitle">Cancelar Assinatura</h2>
+                    <p class="text-slate-400 leading-relaxed" data-i18n="unsubDesc">Lamentamos que queira sair. Digite seu e-mail abaixo para ser removido da nossa lista de newsletter.</p>
+                </div>
+
+                <div class="bg-slate-800/30 border border-slate-700/30 rounded-2xl p-6 md:p-8 backdrop-blur-sm">
+                    <div class="mb-5">
+                        <label class="block text-sm font-medium text-slate-300 mb-2" data-i18n="emailLabel">Seu endereço de e-mail</label>
+                        <input type="email" id="unsubEmail" class="form-input" placeholder="seu@email.com" autocomplete="email">
+                        <p id="emailError" class="text-xs text-red-400 mt-2 hidden" data-i18n="emailError">Por favor, insira um e-mail válido.</p>
+                    </div>
+
+                    <button onclick="handleUnsubscribe()" id="unsubBtn" class="w-full py-3 bg-gradient-to-r from-duna-600 to-duna-700 hover:from-duna-500 hover:to-duna-600 text-white font-semibold rounded-xl transition-all shadow-lg shadow-duna-600/20 flex items-center justify-center gap-2">
+                        <span data-i18n="unsubBtn">Cancelar minha assinatura</span>
+                        <div id="unsubSpinner" class="spinner hidden"></div>
+                    </button>
+
+                    <p class="text-xs text-slate-500 text-center mt-4" data-i18n="unsubNote">Ao confirmar, seu e-mail será removido permanentemente da nossa lista. Esta ação não pode ser desfeita.</p>
+                </div>
+
+                <div class="mt-6 text-center">
+                    <p class="text-sm text-slate-500" data-i18n="unsubKeep">Mudou de ideia? <a href="assinatura.html" class="text-duna-400 hover:text-duna-300 transition-colors font-medium" data-i18n="unsubKeepLink">Manter minha assinatura</a></p>
+                </div>
+            </div>
+
+            <!-- SUCCESS STATE -->
+            <div id="stateSuccess" class="state animate-fade-in">
+                <div class="text-center">
+                    <div class="w-20 h-20 rounded-full bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center mx-auto mb-6 check-anim">
+                        <svg class="w-10 h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+                    </div>
+                    <h2 class="text-3xl font-serif font-bold text-white mb-3" data-i18n="successTitle">Assinatura cancelada</h2>
+                    <p class="text-slate-400 leading-relaxed mb-2" data-i18n="successDesc">Seu e-mail foi removido com sucesso da nossa lista de newsletter.</p>
+                    <p id="successEmail" class="text-duna-400 font-medium text-sm mb-8"></p>
+                    <p class="text-slate-500 text-sm mb-8" data-i18n="successNote">Você não receberá mais e-mails da Duna Press. Se mudar de ideia, pode se inscrever novamente a qualquer momento.</p>
+                    <div class="flex flex-col sm:flex-row gap-3 justify-center">
+                        <a href="https://dunapress.org/" class="px-6 py-3 bg-gradient-to-r from-duna-600 to-duna-700 hover:from-duna-500 hover:to-duna-600 text-white font-semibold rounded-xl transition-all text-sm" data-i18n="successHome">Voltar ao início</a>
+                        <a href="assinatura.html" class="px-6 py-3 bg-slate-800/60 border border-slate-700/40 hover:border-duna-500/40 text-slate-300 hover:text-white font-semibold rounded-xl transition-all text-sm" data-i18n="successResubscribe">Inscrever-me novamente</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- NOT FOUND STATE -->
+            <div id="stateNotFound" class="state animate-fade-in">
+                <div class="text-center">
+                    <div class="w-20 h-20 rounded-full bg-amber-500/10 border border-amber-500/30 flex items-center justify-center mx-auto mb-6">
+                        <svg class="w-10 h-10 text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/></svg>
+                    </div>
+                    <h2 class="text-2xl font-serif font-bold text-white mb-3" data-i18n="notFoundTitle">E-mail não encontrado</h2>
+                    <p class="text-slate-400 leading-relaxed mb-8" data-i18n="notFoundDesc">Este e-mail não está registado na nossa lista de newsletter. Verifique o endereço e tente novamente.</p>
+                    <button onclick="showState('stateForm')" class="px-6 py-3 bg-slate-800/60 border border-slate-700/40 hover:border-duna-500/40 text-slate-300 hover:text-white font-semibold rounded-xl transition-all text-sm" data-i18n="notFoundRetry">Tentar novamente</button>
+                </div>
+            </div>
+
+            <!-- ERROR STATE -->
+            <div id="stateError" class="state animate-fade-in">
+                <div class="text-center">
+                    <div class="w-20 h-20 rounded-full bg-red-500/10 border border-red-500/30 flex items-center justify-center mx-auto mb-6">
+                        <svg class="w-10 h-10 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+                    </div>
+                    <h2 class="text-2xl font-serif font-bold text-white mb-3" data-i18n="errorTitle">Ocorreu um erro</h2>
+                    <p class="text-slate-400 leading-relaxed mb-8" data-i18n="errorDesc">Não foi possível processar o seu pedido. Por favor, tente novamente ou entre em contato conosco.</p>
+                    <div class="flex flex-col sm:flex-row gap-3 justify-center">
+                        <button onclick="showState('stateForm')" class="px-6 py-3 bg-gradient-to-r from-duna-600 to-duna-700 text-white font-semibold rounded-xl transition-all text-sm" data-i18n="errorRetry">Tentar novamente</button>
+                        <a href="contato.html" class="px-6 py-3 bg-slate-800/60 border border-slate-700/40 text-slate-300 font-semibold rounded-xl transition-all text-sm" data-i18n="errorContact">Falar com o suporte</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-duna-950 border-t border-slate-800/50">
+        <div class="max-w-7xl mx-auto px-4 py-8">
+            <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+                <div class="flex items-center gap-3">
+                    <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-duna-500 via-duna-600 to-duna-700 flex items-center justify-center p-1.5">
+                        <svg viewBox="0 0 24 24" fill="none" class="w-full h-full text-white"><path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </div>
+                    <span class="font-serif font-bold text-white">Duna Press</span>
+                </div>
+                <div class="flex items-center gap-6 text-xs text-slate-500">
+                    <a href="privacy-policy.html" class="hover:text-white transition-colors" data-i18n="footerPrivacy">Política de Privacidade</a>
+                    <a href="terms-of-use.html" class="hover:text-white transition-colors" data-i18n="footerTerms">Termos de Uso</a>
+                    <a href="contato.html" class="hover:text-white transition-colors" data-i18n="navContact">Contato</a>
+                </div>
+                <p class="text-xs text-slate-600">© 2026 Duna Press</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+    const translations={
+        pt:{tagline:"Jornal e Revista",headlines:"Últimas",navHome:"Início",navVideos:"Vídeos",navArticles:"Artigos",navAbout:"Sobre",navContact:"Contato",unsubTitle:"Cancelar Assinatura",unsubDesc:"Lamentamos que queira sair. Digite seu e-mail abaixo para ser removido da nossa lista de newsletter.",emailLabel:"Seu endereço de e-mail",emailError:"Por favor, insira um e-mail válido.",unsubBtn:"Cancelar minha assinatura",unsubNote:"Ao confirmar, seu e-mail será removido permanentemente da nossa lista. Esta ação não pode ser desfeita.",unsubKeep:"Mudou de ideia?",unsubKeepLink:"Manter minha assinatura",successTitle:"Assinatura cancelada",successDesc:"Seu e-mail foi removido com sucesso da nossa lista de newsletter.",successNote:"Você não receberá mais e-mails da Duna Press. Se mudar de ideia, pode se inscrever novamente a qualquer momento.",successHome:"Voltar ao início",successResubscribe:"Inscrever-me novamente",notFoundTitle:"E-mail não encontrado",notFoundDesc:"Este e-mail não está registado na nossa lista de newsletter. Verifique o endereço e tente novamente.",notFoundRetry:"Tentar novamente",errorTitle:"Ocorreu um erro",errorDesc:"Não foi possível processar o seu pedido. Por favor, tente novamente ou entre em contato conosco.",errorRetry:"Tentar novamente",errorContact:"Falar com o suporte",footerPrivacy:"Política de Privacidade",footerTerms:"Termos de Uso"},
+        en:{tagline:"Journal & Magazine",headlines:"Headlines",navHome:"Home",navVideos:"Videos",navArticles:"Articles",navAbout:"About",navContact:"Contact",unsubTitle:"Unsubscribe",unsubDesc:"We're sorry to see you go. Enter your email below to be removed from our newsletter list.",emailLabel:"Your email address",emailError:"Please enter a valid email address.",unsubBtn:"Unsubscribe me",unsubNote:"By confirming, your email will be permanently removed from our list. This action cannot be undone.",unsubKeep:"Changed your mind?",unsubKeepLink:"Keep my subscription",successTitle:"Successfully unsubscribed",successDesc:"Your email has been successfully removed from our newsletter list.",successNote:"You will no longer receive emails from Duna Press. If you change your mind, you can subscribe again at any time.",successHome:"Back to homepage",successResubscribe:"Subscribe again",notFoundTitle:"Email not found",notFoundDesc:"This email is not registered on our newsletter list. Please check the address and try again.",notFoundRetry:"Try again",errorTitle:"An error occurred",errorDesc:"We could not process your request. Please try again or contact us.",errorRetry:"Try again",errorContact:"Contact support",footerPrivacy:"Privacy Policy",footerTerms:"Terms of Use"},
+        es:{tagline:"Periódico y Revista",headlines:"Titulares",navHome:"Inicio",navVideos:"Videos",navArticles:"Artículos",navAbout:"Acerca de",navContact:"Contacto",unsubTitle:"Cancelar suscripción",unsubDesc:"Lamentamos que quiera salir. Ingrese su correo para ser eliminado de nuestra lista.",emailLabel:"Su dirección de correo",emailError:"Por favor ingrese un correo válido.",unsubBtn:"Cancelar mi suscripción",unsubNote:"Al confirmar, su correo será eliminado permanentemente de nuestra lista.",unsubKeep:"¿Cambió de opinión?",unsubKeepLink:"Mantener mi suscripción",successTitle:"Suscripción cancelada",successDesc:"Su correo ha sido eliminado exitosamente de nuestra lista de newsletter.",successNote:"Ya no recibirá correos de Duna Press.",successHome:"Volver al inicio",successResubscribe:"Suscribirme de nuevo",notFoundTitle:"Correo no encontrado",notFoundDesc:"Este correo no está registrado en nuestra lista.",notFoundRetry:"Intentar de nuevo",errorTitle:"Ocurrió un error",errorDesc:"No pudimos procesar su solicitud. Por favor intente de nuevo.",errorRetry:"Intentar de nuevo",errorContact:"Contactar soporte",footerPrivacy:"Política de Privacidad",footerTerms:"Términos de Uso"}
+    };
+
+    let currentLang = 'pt';
+
+    // ==================== TICKER ====================
+    const videoTitles = [
+        "Eletricidade invisível: como a Finlândia está liderando a revolução da energia sem fio",
+        "China vende o primeiro computador quântico atômico comercial do mundo",
+        "Elon Musk acaba de revelar como enganar a morte",
+        "Forragem Hidropônica: Uma Revolução Sem Solo na Nutrição Animal",
+        "O Fim da Amnésia da IA",
+        "Esgotamento Digital: A Epidemia Silenciosa que Está Remodelando Mentes"
+    ];
+
+    function buildTicker() {
+        const el = document.getElementById('tickerContent');
+        if (!el) return;
+        const doubled = [...videoTitles, ...videoTitles];
+        el.innerHTML = doubled.map(t =>
+            `<span onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#cbd5e1'" onclick="location.href='https://dunapress.org/#videos'">• ${t}</span>`
+        ).join('');
+    }
+
+    // ==================== STATES ====================
+    function showState(id) {
+        document.querySelectorAll('.state').forEach(s => s.classList.remove('active'));
+        document.getElementById(id).classList.add('active');
+    }
+
+    // ==================== UNSUBSCRIBE ====================
+    async function handleUnsubscribe() {
+        const emailInput = document.getElementById('unsubEmail');
+        const emailError = document.getElementById('emailError');
+        const btn = document.getElementById('unsubBtn');
+        const spinner = document.getElementById('unsubSpinner');
+        const email = emailInput.value.trim();
+
+        // Validate
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(email)) {
+            emailError.classList.remove('hidden');
+            emailInput.focus();
+            return;
+        }
+        emailError.classList.add('hidden');
+
+        // Loading
+        btn.disabled = true;
+        spinner.classList.remove('hidden');
+
+        try {
+            // Tenta deletar o registro com o email na tabela 'subscribers'
+            // Ajuste o nome da tabela conforme necessário
+            const { data, error } = await _supabase
+                .from('subscribers')
+                .delete()
+                .eq('email', email)
+                .select();
+
+            if (error) throw error;
+
+            if (data && data.length > 0) {
+                // Email encontrado e removido
+                document.getElementById('successEmail').textContent = email;
+                showState('stateSuccess');
+            } else {
+                // Email não encontrado na lista
+                // Tenta marcar como unsubscribed em vez de deletar
+                const { data: updateData, error: updateError } = await _supabase
+                    .from('subscribers')
+                    .update({ status: 'unsubscribed', unsubscribed_at: new Date().toISOString() })
+                    .eq('email', email)
+                    .select();
+
+                if (!updateError && updateData && updateData.length > 0) {
+                    document.getElementById('successEmail').textContent = email;
+                    showState('stateSuccess');
+                } else {
+                    showState('stateNotFound');
+                }
+            }
+        } catch (err) {
+            console.error('Unsubscribe error:', err);
+            // Fallback: tenta inserir registro de unsubscribe
+            try {
+                await _supabase.from('unsubscribes').insert([{
+                    email,
+                    unsubscribed_at: new Date().toISOString()
+                }]);
+                document.getElementById('successEmail').textContent = email;
+                showState('stateSuccess');
+            } catch (e) {
+                showState('stateError');
+            }
+        } finally {
+            btn.disabled = false;
+            spinner.classList.add('hidden');
+        }
+    }
+
+    // Enter key
+    document.addEventListener('DOMContentLoaded', () => {
+        document.getElementById('unsubEmail').addEventListener('keydown', e => {
+            if (e.key === 'Enter') handleUnsubscribe();
+        });
+
+        // Pre-fill email from URL param ?email=
+        const params = new URLSearchParams(window.location.search);
+        const emailParam = params.get('email');
+        if (emailParam) document.getElementById('unsubEmail').value = decodeURIComponent(emailParam);
+
+        // Clock
+        const now = new Date();
+        document.getElementById('currentDate').textContent = now.toLocaleDateString('pt-BR', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
+        function updateClock() { document.getElementById('liveClock').textContent = new Date().toLocaleTimeString('pt-BR',{hour12:false}); }
+        updateClock(); setInterval(updateClock, 1000);
+
+        const t = localStorage.getItem('dp_theme');
+        if (t === 'light') toggleTheme(false);
+        const l = localStorage.getItem('dp_lang');
+        if (l) switchLanguage(l);
+
+        buildTicker();
+    });
+
+    // ==================== THEME & LANG ====================
+    function toggleTheme(toggle=true) {
+        if (toggle) {
+            const isDark = document.body.classList.contains('light-mode');
+            document.body.classList.toggle('light-mode', !isDark);
+            localStorage.setItem('dp_theme', !isDark ? 'dark' : 'light');
+            document.getElementById('sunIcon').classList.toggle('hidden', !isDark);
+            document.getElementById('moonIcon').classList.toggle('hidden', isDark);
+        } else {
+            document.body.classList.add('light-mode');
+            document.getElementById('sunIcon').classList.remove('hidden');
+            document.getElementById('moonIcon').classList.add('hidden');
+        }
+    }
+
+    function switchLanguage(lang) {
+        currentLang = lang;
+        localStorage.setItem('dp_lang', lang);
+        document.querySelectorAll('.lang-btn').forEach(b => {
+            b.classList.remove('active'); b.classList.add('text-slate-400');
+            if (b.dataset.lang === lang) { b.classList.add('active'); b.classList.remove('text-slate-400'); }
+        });
+        const t = translations[lang];
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+            const k = el.getAttribute('data-i18n');
+            if (t[k]) el.textContent = t[k];
+        });
+    }
+    </script>
+</body>
+</html>
