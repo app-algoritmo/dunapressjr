@@ -174,10 +174,10 @@ def montar_email_html(artigo, caminho, imagem=None, email=""):
         '</td></tr>'
         '<tr><td style="background:#f9f9f9;padding:20px 36px;border-top:1px solid #eee;">'
         '<p style="margin:0;font-size:11px;color:#aaa;text-align:center;line-height:1.6;">'
-        'Recebeste este email porque subscreveste a newsletter da Duna Press.<br>'
+        'Você recebeu este e-mail porque se inscreveu na newsletter da Duna Press.<br>'
         f'<a href="https://dunapress.org" style="color:#aaa;">dunapress.org</a>'
         f' &nbsp;&middot;&nbsp;'
-        f'<a href="{unsub_url}" style="color:#aaa;">Cancelar subscri\u00e7\u00e3o</a>'
+        f'<a href="{unsub_url}" style="color:#aaa;">Cancelar inscri\u00e7\u00e3o</a>'
         '</p></td></tr>'
         '</table></td></tr></table></body></html>'
     )
