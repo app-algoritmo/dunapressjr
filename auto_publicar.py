@@ -7,6 +7,7 @@ ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_KEY", "")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 UNSPLASH_KEY   = os.environ.get("UNSPLASH_KEY", "")
 RESEND_KEY     = os.environ.get("RESEND_KEY", "")          # mantido mas nao usado
+NEWSAPI_KEY    = os.environ.get("NEWSAPI_KEY", "")
 SUPABASE_URL   = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY   = os.environ.get("SUPABASE_KEY", "")
 AWS_ACCESS_KEY = os.environ.get("AWS_ACCESS_KEY_ID", "")
@@ -128,6 +129,7 @@ UNSPLASH_QUERY = {
     "tourism-and-gastronomy": "travel food gastronomy restaurant cuisine",
     "fashion":                "fashion style clothing runway model",
     "lifestyle":              "lifestyle city urban modern living",
+    "news":                   "breaking news journalism newspaper media",
     "pets":                   "pets animals dog cat cute",
 }
 
@@ -281,6 +283,125 @@ def enviar_newsletter(artigo, caminho, imagem=None):
 
     print(f"  Newsletter AWS SES: {enviados} enviados, {erros} erros.")
 
+
+
+# ──────────────────────────────────────────────────────────────
+# NEWSAPI — notícia do dia
+# ──────────────────────────────────────────────────────────────
+NEWSAPI_SOURCES = "bbc-news,cnn,reuters,associated-press,the-guardian-uk,globo,folha-de-sao-paulo"
+
+def buscar_noticia_do_dia():
+    """
+    Busca a manchete principal do dia via NewsAPI.
+    Devolve dict {title, description, url, source} ou None.
+    """
+    if not NEWSAPI_KEY:
+        print("  NEWSAPI_KEY nao configurada — noticia ignorada.")
+        return None
+    try:
+        # Tenta primeiro notícias em português (Brasil)
+        for params in [
+            {"language": "pt", "pageSize": 1, "sortBy": "publishedAt"},
+            {"language": "en", "pageSize": 1, "sortBy": "publishedAt",
+             "q": "world economy politics technology science"},
+        ]:
+            res = requests.get(
+                "https://newsapi.org/v2/top-headlines",
+                headers={"X-Api-Key": NEWSAPI_KEY},
+                params=params,
+                timeout=10
+            )
+            if res.status_code == 200:
+                articles = res.json().get("articles", [])
+                if articles:
+                    art = articles[0]
+                    noticia = {
+                        "titulo":    art.get("title", ""),
+                        "descricao": art.get("description", "") or art.get("title", ""),
+                        "url":       art.get("url", ""),
+                        "fonte":     art.get("source", {}).get("name", "NewsAPI"),
+                    }
+                    print(f"  Noticia do dia: {noticia['titulo'][:70]}...")
+                    return noticia
+        print("  NewsAPI: sem resultados.")
+        return None
+    except Exception as e:
+        print(f"  NewsAPI erro: {e}")
+        return None
+
+
+def gerar_artigo_noticia(noticia):
+    """Gera artigo completo baseado na noticia real via Claude Batch."""
+    client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+    hoje   = datetime.now().strftime("%d/%m/%Y")
+    prompt = (
+        f"Jornalista senior da Duna Press ({hoje}). "
+        f"Com base nesta noticia real: '{noticia['titulo']}'. "
+        f"Contexto adicional: '{noticia['descricao']}'. "
+        f"Fonte original: {noticia['fonte']} ({noticia['url']}). "
+        "Escreva um artigo jornalistico completo em portugues do Brasil, "
+        "tom analitico e aprofundado, expandindo o contexto da noticia. "
+        f"Autor: {AUTOR}. "
+        "Retorne APENAS JSON valido sem markdown: "
+        '{"titulo":"titulo em PT-BR","subtitulo":"lead do artigo",'
+        f'"autor":"{AUTOR}","categoria":"news",'
+        '"tempo_leitura":5,'
+        '"tags":["noticias","atualidades","duna press"],'
+        '"resumo":"resumo curto para redes sociais",'
+        '"conteudo":"artigo completo em markdown min 500 palavras"}'
+    )
+    req_id = f"dp-news-{uuid.uuid4().hex[:8]}"
+    print("  Submetendo Batch para Noticia do Dia...")
+    batch = client.messages.batches.create(requests=[{
+        "custom_id": req_id,
+        "params": {
+            "model": "claude-sonnet-4-6",
+            "max_tokens": 3000,
+            "messages": [{"role": "user", "content": prompt}]
+        }
+    }])
+    print(f"  Batch id: {batch.id}. Aguardando...")
+    for tentativa in range(60):
+        time.sleep(10)
+        status = client.messages.batches.retrieve(batch.id)
+        if status.processing_status == "ended":
+            break
+        if tentativa % 6 == 5:
+            print(f"  ... {(tentativa+1)*10}s")
+    resultado = None
+    for item in client.messages.batches.results(batch.id):
+        if item.custom_id == req_id and item.result.type == "succeeded":
+            resultado = item.result.message
+            break
+    if not resultado:
+        raise RuntimeError("Batch noticia sem resultado")
+    custo = registar_custo(resultado.usage.input_tokens, resultado.usage.output_tokens)
+    print(f"  Custo noticia: ${custo:.5f}")
+    texto = resultado.content[0].text.strip()
+    texto = re.sub(r"^```json\s*", "", texto)
+    texto = re.sub(r"\s*```$", "", texto)
+    return json.loads(texto)
+
+
+def publicar_noticia_do_dia():
+    """Busca noticia real, gera artigo e publica na categoria news."""
+    print("\nPublicando: Noticia do Dia (news)")
+    if not verificar_orcamento():
+        return False
+    noticia = buscar_noticia_do_dia()
+    if not noticia:
+        return False
+    try:
+        artigo = gerar_artigo_noticia(noticia)
+        # Imagem optimizada para news
+        imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), "news")
+        slug, caminho = salvar_local(artigo, "news", imagem)
+        actualizar_search_index_local(artigo, caminho, "news", imagem)
+        print(f"  OK Noticia: {artigo['titulo']}")
+        return True
+    except Exception as e:
+        print(f"  ERRO noticia: {e}")
+        return False
 
 # ──────────────────────────────────────────────────────────────
 # UNSPLASH
@@ -548,6 +669,11 @@ def publicar_agendado():
     if hora_alvo is None:
         print(f"  Nenhum slot activo para {hora_atual}.")
         return
+
+    # Às 10:00 UTC publica também a noticia do dia
+    if hora_alvo == "10":
+        publicar_noticia_do_dia()
+
     for cat in agenda_hoje:
         if cat["hora"] == hora_alvo:
             publicar(cat)
