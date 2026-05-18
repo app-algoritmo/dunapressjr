@@ -1,12 +1,17 @@
 import anthropic, requests, json, re, os, sys, time, uuid, unicodedata
+import boto3
+from botocore.exceptions import ClientError
 from datetime import datetime
 
 ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_KEY", "")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 UNSPLASH_KEY   = os.environ.get("UNSPLASH_KEY", "")
-RESEND_KEY     = os.environ.get("RESEND_KEY", "")
+RESEND_KEY     = os.environ.get("RESEND_KEY", "")          # mantido mas nao usado
 SUPABASE_URL   = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY   = os.environ.get("SUPABASE_KEY", "")
+AWS_ACCESS_KEY = os.environ.get("AWS_ACCESS_KEY_ID", "")
+AWS_SECRET_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY", "")
+AWS_REGION     = os.environ.get("AWS_REGION", "eu-north-1")
 GITHUB_REPO    = "app-algoritmo/dunapressjr"
 SITE_BASE_URL  = "https://dunapress.org"
 FROM_EMAIL     = "Duna Press <newsletter@dunapress.org>"
@@ -82,14 +87,13 @@ NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domin
 
 
 # ──────────────────────────────────────────────────────────────
-# NEWSLETTER
+# NEWSLETTER — subscribers (rotação semanal de 7 grupos)
 # ──────────────────────────────────────────────────────────────
 def buscar_subscribers():
     """
     Devolve o grupo diário de subscribers (rotação semanal de 7 grupos).
     Cada grupo tem ~1/7 dos subscribers activos.
-    Garante que cada pessoa recebe 1 email por semana,
-    mantendo o total diário abaixo de 100 (limite Resend free).
+    Garante que cada pessoa recebe 1 email por semana.
     """
     if not SUPABASE_URL or not SUPABASE_KEY:
         print("  Supabase nao configurado — newsletter ignorada.")
@@ -128,116 +132,108 @@ def montar_email_html(artigo, caminho, imagem=None, email=""):
     resumo    = artigo.get("resumo", "")
     categoria = artigo.get("categoria", "")
     artigo_url = f"{SITE_BASE_URL}/artigo.html?file=/{caminho}"
+    # FIX: URL de cancelamento com f-string correcta
+    unsub_url = f"https://dunapress.org/unsubscribe.html?email={email}"
 
     img_html = ""
     if imagem and imagem.get("url"):
-        img_html = f"""
-        <div style="margin:0 0 24px 0;">
-            <img src="{imagem['url']}" alt="{titulo}"
-                 style="width:100%;max-width:600px;height:220px;object-fit:cover;
-                        border-radius:8px;display:block;">
-            <p style="font-size:11px;color:#999;margin:6px 0 0 0;text-align:right;">
-                Foto: <a href="{imagem.get('autor_url','#')}" style="color:#999;"
-                         target="_blank">{imagem.get('autor','Unsplash')}</a> / Unsplash
-            </p>
-        </div>"""
+        img_html = (
+            f'<div style="margin:0 0 24px 0;">'
+            f'<img src="{imagem["url"]}" alt="{titulo}"'
+            f' style="width:100%;max-width:600px;height:220px;object-fit:cover;'
+            f'border-radius:8px;display:block;">'
+            f'<p style="font-size:11px;color:#999;margin:6px 0 0 0;text-align:right;">'
+            f'Foto: <a href="{imagem.get("autor_url","#")}" style="color:#999;" target="_blank">'
+            f'{imagem.get("autor","Unsplash")}</a> / Unsplash</p></div>'
+        )
 
-    html = f"""<!DOCTYPE html>
-<html lang="pt-BR">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
-<body style="margin:0;padding:0;background:#f4f4f4;font-family:'Georgia',serif;">
-  <table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f4f4;padding:32px 0;">
-    <tr><td align="center">
-      <table width="600" cellpadding="0" cellspacing="0"
-             style="background:#ffffff;border-radius:12px;overflow:hidden;
-                    box-shadow:0 2px 12px rgba(0,0,0,0.08);max-width:600px;width:100%;">
-        <tr>
-          <td style="background:#0f0f0f;padding:24px 36px;text-align:center;">
-            <p style="margin:0;font-family:'Georgia',serif;font-size:22px;
-                      font-weight:700;color:#ffffff;letter-spacing:1px;">Duna Press</p>
-            <p style="margin:4px 0 0 0;font-size:11px;color:#888;
-                      letter-spacing:3px;text-transform:uppercase;">
-              {categoria.replace('-',' ').title()}</p>
-          </td>
-        </tr>
-        <tr>
-          <td style="padding:36px 36px 28px 36px;">
-            {img_html}
-            <h1 style="font-family:'Georgia',serif;font-size:24px;
-                       color:#1a1a1a;margin:0 0 16px 0;line-height:1.3;">{titulo}</h1>
-            <p style="font-size:15px;color:#444;line-height:1.7;margin:0 0 28px 0;">{resumo}</p>
-            <a href="{artigo_url}"
-               style="display:inline-block;background:#c94d3a;color:#ffffff;
-                      text-decoration:none;padding:13px 28px;border-radius:6px;
-                      font-size:14px;font-weight:700;letter-spacing:0.5px;">
-              Ler artigo completo →</a>
-          </td>
-        </tr>
-        <tr>
-          <td style="background:#f9f9f9;padding:20px 36px;border-top:1px solid #eee;">
-            <p style="margin:0;font-size:11px;color:#aaa;text-align:center;line-height:1.6;">
-              Recebeste este email porque subscreveste a newsletter da Duna Press.<br>
-              <a href="https://dunapress.org" style="color:#aaa;">dunapress.org</a>
-              &nbsp;&middot;&nbsp;
-              <a href="https://dunapress.org/unsubscribe.html?email=" + email + "" style="color:#aaa;">Cancelar subscrição</a>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td></tr>
-  </table>
-</body>
-</html>"""
+    html = (
+        '<!DOCTYPE html><html lang="pt-BR">'
+        '<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>'
+        '<body style="margin:0;padding:0;background:#f4f4f4;font-family:\'Georgia\',serif;">'
+        '<table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f4f4;padding:32px 0;">'
+        '<tr><td align="center">'
+        '<table width="600" cellpadding="0" cellspacing="0"'
+        ' style="background:#ffffff;border-radius:12px;overflow:hidden;'
+        'box-shadow:0 2px 12px rgba(0,0,0,0.08);max-width:600px;width:100%;">'
+        '<tr><td style="background:#0f0f0f;padding:24px 36px;text-align:center;">'
+        '<p style="margin:0;font-family:\'Georgia\',serif;font-size:22px;'
+        'font-weight:700;color:#ffffff;letter-spacing:1px;">Duna Press</p>'
+        f'<p style="margin:4px 0 0 0;font-size:11px;color:#888;'
+        f'letter-spacing:3px;text-transform:uppercase;">{categoria.replace("-"," ").title()}</p>'
+        '</td></tr>'
+        f'<tr><td style="padding:36px 36px 28px 36px;">'
+        f'{img_html}'
+        f'<h1 style="font-family:\'Georgia\',serif;font-size:24px;'
+        f'color:#1a1a1a;margin:0 0 16px 0;line-height:1.3;">{titulo}</h1>'
+        f'<p style="font-size:15px;color:#444;line-height:1.7;margin:0 0 28px 0;">{resumo}</p>'
+        f'<a href="{artigo_url}"'
+        f' style="display:inline-block;background:#c94d3a;color:#ffffff;'
+        f'text-decoration:none;padding:13px 28px;border-radius:6px;'
+        f'font-size:14px;font-weight:700;letter-spacing:0.5px;">Ler artigo completo \u2192</a>'
+        '</td></tr>'
+        '<tr><td style="background:#f9f9f9;padding:20px 36px;border-top:1px solid #eee;">'
+        '<p style="margin:0;font-size:11px;color:#aaa;text-align:center;line-height:1.6;">'
+        'Recebeste este email porque subscreveste a newsletter da Duna Press.<br>'
+        f'<a href="https://dunapress.org" style="color:#aaa;">dunapress.org</a>'
+        f' &nbsp;&middot;&nbsp;'
+        f'<a href="{unsub_url}" style="color:#aaa;">Cancelar subscri\u00e7\u00e3o</a>'
+        '</p></td></tr>'
+        '</table></td></tr></table></body></html>'
+    )
     return html, artigo_url
 
 
 def enviar_newsletter(artigo, caminho, imagem=None):
-    if not RESEND_KEY:
-        print("  RESEND_KEY nao configurada — newsletter ignorada.")
+    """Envia newsletter via AWS SES — só no primeiro artigo do dia (10:00 UTC)."""
+    if not AWS_ACCESS_KEY or not AWS_SECRET_KEY:
+        print("  AWS credentials nao configuradas — newsletter ignorada.")
         return
 
-    # Só envia newsletter no primeiro artigo do dia (10:00 UTC)
-    # Os outros 5 artigos não disparam email — evita multiplicar envios
+    # Só envia no primeiro artigo do dia (10:00 UTC)
     hora_alvo = hora_alvo_do_schedule()
     hora_clock = datetime.now().strftime("%H")
     hora_actual = hora_alvo or hora_clock
     if hora_actual != "10":
-        print(f"  Newsletter: só enviada às 10:00 UTC (agora {hora_actual}:xx) — ignorada.")
+        print(f"  Newsletter: so enviada as 10:00 UTC (agora {hora_actual}:xx) — ignorada.")
         return
 
     subscribers = buscar_subscribers()
     if not subscribers:
         print("  Sem subscribers activos — newsletter ignorada.")
         return
-    titulo  = artigo.get("titulo", "Novo artigo na Duna Press")
+
+    titulo = artigo.get("titulo", "Novo artigo na Duna Press")
+
+    ses = boto3.client(
+        "ses",
+        region_name=AWS_REGION,
+        aws_access_key_id=AWS_ACCESS_KEY,
+        aws_secret_access_key=AWS_SECRET_KEY
+    )
+
     enviados, erros = 0, 0
     for email in subscribers:
         html, _ = montar_email_html(artigo, caminho, imagem, email=email)
         try:
-            res = requests.post(
-                "https://api.resend.com/emails",
-                headers={
-                    "Authorization": f"Bearer {RESEND_KEY}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "from":    FROM_EMAIL,
-                    "to":      [email],
-                    "subject": f"📰 {titulo}",
-                    "html":    html,
-                },
-                timeout=15
+            ses.send_email(
+                Source=FROM_EMAIL,
+                Destination={"ToAddresses": [email]},
+                Message={
+                    "Subject": {"Data": f"Duna Press: {titulo}", "Charset": "UTF-8"},
+                    "Body": {"Html": {"Data": html, "Charset": "UTF-8"}}
+                }
             )
-            if res.status_code in (200, 201):
-                enviados += 1
-            else:
-                print(f"  Resend erro {email}: {res.status_code} — {res.text[:80]}")
-                erros += 1
-        except Exception as e:
-            print(f"  Resend excepcao {email}: {e}")
+            enviados += 1
+        except ClientError as e:
+            print(f"  SES erro {email}: {e.response['Error']['Message'][:80]}")
             erros += 1
-        time.sleep(0.2)
-    print(f"  Newsletter: {enviados} enviados, {erros} erros.")
+        except Exception as e:
+            print(f"  SES excepcao {email}: {e}")
+            erros += 1
+        time.sleep(0.1)  # respeita limite 10 emails/segundo do SES
+
+    print(f"  Newsletter AWS SES: {enviados} enviados, {erros} erros.")
 
 
 # ──────────────────────────────────────────────────────────────
@@ -275,7 +271,7 @@ def buscar_imagem_unsplash(titulo, categoria_slug):
 
 
 # ──────────────────────────────────────────────────────────────
-# UTILITÁRIOS (iguais ao original)
+# UTILITÁRIOS
 # ──────────────────────────────────────────────────────────────
 def hora_alvo_do_schedule():
     schedule = os.environ.get("SCHEDULE", "").strip()
@@ -470,7 +466,7 @@ def publicar(categoria):
         imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), categoria["slug"])
         slug, caminho = salvar_local(artigo, categoria["slug"], imagem)
         actualizar_search_index_local(artigo, caminho, categoria["slug"], imagem)
-        enviar_newsletter(artigo, caminho, imagem)   # ← NOVO
+        enviar_newsletter(artigo, caminho, imagem)
         print(f"  OK: {artigo['titulo']}")
         return True
     except Exception as e:
