@@ -85,6 +85,52 @@ AGENDA_ROTATIVA = {
 TODOS_SLUGS = [cat["slug"] for agenda in AGENDA_ROTATIVA.values() for cat in agenda]
 NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domingo"]
 
+# ── Query optimizada por categoria para o Unsplash ──
+UNSPLASH_QUERY = {
+    "health":                 "healthcare medical doctor hospital",
+    "well-being":             "wellness meditation nature calm",
+    "fitness":                "fitness gym workout exercise",
+    "personal-development":   "success motivation growth mindset",
+    "motivational":           "inspiration sunrise achievement",
+    "beauty":                 "beauty skincare cosmetics elegance",
+    "technology":             "technology computer innovation digital",
+    "science":                "science laboratory research experiment",
+    "innovation":             "innovation startup future technology",
+    "future-and-innovation":  "futuristic city technology artificial intelligence",
+    "astronomy":              "space stars galaxy universe cosmos",
+    "e-auto":                 "electric car vehicle sustainable transport",
+    "global-economy":         "economy finance stock market money",
+    "business-and-economy":   "business meeting corporate office",
+    "finances":               "finance investment banking money",
+    "financial-education":    "financial planning budget savings",
+    "entrepreneurship":       "entrepreneur startup business success",
+    "courses-and-careers":    "education career university graduation",
+    "geopolitics":            "world map politics diplomacy government",
+    "politics-and-society":   "politics government democracy society",
+    "international-affairs":  "united nations diplomacy world leaders",
+    "military":               "military army defense security",
+    "world-affairs":          "world globe international news",
+    "global-affairs":         "global world diplomacy international",
+    "culture-and-history":    "history museum culture heritage",
+    "history":                "history ancient architecture monument",
+    "literature":             "books library reading literature",
+    "music":                  "music concert stage performance",
+    "philosophy":             "philosophy thinking wisdom reflection",
+    "education":              "education school classroom learning",
+    "soccer":                 "soccer football stadium match",
+    "sports":                 "sport athlete competition stadium",
+    "tennis":                 "tennis court racket player",
+    "formula-1":              "formula 1 racing car speed motorsport",
+    "cycling":                "cycling bicycle race sport",
+    "olympic-games":          "olympic games athletes competition sport",
+    "environment":            "nature environment forest green ecology",
+    "agriculture":            "agriculture farm field harvest nature",
+    "tourism-and-gastronomy": "travel food gastronomy restaurant cuisine",
+    "fashion":                "fashion style clothing runway model",
+    "lifestyle":              "lifestyle city urban modern living",
+    "pets":                   "pets animals dog cat cute",
+}
+
 
 # ──────────────────────────────────────────────────────────────
 # NEWSLETTER — subscribers (rotação semanal de 7 grupos)
@@ -244,9 +290,12 @@ def buscar_imagem_unsplash(titulo, categoria_slug):
         print("  UNSPLASH_KEY nao configurada — sem imagem.")
         return None
     headers  = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
-    palavras = " ".join(titulo.split()[:5])
-    fallback = categoria_slug.replace("-", " ")
-    for query in [palavras, fallback]:
+    # Prioridade: query optimizada por categoria > palavras do título > slug
+    query_cat = UNSPLASH_QUERY.get(categoria_slug, "")
+    palavras  = " ".join(titulo.split()[:5])
+    fallback  = categoria_slug.replace("-", " ")
+    queries   = [q for q in [query_cat, palavras, fallback] if q]
+    for query in queries:
         try:
             res = requests.get(
                 "https://api.unsplash.com/photos/random",
