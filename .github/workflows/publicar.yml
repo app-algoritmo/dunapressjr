@@ -18,7 +18,8 @@ on:
           geopolitics, politics-and-society, international-affairs, military, world-affairs, global-affairs,
           culture-and-history, history, literature, music, philosophy, education,
           soccer, sports, tennis, formula-1, cycling, olympic-games,
-          environment, agriculture, tourism-and-gastronomy, fashion, lifestyle, pets
+          environment, agriculture, tourism-and-gastronomy, fashion, lifestyle, pets,
+          ufologia, space-exploration
         required: false
         default: 'agendado'
         type: string
