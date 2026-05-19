@@ -36,20 +36,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install anthropic requests boto3
+      - run: pip install anthropic requests
       - name: Publicar artigo da hora
         env:
-          ANTHROPIC_KEY:         ${{ secrets.ANTHROPIC_KEY }}
-          GITHUB_TOKEN:          ${{ secrets.GITHUB_TOKEN }}
-          UNSPLASH_KEY:          ${{ secrets.UNSPLASH_KEY }}
-          RESEND_KEY:            ${{ secrets.RESEND_KEY }}
-          SUPABASE_URL:          ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY:          ${{ secrets.SUPABASE_KEY }}
-          AWS_ACCESS_KEY_ID:     ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION:            ${{ secrets.AWS_REGION }}
-          NEWSAPI_KEY:           ${{ secrets.NEWSAPI_KEY }}
-          SCHEDULE:              ${{ github.event.schedule }}
+          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
+          GITHUB_TOKEN:  ${{ secrets.GITHUB_TOKEN }}
+          UNSPLASH_KEY:  ${{ secrets.UNSPLASH_KEY }}
+          RESEND_KEY:    ${{ secrets.RESEND_KEY }}
+          SUPABASE_URL:  ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY:  ${{ secrets.SUPABASE_KEY }}
+          NEWSAPI_KEY:   ${{ secrets.NEWSAPI_KEY }}
+          SCHEDULE:      ${{ github.event.schedule }}
         run: |
           MODO="${{ github.event.inputs.modo }}"
           if [ -z "$MODO" ]; then MODO="agendado"; fi
