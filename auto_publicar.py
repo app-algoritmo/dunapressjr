@@ -25,8 +25,8 @@ AGENDA_ROTATIVA = {
         {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "11"},
         {"slug": "fitness",              "nome": "Fitness",                 "hora": "12"},
         {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "13"},
-        {"slug": "motivational",         "nome": "Motivacional",            "hora": "14"},
-        {"slug": "beauty",               "nome": "Beleza",                  "hora": "15"},
+        {"slug": "space-exploration",    "nome": "Exploracao Espacial",     "hora": "14"},
+        {"slug": "ufologia",             "nome": "Ufologia",                "hora": "15"},
     ],
     1: [
         {"slug": "technology",            "nome": "Tecnologia",        "hora": "10"},
@@ -62,7 +62,7 @@ AGENDA_ROTATIVA = {
     ],
     5: [
         {"slug": "soccer",        "nome": "Futebol",         "hora": "10"},
-        {"slug": "sports",        "nome": "Desporto",        "hora": "11"},
+        {"slug": "sports",        "nome": "Esporte",         "hora": "11"},
         {"slug": "tennis",        "nome": "Tenis",           "hora": "12"},
         {"slug": "formula-1",     "nome": "Formula 1",       "hora": "13"},
         {"slug": "cycling",       "nome": "Ciclismo",        "hora": "14"},
@@ -87,8 +87,6 @@ UNSPLASH_QUERY = {
     "well-being":             "wellness meditation nature calm",
     "fitness":                "fitness gym workout exercise",
     "personal-development":   "success motivation growth mindset",
-    "motivational":           "inspiration sunrise achievement",
-    "beauty":                 "beauty skincare cosmetics elegance",
     "technology":             "technology computer innovation digital",
     "science":                "science laboratory research experiment",
     "innovation":             "innovation startup future technology",
@@ -125,6 +123,8 @@ UNSPLASH_QUERY = {
     "fashion":                "fashion style clothing runway model",
     "lifestyle":              "lifestyle city urban modern living",
     "news":                   "breaking news journalism newspaper media",
+    "ufologia":               "ufo alien mystery space extraterrestrial",
+    "space-exploration":      "space rocket nasa astronaut cosmos exploration",
     "pets":                   "pets animals dog cat cute",
 }
 
