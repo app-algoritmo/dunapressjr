@@ -12,67 +12,67 @@ GITHUB_REPO    = "app-algoritmo/dunapressjr"
 SITE_BASE_URL  = "https://dunapress.org"
 FROM_EMAIL     = "Duna Press <newsletter@dunapress.org>"
 
-ORCAMENTO_MENSAL_USD   = 2.00
+ORCAMENTO_MENSAL_USD   = 4.00
 PRECO_INPUT_POR_TOKEN  = 1.50 / 1_000_000
 PRECO_OUTPUT_POR_TOKEN = 7.50 / 1_000_000
 FICHEIRO_GASTOS = "/tmp/dunapress_gastos.json"
 AUTOR = "Duna Press Redacao"
 
-# ── AGENDA: horas UTC 10-15 (igual ao publicar.yml) ──
+# ── AGENDA SEMANAL: horas UTC 10-15 ──
 AGENDA_ROTATIVA = {
-    0: [
+    0: [  # Segunda
         {"slug": "health",               "nome": "Saude",                   "hora": "10"},
-        {"slug": "well-being",           "nome": "Bem-Estar",               "hora": "11"},
-        {"slug": "fitness",              "nome": "Fitness",                 "hora": "12"},
+        {"slug": "saude-mental",         "nome": "Saude Mental",            "hora": "11"},
+        {"slug": "psicologia",           "nome": "Psicologia",              "hora": "12"},
         {"slug": "personal-development", "nome": "Desenvolvimento Pessoal", "hora": "13"},
         {"slug": "space-exploration",    "nome": "Exploracao Espacial",     "hora": "14"},
         {"slug": "ufologia",             "nome": "Ufologia",                "hora": "15"},
     ],
-    1: [
-        {"slug": "technology",            "nome": "Tecnologia",        "hora": "10"},
-        {"slug": "science",               "nome": "Ciencia",           "hora": "11"},
-        {"slug": "innovation",            "nome": "Inovacao",          "hora": "12"},
-        {"slug": "future-and-innovation", "nome": "Futuro e Inovacao", "hora": "13"},
-        {"slug": "astronomy",             "nome": "Astronomia",        "hora": "14"},
-        {"slug": "e-auto",                "nome": "E-Auto",            "hora": "15"},
+    1: [  # Terça
+        {"slug": "technology",            "nome": "Tecnologia",             "hora": "10"},
+        {"slug": "inteligencia-artificial","nome": "Inteligencia Artificial","hora": "11"},
+        {"slug": "science",               "nome": "Ciencia",                "hora": "12"},
+        {"slug": "innovation",            "nome": "Inovacao",               "hora": "13"},
+        {"slug": "astronomy",             "nome": "Astronomia",             "hora": "14"},
+        {"slug": "energias-renovaveis",   "nome": "Energias Renovaveis",    "hora": "15"},
     ],
-    2: [
-        {"slug": "global-economy",       "nome": "Economia Global",     "hora": "10"},
-        {"slug": "business-and-economy", "nome": "Negocios e Economia", "hora": "11"},
-        {"slug": "finances",             "nome": "Financas",            "hora": "12"},
-        {"slug": "financial-education",  "nome": "Educacao Financeira", "hora": "13"},
-        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",    "hora": "14"},
-        {"slug": "courses-and-careers",  "nome": "Cursos e Carreiras",  "hora": "15"},
+    2: [  # Quarta
+        {"slug": "global-economy",       "nome": "Economia Global",         "hora": "10"},
+        {"slug": "economia-brasileira",  "nome": "Economia Brasileira",     "hora": "11"},
+        {"slug": "finances",             "nome": "Financas",                "hora": "12"},
+        {"slug": "financial-education",  "nome": "Educacao Financeira",     "hora": "13"},
+        {"slug": "entrepreneurship",     "nome": "Empreendedorismo",        "hora": "14"},
+        {"slug": "criptomoedas",         "nome": "Criptomoedas",            "hora": "15"},
     ],
-    3: [
-        {"slug": "geopolitics",           "nome": "Geopolitica",              "hora": "10"},
-        {"slug": "politics-and-society",  "nome": "Politica e Sociedade",     "hora": "11"},
-        {"slug": "international-affairs", "nome": "Assuntos Internacionais",  "hora": "12"},
-        {"slug": "military",              "nome": "Militar",                  "hora": "13"},
-        {"slug": "world-affairs",         "nome": "Assuntos Mundiais",        "hora": "14"},
-        {"slug": "global-affairs",        "nome": "Assuntos Globais",         "hora": "15"},
+    3: [  # Quinta
+        {"slug": "geopolitics",           "nome": "Geopolitica",            "hora": "10"},
+        {"slug": "geopolitica-brasil",    "nome": "Geopolitica Brasil",     "hora": "11"},
+        {"slug": "international-affairs", "nome": "Assuntos Internacionais","hora": "12"},
+        {"slug": "guerra-e-conflitos",    "nome": "Guerra e Conflitos",     "hora": "13"},
+        {"slug": "politics-and-society",  "nome": "Politica e Sociedade",   "hora": "14"},
+        {"slug": "military",              "nome": "Militar",                "hora": "15"},
     ],
-    4: [
-        {"slug": "culture-and-history", "nome": "Cultura e Historia", "hora": "10"},
-        {"slug": "history",             "nome": "Historia",           "hora": "11"},
-        {"slug": "literature",          "nome": "Literatura",         "hora": "12"},
-        {"slug": "music",               "nome": "Musica",             "hora": "13"},
-        {"slug": "philosophy",          "nome": "Filosofia",          "hora": "14"},
-        {"slug": "education",           "nome": "Educacao",           "hora": "15"},
+    4: [  # Sexta
+        {"slug": "culture-and-history", "nome": "Cultura e Historia",      "hora": "10"},
+        {"slug": "history",             "nome": "Historia",                 "hora": "11"},
+        {"slug": "arqueologia",         "nome": "Arqueologia",              "hora": "12"},
+        {"slug": "literature",          "nome": "Literatura",               "hora": "13"},
+        {"slug": "philosophy",          "nome": "Filosofia",                "hora": "14"},
+        {"slug": "education",           "nome": "Educacao",                 "hora": "15"},
     ],
-    5: [
-        {"slug": "soccer",        "nome": "Futebol",         "hora": "10"},
-        {"slug": "sports",        "nome": "Esporte",         "hora": "11"},
-        {"slug": "tennis",        "nome": "Tenis",           "hora": "12"},
-        {"slug": "formula-1",     "nome": "Formula 1",       "hora": "13"},
-        {"slug": "cycling",       "nome": "Ciclismo",        "hora": "14"},
-        {"slug": "olympic-games", "nome": "Jogos Olimpicos", "hora": "15"},
+    5: [  # Sábado
+        {"slug": "soccer",        "nome": "Futebol",          "hora": "10"},
+        {"slug": "sports",        "nome": "Esporte",          "hora": "11"},
+        {"slug": "tennis",        "nome": "Tenis",            "hora": "12"},
+        {"slug": "formula-1",     "nome": "Formula 1",        "hora": "13"},
+        {"slug": "cycling",       "nome": "Ciclismo",         "hora": "14"},
+        {"slug": "olympic-games", "nome": "Jogos Olimpicos",  "hora": "15"},
     ],
-    6: [
+    6: [  # Domingo
         {"slug": "environment",            "nome": "Meio Ambiente",         "hora": "10"},
         {"slug": "agriculture",            "nome": "Agricultura",           "hora": "11"},
-        {"slug": "tourism-and-gastronomy", "nome": "Turismo e Gastronomia", "hora": "12"},
-        {"slug": "fashion",                "nome": "Moda",                  "hora": "13"},
+        {"slug": "gastronomia",            "nome": "Gastronomia",           "hora": "12"},
+        {"slug": "tourism-and-gastronomy", "nome": "Turismo e Gastronomia", "hora": "13"},
         {"slug": "lifestyle",              "nome": "Estilo de Vida",        "hora": "14"},
         {"slug": "pets",                   "nome": "Animais de Estimacao",  "hora": "15"},
     ],
@@ -83,49 +83,49 @@ NOMES_DIAS  = ["Segunda", "Terca", "Quarta", "Quinta", "Sexta", "Sabado", "Domin
 
 # ── Query optimizada por categoria para o Unsplash ──
 UNSPLASH_QUERY = {
-    "health":                 "healthcare medical doctor hospital",
-    "well-being":             "wellness meditation nature calm",
-    "fitness":                "fitness gym workout exercise",
-    "personal-development":   "success motivation growth mindset",
-    "technology":             "technology computer innovation digital",
-    "science":                "science laboratory research experiment",
-    "innovation":             "innovation startup future technology",
-    "future-and-innovation":  "futuristic city technology artificial intelligence",
-    "astronomy":              "space stars galaxy universe cosmos",
-    "e-auto":                 "electric car vehicle sustainable transport",
-    "global-economy":         "economy finance stock market money",
-    "business-and-economy":   "business meeting corporate office",
-    "finances":               "finance investment banking money",
-    "financial-education":    "financial planning budget savings",
-    "entrepreneurship":       "entrepreneur startup business success",
-    "courses-and-careers":    "education career university graduation",
-    "geopolitics":            "world map politics diplomacy government",
-    "politics-and-society":   "politics government democracy society",
-    "international-affairs":  "united nations diplomacy world leaders",
-    "military":               "military army defense security",
-    "world-affairs":          "world globe international news",
-    "global-affairs":         "global world diplomacy international",
-    "culture-and-history":    "history museum culture heritage",
-    "history":                "history ancient architecture monument",
-    "literature":             "books library reading literature",
-    "music":                  "music concert stage performance",
-    "philosophy":             "philosophy thinking wisdom reflection",
-    "education":              "education school classroom learning",
-    "soccer":                 "soccer football stadium match",
-    "sports":                 "sport athlete competition stadium",
-    "tennis":                 "tennis court racket player",
-    "formula-1":              "formula 1 racing car speed motorsport",
-    "cycling":                "cycling bicycle race sport",
-    "olympic-games":          "olympic games athletes competition sport",
-    "environment":            "nature environment forest green ecology",
-    "agriculture":            "agriculture farm field harvest nature",
-    "tourism-and-gastronomy": "travel food gastronomy restaurant cuisine",
-    "fashion":                "fashion style clothing runway model",
-    "lifestyle":              "lifestyle city urban modern living",
-    "news":                   "breaking news journalism newspaper media",
-    "ufologia":               "ufo alien mystery space extraterrestrial",
-    "space-exploration":      "space rocket nasa astronaut cosmos exploration",
-    "pets":                   "pets animals dog cat cute",
+    "health":                  "healthcare medical doctor hospital",
+    "saude-mental":            "mental health therapy mind wellness",
+    "psicologia":              "psychology mind therapy human behavior",
+    "personal-development":    "success motivation growth mindset",
+    "space-exploration":       "space rocket nasa astronaut cosmos exploration",
+    "ufologia":                "ufo alien mystery space extraterrestrial",
+    "technology":              "technology computer innovation digital",
+    "inteligencia-artificial": "artificial intelligence robot machine learning",
+    "science":                 "science laboratory research experiment",
+    "innovation":              "innovation startup future technology",
+    "astronomy":               "space stars galaxy universe cosmos",
+    "energias-renovaveis":     "solar energy wind renewable sustainable",
+    "global-economy":          "economy finance stock market money",
+    "economia-brasileira":     "brazil economy business finance sao paulo",
+    "finances":                "finance investment banking money",
+    "financial-education":     "financial planning budget savings",
+    "entrepreneurship":        "entrepreneur startup business success",
+    "criptomoedas":            "bitcoin cryptocurrency blockchain digital currency",
+    "geopolitics":             "world map politics diplomacy government",
+    "geopolitica-brasil":      "brazil politics government brasilia",
+    "international-affairs":   "united nations diplomacy world leaders",
+    "guerra-e-conflitos":      "war conflict military battle soldiers",
+    "politics-and-society":    "politics government democracy society",
+    "military":                "military army defense security",
+    "culture-and-history":     "history museum culture heritage",
+    "history":                 "history ancient architecture monument",
+    "arqueologia":             "archaeology excavation ancient ruins artifacts",
+    "literature":              "books library reading literature",
+    "philosophy":              "philosophy thinking wisdom reflection",
+    "education":               "education school classroom learning",
+    "soccer":                  "soccer football stadium match",
+    "sports":                  "sport athlete competition stadium",
+    "tennis":                  "tennis court racket player",
+    "formula-1":               "formula 1 racing car speed motorsport",
+    "cycling":                 "cycling bicycle race sport",
+    "olympic-games":           "olympic games athletes competition sport",
+    "environment":             "nature environment forest green ecology",
+    "agriculture":             "agriculture farm field harvest nature",
+    "gastronomia":             "food gastronomy restaurant cuisine cooking",
+    "tourism-and-gastronomy":  "travel tourism destination landscape",
+    "lifestyle":               "lifestyle city urban modern living",
+    "pets":                    "pets animals dog cat cute",
+    "news":                    "breaking news journalism newspaper media",
 }
 
 
@@ -134,10 +134,9 @@ UNSPLASH_QUERY = {
 # ──────────────────────────────────────────────────────────────
 def buscar_subscribers():
     """
-    Devolve o grupo diário de subscribers (rotação semanal de 7 grupos).
-    Cada grupo tem ~1/7 dos subscribers activos (~71/dia).
-    Garante que cada pessoa recebe 1 email por semana e
-    mantém o total diário abaixo de 100 (limite Resend free).
+    Rotação semanal de 7 grupos (~74/dia).
+    Garante que cada pessoa recebe 1 email por semana
+    e mantém o total diário abaixo de 100 (limite Resend free).
     """
     if not SUPABASE_URL or not SUPABASE_KEY:
         print("  Supabase nao configurado — newsletter ignorada.")
@@ -158,9 +157,7 @@ def buscar_subscribers():
 
         todos = [row["email"] for row in res.json() if row.get("email")]
         total = len(todos)
-
-        # Divide em 7 grupos — hoje envia ao grupo do dia da semana
-        dia = datetime.now().weekday()  # 0=Segunda ... 6=Domingo
+        dia   = datetime.now().weekday()
         grupo = [todos[i] for i in range(total) if i % 7 == dia]
 
         print(f"  Subscribers activos: {total} | Grupo hoje (dia {dia}): {len(grupo)}")
@@ -228,13 +225,11 @@ def montar_email_html(artigo, caminho, imagem=None, email=""):
 
 
 def enviar_newsletter(artigo, caminho, imagem=None):
-    """Envia newsletter via Resend — só no primeiro artigo do dia (10:00 UTC)."""
+    """Envia newsletter via Resend — só às 10:00 UTC ou em dispatch manual."""
     if not RESEND_KEY:
         print("  RESEND_KEY nao configurada — newsletter ignorada.")
         return
 
-    # Só envia no primeiro artigo do dia (10:00 UTC)
-    # Excepção: dispatch manual (SCHEDULE vazio) envia sempre — para testes
     hora_alvo   = hora_alvo_do_schedule()
     hora_clock  = datetime.now().strftime("%H")
     hora_actual = hora_alvo or hora_clock
@@ -289,7 +284,6 @@ def enviar_newsletter(artigo, caminho, imagem=None):
 # NEWSAPI — notícia do dia
 # ──────────────────────────────────────────────────────────────
 def buscar_noticia_do_dia():
-    """Busca a manchete principal do dia via NewsAPI."""
     if not NEWSAPI_KEY:
         print("  NEWSAPI_KEY nao configurada — noticia ignorada.")
         return None
@@ -325,7 +319,6 @@ def buscar_noticia_do_dia():
 
 
 def gerar_artigo_noticia(noticia):
-    """Gera artigo completo baseado na noticia real via Claude Batch."""
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
     hoje   = datetime.now().strftime("%d/%m/%Y")
     prompt = (
@@ -378,7 +371,6 @@ def gerar_artigo_noticia(noticia):
 
 
 def publicar_noticia_do_dia():
-    """Busca noticia real, gera artigo e publica na categoria news."""
     print("\nPublicando: Noticia do Dia (news)")
     if not verificar_orcamento():
         return False
