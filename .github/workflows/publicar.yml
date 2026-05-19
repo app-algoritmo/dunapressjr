@@ -12,14 +12,13 @@ on:
       modo:
         description: >
           agendado | gastos | agenda | todos |
-          ou slug: health, well-being, fitness, personal-development, motivational, beauty,
-          technology, science, innovation, future-and-innovation, astronomy, e-auto,
-          global-economy, business-and-economy, finances, financial-education, entrepreneurship, courses-and-careers,
-          geopolitics, politics-and-society, international-affairs, military, world-affairs, global-affairs,
-          culture-and-history, history, literature, music, philosophy, education,
-          soccer, sports, tennis, formula-1, cycling, olympic-games,
-          environment, agriculture, tourism-and-gastronomy, fashion, lifestyle, pets,
-          ufologia, space-exploration
+          SEGUNDA: health, saude-mental, psicologia, personal-development, space-exploration, ufologia |
+          TERCA: technology, inteligencia-artificial, science, innovation, astronomy, energias-renovaveis |
+          QUARTA: global-economy, economia-brasileira, finances, financial-education, entrepreneurship, criptomoedas |
+          QUINTA: geopolitics, geopolitica-brasil, international-affairs, guerra-e-conflitos, politics-and-society, military |
+          SEXTA: culture-and-history, history, arqueologia, literature, philosophy, education |
+          SABADO: soccer, sports, tennis, formula-1, cycling, olympic-games |
+          DOMINGO: environment, agriculture, gastronomia, tourism-and-gastronomy, lifestyle, pets
         required: false
         default: 'agendado'
         type: string
