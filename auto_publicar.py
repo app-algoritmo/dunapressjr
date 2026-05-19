@@ -234,12 +234,18 @@ def enviar_newsletter(artigo, caminho, imagem=None):
         return
 
     # Só envia no primeiro artigo do dia (10:00 UTC)
-    hora_alvo  = hora_alvo_do_schedule()
-    hora_clock = datetime.now().strftime("%H")
+    # Excepção: dispatch manual (SCHEDULE vazio) envia sempre — para testes
+    hora_alvo   = hora_alvo_do_schedule()
+    hora_clock  = datetime.now().strftime("%H")
     hora_actual = hora_alvo or hora_clock
-    if hora_actual != "10":
+    is_manual   = not os.environ.get("SCHEDULE", "").strip()
+
+    if not is_manual and hora_actual != "10":
         print(f"  Newsletter: so enviada as 10:00 UTC (agora {hora_actual}:xx) — ignorada.")
         return
+
+    if is_manual:
+        print(f"  Newsletter: dispatch manual — enviando fora do horario ({hora_actual}:xx).")
 
     subscribers = buscar_subscribers()
     if not subscribers:
