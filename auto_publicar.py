@@ -1,18 +1,13 @@
 import anthropic, requests, json, re, os, sys, time, uuid, unicodedata
-import boto3
-from botocore.exceptions import ClientError
 from datetime import datetime
 
 ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_KEY", "")
 GITHUB_TOKEN   = os.environ.get("GITHUB_TOKEN", "")
 UNSPLASH_KEY   = os.environ.get("UNSPLASH_KEY", "")
-RESEND_KEY     = os.environ.get("RESEND_KEY", "")          # mantido mas nao usado
+RESEND_KEY     = os.environ.get("RESEND_KEY", "")
 NEWSAPI_KEY    = os.environ.get("NEWSAPI_KEY", "")
 SUPABASE_URL   = os.environ.get("SUPABASE_URL", "")
 SUPABASE_KEY   = os.environ.get("SUPABASE_KEY", "")
-AWS_ACCESS_KEY = os.environ.get("AWS_ACCESS_KEY_ID", "")
-AWS_SECRET_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY", "")
-AWS_REGION     = os.environ.get("AWS_REGION", "eu-north-1")
 GITHUB_REPO    = "app-algoritmo/dunapressjr"
 SITE_BASE_URL  = "https://dunapress.org"
 FROM_EMAIL     = "Duna Press <newsletter@dunapress.org>"
@@ -140,8 +135,9 @@ UNSPLASH_QUERY = {
 def buscar_subscribers():
     """
     Devolve o grupo diário de subscribers (rotação semanal de 7 grupos).
-    Cada grupo tem ~1/7 dos subscribers activos.
-    Garante que cada pessoa recebe 1 email por semana.
+    Cada grupo tem ~1/7 dos subscribers activos (~71/dia).
+    Garante que cada pessoa recebe 1 email por semana e
+    mantém o total diário abaixo de 100 (limite Resend free).
     """
     if not SUPABASE_URL or not SUPABASE_KEY:
         print("  Supabase nao configurado — newsletter ignorada.")
@@ -176,12 +172,11 @@ def buscar_subscribers():
 
 
 def montar_email_html(artigo, caminho, imagem=None, email=""):
-    titulo    = artigo.get("titulo", "Novo artigo")
-    resumo    = artigo.get("resumo", "")
-    categoria = artigo.get("categoria", "")
+    titulo     = artigo.get("titulo", "Novo artigo")
+    resumo     = artigo.get("resumo", "")
+    categoria  = artigo.get("categoria", "")
     artigo_url = f"{SITE_BASE_URL}/artigo.html?file=/{caminho}"
-    # FIX: URL de cancelamento com f-string correcta
-    unsub_url = f"https://dunapress.org/unsubscribe.html?email={email}"
+    unsub_url  = f"https://dunapress.org/unsubscribe.html?email={email}"
 
     img_html = ""
     if imagem and imagem.get("url"):
@@ -233,13 +228,13 @@ def montar_email_html(artigo, caminho, imagem=None, email=""):
 
 
 def enviar_newsletter(artigo, caminho, imagem=None):
-    """Envia newsletter via AWS SES — só no primeiro artigo do dia (10:00 UTC)."""
-    if not AWS_ACCESS_KEY or not AWS_SECRET_KEY:
-        print("  AWS credentials nao configuradas — newsletter ignorada.")
+    """Envia newsletter via Resend — só no primeiro artigo do dia (10:00 UTC)."""
+    if not RESEND_KEY:
+        print("  RESEND_KEY nao configurada — newsletter ignorada.")
         return
 
     # Só envia no primeiro artigo do dia (10:00 UTC)
-    hora_alvo = hora_alvo_do_schedule()
+    hora_alvo  = hora_alvo_do_schedule()
     hora_clock = datetime.now().strftime("%H")
     hora_actual = hora_alvo or hora_clock
     if hora_actual != "10":
@@ -251,55 +246,48 @@ def enviar_newsletter(artigo, caminho, imagem=None):
         print("  Sem subscribers activos — newsletter ignorada.")
         return
 
-    titulo = artigo.get("titulo", "Novo artigo na Duna Press")
-
-    ses = boto3.client(
-        "ses",
-        region_name=AWS_REGION,
-        aws_access_key_id=AWS_ACCESS_KEY,
-        aws_secret_access_key=AWS_SECRET_KEY
-    )
-
+    titulo   = artigo.get("titulo", "Novo artigo na Duna Press")
     enviados, erros = 0, 0
+
     for email in subscribers:
         html, _ = montar_email_html(artigo, caminho, imagem, email=email)
         try:
-            ses.send_email(
-                Source=FROM_EMAIL,
-                Destination={"ToAddresses": [email]},
-                Message={
-                    "Subject": {"Data": f"Duna Press: {titulo}", "Charset": "UTF-8"},
-                    "Body": {"Html": {"Data": html, "Charset": "UTF-8"}}
-                }
+            res = requests.post(
+                "https://api.resend.com/emails",
+                headers={
+                    "Authorization": f"Bearer {RESEND_KEY}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "from":    FROM_EMAIL,
+                    "to":      [email],
+                    "subject": f"Duna Press: {titulo}",
+                    "html":    html,
+                },
+                timeout=15
             )
-            enviados += 1
-        except ClientError as e:
-            print(f"  SES erro {email}: {e.response['Error']['Message'][:80]}")
-            erros += 1
+            if res.status_code in (200, 201):
+                enviados += 1
+            else:
+                print(f"  Resend erro {email}: {res.status_code} — {res.text[:80]}")
+                erros += 1
         except Exception as e:
-            print(f"  SES excepcao {email}: {e}")
+            print(f"  Resend excepcao {email}: {e}")
             erros += 1
-        time.sleep(0.1)  # respeita limite 10 emails/segundo do SES
+        time.sleep(0.2)
 
-    print(f"  Newsletter AWS SES: {enviados} enviados, {erros} erros.")
-
+    print(f"  Newsletter Resend: {enviados} enviados, {erros} erros.")
 
 
 # ──────────────────────────────────────────────────────────────
 # NEWSAPI — notícia do dia
 # ──────────────────────────────────────────────────────────────
-NEWSAPI_SOURCES = "bbc-news,cnn,reuters,associated-press,the-guardian-uk,globo,folha-de-sao-paulo"
-
 def buscar_noticia_do_dia():
-    """
-    Busca a manchete principal do dia via NewsAPI.
-    Devolve dict {title, description, url, source} ou None.
-    """
+    """Busca a manchete principal do dia via NewsAPI."""
     if not NEWSAPI_KEY:
         print("  NEWSAPI_KEY nao configurada — noticia ignorada.")
         return None
     try:
-        # Tenta primeiro notícias em português (Brasil)
         for params in [
             {"language": "pt", "pageSize": 1, "sortBy": "publishedAt"},
             {"language": "en", "pageSize": 1, "sortBy": "publishedAt",
@@ -393,7 +381,6 @@ def publicar_noticia_do_dia():
         return False
     try:
         artigo = gerar_artigo_noticia(noticia)
-        # Imagem optimizada para news
         imagem = buscar_imagem_unsplash(artigo.get("titulo", ""), "news")
         slug, caminho = salvar_local(artigo, "news", imagem)
         actualizar_search_index_local(artigo, caminho, "news", imagem)
@@ -403,6 +390,7 @@ def publicar_noticia_do_dia():
         print(f"  ERRO noticia: {e}")
         return False
 
+
 # ──────────────────────────────────────────────────────────────
 # UNSPLASH
 # ──────────────────────────────────────────────────────────────
@@ -410,8 +398,7 @@ def buscar_imagem_unsplash(titulo, categoria_slug):
     if not UNSPLASH_KEY:
         print("  UNSPLASH_KEY nao configurada — sem imagem.")
         return None
-    headers  = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
-    # Prioridade: query optimizada por categoria > palavras do título > slug
+    headers   = {"Authorization": f"Client-ID {UNSPLASH_KEY}"}
     query_cat = UNSPLASH_QUERY.get(categoria_slug, "")
     palavras  = " ".join(titulo.split()[:5])
     fallback  = categoria_slug.replace("-", " ")
