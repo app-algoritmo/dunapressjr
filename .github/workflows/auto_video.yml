@@ -40,8 +40,8 @@ jobs:
 
       - name: Publicar vídeo
         env:
-          ANTHROPIC_API_KEY:      ${{ secrets.ANTHROPIC_API_KEY }}
-          UNSPLASH_ACCESS_KEY:    ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          ANTHROPIC_KEY:          ${{ secrets.ANTHROPIC_KEY }}
+          UNSPLASH_KEY:           ${{ secrets.UNSPLASH_KEY }}
           ELEVENLABS_API_KEY:     ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID:    ${{ secrets.ELEVENLABS_VOICE_ID }}
           YOUTUBE_CLIENT_ID:      ${{ secrets.YOUTUBE_CLIENT_ID }}
