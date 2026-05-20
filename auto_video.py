@@ -46,7 +46,7 @@ def get_categoria():
 # ─── Gerar script com Claude ──────────────────────────────────────────────────
 
 def gerar_script(categoria):
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_KEY"])
 
     prompt = f"""Cria um script de narração em português do Brasil para um vídeo jornalístico de 3-5 minutos sobre {categoria}.
 
@@ -74,7 +74,7 @@ Tema: {categoria.upper()}
 # ─── Gerar título e descrição ─────────────────────────────────────────────────
 
 def gerar_metadados(script, categoria):
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_KEY"])
 
     prompt = f"""Com base neste script de vídeo sobre {categoria}, gera:
 1. Um título para YouTube (máx. 60 caracteres, jornalístico e chamativo)
@@ -136,7 +136,7 @@ def gerar_audio(script, output_path):
 # ─── Buscar imagens no Unsplash ───────────────────────────────────────────────
 
 def buscar_imagens(categoria, n=NUM_IMAGENS):
-    access_key = os.environ["UNSPLASH_ACCESS_KEY"]
+    access_key = os.environ["UNSPLASH_KEY"]
 
     # Query principal + query secundária para variedade
     urls = []
