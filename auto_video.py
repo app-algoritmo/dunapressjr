@@ -6,20 +6,21 @@ auto_video.py - Geração automática de vídeos para o canal YouTube do Duna Pr
 import os
 import sys
 import json
-import time
 import requests
 import tempfile
 import shutil
 from datetime import date
-from pathlib import Path
 
 import anthropic
-from moviepy.editor import (
-    ImageClip, AudioFileClip, concatenate_videoclips
-)
+import moviepy.video.io.ImageSequenceClip as ImageSequenceClip
+from moviepy.video.VideoClip import ImageClip
+from moviepy.audio.io.AudioFileClip import AudioFileClip
+from moviepy.video.compositing.concatenate import concatenate_videoclips
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
+from PIL import Image
+import numpy as np
 
 # ─── Configurações ────────────────────────────────────────────────────────────
 
@@ -34,7 +35,7 @@ CATEGORIAS = [
 VIDEO_WIDTH  = 1920
 VIDEO_HEIGHT = 1080
 FPS          = 24
-NUM_IMAGENS  = 12
+NUM_IMAGENS  = 15
 
 # ─── Categoria do dia ─────────────────────────────────────────────────────────
 
@@ -137,31 +138,54 @@ def gerar_audio(script, output_path):
 def buscar_imagens(categoria, n=NUM_IMAGENS):
     access_key = os.environ["UNSPLASH_ACCESS_KEY"]
 
-    url = "https://api.unsplash.com/photos/random"
-    params = {
-        "query": categoria,
-        "count": n,
-        "orientation": "landscape",
-        "client_id": access_key
-    }
+    # Query principal + query secundária para variedade
+    urls = []
+    metade = n // 2
 
-    response = requests.get(url, params=params)
-    response.raise_for_status()
+    for query in [categoria, f"{categoria} brasil"]:
+        params = {
+            "query": query,
+            "count": metade,
+            "orientation": "landscape",
+            "content_filter": "high",
+            "order_by": "relevant",
+            "client_id": access_key
+        }
+        response = requests.get("https://api.unsplash.com/photos/random", params=params)
+        response.raise_for_status()
+        urls += [foto["urls"]["full"] for foto in response.json()]
 
-    return [foto["urls"]["regular"] for foto in response.json()]
+    return urls[:n]
 
-# ─── Baixar imagens ───────────────────────────────────────────────────────────
+# ─── Baixar e redimensionar imagens ──────────────────────────────────────────
 
 def baixar_imagens(urls, pasta):
     caminhos = []
     for i, url in enumerate(urls):
         path = os.path.join(pasta, f"img_{i:03d}.jpg")
-        r = requests.get(url, timeout=30)
+        r = requests.get(url, timeout=60)
         r.raise_for_status()
-        with open(path, "wb") as f:
-            f.write(r.content)
+
+        # Redimensionar para 1920x1080 com crop central
+        img = Image.open(__import__("io").BytesIO(r.content)).convert("RGB")
+        img_ratio   = img.width / img.height
+        target_ratio = VIDEO_WIDTH / VIDEO_HEIGHT
+
+        if img_ratio > target_ratio:
+            new_h = VIDEO_HEIGHT
+            new_w = int(new_h * img_ratio)
+        else:
+            new_w = VIDEO_WIDTH
+            new_h = int(new_w / img_ratio)
+
+        img = img.resize((new_w, new_h), Image.LANCZOS)
+        left = (new_w - VIDEO_WIDTH)  // 2
+        top  = (new_h - VIDEO_HEIGHT) // 2
+        img  = img.crop((left, top, left + VIDEO_WIDTH, top + VIDEO_HEIGHT))
+        img.save(path, "JPEG", quality=95)
+
         caminhos.append(path)
-        print(f"  Imagem {i+1}/{len(urls)} baixada")
+        print(f"  Imagem {i+1}/{len(urls)} — {img.size}")
     return caminhos
 
 # ─── Montar vídeo com moviepy ─────────────────────────────────────────────────
@@ -172,13 +196,11 @@ def montar_video(imagens_paths, audio_path, output_path):
     n_imgs        = len(imagens_paths)
     duracao_img   = duracao_total / n_imgs
 
-    print(f"  Duração total: {duracao_total:.1f}s | {n_imgs} imagens | {duracao_img:.1f}s cada")
+    print(f"  Duração: {duracao_total:.1f}s | {n_imgs} imagens | {duracao_img:.1f}s/img")
 
     clips = []
     for path in imagens_paths:
-        clip = (ImageClip(path)
-                .set_duration(duracao_img)
-                .resize((VIDEO_WIDTH, VIDEO_HEIGHT)))
+        clip = ImageClip(path).set_duration(duracao_img)
         clips.append(clip)
 
     video = concatenate_videoclips(clips, method="compose")
@@ -189,7 +211,7 @@ def montar_video(imagens_paths, audio_path, output_path):
         fps=FPS,
         codec="libx264",
         audio_codec="aac",
-        temp_audiofile="temp_audio.m4a",
+        temp_audiofile=os.path.join(os.path.dirname(output_path), "temp_audio.m4a"),
         remove_temp=True,
         verbose=False,
         logger=None
@@ -227,7 +249,7 @@ def upload_youtube(video_path, titulo, descricao):
         video_path,
         mimetype="video/mp4",
         resumable=True,
-        chunksize=1024 * 1024 * 5  # 5MB chunks
+        chunksize=1024 * 1024 * 5
     )
 
     request  = youtube.videos().insert(
@@ -251,40 +273,34 @@ def upload_youtube(video_path, titulo, descricao):
 
 def main():
     categoria = get_categoria()
-    print(f"\n🎬 Duna Press Auto-Vídeo")
+    print(f"\n🎬 Duna Press Auto-Vídeo — @borealtimesPT")
     print(f"   Categoria: {categoria}")
 
     tmp = tempfile.mkdtemp()
 
     try:
-        # 1. Script
         print("\n📝 Gerando script...")
         script = gerar_script(categoria)
         print(f"   {len(script.split())} palavras")
 
-        # 2. Metadados
         print("\n🏷️  Gerando metadados...")
-        meta    = gerar_metadados(script, categoria)
-        titulo  = meta["titulo"]
+        meta      = gerar_metadados(script, categoria)
+        titulo    = meta["titulo"]
         descricao = meta["descricao"]
         print(f"   Título: {titulo}")
 
-        # 3. Áudio
         print("\n🎙️  Gerando áudio (ElevenLabs)...")
         audio_path = os.path.join(tmp, "narration.mp3")
         gerar_audio(script, audio_path)
 
-        # 4. Imagens
         print("\n🖼️  Buscando imagens (Unsplash)...")
         urls    = buscar_imagens(categoria)
         imagens = baixar_imagens(urls, tmp)
 
-        # 5. Vídeo
         print("\n🎞️  Montando vídeo (moviepy)...")
         video_path = os.path.join(tmp, "video.mp4")
         montar_video(imagens, audio_path, video_path)
 
-        # 6. Upload
         print("\n📤 Fazendo upload para YouTube...")
         video_id, url = upload_youtube(video_path, titulo, descricao)
 
@@ -293,6 +309,8 @@ def main():
 
     except Exception as e:
         print(f"\n❌ Erro: {e}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
 
     finally:
