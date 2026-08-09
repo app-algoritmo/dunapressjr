@@ -1,0 +1,30 @@
+---
+title: "Empresa de mobilidade urbana investe R$ 800 mil em tecnologia para aprimorar experiência do cliente"
+date: 2024-02-07
+status: publish
+author: milah44
+categories:
+  - E-auto
+  - Technology
+---
+
+## V1, empresa de locação e assinatura de carros pertencente ao grupo Águia Branca, transforma seu aplicativo e otimiza operações para proporcionar eficiência e disponibilidade da frota.
+
+Um ano desafiador e promissor se desenha para o segmento de locação, antecipa o diretor de negócios do V1, Leonardo Ballestrassi, sobre 2024. De acordo com a Associação Brasileira de Locadoras de Automóveis (Abla), as locadoras do país encerraram o ano de 2023 com uma frota de 1,56 milhão de veículos, representando um aumento significativo de 6,8%, o maior registrado na história do setor. Para 2024, a perspectiva é de um mercado complexo, porém favorável. Isso se deve à mudança cultural e de consumo, com uma crescente preferência pela economia compartilhada e pelo modelo de recorrência, priorizando o uso em detrimento da posse do automóvel. Os brasileiros já compreenderam as vantagens do aluguel e assinatura de carros, dispensando as preocupações e burocracias inerentes à compra de um veículo. Custos com documentação, manutenção, desvalorização e venda posterior não são mais encarados como obstáculos. “Não podemos mais chamar a locação e assinatura de veículos de uma mera tendência. É uma realidade que se fortalece a cada dia. Os consumidores brasileiros estão avaliando as despesas geradas pelo carro e optando por soluções mais simples e práticas. Agora, valorizamos mais a experiência de uso do que a posse do bem”, explica o diretor. 
+
+Para ampliar a performance positiva do setor, o V1, empresa de mobilidade urbana pertencente ao Grupo Águia Branca, está destinando um investimento significativo de R$ 800 mil.  O objetivo é impulsionar inovações tecnológicas, incluindo usabilidade, novas funcionalidades, maior ocupação, eficiência e melhor experiência para o cliente. Esses investimentos são justificados pelas positivas prospecções para o setor, visto que ainda há muito espaço para o crescimento da locação e assinatura de carros no Brasil. “Notamos que nossos clientes vêm descobrindo cada vez mais as vantagens da locação e da assinatura, como a garantia de manutenção e seguro, facilidade e rapidez no acesso ao automóvel, suporte 24h e taxas mais acessíveis do que a aquisição de um carro zero, que demanda um montante considerável quando pago à vista. Os investimentos nas melhorias visam aprimorar a experiência do cliente, facilitando o acesso ao veículo sem burocracia, com eficiência e agilidade ", complementa Leonardo. 
+
+**Melhorias operacionais e de atendimento**
+
+O serviço de aluguel 100% digital via aplicativo oferece agilidade e reduze as preocupações, atendendo às diversas necessidades dos usuários. Com a opção de locação de meia-diária, o consumidor ganha a liberdade de lidar com as demandas do dia a dia sem a obrigatoriedade de arcar com uma diária completa, o que é especialmente útil para compromissos em horário comercial. Por outro lado, as locações mais prolongadas são ideais para eventuais viagens de negócios e turismo. Ao encerrar o ano de 2023, o V1 alcançou excelentes resultados: registrou 17.997 aluguéis no Brasil, atendendo a uma base de 6.155 clientes. A expectativa de atendimento para o serviço de locação neste ano se aproxima da ocupação total das frotas. Com o objetivo de atender a essas crescentes demandas, a empresa fez um investimento significativo, quase atingindo a marca de R$ 1 milhão, em aperfeiçoamentos operacionais e na experiência do cliente. Esses aportes resultaram em maior eficiência e disponibilidade de frota. Dentre as melhorias já implementadas, destacam-se o cadastro e atualização da CNH para a digital, a melhoria na gestão das inspeções, que geram maior disponibilidade, análise de crédito automática e precificação inteligente.  Além do “Vou buscar Agora” funcionalidade em que o cliente retira na hora o veículo em uma estação V1.
+
+Ainda para o primeiro semestre deste ano, pretende-se complementar novos ganhos operacionais no aplicativo. “Nossa equipe já está em fase de teste de novas funcionalidades que pretendemos lançar assim que possível. Dentre elas, podemos citar a melhor experiência do usuário na hora da locação, inclusão de mais proteções, além do seguro do carro e terceiros. O serviço se mantém 100% digital, possibilitando locação em minutos, sem fila ou espera, como diferencial a autonomia do cliente em todo processo, desde checagem das condições do veículo, a identificação e prova de vida através do *facelink*. O desbloqueio do veículo alugado usando apenas o celular, pelo aplicativo do V1 segue sendo destaque” detalha a gerente comercial do V1 Aluguel de Carros, Thaís Augusta. Esses investimentos visam melhorar a eficiência operacional do sistema V1, gerando maior disponibilidade de frota, e a experiência do cliente, o que, por sua vez, se traduzirá em aumento na taxa de ocupação. 
+
+“Estamos projetando que 2024 será um ano desafiador para os modelos de negócio de locação e assinatura de veículos. A compra de carros no Brasil implica em arcar com juros altos, e não vislumbramos uma previsão de baixa desses encargos. Os brasileiros não querem comprometer-se com altos valores de entrada altos para adquirir um bem de uso contínuo que depreciará com o tempo. A locação e assinatura surgem como alternativas, permitindo usufruir de um veículo e da mobilidade urbana sem a necessidade de entrada, juros de financiamento e com a certeza de um investimento seguro. Nosso objetivo é proporcionar uma jornada cada vez mais descomplicada, sem burocracias, entregando uma experiência única”, finaliza o diretor de negócios do V1.  
+
+**MAIS INFORMAÇÕES / AGENDAMENTO DE ENTREVISTAS**
+Curitiba: + 55 41 3026-2610 | + 55 41 99273-8999
+São Paulo: + 55 11 94199-9379
+Londres: + 44 7379-138858
+[centralpress@centralpress.com.br](mailto:centralpress@centralpress.com.br)
+[www.centralpress.com.br](https://www.centralpress.com.br/)

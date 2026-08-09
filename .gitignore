@@ -1,0 +1,28 @@
+# Saída do build — reconstruída a cada publicação
+site/
+
+# Dados derivados: gerados por src/migrar.py e src/classificar.py
+dados/manifesto.json
+dados/*.map
+dados/wp-*.json
+dados/limpeza.json
+dados/noindex.txt
+dados/gone-410.txt
+
+# Exceções do Search Console são versionadas: representam decisão editorial
+!dados/excecoes.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# Segredos — nunca commitar
+.env
+*.key

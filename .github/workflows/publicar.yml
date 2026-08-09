@@ -1,0 +1,56 @@
+# Duna Press — publicação do jornal.
+# Reconstrói o site e envia para o Cloudflare Pages.
+
+name: Publicar
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'artigos/**'
+      - 'src/**'
+      - 'assets/**'
+      - 'editorial/**'
+  workflow_dispatch:
+
+concurrency:
+  group: publicar
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Migrar acervo
+        run: python3 src/migrar.py
+
+      - name: Classificar indexação
+        run: python3 src/classificar.py
+
+      - name: Gerar site
+        run: python3 src/gerar.py
+
+      - name: Conferir a saída
+        run: python3 tools/conferir_build.py
+
+      - name: Publicar
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=dunapress
+        env:
+          # Libera o teto de 100.000 arquivos nos planos pagos.
+          # No gratuito o limite fica em 20.000 e o deploy é recusado.
+          PAGES_WRANGLER_MAJOR_VERSION: "4"
+          WRANGLER_VERSION: "4.65.0"

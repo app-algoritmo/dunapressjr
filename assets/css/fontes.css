@@ -1,0 +1,46 @@
+/* Duna Press — fontes servidas do próprio domínio.
+   Motivo: corta uma conexão a servidor de terceiros (ganho de LCP) e evita
+   enviar IP do leitor ao Google, o que importa sob LGPD e GDPR.
+   Os .woff2 são baixados por tools/baixar_fontes.py e versionados no repo. */
+
+/* Spectral — manchetes */
+@font-face{
+  font-family:"Spectral";font-style:normal;font-weight:600;font-display:swap;
+  src:url("/assets/fonts/spectral-600.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Spectral";font-style:normal;font-weight:700;font-display:swap;
+  src:url("/assets/fonts/spectral-700.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Spectral";font-style:italic;font-weight:400;font-display:swap;
+  src:url("/assets/fonts/spectral-400i.woff2") format("woff2");
+}
+
+/* Source Serif 4 — corpo de texto */
+@font-face{
+  font-family:"Source Serif 4";font-style:normal;font-weight:400;
+  font-display:swap;src:url("/assets/fonts/source-serif-400.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Source Serif 4";font-style:normal;font-weight:600;
+  font-display:swap;src:url("/assets/fonts/source-serif-600.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Source Serif 4";font-style:italic;font-weight:400;
+  font-display:swap;src:url("/assets/fonts/source-serif-400i.woff2") format("woff2");
+}
+
+/* Libre Franklin — chapéu, assinatura, legenda */
+@font-face{
+  font-family:"Libre Franklin";font-style:normal;font-weight:400;
+  font-display:swap;src:url("/assets/fonts/libre-franklin-400.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Libre Franklin";font-style:normal;font-weight:600;
+  font-display:swap;src:url("/assets/fonts/libre-franklin-600.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Libre Franklin";font-style:normal;font-weight:700;
+  font-display:swap;src:url("/assets/fonts/libre-franklin-700.woff2") format("woff2");
+}

@@ -1,0 +1,5 @@
+# O pipeline roda só com a biblioteca padrão do Python 3.12.
+# Nenhuma dependência externa é necessária para gerar o jornal.
+#
+# Isso é deliberado: menos dependência, menos superfície de quebra num
+# build que precisa rodar todo dia sem supervisão.

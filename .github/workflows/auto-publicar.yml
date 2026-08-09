@@ -1,0 +1,56 @@
+# Duna Press — publicação automática de Brasil e Mundo.
+#
+# Roda sozinho, sem revisão humana prévia. As barreiras estão em
+# src/auto_publicar.py: fonte real buscada na hora, verificação de cada
+# afirmação contra a fonte, recusa de texto que só reescreve o original, e
+# conferência de forma. Nada disso substitui julgamento editorial sobre
+# relevância — por isso o volume é baixo e tudo entra em fila de conferência.
+
+name: Publicar automático
+
+on:
+  schedule:
+    # 09h, 14h e 18h de Brasília (UTC-3)
+    - cron: '0 12,17,21 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      secao:
+        description: 'nacional, internacional ou ambos'
+        required: false
+        default: 'ambos'
+
+concurrency:
+  group: auto-publicar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Identificar o autor dos commits
+        run: |
+          git config user.name  "Duna Press (automático)"
+          git config user.email "redacao@dunapress.org"
+
+      - name: Publicar
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DP_TETO_AUTO: '4'
+        run: |
+          if [ "${{ inputs.secao }}" = "ambos" ] || [ -z "${{ inputs.secao }}" ]; then
+            python3 src/auto_publicar.py
+          else
+            python3 src/auto_publicar.py --so "${{ inputs.secao }}"
+          fi

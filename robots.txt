@@ -1,0 +1,26 @@
+# Duna Press
+
+User-agent: *
+Allow: /
+
+# Rascunhos e ferramentas internas
+Disallow: /rascunhos/
+Disallow: /api/busca.json
+
+# Busca com parâmetro gera infinitas combinações sem valor de índice
+Disallow: /busca/?
+Disallow: /*?utm_
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://dunapress.org/sitemap.xml

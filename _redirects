@@ -1,0 +1,25 @@
+# Duna Press — redirecionamentos do Cloudflare Pages.
+#
+# O permalink /AAAA/MM/DD/slug/ é o mesmo da era WordPress: aquelas URLs
+# voltam a funcionar sozinhas, sem regra nenhuma. Sobraram só estes dois
+# formatos, dos anos em que o site rodou como página estática com JavaScript.
+#
+# Um bloco maior, gerado por src/migrar.py, fica em dados/redirects.map.
+# O limite do _redirects é 2.000 regras; se passar disso, use o Worker em
+# tools/worker-redirects.js.
+
+# Páginas institucionais renomeadas para português
+/about.html            /quem-somos/       301
+/contato.html          /contato/          301
+/privacy-policy.html   /privacidade/      301
+/terms-of-use.html     /termos/           301
+/cookie-notice.html    /cookies/          301
+
+# Páginas que deixaram de existir
+/admin.html            /                  301
+/assinatura.html       /newsletter/       301
+/biblioteca.html       /cultura/          301
+/escola.html           /brasil/           301
+
+# Categorias antigas → 9 editorias
+/categoria.html        /                  301

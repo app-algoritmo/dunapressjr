@@ -1,0 +1,35 @@
+# Duna Press — conferência de Pull Request.
+# Roda em toda proposta de matéria. Não publica nada: só verifica se o
+# build continua de pé e se o texto respeita a pauta editorial.
+
+name: Verificar
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Conferir a pauta nos artigos alterados
+        run: python3 tools/conferir_pauta.py
+
+      - name: Build de teste
+        run: |
+          python3 src/migrar.py
+          python3 src/classificar.py
+          python3 src/gerar.py
+
+      - name: Conferir a saída
+        run: python3 tools/conferir_build.py
